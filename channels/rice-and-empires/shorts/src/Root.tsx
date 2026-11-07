@@ -1,10 +1,14 @@
-import {Composition} from 'remotion';
+import {Composition, Still} from 'remotion';
+import {Avatar, Banner, BannerSafe} from './Brand';
 import {FPS, ListShort, totalFrames} from './ListShort';
 import s001 from './s001.json';
 import s001t from './s001.timeline.json';
 
 export const RemotionRoot: React.FC = () => (
   <>
+    <Still id="Avatar" component={Avatar} width={800} height={800} />
+    <Still id="Banner" component={Banner} width={2560} height={1440} />
+    <Still id="BannerSafe" component={BannerSafe} width={2560} height={1440} />
     <Composition
       id="S001"
       component={ListShort}
