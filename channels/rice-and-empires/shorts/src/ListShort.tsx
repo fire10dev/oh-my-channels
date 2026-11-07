@@ -64,7 +64,7 @@ const Card: React.FC<{scene: Scene; index: number; count: number; numbered: bool
       )}
       <div
         style={{
-          fontSize: isHook ? 170 : 92,
+          fontSize: isHook ? (Math.max(...scene.title.split(' ').map((w) => w.length)) > 7 ? 120 : 170) : 92,
           fontWeight: 800,
           lineHeight: 1.05,
           marginTop: 14,
