@@ -1,5 +1,7 @@
 # yt-channel-asia-history
 
+**Agents start here: `AGENTS.md` → `HANDOFF.md` → `docs/FACT-CHECK.md`.** Channel: https://www.youtube.com/@RiceAndEmpires
+
 English YouTube channel: objective history of Vietnam and Southeast Asia for foreign viewers.
 Pipeline: Claude (script) → TTS (Kokoro now, ElevenLabs later) → images (Nano Banana 2.1, AI Studio playground) → Remotion render.
 
