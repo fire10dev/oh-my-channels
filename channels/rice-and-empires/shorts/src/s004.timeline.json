@@ -1,0 +1,52 @@
+[
+ {
+  "id": "hook",
+  "file": "vo-00.wav",
+  "seconds": 11.05
+ },
+ {
+  "id": "s1",
+  "file": "vo-01.wav",
+  "seconds": 6.025
+ },
+ {
+  "id": "s2",
+  "file": "vo-02.wav",
+  "seconds": 10.5
+ },
+ {
+  "id": "s3",
+  "file": "vo-03.wav",
+  "seconds": 12.75
+ },
+ {
+  "id": "s4",
+  "file": "vo-04.wav",
+  "seconds": 8.5
+ },
+ {
+  "id": "s5",
+  "file": "vo-05.wav",
+  "seconds": 9.825
+ },
+ {
+  "id": "s6",
+  "file": "vo-06.wav",
+  "seconds": 10.1
+ },
+ {
+  "id": "s7",
+  "file": "vo-07.wav",
+  "seconds": 7.95
+ },
+ {
+  "id": "s8",
+  "file": "vo-08.wav",
+  "seconds": 9.3
+ },
+ {
+  "id": "outro",
+  "file": "vo-09.wav",
+  "seconds": 4.25
+ }
+]
