@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # Independent fact-check review of one script by Codex (read-only, live web search).
 # Usage: tools/codex_review.sh scripts/S002-*.md <round>
-# Output: docs/reviews/<id>-r<round>.md (committed; log stays in $TMPDIR). Exit 0 always; read the VERDICT line.
+# Output: docs/reviews/<id>-r<round>.md (committed; log stays in $TMPDIR). Exit 0 always.
+# Stdout: VERDICT + one line per 🔴/🟠 (Sev | Where | Fix). Open the file only when a fix needs the evidence.
 # Owner rule: Claude directs, Codex only checks historical facts, max 3 rounds per script.
 set -euo pipefail
 script="${1:?script path}"
@@ -37,4 +38,6 @@ EOF
 
 codex --search exec -s read-only --ephemeral -C "$repo" -o "$out" "$PROMPT" </dev/null >/dev/null 2>"$log" || true
 echo "$out"
-head -1 "$out" 2>/dev/null || echo "VERDICT: ERROR (see $log)"
+head -1 "$out" 2>/dev/null || { echo "VERDICT: ERROR (see $log)"; exit 0; }
+# Compact view for the agent (saves tokens): only 🔴/🟠 rows → "Sev | Where | Fix" (Problem/Evidence stay in the file).
+awk -F'|' '/^\|[[:space:]]*(🔴|🟠)/{w=$3; f=$6; gsub(/^ +| +$/,"",w); gsub(/^ +| +$/,"",f); print $2 "| " w " | " substr(f,1,220)}' "$out"
