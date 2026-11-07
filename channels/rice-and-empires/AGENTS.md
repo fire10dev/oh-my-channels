@@ -25,6 +25,11 @@ Background research and decisions: `docs/research/` (snapshots from the owner's 
   content also deleted the Brand Account "Rice & Empires"; restored via `myaccount.google.com/brandaccounts?sf=1`. See research note §2e.)
 - **No invented history.** `docs/FACT-CHECK.md` is mandatory: claim table with sources *before* narration. Unsure → mark it, don't smooth it over.
 - Prefer local tools; scratch files in a temp dir, not in the repo. Do not commit `shorts/out/` (renders) or narration wav (regenerated).
+- **Heavy output never goes to git** (owner 2026-11-07): images/audio/video for S002+ live in git-ignored `shorts/public/sNNN/`,
+  `shorts/public/bgm/`, `shorts/out/`. Git gets only md, json, code, review logs. Image prompts are kept in the script md.
+- **Overnight runs** (owner 2026-11-07): no subagents; no wasted tokens; work sequentially until 5h limit / owner says stop / queue done.
+  Claude directs; Codex (`tools/codex_review.sh <script> <round>`) only fact-checks, **max 3 rounds**; 🔴 left after round 3 → cut or hedge.
+- **Length & pace**: Shorts length follows content (≤ 3 min = YouTube Shorts limit). Kokoro speed 1.0, target ≤ 160 wpm, never rushed.
 
 ## 3. Brand (fixed) vs style (rotates)
 - Fixed: name, avatar (Dong Son drum star, gold on lacquer black — **no red center**: red + gold star reads as a national flag),

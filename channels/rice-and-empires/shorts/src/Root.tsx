@@ -3,6 +3,8 @@ import {Avatar, Banner, BannerSafe} from './Brand';
 import {FPS, ListShort, totalFrames} from './ListShort';
 import s001 from './s001.json';
 import s001t from './s001.timeline.json';
+import s002 from './s002.json';
+import s002t from './s002.timeline.json';
 
 export const RemotionRoot: React.FC = () => (
   <>
@@ -17,6 +19,15 @@ export const RemotionRoot: React.FC = () => (
       height={1920}
       fps={FPS}
       durationInFrames={totalFrames(s001t)}
+    />
+    <Composition
+      id="S002"
+      component={ListShort}
+      defaultProps={{scenes: s002, timeline: s002t, dir: 's002', bgm: 'bgm/ambient.mp3', bgmVolume: 0.12, numbered: false}}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={totalFrames(s002t)}
     />
   </>
 );

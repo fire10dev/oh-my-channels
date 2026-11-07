@@ -45,14 +45,15 @@ const Background: React.FC<{src: string; frames: number; fadeIn: boolean}> = ({s
   );
 };
 
-const Card: React.FC<{scene: Scene; index: number; count: number}> = ({scene, index, count}) => {
+const Card: React.FC<{scene: Scene; index: number; count: number; numbered: boolean}> = ({scene, index, count, numbered}) => {
   const f = useCurrentFrame();
   const {fps} = useVideoConfig();
   const pop = spring({frame: f - 2, fps, config: {damping: 12, stiffness: 160}});
   const rise = spring({frame: f - 5, fps, config: {damping: 18}});
   const isHook = scene.id === 'hook';
   const isOutro = scene.id === 'outro';
-  const num = !isHook && !isOutro ? index : null;
+  const num = numbered && !isHook && !isOutro ? index : null;
+  const long = (scene.sub?.length ?? 0) > 90; // narrative captions: smaller text
   return (
     <AbsoluteFill style={{fontFamily, color: 'white', padding: '0 90px', justifyContent: 'flex-end', paddingBottom: 470}}>
       {num !== null && (
@@ -76,7 +77,7 @@ const Card: React.FC<{scene: Scene; index: number; count: number}> = ({scene, in
         {scene.title}
       </div>
       {scene.sub && (
-        <div style={{fontSize: 56, fontWeight: 600, marginTop: 18, opacity: rise, color: 'rgba(255,255,255,0.9)', textShadow: '0 3px 14px rgba(0,0,0,0.6)'}}>
+        <div style={{fontSize: long ? 50 : 56, lineHeight: 1.25, fontWeight: 600, marginTop: 18, opacity: rise, color: 'rgba(255,255,255,0.9)', textShadow: '0 3px 14px rgba(0,0,0,0.6)'}}>
           {scene.sub}
         </div>
       )}
@@ -92,7 +93,14 @@ const Progress: React.FC<{active: number; count: number}> = ({active, count}) =>
   </AbsoluteFill>
 );
 
-export const ListShort: React.FC<{scenes: Scene[]; timeline: Timed[]; dir: string; bgm?: string}> = ({scenes, timeline, dir, bgm}) => {
+export const ListShort: React.FC<{scenes: Scene[]; timeline: Timed[]; dir: string; bgm?: string; numbered?: boolean; bgmVolume?: number}> = ({
+  scenes,
+  timeline,
+  dir,
+  bgm,
+  numbered = true,
+  bgmVolume = 0.07,
+}) => {
   const slots = layout(timeline);
   const count = scenes.filter((s) => s.id !== 'hook' && s.id !== 'outro').length;
   return (
@@ -110,14 +118,14 @@ export const ListShort: React.FC<{scenes: Scene[]; timeline: Timed[]; dir: strin
         const {from, frames} = slots[i];
         return (
           <Sequence key={`c-${s.id}`} from={from} durationInFrames={frames}>
-            <Card scene={s} index={i} count={count} />
+            <Card scene={s} index={i} count={count} numbered={numbered} />
             {s.id !== 'hook' && s.id !== 'outro' && <Progress active={i} count={count} />}
             <Audio src={staticFile(`${dir}/${timeline[i].file}`)} />
             {i > 0 && <Audio src={staticFile('sfx/swoosh-quick.mp3')} volume={0.25} />}
           </Sequence>
         );
       })}
-      {bgm && <Audio src={staticFile(bgm)} volume={0.07} />}
+      {bgm && <Audio src={staticFile(bgm)} volume={bgmVolume} loop />}
     </AbsoluteFill>
   );
 };
