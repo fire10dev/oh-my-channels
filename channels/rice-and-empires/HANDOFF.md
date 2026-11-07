@@ -1,4 +1,4 @@
-# HANDOFF — state at 2026-11-08 02:25 (+07), branch `night/2026-11-07`
+# HANDOFF — state at 2026-11-08 04:10 (+07), branch `night/2026-11-07`
 
 For a fresh Claude session (other account / other machine) continuing this work. Read `AGENTS.md` first (rules updated 2026-11-07 night).
 
@@ -18,7 +18,7 @@ Pipeline per video: research → script md (claim table + VI column) → `tools/
 | S009 Hội An / Phố Hiến | v4, r1–r3 | 86 s | Lite 1K | **not rendered** — 2/9 images (quota) |
 | S010 Mekong Delta | v4, r1–r3 | 94 s | Lite 1K | **not rendered** — 0/10 images (quota) |
 | S011 Đông Sơn drums | v4, r1–r3 | 78 s | Lite 1K | **not rendered** — 0/9 images (quota) |
-Image quota: Nano Banana 2.1 limited 23:59 and again 01:45 (after 2 images); Lite limited by 02:00. Retry images for S009–S011 when quota resets (prompts: `__Q` lists in this run, or each script md §Images).
+Image quota: Nano Banana 2.1 limited 23:59 and again 01:45 (after 2 images); Lite limited by 02:00. Still limited at 04:04 on both models → likely a daily quota. **Pending prompts: `tools/pending_images.json`** (27 images: S009 ×7, S010 ×10, S011 ×9, S006 img-02). Load as `window.__Q` with the helpers in `tools/aistudio_helpers.js`, then upload, `sips`, render S009–S011 (`npx remotion render src/index.ts S009 …` + loudnorm).
 
 No script reached Codex PASS: after round 3 the remaining 🔴 were fixed by cutting or hedging (owner rule). The final wording was **not** re-reviewed.
 

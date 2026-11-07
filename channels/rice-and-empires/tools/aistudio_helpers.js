@@ -6,3 +6,6 @@
 // 3) Export: top-level form POST multipart to tools/receive_images.py (127.0.0.1:8765/upload). An iframe target does NOT work (CSP).
 //    Navigation resets run settings → redo step 1 for the next video.
 // Images arrive as JPEG 1536x2752; tools resize with `sips -Z 2200`.
+// 4) Rate limit (2026-11-08): the error appears as a chat turn "You've reached your rate limit". Both 2.1 and Lite hit it;
+//    it did not clear within 4 h → treat as daily. A worker that retries must stop on it, not mark the item as timeout.
+// 5) Long chats (>20 turns) slow down / time out → open a new chat every ~15 images (navigation resets settings; save the queue in sessionStorage).
