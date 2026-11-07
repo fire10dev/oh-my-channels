@@ -26,6 +26,12 @@ import s008t from './s008.timeline.json';
 import s009 from './s009.json';
 import s009t from './s009.timeline.json';
 
+import s010 from './s010.json';
+import s010t from './s010.timeline.json';
+
+import s011 from './s011.json';
+import s011t from './s011.timeline.json';
+
 export const RemotionRoot: React.FC = () => (
   <>
     <Still id="Avatar" component={Avatar} width={800} height={800} />
@@ -111,6 +117,24 @@ export const RemotionRoot: React.FC = () => (
       height={1920}
       fps={FPS}
       durationInFrames={totalFrames(s009t)}
+    />
+    <Composition
+      id="S010"
+      component={ListShort}
+      defaultProps={{scenes: s010, timeline: s010t, dir: 's010', bgm: 'bgm/ambient.mp3', bgmVolume: 0.12, numbered: false}}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={totalFrames(s010t)}
+    />
+    <Composition
+      id="S011"
+      component={ListShort}
+      defaultProps={{scenes: s011, timeline: s011t, dir: 's011', bgm: 'bgm/ambient.mp3', bgmVolume: 0.12, numbered: false}}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={totalFrames(s011t)}
     />
   </>
 );

@@ -1,7 +1,7 @@
 # S011 — The bronze drums of Đông Sơn: what do they tell us? (Short 9:16, ~80 s)
 
 Status: **v1 — Codex review pending — owner review of VI column pending.** Style: **lacquer painting (sơn mài)**.
-Changelog: v1 2026-11-08 00:40 first draft. · v2 00:55 after Codex r1 (FAIL: 2 🔴 C2 sourcing, C7 nationality generalization): 1924 excavation, distribution narrowed, Calò and Han named.
+Changelog: v1 2026-11-08 00:40 first draft. · v2 00:55 after Codex r1 (FAIL: 2 🔴 C2 sourcing, C7 nationality generalization): 1924 excavation, distribution narrowed, Calò and Han named. · v3 01:05 after Codex r2 (FAIL: 1 🔴 C4 count): count attributed (450+ in Yunnan + N. Vietnam), casting techniques, Calò/Dian wording. · v4 01:15 after Codex r3 (FAIL: 2 🔴 C4 count, C3 size) — limit reached: count removed, \"a meter tall\", r3 wording applied. **No further Codex round.**
 (Channel avatar is a Đông Sơn drum star — this video explains it.)
 
 ## Framing decision
@@ -12,13 +12,13 @@ Changelog: v1 2026-11-08 00:40 first draft. · v2 00:55 after Codex r1 (FAIL: 2 
 | # | Title | EN narration / caption | Claims | VI (để duyệt) |
 |---|---|---|---|---|
 | hook | THE DRUM | This star is from a bronze drum made over two thousand years ago. It is also the logo of this channel. Here is what we know about it. | C1 | Ngôi sao này lấy từ một chiếc trống đồng đúc cách đây hơn hai nghìn năm. Nó cũng là biểu tượng của kênh này. Đây là những gì ta biết về nó. |
-| 1 | ĐÔNG SƠN | The drums are named after Đông Sơn, a site in Thanh Hóa province, northern Vietnam, where excavations began in 1924. | C2 | Trống được đặt theo tên Đông Sơn, một địa điểm ở tỉnh Thanh Hóa, miền Bắc Việt Nam, nơi khai quật bắt đầu từ năm 1924. |
-| 2 | LOST WAX | They were cast in bronze, many with the lost-wax method. Some are around a meter wide. | C3 | Trống được đúc bằng đồng, nhiều chiếc theo kỹ thuật khuôn sáp. Có chiếc rộng khoảng một mét. |
-| 3 | A WIDE WORLD | More than two hundred Đông Sơn drums have been reported in Vietnam, and related drums are found across Southeast Asia. Their spread reflects contact and exchange across the region. | C4 | Hơn hai trăm trống Đông Sơn đã được ghi nhận ở Việt Nam, và các trống cùng loại có mặt khắp Đông Nam Á. Sự phân bố đó phản ánh giao lưu, trao đổi trong khu vực. |
+| 1 | ĐÔNG SƠN | The drums are named after Đông Sơn, a site in Thanh Hóa province, northern Vietnam, where drums were first excavated in 1924. | C2 | Trống được đặt theo tên Đông Sơn, một địa điểm ở tỉnh Thanh Hóa, miền Bắc Việt Nam, nơi trống được khai quật lần đầu năm 1924. |
+| 2 | LOST WAX | They were cast in bronze, with techniques that included lost-wax and piece-mold casting. Some stand around a meter tall. | C3 | Trống được đúc bằng đồng, với các kỹ thuật gồm khuôn sáp và khuôn ghép. Có chiếc cao khoảng một mét. |
+| 3 | A WIDE WORLD | Bronze drums have been found from southern China across mainland and island Southeast Asia. Their spread suggests contact and exchange. | C4 | Trống đồng được tìm thấy từ miền nam Trung Quốc đến khắp Đông Nam Á lục địa và hải đảo. Sự phân bố đó cho thấy giao lưu, trao đổi. |
 | 4 | WHAT'S ON IT | On some drums, the decorations show birds, boats, stilt houses, and figures wearing feathered headdresses. | C5 | Trên một số trống có hình chim, thuyền, nhà sàn, và người đội mũ lông chim. |
 | 5 | WHAT FOR? | Their exact role is still uncertain. Some were found in burials, and scholars suggest ceremonial or status-related uses. | C6 | Vai trò chính xác của trống vẫn chưa rõ. Một số được tìm thấy trong mộ táng, và giới học giả cho rằng trống dùng trong nghi lễ hoặc biểu thị địa vị. |
-| 6 | WHO MADE THEM? | Their origins are debated. Archaeologist Ambra Calò argues the early decorated drums were made in northern Vietnam and nearby areas. Bronze drum traditions also developed in Yunnan, in southern China. | C7 | Nguồn gốc trống vẫn còn tranh luận. Nhà khảo cổ Ambra Calò cho rằng những trống có hoa văn sớm được đúc ở miền Bắc Việt Nam và vùng lân cận. Truyền thống trống đồng cũng phát triển ở Vân Nam, miền nam Trung Quốc. |
-| 7 | BEYOND BORDERS | Historian Han Xiaorong argues that modern nationalism shaped this debate. The drums themselves are far older than the modern states of Vietnam and China. | C8 | Sử gia Han Xiaorong cho rằng chủ nghĩa dân tộc hiện đại đã chi phối cuộc tranh luận này. Còn bản thân những chiếc trống thì cổ hơn rất nhiều so với nhà nước Việt Nam và Trung Quốc hiện đại. |
+| 6 | WHO MADE THEM? | Their origins are debated. Archaeologist Ambra Calò identifies northern Vietnam as a production center. Other scholarship points to Yunnan, where the Dian culture also made bronze drums. | C7 | Nguồn gốc trống vẫn còn tranh luận. Nhà khảo cổ Ambra Calò xác định miền Bắc Việt Nam là một trung tâm sản xuất. Những nghiên cứu khác chỉ về Vân Nam, nơi văn hóa Điền cũng làm trống đồng. |
+| 7 | BEYOND BORDERS | Historian Han Xiaorong argues that nationalism and international politics shaped this debate. The drums themselves date from long before modern borders. | C8 | Sử gia Han Xiaorong cho rằng chủ nghĩa dân tộc và chính trị quốc tế đã chi phối cuộc tranh luận này. Còn bản thân những chiếc trống có từ rất lâu trước khi có biên giới hiện đại. |
 | outro | RICE & EMPIRES | Old objects. New arguments. Follow for more. | — (summary) | Cổ vật thì cũ. Tranh luận thì mới. Theo dõi để xem thêm. |
 
 ## Claims (round 1)
