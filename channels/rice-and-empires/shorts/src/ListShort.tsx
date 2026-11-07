@@ -40,7 +40,7 @@ const Background: React.FC<{src: string; frames: number; fadeIn: boolean}> = ({s
   return (
     <AbsoluteFill style={{opacity}}>
       <Img src={staticFile(src)} style={{width: '100%', height: '100%', objectFit: 'cover', transform: `translateY(${y}px) scale(${scale})`}} />
-      <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0) 22%, rgba(0,0,0,0) 42%, rgba(10,6,2,0.82) 72%, rgba(10,6,2,0.9) 100%)'}} />
+      <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0) 22%, rgba(0,0,0,0) 38%, rgba(10,6,2,0.55) 52%, rgba(10,6,2,0.86) 70%, rgba(10,6,2,0.92) 100%)'}} />
     </AbsoluteFill>
   );
 };

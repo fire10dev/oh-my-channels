@@ -14,6 +14,18 @@ import s004t from './s004.timeline.json';
 import s005 from './s005.json';
 import s005t from './s005.timeline.json';
 
+import s006 from './s006.json';
+import s006t from './s006.timeline.json';
+
+import s007 from './s007.json';
+import s007t from './s007.timeline.json';
+
+import s008 from './s008.json';
+import s008t from './s008.timeline.json';
+
+import s009 from './s009.json';
+import s009t from './s009.timeline.json';
+
 export const RemotionRoot: React.FC = () => (
   <>
     <Still id="Avatar" component={Avatar} width={800} height={800} />
@@ -63,6 +75,42 @@ export const RemotionRoot: React.FC = () => (
       height={1920}
       fps={FPS}
       durationInFrames={totalFrames(s005t)}
+    />
+    <Composition
+      id="S006"
+      component={ListShort}
+      defaultProps={{scenes: s006, timeline: s006t, dir: 's006', bgm: 'bgm/ambient.mp3', bgmVolume: 0.12, numbered: false}}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={totalFrames(s006t)}
+    />
+    <Composition
+      id="S007"
+      component={ListShort}
+      defaultProps={{scenes: s007, timeline: s007t, dir: 's007', bgm: 'bgm/ambient.mp3', bgmVolume: 0.12, numbered: false}}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={totalFrames(s007t)}
+    />
+    <Composition
+      id="S008"
+      component={ListShort}
+      defaultProps={{scenes: s008, timeline: s008t, dir: 's008', bgm: 'bgm/ambient.mp3', bgmVolume: 0.12, numbered: false}}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={totalFrames(s008t)}
+    />
+    <Composition
+      id="S009"
+      component={ListShort}
+      defaultProps={{scenes: s009, timeline: s009t, dir: 's009', bgm: 'bgm/ambient.mp3', bgmVolume: 0.12, numbered: false}}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={totalFrames(s009t)}
     />
   </>
 );
