@@ -40,45 +40,48 @@ const Background: React.FC<{src: string; frames: number; fadeIn: boolean}> = ({s
   return (
     <AbsoluteFill style={{opacity}}>
       <Img src={staticFile(src)} style={{width: '100%', height: '100%', objectFit: 'cover', transform: `translateY(${y}px) scale(${scale})`}} />
-      <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0) 22%, rgba(0,0,0,0) 38%, rgba(10,6,2,0.55) 52%, rgba(10,6,2,0.86) 70%, rgba(10,6,2,0.92) 100%)'}} />
+      <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(10,6,2,0.8) 0%, rgba(10,6,2,0.55) 13%, rgba(10,6,2,0) 24%, rgba(0,0,0,0) 85%, rgba(0,0,0,0.25) 100%)'}} />
     </AbsoluteFill>
   );
 };
 
-const Card: React.FC<{scene: Scene; index: number; count: number; numbered: boolean}> = ({scene, index, count, numbered}) => {
+// Short caption chunks (≤ 6 words), timed by character share of the narration.
+const chunks = (text: string): string[] => {
+  const out: string[] = [];
+  for (const part of text.split(/(?<=[.?!;:,])\s+/)) {
+    const w = part.split(/\s+/).filter(Boolean);
+    const n = Math.ceil(w.length / 6);
+    const size = Math.ceil(w.length / n);
+    for (let i = 0; i < w.length; i += size) out.push(w.slice(i, i + size).join(' '));
+  }
+  return out;
+};
+
+const Card: React.FC<{scene: Scene; index: number; count: number; numbered: boolean; frames: number}> = ({scene, index, count, numbered, frames}) => {
   const f = useCurrentFrame();
   const {fps} = useVideoConfig();
-  const pop = spring({frame: f - 2, fps, config: {damping: 12, stiffness: 160}});
-  const rise = spring({frame: f - 5, fps, config: {damping: 18}});
+  const rise = spring({frame: f - 3, fps, config: {damping: 18}});
   const isHook = scene.id === 'hook';
   const isOutro = scene.id === 'outro';
   const num = numbered && !isHook && !isOutro ? index : null;
-  const long = (scene.sub?.length ?? 0) > 90; // narrative captions: smaller text
+  const parts = scene.sub ? chunks(scene.sub) : [];
+  const total = parts.reduce((t, c) => t + c.length + 4, 0);
+  const speak = Math.max(1, frames - 6);
+  let acc = 0;
+  let cur = parts.length - 1;
+  for (let i = 0; i < parts.length; i++) {
+    acc += parts[i].length + 4;
+    if (f < (acc / total) * speak) { cur = i; break; }
+  }
   return (
-    <AbsoluteFill style={{fontFamily, color: 'white', padding: '0 90px', justifyContent: 'flex-end', paddingBottom: 470}}>
-      {num !== null && (
-        <div style={{fontSize: 210, fontWeight: 800, color: '#FFC83D', lineHeight: 1, transform: `scale(${pop})`, transformOrigin: 'left bottom', textShadow: '0 6px 24px rgba(0,0,0,0.5)'}}>
-          {num}
-          <span style={{fontSize: 70, color: 'rgba(255,255,255,0.75)'}}> / {count}</span>
-        </div>
-      )}
-      <div
-        style={{
-          fontSize: isHook ? (Math.max(...scene.title.split(' ').map((w) => w.length)) > 7 ? 120 : 170) : 92,
-          fontWeight: 800,
-          lineHeight: 1.05,
-          marginTop: 14,
-          opacity: rise,
-          transform: `translateY(${(1 - rise) * 60}px)`,
-          textShadow: '0 4px 20px rgba(0,0,0,0.6)',
-          color: isHook ? '#FFC83D' : 'white',
-        }}
-      >
+    <AbsoluteFill style={{fontFamily, color: 'white', padding: '168px 90px 0', justifyContent: 'flex-start'}}>
+      <div style={{fontSize: isHook ? 64 : 44, fontWeight: 800, lineHeight: 1.1, opacity: rise, color: isHook ? '#FFC83D' : 'white', textShadow: '0 3px 14px rgba(0,0,0,0.6)'}}>
+        {num !== null && <span style={{color: '#FFC83D'}}>{num}/{count} · </span>}
         {scene.title}
       </div>
-      {scene.sub && (
-        <div style={{fontSize: long ? 50 : 56, lineHeight: 1.25, fontWeight: 600, marginTop: 18, opacity: rise, color: 'rgba(255,255,255,0.9)', textShadow: '0 3px 14px rgba(0,0,0,0.6)'}}>
-          {scene.sub}
+      {parts.length > 0 && (
+        <div style={{fontSize: 40, lineHeight: 1.25, fontWeight: 600, marginTop: 14, color: 'rgba(255,255,255,0.95)', textShadow: '0 2px 10px rgba(0,0,0,0.7)'}}>
+          {parts[cur]}
         </div>
       )}
     </AbsoluteFill>
@@ -86,7 +89,7 @@ const Card: React.FC<{scene: Scene; index: number; count: number; numbered: bool
 };
 
 const Progress: React.FC<{active: number; count: number}> = ({active, count}) => (
-  <AbsoluteFill style={{top: 250, height: 14, padding: '0 90px', flexDirection: 'row', gap: 10}}>
+  <AbsoluteFill style={{top: 130, height: 14, padding: '0 90px', flexDirection: 'row', gap: 10}}>
     {Array.from({length: count}, (_, i) => (
       <div key={i} style={{flex: 1, height: 10, borderRadius: 5, background: i < active ? '#FFC83D' : 'rgba(255,255,255,0.35)'}} />
     ))}
@@ -118,7 +121,7 @@ export const ListShort: React.FC<{scenes: Scene[]; timeline: Timed[]; dir: strin
         const {from, frames} = slots[i];
         return (
           <Sequence key={`c-${s.id}`} from={from} durationInFrames={frames}>
-            <Card scene={s} index={i} count={count} numbered={numbered} />
+            <Card scene={s} index={i} count={count} numbered={numbered} frames={frames} />
             {s.id !== 'hook' && s.id !== 'outro' && <Progress active={i} count={count} />}
             <Audio src={staticFile(`${dir}/${timeline[i].file}`)} />
             {i > 0 && <Audio src={staticFile('sfx/swoosh-quick.mp3')} volume={0.25} />}

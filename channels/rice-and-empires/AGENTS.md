@@ -65,6 +65,8 @@ Register each video in `shorts/src/Root.tsx`.
   Stylized illustrations + non-impersonating TTS → answer "Không", and state "Illustrations and narration are AI-assisted." in the description.
 - **Brand channel creation**: use "+ Tạo kênh" on `/channel_switcher` (dialog with name + handle). Opening `/create_channel?...` directly
   may auto-create a personal channel.
+- **Caption style** (owner 2026-11-08): captions at the TOP (progress bar 130 px, text 168 px), small (title 44 px, line 40 px),
+  narration shown as ≤ 6-word chunks timed by character share — never the full sentence; dark band only top 24%. Image must stay visible.
 - Remotion fonts download from Google Fonts at render time (needs network). Banner safe area: center 1546×423 of 2560×1440.
 
 ## 6. Done = 
