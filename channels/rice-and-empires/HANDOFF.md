@@ -2,21 +2,10 @@
 
 For a fresh Claude session (other account / other machine) continuing this work. Read `AGENTS.md` first (rules updated 2026-11-07 night).
 
-## ▶ Now (16:25 +07)
-- 2026-11-08 15:08–16:22: all 27 pending images generated (Nano Banana 2.1, 2K, ~1 min each in a fresh chat; batches of 8 per chat).
-  S009, S010, S011 rendered, S006 re-rendered. Contact sheets `shorts/out/*-sheet.jpg`. S007 re-rendered 16:35 with a new hook image (brush + pen on blank paper, no pseudo-text). Owner OK to publish all 5 (16:25).
-- **Upload blocked**: Chrome (Claude in Chrome) is signed into another Google account (VibeMusicMaker), built-in browser has no Studio access, files are 43–108 MB (> 10 MB extension limit) → owner opens Studio as `raiangich@gmail.com` and drags `shorts/out/S006-chinese-rule.mp4 S007-quoc-ngu.mp4 S009-hoi-an.mp4 S010-mekong-delta.mp4 S011-dong-son-drums.mp4`; agent fills details from each script md §Publishing. Old S007 draft in Studio → delete after the new one is up.
-- Worker fix: in AI Studio the image is not always in the LAST chat turn → detect any new blob image not seen before, not `turns.at(-1)`.
-- `scripts/L001-*.md` (history long video) and `scripts/L002-*.md` (S001 travel long version, off-niche): drafts, not rendered; no 16:9 composition yet.
-
-## ▶ Resume when image quota is back (saved 2026-11-08 12:00 +07)
-- Quota fact: one Google account ≈ **70 images / quota day** (34 × 2.1 2K + 36 × Lite 1K) ≈ 7 Shorts. Reset **confirmed** 00:00 PT = **15:00 +07** (2026-11-08: 2.1 at 2K worked again at 15:08).
-- Queue: `tools/pending_images.json` — 26 images still needed: S009 img-02..08 (7), S010 img-00..09 (10), S011 img-00..08 (9); plus S006 img-02 redo (fake map text) and S007 hook image redo.
-- How (no Playwright — Google blocks sign-in there): built-in browser → `aistudio.google.com/prompts/new_chat` → paste helpers from
-  `tools/aistudio_helpers.js` (worker + `window.__export()`), receiver `tools/.venv/bin/python tools/receive_images.py` (127.0.0.1:8765 → `$TMPDIR/stage`).
-  "Save in Google Drive" popup → *Cancel and use Temporary chat*. Quota hit shows as a toast "reached your quota for the day".
-- Then one command per video: `tools/make_short.sh s009 S009-hoi-an` · `s010 S010-mekong-delta` · `s011 S011-dong-son-drums` · `s006 S006-chinese-rule`; check `shorts/out/*-sheet.jpg`.
-- After that: S006 + S007 re-upload (owner OK needed), update the Published table.
+## ✅ Batch S002–S011 closed (2026-11-08 16:55 +07)
+All 10 history Shorts are public or scheduled (table below). Leftovers, not blocking: pinned comments; Codex fixes found in L001 for S004/S011
+wording (already published, fix only via Corrections section + pinned comment); upload API (`tools/upload/upload.mjs`) still needs the owner's OAuth client.
+Next batch: start a fresh session per video (AGENTS §7). Long videos L001/L002 are drafts (no 16:9 composition yet).
 
 ## Overnight run 2026-11-07 → 08 (owner: "tự động hoàn toàn xuyên đêm, sáng duyệt và đăng")
 Pipeline per video: research → script md (claim table + VI column) → `tools/codex_review.sh` (max 3 rounds, logs in `docs/reviews/`)
@@ -47,8 +36,12 @@ Settings for all: title/description from script md §Publishing, not made for ki
 | S004 Trưng Sisters | https://youtube.com/shorts/oViKnHeLCaM | Scheduled 11:00 |
 | S005 Angkor | https://youtube.com/shorts/9eNezUNTubY | Scheduled 13:00 |
 | S008 Quang Trung 1789 | https://youtube.com/shorts/9KENQcdwBMs | Scheduled 15:00 |
-| S007 Quốc ngữ | (draft, untitled) | Uploaded as **draft only** — owner: wait for new hook image; re-render, then delete this draft and upload the new file |
-S006 not uploaded (waits for img-02 regen). Pinned comments not posted yet.
+| S007 Quốc ngữ (re-render, new hook) | https://youtube.com/shorts/BxNNkeErLII | Scheduled 19:00 (old draft no longer in Studio) |
+| S006 "1,000 years of Chinese rule" | https://youtube.com/shorts/TnweYt2aK5A | Scheduled 17:00 |
+| S009 Hội An / Phố Hiến | https://youtube.com/shorts/vntG_p4F0Us | Scheduled 21:00 |
+| S010 Mekong Delta | https://youtube.com/shorts/H3CJOOVtNEQ | Scheduled 23:00 |
+| S011 Đông Sơn drums | https://youtube.com/shorts/ycLVE_TdzQc | Scheduled 2026-11-09 01:00 |
+Uploaded 16:40–16:55 via Claude in Chrome profile "YT" (owner dragged files). Pinned comments not posted yet.
 
 ## Known issues
 - AI Studio **Nano Banana 2.1 rate-limited** at ~23:59 after ~32 images → S005+ use Nano Banana 2 Lite (1K only, softer when zoomed).
