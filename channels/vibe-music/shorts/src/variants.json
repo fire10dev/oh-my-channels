@@ -1,0 +1,902 @@
+[
+  {
+    "vid": "A1-2",
+    "id": "A1",
+    "n": 2,
+    "hookStart": 53.0,
+    "layout": "full",
+    "caption": "POV: it's 2013 and the drop is about to hit",
+    "pan": 1
+  },
+  {
+    "vid": "A1-3",
+    "id": "A1",
+    "n": 3,
+    "hookStart": 78.0,
+    "layout": "detail",
+    "caption": "Night drive. Windows down. Volume up.",
+    "pan": -1
+  },
+  {
+    "vid": "A1-4",
+    "id": "A1",
+    "n": 4,
+    "hookStart": 98.0,
+    "layout": "still",
+    "caption": "Your sign to start the workout",
+    "pan": 1
+  },
+  {
+    "vid": "A1-5",
+    "id": "A1",
+    "n": 5,
+    "hookStart": 155.0,
+    "layout": "full",
+    "caption": "Main stage energy for your deadline",
+    "pan": -1
+  },
+  {
+    "vid": "A2-2",
+    "id": "A2",
+    "n": 2,
+    "hookStart": 23.0,
+    "layout": "full",
+    "caption": "Night drive. Windows down. Volume up.",
+    "pan": -1
+  },
+  {
+    "vid": "A2-3",
+    "id": "A2",
+    "n": 3,
+    "hookStart": 90.0,
+    "layout": "detail",
+    "caption": "Your sign to start the workout",
+    "pan": 1
+  },
+  {
+    "vid": "A2-4",
+    "id": "A2",
+    "n": 4,
+    "hookStart": 130.0,
+    "layout": "still",
+    "caption": "Main stage energy for your deadline",
+    "pan": -1
+  },
+  {
+    "vid": "A2-5",
+    "id": "A2",
+    "n": 5,
+    "hookStart": 150.0,
+    "layout": "full",
+    "caption": "POV: it's 2013 and the drop is about to hit",
+    "pan": 1
+  },
+  {
+    "vid": "A3-2",
+    "id": "A3",
+    "n": 2,
+    "hookStart": 23.0,
+    "layout": "full",
+    "caption": "Your sign to start the workout",
+    "pan": 1
+  },
+  {
+    "vid": "A3-3",
+    "id": "A3",
+    "n": 3,
+    "hookStart": 68.0,
+    "layout": "detail",
+    "caption": "Main stage energy for your deadline",
+    "pan": -1
+  },
+  {
+    "vid": "A3-4",
+    "id": "A3",
+    "n": 4,
+    "hookStart": 108.0,
+    "layout": "still",
+    "caption": "POV: it's 2013 and the drop is about to hit",
+    "pan": 1
+  },
+  {
+    "vid": "A4-2",
+    "id": "A4",
+    "n": 2,
+    "hookStart": 24.0,
+    "layout": "full",
+    "caption": "Main stage energy for your deadline",
+    "pan": -1
+  },
+  {
+    "vid": "A4-3",
+    "id": "A4",
+    "n": 3,
+    "hookStart": 49.0,
+    "layout": "detail",
+    "caption": "POV: it's 2013 and the drop is about to hit",
+    "pan": 1
+  },
+  {
+    "vid": "A4-4",
+    "id": "A4",
+    "n": 4,
+    "hookStart": 69.0,
+    "layout": "still",
+    "caption": "Night drive. Windows down. Volume up.",
+    "pan": -1
+  },
+  {
+    "vid": "A5-2",
+    "id": "A5",
+    "n": 2,
+    "hookStart": 13.0,
+    "layout": "full",
+    "caption": "POV: it's 2013 and the drop is about to hit",
+    "pan": 1
+  },
+  {
+    "vid": "A5-3",
+    "id": "A5",
+    "n": 3,
+    "hookStart": 33.0,
+    "layout": "detail",
+    "caption": "Night drive. Windows down. Volume up.",
+    "pan": -1
+  },
+  {
+    "vid": "A5-4",
+    "id": "A5",
+    "n": 4,
+    "hookStart": 123.0,
+    "layout": "still",
+    "caption": "Your sign to start the workout",
+    "pan": 1
+  },
+  {
+    "vid": "A5-5",
+    "id": "A5",
+    "n": 5,
+    "hookStart": 143.0,
+    "layout": "full",
+    "caption": "Main stage energy for your deadline",
+    "pan": -1
+  },
+  {
+    "vid": "B1-2",
+    "id": "B1",
+    "n": 2,
+    "hookStart": 42.0,
+    "layout": "full",
+    "caption": "A soft start for a slow morning",
+    "pan": -1
+  },
+  {
+    "vid": "B1-3",
+    "id": "B1",
+    "n": 3,
+    "hookStart": 62.0,
+    "layout": "detail",
+    "caption": "Window seat, sunlight, nowhere to be",
+    "pan": 1
+  },
+  {
+    "vid": "B1-4",
+    "id": "B1",
+    "n": 4,
+    "hookStart": 84.0,
+    "layout": "still",
+    "caption": "Play this while breakfast is cooking",
+    "pan": -1
+  },
+  {
+    "vid": "B1-5",
+    "id": "B1",
+    "n": 5,
+    "hookStart": 156.0,
+    "layout": "full",
+    "caption": "POV: first coffee, no notifications yet",
+    "pan": 1
+  },
+  {
+    "vid": "B2-2",
+    "id": "B2",
+    "n": 2,
+    "hookStart": 11.0,
+    "layout": "full",
+    "caption": "Window seat, sunlight, nowhere to be",
+    "pan": 1
+  },
+  {
+    "vid": "B2-3",
+    "id": "B2",
+    "n": 3,
+    "hookStart": 34.0,
+    "layout": "detail",
+    "caption": "Play this while breakfast is cooking",
+    "pan": -1
+  },
+  {
+    "vid": "B2-4",
+    "id": "B2",
+    "n": 4,
+    "hookStart": 124.0,
+    "layout": "still",
+    "caption": "POV: first coffee, no notifications yet",
+    "pan": 1
+  },
+  {
+    "vid": "B3-2",
+    "id": "B3",
+    "n": 2,
+    "hookStart": 17.0,
+    "layout": "full",
+    "caption": "Play this while breakfast is cooking",
+    "pan": -1
+  },
+  {
+    "vid": "B3-3",
+    "id": "B3",
+    "n": 3,
+    "hookStart": 54.0,
+    "layout": "detail",
+    "caption": "POV: first coffee, no notifications yet",
+    "pan": 1
+  },
+  {
+    "vid": "B3-4",
+    "id": "B3",
+    "n": 4,
+    "hookStart": 111.0,
+    "layout": "still",
+    "caption": "A soft start for a slow morning",
+    "pan": -1
+  },
+  {
+    "vid": "B4-2",
+    "id": "B4",
+    "n": 2,
+    "hookStart": 54.0,
+    "layout": "full",
+    "caption": "POV: first coffee, no notifications yet",
+    "pan": 1
+  },
+  {
+    "vid": "B4-3",
+    "id": "B4",
+    "n": 3,
+    "hookStart": 74.0,
+    "layout": "detail",
+    "caption": "A soft start for a slow morning",
+    "pan": -1
+  },
+  {
+    "vid": "B4-4",
+    "id": "B4",
+    "n": 4,
+    "hookStart": 127.0,
+    "layout": "still",
+    "caption": "Window seat, sunlight, nowhere to be",
+    "pan": 1
+  },
+  {
+    "vid": "B5-2",
+    "id": "B5",
+    "n": 2,
+    "hookStart": 10.0,
+    "layout": "full",
+    "caption": "A soft start for a slow morning",
+    "pan": -1
+  },
+  {
+    "vid": "B5-3",
+    "id": "B5",
+    "n": 3,
+    "hookStart": 105.0,
+    "layout": "detail",
+    "caption": "Window seat, sunlight, nowhere to be",
+    "pan": 1
+  },
+  {
+    "vid": "B5-4",
+    "id": "B5",
+    "n": 4,
+    "hookStart": 125.0,
+    "layout": "still",
+    "caption": "Play this while breakfast is cooking",
+    "pan": -1
+  },
+  {
+    "vid": "B5-5",
+    "id": "B5",
+    "n": 5,
+    "hookStart": 149.0,
+    "layout": "full",
+    "caption": "POV: first coffee, no notifications yet",
+    "pan": 1
+  },
+  {
+    "vid": "C1-2",
+    "id": "C1",
+    "n": 2,
+    "hookStart": 33.0,
+    "layout": "full",
+    "caption": "Sax, low lights, no rush",
+    "pan": 1
+  },
+  {
+    "vid": "C1-3",
+    "id": "C1",
+    "n": 3,
+    "hookStart": 60.0,
+    "layout": "detail",
+    "caption": "For a slow late evening",
+    "pan": -1
+  },
+  {
+    "vid": "C1-4",
+    "id": "C1",
+    "n": 4,
+    "hookStart": 96.0,
+    "layout": "still",
+    "caption": "POV: last table at the jazz bar",
+    "pan": 1
+  },
+  {
+    "vid": "C2-2",
+    "id": "C2",
+    "n": 2,
+    "hookStart": 27.0,
+    "layout": "full",
+    "caption": "For a slow late evening",
+    "pan": -1
+  },
+  {
+    "vid": "C2-3",
+    "id": "C2",
+    "n": 3,
+    "hookStart": 51.0,
+    "layout": "detail",
+    "caption": "POV: last table at the jazz bar",
+    "pan": 1
+  },
+  {
+    "vid": "C2-4",
+    "id": "C2",
+    "n": 4,
+    "hookStart": 96.0,
+    "layout": "still",
+    "caption": "Rain outside, red wine inside",
+    "pan": -1
+  },
+  {
+    "vid": "C2-5",
+    "id": "C2",
+    "n": 5,
+    "hookStart": 143.0,
+    "layout": "full",
+    "caption": "Sax, low lights, no rush",
+    "pan": 1
+  },
+  {
+    "vid": "C3-2",
+    "id": "C3",
+    "n": 2,
+    "hookStart": 12.0,
+    "layout": "full",
+    "caption": "POV: last table at the jazz bar",
+    "pan": 1
+  },
+  {
+    "vid": "C3-3",
+    "id": "C3",
+    "n": 3,
+    "hookStart": 46.0,
+    "layout": "detail",
+    "caption": "Rain outside, red wine inside",
+    "pan": -1
+  },
+  {
+    "vid": "C3-4",
+    "id": "C3",
+    "n": 4,
+    "hookStart": 66.0,
+    "layout": "still",
+    "caption": "Sax, low lights, no rush",
+    "pan": 1
+  },
+  {
+    "vid": "C3-5",
+    "id": "C3",
+    "n": 5,
+    "hookStart": 104.0,
+    "layout": "full",
+    "caption": "For a slow late evening",
+    "pan": -1
+  },
+  {
+    "vid": "C4-2",
+    "id": "C4",
+    "n": 2,
+    "hookStart": 33.0,
+    "layout": "full",
+    "caption": "Rain outside, red wine inside",
+    "pan": -1
+  },
+  {
+    "vid": "C4-3",
+    "id": "C4",
+    "n": 3,
+    "hookStart": 53.0,
+    "layout": "detail",
+    "caption": "Sax, low lights, no rush",
+    "pan": 1
+  },
+  {
+    "vid": "C4-4",
+    "id": "C4",
+    "n": 4,
+    "hookStart": 76.0,
+    "layout": "still",
+    "caption": "For a slow late evening",
+    "pan": -1
+  },
+  {
+    "vid": "C5-2",
+    "id": "C5",
+    "n": 2,
+    "hookStart": 12.0,
+    "layout": "full",
+    "caption": "Sax, low lights, no rush",
+    "pan": 1
+  },
+  {
+    "vid": "C5-3",
+    "id": "C5",
+    "n": 3,
+    "hookStart": 87.0,
+    "layout": "detail",
+    "caption": "For a slow late evening",
+    "pan": -1
+  },
+  {
+    "vid": "C5-4",
+    "id": "C5",
+    "n": 4,
+    "hookStart": 142.0,
+    "layout": "still",
+    "caption": "POV: last table at the jazz bar",
+    "pan": 1
+  },
+  {
+    "vid": "D1-2",
+    "id": "D1",
+    "n": 2,
+    "hookStart": 14.0,
+    "layout": "full",
+    "caption": "Coffee, code, repeat",
+    "pan": -1
+  },
+  {
+    "vid": "D1-3",
+    "id": "D1",
+    "n": 3,
+    "hookStart": 113.0,
+    "layout": "detail",
+    "caption": "POV: 2am and the bug finally makes sense",
+    "pan": 1
+  },
+  {
+    "vid": "D1-4",
+    "id": "D1",
+    "n": 4,
+    "hookStart": 147.0,
+    "layout": "still",
+    "caption": "Headphones on. Ship it.",
+    "pan": -1
+  },
+  {
+    "vid": "D2-2",
+    "id": "D2",
+    "n": 2,
+    "hookStart": 22.0,
+    "layout": "full",
+    "caption": "POV: 2am and the bug finally makes sense",
+    "pan": 1
+  },
+  {
+    "vid": "D2-3",
+    "id": "D2",
+    "n": 3,
+    "hookStart": 45.0,
+    "layout": "detail",
+    "caption": "Headphones on. Ship it.",
+    "pan": -1
+  },
+  {
+    "vid": "D2-4",
+    "id": "D2",
+    "n": 4,
+    "hookStart": 98.0,
+    "layout": "still",
+    "caption": "Lo-fi for the long debug session",
+    "pan": 1
+  },
+  {
+    "vid": "D2-5",
+    "id": "D2",
+    "n": 5,
+    "hookStart": 132.0,
+    "layout": "full",
+    "caption": "Coffee, code, repeat",
+    "pan": -1
+  },
+  {
+    "vid": "D3-2",
+    "id": "D3",
+    "n": 2,
+    "hookStart": 36.0,
+    "layout": "full",
+    "caption": "Headphones on. Ship it.",
+    "pan": -1
+  },
+  {
+    "vid": "D3-3",
+    "id": "D3",
+    "n": 3,
+    "hookStart": 62.0,
+    "layout": "detail",
+    "caption": "Lo-fi for the long debug session",
+    "pan": 1
+  },
+  {
+    "vid": "D3-4",
+    "id": "D3",
+    "n": 4,
+    "hookStart": 94.0,
+    "layout": "still",
+    "caption": "Coffee, code, repeat",
+    "pan": -1
+  },
+  {
+    "vid": "D4-2",
+    "id": "D4",
+    "n": 2,
+    "hookStart": 35.0,
+    "layout": "full",
+    "caption": "Lo-fi for the long debug session",
+    "pan": 1
+  },
+  {
+    "vid": "D4-3",
+    "id": "D4",
+    "n": 3,
+    "hookStart": 55.0,
+    "layout": "detail",
+    "caption": "Coffee, code, repeat",
+    "pan": -1
+  },
+  {
+    "vid": "D4-4",
+    "id": "D4",
+    "n": 4,
+    "hookStart": 119.0,
+    "layout": "still",
+    "caption": "POV: 2am and the bug finally makes sense",
+    "pan": 1
+  },
+  {
+    "vid": "D4-5",
+    "id": "D4",
+    "n": 5,
+    "hookStart": 139.0,
+    "layout": "full",
+    "caption": "Headphones on. Ship it.",
+    "pan": -1
+  },
+  {
+    "vid": "D5-2",
+    "id": "D5",
+    "n": 2,
+    "hookStart": 14.0,
+    "layout": "full",
+    "caption": "Coffee, code, repeat",
+    "pan": -1
+  },
+  {
+    "vid": "D5-3",
+    "id": "D5",
+    "n": 3,
+    "hookStart": 68.0,
+    "layout": "detail",
+    "caption": "POV: 2am and the bug finally makes sense",
+    "pan": 1
+  },
+  {
+    "vid": "D5-4",
+    "id": "D5",
+    "n": 4,
+    "hookStart": 118.0,
+    "layout": "still",
+    "caption": "Headphones on. Ship it.",
+    "pan": -1
+  },
+  {
+    "vid": "E1-2",
+    "id": "E1",
+    "n": 2,
+    "hookStart": 28.0,
+    "layout": "full",
+    "caption": "POV: night shift in a neon city",
+    "pan": 1
+  },
+  {
+    "vid": "E1-3",
+    "id": "E1",
+    "n": 3,
+    "hookStart": 67.0,
+    "layout": "detail",
+    "caption": "Coding like it's 1986",
+    "pan": -1
+  },
+  {
+    "vid": "E1-4",
+    "id": "E1",
+    "n": 4,
+    "hookStart": 90.0,
+    "layout": "still",
+    "caption": "Terminal glowing, city sleeping",
+    "pan": 1
+  },
+  {
+    "vid": "E2-2",
+    "id": "E2",
+    "n": 2,
+    "hookStart": 28.0,
+    "layout": "full",
+    "caption": "Coding like it's 1986",
+    "pan": -1
+  },
+  {
+    "vid": "E2-3",
+    "id": "E2",
+    "n": 3,
+    "hookStart": 83.0,
+    "layout": "detail",
+    "caption": "Terminal glowing, city sleeping",
+    "pan": 1
+  },
+  {
+    "vid": "E2-4",
+    "id": "E2",
+    "n": 4,
+    "hookStart": 109.0,
+    "layout": "still",
+    "caption": "Synthwave for deep night focus",
+    "pan": -1
+  },
+  {
+    "vid": "E3-2",
+    "id": "E3",
+    "n": 2,
+    "hookStart": 21.0,
+    "layout": "full",
+    "caption": "Terminal glowing, city sleeping",
+    "pan": 1
+  },
+  {
+    "vid": "E3-3",
+    "id": "E3",
+    "n": 3,
+    "hookStart": 58.0,
+    "layout": "detail",
+    "caption": "Synthwave for deep night focus",
+    "pan": -1
+  },
+  {
+    "vid": "E3-4",
+    "id": "E3",
+    "n": 4,
+    "hookStart": 78.0,
+    "layout": "still",
+    "caption": "POV: night shift in a neon city",
+    "pan": 1
+  },
+  {
+    "vid": "E3-5",
+    "id": "E3",
+    "n": 5,
+    "hookStart": 122.0,
+    "layout": "full",
+    "caption": "Coding like it's 1986",
+    "pan": -1
+  },
+  {
+    "vid": "E4-2",
+    "id": "E4",
+    "n": 2,
+    "hookStart": 59.0,
+    "layout": "full",
+    "caption": "Synthwave for deep night focus",
+    "pan": -1
+  },
+  {
+    "vid": "E4-3",
+    "id": "E4",
+    "n": 3,
+    "hookStart": 100.0,
+    "layout": "detail",
+    "caption": "POV: night shift in a neon city",
+    "pan": 1
+  },
+  {
+    "vid": "E4-4",
+    "id": "E4",
+    "n": 4,
+    "hookStart": 150.0,
+    "layout": "still",
+    "caption": "Coding like it's 1986",
+    "pan": -1
+  },
+  {
+    "vid": "E5-2",
+    "id": "E5",
+    "n": 2,
+    "hookStart": 41.0,
+    "layout": "full",
+    "caption": "POV: night shift in a neon city",
+    "pan": 1
+  },
+  {
+    "vid": "E5-3",
+    "id": "E5",
+    "n": 3,
+    "hookStart": 61.0,
+    "layout": "detail",
+    "caption": "Coding like it's 1986",
+    "pan": -1
+  },
+  {
+    "vid": "E5-4",
+    "id": "E5",
+    "n": 4,
+    "hookStart": 120.0,
+    "layout": "still",
+    "caption": "Terminal glowing, city sleeping",
+    "pan": 1
+  },
+  {
+    "vid": "F1-2",
+    "id": "F1",
+    "n": 2,
+    "hookStart": 32.0,
+    "layout": "full",
+    "caption": "No drums, no distractions",
+    "pan": -1
+  },
+  {
+    "vid": "F1-3",
+    "id": "F1",
+    "n": 3,
+    "hookStart": 57.0,
+    "layout": "detail",
+    "caption": "Rain, piano and a quiet mind",
+    "pan": 1
+  },
+  {
+    "vid": "F1-4",
+    "id": "F1",
+    "n": 4,
+    "hookStart": 86.0,
+    "layout": "still",
+    "caption": "Ambient for long focus sessions",
+    "pan": -1
+  },
+  {
+    "vid": "F2-2",
+    "id": "F2",
+    "n": 2,
+    "hookStart": 53.0,
+    "layout": "full",
+    "caption": "Rain, piano and a quiet mind",
+    "pan": 1
+  },
+  {
+    "vid": "F2-3",
+    "id": "F2",
+    "n": 3,
+    "hookStart": 80.0,
+    "layout": "detail",
+    "caption": "Ambient for long focus sessions",
+    "pan": -1
+  },
+  {
+    "vid": "F2-4",
+    "id": "F2",
+    "n": 4,
+    "hookStart": 124.0,
+    "layout": "still",
+    "caption": "POV: phone face down, deep work mode",
+    "pan": 1
+  },
+  {
+    "vid": "F3-2",
+    "id": "F3",
+    "n": 2,
+    "hookStart": 36.0,
+    "layout": "full",
+    "caption": "Ambient for long focus sessions",
+    "pan": -1
+  },
+  {
+    "vid": "F3-3",
+    "id": "F3",
+    "n": 3,
+    "hookStart": 58.0,
+    "layout": "detail",
+    "caption": "POV: phone face down, deep work mode",
+    "pan": 1
+  },
+  {
+    "vid": "F3-4",
+    "id": "F3",
+    "n": 4,
+    "hookStart": 78.0,
+    "layout": "still",
+    "caption": "No drums, no distractions",
+    "pan": -1
+  },
+  {
+    "vid": "F4-2",
+    "id": "F4",
+    "n": 2,
+    "hookStart": 39.0,
+    "layout": "full",
+    "caption": "POV: phone face down, deep work mode",
+    "pan": 1
+  },
+  {
+    "vid": "F4-3",
+    "id": "F4",
+    "n": 3,
+    "hookStart": 69.0,
+    "layout": "detail",
+    "caption": "No drums, no distractions",
+    "pan": -1
+  },
+  {
+    "vid": "F4-4",
+    "id": "F4",
+    "n": 4,
+    "hookStart": 111.0,
+    "layout": "still",
+    "caption": "Rain, piano and a quiet mind",
+    "pan": 1
+  },
+  {
+    "vid": "F5-2",
+    "id": "F5",
+    "n": 2,
+    "hookStart": 40.0,
+    "layout": "full",
+    "caption": "No drums, no distractions",
+    "pan": -1
+  },
+  {
+    "vid": "F5-3",
+    "id": "F5",
+    "n": 3,
+    "hookStart": 60.0,
+    "layout": "detail",
+    "caption": "Rain, piano and a quiet mind",
+    "pan": 1
+  },
+  {
+    "vid": "F5-4",
+    "id": "F5",
+    "n": 4,
+    "hookStart": 108.0,
+    "layout": "still",
+    "caption": "Ambient for long focus sessions",
+    "pan": -1
+  }
+]
