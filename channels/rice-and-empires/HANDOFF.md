@@ -2,14 +2,12 @@
 
 For a fresh Claude session (other account / other machine) continuing this work. Read `AGENTS.md` first (rules updated 2026-11-07 night).
 
-## ▶ Now (15:15 +07)
-- Image run in progress in the built-in browser (AI Studio tab, Nano Banana 2.1, 9:16, 2K, temporary chat): 27 images from
-  `tools/pending_images.json`, ~30 s each, batches of 13 → `window.__export()` form POST → `$TMPDIR/stage`. Queue left is kept in `sessionStorage.__Q`.
-  If the session dies: re-open the tab, the queue in sessionStorage survives only in that tab — otherwise reload from `tools/pending_images.json`, skip files already in `shorts/public/sNNN/`.
-- Then `tools/make_short.sh` for s009/s010/s011/s006 (new caption style, see AGENTS §5).
-- `scripts/L001-*.md` = history long video (14 min, built from Shorts). `scripts/L002-*.md` = long version of S001 travel tips
-  (written by another session, draft, off-niche — owner decides). Neither rendered; a 16:9 composition does not exist yet.
-- Caption style changed (top, small, ≤ 6-word chunks) — only affects new renders.
+## ▶ Now (16:25 +07)
+- 2026-11-08 15:08–16:22: all 27 pending images generated (Nano Banana 2.1, 2K, ~1 min each in a fresh chat; batches of 8 per chat).
+  S009, S010, S011 rendered, S006 re-rendered. Contact sheets `shorts/out/*-sheet.jpg`. S007 re-rendered 16:35 with a new hook image (brush + pen on blank paper, no pseudo-text). Owner OK to publish all 5 (16:25).
+- **Upload blocked**: Chrome (Claude in Chrome) is signed into another Google account (VibeMusicMaker), built-in browser has no Studio access, files are 43–108 MB (> 10 MB extension limit) → owner opens Studio as `raiangich@gmail.com` and drags `shorts/out/S006-chinese-rule.mp4 S007-quoc-ngu.mp4 S009-hoi-an.mp4 S010-mekong-delta.mp4 S011-dong-son-drums.mp4`; agent fills details from each script md §Publishing. Old S007 draft in Studio → delete after the new one is up.
+- Worker fix: in AI Studio the image is not always in the LAST chat turn → detect any new blob image not seen before, not `turns.at(-1)`.
+- `scripts/L001-*.md` (history long video) and `scripts/L002-*.md` (S001 travel long version, off-niche): drafts, not rendered; no 16:9 composition yet.
 
 ## ▶ Resume when image quota is back (saved 2026-11-08 12:00 +07)
 - Quota fact: one Google account ≈ **70 images / quota day** (34 × 2.1 2K + 36 × Lite 1K) ≈ 7 Shorts. Reset **confirmed** 00:00 PT = **15:00 +07** (2026-11-08: 2.1 at 2K worked again at 15:08).
@@ -30,12 +28,12 @@ Pipeline per video: research → script md (claim table + VI column) → `tools/
 | S003 Champa | v4, r1–r3 | 105 s | 2.1 2K | `S003-champa.mp4` 107 s −14.3 |
 | S004 Trưng Sisters | v4, r1–r3 | 90 s | 2.1 2K (outro = hook flipped) | `S004-trung-sisters.mp4` 92 s −14.3 |
 | S005 Angkor decline | v4, r1–r3 | 85 s | **Lite 1K** | `S005-angkor.mp4` 87 s −14.3 |
-| S006 "1,000 years of Chinese rule" | v4, r1–r3 | 95 s | Lite 1K | `S006-chinese-rule.mp4` (img-02 has fake map text — regenerate) |
-| S007 Quốc ngữ | v4, r1–r3 | 92 s | Lite 1K | `S007-quoc-ngu.mp4` 94 s −14.4 (hook image has pseudo Chinese characters) |
+| S006 "1,000 years of Chinese rule" | v4, r1–r3 | 95 s | Lite 1K | `S006-chinese-rule.mp4` 97 s −14.2, re-rendered 16:25 with new img-02 (2.1 2K) + new captions |
+| S007 Quốc ngữ | v4, r1–r3 | 92 s | Lite 1K + new 2.1 hook | `S007-quoc-ngu.mp4` 94 s −14.4, re-rendered 16:35 (new hook, new captions) |
 | S008 Tây Sơn / Quang Trung 1789 | v4, r1–r3 | 95 s | Lite 1K | `S008-quang-trung-1789.mp4` 96 s −14.3 (img-06/09 reused from S002) |
-| S009 Hội An / Phố Hiến | v4, r1–r3 | 86 s | Lite 1K | **not rendered** — 2/9 images (quota) |
-| S010 Mekong Delta | v4, r1–r3 | 94 s | Lite 1K | **not rendered** — 0/10 images (quota) |
-| S011 Đông Sơn drums | v4, r1–r3 | 78 s | Lite 1K | **not rendered** — 0/9 images (quota) |
+| S009 Hội An / Phố Hiến | v4, r1–r3 | 86 s | 2.1 2K (img-00/01 2K night) | `S009-hoi-an.mp4` 88 s −14.2 (new captions) |
+| S010 Mekong Delta | v4, r1–r3 | 94 s | 2.1 2K | `S010-mekong-delta.mp4` 96 s −14.3 (new captions) |
+| S011 Đông Sơn drums | v4, r1–r3 | 78 s | 2.1 2K | `S011-dong-son-drums.mp4` 80 s −14.4 (new captions) |
 Image quota: Nano Banana 2.1 limited 23:59 and again 01:45 (after 2 images); Lite limited by 02:00. Still limited at 04:04 on both models → likely a daily quota. **Pending prompts: `tools/pending_images.json`** (27 images: S009 ×7, S010 ×10, S011 ×9, S006 img-02). Load as `window.__Q` with the helpers in `tools/aistudio_helpers.js`, then upload, `sips`, render S009–S011 (`npx remotion render src/index.ts S009 …` + loudnorm).
 
 No script reached Codex PASS: after round 3 the remaining 🔴 were fixed by cutting or hedging (owner rule). The final wording was **not** re-reviewed.
