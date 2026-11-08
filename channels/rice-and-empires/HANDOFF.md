@@ -1,9 +1,18 @@
-# HANDOFF — state at 2026-11-08 12:00 (+07), branch `night/2026-11-07`
+# HANDOFF — state at 2026-11-08 15:15 (+07), merged into `main`
 
 For a fresh Claude session (other account / other machine) continuing this work. Read `AGENTS.md` first (rules updated 2026-11-07 night).
 
+## ▶ Now (15:15 +07)
+- Image run in progress in the built-in browser (AI Studio tab, Nano Banana 2.1, 9:16, 2K, temporary chat): 27 images from
+  `tools/pending_images.json`, ~30 s each, batches of 13 → `window.__export()` form POST → `$TMPDIR/stage`. Queue left is kept in `sessionStorage.__Q`.
+  If the session dies: re-open the tab, the queue in sessionStorage survives only in that tab — otherwise reload from `tools/pending_images.json`, skip files already in `shorts/public/sNNN/`.
+- Then `tools/make_short.sh` for s009/s010/s011/s006 (new caption style, see AGENTS §5).
+- `scripts/L001-*.md` = history long video (14 min, built from Shorts). `scripts/L002-*.md` = long version of S001 travel tips
+  (written by another session, draft, off-niche — owner decides). Neither rendered; a 16:9 composition does not exist yet.
+- Caption style changed (top, small, ≤ 6-word chunks) — only affects new renders.
+
 ## ▶ Resume when image quota is back (saved 2026-11-08 12:00 +07)
-- Quota fact: one Google account ≈ **70 images / quota day** (34 × 2.1 2K + 36 × Lite 1K) ≈ 7 Shorts. Reset assumed 00:00 PT = **15:00 +07** (unverified).
+- Quota fact: one Google account ≈ **70 images / quota day** (34 × 2.1 2K + 36 × Lite 1K) ≈ 7 Shorts. Reset **confirmed** 00:00 PT = **15:00 +07** (2026-11-08: 2.1 at 2K worked again at 15:08).
 - Queue: `tools/pending_images.json` — 26 images still needed: S009 img-02..08 (7), S010 img-00..09 (10), S011 img-00..08 (9); plus S006 img-02 redo (fake map text) and S007 hook image redo.
 - How (no Playwright — Google blocks sign-in there): built-in browser → `aistudio.google.com/prompts/new_chat` → paste helpers from
   `tools/aistudio_helpers.js` (worker + `window.__export()`), receiver `tools/.venv/bin/python tools/receive_images.py` (127.0.0.1:8765 → `$TMPDIR/stage`).
@@ -51,7 +60,6 @@ S006 not uploaded (waits for img-02 regen). Pinned comments not posted yet.
 
 ## Needs the owner
 - Review VI column + watch each mp4; upload only after OK (drag file into Studio). Title/description drafts are in each script md.
-- Merge `night/2026-11-07` into `main`.
 
 ## Upload script (2026-11-08) — API version, untested end-to-end
 `tools/upload/upload.mjs` (YouTube Data API v3; usage in README). Playwright variant dropped: Google blocks sign-in in automated Chrome. Dry-run parsing works; blocked on owner creating the OAuth client (`~/.cache/rice-youtube/client_secret.json`) + `auth`. Then test `S006 --private --confirm`. Test link: (pending)
