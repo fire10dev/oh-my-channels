@@ -1,6 +1,15 @@
-# HANDOFF — state at 2026-11-08 04:10 (+07), branch `night/2026-11-07`
+# HANDOFF — state at 2026-11-08 12:00 (+07), branch `night/2026-11-07`
 
 For a fresh Claude session (other account / other machine) continuing this work. Read `AGENTS.md` first (rules updated 2026-11-07 night).
+
+## ▶ Resume when image quota is back (saved 2026-11-08 12:00 +07)
+- Quota fact: one Google account ≈ **70 images / quota day** (34 × 2.1 2K + 36 × Lite 1K) ≈ 7 Shorts. Reset assumed 00:00 PT = **15:00 +07** (unverified).
+- Queue: `tools/pending_images.json` — 26 images still needed: S009 img-02..08 (7), S010 img-00..09 (10), S011 img-00..08 (9); plus S006 img-02 redo (fake map text) and S007 hook image redo.
+- How (no Playwright — Google blocks sign-in there): built-in browser → `aistudio.google.com/prompts/new_chat` → paste helpers from
+  `tools/aistudio_helpers.js` (worker + `window.__export()`), receiver `tools/.venv/bin/python tools/receive_images.py` (127.0.0.1:8765 → `$TMPDIR/stage`).
+  "Save in Google Drive" popup → *Cancel and use Temporary chat*. Quota hit shows as a toast "reached your quota for the day".
+- Then one command per video: `tools/make_short.sh s009 S009-hoi-an` · `s010 S010-mekong-delta` · `s011 S011-dong-son-drums` · `s006 S006-chinese-rule`; check `shorts/out/*-sheet.jpg`.
+- After that: S006 + S007 re-upload (owner OK needed), update the Published table.
 
 ## Overnight run 2026-11-07 → 08 (owner: "tự động hoàn toàn xuyên đêm, sáng duyệt và đăng")
 Pipeline per video: research → script md (claim table + VI column) → `tools/codex_review.sh` (max 3 rounds, logs in `docs/reviews/`)
@@ -46,3 +55,9 @@ S006 not uploaded (waits for img-02 regen). Pinned comments not posted yet.
 
 ## Upload script (2026-11-08) — API version, untested end-to-end
 `tools/upload/upload.mjs` (YouTube Data API v3; usage in README). Playwright variant dropped: Google blocks sign-in in automated Chrome. Dry-run parsing works; blocked on owner creating the OAuth client (`~/.cache/rice-youtube/client_secret.json`) + `auth`. Then test `S006 --private --confirm`. Test link: (pending)
+
+## Long videos (owner 2026-11-08: "từ tư liệu đã có làm videos dài")
+- `scripts/L001-vietnam-two-thousand-years-what-we-know.md` — 16:9, ~2,070 words ≈ 14 min, 11 chapters, chronological, built only from the
+  reviewed Short lines (S002–S011) + 2 framing lines. Codex `docs/reviews/L001-r1..r3.md`; v4 wording not re-reviewed. Owner: review VI column.
+- Next: build a 16:9 `LongVideo` composition (chapter cards, 9:16 images pillarboxed on blurred copy), TTS, render. Chapters 1/6/8 need S009–S011 images.
+- Rebuild the narration table from the Shorts: `python3 tools/build_long.py . > rows.md` (row list + Codex fixes live in that file).
