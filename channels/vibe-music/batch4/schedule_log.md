@@ -17,3 +17,25 @@
 | G03-3 | Acid Drizzle | Awwwpnpxw_w | 14/11 10:00 |
 | G03-4 | Umbrella Protocol | G43nrqCJDwg | 14/11 20:00 |
 | G03-5 | Storm Compile | 3KWZPpA2zFM | 15/11 10:00 |
+
+## Short batch 4 — ID + "Video có liên quan" (kiểm 08/11/2026 16:05)
+
+| id | Short ID | related video |
+|---|---|---|
+| G01-1 | c_x9tdlnJbY | ✅ 08/11 (Root Access) |
+| G01-2 | PVfpY7xHKuI | chờ video 1 giờ công khai 08/11 20:00 |
+| G01-3 | 7AtYfezWtnY | chờ 09/11 10:00 |
+| G01-4 | 4wiKJXHQ4eM | chờ 09/11 20:00 |
+| G01-5 | IbOAPbUiKk8 | chờ 10/11 10:00 |
+| G02-1 | ic3oqU290BI | chờ 10/11 20:00 |
+| G02-2 | znLVhwebGTo | chờ 11/11 10:00 |
+| G02-3 | lY89Am4Iqg0 | chờ 11/11 20:00 |
+| G02-4 | E0Z7t4Z_E94 | chờ 12/11 10:00 |
+| G02-5 | cEyZk3-62p4 | chờ 12/11 20:00 |
+| G03-1 | isE-qCrd2Do | chờ 13/11 10:00 |
+| G03-2 | YwyT4DlTAns | chờ 13/11 20:00 |
+| G03-3 | e4HgzEglfDY | chờ 14/11 10:00 |
+| G03-4 | szIvUBsCazU | chờ 14/11 20:00 |
+| G03-5 | ELQ2eSU_DeQ | chờ 15/11 10:00 |
+
+Mix: P01 Midnight Terminal `5_qpIeMJWyA` (tags 10 ✅ 08/11) · P02 Neon Highway `xE7I0aHjhQ8` · P03 Cyber Rain `UdECRX2snwk`.

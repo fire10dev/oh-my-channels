@@ -22,10 +22,10 @@ Mọi ID video / lịch nằm trong các file `schedule_log.md` và `*posts*` �
   - 15 Short: 08/11 15:00 → 15/11 15:00 (15:00 hoặc 22:00, cùng ngày video 1 giờ).
   - 3 mix: Midnight Terminal 11/11 18:30 · Neon Highway 13/11 18:30 · Cyber Rain 16/11 18:30 (playlist "1 Hour Mixes").
   - Kiểm 07/11 16:15: cả 33 mục (15 video 1 giờ + 15 Short + 3 mix) "Đã lên lịch" trên Studio; 3 file mix tải lên xong.
-  - Còn thiếu: tags mix P01 (0 tag; P02/P03 đủ 10), thumbnail 3 mix, related video 15 Short.
+  - 08/11: tags mix P01 xong (10 tag như P02); related video Short G01-1 xong. Còn thiếu: thumbnail 3 mix, related video 14 Short (G01-2 → G03-5, Short ID ở `batch4/schedule_log.md`).
 
 ## Việc tiếp theo (theo thứ tự)
-1. **Gắn "Video có liên quan"** cho 15 Short batch 4 — chỉ làm được sau khi video 1 giờ tương ứng công khai (từ 08/11 10:00).
+1. **Gắn "Video có liên quan"** cho 14 Short batch 4 còn lại (G01-1 xong 08/11) — mỗi Short gắn được sau khi video 1 giờ tương ứng công khai (10:00/20:00 mỗi ngày đến 15/11).
 2. **Thumbnail 3 mix** batch 4: file `batch4/out_mix/P0x … thumbnail.jpg` (local) — user tự tải lên Studio.
 3. Pack 04–05: tạo nhạc Flow Music (prompt trong `batch4/music_packs.md`) → mp3 vào Downloads → `build_scenes.py` → `render_1h.sh` → `make_posts.py` → Short/mix như pack 1–3.
 4. Pack 06–20: ảnh Google Flow theo `batch4/image_prompts/<id>.txt`, rồi như bước 3.
