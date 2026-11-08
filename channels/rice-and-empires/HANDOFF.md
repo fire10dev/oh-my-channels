@@ -22,6 +22,18 @@ Image quota: Nano Banana 2.1 limited 23:59 and again 01:45 (after 2 images); Lit
 
 No script reached Codex PASS: after round 3 the remaining 🔴 were fixed by cutting or hedging (owner rule). The final wording was **not** re-reviewed.
 
+## Published 2026-11-08 (owner OK in chat; 2 h apart, times +07)
+Settings for all: title/description from script md §Publishing, not made for kids, "Sử dụng AI" = Không.
+| Video | Link | Status |
+|---|---|---|
+| S002 Mongols | https://youtube.com/shorts/LPv0OPBbZI0 | Public ~07:05 |
+| S003 Champa | https://youtube.com/shorts/Of8mS9mNRDY | Scheduled 09:00 |
+| S004 Trưng Sisters | https://youtube.com/shorts/oViKnHeLCaM | Scheduled 11:00 |
+| S005 Angkor | https://youtube.com/shorts/9eNezUNTubY | Scheduled 13:00 |
+| S008 Quang Trung 1789 | https://youtube.com/shorts/9KENQcdwBMs | Scheduled 15:00 |
+| S007 Quốc ngữ | (draft, untitled) | Uploaded as **draft only** — owner: wait for new hook image; re-render, then delete this draft and upload the new file |
+S006 not uploaded (waits for img-02 regen). Pinned comments not posted yet.
+
 ## Known issues
 - AI Studio **Nano Banana 2.1 rate-limited** at ~23:59 after ~32 images → S005+ use Nano Banana 2 Lite (1K only, softer when zoomed).
   Regenerate with 2.1 when quota resets if quality matters (prompts are in each script md / the `__runQueue` lists).
@@ -31,3 +43,6 @@ No script reached Codex PASS: after round 3 the remaining 🔴 were fixed by cut
 ## Needs the owner
 - Review VI column + watch each mp4; upload only after OK (drag file into Studio). Title/description drafts are in each script md.
 - Merge `night/2026-11-07` into `main`.
+
+## Upload script (2026-11-08) — API version, untested end-to-end
+`tools/upload/upload.mjs` (YouTube Data API v3; usage in README). Playwright variant dropped: Google blocks sign-in in automated Chrome. Dry-run parsing works; blocked on owner creating the OAuth client (`~/.cache/rice-youtube/client_secret.json`) + `auth`. Then test `S006 --private --confirm`. Test link: (pending)

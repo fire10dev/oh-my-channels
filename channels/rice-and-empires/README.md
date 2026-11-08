@@ -23,3 +23,15 @@ cd ../shorts && npm ci --ignore-scripts && npx remotion render src/index.ts S001
 
 Audio: `shorts/public/sfx/swoosh-quick.mp3`, `shorts/public/s001/bgm.mp3` (Cat Walk, Arulo) — Mixkit free license, from `~/Projects/video-kit/audio/ATTRIBUTION.md`.
 Notes and decisions: MEGABRAIN `FIRE10/document/ai-video/research/` (`youtube-*`, `yt-short-pipeline-test-s001-*`).
+
+## Upload a Short (YouTube Data API v3, no browser)
+One-time (owner): Google Cloud → enable *YouTube Data API v3* → OAuth consent screen (External, add owner as test user) → Credentials → OAuth client ID, type **Desktop** →
+save JSON as `~/.cache/rice-youtube/client_secret.json`, then `node tools/upload/upload.mjs auth` and pick the Brand Account *Rice & Empires*.
+```
+node tools/upload/upload.mjs S006 --private --confirm            # test: private
+node tools/upload/upload.mjs S006 --at "2026-11-09 09:00" --confirm   # private + publishAt (+07)
+node tools/upload/upload.mjs S006 --now --confirm                # public now
+```
+Without `--confirm` it is a dry run (parses script md, checks auth, uploads nothing). Title/description from `## Publishing` in `scripts/SNNN-*.md`; file `shorts/out/SNNN-*.mp4`.
+Sets not-made-for-kids and `containsSyntheticMedia=false`. One `SUMMARY` line per run; details in `$TMPDIR/yt-upload.log`. Quota ≈ 1600 of 10 000 units/day (~6 uploads).
+🟡 Unaudited API projects may force uploads to private — check the first test video. Owner OK in chat is required before `--confirm`.

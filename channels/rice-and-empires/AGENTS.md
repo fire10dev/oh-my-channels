@@ -44,7 +44,7 @@ Background research and decisions: `docs/research/` (snapshots from the owner's 
 | 1 Research + claim table | web search, scholarly sources | `scripts/SNNN-*.md` §Claims |
 | 2 Script | EN narration + VI review column, `say` column for TTS spelling | `scripts/SNNN-*.md`, `shorts/src/sNNN.json` |
 | 3 Voice | Kokoro (free, Apache-2.0) `tools/tts_kokoro.py`, voice `af_heart`, speed 1.1–1.2. ElevenLabs later (owner will buy) | `shorts/public/sNNN/vo-*.wav` + `timeline.json` |
-| 4 Images | Nano Banana 2.1 in **AI Studio playground** (free, web UI, Google login) — API image quota is 0 on free tier | `shorts/public/sNNN/img-*.jpg` |
+| 4 Images | `tools/imagegen/gen.mjs` (Playwright: AI Studio → Gemini → Flow, same Google account) — API image quota is 0 on free tier. 🔴 2026-11-08: Google blocks sign-in in the Playwright Chrome → not usable yet; fallback = AI Studio worker in the built-in browser (`tools/aistudio_helpers.js`) | `$TMPDIR/stage/sNNN-img-*.jpg` → `make_short.sh` |
 | 5 Render | Remotion 4.0.535, `shorts/src/ListShort.tsx` (Shorts 1080×1920) | `shorts/out/*.mp4` |
 | 6 Loudness | `ffmpeg -af loudnorm=I=-14:TP=-1.5:LRA=11` | final mp4 |
 | 7 Upload | owner drags file into Studio upload dialog; agent fills title/description/settings | public video |
@@ -70,3 +70,15 @@ Register each video in `shorts/src/Root.tsx`.
 ## 6. Done = 
 A video is "done" when: claim table complete (FACT-CHECK §3), VI column reviewed by owner, render passes a frame check (no text cut off,
 names spelled right), loudness ≈ −14 LUFS, description has sources list + AI note. Upload only after owner OK.
+
+## 7. Token budget (owner 2026-11-08: one night cost 10% of the weekly quota)
+Measured on the 2026-11-07 night (356 calls, all Opus): average context ~300k tokens per call → ~104M cache-read tokens.
+Browser automation 39%, Bash 37%. Cost scales with context length × number of calls, so:
+- **One video per session.** Start a fresh session per video (state lives in `HANDOFF.md` + script md), not one all-night session.
+- **Images run outside Claude**: `node tools/imagegen/gen.mjs run <queue.json> $TMPDIR/stage` (AI Studio → Gemini → Flow failover,
+  one-time `node tools/imagegen/gen.mjs login`, profile in `~/.cache/rice-imagegen-profile`). Run it in the background; read only its SUMMARY line.
+  Do not drive AI Studio by hand in the built-in browser.
+- **Render = one call**: `tools/make_short.sh <vid> <out-name> [--tts]` (import staged images → render → loudnorm → contact sheet, ≤ 4 lines).
+- **Codex**: `tools/codex_review.sh` prints only VERDICT + 🔴/🟠 lines; open the review file only when a fix needs its evidence.
+- Never print big JSON/files into the context (use `wc`, `head`, `rg`); `get_page_text` with small `max_chars`; no screenshots unless checking visuals.
+- Use a cheaper model (Sonnet) for mechanical sessions: commit, render, image runs. Opus for research + script writing.

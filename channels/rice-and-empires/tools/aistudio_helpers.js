@@ -9,3 +9,8 @@
 // 4) Rate limit (2026-11-08): the error appears as a chat turn "You've reached your rate limit". Both 2.1 and Lite hit it;
 //    it did not clear within 4 h → treat as daily. A worker that retries must stop on it, not mark the item as timeout.
 // 5) Long chats (>20 turns) slow down / time out → open a new chat every ~15 images (navigation resets settings; save the queue in sessionStorage).
+// 6) 2026-11-08 morning: AI Studio says "You've reached your quota for the day" (toast, not a chat turn) → worker must also check body text.
+//    Gemini web as fallback does NOT work for export: CSP form-action blocks POST to 127.0.0.1; window.name is cleared on cross-site
+//    navigation; lh3.googleusercontent.com/gg/... image URLs 302 without login cookies; blob: URLs are revoked (use canvas→toBlob).
+//    Gemini preview is only 572x1024. Playwright profile login is refused by Google ("This browser or app may not be secure") → tools/imagegen
+//    only usable with an API key path. Don't retry these.
