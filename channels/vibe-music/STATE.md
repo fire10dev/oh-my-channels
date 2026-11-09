@@ -20,17 +20,16 @@ Mọi ID video / lịch nằm trong các file `schedule_log.md` và `*posts*` �
 - Đã lên lịch trên Studio (ID ở `batch4/schedule_log.md`):
   - 15 video 1 giờ G01–G03: 08/11 10:00 → 15/11 10:00 (10:00 + 20:00 mỗi ngày).
   - 15 Short: 08/11 15:00 → 15/11 15:00 (15:00 hoặc 22:00, cùng ngày video 1 giờ).
-  - 10 video 1 giờ G04–G05: 15/11 20:00 → 20/11 10:00 (lên lịch 09/11; thumbnail chưa đặt).
+  - 10 video 1 giờ G04–G05: 15/11 20:00 → 20/11 10:00 (lên lịch + thumbnail 09/11).
   - 3 mix: Midnight Terminal 11/11 18:30 · Neon Highway 13/11 18:30 · Cyber Rain 16/11 18:30 (playlist "1 Hour Mixes").
   - Kiểm 07/11 16:15: cả 33 mục (15 video 1 giờ + 15 Short + 3 mix) "Đã lên lịch" trên Studio; 3 file mix tải lên xong.
-  - 08/11: tags mix P01 xong (10 tag như P02); related video Short G01-1 xong. Còn thiếu: thumbnail 3 mix, related video 14 Short (G01-2 → G03-5, Short ID ở `batch4/schedule_log.md`).
+  - 08/11: tags mix P01 xong (10 tag như P02); related video Short G01-1 xong. 09/11: thumbnail 3 mix xong. Còn thiếu: related video 14 Short (G01-2 → G03-5, Short ID ở `batch4/schedule_log.md`).
 
 ## Việc tiếp theo (theo thứ tự)
 1. **Gắn "Video có liên quan"** cho 14 Short batch 4 còn lại (G01-1 xong 08/11) — mỗi Short gắn được sau khi video 1 giờ tương ứng công khai (10:00/20:00 mỗi ngày đến 15/11).
-2. **Thumbnail 3 mix** batch 4: file `batch4/out_mix/P0x … thumbnail.jpg` (local) — user tự tải lên Studio.
-3. Pack 04–05: 10 video 1 giờ đã lên lịch 09/11 (15/11 20:00 → 20/11 10:00, `batch4/schedule_log.md`); còn thumbnail (user tự tải) → Short/mix như pack 1–3.
-4. Pack 06–20: ảnh Google Flow theo `batch4/image_prompts/<id>.txt`, rồi như bước 3.
-5. 100 Short cắt thêm: user đăng dần (đã có title/mô tả/lịch).
+2. Pack 04–05: 10 video 1 giờ đã lên lịch 09/11 (15/11 20:00 → 20/11 10:00, `batch4/schedule_log.md`); thumbnail xong → còn Short/mix như pack 1–3.
+3. Pack 06–20: ảnh Google Flow theo `batch4/image_prompts/<id>.txt`, rồi như bước 2.
+4. 100 Short cắt thêm: user đăng dần (đã có title/mô tả/lịch).
 
 ## Quy trình batch 4 (1 pack, lệnh chạy trong `batch4/`)
 ```

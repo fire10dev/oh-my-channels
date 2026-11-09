@@ -229,3 +229,9 @@ User chốt 30/10: bỏ clip video 10 s, chuyển sang **1 ảnh Flow + Remotion
   - ID video: `udvid=` trên URL khi hộp mở (không cần nút copy).
 - Lặp lại gotcha 07/11: hộp mở chậm (G04-2) ⇒ selectAll chọn cả trang, playlist dialog rỗng ⇒ đóng dialog, bỏ chọn, điền lại. Video cuối (G04-1) chờ thêm 6 s là ổn.
 - Thumbnail chưa đặt (pane không upload file) — user tự tải `batch4/out/<id> <title> thumbnail.jpg`.
+
+### Thumbnail bằng Claude in Chrome — 2026-11-09
+- Browser pane (built-in) KHÔNG upload file được; Claude in Chrome có `file_upload` → dùng nó cho thumbnail.
+- Chọn đúng Chrome: `list_connected_browsers` → mở Studio kênh; trang "Rất tiếc, bạn không có quyền" = sai profile → `select_browser` cái khác (09/11 là "Browser 1").
+- Mỗi video: `studio.youtube.com/video/<ID>/edit` → chờ `#title-textarea #textbox` + `input#file-loader` → `find` lấy ref file input → `file_upload` jpg (<2 MB) → click `ytcp-button#save` (aria-disabled false→true = đã lưu, toast "Đã lưu thay đổi").
+- Trang có khi load chậm: `find` báo không thấy input → chờ thêm vài giây rồi `find` lại.
