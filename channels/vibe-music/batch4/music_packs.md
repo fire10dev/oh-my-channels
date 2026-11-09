@@ -21,13 +21,13 @@ Create 5 separate instrumental synthwave songs for a 1-hour night coding focus v
 Create 5 separate instrumental synthwave songs for a 1-hour night coding focus video. No vocals, about 3 minutes each, steady energy with no long intro, no outro and no fade-out so each loops cleanly. One song per description. (1) Wet Neon: Rainy chill synthwave, soft rain ambience, deep bass pulse, gated snare, misty pads, instrumental, no vocals, 94 bpm. (2) Puddle Reflections: Dreamy synthwave, glassy arpeggios, soft drums, rain texture, calm focus, instrumental, no vocals, 90 bpm. (3) Acid Drizzle: Midtempo cyberpunk, rubbery analog bass, glitch hats, rain ambience, instrumental, no vocals, 96 bpm. (4) Umbrella Protocol: Chillwave, warm chorus pads, slow drum machine, light rain, instrumental, no vocals, 88 bpm. (5) Storm Compile: Dark synthwave, thunder-like toms, pulsing bass, cold pads, steady drive, instrumental, no vocals, 100 bpm.
 ```
 
-## [ ] Pack 04 — Retro Arcade
+## [x] Pack 04 — Retro Arcade
 
 ```text
 Create 5 separate instrumental synthwave songs for a 1-hour night coding focus video. No vocals, about 3 minutes each, steady energy with no long intro, no outro and no fade-out so each loops cleanly. One song per description. (1) Insert Coin: Chiptune synthwave, 8-bit arps over analog bass, punchy drums, playful focus, instrumental, no vocals, 110 bpm. (2) High Score Mode: Upbeat retro synthwave, square-wave leads, gated snare, steady groove, instrumental, no vocals, 112 bpm. (3) Pixel Drift: Chill chipwave, soft 8-bit bells, warm pads, relaxed beat, instrumental, no vocals, 96 bpm. (4) Continue Screen: Midtempo synthwave, arcade bleeps, deep bass, wide pads, instrumental, no vocals, 100 bpm. (5) Level Select: Bright synthwave, bouncing bass arpeggio, sparkling chip arps, instrumental, no vocals, 106 bpm.
 ```
 
-## [ ] Pack 05 — Server Room
+## [x] Pack 05 — Server Room
 
 ```text
 Create 5 separate instrumental synthwave songs for a 1-hour night coding focus video. No vocals, about 3 minutes each, steady energy with no long intro, no outro and no fade-out so each loops cleanly. One song per description. (1) Rack Hum: Minimal dark synthwave, low drone, steady pulse bass, soft industrial percussion, instrumental, no vocals, 92 bpm. (2) Cold Boot: Darksynth, cold arpeggio, gated toms, metallic textures, focused, instrumental, no vocals, 98 bpm. (3) Fan Noise: Ambient synthwave, airy pads, soft white-noise texture, slow pulse, instrumental, no vocals, 84 bpm. (4) Uptime: Steady synthwave, sequenced bass, tight drums, clean pads, instrumental, no vocals, 100 bpm. (5) Failover: Midtempo darkwave, driving bass, gated snare, tense pads, instrumental, no vocals, 102 bpm.

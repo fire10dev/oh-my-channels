@@ -17,6 +17,16 @@
 | G03-3 | Acid Drizzle | Awwwpnpxw_w | 14/11 10:00 |
 | G03-4 | Umbrella Protocol | G43nrqCJDwg | 14/11 20:00 |
 | G03-5 | Storm Compile | 3KWZPpA2zFM | 15/11 10:00 |
+| G04-1 | Insert Coin | Fvj6vwpYQBM | 15/11 20:00 |
+| G04-2 | High Score Mode | u8kSqMqZB8c | 16/11 10:00 |
+| G04-3 | Pixel Drift | 81Bg05FaMkM | 16/11 20:00 |
+| G04-4 | Continue Screen | fdUKpBkv-lI | 17/11 10:00 |
+| G04-5 | Level Select | MRsLXgMbZWU | 17/11 20:00 |
+| G05-1 | Rack Hum | SKxtGDkDp8A | 18/11 10:00 |
+| G05-2 | Cold Boot | rESLVT737CU | 18/11 20:00 |
+| G05-3 | Fan Noise | I4ETP5MHqyM | 19/11 10:00 |
+| G05-4 | Uptime | v_eTn9T-XaQ | 19/11 20:00 |
+| G05-5 | Failover | 4jV7Ue1rnUE | 20/11 10:00 |
 
 ## Short batch 4 — ID + "Video có liên quan" (kiểm 08/11/2026 16:05)
 

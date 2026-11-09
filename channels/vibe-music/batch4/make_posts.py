@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
-"""make_posts.py [START dd/mm/yyyy] — title/description/tags + schedule for every rendered batch-4 video
-(out/<id> <title> 1 Hour.mp4). Slots 10:00 and 20:00 GMT+7, one per slot in id order -> youtube_posts_batch4.md."""
+"""make_posts.py [START "dd/mm/yyyy [HH:MM]"] — title/description/tags + schedule for every rendered batch-4 video
+(out/<id> <title> 1 Hour.mp4). Slots 10:00 and 20:00 GMT+7, one per slot in id order, first slot = HH:MM (default 10:00).
+Output: youtube_posts_batch4.md when the set starts at G01-1, else youtube_posts_batch4_<first>_<last>.md (old files kept)."""
 import datetime as dt, json, sys
 from pathlib import Path
 
 B4 = Path(__file__).resolve().parent
-START = dt.datetime.strptime(sys.argv[1], "%d/%m/%Y").date() if len(sys.argv) > 1 else dt.date(2026, 11, 6)
+ARG = (sys.argv[1] if len(sys.argv) > 1 else "06/11/2026").split()
+START = dt.datetime.strptime(ARG[0], "%d/%m/%Y").date()
 SLOTS = ["10:00", "20:00"]
+SKIP = SLOTS.index(ARG[1]) if len(ARG) > 1 else 0  # start on the 20:00 slot -> SKIP=1
 EMOJI = {"Midnight Terminal": "🖥️", "Neon Highway": "🌆", "Cyber Rain": "🌧️", "Retro Arcade": "🕹️", "Server Room": "🗄️",
          "Chillwave Sunset": "🌅", "Orbital Station": "🛰️", "Tokyo Night": "🏮", "Cyberpunk Alley": "🌃", "Dreamwave Clouds": "☁️",
          "Vapor Mall": "🛍️", "Laser Grid": "🔺", "Night Train": "🚆", "Hacker Den": "💾", "Ocean Drive Night": "🌴",
@@ -14,9 +17,9 @@ EMOJI = {"Midnight Terminal": "🖥️", "Neon Highway": "🌆", "Cyber Rain": "
 songs = [s for s in json.loads((B4 / "songs.json").read_text())
          if (B4 / "out" / f"{s['id']} {s['title']} 1 Hour.mp4").exists()]
 md = ["# Batch 4 — Synthwave Night Coding: nội dung đăng + lịch dự kiến", "",
-      f"Lịch: 2 video/ngày ({', '.join(SLOTS)} GMT+7) từ {START:%d/%m/%Y}. Studio: Nhạc · Không dành cho trẻ em · "
+      f"Lịch: 2 video/ngày ({', '.join(SLOTS)} GMT+7) từ {START:%d/%m/%Y} {SLOTS[SKIP]}. Studio: Nhạc · Không dành cho trẻ em · "
       "Sử dụng AI = Có · Playlist **Synthwave Night Coding** · thumbnail = file `thumbnail.jpg` cùng tên.", ""]
-for i, s in enumerate(songs):
+for i, s in enumerate(songs, SKIP):
     e, sound = EMOJI[s["pack_name"]], s["prompt"].split(", instrumental")[0]
     style = sound.split(",")[0]
     when = f"{START + dt.timedelta(days=i // 2):%d/%m/%Y} {SLOTS[i % 2]}"
@@ -36,5 +39,7 @@ for i, s in enumerate(songs):
     md += [f"## {when} · {s['id']} {s['title']}", f"- File: `batch4/out/{s['id']} {s['title']} 1 Hour.mp4` + `… thumbnail.jpg`", "",
            "**Title**", "```text", title, "```", "**Description**", "```text", desc, "```", "**Tags**", "```text", tags, "```", ""]
     assert len(title) <= 100 and len(tags) <= 500, s["id"]
-(B4 / "youtube_posts_batch4.md").write_text("\n".join(md))
+out = "youtube_posts_batch4.md" if songs[0]["id"] == "G01-1" else f"youtube_posts_batch4_{songs[0]['id']}_{songs[-1]['id']}.md"
+(B4 / out).write_text("\n".join(md))
+print(out)
 print(len(songs), "videos,", md[2][:60])

@@ -208,9 +208,24 @@ User chốt 30/10: bỏ clip video 10 s, chuyển sang **1 ảnh Flow + Remotion
 - 🟠 Ảnh Flow tải về 1376×768 (16:9) ⇒ cắt 9:16 còn ~432×768, phóng ~2,5× lên 1080×1920 ⇒ Short hơi mềm. Cần ảnh dọc 9:16 riêng cho Short hoặc ảnh 2K.
 - 08/11 15:21: chuyển `FIRE10.DEV/MusicMaker` → `~/Projects/FIRE10.DEV/REPO/MusicMaker`, để symlink ở chỗ cũ vì `hub.db` của tiktok-affiliate-auto lưu đường dẫn tuyệt đối (`meta.media_roots`, `shot.*_path`, `batch.folder`); `media.safe()` resolve() cả 2 phía nên vẫn khớp. Default `HUB_MUSIC_DIR` trong `hub/db.py` đổi thành `ROOT.parent / "MusicMaker"`. Bỏ symlink chỉ sau khi rewrite path trong hub.db.
 - 08/11 15:40: repo có quy trình commit (CLAUDE.md): cập nhật `HANDOFF.md` → `python3 -I tools/redact.py sync` (MEGABRAIN → `docs/megabrain/`, theo `MANIFEST`, đã lọc email/tên acc/SSH key/`/Users/<tên>`/link project Flow) → `redact.py check` phải OK (chặn credential + file > 1 MB). Thông tin riêng → `local/PRIVATE.md` + `local/redact.txt` (gitignored). `docs/pipeline-notes.md` bỏ, thay bằng `docs/megabrain/ai-video/research/<file này>`.
+- 08/11 16:10: agent tự tạo nhạc pack 04–05 qua Claude in Chrome. Có 2 Chrome kết nối; phiên Flow Music đăng nhập chỉ ở 1 cái → `list_connected_browsers` + `select_browser` (tab Browser khác thấy "Log in"). Gửi prompt vào session cũ "Night Coding Synthwave" (ô "Ask Producer", `find` lấy ref; click toạ độ ở New session dễ trúng thẻ gợi ý). Credit 05/11 hết đã hồi. Tải không cần UI: `/song/<id>` trong DOM → `storage.googleapis.com/producer-app-public/clips/<id>.m4a` (mp3 404) → ffmpeg libmp3lame 192k → `batch4/audio/<id> <title>.mp3`. Bài ngắn bất thường: G04-1 107 s, G04-2 123 s, G04-4 85 s (pack 1–3: 157–182 s).
 
 ## Phiên 08/11/2026 16:00 — tags P01 + related Short G01-1
 - Browser pane của app và Chrome "Browser 3" đăng nhập tài khoản khác ⇒ Studio kênh báo 403 / "Rất tiếc, bạn không có quyền". Profile đúng lần này là "Browser 1" (tên/ID đổi theo lần kết nối) ⇒ `list_connected_browsers`, chọn thử, mở `studio.youtube.com/channel/<id>/videos` kiểm tên kênh trước khi làm.
 - Tags ở trang edit chỉ hiện sau "Hiện chế độ cài đặt nâng cao" (`#toggle-button`); click ô "Thẻ (từ khóa)" rồi gõ 10 tag cách dấu phẩy (kết thúc bằng dấu phẩy) ⇒ 10 chip, Lưu, reload kiểm `#tags-container ytcp-chip`.
 - Hộp "Chọn một video cụ thể": gõ tìm kiếm có lúc không vào ô, nhưng video công khai hiện sẵn trong lưới ⇒ chọn thẻ trực tiếp, đọc lại nút "Video có liên quan <tên>" trước khi Lưu.
 - Máy này không có `local/` ⇒ `redact.py check` thiếu danh sách tên cần lọc (lần sync đầu lọt tên kênh cá nhân — đã revert; 08/11 tạo lại `local/redact.txt`). 🟠 MEGABRAIN máy này từng **cũ hơn** `docs/megabrain` trong repo (thiếu mục 04–08/11): `sync` ghi đè ngược. Trước khi sync: `git diff` thư mục `docs/megabrain` sau sync, thấy mất dòng thì dừng.
+
+## Đăng G04–G05 bằng browser pane — 2026-11-09
+- 10 video 1 giờ pack 04–05 lên lịch 15/11 20:00 → 20/11 10:00 (ID `MusicMaker/batch4/schedule_log.md`). `make_posts.py "15/11/2026 20:00"` nhận slot đầu + ghi file riêng `youtube_posts_batch4_<đầu>_<cuối>.md` (không ghi đè file G01–G03).
+- Upload tuần tự (~1,6 GB/video, ~3 phút/video); điền ngay bản đã tải 100% qua bút chì ở bảng tiến độ, không chờ cả lô. ~2 phút/video.
+- JS cài trên trang (`B4` dữ liệu, `b4open` điền + playlist + mở lịch, `b4done` kiểm ngày/giờ rồi bấm Lên lịch → "Đã hiểu" → đóng hộp).
+  - Tags: `insertText("a,…,")` để chữ nằm trong ô, **chưa thành chip** ⇒ dispatch `keydown Enter` (JS) → 10 chip.
+  - Ngày: `insertText("20 thg 11, 2026")` vào input của date picker, rồi **phím Enter thật** (`computer key Return`); Enter giả bằng JS không ăn.
+  - Giờ: focus input + đặt con trỏ cuối (JS) → Backspace ×8 → gõ "10:00" → Enter (phím thật). `cmd+a` + gõ ra "10:10" (sai); `insertText` bị reset 00:00.
+  - Múi giờ mặc định đã là "(GMT+0700) Giờ địa phương" ⇒ không cần đổi.
+  - Mở lịch: `#second-container-expand-button`; click toạ độ không ăn.
+  - Hộp sau khi Lên lịch: "Đã lên lịch cho video" hoặc "Xử lý video" (video chưa xử lý xong) — đóng bằng `ytcp-button#close-button`, không đụng icon "Sao chép đường liên kết". `offsetParent` của hộp vẫn khác null sau khi đóng ⇒ kiểm bằng screenshot.
+  - ID video: `udvid=` trên URL khi hộp mở (không cần nút copy).
+- Lặp lại gotcha 07/11: hộp mở chậm (G04-2) ⇒ selectAll chọn cả trang, playlist dialog rỗng ⇒ đóng dialog, bỏ chọn, điền lại. Video cuối (G04-1) chờ thêm 6 s là ổn.
+- Thumbnail chưa đặt (pane không upload file) — user tự tải `batch4/out/<id> <title> thumbnail.jpg`.
