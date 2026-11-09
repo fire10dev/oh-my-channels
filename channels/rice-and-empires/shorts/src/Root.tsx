@@ -153,7 +153,7 @@ export const RemotionRoot: React.FC = () => (
       fps={LFPS}
       durationInFrames={longTotal(l003 as any, l003t)}
     />
-    <Still id="L007Thumb" component={Thumb} width={1280} height={720} defaultProps={{bg: 'l007/thumb-bg.jpg', big: 'EMPEROR AT HOME.', line: 'VASSAL ABROAD.', tag: '900 years of tribute diplomacy'}} />
+    <Still id="L007Thumb" component={Thumb} width={1280} height={720} defaultProps={{bg: 'l007/thumb-bg.jpg', big: 'EMPEROR', line: 'AT HOME. VASSAL ABROAD.', tag: 'Tribute diplomacy, 939–1885'}} />
     <Composition
       id="L007"
       component={LongVideo}
