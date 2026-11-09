@@ -12,7 +12,7 @@ import json, pathlib, re, sys
 md, vid = pathlib.Path(sys.argv[1]), sys.argv[2]
 subs = json.loads(pathlib.Path(sys.argv[3]).read_text()) if len(sys.argv) > 3 else []
 pub = pathlib.Path('shorts/public')
-CLIP_FALLBACK = {'1': 's006/img-00.jpg', '2': 's006/img-01.jpg', '3': 's006/img-04.jpg'}
+CLIP_FALLBACK = {'1': ('tall', 's006/img-00.jpg'), '2': ('img', 'l003/flow-han.jpg'), '3': ('tall', 's006/img-04.jpg')}
 
 text = md.read_text()
 m = re.search(r'^Chapter cards: (.+)$', text, re.M)
@@ -50,7 +50,7 @@ for line in text.split('\n'):
         elif t.startswith('CLIP:'):
             n = t[5:]
             f = f'{vid}/clip-{n}.mp4'
-            shots.append({'k': 'clip', 'src': f} if (pub / f).exists() else {'k': 'tall', 'src': CLIP_FALLBACK[n]})
+            shots.append({'k': 'clip', 'src': f} if (pub / f).exists() else dict(zip(('k', 'src'), CLIP_FALLBACK[n])))
         else:
             raise SystemExit(f'row {rid}: unknown shot {t!r}')
     rows.append({'id': rid, 'ch': ch, 'sub': en, 'say': say, 'shots': shots, 'src': src,

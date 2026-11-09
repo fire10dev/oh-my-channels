@@ -67,6 +67,17 @@ Register each video in `shorts/src/Root.tsx`.
   may auto-create a personal channel.
 - **Caption style** (owner 2026-11-08): captions at the TOP (progress bar 130 px, text 168 px), small (title 44 px, line 40 px),
   narration shown as ≤ 6-word chunks timed by character share — never the full sentence; dark band only top 24%. Image must stay visible.
+- **Long videos (16:9, L003+)**: script table `| NN | ch | EN | claims | shots | VI |` → `tools/long_build.py` → `shorts/src/<vid>.json`
+  (+ `.scenes.json` for Kokoro) → `LongVideo` composition (`shorts/src/LongVideo.tsx`, map `LongMap.tsx`, thumbnail `Thumb.tsx`).
+  Chapter times for the description: `tools/long_chapters.py <vid>`. Missing images → copy a placeholder and list it in `public/<vid>/.placeholders`;
+  `tools/long_import.sh <vid>` replaces them. Never render the final while `.placeholders` is non-empty.
+- **Cinzel digits**: "111" renders like "III" → numbers/years in Be Vietnam Pro, Cinzel only for words.
+- **AI Studio speed** (2026-11-09): Nano Banana 2.1 with Thinking "High" took 2–4 min/image and often timed out; Thinking "Minimal" ≈ 30 s/image.
+- **Flow clips** (2026-11-09): Flow cannot read our local images (CSP blocks 127.0.0.1; no file upload tool) → generate the start image in Flow
+  (Image mode, Nano Banana 2.1 = 0 credits), then Video → Frames → Start = that image (Omni 1.2 Flash, 720p, 8 s = 24 credits).
+  Get the file: right after it finishes, `performance.getEntriesByType('resource')` shows `https://flow-content.google/video/<uuid>?Expires…&Signature…`
+  (signed, `curl` works without cookies). Call `performance.setResourceTimingBufferSize(5000)` first: once the 250-entry buffer is full the URL is
+  never recorded, and later views load the video via `/asb/…` (needs login → not downloadable). The Download button gives no file.
 - Remotion fonts download from Google Fonts at render time (needs network). Banner safe area: center 1546×423 of 2560×1440.
 
 ## 6. Done = 

@@ -33,6 +33,7 @@ import s011 from './s011.json';
 import s011t from './s011.timeline.json';
 
 import {LFPS, LongVideo, longTotal} from './LongVideo';
+import {Thumb} from './Thumb';
 import l003 from './l003.json';
 import l003t from './l003.timeline.json';
 
@@ -140,6 +141,7 @@ export const RemotionRoot: React.FC = () => (
       fps={FPS}
       durationInFrames={totalFrames(s011t)}
     />
+    <Still id="L003Thumb" component={Thumb} width={1280} height={720} defaultProps={{bg: 'l003/thumb-bg.jpg', big: '1,000 YEARS', line: 'OF CHINESE RULE?', tag: 'What the sources say'}} />
     <Composition
       id="L003"
       component={LongVideo}

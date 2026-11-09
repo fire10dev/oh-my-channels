@@ -72,7 +72,7 @@ Shots of a row share the row's narration time equally (≈ 4–6 s each).
 | 07 | 1 | Then came Zhao Tuo, a former Qin commander. Around 204 BC, he founded Nanyue, a kingdom ruled from what is now Guangzhou. | C11 | i07 · MAP:nanyue · i08 | Rồi đến Triệu Đà, một tướng cũ nhà Tần. Khoảng năm 204 TCN, ông lập nước Nam Việt, đóng đô ở nơi nay là Quảng Châu. |
 | 08 | 1 | Nanyue later took control of the Red River region. Vietnamese historians have long argued over whether Zhao Tuo was a local king or a foreign ruler. | C11 | i09 · i10 | Về sau Nam Việt nắm vùng sông Hồng. Sử gia Việt Nam tranh luận từ lâu: Triệu Đà là vua bản xứ hay người cai trị ngoại bang. |
 | 09 | 2 | In 112 BC, a Nanyue minister killed his own king and the Han envoys. Emperor Wu of Han answered with an invasion. | C12 | CARD:2 · i11 · i12 | Năm 112 TCN, một đại thần Nam Việt giết chính vua mình và sứ giả nhà Hán. Hán Vũ Đế đáp trả bằng một cuộc xâm lược. |
-| 10 | 2 | In 111 BC, Nanyue fell. The Han split its lands into commanderies, including Jiaozhi, Jiuzhen and Rinan, in what is now northern and north-central Vietnam. | C12 | CLIP:2 · MAP:han · i13 | Năm 111 TCN, Nam Việt mất. Nhà Hán chia đất thành các quận, trong đó có Giao Chỉ, Cửu Chân, Nhật Nam, nay là miền Bắc và Bắc Trung Bộ Việt Nam. |
+| 10 | 2 | In 111 BC, Nanyue fell. The Han split its lands into commanderies, including Jiaozhi, Jiuzhen and Rinan, in what is now northern and north-central Vietnam. | C12 | i71 · MAP:han · i13 | Năm 111 TCN, Nam Việt mất. Nhà Hán chia đất thành các quận, trong đó có Giao Chỉ, Cửu Chân, Nhật Nam, nay là miền Bắc và Bắc Trung Bộ Việt Nam. |
 | 11 | 2 | This is the conventional start of Chinese rule. But notice what it covered: the Red River region and the coast to its south. Not today's whole Vietnam. | C2, C3 | TL:111 · MAP:han · s6:02 | Đây là mốc khởi đầu quen dùng của Bắc thuộc. Nhưng hãy để ý phạm vi: vùng sông Hồng và dải ven biển phía nam. Không phải cả Việt Nam ngày nay. |
 | 12 | 2 | Further south, Linyi and later Champa emerged, alongside Funan in the Mekong region. | C3 | MAP:south · i14 | Xa hơn về phía nam, Lâm Ấp rồi Champa hình thành, cùng với Phù Nam ở vùng Mê Kông. |
 | 13 | 2 | At first, Han control was light. Local Lạc lords kept much of their power, under Chinese governors. | C15 | i15 · s4:01 | Lúc đầu nhà Hán cai trị lỏng. Các lạc tướng bản địa vẫn giữ nhiều quyền lực, dưới quyền thái thú người Hán. |
@@ -116,7 +116,7 @@ Shots of a row share the row's narration time equally (≈ 4–6 s each).
 | 51 | 7 | And who were the people of the delta? Historian Catherine Churchman argues that the sources do not show a fixed divide between Chinese and Vietnamese in the early Red River plain. | C7 | s6:06 · i67 · SRC:Churchman 2016 | Vậy cư dân châu thổ là ai? Sử gia Catherine Churchman cho rằng các nguồn không cho thấy một ranh giới cố định giữa "người Hoa" và "người Việt" ở đồng bằng sông Hồng thời đầu. |
 | 52 | 7 | Chinese records described the region through imperial administration. Some modern Vietnamese national histories frame the period as a thousand-year struggle. | C8 | i68 · i69 | Sử Trung Quốc mô tả vùng này qua lăng kính hành chính đế chế. Một số sách quốc sử Việt hiện đại gọi đó là cuộc đấu tranh nghìn năm. |
 | 53 | 7 | Historians debate that framing. Scholars such as Keith Taylor, Liam Kelley and Catherine Churchman read the evidence in different ways. | C8, C7, C10 | TL:full · SRC:Taylor · Kelley · Churchman | Giới sử học tranh luận về cách nhìn đó. Các học giả như Keith Taylor, Liam Kelley, Catherine Churchman đọc bằng chứng theo những cách khác nhau. |
-| 54 | 7 | The real story is messier than one number. Rule had breaks. It covered one region, not a modern nation. And the people in it did not wear modern labels. | C3, C4, C7 | MAP:full · i70 | Câu chuyện thật phức tạp hơn một con số. Sự cai trị có gián đoạn. Nó bao trùm một vùng, không phải một quốc gia hiện đại. Và con người thời đó không mang nhãn hiện đại. |
+| 54 | 7 | The real story is messier than one number. Rule had breaks. It covered one region, not a modern nation. And the people in it did not wear modern labels. | C3, C4, C7 | MAP:full · CLIP:2 | Câu chuyện thật phức tạp hơn một con số. Sự cai trị có gián đoạn. Nó bao trùm một vùng, không phải một quốc gia hiện đại. Và con người thời đó không mang nhãn hiện đại. |
 | 55 | 7 | Which part surprised you? Tell us in the comments, and subscribe to Rice and Empires for more. | — (CTA) | s6:08 · CARD:end | Phần nào làm bạn bất ngờ? Hãy bình luận, và đăng ký Rice & Empires để xem thêm. |
 
 Chapter cards: 0 "A Thousand Years?" · 1 "Before the Han" · 2 "The Han Conquest" · 3 "The Trưng Revolt" · 4 "The Long Middle" · 5 "Tang Annam" · 6 "Breaking Away" · 7 "What It Left Behind".
@@ -132,9 +132,9 @@ composition, museum quality, wide landscape 16:9, no text, no letters, no flags,
 Prompts live in `shorts/src/l003.images.json` (`[file, style, prompt]`), generated in AI Studio (Nano Banana 2.1, 16:9, 2K).
 
 ## AI video clips (Flow/Veo → Gemini, image-to-video from our own images)
-1. `clip-1` from img-01: river mouth at dusk with wooden stakes and ships, slow push-in.
-2. `clip-2` from img-12: Han army column crossing a mountain pass, map vignette, slow pan.
-3. `clip-3` from img-55: falling tide, ships caught on stakes, small boats closing in.
+1. `clip-1`: lacquer river mouth with stakes and war junks at dusk (start image made in Flow from the img-01 prompt; Flow cannot read local files).
+2. `clip-2`: Red River delta map at sunrise, slow drift (Flow, generated from the img-70 prompt). The Han-army clip was generated but could not be downloaded → `img-71` (its Flow start image) with Remotion motion instead.
+3. `clip-3`: lacquer battle, junks caught on stakes, small boats closing in (Flow start image + Omni 1.2 Flash, 8 s, 720p).
 
 ## Publishing (draft — owner uploads)
 Title: **1,000 Years of Chinese Rule in Vietnam: What the Sources Actually Say**
@@ -143,14 +143,20 @@ Description:
 whole country. Who resisted, who collaborated, and why do historians still argue about the 'thousand-year struggle'?
 
 Chapters
-0:00 A thousand years?
-(chapter times filled in after render)
+0:00 A Thousand Years?
+0:30 Before the Han
+1:25 The Han Conquest
+2:14 The Trưng Revolt
+3:29 The Long Middle
+4:50 Tang Annam
+5:58 Breaking Away
+7:35 What It Left Behind
 
 Sources: K. W. Taylor, The Birth of Vietnam (1983) and A History of the Vietnamese (2013); L. Kelley, Beyond the Bronze Pillars (2005) and
 'The Biography of the Hồng Bàng Clan as a Medieval Vietnamese Invented Tradition' (2012); C. Churchman, The People between the Rivers (2016);
 B. Kiernan, Việt Nam: A History from Earliest Times to the Present (2019); Sima Qian, Shiji; Hou Hanshu; Sanguozhi; Đại Việt sử ký toàn thư;
 Encyclopaedia Britannica.
-Illustrations and narration are AI-assisted. Music: YouTube Audio Library. Corrections welcome in the comments.
+Illustrations, video clips and narration are AI-assisted. Music: (fill in the Audio Library track names; placeholder bed is synthesized). Corrections welcome in the comments.
 #Vietnam #China #History #SoutheastAsia"
 
 ## Self-check (FACT-CHECK §6)
