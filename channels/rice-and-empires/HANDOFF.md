@@ -2,6 +2,9 @@
 
 For a fresh Claude session (other account / other machine) continuing this work. Read `AGENTS.md` first (rules updated 2026-11-07 night).
 
+## Next: long-video batch L004–L007 (Vietnam × China)
+Plans and the copy-paste session prompts live in `docs/plans/LONG-BATCH-HANDOFF.md`. Run one video per session and one session per night.
+
 ## L003 long video "1,000 years of Chinese rule" — overnight 2026-11-09 → 10 (branch `night/2026-11-09`, NOT rendered)
 State 00:35 (+07), stopped at the usage limit:
 - ✅ Script `scripts/L003-a-thousand-years-of-chinese-rule-long.md` v4: 55 lines, 1,215 words, C1–C27, Codex r1–r3 (r3 FAIL → fixed/hedged, not re-reviewed).

@@ -78,6 +78,14 @@ Register each video in `shorts/src/Root.tsx`.
   Get the file: right after it finishes, `performance.getEntriesByType('resource')` shows `https://flow-content.google/video/<uuid>?Expires…&Signature…`
   (signed, `curl` works without cookies). Call `performance.setResourceTimingBufferSize(5000)` first: once the 250-entry buffer is full the URL is
   never recorded, and later views load the video via `/asb/…` (needs login → not downloadable). The Download button gives no file.
+- **Image source rotation** (owner rule): AI Studio → Gemini → Flow (→ Codex/ChatGPT if needed). When one source is slow, rate-limited or
+  signed out, **switch at once — do not stop and ask**. 2026-11-10: AI Studio got signed out; Flow made 38 images in ~15 min.
+- **Flow images in the built-in browser (works, 2026-11-10)**: the prompt box is ProseMirror → `focus()` + `execCommand('insertText')`.
+  The send button ignores synthetic clicks → use a trusted click (`computer` click on the `Start generation` ref). After that, grid tiles
+  `flow-image-tile` hold a title (`flow-tile-hover-footer span`, generated from the prompt → map title ↔ prompt) and a signed `flow-content` src.
+  Load it with `crossOrigin='anonymous'` → canvas → JPEG blob (CORS is allowed; 1376×768) → IndexedDB → one form POST to `receive_images.py`.
+  Sending more than ~8 prompts back to back → some fail with "unusual activity"; leave ~5 s between prompts and resend the failed ones.
+  Settings: always check that the chip shows `Nano Banana 2.1 … x1` (image, 0 credits). Video mode costs 24 credits per prompt.
 - Remotion fonts download from Google Fonts at render time (needs network). Banner safe area: center 1546×423 of 2560×1440.
 
 ## 6. Done = 
