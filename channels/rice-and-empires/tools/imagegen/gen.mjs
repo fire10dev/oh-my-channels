@@ -14,6 +14,7 @@ import {execFileSync} from 'node:child_process';
 
 const PROFILE = path.join(os.homedir(), '.cache', 'rice-imagegen-profile'); // outside the repo, never committed
 const LOG = path.join(process.env.TMPDIR || '/tmp', 'imagegen.log');
+const AR = process.env.IMG_AR || '9:16'; // IMG_AR=16:9 for long videos
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const log = (...a) => fs.appendFileSync(LOG, `${new Date().toISOString()} ${a.join(' ')}\n`);
 const RL = /rate limit|quota|limit for today|can['’]t (create|generate) more|try again later|too many requests/i;
@@ -46,18 +47,18 @@ const providers = {
       if (!(await page.locator('[role=combobox][aria-label="Aspect ratio"]').count()))
         await page.getByText('tune', {exact: true}).first().click({timeout: 5000}).catch(() => {});
       await sleep(1200);
-      return page.evaluate(async () => {
+      return page.evaluate(async (AR) => {
         const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
         const k = (el) => el.dispatchEvent(new KeyboardEvent('keydown', {key: 'ArrowDown', code: 'ArrowDown', keyCode: 40, bubbles: true}));
         [...document.querySelectorAll('button')].find((b) => /Images only/.test(b.textContent))?.click();
         const ar = document.querySelector('[role=combobox][aria-label="Aspect ratio"]');
         const rs = document.querySelector('[role=combobox][aria-label="Resolution"]');
-        if (ar) { ar.focus(); for (let i = 0; i < 20 && !/9:16/.test(ar.textContent); i++) { k(ar); await sleep(150); } }
+        if (ar) { ar.focus(); for (let i = 0; i < 20 && !ar.textContent.includes(AR); i++) { k(ar); await sleep(150); } }
         if (rs) { rs.focus(); for (let i = 0; i < 5 && !/2K/.test(rs.textContent); i++) { k(rs); await sleep(150); } }
         const g = [...document.querySelectorAll('[role=switch],button[aria-checked]')].find((s) => s.getAttribute('aria-label') === 'Grounding with Google Search');
         if (g?.getAttribute('aria-checked') === 'true') g.click();
         return `AR=${ar?.textContent.trim().slice(0, 5)} RES=${rs?.textContent.trim().slice(0, 3)}`;
-      });
+      }, AR);
     },
     async gen(page, prompt, tmp) {
       const nT = await page.locator('ms-chat-turn').count();
@@ -91,7 +92,7 @@ const providers = {
       const nDl = await page.getByRole('button', {name: 'Download full size image'}).count();
       const ed = page.locator('rich-textarea .ql-editor');
       await ed.click();
-      await page.keyboard.insertText('Generate one image, vertical 9:16 portrait. ' + prompt);
+      await page.keyboard.insertText((AR === '9:16' ? 'Generate one image, vertical 9:16 portrait. ' : `Generate one image, wide ${AR} landscape. `) + prompt);
       await page.getByRole('button', {name: /send/i}).first().click();
       const t0 = Date.now();
       while (Date.now() - t0 < 180000) {
@@ -124,7 +125,7 @@ const providers = {
       await page.goto('https://flow.google.com/', {waitUntil: 'domcontentloaded'});
       await page.getByRole('button', {name: /New project/}).click({timeout: 20000});
       await page.getByRole('button', {name: 'Settings trigger'}).click({timeout: 20000});
-      for (const t of [/^imageImage$/, /9:16$/, /^x1$/]) await page.getByRole('button', {name: t}).first().click({timeout: 5000}).catch(() => {});
+      for (const t of [/^imageImage$/, new RegExp(AR + '$'), /^x1$/]) await page.getByRole('button', {name: t}).first().click({timeout: 5000}).catch(() => {});
       await page.keyboard.press('Escape');
       return 'ready';
     },

@@ -30,6 +30,25 @@ const HAINAN = path([[108.6, 19.2], [109.4, 18.3], [110.4, 18.6], [111.0, 19.6],
 const RED_RIVER: [number, number][] = [[101.9, 24.6], [102.8, 23.6], [103.9, 22.6], [104.4, 22.2], [104.9, 21.7], [105.4, 21.3], [105.85, 21.03], [106.05, 20.65], [106.6, 20.25]];
 const BACH_DANG: [number, number][] = [[106.3, 21.15], [106.55, 21.0], [106.75, 20.92], [106.85, 20.8]];
 
+// ── Wide East Asia layer (L007+, generic): schematic north China coast, Korea, Taiwan, Japan, Ryukyu. Only drawn for WIDE states.
+const N_COAST: [number, number][] = [
+  [118, 24.5], [119.6, 26.3], [120.6, 28.0], [121.9, 29.9], [121.0, 31.0], [121.8, 31.7], [120.4, 33.5], [119.2, 35.0], [120.4, 36.2],
+  [122.5, 37.2], [120.8, 37.8], [118.9, 37.4], [117.8, 38.4], [118.8, 39.2], [121.0, 40.8], [122.2, 40.5], [121.2, 39.0], [123.5, 39.9],
+  [124.3, 39.9], [125.2, 39.0], [125.4, 38.0], [126.5, 37.5], [126.3, 36.0], [126.4, 34.6], [127.6, 34.7], [128.8, 35.1], [129.4, 35.6],
+  [129.4, 37.0], [128.5, 38.5], [127.6, 39.8], [128.9, 40.8], [129.8, 41.6], [130.7, 42.4],
+];
+const NORTH_FILL = path([[100, 24.0], [118, 24.0], ...N_COAST, [131.5, 48], [100, 48]]) + ' Z';
+const N_COAST_D = path(N_COAST);
+const TAIWAN = path([[120.1, 23.0], [120.8, 22.0], [121.5, 22.9], [121.9, 24.9], [121.5, 25.3], [120.7, 24.6]]) + ' Z';
+const JAPAN = path([[129.7, 33.2], [130.9, 31.3], [131.8, 32.6], [131.5, 33.9], [133.5, 34.4], [135.2, 33.8], [136.9, 34.6], [139.8, 35.0],
+  [140.9, 36.5], [141.9, 39.5], [141.4, 41.4], [140.0, 40.8], [139.6, 38.6], [137.2, 36.9], [135.9, 35.6], [133.0, 35.5], [131.0, 34.4]]) + ' Z';
+const RYUKYU: [number, number][] = [[127.8, 26.4], [128.3, 26.8], [129.5, 28.3], [124.2, 24.4], [125.3, 24.8]];
+const WIDE: Record<string, boolean> = {asia_tributaries: true, tribute_route: true};
+// Dotted overland routes (drawn progressively): Thăng Long → Lạng Sơn → Nanning → Guilin → Wuchang → Beijing (schematic).
+const ROUTES: Record<string, [number, number][]> = {
+  tribute_route: [[105.85, 21.03], [106.76, 21.85], [108.37, 22.82], [110.3, 25.27], [112.9, 28.2], [114.3, 30.6], [114.5, 34.8], [116.4, 39.9]],
+};
+
 type Cam = {lon: number; lat: number; w: number};
 const CAMS: Record<string, [Cam, Cam]> = {
   draw: [{lon: 104.6, lat: 22.2, w: 640}, {lon: 105.6, lat: 21.0, w: 520}],
@@ -41,6 +60,9 @@ const CAMS: Record<string, [Cam, Cam]> = {
   southernhan: [{lon: 109.6, lat: 22.2, w: 1350}, {lon: 109.2, lat: 21.9, w: 1250}],
   bachdang: [{lon: 106.9, lat: 20.8, w: 380}, {lon: 106.7, lat: 20.95, w: 260}],
   full: [{lon: 106.6, lat: 18.0, w: 1800}, {lon: 106.4, lat: 17.4, w: 2000}],
+  song_lie: [{lon: 107.4, lat: 22.0, w: 950}, {lon: 107.2, lat: 21.9, w: 820}],
+  asia_tributaries: [{lon: 114.0, lat: 30.5, w: 3900}, {lon: 114.5, lat: 31.0, w: 3600}],
+  tribute_route: [{lon: 107.5, lat: 22.8, w: 1300}, {lon: 112.0, lat: 30.6, w: 3600}],
 };
 
 type Lbl = {lon: number; lat: number; t: string; big?: boolean; color?: string; at?: number};
@@ -53,6 +75,12 @@ const LABELS: Record<string, Lbl[]> = {
   nanzhao: [{lon: 100.4, lat: 25.3, t: 'NANZHAO (Yunnan)', big: true, color: BRAND.vermilion, at: 0.05}, {lon: 105.85, lat: 21.03, t: 'Annan', big: true, at: 0.6}],
   southernhan: [{lon: 113.26, lat: 23.13, t: 'SOUTHERN HAN', big: true, color: BRAND.vermilion, at: 0.1}, {lon: 105.85, lat: 21.03, t: 'Jinghai / Tĩnh Hải', big: true, at: 0.5}],
   bachdang: [{lon: 106.55, lat: 21.12, t: 'Bạch Đằng River', big: true, at: 0.15}, {lon: 107.15, lat: 20.55, t: 'Southern Han fleet', color: BRAND.vermilion, at: 0.45}],
+  song_lie: [{lon: 105.85, lat: 21.03, t: 'Thăng Long', big: true, at: 0.05}, {lon: 108.37, lat: 22.82, t: 'Yongzhou (Nanning)', big: true, color: BRAND.vermilion, at: 0.55},
+    {lon: 108.62, lat: 21.95, t: 'Qinzhou', color: BRAND.vermilion, at: 0.45}, {lon: 109.2, lat: 21.66, t: 'Lianzhou', color: BRAND.vermilion, at: 0.5}, {lon: 106.0, lat: 21.3, t: 'Như Nguyệt River', at: 0.75}],
+  asia_tributaries: [{lon: 116.4, lat: 39.9, t: 'CHINESE COURT', big: true, color: BRAND.vermilion, at: 0.05}, {lon: 127.0, lat: 37.6, t: 'KOREA', big: true, at: 0.3},
+    {lon: 127.8, lat: 26.3, t: 'RYUKYU', big: true, at: 0.45}, {lon: 105.85, lat: 21.03, t: 'VIETNAM', big: true, at: 0.6}],
+  tribute_route: [{lon: 105.85, lat: 21.03, t: 'Thăng Long', big: true, at: 0.02}, {lon: 106.76, lat: 21.85, t: 'Lạng Sơn', at: 0.15}, {lon: 108.37, lat: 22.82, t: 'Nanning', at: 0.28},
+    {lon: 116.4, lat: 39.9, t: 'Beijing', big: true, color: BRAND.vermilion, at: 0.85}],
   full: [{lon: 105.85, lat: 21.03, t: 'Red River region', big: true, color: BRAND.vermilion, at: 0.15}, {lon: 108.3, lat: 14.2, t: 'Champa', at: 0.45}, {lon: 105.2, lat: 12.6, t: 'Funan / Khmer lands', at: 0.6}],
 };
 // Arrows (from → to), drawn as brush strokes.
@@ -61,6 +89,8 @@ const ARROWS: Record<string, [number, number][][]> = {
   nanzhao: [[[100.6, 25.1], [102.4, 23.9], [104.3, 22.3], [105.6, 21.2]]],
   southernhan: [[[112.8, 22.8], [110.6, 21.0], [108.2, 20.6], [107.0, 20.8]]],
   bachdang: [[[107.6, 20.35], [107.2, 20.6], [106.9, 20.85]]],
+  song_lie: [[[105.9, 21.1], [106.9, 21.6], [108.3, 22.7]], [[106.2, 20.9], [107.6, 21.3], [108.6, 21.9]], [[108.3, 22.6], [107.0, 21.6], [106.1, 21.3]]],
+  asia_tributaries: [[[126.8, 37.4], [122.0, 39.0], [116.9, 39.8]], [[127.6, 26.4], [122.0, 30.0], [117.0, 39.4]], [[106.2, 21.3], [111.0, 30.0], [116.0, 39.4]]],
 };
 // Tinted zones: [lon, lat, radius°]
 const ZONES: Record<string, [number, number, number][]> = {
@@ -70,6 +100,7 @@ const ZONES: Record<string, [number, number, number][]> = {
   annan: [[105.85, 21.0, 0.9]],
   southernhan: [[112.5, 23.2, 2.4], [109.5, 22.6, 1.8]],
   full: [[105.9, 21.0, 1.3], [105.8, 19.5, 1.0], [107.0, 17.2, 0.9]],
+  asia_tributaries: [[127.3, 37.0, 2.0], [127.8, 26.4, 1.3], [105.9, 20.5, 2.0]],
 };
 
 export const RedRiverMap: React.FC<{state: string; frames: number; cinzel: string; body: string}> = ({state, frames, cinzel, body}) => {
@@ -98,6 +129,30 @@ export const RedRiverMap: React.FC<{state: string; frames: number; cinzel: strin
       <rect x={-500} y={-500} width={3000} height={3000} fill="url(#hatch)" />
       <path d={LAND} fill="#f0e2c0" stroke={BRAND.ink} strokeWidth={3 * k} filter="url(#rough)" />
       <path d={HAINAN} fill="#f0e2c0" stroke={BRAND.ink} strokeWidth={3 * k} filter="url(#rough)" />
+      {WIDE[state] && (
+        <g>
+          <rect x={-800} y={-2400} width={4200} height={2600} fill="#c9b98f" />
+          <rect x={-800} y={-2400} width={4200} height={2600} fill="url(#hatch)" />
+          <path d={NORTH_FILL} fill="#f0e2c0" />
+          <path d={N_COAST_D} fill="none" stroke={BRAND.ink} strokeWidth={3 * k} filter="url(#rough)" />
+          <path d={TAIWAN} fill="#f0e2c0" stroke={BRAND.ink} strokeWidth={3 * k} filter="url(#rough)" />
+          <path d={JAPAN} fill="#f0e2c0" stroke={BRAND.ink} strokeWidth={3 * k} filter="url(#rough)" opacity={0.85} />
+          {RYUKYU.map(([lo, la], i) => <circle key={i} cx={P(lo, la)[0]} cy={P(lo, la)[1]} r={14 * k} fill="#f0e2c0" stroke={BRAND.ink} strokeWidth={2 * k} />)}
+        </g>
+      )}
+      {ROUTES[state] && (
+        <path d={smooth(ROUTES[state])} fill="none" stroke={BRAND.vermilion} strokeWidth={6 * k} strokeLinecap="round" strokeDasharray={`${4 * k} ${14 * k}`}
+          opacity={interpolate(p, [0.05, 0.15], [0, 0.9], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})}
+          mask={`url(#routemask-${state})`} />
+      )}
+      {ROUTES[state] && (
+        <defs>
+          <mask id={`routemask-${state}`} maskUnits="userSpaceOnUse" x={-2000} y={-3000} width={6000} height={6000}>
+            <path d={smooth(ROUTES[state])} fill="none" stroke="#fff" strokeWidth={30 * k} pathLength={1} strokeDasharray={1}
+              strokeDashoffset={1 - interpolate(p, [0.1, 0.8], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})} />
+          </mask>
+        </defs>
+      )}
       {/* mountains (decorative ^ marks in the north-west) */}
       {Array.from({length: 22}, (_, i) => {
         const [x, y] = P(100.6 + (i % 6) * 0.75 + (i % 2) * 0.3, 25.6 - Math.floor(i / 6) * 0.8 - (i % 3) * 0.15);
