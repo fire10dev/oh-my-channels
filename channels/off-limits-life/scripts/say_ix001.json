@@ -1,0 +1,126 @@
+[
+ {
+  "id": "hook",
+  "say": "You're about to disappear for seventy-seven days. No windows. No sunlight. No phone. A hundred and fifty-nine people, sealed inside a steel tube, somewhere in the ocean. And nobody, not even your family, knows where."
+ },
+ {
+  "id": "secret",
+  "say": "In fact, most of the crew won't know exactly where the boat is. Sometimes, only the captain and a handful of officers even know exactly how long the patrol will last. Your job is simple to describe and hard to do: disappear, and stay disappeared."
+ },
+ {
+  "id": "boat",
+  "say": "This is an Ohio-class ballistic missile submarine. Sailors call it a boomer. It's five hundred and sixty feet long, longer than one and a half football fields."
+ },
+ {
+  "id": "forest",
+  "say": "But most of that length isn't for people. In the back, there's a nuclear reactor. In the middle, twenty missile tubes stand in rows, so tall and so many that sailors call this compartment Sherwood Forest. The humans get what's left."
+ },
+ {
+  "id": "crews",
+  "say": "The Navy runs each of these boats with two complete crews, called Blue and Gold. While one crew is at sea, the other is at home, resting and training. On average, a patrol lasts seventy-seven days, followed by about five weeks of maintenance. Then the crews swap. Today, it's your turn."
+ },
+ {
+  "id": "sleep1",
+  "say": "Problem one: where do you sleep? Your bed is called a rack. It's a narrow shelf, stacked three high, with a curtain and a thin mattress. Under the mattress is a small locker. That's it. That's your entire personal space for the next eleven weeks."
+ },
+ {
+  "id": "sleep2",
+  "say": "And on the smaller attack submarines, there aren't always enough racks. The newest sailors may share one bed in shifts. When you crawl in, the mattress is still warm from the last person. That's why it's called hot racking."
+ },
+ {
+  "id": "clock",
+  "say": "Even time works differently down here. For decades, submarines didn't run on a normal day. Sailors stood watch for six hours, then had twelve off: an eighteen-hour day. Your body never knew when it was morning. In twenty fourteen, Navy researchers confirmed what sailors already knew: it was exhausting. Today, boats can run on a twenty-four-hour schedule instead."
+ },
+ {
+  "id": "water1",
+  "say": "Problem two: water. You're surrounded by ocean, but you can't drink a single drop of it. So the boat makes its own. It boils seawater, collects the steam, and cools it back into fresh water. The salt stays behind."
+ },
+ {
+  "id": "water2",
+  "say": "That fresh water has a long list of jobs: drinking, cooking, cooling equipment. And somewhere near the bottom of that list: your shower. So you learn the Navy shower. Water on. Get wet. Water off. Soap up. Water on. Rinse. Done."
+ },
+ {
+  "id": "air1",
+  "say": "Problem three: air. A hundred and fifty-nine people breathe out a lot of carbon dioxide. In a sealed tube, it would build up until it poisoned everyone on board. So the boat has to make its own air, too."
+ },
+ {
+  "id": "air2",
+  "say": "An oxygen generator runs electricity through water and splits it into hydrogen and oxygen. The oxygen goes into the air you breathe. The hydrogen goes overboard. A second machine pulls carbon dioxide out of the air using a chemical called amine, then pumps that into the sea, too."
+ },
+ {
+  "id": "air3",
+  "say": "And if both machines fail? There are oxygen candles. Light one, and a chemical reaction releases pure oxygen. None of this would work without the reactor. It gives the boat almost unlimited electricity, and that's what turns seawater into something you can breathe."
+ },
+ {
+  "id": "food1",
+  "say": "Problem four: food. On day one, the boat is packed with fresh fruit, salad, milk, and eggs. Enjoy them. They won't last."
+ },
+ {
+  "id": "food2",
+  "say": "Within one to three weeks, the fresh food is gone. After that, it's frozen, canned, and powdered, all the way to the end of the patrol."
+ },
+ {
+  "id": "food3",
+  "say": "The cooks rotate the menu so the same meal doesn't come back too often, because food is one of the few things that still feels normal. And there's a fourth meal, served around midnight for the sailors coming off watch. It's called midrats, short for midnight rations."
+ },
+ {
+  "id": "trash1",
+  "say": "Problem five: trash. You can't leave a trail of garbage floating behind a submarine that's supposed to be invisible. So dry trash is crushed in a compactor, packed into special metal cans, and loaded with weights so it sinks. Then the cans are fired out of a tube in the bottom of the boat, straight down to the sea floor."
+ },
+ {
+  "id": "trash2",
+  "say": "Human waste goes somewhere else: a sanitary tank. Every so often, the crew blows that tank out with compressed air. While they do, a sign goes up on every toilet: Warning. Blowing sanitaries. Do not flush. If you ignore it, you'll learn very quickly why that sign exists."
+ },
+ {
+  "id": "home1",
+  "say": "Problem six: home. A boomer's whole job is to stay hidden, so it almost never transmits. Your family can send you short messages called familygrams, just a few dozen words at a time. You can read them. You can't reply."
+ },
+ {
+  "id": "home2",
+  "say": "On British submarines, every message is screened, and bad news may be held back until the end of the patrol, when the crew can actually do something about it. It sounds harsh. The idea is that a sailor who can't go home can't do anything with that news, except carry it."
+ },
+ {
+  "id": "bored1",
+  "say": "Problem seven: boredom. Weeks start to blur together. So crews invent their own reasons to celebrate. When the captain announces that the boat is halfway through the patrol, it's halfway night: special food, games, and a little bit of chaos."
+ },
+ {
+  "id": "bored2",
+  "say": "Sailors watch movies, play cards, and keep old traditions alive. Cribbage has been a submarine favorite for generations. And then there are the pranks. On one Trident submarine in nineteen eighty-eight, the crew's forks began mysteriously disappearing, and submariners still tell the story."
+ },
+ {
+  "id": "med1",
+  "say": "Problem eight: getting sick. There's no doctor on board. The entire medical department is one person: an independent duty corpsman, a highly trained enlisted sailor who handles everything from flu to broken bones, and answers directly to the captain."
+ },
+ {
+  "id": "med2",
+  "say": "Ballistic missile submarines did once carry doctors, from the late nineteen-fifties into the nineteen-seventies. But the Navy found that corpsmen could handle most of what happens at sea. So today, if you get sick in the middle of the ocean, one sailor is your whole hospital."
+ },
+ {
+  "id": "fire1",
+  "say": "Problem nine: fire. On land, you run outside. Here, there is no outside. Smoke fills a compartment in seconds, and there are no windows to open."
+ },
+ {
+  "id": "fire2",
+  "say": "So you grab a mask called an emergency air breather. You pull it on, then plug its hose into an air manifold in the wall. Now you can breathe, but you can only move a few feet from that manifold. To go anywhere else, you hold your breath, unplug, and find the next one."
+ },
+ {
+  "id": "fire3",
+  "say": "That's why crews drill constantly, until every sailor knows where every manifold is. Some crews even compete at it blindfolded, because in real smoke, you won't see a thing."
+ },
+ {
+  "id": "sun",
+  "say": "Problem ten: the sun. By now you haven't seen it in two months. Without sunlight, your skin stops making vitamin D. In one study, the share of submariners with a vitamin D deficiency rose from thirteen percent to thirty percent."
+ },
+ {
+  "id": "surface",
+  "say": "And then, on day seventy-seven, the boat comes up. The hatch opens. Ask a submariner what they remember most about that moment. Many don't say the sunlight. They say the smell of fresh air."
+ },
+ {
+  "id": "swap",
+  "say": "You walk off. The Gold crew walks on. After a few weeks of maintenance, the boat disappears again, and somewhere, another family stops knowing where their sailor is."
+ },
+ {
+  "id": "record",
+  "say": "Seventy-seven days is the average. The longest Ohio-class patrol on record lasted a hundred and forty. Next time: the people who spend six months in total darkness, at the bottom of the world."
+ }
+]

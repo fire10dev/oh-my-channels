@@ -1,0 +1,89 @@
+{
+ "title": "Saturation Divers: 28 Days Under Pressure",
+ "unit": "DAY",
+ "scenes": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "clock": "07:00",
+   "view": [
+    960,
+    540,
+    1.0
+   ],
+   "say": "You're going to work at the bottom of the North Sea. The trip down takes minutes. The trip back up takes days."
+  },
+  {
+   "id": "what",
+   "hud": "DAY 1",
+   "clock": "07:00",
+   "view": [
+    640,
+    250,
+    2.0
+   ],
+   "stat": {
+    "big": "28",
+    "small": "days, max, sealed inside"
+   },
+   "say": "Saturation divers live in a sealed chamber on a ship, kept at the same pressure as the depth they work at, for up to twenty-eight days."
+  },
+  {
+   "id": "voice",
+   "hud": "DAY 2",
+   "clock": "19:00",
+   "view": [
+    560,
+    245,
+    3.2
+   ],
+   "card": {
+    "kicker": "PROBLEM 1",
+    "title": "TALKING"
+   },
+   "quote": "DINNER'S HERE!",
+   "say": "Problem one: talking. You breathe helium mixed with oxygen, and it makes every voice sound like a cartoon."
+  },
+  {
+   "id": "food",
+   "hud": "DAY 2",
+   "clock": "19:05",
+   "view": [
+    800,
+    245,
+    3.4
+   ],
+   "card": {
+    "kicker": "PROBLEM 2",
+    "title": "FOOD"
+   },
+   "say": "Problem two: food. Your meals come in through a tiny airlock, like the pass-through window at a bank."
+  },
+  {
+   "id": "leave",
+   "hud": "DAY 24",
+   "clock": "08:00",
+   "view": [
+    1100,
+    640,
+    1.5
+   ],
+   "card": {
+    "kicker": "PROBLEM 3",
+    "title": "LEAVING"
+   },
+   "say": "Problem three: leaving. Your body is soaked with dissolved gas. Come up too fast and it bubbles out of your blood. So decompression takes several days."
+  },
+  {
+   "id": "boat",
+   "hud": "DAY 24",
+   "clock": "08:00",
+   "view": [
+    1380,
+    250,
+    2.6
+   ],
+   "say": "And if the ship catches fire, you can't just jump overboard. There's a lifeboat for that, and it's pressurized too."
+  }
+ ]
+}

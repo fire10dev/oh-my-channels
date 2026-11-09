@@ -1,0 +1,32 @@
+[
+ {
+  "id": "hook",
+  "file": "vo-00.wav",
+  "seconds": 7.1
+ },
+ {
+  "id": "crew",
+  "file": "vo-01.wav",
+  "seconds": 6.2
+ },
+ {
+  "id": "sleep",
+  "file": "vo-02.wav",
+  "seconds": 12.2
+ },
+ {
+  "id": "shower",
+  "file": "vo-03.wav",
+  "seconds": 9.85
+ },
+ {
+  "id": "food",
+  "file": "vo-04.wav",
+  "seconds": 9.3
+ },
+ {
+  "id": "air",
+  "file": "vo-05.wav",
+  "seconds": 5.875
+ }
+]

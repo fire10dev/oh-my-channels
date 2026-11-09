@@ -1,0 +1,88 @@
+{
+ "title": "How Submarine Crews Eat, Shower and Sleep for 90 Days",
+ "unit": "DAY",
+ "scenes": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "clock": "06:00",
+   "view": [
+    960,
+    540,
+    1.0
+   ],
+   "say": "You're about to spend ninety days inside a steel tube. No windows. No sunlight. And no way to call home."
+  },
+  {
+   "id": "crew",
+   "hud": "DAY 1",
+   "clock": "06:00",
+   "view": [
+    960,
+    560,
+    1.12
+   ],
+   "stat": {
+    "big": "~155",
+    "small": "sailors \u00b7 1 hull \u00b7 170 m"
+   },
+   "say": "Around one hundred and fifty sailors share a hull about as long as one and a half football fields."
+  },
+  {
+   "id": "sleep",
+   "hud": "DAY 3",
+   "clock": "23:00",
+   "view": [
+    790,
+    615,
+    2.7
+   ],
+   "card": {
+    "kicker": "PROBLEM 1",
+    "title": "SLEEP"
+   },
+   "say": "Problem one: sleep. Your bed is a narrow shelf, stacked three high, with barely enough room to roll over. On some boats, junior sailors share one bunk in shifts. It's called hot racking."
+  },
+  {
+   "id": "shower",
+   "hud": "DAY 9",
+   "clock": "05:40",
+   "view": [
+    525,
+    615,
+    3.0
+   ],
+   "card": {
+    "kicker": "PROBLEM 2",
+    "title": "WATER"
+   },
+   "say": "Problem two: water. Every drop is made from seawater, so you take a Navy shower. Water on. Water off. Soap. Water on. Done in two minutes."
+  },
+  {
+   "id": "food",
+   "hud": "DAY 15",
+   "clock": "12:00",
+   "view": [
+    800,
+    470,
+    2.6
+   ],
+   "card": {
+    "kicker": "PROBLEM 3",
+    "title": "FOOD"
+   },
+   "say": "Problem three: food. Fresh fruit and milk run out in about two weeks. After that, it's frozen, canned, and powdered, for the next eleven weeks."
+  },
+  {
+   "id": "air",
+   "hud": "DAY 15",
+   "clock": "12:00",
+   "view": [
+    360,
+    615,
+    2.8
+   ],
+   "say": "But the hardest part isn't any of that. It's the air. Because down here, you have to make your own."
+  }
+ ]
+}
