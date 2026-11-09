@@ -137,11 +137,36 @@ composition, museum quality, wide landscape 16:9, no text, no letters, no flags,
 Prompts live in `shorts/src/l007.images.json` (`[file, style, prompt]`).
 
 ## AI video clips
-1. `clip-1`: cold open, envoy procession through a mountain gate, parasols swaying (fallback: still `img-01`).
-3. `clip-3`: French gunboats on a river with smoke (fallback: still `img-61`).
+None made (2026-11-10: Flow not reachable from gen.mjs; built-in browser not used to save tokens). Candidates if the owner wants them later:
+cold open envoy procession (start image `img-01`), golden statue carried north (`img-37`), French gunboats on the Perfume River (`img-60`).
 
 ## Publishing (draft — owner uploads)
-(filled after render)
+Title: **Why Vietnam Paid Tribute to China for Centuries (After Fighting Its Armies)**
+(Plan title said "900 Years"; 939–1885 is ~950 years but tribute was not continuous → "for Centuries" is safer. Owner's choice.)
+Description:
+"Vietnamese rulers fought Chinese armies again and again between the 10th and 19th centuries, yet in many periods they also sent envoys and
+tribute to the Chinese court. At home they were emperors; in letters to China, kings. How did that work, what did each side think it meant,
+and how did it end in 1884–85?
+
+Chapters
+0:00 Two Titles
+0:30 After 939
+1:46 How Tribute Worked
+3:01 Words on Paper
+3:50 When It Failed
+5:41 The Envoys
+6:36 Recognition after War
+7:26 The End of the System
+
+Sources: K. W. Taylor, The Birth of Vietnam (1983) and A History of the Vietnamese (2013); A. Woodside, Vietnam and the Chinese Model (1971);
+L. Kelley, Beyond the Bronze Pillars: Envoy Poetry and the Sino-Vietnamese Relationship (2005); D. Kang, East Asia Before the West (2010);
+B. Womack, China and Vietnam: The Politics of Asymmetry (2006); K. Baldanza, Ming China and Vietnam (2016); P. Perdue (2009) on the 'tribute system';
+P. Duara (2017) on Kang; J. W. Dardess, Ming China 1368–1644 (2012); J. Fairbank (ed.), The Chinese World Order (1968);
+Varnay, 'Emperor at home, king abroad', Review of International Studies; Songshi; Đại Việt sử ký toàn thư; Yi Su-gwang's records;
+Encyclopaedia Britannica.
+Illustrations and narration are AI-assisted. Music: (fill in the Audio Library track names; placeholder bed is synthesized). Corrections welcome in the comments.
+#Vietnam #China #History #Diplomacy #SoutheastAsia"
+Pinned comment (draft): "Which reading do you find more convincing: tribute as submission, or as a practical diplomatic fiction? Corrections with sources are welcome."
 
 ## Self-check (FACT-CHECK §6)
 - [x] every narration line maps to claim IDs (27, 38, 45, 51, 58 are transitions/CTA)
