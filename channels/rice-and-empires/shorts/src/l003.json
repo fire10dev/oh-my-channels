@@ -1,0 +1,1078 @@
+{
+ "chapters": [
+  "A Thousand Years?",
+  "Before the Han",
+  "The Han Conquest",
+  "The Trưng Revolt",
+  "The Long Middle",
+  "Tang Annam",
+  "Breaking Away",
+  "What It Left Behind"
+ ],
+ "rows": [
+  {
+   "id": "01",
+   "ch": 0,
+   "sub": "Ask people in Vietnam about China, and you may hear one number: a thousand years. A thousand years of Chinese rule.",
+   "say": "Ask people in Vietnam about China, and you may hear one number: a thousand years. A thousand years of Chinese rule.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s006/img-00.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-01.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "02",
+   "ch": 0,
+   "sub": "Vietnamese historiography traditionally dates it from 111 BC to 939 AD. But what did those thousand years really look like?",
+   "say": "Vietnamese historiography traditionally dates it from one hundred eleven B C to nine thirty-nine A D. But what did those thousand years really look like?",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "full"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-02.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "03",
+   "ch": 0,
+   "sub": "Who ruled, who resisted, and who were the people in between? Let's look at what the sources say, and where they disagree.",
+   "say": "Who ruled, who resisted, and who were the people in between? Let's look at what the sources say, and where they disagree.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-03.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s006/img-07.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": "0"
+  },
+  {
+   "id": "04",
+   "ch": 1,
+   "sub": "Long before the Han arrived, the Red River delta had its own bronze culture. Archaeologists call it Đông Sơn, after a site where it was found.",
+   "say": "Long before the Han arrived, the Red River delta had its own bronze culture. Archaeologists call it Dong Sun, after a site where it was found.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "draw"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-04.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "1",
+   "cardAfter": null
+  },
+  {
+   "id": "05",
+   "ch": 1,
+   "sub": "Over roughly the last five centuries BC, its people cast large bronze drums, decorated with geometric patterns, animals and people.",
+   "say": "Over roughly the last five centuries BC, its people cast large bronze drums, decorated with geometric patterns, animals and people.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s011/img-00.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s011/img-02.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s011/img-04.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "06",
+   "ch": 1,
+   "sub": "Later Vietnamese texts, including a chronicle completed in 1479, tell of the Hùng kings and a kingdom called Văn Lang. Some historians treat these accounts as legend.",
+   "say": "Later Vietnamese texts, including a chronicle completed in 1479, tell of the Hoong kings and a kingdom called Vahn Lahng. Some historians treat these accounts as legend.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-05.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-06.jpg"
+    }
+   ],
+   "src": "Kelley 2012",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "07",
+   "ch": 1,
+   "sub": "Then came Zhao Tuo, a former Qin commander. Around 204 BC, he founded Nanyue, a kingdom ruled from what is now Guangzhou.",
+   "say": "Then came Jow Twaw, a former Qin commander. Around two oh four B C, he founded Nahn-yweh, a kingdom ruled from what is now Guangzhou.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-07.jpg"
+    },
+    {
+     "k": "map",
+     "state": "nanyue"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-08.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "08",
+   "ch": 1,
+   "sub": "Nanyue later took control of the Red River region. Vietnamese historians have long argued over whether Zhao Tuo was a local king or a foreign ruler.",
+   "say": "Nahn-yweh later took control of the Red River region. Vietnamese historians have long argued over whether Jow Twaw was a local king or a foreign ruler.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-09.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-10.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "09",
+   "ch": 2,
+   "sub": "In 112 BC, a Nanyue minister killed his own king and the Han envoys. Emperor Wu of Han answered with an invasion.",
+   "say": "In one twelve B C, a Nahn-yweh minister killed his own king and the Han envoys. Emperor Wu of Han answered with an invasion.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-11.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-12.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "2",
+   "cardAfter": null
+  },
+  {
+   "id": "10",
+   "ch": 2,
+   "sub": "In 111 BC, Nanyue fell. The Han split its lands into commanderies, including Jiaozhi, Jiuzhen and Rinan, in what is now northern and north-central Vietnam.",
+   "say": "In one hundred eleven B C, Nahn-yweh fell. The Han split its lands into commanderies, including Jyow-jir, Jyo-jen and Ree-nahn, in what is now northern and north-central Vietnam.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s006/img-01.jpg"
+    },
+    {
+     "k": "map",
+     "state": "han"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-13.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "11",
+   "ch": 2,
+   "sub": "This is the conventional start of Chinese rule. But notice what it covered: the Red River region and the coast to its south. Not today's whole Vietnam.",
+   "say": "This is the conventional start of Chinese rule. But notice what it covered: the Red River region and the coast to its south. Not today's whole Vietnam.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "111"
+    },
+    {
+     "k": "map",
+     "state": "han"
+    },
+    {
+     "k": "tall",
+     "src": "s006/img-02.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "12",
+   "ch": 2,
+   "sub": "Further south, Linyi and later Champa emerged, alongside Funan in the Mekong region.",
+   "say": "Further south, Lin-yee and later Champa emerged, alongside Foo-nahn in the Mekong region.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "south"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-14.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "13",
+   "ch": 2,
+   "sub": "At first, Han control was light. Local Lạc lords kept much of their power, under Chinese governors.",
+   "say": "At first, Han control was light. Local Lahk lords kept much of their power, under Chinese governors.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-15.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s004/img-01.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "14",
+   "ch": 3,
+   "sub": "That changed around the year 40. The governor Su Ding is remembered as harsh. Trưng Trắc, the daughter of a Lạc lord, rose against him with her sister, Trưng Nhị.",
+   "say": "That changed around the year 40. The governor Soo Ding is remembered as harsh. Chung Chahk, the daughter of a Lahk lord, rose against him with her sister, Chung Nyee.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "40"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-16.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s004/img-00.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "3",
+   "cardAfter": null
+  },
+  {
+   "id": "15",
+   "ch": 3,
+   "sub": "Vietnamese chronicles say her husband, Thi Sách, had been killed by the governor. The sources differ on the details.",
+   "say": "Vietnamese chronicles say her husband, Tee Sahk, had been killed by the governor. The sources differ on the details.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-17.jpg"
+    }
+   ],
+   "src": "Sources differ",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "16",
+   "ch": 3,
+   "sub": "The revolt spread quickly. Su Ding fled, and Trưng Trắc was proclaimed queen.",
+   "say": "The revolt spread quickly. Soo Ding fled, and Chung Chahk was proclaimed queen.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s004/img-02.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-18.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "17",
+   "ch": 3,
+   "sub": "The Han sent one of their best generals, Ma Yuan. Chinese records give his force as roughly twenty thousand regulars and twelve thousand local auxiliaries, figures to treat with caution. In 42 and 43, he defeated the sisters' forces.",
+   "say": "The Han sent one of their best generals, Mah Ywen. Chinese records give his force as roughly twenty thousand regulars and twelve thousand local auxiliaries, figures to treat with caution. In 42 and 43, he defeated the sisters' forces.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-19.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s004/img-04.jpg"
+    }
+   ],
+   "src": "Hou Hanshu",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "18",
+   "ch": 3,
+   "sub": "By 43, the revolt was over. Chinese records say the sisters were captured and beheaded. Vietnamese tradition says they drowned themselves in a river rather than surrender.",
+   "say": "By 43, the revolt was over. Chinese records say the sisters were captured and beheaded. Vietnamese tradition says they drowned themselves in a river rather than surrender.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "43"
+    },
+    {
+     "k": "tall",
+     "src": "s004/img-03.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s004/img-05.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "19",
+   "ch": 3,
+   "sub": "The Book of Later Han, a Chinese history, says Ma Yuan took local bronze drums and cast them into a bronze horse model.",
+   "say": "The Book of Later Han, a Chinese history, says Mah Ywen took local bronze drums and cast them into a bronze horse model.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-20.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-21.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "20",
+   "ch": 3,
+   "sub": "After the revolt, Han rule became more direct. The sisters later became heroines of Vietnamese memory, honored in temples to this day.",
+   "say": "After the revolt, Han rule became more direct. The sisters later became heroines of Vietnamese memory, honored in temples to this day.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-22.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s004/img-07.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "21",
+   "ch": 4,
+   "sub": "The next five centuries are often skipped in textbooks. But they hold some surprising figures.",
+   "say": "The next five centuries are often skipped in textbooks. But they hold some surprising figures.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "187"
+    }
+   ],
+   "src": null,
+   "cardBefore": "4",
+   "cardAfter": null
+  },
+  {
+   "id": "22",
+   "ch": 4,
+   "sub": "One is Shi Xie, an official whose family had moved south generations earlier. From 187, he governed Jiaozhi for about forty years.",
+   "say": "One is Shir Shyeh, an official whose family had moved south generations earlier. From one eighty-seven, he governed Jyow-jir for about forty years.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-23.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-24.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "23",
+   "ch": 4,
+   "sub": "As the Han weakened, he exercised considerable local autonomy, while keeping ties with the northern court.",
+   "say": "As the Han weakened, he exercised considerable local autonomy, while keeping ties with the northern court.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-25.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-26.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "24",
+   "ch": 4,
+   "sub": "Some Vietnamese temples later honored him as King Sĩ.",
+   "say": "Some Vietnamese temples later honored him as King See.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-27.jpg"
+    }
+   ],
+   "src": "Sanguozhi · Đại Việt sử ký toàn thư",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "25",
+   "ch": 4,
+   "sub": "After his death in 226, the southern Chinese state of Wu moved to reassert control. Its general Lü Dai led the campaign against Shi Xie's son, Shi Hui.",
+   "say": "After his death in two twenty-six, the southern Chinese state of Wu moved to reassert control. Its general Lyoo Dye led the campaign against Shir Shyeh's son, Shir Hway.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-28.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-29.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "26",
+   "ch": 4,
+   "sub": "Three centuries later, in the 540s, a local leader named Lý Bôn rose against the Liang dynasty.",
+   "say": "Three centuries later, in the five forties, a local leader named Lee Bone rose against the Liang dynasty.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "544"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-30.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "27",
+   "ch": 4,
+   "sub": "In 544 he declared himself emperor of a state he called Vạn Xuân, meaning \"ten thousand springs\".",
+   "say": "In five forty-four he declared himself emperor of a state he called Vahn Swun, meaning \"ten thousand springs\".",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-31.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-32.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "28",
+   "ch": 4,
+   "sub": "Liang armies struck back within a year, and Lý Bôn died in 548. But his relatives and rivals kept a local state alive for decades. One of them, Triệu Quang Phục, is remembered for fighting from a swamp refuge.",
+   "say": "Liang armies struck back within a year, and Lee Bone died in five forty-eight. But his relatives and rivals kept a local state alive for decades. One of them, Chee-oo Kwahng Fook, is remembered for fighting from a swamp refuge.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-33.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-34.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "29",
+   "ch": 4,
+   "sub": "In 602, a Sui army arrived. The last ruler, Lý Phật Tử, surrendered, and Vạn Xuân was gone.",
+   "say": "In six oh two, a Sui army arrived. The last ruler, Lee Faht Tuh, surrendered, and Vahn Swun was gone.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "602"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-35.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "30",
+   "ch": 5,
+   "sub": "Under the Tang dynasty, the region got a new name. In 679, it became the Protectorate General to Pacify the South: Annan, later spelled Annam. Centuries later, the French would use the name Annam for central Vietnam.",
+   "say": "Under the Tang dynasty, the region got a new name. In six seventy-nine, it became the Protectorate General to Pacify the South: Ahn-nahn, later spelled Ahn-nahm. Centuries later, the French would use the name Ahn-nahm for central Vietnam.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "679"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-36.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "5",
+   "cardAfter": null
+  },
+  {
+   "id": "31",
+   "ch": 5,
+   "sub": "Its seat stood near today's Hanoi.",
+   "say": "Its seat stood near today's Hanoi.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "annan"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "32",
+   "ch": 5,
+   "sub": "Tang rule was not quiet. Chinese records list local revolts. In 722, Mai Thúc Loan led a large rising, crushed the next year. And between 803 and 863, rebels killed or drove out at least six Tang governors.",
+   "say": "Tang rule was not quiet. Chinese records list local revolts. In seven twenty-two, My Took Lwahn led a large rising, crushed the next year. And between eight oh three and eight sixty-three, rebels killed or drove out at least six Tang governors.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-37.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-38.jpg"
+    }
+   ],
+   "src": "Tang records",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "33",
+   "ch": 5,
+   "sub": "Then came an outside threat. Nanzhao, a kingdom based in today's Yunnan, invaded, and in 863 its forces took the protectorate's capital.",
+   "say": "Then came an outside threat. Nahn-jow, a kingdom based in today's Yunnan, invaded, and in eight sixty-three its forces took the protectorate's capital.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "nanzhao"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-39.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-40.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "34",
+   "ch": 5,
+   "sub": "The Tang general Gao Pian won it back in 866, and the region was renamed Tĩnh Hải, the \"Peaceful Sea\" army.",
+   "say": "The Tang general Gow Pyen won it back in eight sixty-six, and the region was renamed Ting High, the \"Peaceful Sea\" army.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-41.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-42.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "35",
+   "ch": 5,
+   "sub": "But the Tang empire itself was weakening. Around 880, mutinous troops drove out the governor, and the court's grip on the south never fully returned.",
+   "say": "But the Tang empire itself was weakening. Around eight eighty, mutinous troops drove out the governor, and the court's grip on the south never fully returned.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-43.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-44.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "36",
+   "ch": 6,
+   "sub": "In 905, a local family stepped into the gap. Khúc Thừa Dụ took the post of military governor. On paper, he still served the Tang.",
+   "say": "In nine oh five, a local family stepped into the gap. Kook Tuh-uh Zoo took the post of military governor. On paper, he still served the Tang.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "905"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-45.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "6",
+   "cardAfter": null
+  },
+  {
+   "id": "37",
+   "ch": 6,
+   "sub": "The Tang dynasty fell two years later, in 907. China split into rival states. One of them, Southern Han, ruled from Guangzhou.",
+   "say": "The Tang dynasty fell two years later, in nine oh seven. China split into rival states. One of them, Southern Han, ruled from Guangzhou.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-46.jpg"
+    },
+    {
+     "k": "map",
+     "state": "southernhan"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "38",
+   "ch": 6,
+   "sub": "Around 930, Southern Han seized the region. A year later, a local commander, Dương Đình Nghệ, drove them out.",
+   "say": "Around nine thirty, Southern Han seized the region. A year later, a local commander, Zuh-ung Ding Ngeh, drove them out.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-47.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-48.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "39",
+   "ch": 6,
+   "sub": "In 937, he was murdered by one of his own officers, Kiều Công Tiễn.",
+   "say": "In nine thirty-seven, he was murdered by one of his own officers, Kee-oo Kong Tee-en.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-49.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "40",
+   "ch": 6,
+   "sub": "Dương Đình Nghệ's son-in-law, Ngô Quyền, marched to avenge him. Kiều Công Tiễn asked Southern Han for help.",
+   "say": "Zuh-ung Ding Ngeh's son-in-law, Ngoh Kwee-en, marched to avenge him. Kee-oo Kong Tee-en asked Southern Han for help.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-50.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-51.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "41",
+   "ch": 6,
+   "sub": "In 938, a Southern Han fleet under the prince Liu Hongcao sailed toward the Bạch Đằng River.",
+   "say": "In nine thirty-eight, a Southern Han fleet under the prince Lyoo Hong-tsow sailed toward the Bahk Dahng River.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "938"
+    },
+    {
+     "k": "map",
+     "state": "bachdang"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-52.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "42",
+   "ch": 6,
+   "sub": "According to the accounts, Ngô Quyền had iron-tipped stakes driven into the riverbed, hidden under the high tide.",
+   "say": "According to the accounts, Ngoh Kwee-en had iron-tipped stakes driven into the riverbed, hidden under the high tide.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-53.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-54.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "43",
+   "ch": 6,
+   "sub": "His boats drew the Han fleet in. Then the tide went out, the ships were caught on the stakes, and the attack collapsed. Liu Hongcao died.",
+   "say": "His boats drew the Han fleet in. Then the tide went out, the ships were caught on the stakes, and the attack collapsed. Lyoo Hong-tsow died.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-55.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s006/img-04.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-56.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "44",
+   "ch": 6,
+   "sub": "We do not have reliable numbers for either side. Figures in modern books vary.",
+   "say": "We do not have reliable numbers for either side. Figures in modern books vary.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-57.jpg"
+    }
+   ],
+   "src": "Numbers unreliable",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "45",
+   "ch": 6,
+   "sub": "In 939, Ngô Quyền declared himself king, with his capital at Cổ Loa. This is where the traditional count of a thousand years ends.",
+   "say": "In nine thirty-nine, Ngoh Kwee-en declared himself king, with his capital at Koh Lwah. This is where the traditional count of a thousand years ends.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "939"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-58.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-59.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "46",
+   "ch": 6,
+   "sub": "Independence did not bring peace. His dynasty soon broke apart, and decades of instability followed. But the stake trap at Bạch Đằng would be used again, in 1288, against the Mongol Yuan fleet.",
+   "say": "Independence did not bring peace. His dynasty soon broke apart, and decades of instability followed. But the stake trap at Bahk Dahng would be used again, in twelve eighty-eight, against the Mongol Yuan fleet.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-60.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s002/img-07.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "47",
+   "ch": 7,
+   "sub": "So what did a thousand years leave behind?",
+   "say": "So what did a thousand years leave behind?",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-61.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "7",
+   "cardAfter": null
+  },
+  {
+   "id": "48",
+   "ch": 7,
+   "sub": "Literary Chinese remained the language of government and scholarship for centuries, along with Confucian ideas of the state.",
+   "say": "Literary Chinese remained the language of government and scholarship for centuries, along with Confucian ideas of the state.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-62.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s006/img-05.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "49",
+   "ch": 7,
+   "sub": "Meanwhile the region's spoken languages, including the ancestors of Vietnamese, carried on, absorbing many Chinese loanwords.",
+   "say": "Meanwhile the region's spoken languages, including the ancestors of Vietnamese, carried on, absorbing many Chinese loanwords.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-63.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-64.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "50",
+   "ch": 7,
+   "sub": "China did come back. In the early 1400s, the Ming ruled the region again for about twenty years, until a rising led by Lê Lợi forced them out. He founded a new dynasty in 1428.",
+   "say": "China did come back. In the early 1400s, the Ming ruled the region again for about twenty years, until a rising led by Leh Loy forced them out. He founded a new dynasty in fourteen twenty-eight.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-65.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-66.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "51",
+   "ch": 7,
+   "sub": "And who were the people of the delta? Historian Catherine Churchman argues that the sources do not show a fixed divide between Chinese and Vietnamese in the early Red River plain.",
+   "say": "And who were the people of the delta? Historian Catherine Church-man argues that the sources do not show a fixed divide between Chinese and Vietnamese in the early Red River plain.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s006/img-06.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-67.jpg"
+    }
+   ],
+   "src": "Churchman 2016",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "52",
+   "ch": 7,
+   "sub": "Chinese records described the region through imperial administration. Some modern Vietnamese national histories frame the period as a thousand-year struggle.",
+   "say": "Chinese records described the region through imperial administration. Some modern Vietnamese national histories frame the period as a thousand-year struggle.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l003/img-68.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-69.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "53",
+   "ch": 7,
+   "sub": "Historians debate that framing. Scholars such as Keith Taylor, Liam Kelley and Catherine Churchman read the evidence in different ways.",
+   "say": "Historians debate that framing. Scholars such as Keith Taylor, Liam Kelley and Catherine Church-man read the evidence in different ways.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "full"
+    }
+   ],
+   "src": "Taylor · Kelley · Churchman",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "54",
+   "ch": 7,
+   "sub": "The real story is messier than one number. Rule had breaks. It covered one region, not a modern nation. And the people in it did not wear modern labels.",
+   "say": "The real story is messier than one number. Rule had breaks. It covered one region, not a modern nation. And the people in it did not wear modern labels.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "full"
+    },
+    {
+     "k": "img",
+     "src": "l003/img-70.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "55",
+   "ch": 7,
+   "sub": "Which part surprised you? Tell us in the comments, and subscribe to Rice and Empires for more.",
+   "say": "Which part surprised you? Tell us in the comments, and subscribe to Rice and Empires for more.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s006/img-08.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": "end"
+  }
+ ],
+ "music": [
+  {
+   "src": "bgm/l003-bed-a.mp3",
+   "fromCh": 0
+  },
+  {
+   "src": "bgm/l003-bed-b.mp3",
+   "fromCh": 6,
+   "gain": 1.1
+  },
+  {
+   "src": "bgm/l003-bed-a.mp3",
+   "fromCh": 7
+  }
+ ]
+}

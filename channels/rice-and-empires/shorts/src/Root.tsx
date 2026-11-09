@@ -32,6 +32,10 @@ import s010t from './s010.timeline.json';
 import s011 from './s011.json';
 import s011t from './s011.timeline.json';
 
+import {LFPS, LongVideo, longTotal} from './LongVideo';
+import l003 from './l003.json';
+import l003t from './l003.timeline.json';
+
 export const RemotionRoot: React.FC = () => (
   <>
     <Still id="Avatar" component={Avatar} width={800} height={800} />
@@ -135,6 +139,15 @@ export const RemotionRoot: React.FC = () => (
       height={1920}
       fps={FPS}
       durationInFrames={totalFrames(s011t)}
+    />
+    <Composition
+      id="L003"
+      component={LongVideo}
+      defaultProps={{data: l003 as any, timeline: l003t, vid: 'l003'}}
+      width={1920}
+      height={1080}
+      fps={LFPS}
+      durationInFrames={longTotal(l003 as any, l003t)}
     />
   </>
 );
