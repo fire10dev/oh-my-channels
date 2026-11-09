@@ -32,7 +32,12 @@ export type Shot =
   | {k: 'map'; state: string}
   | {k: 'tl'; year: string};
 export type Row = {id: string; ch: number; sub: string; say: string; shots: Shot[]; src: string | null; cardBefore: string | null; cardAfter: string | null};
-export type LongData = {chapters: string[]; rows: Row[]; music?: {src: string; fromCh: number; gain?: number}[]};
+// Timeline ribbon config (optional per video, `tl` in <vid>.json; default = L003 "Chinese rule" ribbon).
+export type TLCfg = {y0: number; y1: number; from: number; to: number; bars: [number, number][]; gaps: [number, number, string][]; caption: string; chYear: number[]};
+const L003_TL: TLCfg = {y0: -260, y1: 1000, from: -111, to: 939, bars: [[-111, 40], [43, 544], [602, 939]], gaps: [[40, 43, 'Trưng 40–43'], [544, 602, 'Vạn Xuân 544–602']],
+  caption: 'Chinese rule over the Red River region, as traditionally dated', chYear: [-111, -300, -111, 40, 187, 679, 905, 939]};
+const TLCtx = React.createContext<TLCfg>(L003_TL);
+export type LongData = {chapters: string[]; rows: Row[]; music?: {src: string; fromCh: number; gain?: number}[]; tl?: TLCfg};
 export type Timed = {id: string; file: string; seconds: number};
 
 type Seg =
@@ -68,12 +73,13 @@ const Y0 = -260;
 const Y1 = 1000;
 const yearLabel = (y: number) => (y < 0 ? `${-Math.round(y)} BC` : `AD ${Math.round(y)}`);
 const Ribbon: React.FC<{year: number; from?: number; width: number; progress: number; draw?: boolean; big?: boolean}> = ({year, from, width, progress, draw, big}) => {
-  const X = (y: number) => ((y - Y0) / (Y1 - Y0)) * width;
+  const C = React.useContext(TLCtx);
+  const X = (y: number) => ((y - (C === L003_TL ? Y0 : C.y0)) / ((C === L003_TL ? Y1 : C.y1) - (C === L003_TL ? Y0 : C.y0))) * width;
   const h = big ? 26 : 14;
   const cur = interpolate(progress, [0, 1], [from ?? year, year]);
-  const ruleEnd = draw ? interpolate(progress, [0, 1], [-111, 939]) : 939;
-  const seg = (a: number, b: number) => [Math.max(a, -111), Math.min(b, ruleEnd)] as const;
-  const parts: [number, number][] = [seg(-111, 40), seg(43, 544), seg(602, 939)].filter(([a, b]) => b > a) as [number, number][];
+  const ruleEnd = draw ? interpolate(progress, [0, 1], [C.from, C.to]) : C.to;
+  const seg = (a: number, b: number) => [Math.max(a, C.from), Math.min(b, ruleEnd)] as const;
+  const parts: [number, number][] = C.bars.map(([a, b]) => seg(a, b)).filter(([a, b]) => b > a) as [number, number][];
   const fs = big ? 24 : 17;
   return (
     <svg width={width} height={big ? 150 : 90} style={{overflow: 'visible'}}>
@@ -81,13 +87,13 @@ const Ribbon: React.FC<{year: number; from?: number; width: number; progress: nu
       {parts.map(([a, b]) => (
         <rect key={a} x={X(a)} y={40 - h / 2} width={X(b) - X(a)} height={h} fill={BRAND.vermilion} opacity={0.9} rx={3} />
       ))}
-      {[[40, 43, 'Trưng 40–43'], [544, 602, 'Vạn Xuân 544–602']].map(([a, b, l]) => (
+      {C.gaps.map(([a, b, l]) => (
         <g key={l as string} opacity={(b as number) <= ruleEnd + 1 ? 1 : 0}>
           <rect x={X(a as number) - 3} y={40 - h / 2 - 4} width={X(b as number) - X(a as number) + 6} height={h + 8} fill={BRAND.goldLight} rx={3} />
           <text x={X(a as number)} y={40 + h + 18} fill={BRAND.goldLight} fontFamily={body} fontSize={fs - 2} textAnchor="middle">{l}</text>
         </g>
       ))}
-      {[-111, 939].map((y) => (
+      {[C.from, C.to].map((y) => (
         <text key={y} x={X(y)} y={40 - h / 2 - 12} fill={BRAND.parchment} fontFamily={body} fontSize={fs} fontWeight={600} textAnchor="middle" opacity={y <= ruleEnd + 1 ? 1 : 0}>
           {yearLabel(y)}
         </text>
@@ -208,25 +214,30 @@ const ClipShot: React.FC<{src: string; frames: number}> = ({src, frames}) => {
     </AbsoluteFill>
   );
 };
+const CardRibbon: React.FC<{ch: number; progress: number}> = ({ch, progress}) => {
+  const C = React.useContext(TLCtx);
+  return <Ribbon width={1400} year={C.chYear[ch] ?? CH_YEAR[ch] ?? C.to} from={C.from} progress={progress} />;
+};
 const Parchment: React.FC = () => (
   <AbsoluteFill style={{background: `radial-gradient(ellipse at 50% 45%, #f1e2c0 0%, ${BRAND.parchment} 45%, #b99a68 100%)`}} />
 );
 const TimelineShot: React.FC<{year: string; frames: number}> = ({year, frames}) => {
   const f = useCurrentFrame();
+  const C = React.useContext(TLCtx);
   const full = year === 'full';
-  const y = full ? 939 : Number(year);
+  const y = full ? C.to : Number(year);
   const p = interpolate(f, [6, Math.min(frames - 6, full ? 110 : 45)], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp', easing: Easing.out(Easing.cubic)});
-  const shown = full ? interpolate(p, [0, 1], [-111, 939]) : interpolate(p, [0, 1], [y - 60, y]);
+  const shown = full ? interpolate(p, [0, 1], [C.from, C.to]) : interpolate(p, [0, 1], [y - 60, y]);
   return (
     <AbsoluteFill style={{background: `radial-gradient(ellipse at 50% 40%, #2a1c10 0%, ${BRAND.lacquer} 75%)`}}>
       <div style={{position: 'absolute', top: 250, width: '100%', textAlign: 'center', fontFamily: body, fontWeight: 600, fontSize: 150, color: BRAND.goldLight, letterSpacing: 2}}>
         {yearLabel(shown)}
       </div>
       <div style={{position: 'absolute', top: 470, width: '100%', textAlign: 'center', fontFamily: body, fontSize: 30, color: BRAND.parchment, opacity: 0.8}}>
-        Chinese rule over the Red River region, as traditionally dated
+        {C.caption}
       </div>
       <div style={{position: 'absolute', left: 160, top: 620}}>
-        <Ribbon width={1600} year={full ? 939 : y} from={full ? -111 : y - 60} progress={p} draw={full} big />
+        <Ribbon width={1600} year={full ? C.to : y} from={full ? C.from : y - 60} progress={p} draw={full} big />
       </div>
     </AbsoluteFill>
   );
@@ -352,7 +363,7 @@ const ChapterCard: React.FC<{card: string; title: string; frames: number}> = ({c
         </div>
         {!end && (
           <div style={{position: 'absolute', left: 260, top: 900, opacity: tIn}}>
-            <Ribbon width={1400} year={CH_YEAR[ch] ?? 939} from={-111} progress={interpolate(f, [10, 60], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})} />
+            <CardRibbon ch={ch} progress={interpolate(f, [10, 60], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})} />
           </div>
         )}
       </AbsoluteFill>
@@ -411,6 +422,7 @@ export const LongVideo: React.FC<{data: LongData; timeline: Timed[]; vid: string
   };
   const music = data.music ?? [];
   return (
+    <TLCtx.Provider value={data.tl ?? L003_TL}>
     <AbsoluteFill style={{backgroundColor: BRAND.lacquer}}>
       {segs.map((s, i) =>
         s.kind === 'card' ? (
@@ -445,5 +457,6 @@ export const LongVideo: React.FC<{data: LongData; timeline: Timed[]; vid: string
         );
       })}
     </AbsoluteFill>
+    </TLCtx.Provider>
   );
 };

@@ -60,7 +60,9 @@ missing = sorted({s['src'] for r in rows for s in r['shots'] if 'src' in s and n
 out = pathlib.Path(f'shorts/src/{vid}.json')
 mf = pathlib.Path(f'shorts/src/{vid}.music.json')
 music = json.loads(mf.read_text()) if mf.exists() else []
-out.write_text(json.dumps({'chapters': chapters, 'rows': rows, 'music': music}, ensure_ascii=False, indent=1))
+tf = pathlib.Path(f'shorts/src/{vid}.tl.json')  # optional timeline-ribbon config (LongVideo TLCfg); default = L003 ribbon
+extra = {'tl': json.loads(tf.read_text())} if tf.exists() else {}
+out.write_text(json.dumps({'chapters': chapters, 'rows': rows, 'music': music, **extra}, ensure_ascii=False, indent=1))
 pathlib.Path(f'shorts/src/{vid}.scenes.json').write_text(
     json.dumps([{'id': r['id'], 'say': r['say']} for r in rows], ensure_ascii=False, indent=1))
 print(f"{len(rows)} rows, {sum(len(r['sub'].split()) for r in rows)} words, "

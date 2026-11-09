@@ -36,6 +36,8 @@ import {LFPS, LongVideo, longTotal} from './LongVideo';
 import {Thumb} from './Thumb';
 import l003 from './l003.json';
 import l003t from './l003.timeline.json';
+import l007 from './l007.json';
+import l007t from './l007.timeline.json';
 
 export const RemotionRoot: React.FC = () => (
   <>
@@ -150,6 +152,16 @@ export const RemotionRoot: React.FC = () => (
       height={1080}
       fps={LFPS}
       durationInFrames={longTotal(l003 as any, l003t)}
+    />
+    <Still id="L007Thumb" component={Thumb} width={1280} height={720} defaultProps={{bg: 'l007/thumb-bg.jpg', big: 'EMPEROR AT HOME.', line: 'VASSAL ABROAD.', tag: '900 years of tribute diplomacy'}} />
+    <Composition
+      id="L007"
+      component={LongVideo}
+      defaultProps={{data: l007 as any, timeline: l007t, vid: 'l007'}}
+      width={1920}
+      height={1080}
+      fps={LFPS}
+      durationInFrames={longTotal(l007 as any, l007t)}
     />
   </>
 );
