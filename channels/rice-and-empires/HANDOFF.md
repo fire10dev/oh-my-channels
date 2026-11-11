@@ -9,7 +9,8 @@ For a fresh Claude session (other account / other machine) continuing this work.
 - Voice Kokoro 93.7 s (~163 wpm, slightly over target). Images 11/11 Flow Nano Banana 2.1, 9:16 768×1376, 0 credits
   (`tools/imagegen/gen.mjs` got 0/11: AI Studio/Gemini/Flow selectors time out in the Playwright profile).
 - Render `shorts/out/S012-name-vietnam.mp4` (git-ignored). ✅ Owner OK 2026-11-11 15:18; **published Public 15:40 (+07): https://youtube.com/shorts/i7YEHQAu2zA**
-  (not for kids, "Sử dụng AI" = Không; owner dragged the file in Chrome profile "YT"). Pinned comment not posted.
+  (not for kids, "Sử dụng AI" = Không; owner dragged the file in Chrome profile "YT"). Comment posted 15:45 as the channel ("Which name did you know first…"), **not pinned**:
+  pinning asks for channel verification in Studio (owner's job, phone). After verifying: ⋮ on the comment → Ghim.
 
 ## ✅ Batch S002–S011 closed (2026-11-08 16:55 +07)
 All 10 history Shorts are public or scheduled (table below). Leftovers, not blocking: pinned comments; Codex fixes found in L001 for S004/S011
