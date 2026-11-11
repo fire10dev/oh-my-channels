@@ -2,6 +2,14 @@
 
 For a fresh Claude session (other account / other machine) continuing this work. Read `AGENTS.md` first (rules updated 2026-11-07 night).
 
+## S012 "Vietnam: who chose the name?" (2026-11-11 15:10 +07, branch `short/S012`, worktree `../yt-channel-asia-history-S012`, not committed)
+- Plan `docs/plans/S012-the-name-vietnam-1804.md` · script `scripts/S012-the-name-vietnam-1804.md` v4 (C2–C11, 254 words) · `tools/say_s012.json`.
+- Main source: Trần Thị Xuân 2024 (Thang Long J. Sci., Qing Grand Council archives + *Đại Nam thực lục*), read in full from the PDF.
+- Codex: r1 PASS → r2 FAIL (could not open the PDF; wording made safer) → r3 FAIL 1 🔴 C8 → hedged ("A 2024 study … finds"). v4 not re-reviewed.
+- Voice Kokoro 93.7 s (~163 wpm, slightly over target). Images 11/11 Flow Nano Banana 2.1, 9:16 768×1376, 0 credits
+  (`tools/imagegen/gen.mjs` got 0/11: AI Studio/Gemini/Flow selectors time out in the Playwright profile).
+- Render `shorts/out/S012-name-vietnam.mp4` (git-ignored). Owner: read VI column + watch mp4; OK teaser for L007; upload only after OK.
+
 ## ✅ Batch S002–S011 closed (2026-11-08 16:55 +07)
 All 10 history Shorts are public or scheduled (table below). Leftovers, not blocking: pinned comments; Codex fixes found in L001 for S004/S011
 wording (already published, fix only via Corrections section + pinned comment); upload API (`tools/upload/upload.mjs`) still needs the owner's OAuth client.

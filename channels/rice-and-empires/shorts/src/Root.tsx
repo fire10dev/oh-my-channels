@@ -32,6 +32,9 @@ import s010t from './s010.timeline.json';
 import s011 from './s011.json';
 import s011t from './s011.timeline.json';
 
+import s012 from './s012.json';
+import s012t from './s012.timeline.json';
+
 export const RemotionRoot: React.FC = () => (
   <>
     <Still id="Avatar" component={Avatar} width={800} height={800} />
@@ -135,6 +138,15 @@ export const RemotionRoot: React.FC = () => (
       height={1920}
       fps={FPS}
       durationInFrames={totalFrames(s011t)}
+    />
+    <Composition
+      id="S012"
+      component={ListShort}
+      defaultProps={{scenes: s012, timeline: s012t, dir: 's012', bgm: 'bgm/ambient.mp3', bgmVolume: 0.12, numbered: false}}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={totalFrames(s012t)}
     />
   </>
 );
