@@ -18,6 +18,10 @@ CAPTIONS = {
                      "Cruise mode for long sessions", "Chasing the neon horizon"],
     "Cyber Rain": ["POV: rain on the glass, code on the screen", "Neon city, rainy focus", "Rainy night hacking session",
                    "Storm outside, flow inside", "Rain, synths and a quiet mind"],
+    "Retro Arcade": ["POV: one more coin, one more commit", "High score mode: deep focus", "Pixel drift, calm mind",
+                     "Continue? Keep coding", "Pick your level, start the sprint"],
+    "Server Room": ["POV: 3am in the server room", "Cold boot, warm focus", "Fan noise and flow state",
+                    "100% uptime focus", "Failover to deep work"],
 }
 songs = {s["id"]: s for s in json.loads((B4 / "songs.json").read_text())}
 scenes = {s["id"]: s for s in json.loads((SHORTS / "src/scenes.json").read_text())}
@@ -35,5 +39,10 @@ for sid in [i for i in songs if i in scenes and (B4 / "out" / f"{i} {songs[i]['t
                 "pack": s["pack_name"], "caption": CAPTIONS[s["pack_name"]][n - 1], "img": sc["img"],
                 "accent": sc["accent"], "waves": sc["waves"], "pan": 1 if n % 2 else -1, "hookStart": start})
     print(sid, "hook", start, "s")
-(SHORTS / "src/shortsG.json").write_text(json.dumps(out, ensure_ascii=False, indent=1))
+# keep entries whose 1-hour mp4 was cleaned up after posting (pack 1-3), replace the ones rendered now
+dst_json = SHORTS / "src/shortsG.json"
+prev = json.loads(dst_json.read_text()) if dst_json.exists() else []
+done = {o["id"] for o in out}
+out = sorted([o for o in prev if o["id"] not in done] + out, key=lambda o: o["id"])
+dst_json.write_text(json.dumps(out, ensure_ascii=False, indent=1))
 print(len(out), "shorts")

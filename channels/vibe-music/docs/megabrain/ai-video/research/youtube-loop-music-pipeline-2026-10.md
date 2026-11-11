@@ -4,7 +4,7 @@ tags: [ai-video, research, youtube, ai-music, flow-music, google-flow, ffmpeg, p
 status: draft
 audience: both
 created: 2026-10-28 23:00
-updated: 2026-10-29
+updated: 2026-11-11
 as_of: 2026-10-28
 ---
 
@@ -206,7 +206,7 @@ User chốt 30/10: bỏ clip video 10 s, chuyển sang **1 ảnh Flow + Remotion
 - Render lại 1 Short: cắt hook tay từ `batch4/audio/<id> <title>.mp3` tại `hookStart` trong `shortsG.json` (20 s, afade in 0,4 / out 1,5) → `public/hookG/<id>.wav` → `npx remotion render src/index.ts ShortG-<id> …` = **28 s** (G01-1). Bản không tiếng: `ffmpeg -an -c:v copy`.
 - Short = ảnh tĩnh + zoom 1,06→1,2 + lia ngang (`ShortG.tsx:20-21`) + gradient + chữ + FlowWaves; **không** có bokeh/mưa (chỉ video 1 giờ có).
 - 🟠 Ảnh Flow tải về 1376×768 (16:9) ⇒ cắt 9:16 còn ~432×768, phóng ~2,5× lên 1080×1920 ⇒ Short hơi mềm. Cần ảnh dọc 9:16 riêng cho Short hoặc ảnh 2K.
-- 08/11 15:21: chuyển `FIRE10.DEV/MusicMaker` → `~/Projects/FIRE10.DEV/REPO/MusicMaker`, để symlink ở chỗ cũ vì `hub.db` của tiktok-affiliate-auto lưu đường dẫn tuyệt đối (`meta.media_roots`, `shot.*_path`, `batch.folder`); `media.safe()` resolve() cả 2 phía nên vẫn khớp. Default `HUB_MUSIC_DIR` trong `hub/db.py` đổi thành `ROOT.parent / "MusicMaker"`. Bỏ symlink chỉ sau khi rewrite path trong hub.db.
+- 08/11 15:21: chuyển `FIRE10.DEV/MusicMaker` → `~/Projects/FIRE10.DEV/REPO/MusicMaker`, để symlink ở chỗ cũ vì `hub.db` của tiktok-affiliate-auto lưu đường dẫn tuyệt đối (`meta.media_roots`, `shot.*_path`, `batch.folder`); `media.safe()` resolve() cả 2 phía nên vẫn khớp. Default `HUB_MUSIC_DIR` trong `hub/db.py` đổi thành `ROOT.parent / "MusicMaker"`. Bỏ symlink chỉ sau khi rewrite path trong hub.db. (09/11: hub đã gỡ, repo tiktok-affiliate-auto đã xoá khỏi máy → symlink không còn cần cho hub.)
 - 08/11 15:40: repo có quy trình commit (CLAUDE.md): cập nhật `HANDOFF.md` → `python3 -I tools/redact.py sync` (MEGABRAIN → `docs/megabrain/`, theo `MANIFEST`, đã lọc email/tên acc/SSH key/`/Users/<tên>`/link project Flow) → `redact.py check` phải OK (chặn credential + file > 1 MB). Thông tin riêng → `local/PRIVATE.md` + `local/redact.txt` (gitignored). `docs/pipeline-notes.md` bỏ, thay bằng `docs/megabrain/ai-video/research/<file này>`.
 - 08/11 16:10: agent tự tạo nhạc pack 04–05 qua Claude in Chrome. Có 2 Chrome kết nối; phiên Flow Music đăng nhập chỉ ở 1 cái → `list_connected_browsers` + `select_browser` (tab Browser khác thấy "Log in"). Gửi prompt vào session cũ "Night Coding Synthwave" (ô "Ask Producer", `find` lấy ref; click toạ độ ở New session dễ trúng thẻ gợi ý). Credit 05/11 hết đã hồi. Tải không cần UI: `/song/<id>` trong DOM → `storage.googleapis.com/producer-app-public/clips/<id>.m4a` (mp3 404) → ffmpeg libmp3lame 192k → `batch4/audio/<id> <title>.mp3`. Bài ngắn bất thường: G04-1 107 s, G04-2 123 s, G04-4 85 s (pack 1–3: 157–182 s).
 
@@ -235,3 +235,14 @@ User chốt 30/10: bỏ clip video 10 s, chuyển sang **1 ảnh Flow + Remotion
 - Chọn đúng Chrome: `list_connected_browsers` → mở Studio kênh; trang "Rất tiếc, bạn không có quyền" = sai profile → `select_browser` cái khác (09/11 là "Browser 1").
 - Mỗi video: `studio.youtube.com/video/<ID>/edit` → chờ `#title-textarea #textbox` + `input#file-loader` → `find` lấy ref file input → `file_upload` jpg (<2 MB) → click `ytcp-button#save` (aria-disabled false→true = đã lưu, toast "Đã lưu thay đổi").
 - Trang có khi load chậm: `find` báo không thấy input → chờ thêm vài giây rồi `find` lại.
+
+## Phiên 11/11/2026 10:10 — related video bằng 1 lệnh JS + Data API
+- Related video 6 Short (G01-2 → G02-2) gắn trong ~2 phút: mỗi Short 1 `navigate` + 1 `javascript_exec`, không cần screenshot:
+  nhãn lá "Video có liên quan" → `closest('ytcp-dropdown-trigger').click()` → chờ (≤10 s) phần tử lá có text bắt đầu bằng tên video 1 giờ và `offsetParent` khác null → click
+  → đọc `document.body.innerText` khớp `/Video có liên quan\s*\n?.{0,50}/` (phải chứa tên) → `#save.click()` → `aria-disabled="true"` = đã lưu. Reload kiểm lại vẫn giữ.
+  Không có nút `<button>` nào chứa chữ "Video có liên quan"; dùng `ytcp-dropdown-trigger`.
+- Browser pane vs Android: app YouTube Studio Android có, nhưng điều khiển bằng adb/scrcpy phải chụp màn hình từng bước ⇒ tốn token hơn Claude in Chrome (đọc DOM + JS).
+- YouTube Data API v3 (đọc docs 11/11): upload (`videos.insert`), title/mô tả/tag, `publishAt` (chỉ khi `privacyStatus=private` và chưa từng công khai), `containsSyntheticMedia`, `selfDeclaredMadeForKids`, thumbnail làm được;
+  **không có trường related video cho Short** ⇒ bước này vẫn phải Studio. Cần OAuth client Desktop (user tạo). `[!assumption]` hạn chế project chưa audit (video private) — docs hiện tại có vẻ đã bỏ, chưa thử thật.
+- Render lại pack 04–05: mp4 1 giờ đã bị dọn sau khi upload ⇒ `make_shorts.py`/`make_mix.py` cần mp4 1 giờ ⇒ chạy lại `render_1h.sh` (~4 phút/bài). Máy mất `shorts/node_modules` ⇒ `npm ci` trước (lỗi "could not determine executable to run").
+  Script sửa: `make_shorts.py` giữ mục cũ trong `shortsG.json`; `render_shorts.sh [ids]`; `make_posts_extra.py [pack#]` ghi file riêng `_P04-05.md` (không ghi đè nội dung pack 1–3 đã đăng).

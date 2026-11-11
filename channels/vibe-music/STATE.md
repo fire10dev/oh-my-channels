@@ -1,4 +1,4 @@
-# STATE — VIBE MUSIC AI MAKER (cập nhật 07/11/2026 16:20 +07)
+# STATE — VIBE MUSIC AI MAKER (cập nhật 11/11/2026 10:45 +07)
 
 Kênh YouTube nhạc AI không lời (studio: <tài khoản Studio — local/PRIVATE.md> · channel `UC5yczuAXQkFdHjdkTXHWfcw`).
 Vị trí máy gốc: `~/Projects/FIRE10.DEV/REPO/MusicMaker` (từ 08/11/2026; `FIRE10.DEV/MusicMaker` là symlink cũ cho hub tiktok-affiliate-auto).
@@ -23,11 +23,12 @@ Mọi ID video / lịch nằm trong các file `schedule_log.md` và `*posts*` �
   - 10 video 1 giờ G04–G05: 15/11 20:00 → 20/11 10:00 (lên lịch + thumbnail 09/11).
   - 3 mix: Midnight Terminal 11/11 18:30 · Neon Highway 13/11 18:30 · Cyber Rain 16/11 18:30 (playlist "1 Hour Mixes").
   - Kiểm 07/11 16:15: cả 33 mục (15 video 1 giờ + 15 Short + 3 mix) "Đã lên lịch" trên Studio; 3 file mix tải lên xong.
-  - 08/11: tags mix P01 xong (10 tag như P02); related video Short G01-1 xong. 09/11: thumbnail 3 mix xong. Còn thiếu: related video 14 Short (G01-2 → G03-5, Short ID ở `batch4/schedule_log.md`).
+  - 08/11: tags mix P01 xong (10 tag như P02); related video Short G01-1 xong. 09/11: thumbnail 3 mix xong. 11/11: related video G01-2 → G02-2 xong; còn G02-3 → G03-5 (Short ID ở `batch4/schedule_log.md`).
+  - 11/11: render Short G04–G05 (`out_shorts/`) + mix P04/P05 (`out_mix/`), nội dung `batch4/youtube_posts_batch4_shorts_mix_P04-05.md`; chưa đăng.
 
 ## Việc tiếp theo (theo thứ tự)
-1. **Gắn "Video có liên quan"** cho 14 Short batch 4 còn lại (G01-1 xong 08/11) — mỗi Short gắn được sau khi video 1 giờ tương ứng công khai (10:00/20:00 mỗi ngày đến 15/11).
-2. Pack 04–05: 10 video 1 giờ đã lên lịch 09/11 (15/11 20:00 → 20/11 10:00, `batch4/schedule_log.md`); thumbnail xong → còn Short/mix như pack 1–3.
+1. **Gắn "Video có liên quan"** cho 9 Short batch 4 còn lại (G01-1 → G02-2 xong) — mỗi Short gắn được sau khi video 1 giờ tương ứng công khai (10:00/20:00 mỗi ngày đến 15/11).
+2. Pack 04–05: 10 video 1 giờ đã lên lịch 09/11 (15/11 20:00 → 20/11 10:00, `batch4/schedule_log.md`); thumbnail xong; Short + mix render xong 11/11 → còn đăng (G04-1 đã upload nháp).
 3. Pack 06–20: ảnh Google Flow theo `batch4/image_prompts/<id>.txt`, rồi như bước 2.
 4. 100 Short cắt thêm: user đăng dần (đã có title/mô tả/lịch).
 
@@ -41,9 +42,9 @@ python3 -I ../make_image_prompts.py .            # (đã chạy) prompt ảnh
 python3 -I build_scenes.py scenes                # prep + hiệu ứng tự động → shorts/src/scenes.json
 ./render_1h.sh G04-1 …                           # video 1 giờ → out/
 python3 -I make_posts.py "<dd/mm/yyyy> [HH:MM]"   # title/mô tả/lịch video 1 giờ (ngoài G01 → file _<đầu>_<cuối>.md)
-python3 -I make_shorts.py && ./render_shorts.sh  # 15 Short → out_shorts/
+python3 -I make_shorts.py && ./render_shorts.sh [ids]  # Short → out_shorts/ (giữ mục cũ trong shortsG.json)
 python3 -I make_mix.py <pack#>                   # mix 1 giờ → out_mix/
-python3 -I make_posts_extra.py                   # nội dung Short + mix
+python3 -I make_posts_extra.py [pack#]           # nội dung Short + mix (có pack# → file _P04-05.md riêng)
 ```
 Upload: user kéo file vào Studio (**tối đa 15 file/lần**); agent điền bằng browser. Gotchas chi tiết: `docs/megabrain/ai-video/research/youtube-loop-music-pipeline-2026-10.md`.
 

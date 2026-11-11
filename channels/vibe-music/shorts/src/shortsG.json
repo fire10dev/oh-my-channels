@@ -268,5 +268,185 @@
   ],
   "pan": 1,
   "hookStart": 149
+ },
+ {
+  "id": "G04-1",
+  "title": "Insert Coin",
+  "bpm": 110,
+  "style": "Chiptune synthwave",
+  "pack": "Retro Arcade",
+  "caption": "POV: one more coin, one more commit",
+  "img": "scenes/G04-1.jpg",
+  "accent": "#589dff",
+  "waves": [
+   "#7bacf2",
+   "#d6b2f2",
+   "#7bacf2",
+   "#73a8f2"
+  ],
+  "pan": 1,
+  "hookStart": 76
+ },
+ {
+  "id": "G04-2",
+  "title": "High Score Mode",
+  "bpm": 112,
+  "style": "Upbeat retro synthwave",
+  "pack": "Retro Arcade",
+  "caption": "High score mode: deep focus",
+  "img": "scenes/G04-2.jpg",
+  "accent": "#608bff",
+  "waves": [
+   "#819ff2",
+   "#c3b2f2",
+   "#819ff2",
+   "#6e94f2"
+  ],
+  "pan": -1,
+  "hookStart": 29
+ },
+ {
+  "id": "G04-3",
+  "title": "Pixel Drift",
+  "bpm": 96,
+  "style": "Chill chipwave",
+  "pack": "Retro Arcade",
+  "caption": "Pixel drift, calm mind",
+  "img": "scenes/G04-3.jpg",
+  "accent": "#4f91ff",
+  "waves": [
+   "#74a3f2",
+   "#b8adf2",
+   "#74a3f2",
+   "#85a6f2"
+  ],
+  "pan": 1,
+  "hookStart": 141
+ },
+ {
+  "id": "G04-4",
+  "title": "Continue Screen",
+  "bpm": 100,
+  "style": "Midtempo synthwave",
+  "pack": "Retro Arcade",
+  "caption": "Continue? Keep coding",
+  "img": "scenes/G04-4.jpg",
+  "accent": "#7699ff",
+  "waves": [
+   "#91a9f2",
+   "#d2b2f2",
+   "#91a9f2",
+   "#7b99f2"
+  ],
+  "pan": -1,
+  "hookStart": 42
+ },
+ {
+  "id": "G04-5",
+  "title": "Level Select",
+  "bpm": 106,
+  "style": "Bright synthwave",
+  "pack": "Retro Arcade",
+  "caption": "Pick your level, start the sprint",
+  "img": "scenes/G04-5.jpg",
+  "accent": "#67a4ff",
+  "waves": [
+   "#86b1f2",
+   "#efb2f2",
+   "#b2f2e9",
+   "#86b1f2"
+  ],
+  "pan": 1,
+  "hookStart": 71
+ },
+ {
+  "id": "G05-1",
+  "title": "Rack Hum",
+  "bpm": 92,
+  "style": "Minimal dark synthwave",
+  "pack": "Server Room",
+  "caption": "POV: 3am in the server room",
+  "img": "scenes/G05-1.jpg",
+  "accent": "#a2cfff",
+  "waves": [
+   "#b0d0f2",
+   "#f2b2b2",
+   "#b0d0f2",
+   "#a6c9f2"
+  ],
+  "pan": 1,
+  "hookStart": 93
+ },
+ {
+  "id": "G05-2",
+  "title": "Cold Boot",
+  "bpm": 98,
+  "style": "Darksynth",
+  "pack": "Server Room",
+  "caption": "Cold boot, warm focus",
+  "img": "scenes/G05-2.jpg",
+  "accent": "#7ec7ff",
+  "waves": [
+   "#96caf2",
+   "#9797f2",
+   "#96caf2",
+   "#aed6f2"
+  ],
+  "pan": -1,
+  "hookStart": 74
+ },
+ {
+  "id": "G05-3",
+  "title": "Fan Noise",
+  "bpm": 84,
+  "style": "Ambient synthwave",
+  "pack": "Server Room",
+  "caption": "Fan noise and flow state",
+  "img": "scenes/G05-3.jpg",
+  "accent": "#8fcbff",
+  "waves": [
+   "#a2cdf2",
+   "#a2cdf2",
+   "#b2d7f2",
+   "#94c6f2"
+  ],
+  "pan": 1,
+  "hookStart": 105
+ },
+ {
+  "id": "G05-4",
+  "title": "Uptime",
+  "bpm": 100,
+  "style": "Steady synthwave",
+  "pack": "Server Room",
+  "caption": "100% uptime focus",
+  "img": "scenes/G05-4.jpg",
+  "accent": "#a5e3ff",
+  "waves": [
+   "#b2def2",
+   "#b2def2",
+   "#a9d6f2",
+   "#9ad0f2"
+  ],
+  "pan": -1,
+  "hookStart": 92
+ },
+ {
+  "id": "G05-5",
+  "title": "Failover",
+  "bpm": 102,
+  "style": "Midtempo darkwave",
+  "pack": "Server Room",
+  "caption": "Failover to deep work",
+  "img": "scenes/G05-5.jpg",
+  "accent": "#92d2ff",
+  "waves": [
+   "#a4d2f2",
+   "#a4d2f2",
+   "#97c7f2",
+   "#8fc3f2"
+  ],
+  "pan": 1,
+  "hookStart": 84
  }
 ]

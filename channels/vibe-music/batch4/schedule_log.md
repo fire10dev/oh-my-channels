@@ -28,17 +28,17 @@
 | G05-4 | Uptime | v_eTn9T-XaQ | 19/11 20:00 |
 | G05-5 | Failover | 4jV7Ue1rnUE | 20/11 10:00 |
 
-## Short batch 4 — ID + "Video có liên quan" (kiểm 08/11/2026 16:05)
+## Short batch 4 — ID + "Video có liên quan" (kiểm 11/11/2026 10:12)
 
 | id | Short ID | related video |
 |---|---|---|
 | G01-1 | c_x9tdlnJbY | ✅ 08/11 (Root Access) |
-| G01-2 | PVfpY7xHKuI | chờ video 1 giờ công khai 08/11 20:00 |
-| G01-3 | 7AtYfezWtnY | chờ 09/11 10:00 |
-| G01-4 | 4wiKJXHQ4eM | chờ 09/11 20:00 |
-| G01-5 | IbOAPbUiKk8 | chờ 10/11 10:00 |
-| G02-1 | ic3oqU290BI | chờ 10/11 20:00 |
-| G02-2 | znLVhwebGTo | chờ 11/11 10:00 |
+| G01-2 | PVfpY7xHKuI | ✅ 11/11 (Kernel Panic Calm) |
+| G01-3 | 7AtYfezWtnY | ✅ 11/11 (Sudo Night) |
+| G01-4 | 4wiKJXHQ4eM | ✅ 11/11 (Cursor Blink) |
+| G01-5 | IbOAPbUiKk8 | ✅ 11/11 (Merge at Midnight) |
+| G02-1 | ic3oqU290BI | ✅ 11/11 (Overdrive Loop) |
+| G02-2 | znLVhwebGTo | ✅ 11/11 (Exit 1986) |
 | G02-3 | lY89Am4Iqg0 | chờ 11/11 20:00 |
 | G02-4 | E0Z7t4Z_E94 | chờ 12/11 10:00 |
 | G02-5 | cEyZk3-62p4 | chờ 12/11 20:00 |

@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
-"""make_posts_extra.py — titles/descriptions/schedule for batch-4 Shorts (out_shorts/) and pack mixes (out_mix/)
+"""make_posts_extra.py [pack#...] — titles/descriptions/schedule for batch-4 Shorts (out_shorts/) and pack mixes (out_mix/)
 -> youtube_posts_batch4_shorts_mix.md. Video ids from schedule_log.md.
 Short: same day as its 1-hour video, 15:00 (video 10:00) or 22:00 (video 20:00). Mix: day after the pack's last video, 18:30."""
-import datetime as dt, json, re
+import datetime as dt, json, re, sys
 from pathlib import Path
 
 B4 = Path(__file__).resolve().parent
 songs = {s["id"]: s for s in json.loads((B4 / "songs.json").read_text())}
 shorts = {s["id"]: s for s in json.loads((B4.parent / "shorts/src/shortsG.json").read_text())}
 log = {m[0]: (m[1], m[2], m[3]) for m in re.findall(r"\| (G\d\d-\d) \| [^|]+\| ([\w-]{11}) \| (\d\d/\d\d) (\d\d:\d\d) \|", (B4 / "schedule_log.md").read_text())}
-EMO = {"Midnight Terminal": "🖥️", "Neon Highway": "🌆", "Cyber Rain": "🌧️"}
+EMO = {"Midnight Terminal": "🖥️", "Neon Highway": "🌆", "Cyber Rain": "🌧️", "Retro Arcade": "🕹️", "Server Room": "🗄️"}
 TAGS = "#synthwave #codingmusic #retrowave #nightcoding #shorts"
 day = lambda ddmm: dt.datetime.strptime(ddmm + "/2026", "%d/%m/%Y")
+PACKS = set(map(int, sys.argv[1:]))  # optional: only these packs -> separate file
 ts = lambda s: f"{s // 60}:{s % 60:02d}"
 
 md = ["# Batch 4 — Short + Mix: nội dung đăng + lịch dự kiến", "",
@@ -21,7 +22,7 @@ md = ["# Batch 4 — Short + Mix: nội dung đăng + lịch dự kiến", "",
       "## Shorts", ""]
 rows = []
 for sid, sh in shorts.items():
-    if not (B4 / "out_shorts" / f"{sid}.mp4").exists():
+    if not (B4 / "out_shorts" / f"{sid}.mp4").exists() or (PACKS and songs[sid]["pack"] not in PACKS):
         continue
     vid, ddmm, hhmm = log[sid]
     when = day(ddmm).replace(hour=15 if hhmm == "10:00" else 22)
@@ -37,6 +38,8 @@ md += [r[1] for r in sorted(rows)]
 md += ["## Mix 1 giờ", ""]
 for cj in sorted((B4 / "out_mix").glob("* chapters.json")):
     c = json.loads(cj.read_text())
+    if PACKS and c["pack"] not in PACKS:
+        continue
     pack = [s for s in songs.values() if s["pack"] == c["pack"]]
     last = max(day(log[s["id"]][1]) for s in pack)
     when = (last + dt.timedelta(days=1)).replace(hour=18, minute=30)
@@ -53,5 +56,6 @@ for cj in sorted((B4 / "out_mix").glob("* chapters.json")):
     md += [f"### {when:%d/%m %H:%M} · {base}", f"- File: `batch4/out_mix/{base}.mp4` + `{base} thumbnail.jpg`", "",
            "**Title**", "```text", title, "```", "**Description**", "```text", "\n".join(lines), "```", ""]
     assert len(title) <= 100, title
-(B4 / "youtube_posts_batch4_shorts_mix.md").write_text("\n".join(md))
+suffix = "_P" + "-".join(f"{p:02d}" for p in sorted(PACKS)) if PACKS else ""
+(B4 / f"youtube_posts_batch4_shorts_mix{suffix}.md").write_text("\n".join(md))
 print(len(rows), "shorts,", len(list((B4 / "out_mix").glob("* chapters.json"))), "mixes")
