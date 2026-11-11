@@ -2,6 +2,9 @@
 
 For a fresh Claude session (other account / other machine) continuing this work. Read `AGENTS.md` first (rules updated 2026-11-07 night).
 
+## Next: long-video batch L004–L007 (Vietnam × China)
+Plans and the copy-paste session prompts live in `docs/plans/LONG-BATCH-HANDOFF.md`. Run one video per session and one session per night.
+
 ## L004 "Mongols vs Đại Việt" — script only (2026-11-10 06:55 +07, branch `long/L004`, not committed)
 - ✅ `scripts/L004-mongols-dai-viet-long.md` v4: 56 rows, 1,107 words, C1–C30, Codex r1–r3 (r3 FAIL → fixed/hedged, not re-reviewed). `tools/say_l004.json`.
 - New primary sources read directly: *Yuanshi* ch. 209 and *Toàn thư* ch. 5 on zh.wikisource (quotes in the claim table).
