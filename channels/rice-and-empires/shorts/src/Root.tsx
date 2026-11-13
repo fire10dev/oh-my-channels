@@ -36,6 +36,8 @@ import {LFPS, LongVideo, longTotal} from './LongVideo';
 import {Thumb} from './Thumb';
 import l003 from './l003.json';
 import l003t from './l003.timeline.json';
+import l008 from './l008.json';
+import l008t from './l008.timeline.json';
 
 export const RemotionRoot: React.FC = () => (
   <>
@@ -141,6 +143,7 @@ export const RemotionRoot: React.FC = () => (
       fps={FPS}
       durationInFrames={totalFrames(s011t)}
     />
+    <Still id="L008Thumb" component={Thumb} width={1280} height={720} defaultProps={{bg: 'l008/img-01.jpg', big: '1,000 YEARS', line: 'OF CHAMPA', tag: 'Where did it go?'}} />
     <Still id="L003Thumb" component={Thumb} width={1280} height={720} defaultProps={{bg: 'l003/thumb-bg.jpg', big: '1,000 YEARS', line: 'OF CHINESE RULE?', tag: 'What the sources say'}} />
     <Composition
       id="L003"
@@ -150,6 +153,15 @@ export const RemotionRoot: React.FC = () => (
       height={1080}
       fps={LFPS}
       durationInFrames={longTotal(l003 as any, l003t)}
+    />
+    <Composition
+      id="L008"
+      component={LongVideo}
+      defaultProps={{data: l008 as any, timeline: l008t, vid: 'l008'}}
+      width={1920}
+      height={1080}
+      fps={LFPS}
+      durationInFrames={longTotal(l008 as any, l008t)}
     />
   </>
 );

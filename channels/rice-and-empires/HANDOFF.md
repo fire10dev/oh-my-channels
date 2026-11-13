@@ -2,6 +2,26 @@
 
 For a fresh Claude session (other account / other machine) continuing this work. Read `AGENTS.md` first (rules updated 2026-11-07 night).
 
+## L008 long video "Champa" — 2026-11-11 23:20 (+07), branch `long/L008` (worktree `yt-channel-asia-history-L008`), NOT rendered, not committed
+HYBRID workflow: agent did steps 1–2; the owner makes images/clips by hand (no browser automation).
+- ✅ Research: owner's Gemini + ChatGPT outputs (`~/Downloads/l008/`, not in git) cross-checked → claim table C1–C31 (C10 cut).
+- ✅ Script `scripts/L008-champa-long.md` v4: 60 rows, 1,202 words, 8 chapters, Codex r1–r3 (`docs/reviews/L008-r1..r3.md`; no PASS, r3 fixes applied, not re-reviewed).
+- ✅ TTS Kokoro af_heart 1.0: 481 s narration → video ≈ 9:01 (`tools/say_l008.json`). Composition `L008` registered in `Root.tsx`.
+- ✅ Map states `champa_regions`, `southward_1069_1832`, `sea_route` (`LongMap.tsx`); timeline ribbon now per video (`shorts/src/l008.tl.json`, default = L003).
+- 🔴 Images: 45 new + 3 clip stills are placeholders (`shorts/public/l008/.placeholders`). Prompts: `shorts/public/l008/PROMPTS.md` (also `shorts/src/l008.images.json`).
+  S003 images reused from the main checkout (`shorts/public/s003/`, copied). `shorts/node_modules` = symlink to the main checkout.
+- 2026-11-13 19:35: 51 Muse.ai files imported (0 placeholders), music = Scott Buckley ×3 (`l008.music.json`), thumbnail `shorts/out/L008-thumb.jpg`.
+  Image review FAIL (`docs/reviews/L008-img-claude.md`): redo clip-2/clip-3 + img-08/10/22/28/30/35/44 (prompts in that file). Codex image review blocked (not logged in).
+- 2026-11-13 20:30: round-2 images (13 redone via Muse chat) pass Claude + Codex r2 except img-09 (Codex 🟠). Rendered `shorts/out/L008-champa.mp4`
+  9:01, −14.3 LUFS, 573 MB; frame sheet `shorts/out/L008-frames.jpg`. Waiting: owner watches + decides img-09, then upload (owner OK).
+- 2026-11-13 21:30: img-09 redone (Codex r3 🟠 face generic → kept, 3 rounds); 18 reused S003 9:16 shots replaced by new 16:9 img-46..63
+  (Codex r4: 0 🔴, 7 🟠 — 3 contradicted by the images, rest minor → kept). Final render `shorts/out/L008-champa.mp4` 9:01, −14.3 LUFS, 594 MB.
+  Waiting: owner watches → upload (owner OK) → commit/push `long/L008` (owner OK).
+### Remaining (old)
+1. Owner: generate the 48 files → `~/Downloads/l008/` → run the import line at the top of PROMPTS.md.
+2. Music: pick 3 tracks from `/Users/nino/Assets/rice-lib/music/` → `shorts/src/l008.music.json` (ch 0–4 grand, 5–6 sad, 7 warm).
+3. Render when `.placeholders` is empty → loudnorm −14 → thumbnail → §Publishing check.
+
 ## L003 long video "1,000 years of Chinese rule" — overnight 2026-11-09 → 10 (branch `night/2026-11-09`, NOT rendered)
 State 00:35 (+07), stopped at the usage limit:
 - ✅ Script `scripts/L003-a-thousand-years-of-chinese-rule-long.md` v4: 55 lines, 1,215 words, C1–C27, Codex r1–r3 (r3 FAIL → fixed/hedged, not re-reviewed).

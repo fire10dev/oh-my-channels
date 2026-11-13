@@ -5,7 +5,8 @@ Table rows: | NN | ch | EN narration | claims | shots | VI |
 Shots: iNN (new image <vid>/img-NN.jpg) · sN:NN (reused 9:16 image from Short N) · MAP:<state> · TL:<year|full> · CLIP:<n>
        CARD:<n|end> (chapter card, own segment before/after the row) · SRC:<text> (lower-third over the row, not a shot).
 Music: optional shorts/src/<vid>.music.json = [{src, fromCh, gain?}] (paths under shorts/public).
-Clips: <vid>/clip-<n>.mp4 if present, else the fallback image in CLIP_FALLBACK.
+Clips: <vid>/clip-<n>.mp4 if present, else CLIP_FALLBACK (L003) or the clip's start image <vid>/clip-<n>.jpg.
+Timeline ribbon: optional shorts/src/<vid>.tl.json (TLConf in LongVideo.tsx; default = L003).
 """
 import json, pathlib, re, sys
 
@@ -50,7 +51,8 @@ for line in text.split('\n'):
         elif t.startswith('CLIP:'):
             n = t[5:]
             f = f'{vid}/clip-{n}.mp4'
-            shots.append({'k': 'clip', 'src': f} if (pub / f).exists() else dict(zip(('k', 'src'), CLIP_FALLBACK[n])))
+            fb = CLIP_FALLBACK[n] if vid == 'l003' else ('img', f'{vid}/clip-{n}.jpg')
+            shots.append({'k': 'clip', 'src': f} if (pub / f).exists() else dict(zip(('k', 'src'), fb)))
         else:
             raise SystemExit(f'row {rid}: unknown shot {t!r}')
     rows.append({'id': rid, 'ch': ch, 'sub': en, 'say': say, 'shots': shots, 'src': src,
@@ -60,7 +62,11 @@ missing = sorted({s['src'] for r in rows for s in r['shots'] if 'src' in s and n
 out = pathlib.Path(f'shorts/src/{vid}.json')
 mf = pathlib.Path(f'shorts/src/{vid}.music.json')
 music = json.loads(mf.read_text()) if mf.exists() else []
-out.write_text(json.dumps({'chapters': chapters, 'rows': rows, 'music': music}, ensure_ascii=False, indent=1))
+tf = pathlib.Path(f'shorts/src/{vid}.tl.json')
+data = {'chapters': chapters, 'rows': rows, 'music': music}
+if tf.exists():
+    data['tl'] = json.loads(tf.read_text())
+out.write_text(json.dumps(data, ensure_ascii=False, indent=1))
 pathlib.Path(f'shorts/src/{vid}.scenes.json').write_text(
     json.dumps([{'id': r['id'], 'say': r['say']} for r in rows], ensure_ascii=False, indent=1))
 print(f"{len(rows)} rows, {sum(len(r['sub'].split()) for r in rows)} words, "

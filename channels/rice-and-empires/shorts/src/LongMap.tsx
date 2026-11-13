@@ -27,6 +27,25 @@ const COAST: [number, number][] = [
 ];
 const LAND = path([[100, 26.5], [118, 26.5], ...COAST, [100, 13.5]]) + ' Z';
 const HAINAN = path([[108.6, 19.2], [109.4, 18.3], [110.4, 18.6], [111.0, 19.6], [110.6, 20.1], [109.7, 20.1], [108.7, 19.6]]) + ' Z';
+// West mainland + Malay peninsula (fill reaches lon 100.3 to hide LAND's closing edge at lon 100), Sumatra, Borneo — rough, for wide sea views.
+const WEST_COAST: [number, number][] = [
+  [100, 13.5], [99.8, 11.8], [99.2, 10.5], [99.3, 9.1], [100.6, 7.2], [101.3, 6.9], [102.2, 6.1], [103.3, 3.8], [103.8, 1.3], [103.4, 1.25],
+  [102.25, 2.2], [101.4, 3.0], [100.3, 5.4], [98.3, 7.9], [98.5, 10], [98.6, 12.4], [97.6, 16.5], [96.2, 16.8], [94.5, 16.0], [94.0, 19.0], [92.3, 20.8], [88, 22.5],
+];
+const WEST_FILL = path([[88, 26.5], [100.3, 26.5], [100.3, 13.6], ...WEST_COAST, [88, 26.5]]) + ' Z';
+const SUMATRA = path([[95.3, 5.6], [97.5, 5.2], [98.7, 3.7], [100.4, 2.2], [101.5, 1.7], [103.4, 0.8], [104.4, -1.5], [106.0, -3.3], [106, -5.8], [104.6, -5.9], [102.3, -4.0], [100.4, -1.0], [98.8, 1.7], [97.2, 3.3], [95.2, 5.2]]) + ' Z';
+const BORNEO = path([[109.0, 1.8], [109.6, 2.1], [111.4, 2.6], [113.0, 3.2], [114.0, 4.6], [115.4, 5.3], [116.8, 7.0], [117.7, 6.0], [119.2, 5.1], [118.0, 4.3], [117.8, 1.0], [116.6, -1.5], [116.4, -3.8], [114.5, -4.0], [111.8, -3.4], [110.2, -2.9], [109.6, -1.0], [109.0, 0.5]]) + ' Z';
+// Dotted sea routes (drawn progressively).
+const ROUTES: Record<string, [number, number][][]> = {
+  sea_route: [[[113.3, 22.6], [112.5, 20.5], [110.8, 17.5], [109.8, 15.6], [109.9, 13.5], [109.7, 11.5], [108.9, 10.0], [107.2, 8.0], [104.6, 3.5], [104.0, 1.0], [102.6, 1.9], [100.7, 3.7], [98.6, 5.8], [95.5, 6.3], [91.5, 7.2]]],
+};
+// Frontier ticks across the coast: [lon at coast, lat, label, reveal at].
+const FRONTS: Record<string, [number, number, string, number][]> = {
+  southward_1069_1832: [
+    [106.5, 17.6, '1069', 0.08], [107.5, 16.6, '1306', 0.2], [109.25, 13.6, '1471', 0.34], [109.3, 13.0, 'c. 1611', 0.48],
+    [109.2, 12.15, '1653', 0.6], [109.0, 11.35, '1690s', 0.72], [108.4, 10.95, '1832', 0.86],
+  ],
+};
 const RED_RIVER: [number, number][] = [[101.9, 24.6], [102.8, 23.6], [103.9, 22.6], [104.4, 22.2], [104.9, 21.7], [105.4, 21.3], [105.85, 21.03], [106.05, 20.65], [106.6, 20.25]];
 const BACH_DANG: [number, number][] = [[106.3, 21.15], [106.55, 21.0], [106.75, 20.92], [106.85, 20.8]];
 
@@ -41,6 +60,9 @@ const CAMS: Record<string, [Cam, Cam]> = {
   southernhan: [{lon: 109.6, lat: 22.2, w: 1350}, {lon: 109.2, lat: 21.9, w: 1250}],
   bachdang: [{lon: 106.9, lat: 20.8, w: 380}, {lon: 106.7, lat: 20.95, w: 260}],
   full: [{lon: 106.6, lat: 18.0, w: 1800}, {lon: 106.4, lat: 17.4, w: 2000}],
+  champa_regions: [{lon: 107.4, lat: 15.6, w: 900}, {lon: 107.4, lat: 13.2, w: 900}],
+  southward_1069_1832: [{lon: 106.3, lat: 18.6, w: 1100}, {lon: 106.6, lat: 13.6, w: 1300}],
+  sea_route: [{lon: 108.6, lat: 15.8, w: 1500}, {lon: 105.6, lat: 10.0, w: 2800}],
 };
 
 type Lbl = {lon: number; lat: number; t: string; big?: boolean; color?: string; at?: number};
@@ -53,6 +75,16 @@ const LABELS: Record<string, Lbl[]> = {
   nanzhao: [{lon: 100.4, lat: 25.3, t: 'NANZHAO (Yunnan)', big: true, color: BRAND.vermilion, at: 0.05}, {lon: 105.85, lat: 21.03, t: 'Annan', big: true, at: 0.6}],
   southernhan: [{lon: 113.26, lat: 23.13, t: 'SOUTHERN HAN', big: true, color: BRAND.vermilion, at: 0.1}, {lon: 105.85, lat: 21.03, t: 'Jinghai / Tĩnh Hải', big: true, at: 0.5}],
   bachdang: [{lon: 106.55, lat: 21.12, t: 'Bạch Đằng River', big: true, at: 0.15}, {lon: 107.15, lat: 20.55, t: 'Southern Han fleet', color: BRAND.vermilion, at: 0.45}],
+  champa_regions: [
+    {lon: 106.4, lat: 17.4, t: 'Đại Việt (north)', color: BRAND.vermilion, at: 0.05}, {lon: 108.25, lat: 15.6, t: 'INDRAPURA', big: true, at: 0.15},
+    {lon: 109.05, lat: 13.9, t: 'VIJAYA', big: true, at: 0.32}, {lon: 109.19, lat: 12.27, t: 'KAUTHARA', big: true, at: 0.49},
+    {lon: 108.99, lat: 11.57, t: 'PANDURANGA', big: true, at: 0.66}, {lon: 104.6, lat: 13.41, t: 'Angkor (Khmer)', at: 0.6},
+  ],
+  southward_1069_1832: [{lon: 105.85, lat: 21.03, t: 'Thăng Long', big: true, color: BRAND.vermilion, at: 0.02}, {lon: 108.99, lat: 11.57, t: 'Panduranga', at: 0.7}],
+  sea_route: [
+    {lon: 113.26, lat: 23.13, t: 'SONG CHINA', big: true, color: BRAND.vermilion, at: 0.05}, {lon: 108.35, lat: 15.95, t: 'Champa ports', big: true, at: 0.25},
+    {lon: 100.9, lat: 2.6, t: 'Strait of Malacca', at: 0.6}, {lon: 92.2, lat: 8.2, t: 'to the Indian Ocean', big: true, at: 0.85},
+  ],
   full: [{lon: 105.85, lat: 21.03, t: 'Red River region', big: true, color: BRAND.vermilion, at: 0.15}, {lon: 108.3, lat: 14.2, t: 'Champa', at: 0.45}, {lon: 105.2, lat: 12.6, t: 'Funan / Khmer lands', at: 0.6}],
 };
 // Arrows (from → to), drawn as brush strokes.
@@ -61,6 +93,7 @@ const ARROWS: Record<string, [number, number][][]> = {
   nanzhao: [[[100.6, 25.1], [102.4, 23.9], [104.3, 22.3], [105.6, 21.2]]],
   southernhan: [[[112.8, 22.8], [110.6, 21.0], [108.2, 20.6], [107.0, 20.8]]],
   bachdang: [[[107.6, 20.35], [107.2, 20.6], [106.9, 20.85]]],
+  southward_1069_1832: [[[105.9, 20.6], [106.3, 18.6], [107.6, 16.4], [108.6, 14.6], [108.7, 12.6], [108.4, 11.3]]],
 };
 // Tinted zones: [lon, lat, radius°]
 const ZONES: Record<string, [number, number, number][]> = {
@@ -70,6 +103,7 @@ const ZONES: Record<string, [number, number, number][]> = {
   annan: [[105.85, 21.0, 0.9]],
   southernhan: [[112.5, 23.2, 2.4], [109.5, 22.6, 1.8]],
   full: [[105.9, 21.0, 1.3], [105.8, 19.5, 1.0], [107.0, 17.2, 0.9]],
+  champa_regions: [[108.2, 15.6, 0.8], [108.9, 13.9, 0.8], [109.0, 12.3, 0.7], [108.8, 11.6, 0.7]],
 };
 
 export const RedRiverMap: React.FC<{state: string; frames: number; cinzel: string; body: string}> = ({state, frames, cinzel, body}) => {
@@ -94,9 +128,13 @@ export const RedRiverMap: React.FC<{state: string; frames: number; cinzel: strin
         <radialGradient id="zone"><stop offset="0%" stopColor={BRAND.vermilion} stopOpacity={0.42} /><stop offset="100%" stopColor={BRAND.vermilion} stopOpacity={0} /></radialGradient>
       </defs>
       {/* sea hatching */}
-      <rect x={-500} y={-500} width={3000} height={3000} fill="#c9b98f" />
-      <rect x={-500} y={-500} width={3000} height={3000} fill="url(#hatch)" />
+      <rect x={-1500} y={-1500} width={6000} height={6000} fill="#c9b98f" />
+      <rect x={-1500} y={-1500} width={6000} height={6000} fill="url(#hatch)" />
       <path d={LAND} fill="#f0e2c0" stroke={BRAND.ink} strokeWidth={3 * k} filter="url(#rough)" />
+      <path d={WEST_FILL} fill="#f0e2c0" filter="url(#rough)" />
+      <path d={path(WEST_COAST)} fill="none" stroke={BRAND.ink} strokeWidth={3 * k} filter="url(#rough)" />
+      <path d={SUMATRA} fill="#f0e2c0" stroke={BRAND.ink} strokeWidth={3 * k} filter="url(#rough)" />
+      <path d={BORNEO} fill="#f0e2c0" stroke={BRAND.ink} strokeWidth={3 * k} filter="url(#rough)" />
       <path d={HAINAN} fill="#f0e2c0" stroke={BRAND.ink} strokeWidth={3 * k} filter="url(#rough)" />
       {/* mountains (decorative ^ marks in the north-west) */}
       {Array.from({length: 22}, (_, i) => {
@@ -122,6 +160,25 @@ export const RedRiverMap: React.FC<{state: string; frames: number; cinzel: strin
           <g key={i}>
             <path d={smooth(a)} fill="none" stroke={BRAND.vermilion} strokeWidth={7 * k} strokeLinecap="round" pathLength={1} strokeDasharray={1} strokeDashoffset={1 - d} opacity={0.85} />
             <circle cx={end[0]} cy={end[1]} r={9 * k} fill={BRAND.vermilion} opacity={d > 0.95 ? 1 : 0} />
+          </g>
+        );
+      })}
+      {(ROUTES[state] ?? []).map((a, i) => {
+        const d = interpolate(p, [0.08, 0.85], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
+        return (
+          <g key={`r${i}`}>
+            <mask id={`rm${i}`}><path d={smooth(a)} fill="none" stroke="#fff" strokeWidth={14 * k} pathLength={1} strokeDasharray={1} strokeDashoffset={1 - d} /></mask>
+            <path d={smooth(a)} fill="none" stroke={BRAND.vermilion} strokeWidth={5 * k} strokeLinecap="round" strokeDasharray={`${14 * k} ${12 * k}`} mask={`url(#rm${i})`} />
+          </g>
+        );
+      })}
+      {(FRONTS[state] ?? []).map(([lo, la, l, at], i) => {
+        const [x, y] = P(lo, la);
+        const o = reveal(at);
+        return (
+          <g key={`f${i}`} opacity={o}>
+            <line x1={x - 140 * o} y1={y} x2={x + 25} y2={y} stroke={BRAND.vermilion} strokeWidth={4 * k} strokeDasharray={`${10 * k} ${6 * k}`} />
+            <text x={x + 34 * k} y={y + 10 * k} fontFamily={body} fontWeight={700} fontSize={30 * k} fill={BRAND.vermilion} stroke="#efe0bc" strokeWidth={6 * k} paintOrder="stroke">{l}</text>
           </g>
         );
       })}

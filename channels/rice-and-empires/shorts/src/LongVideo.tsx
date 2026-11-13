@@ -32,7 +32,17 @@ export type Shot =
   | {k: 'map'; state: string}
   | {k: 'tl'; year: string};
 export type Row = {id: string; ch: number; sub: string; say: string; shots: Shot[]; src: string | null; cardBefore: string | null; cardAfter: string | null};
-export type LongData = {chapters: string[]; rows: Row[]; music?: {src: string; fromCh: number; gain?: number}[]};
+// Timeline ribbon config (per video, optional src/<vid>.tl.json via long_build.py). Default = L003.
+export type TLConf = {y0: number; y1: number; start: number; end: number; gaps: [number, number, string][]; marks: [number, string][]; caption: string; chYear: number[]};
+const TL_L003: TLConf = {
+  y0: -260, y1: 1000, start: -111, end: 939,
+  gaps: [[40, 43, 'Trưng 40–43'], [544, 602, 'Vạn Xuân 544–602']],
+  marks: [[-111, '111 BC'], [939, 'AD 939']],
+  caption: 'Chinese rule over the Red River region, as traditionally dated',
+  chYear: [-111, -300, -111, 40, 187, 679, 905, 939],
+};
+const TLCtx = React.createContext<TLConf>(TL_L003);
+export type LongData = {chapters: string[]; rows: Row[]; music?: {src: string; fromCh: number; gain?: number}[]; tl?: TLConf};
 export type Timed = {id: string; file: string; seconds: number};
 
 type Seg =
@@ -61,19 +71,18 @@ export const segments = (d: LongData, t: Timed[]): Seg[] => {
 export const longTotal = (d: LongData, t: Timed[]) => segments(d, t).reduce((a, s) => a + s.frames, 0);
 
 const ROMAN = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
-const CH_YEAR = [-111, -300, -111, 40, 187, 679, 905, 939];
 
 // ---------- timeline ribbon ----------
-const Y0 = -260;
-const Y1 = 1000;
 const yearLabel = (y: number) => (y < 0 ? `${-Math.round(y)} BC` : `AD ${Math.round(y)}`);
 const Ribbon: React.FC<{year: number; from?: number; width: number; progress: number; draw?: boolean; big?: boolean}> = ({year, from, width, progress, draw, big}) => {
-  const X = (y: number) => ((y - Y0) / (Y1 - Y0)) * width;
+  const c = React.useContext(TLCtx);
+  const X = (y: number) => ((y - c.y0) / (c.y1 - c.y0)) * width;
   const h = big ? 26 : 14;
   const cur = interpolate(progress, [0, 1], [from ?? year, year]);
-  const ruleEnd = draw ? interpolate(progress, [0, 1], [-111, 939]) : 939;
-  const seg = (a: number, b: number) => [Math.max(a, -111), Math.min(b, ruleEnd)] as const;
-  const parts: [number, number][] = [seg(-111, 40), seg(43, 544), seg(602, 939)].filter(([a, b]) => b > a) as [number, number][];
+  const ruleEnd = draw ? interpolate(progress, [0, 1], [c.start, c.end]) : c.end;
+  const seg = (a: number, b: number) => [Math.max(a, c.start), Math.min(b, ruleEnd)] as const;
+  const cuts = [c.start, ...c.gaps.flatMap(([a, b]) => [a, b]), c.end];
+  const parts: [number, number][] = cuts.filter((_, i) => i % 2 === 0).map((a, i) => seg(a, cuts[2 * i + 1])).filter(([a, b]) => b > a) as [number, number][];
   const fs = big ? 24 : 17;
   return (
     <svg width={width} height={big ? 150 : 90} style={{overflow: 'visible'}}>
@@ -81,15 +90,15 @@ const Ribbon: React.FC<{year: number; from?: number; width: number; progress: nu
       {parts.map(([a, b]) => (
         <rect key={a} x={X(a)} y={40 - h / 2} width={X(b) - X(a)} height={h} fill={BRAND.vermilion} opacity={0.9} rx={3} />
       ))}
-      {[[40, 43, 'Trưng 40–43'], [544, 602, 'Vạn Xuân 544–602']].map(([a, b, l]) => (
+      {c.gaps.map(([a, b, l]) => (
         <g key={l as string} opacity={(b as number) <= ruleEnd + 1 ? 1 : 0}>
           <rect x={X(a as number) - 3} y={40 - h / 2 - 4} width={X(b as number) - X(a as number) + 6} height={h + 8} fill={BRAND.goldLight} rx={3} />
           <text x={X(a as number)} y={40 + h + 18} fill={BRAND.goldLight} fontFamily={body} fontSize={fs - 2} textAnchor="middle">{l}</text>
         </g>
       ))}
-      {[-111, 939].map((y) => (
+      {c.marks.map(([y, l]) => (
         <text key={y} x={X(y)} y={40 - h / 2 - 12} fill={BRAND.parchment} fontFamily={body} fontSize={fs} fontWeight={600} textAnchor="middle" opacity={y <= ruleEnd + 1 ? 1 : 0}>
-          {yearLabel(y)}
+          {l}
         </text>
       ))}
       <g transform={`translate(${X(cur)},40)`}>
@@ -213,20 +222,21 @@ const Parchment: React.FC = () => (
 );
 const TimelineShot: React.FC<{year: string; frames: number}> = ({year, frames}) => {
   const f = useCurrentFrame();
+  const c = React.useContext(TLCtx);
   const full = year === 'full';
-  const y = full ? 939 : Number(year);
+  const y = full ? c.end : Number(year);
   const p = interpolate(f, [6, Math.min(frames - 6, full ? 110 : 45)], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp', easing: Easing.out(Easing.cubic)});
-  const shown = full ? interpolate(p, [0, 1], [-111, 939]) : interpolate(p, [0, 1], [y - 60, y]);
+  const shown = full ? interpolate(p, [0, 1], [c.start, c.end]) : interpolate(p, [0, 1], [y - 60, y]);
   return (
     <AbsoluteFill style={{background: `radial-gradient(ellipse at 50% 40%, #2a1c10 0%, ${BRAND.lacquer} 75%)`}}>
       <div style={{position: 'absolute', top: 250, width: '100%', textAlign: 'center', fontFamily: body, fontWeight: 600, fontSize: 150, color: BRAND.goldLight, letterSpacing: 2}}>
         {yearLabel(shown)}
       </div>
       <div style={{position: 'absolute', top: 470, width: '100%', textAlign: 'center', fontFamily: body, fontSize: 30, color: BRAND.parchment, opacity: 0.8}}>
-        Chinese rule over the Red River region, as traditionally dated
+        {c.caption}
       </div>
       <div style={{position: 'absolute', left: 160, top: 620}}>
-        <Ribbon width={1600} year={full ? 939 : y} from={full ? -111 : y - 60} progress={p} draw={full} big />
+        <Ribbon width={1600} year={y} from={full ? c.start : y - 60} progress={p} draw={full} big />
       </div>
     </AbsoluteFill>
   );
@@ -331,6 +341,7 @@ const DrumStar: React.FC<{size: number; rot: number}> = ({size, rot}) => {
 };
 const ChapterCard: React.FC<{card: string; title: string; frames: number}> = ({card, title, frames}) => {
   const f = useCurrentFrame();
+  const tl = React.useContext(TLCtx);
   const end = card === 'end';
   const ch = end ? 0 : Number(card);
   const reveal = interpolate(f, [0, 22], [0, 140], {extrapolateRight: 'clamp', easing: Easing.out(Easing.cubic)});
@@ -352,7 +363,7 @@ const ChapterCard: React.FC<{card: string; title: string; frames: number}> = ({c
         </div>
         {!end && (
           <div style={{position: 'absolute', left: 260, top: 900, opacity: tIn}}>
-            <Ribbon width={1400} year={CH_YEAR[ch] ?? 939} from={-111} progress={interpolate(f, [10, 60], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})} />
+            <Ribbon width={1400} year={tl.chYear[ch] ?? tl.end} from={tl.start} progress={interpolate(f, [10, 60], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})} />
           </div>
         )}
       </AbsoluteFill>
@@ -411,6 +422,7 @@ export const LongVideo: React.FC<{data: LongData; timeline: Timed[]; vid: string
   };
   const music = data.music ?? [];
   return (
+    <TLCtx.Provider value={data.tl ?? TL_L003}>
     <AbsoluteFill style={{backgroundColor: BRAND.lacquer}}>
       {segs.map((s, i) =>
         s.kind === 'card' ? (
@@ -445,5 +457,6 @@ export const LongVideo: React.FC<{data: LongData; timeline: Timed[]; vid: string
         );
       })}
     </AbsoluteFill>
+    </TLCtx.Provider>
   );
 };

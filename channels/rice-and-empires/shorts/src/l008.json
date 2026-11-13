@@ -1,0 +1,1041 @@
+{
+ "chapters": [
+  "Towers in the Jungle",
+  "People of the Sea",
+  "Gods of Brick",
+  "Champa Rice",
+  "Neighbors at War",
+  "1471",
+  "The Long Fade",
+  "What Remains"
+ ],
+ "rows": [
+  {
+   "id": "01",
+   "ch": 0,
+   "sub": "In a green valley in central Vietnam, red brick towers rise out of the jungle. Some of them are more than a thousand years old.",
+   "say": "In a green valley in central Vietnam, red brick towers rise out of the jungle. Some of them are more than a thousand years old.",
+   "shots": [
+    {
+     "k": "clip",
+     "src": "l008/clip-1.mp4"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-01.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "02",
+   "ch": 0,
+   "sub": "The people who built them ruled parts of this coast for more than a thousand years. Their kingdom was called Champa.",
+   "say": "The people who built them ruled parts of this coast for more than a thousand years. Their kingdom was called Chahm-pah.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-02.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-46.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "03",
+   "ch": 0,
+   "sub": "It was a sea power that traded with China and sacked a Vietnamese capital. Its name even lived on in China, as the name of a rice.",
+   "say": "It was a sea power that traded with China and sacked a Vietnamese capital. Its name even lived on in China, as the name of a rice.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-47.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-48.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "04",
+   "ch": 0,
+   "sub": "Today, Champa has no capital and no state. But its people are still here.",
+   "say": "Today, Chahm-pah has no capital and no state. But its people are still here.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-03.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "05",
+   "ch": 0,
+   "sub": "This is the story of how Champa rose, how it ended, and what remains.",
+   "say": "This is the story of how Chahm-pah rose, how it ended, and what remains.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-49.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": "0"
+  },
+  {
+   "id": "06",
+   "ch": 1,
+   "sub": "The Cham spoke an Austronesian language. Its closest relatives are not Vietnamese or Khmer, but languages like Acehnese and Malay, spoken across the sea.",
+   "say": "The Chahm spoke an Austronesian language. Its closest relatives are not Vietnamese or Khmer, but languages like Ah-chay-neez and Malay, spoken across the sea.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-04.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-50.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "1",
+   "cardAfter": null
+  },
+  {
+   "id": "07",
+   "ch": 1,
+   "sub": "Chinese histories describe a kingdom on this coast called Linyi, from roughly the second or third century CE. Whether Linyi was Champa itself is still debated.",
+   "say": "Chinese histories describe a kingdom on this coast called Lin-yee, from roughly the second or third century C E. Whether Lin-yee was Chahm-pah itself is still debated.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-51.jpg"
+    }
+   ],
+   "src": "Vickery 2005",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "08",
+   "ch": 1,
+   "sub": "Champa was not always a single unified state. Some historians describe several regional centers along the coast, sometimes united and sometimes rivals.",
+   "say": "Chahm-pah was not always a single unified state. Some historians describe several regional centers along the coast, sometimes united and sometimes rivals.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-52.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "09",
+   "ch": 1,
+   "sub": "Indrapura in the north. Vijaya. Kauthara. And Panduranga, in the dry far south.",
+   "say": "Indra-poora in the north. Vee-jaya. Kow-tah-rah. And Pahn-doo-rahng-gah, in the dry far south.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "champa_regions"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "10",
+   "ch": 1,
+   "sub": "These centers grew at river mouths, facing the sea. Chinese records describe Cham traders bringing ivory, rhinoceros horn and fragrant aloeswood.",
+   "say": "These centers grew at river mouths, facing the sea. Chinese records describe Chahm traders bringing ivory, rhinoceros horn and fragrant aloeswood.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-05.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-53.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "11",
+   "ch": 1,
+   "sub": "Their harbors lay along sea routes linking China and the Indian Ocean. Ships from both worlds stopped on this coast.",
+   "say": "Their harbors lay along sea routes linking China and the Indian Ocean. Ships from both worlds stopped on this coast.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "sea_route"
+    },
+    {
+     "k": "clip",
+     "src": "l008/clip-2.mp4"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "12",
+   "ch": 2,
+   "sub": "Cham rulers built in fired red brick, decorated with carved sandstone. Their temple towers still stand along the coast.",
+   "say": "Chahm rulers built in fired red brick, decorated with carved sandstone. Their temple towers still stand along the coast.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-06.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-54.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "2",
+   "cardAfter": null
+  },
+  {
+   "id": "13",
+   "ch": 2,
+   "sub": "Many were dedicated to Shiva, a Hindu god. At Mỹ Sơn, inscriptions honor Bhadreśvara, a form of Shiva named after an early king, Bhadravarman.",
+   "say": "Many were dedicated to Shiva, a Hindu god. At Mee Sun, inscriptions honor Bhad-raysh-vara, a form of Shiva named after an early king, Bhadra-varman.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-07.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-08.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "14",
+   "ch": 2,
+   "sub": "But Champa was not only Hindu. In the ninth century, a large Buddhist monastery was established at Đồng Dương.",
+   "say": "But Chahm-pah was not only Hindu. In the ninth century, a large Buddhist monastery was established at Dong Zuong.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-09.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-55.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "15",
+   "ch": 2,
+   "sub": "Inscriptions were written in Sanskrit, the classical language of India, and in Old Cham, the language of the Cham.",
+   "say": "Inscriptions were written in Sanskrit, the classical language of India, and in Old Chahm, the language of the Chahm.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-10.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "16",
+   "ch": 2,
+   "sub": "One Old Cham stone, from Đông Yên Châu, is often described as one of the oldest known texts in any Austronesian language. Its exact date is still studied.",
+   "say": "One Old Chahm stone, from Dong Yen Chow, is often described as one of the oldest known texts in any Austronesian language. Its exact date is still studied.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-11.jpg"
+    }
+   ],
+   "src": "Griffiths et al. 2024 · Thurgood 1999",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "17",
+   "ch": 2,
+   "sub": "Further south, at Kauthara, the Cham worshipped a goddess at the towers of Po Nagar. We will come back to her.",
+   "say": "Further south, at Kow-tah-rah, the Chahm worshipped a goddess at the towers of Poh Nah-gar. We will come back to her.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-12.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "18",
+   "ch": 2,
+   "sub": "Mỹ Sơn is now a UNESCO World Heritage Site. Some of its towers were damaged during the Vietnam War.",
+   "say": "Mee Sun is now a UNESCO World Heritage Site. Some of its towers were damaged during the Vietnam War.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-13.jpg"
+    }
+   ],
+   "src": "UNESCO, My Son Sanctuary",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "19",
+   "ch": 3,
+   "sub": "Champa's name traveled further than its ships. In Song China, farmers grew a rice known as Champa rice.",
+   "say": "Chahm-pah's name traveled further than its ships. In Song China, farmers grew a rice known as Chahm-pah rice.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-14.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "3",
+   "cardAfter": null
+  },
+  {
+   "id": "20",
+   "ch": 3,
+   "sub": "Song records describe Champa rice as a variety that ripened early and could survive with less water.",
+   "say": "Song records describe Chahm-pah rice as a variety that ripened early and could survive with less water.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-15.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "21",
+   "ch": 3,
+   "sub": "Song records, as discussed by historian Ho Ping-ti, say that in 1012 Emperor Zhenzong ordered thirty thousand bushels of seed from Fujian to be shared out in the Yangzi and Huai regions.",
+   "say": "Song records, as discussed by historian Ho Ping-tee, say that in ten twelve Emperor Jen-zong ordered thirty thousand bushels of seed from Foo-jen to be shared out in the Yahng-zuh and Huai regions.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "1012"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-16.jpg"
+    }
+   ],
+   "src": "Ho Ping-ti 1956 · Sweeney et al. 2011",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "22",
+   "ch": 3,
+   "sub": "The rice had probably reached southern China earlier, by sea. Ho argued it helped China grow far more food. Others think its effect was slower and more local.",
+   "say": "The rice had probably reached southern China earlier, by sea. Ho argued it helped China grow far more food. Others think its effect was slower and more local.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-56.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-15.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "23",
+   "ch": 3,
+   "sub": "Where did it come from first? A 2011 genetic study links these varieties to a rice group from South Asia. Champa may have been one stop on its journey, but the name stuck: Champa rice.",
+   "say": "Where did it come from first? A 2011 genetic study links these varieties to a rice group from South Asia. Chahm-pah may have been one stop on its journey, but the name stuck: Chahm-pah rice.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-17.jpg"
+    }
+   ],
+   "src": "Sweeney et al. 2011",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "24",
+   "ch": 4,
+   "sub": "Champa was also a military power, and it fought neighbors on both sides.",
+   "say": "Chahm-pah was also a military power, and it fought neighbors on both sides.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-18.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "4",
+   "cardAfter": null
+  },
+  {
+   "id": "25",
+   "ch": 4,
+   "sub": "To the west lay the Khmer empire of Angkor. In the conventional account, a Cham force attacked Angkor in 1177. Historian Michael Vickery doubts parts of that story.",
+   "say": "To the west lay the Khmer empire of Angkor. In the conventional account, a Chahm force attacked Angkor in eleven seventy-seven. Historian Michael Vickery doubts parts of that story.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-19.jpg"
+    },
+    {
+     "k": "map",
+     "state": "champa_regions"
+    }
+   ],
+   "src": "Vickery 2005",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "26",
+   "ch": 4,
+   "sub": "Khmer forces under Jayavarman the Seventh later campaigned in parts of Champa.",
+   "say": "Khmer forces under Jaya-varman the Seventh later campaigned in parts of Chahm-pah.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-20.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "27",
+   "ch": 4,
+   "sub": "To the north lay Đại Việt, the Vietnamese kingdom of the Red River. Here too, wars ran both ways.",
+   "say": "To the north lay Dye Vee-et, the Vietnamese kingdom of the Red River. Here too, wars ran both ways.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-21.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "28",
+   "ch": 4,
+   "sub": "Cham inscriptions, Vietnamese chronicles and Chinese records each tell these wars from their own side.",
+   "say": "Chahm inscriptions, Vietnamese chronicles and Chinese records each tell these wars from their own side.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-57.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "29",
+   "ch": 4,
+   "sub": "In 1069, Đại Việt's king Lý Thánh Tông captured the Cham king. Vietnamese chronicles say three northern districts were given up for his release.",
+   "say": "In ten sixty-nine, Dye Vee-et's king Lee Tahn Tong captured the Chahm king. Vietnamese chronicles say three northern districts were given up for his release.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-22.jpg"
+    }
+   ],
+   "src": "Đại Việt sử ký toàn thư (1479)",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "30",
+   "ch": 4,
+   "sub": "In 1306, a Cham king married a Vietnamese princess, Huyền Trân. In the Vietnamese chronicles, two more districts passed to Đại Việt with the marriage.",
+   "say": "In thirteen oh-six, a Chahm king married a Vietnamese princess, Hwen Chun. In the Vietnamese chronicles, two more districts passed to Dye Vee-et with the marriage.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-23.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "31",
+   "ch": 4,
+   "sub": "Then the tide turned. In the late fourteenth century, a Cham king the Vietnamese called Chế Bồng Nga led attack after attack to the north.",
+   "say": "Then the tide turned. In the late fourteenth century, a Chahm king the Vietnamese called Cheh Bong Ngah led attack after attack to the north.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-24.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "32",
+   "ch": 4,
+   "sub": "In 1371, Cham forces sacked Thăng Long, the capital of Đại Việt.",
+   "say": "In thirteen seventy-one, Chahm forces sacked Tahng Long, the capital of Dye Vee-et.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "1371"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-25.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "33",
+   "ch": 4,
+   "sub": "His campaigns went on for almost twenty years, until he was killed in battle in 1390. His real Cham name is not known.",
+   "say": "His campaigns went on for almost twenty years, until he was killed in battle in thirteen ninety. His real Chahm name is not known.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-58.jpg"
+    }
+   ],
+   "src": "Whitmore 2011",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "34",
+   "ch": 4,
+   "sub": "After his death, the balance of power slowly turned against Champa.",
+   "say": "After his death, the balance of power slowly turned against Chahm-pah.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-26.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "35",
+   "ch": 5,
+   "sub": "In 1471, Đại Việt's emperor Lê Thánh Tông led a large army south against Vijaya, the Cham capital.",
+   "say": "In fourteen seventy-one, Dye Vee-et's emperor Lay Tahn Tong led a large army south against Vee-jaya, the Chahm capital.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "1471"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-27.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "5",
+   "cardAfter": null
+  },
+  {
+   "id": "36",
+   "ch": 5,
+   "sub": "The city fell. The Cham king, called Trà Toàn in Vietnamese records, was captured with his family.",
+   "say": "The city fell. The Chahm king, called Chah Twahn in Vietnamese records, was captured with his family.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-59.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-28.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "37",
+   "ch": 5,
+   "sub": "Vijaya became a major Cham capital around the eleventh century. Cham towers still stand near the city of Quy Nhơn.",
+   "say": "Vee-jaya became a major Chahm capital around the eleventh century. Chahm towers still stand near the city of Kwee Nyun.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-29.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "38",
+   "ch": 5,
+   "sub": "How many died? The sources do not agree. The Vietnamese court chronicle claims over 40,000 killed and over 30,000 captured. Those are its own figures, not a settled count.",
+   "say": "How many died? The sources do not agree. The Vietnamese court chronicle claims over forty thousand killed and over thirty thousand captured. Those are its own figures, not a settled count.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-30.jpg"
+    }
+   ],
+   "src": "Đại Việt sử ký toàn thư, cited in Kiernan 2009",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "39",
+   "ch": 5,
+   "sub": "The Ming history, written in China, records the king and more than fifty of his relatives taken away.",
+   "say": "The Ming history, written in China, records the king and more than fifty of his relatives taken away.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-31.jpg"
+    }
+   ],
+   "src": "Ming shi, trans. G. Wade 2003",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "40",
+   "ch": 5,
+   "sub": "The northern lands of Vijaya became part of Đại Việt. Further south, smaller Cham kingdoms survived.",
+   "say": "The northern lands of Vee-jaya became part of Dye Vee-et. Further south, smaller Chahm kingdoms survived.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "southward_1069_1832"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "41",
+   "ch": 5,
+   "sub": "A Cham envoy told the Ming court that Annam had sacked and occupied their country.",
+   "say": "A Chahm envoy told the Ming court that Annam had sacked and occupied their country.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-31.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "42",
+   "ch": 5,
+   "sub": "According to Ming records, the court sent orders to Annam. Vijaya was never returned to Cham rule.",
+   "say": "According to Ming records, the court sent orders to Annam. Vee-jaya was never returned to Chahm rule.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-32.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "43",
+   "ch": 5,
+   "sub": "For the Cham, the heartland of their northern kingdoms was gone.",
+   "say": "For the Chahm, the heartland of their northern kingdoms was gone.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-32.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "44",
+   "ch": 6,
+   "sub": "After 1471, Champa lived on in the south, smaller with each century.",
+   "say": "After fourteen seventy-one, Chahm-pah lived on in the south, smaller with each century.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-60.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "6",
+   "cardAfter": null
+  },
+  {
+   "id": "45",
+   "ch": 6,
+   "sub": "The Nguyễn lords, who ruled southern Đại Việt, moved their frontier step by step: Phú Yên around 1611, Kauthara in 1653.",
+   "say": "The Nwin lords, who ruled southern Dye Vee-et, moved their frontier step by step: Foo Yen around sixteen eleven, Kow-tah-rah in sixteen fifty-three.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "southward_1069_1832"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "46",
+   "ch": 6,
+   "sub": "In the 1690s they took Panduranga, the last Cham principality. After resistance, they let a Cham ruler govern it again, under Nguyễn authority.",
+   "say": "In the sixteen-nineties they took Pahn-doo-rahng-gah, the last Chahm principality. After resistance, they let a Chahm ruler govern it again, under Nwin authority.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-33.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "47",
+   "ch": 6,
+   "sub": "Vietnamese settlement spread into lands that had been Cham territory.",
+   "say": "Vietnamese settlement spread into lands that had been Chahm territory.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-61.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "48",
+   "ch": 6,
+   "sub": "For more than a century, Panduranga kept Cham rulers, and its court kept records in the Cham script.",
+   "say": "For more than a century, Pahn-doo-rahng-gah kept Chahm rulers, and its court kept records in the Chahm script.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-34.jpg"
+    }
+   ],
+   "src": "Po Dharma 1987 · Weber 2012",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "49",
+   "ch": 6,
+   "sub": "In 1832, Emperor Minh Mạng ended that arrangement and brought Panduranga under direct rule, as a province of Vietnam.",
+   "say": "In eighteen thirty-two, Emperor Min Mahng ended that arrangement and brought Pahn-doo-rahng-gah under direct rule, as a province of Vietnam.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "1832"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-35.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "50",
+   "ch": 6,
+   "sub": "Revolts followed, and were put down by 1835. Cham poems from those years recorded the new rules, and how they changed Cham life.",
+   "say": "Revolts followed, and were put down by eighteen thirty-five. Chahm poems from those years recorded the new rules, and how they changed Chahm life.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-36.jpg"
+    }
+   ],
+   "src": "Weber 2012",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "51",
+   "ch": 6,
+   "sub": "A kingdom that had faced the sea for more than a thousand years ended as a state.",
+   "say": "A kingdom that had faced the sea for more than a thousand years ended as a state.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-03.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "52",
+   "ch": 6,
+   "sub": "It is tempting to ask what might have been. But history has no \"if\". It has only what happened, and what remains.",
+   "say": "It is tempting to ask what might have been. But history has no \"if\". It has only what happened, and what remains.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-37.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-62.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "53",
+   "ch": 7,
+   "sub": "And what remains is a people. Vietnam's 2019 census counted about 179,000 Cham, and Cham communities also live in Cambodia.",
+   "say": "And what remains is a people. Vietnam's twenty nineteen census counted about a hundred and seventy-nine thousand Chahm, and Chahm communities also live in Cambodia.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-38.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-63.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "7",
+   "cardAfter": null
+  },
+  {
+   "id": "54",
+   "ch": 7,
+   "sub": "Some follow a Hindu-based tradition, some Bani, some Sunni Islam. Their own script, Akhar Thrah, is still taught in some village schools.",
+   "say": "Some follow a Hindu-based tradition, some Bah-nee, some Sunni Islam. Their own script, Ah-kar Trah, is still taught in some village schools.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-39.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-40.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "55",
+   "ch": 7,
+   "sub": "Each year, Cham communities celebrate Katê at towers such as Po Klong Garai. Vietnam recognized the festival as national intangible heritage in 2017.",
+   "say": "Each year, Chahm communities celebrate Kah-tay at towers such as Poh Klong Gah-rye. Vietnam recognized the festival as national intangible heritage in 2017.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-41.jpg"
+    }
+   ],
+   "src": "Katê, national intangible heritage, 2017",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "56",
+   "ch": 7,
+   "sub": "Cham women still shape pottery by hand, walking around the clay instead of turning a wheel. UNESCO listed their craft in 2022.",
+   "say": "Chahm women still shape pottery by hand, walking around the clay instead of turning a wheel. UNESCO listed their craft in 2022.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-42.jpg"
+    }
+   ],
+   "src": "UNESCO, 2022",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "57",
+   "ch": 7,
+   "sub": "At Po Nagar, Cham worshippers honor the goddess Po Ina Nagar. Vietnamese pilgrims honor her too, as Thiên Y A Na, in the same towers.",
+   "say": "At Poh Nah-gar, Chahm worshippers honor the goddess Poh Ee-nah Nah-gar. Vietnamese pilgrims honor her too, as Tee-en Ee Ah Nah, in the same towers.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-43.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "58",
+   "ch": 7,
+   "sub": "And in Cham homes, festival tables still carry their own dishes, like the ginger cakes offered to the ancestors.",
+   "say": "And in Chahm homes, festival tables still carry their own dishes, like the ginger cakes offered to the ancestors.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-44.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "59",
+   "ch": 7,
+   "sub": "The kingdom ended. Its people, its gods and its towers did not.",
+   "say": "The kingdom ended. Its people, its gods and its towers did not.",
+   "shots": [
+    {
+     "k": "clip",
+     "src": "l008/clip-3.mp4"
+    },
+    {
+     "k": "img",
+     "src": "l008/img-45.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "60",
+   "ch": 7,
+   "sub": "What did you know about Champa before this video? Tell us in the comments, and subscribe to Rice and Empires.",
+   "say": "What did you know about Chahm-pah before this video? Tell us in the comments, and subscribe to Rice and Empires.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l008/img-45.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": "end"
+  }
+ ],
+ "music": [
+  {
+   "src": "bgm/l008-grand.mp3",
+   "fromCh": 0
+  },
+  {
+   "src": "bgm/l008-sad.mp3",
+   "fromCh": 5,
+   "gain": 1.1
+  },
+  {
+   "src": "bgm/l008-warm.mp3",
+   "fromCh": 7
+  }
+ ],
+ "tl": {
+  "y0": 300,
+  "y1": 2050,
+  "start": 400,
+  "end": 1832,
+  "gaps": [],
+  "marks": [
+   [
+    400,
+    "c. 400"
+   ],
+   [
+    1471,
+    "1471"
+   ],
+   [
+    1832,
+    "1832"
+   ]
+  ],
+  "caption": "Cham kings on the coast, from the first inscriptions (dates debated) to 1832",
+  "chYear": [
+   400,
+   600,
+   875,
+   1012,
+   1371,
+   1471,
+   1832,
+   2019
+  ]
+ }
+}
