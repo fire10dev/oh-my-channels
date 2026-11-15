@@ -5,7 +5,7 @@ Table rows: | NN | ch | EN narration | claims | shots | VI |
 Shots: iNN (new image <vid>/img-NN.jpg) · sN:NN (reused 9:16 image from Short N) · MAP:<state> · TL:<year|full> · CLIP:<n>
        CARD:<n|end> (chapter card, own segment before/after the row) · SRC:<text> (lower-third over the row, not a shot).
 Music: optional shorts/src/<vid>.music.json = [{src, fromCh, gain?}] (paths under shorts/public).
-Clips: <vid>/clip-<n>.mp4 if present, else the fallback image in CLIP_FALLBACK.
+Clips: <vid>/clip-<n>.mp4 if present, else CLIP_FALLBACK (L003) or the clip's start image <vid>/clip-<n>.jpg.
 """
 import json, pathlib, re, sys
 
@@ -50,7 +50,8 @@ for line in text.split('\n'):
         elif t.startswith('CLIP:'):
             n = t[5:]
             f = f'{vid}/clip-{n}.mp4'
-            shots.append({'k': 'clip', 'src': f} if (pub / f).exists() else dict(zip(('k', 'src'), CLIP_FALLBACK[n])))
+            fb = CLIP_FALLBACK[n] if vid == 'l003' else ('img', f'{vid}/clip-{n}.jpg')
+            shots.append({'k': 'clip', 'src': f} if (pub / f).exists() else dict(zip(('k', 'src'), fb)))
         else:
             raise SystemExit(f'row {rid}: unknown shot {t!r}')
     rows.append({'id': rid, 'ch': ch, 'sub': en, 'say': say, 'shots': shots, 'src': src,

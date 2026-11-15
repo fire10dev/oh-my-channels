@@ -67,7 +67,7 @@ Shots column: `iNN` = new image `l007/img-NN.jpg` · `s2:NN`/`s8:NN`/`s6:NN` = r
 
 | # | Ch | EN narration | Claims | Shots | VI (để duyệt) |
 |---|---|---|---|---|---|
-| 01 | 0 | Between the tenth and the nineteenth centuries, Vietnamese rulers fought Chinese armies again and again. In many periods, they also sent tribute to the Chinese court. | C5, C6, C12, C24 | i01 · s2:02 | Từ thế kỷ 10 đến thế kỷ 19, các vua Việt nhiều lần đánh quân Trung Quốc. Trong nhiều giai đoạn, họ cũng triều cống triều đình Trung Quốc. |
+| 01 | 0 | Between the tenth and the nineteenth centuries, Vietnamese rulers fought Chinese armies again and again. In many periods, they also sent tribute to the Chinese court. | C5, C6, C12, C24 | CLIP:1 · i01 | Từ thế kỷ 10 đến thế kỷ 19, các vua Việt nhiều lần đánh quân Trung Quốc. Trong nhiều giai đoạn, họ cũng triều cống triều đình Trung Quốc. |
 | 02 | 0 | At home, some Vietnamese rulers sat on a dragon throne and called themselves emperor. In letters to China, the same rulers accepted the title of king. | C1, C2 | i02 · i03 | Trong nước, một số vua Việt ngồi ngai rồng và xưng hoàng đế. Trong thư gửi Trung Quốc, cũng những vị ấy nhận tước vương. |
 | 03 | 0 | One recent study calls this emperor at home, king abroad. How did both fit together? | C1 | i04 · CARD:0 · SRC:Varnay, Review of International Studies | Một nghiên cứu gần đây gọi đó là "trong xưng đế, ngoài xưng vương" (nội đế ngoại vương). Hai điều ấy đi cùng nhau thế nào? |
 | 04 | 1 | The story starts in 939, when Ngô Quyền made himself king after defeating a Southern Han fleet. | C3 | CARD:1 · TL:939 · s6:08 | Câu chuyện bắt đầu năm 939, khi Ngô Quyền xưng vương sau khi đánh bại hạm đội Nam Hán. |
@@ -94,7 +94,7 @@ Shots column: `iNN` = new image `l007/img-NN.jpg` · `s2:NN`/`s8:NN`/`s6:NN` = r
 | 25 | 4 | The system did not always keep the peace. | — (transition) | CARD:4 · TL:1258 | Hệ thống ấy không phải lúc nào cũng giữ được hòa bình. |
 | 26 | 4 | After the Mongols first attacked in 1258, the Trần court agreed to send tribute. But Kublai Khan wanted more. He demanded that the Trần king come to his court in person. | C12 | s2:02 · s2:08 | Sau khi quân Mông Cổ tấn công lần đầu năm 1258, triều Trần chấp nhận triều cống. Nhưng Hốt Tất Liệt muốn hơn thế. Ông đòi vua Trần đích thân sang chầu. |
 | 27 | 4 | The Trần kings sent envoys and gifts, but did not go. War followed in the 1280s. | C12 | i36 · TL:1288 | Vua Trần gửi sứ và lễ vật, nhưng không đi. Chiến tranh nổ ra trong thập niên 1280. |
-| 28 | 4 | After the fighting ended in 1288, Đại Việt went back to tribute. Sources say it sent a golden statue in place of the king himself. | C12 | s2:09 · i37 | Sau khi chiến sự kết thúc năm 1288, Đại Việt quay lại triều cống. Các nguồn chép rằng họ gửi một pho tượng vàng thay cho chính nhà vua. |
+| 28 | 4 | After the fighting ended in 1288, Đại Việt went back to tribute. Sources say it sent a golden statue in place of the king himself. | C12 | CLIP:2 · i37 | Sau khi chiến sự kết thúc năm 1288, Đại Việt quay lại triều cống. Các nguồn chép rằng họ gửi một pho tượng vàng thay cho chính nhà vua. |
 | 29 | 4 | The Yuan were still discussing another campaign in 1293. But after Kublai's death in 1294, no new invasion came. | C12 | i38 · TL:1294 | Năm 1293 nhà Nguyên vẫn còn bàn đánh tiếp. Nhưng sau khi Hốt Tất Liệt mất năm 1294, không có cuộc xâm lược mới nào. |
 | 30 | 4 | A century later, the Ming invoked the restoration of the Trần as a reason to intervene. In 1400, Hồ Quý Ly had taken the throne from the Trần. | C13 | TL:1407 · i39 | Một thế kỷ sau, nhà Minh lấy việc khôi phục nhà Trần làm cớ can thiệp. Năm 1400, Hồ Quý Ly đã cướp ngôi nhà Trần. |
 | 31 | 4 | The Ming emperor demanded the Trần be restored. In 1406, a Ming escort bringing a man who claimed to be a Trần prince was ambushed near the border, and he was killed. Chinese and Vietnamese sources tell this story differently. | C13 | i40 | Hoàng đế nhà Minh đòi khôi phục nhà Trần. Năm 1406, đoàn hộ tống nhà Minh đưa một người tự xưng là hoàng thân nhà Trần bị phục kích gần biên giới, và người ấy bị giết. Sử Trung Quốc và sử Việt kể chuyện này khác nhau. |
@@ -116,7 +116,7 @@ Shots column: `iNN` = new image `l007/img-NN.jpg` · `s2:NN`/`s8:NN`/`s6:NN` = r
 | 47 | 6 | The Qing court rejected the proposed name Nam Việt. In 1804, the Jiaqing emperor approved the name Việt Nam. | C22 | i57 · SRC:Woodside 1971 | Nhà Thanh bác tên Nam Việt được đề nghị. Năm 1804, vua Gia Khánh chấp thuận tên Việt Nam. |
 | 48 | 6 | At home, the Nguyễn court used other names too. In the late 1830s, it renamed the country Đại Nam, the Great South. | C22 | i59 | Trong nước, triều Nguyễn cũng dùng những tên khác. Cuối thập niên 1830, triều đình đổi quốc hiệu thành Đại Nam. |
 | 49 | 7 | French expansion brought the system to an end. | — (transition) | CARD:7 · TL:1884 | Sự bành trướng của Pháp chấm dứt hệ thống ấy. |
-| 50 | 7 | In June 1884, a treaty signed at Huế confirmed French control over Annam and Tonkin, central and northern Vietnam. | C23 | i60 | Tháng 6 năm 1884, hòa ước ký ở Huế xác nhận quyền kiểm soát của Pháp đối với Trung Kỳ và Bắc Kỳ. |
+| 50 | 7 | In June 1884, a treaty signed at Huế confirmed French control over Annam and Tonkin, central and northern Vietnam. | C23 | CLIP:3 · i60 | Tháng 6 năm 1884, hòa ước ký ở Huế xác nhận quyền kiểm soát của Pháp đối với Trung Kỳ và Bắc Kỳ. |
 | 51 | 7 | At the signing, the Vietnamese court was made to melt down the seal that the Chinese emperor had given Gia Long, in front of the French and Vietnamese envoys. | C23 | i62 · SRC:Treaty of Huế, 1884 | Trong lễ ký, triều đình Việt bị buộc nấu chảy chiếc ấn hoàng đế Trung Quốc đã ban cho Gia Long, trước mặt đại diện Pháp và Việt. |
 | 52 | 7 | China and France went to war in the struggle over Vietnam. In June 1885, the Treaty of Tianjin recognized the French protectorate, effectively ending China's claim to suzerainty. | C24 | TL:1885 · i63 | Trung Quốc và Pháp đánh nhau trong cuộc tranh giành Việt Nam. Tháng 6 năm 1885, Hiệp ước Thiên Tân công nhận quyền bảo hộ của Pháp, trên thực tế chấm dứt quyền tông chủ của Trung Quốc. |
 | 53 | 7 | The long run of envoys, seals and double titles, from the tenth century to 1885, was over. | C1, C24 | i65 · MAP:tribute_route | Chuỗi dài sứ thần, ấn tín và tước hiệu kép, từ thế kỷ 10 đến 1885, đã kết thúc. |
@@ -137,8 +137,8 @@ composition, museum quality, wide landscape 16:9, no text, no letters, no flags,
 Prompts live in `shorts/src/l007.images.json` (`[file, style, prompt]`).
 
 ## AI video clips
-None made (2026-11-10: Flow not reachable from gen.mjs; built-in browser not used to save tokens). Candidates if the owner wants them later:
-cold open envoy procession (start image `img-01`), golden statue carried north (`img-37`), French gunboats on the Perfume River (`img-60`).
+3 Flow clips, made by the owner (2026-11-14, hybrid flow): `CLIP:1` row 01 envoys set out, `CLIP:2` row 28 golden statue carried north, `CLIP:3` row 50 gunboat on the Perfume River.
+Prompts: `shorts/public/l007/PROMPTS.md`. Missing mp4 → the start image `clip-N.jpg` is shown instead.
 
 ## Publishing (draft — owner uploads)
 Title: **Why Vietnam Paid Tribute to China for Centuries (After Fighting Its Armies)**
@@ -164,7 +164,7 @@ B. Womack, China and Vietnam: The Politics of Asymmetry (2006); K. Baldanza, Min
 P. Duara (2017) on Kang; J. W. Dardess, Ming China 1368–1644 (2012); J. Fairbank (ed.), The Chinese World Order (1968);
 Varnay, 'Emperor at home, king abroad', Review of International Studies; Songshi; Đại Việt sử ký toàn thư; Yi Su-gwang's records;
 Encyclopaedia Britannica.
-Illustrations and narration are AI-assisted. Music: (fill in the Audio Library track names; placeholder bed is synthesized). Corrections welcome in the comments.
+Illustrations and narration are AI-assisted. Music: 'Shoulders Of Giants', 'Shadows and Dust', 'Memories Of Stone' by Scott Buckley — released under CC-BY 4.0. www.scottbuckley.com.au Corrections welcome in the comments.
 #Vietnam #China #History #Diplomacy #SoutheastAsia"
 Pinned comment (draft): "Which reading do you find more convincing: tribute as submission, or as a practical diplomatic fiction? Corrections with sources are welcome."
 

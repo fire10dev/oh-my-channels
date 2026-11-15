@@ -25,6 +25,7 @@ Background research and decisions: `docs/research/` (snapshots from the owner's 
   content also deleted the Brand Account "Rice & Empires"; restored via `myaccount.google.com/brandaccounts?sf=1`. See research note §2e.)
 - **No invented history.** `docs/FACT-CHECK.md` is mandatory: claim table with sources *before* narration. Unsure → mark it, don't smooth it over.
 - Prefer local tools; scratch files in a temp dir, not in the repo. Do not commit `shorts/out/` (renders) or narration wav (regenerated).
+- **Music = made in Flow Music** (owner 2026-11-15, after a Content ID claim on Scott Buckley's 'Shadows And Dust' in L007): no stock/CC library tracks. Agent writes Flow Music prompts with similar material (cinematic orchestral, calm / tense / ending moods, length per chapter) in `PROMPTS.md`; owner makes the tracks → `shorts/public/bgm/<vid>-*.mp3` → `<vid>.music.json`.
 - **Heavy output never goes to git** (owner 2026-11-07): images/audio/video for S002+ live in git-ignored `shorts/public/sNNN/`,
   `shorts/public/bgm/`, `shorts/out/`. Git gets only md, json, code, review logs. Image prompts are kept in the script md.
 - **Overnight runs** (owner 2026-11-07): no subagents; no wasted tokens; work sequentially until 5h limit / owner says stop / queue done.

@@ -1,0 +1,14 @@
+VERDICT: FAIL
+
+## Issues
+
+| Sev | File | Problem | Evidence / reference | Fix (keep / cut / regenerate with this exact prompt addition) |
+|---|---|---|---|---|
+| 🔴 | img-60.jpg | Prompt and narration call for French gunboats on the Perfume River in the 1880s; the image shows sailing ships with no visible steam funnels. | [French gunboat *Pluvier*, 1884](https://commons.wikimedia.org/wiki/File:Pluvier.jpg) | Regenerate: “1880s French steam gunboat with a visible funnel and no sails, near Huế; lacquer painting, not a photograph.” |
+| 🟠 | img-13.jpg | The river defense is shown behind a substantial stone wall; the prompt specifies bamboo palisades and pontoon crossings. | Compare prompt with image. | Regenerate with: “defenders behind a bamboo palisade; enemy crossing on a clearly visible pontoon bridge; no stone fortress wall.” |
+| 🟠 | img-32.jpg | Glowing pseudo-writing on the temple wall risks reading as fabricated historical text; narration refers to a poem whose wording is disputed. | FACT-CHECK §4 prohibits invented history; prompt says no readable text. | Regenerate with: “blank dark wall, no writing, no symbols, no glowing characters.” |
+| 🟠 | img-45.jpg | Mạc Đăng Dung’s submission is staged as a deeply bowed, barefoot figure before standing officials. That makes the image read as humiliation, beyond the narration’s attributed account. | Narration row 35 describes submission under threat; image prompt specifies kneeling barefoot. | Regenerate with: “formal border meeting, Mạc Đăng Dung standing with documents before Ming officials; restrained, neutral composition, no humiliation.” |
+| 🟠 | img-57.jpg | The crossed-out scroll contains pseudo-lettering despite the prompt’s “no readable text”; viewers may mistake it for historical writing. | FACT-CHECK §4; image prompt. | Regenerate with: “blank scrolls and an abstract red mark only; no letters, characters, or writing.” |
+| 🔴 | clip-3.jpg / clip-3.mp4 | The clip’s frames depart from the requested single gunboat near Huế: the scene shifts to a broader river town with multiple vessels, and the start image lacks a clearly identifiable French steam gunboat. | Compare clip frames with clip prompt and narration row 50; [1884 French gunboat reference](https://commons.wikimedia.org/wiki/File:Pluvier.jpg). | Regenerate: “One unmistakable 1880s French steam gunboat with a funnel, no sails, on the Perfume River beside Huế citadel; keep the same composition throughout, no extra ships or town.” |
+
+OK: img-01, img-02, img-03, img-04, img-05, img-07, img-08, img-10, img-12, img-15, img-16, img-19, img-20, img-21, img-22, img-23, img-26, img-27, img-28, img-29, img-34, img-36, img-37, img-38, img-39, img-40, img-42, img-43, img-44, img-46, img-47, img-48, img-50, img-51, img-52, img-54, img-55, img-56, img-59, img-62, img-63, img-65, img-66, img-67, clip-1.jpg, clip-1.mp4, clip-2.jpg, clip-2.mp4.

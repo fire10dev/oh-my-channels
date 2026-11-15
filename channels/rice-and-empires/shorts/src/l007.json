@@ -17,12 +17,12 @@
    "say": "Between the tenth and the nineteenth centuries, Vietnamese rulers fought Chinese armies again and again. In many periods, they also sent tribute to the Chinese court.",
    "shots": [
     {
-     "k": "img",
-     "src": "l007/img-01.jpg"
+     "k": "clip",
+     "src": "l007/clip-1.mp4"
     },
     {
-     "k": "tall",
-     "src": "s002/img-02.jpg"
+     "k": "img",
+     "src": "l007/img-01.jpg"
     }
    ],
    "src": null,
@@ -478,8 +478,8 @@
    "say": "After the fighting ended in twelve eighty-eight, Dye Vee-et went back to tribute. Sources say it sent a golden statue in place of the king himself.",
    "shots": [
     {
-     "k": "tall",
-     "src": "s002/img-09.jpg"
+     "k": "clip",
+     "src": "l007/clip-2.mp4"
     },
     {
      "k": "img",
@@ -848,6 +848,10 @@
    "say": "In June eighteen eighty-four, a treaty signed at Hway confirmed French control over Ah-nahm and Tong-kin, central and northern Vietnam.",
    "shots": [
     {
+     "k": "clip",
+     "src": "l007/clip-3.mp4"
+    },
+    {
      "k": "img",
      "src": "l007/img-60.jpg"
     }
@@ -961,17 +965,17 @@
  ],
  "music": [
   {
-   "src": "bgm/l003-bed-a.mp3",
+   "src": "bgm/l007-calm.mp3",
    "fromCh": 0
   },
   {
-   "src": "bgm/l003-bed-b.mp3",
+   "src": "bgm/l007-tense.mp3",
    "fromCh": 4,
    "gain": 1.1
   },
   {
-   "src": "bgm/l003-bed-a.mp3",
-   "fromCh": 7
+   "src": "bgm/l007-end.mp3",
+   "fromCh": 5
   }
  ],
  "tl": {
