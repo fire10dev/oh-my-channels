@@ -1,7 +1,7 @@
 """One Kokoro TTS call per shot -> public/<id>/narration.wav + src/data/<id>.timeline.json.
 
-Each shot line is voiced separately (cut points = exact audio boundaries, idea from stickman-ab/tts/vo.py).
-Usage: REPO/stickman-ab/tts/.venv/bin/python tools/tts_shots.py src/data/ix002.json ix002 [voice] [speed]
+Each shot line is voiced separately (cut points = exact audio boundaries, idea from shared/tts/vo.py).
+Usage: ../../shared/tts/.venv/bin/python tools/tts_shots.py src/data/ix002.json ix002 [voice] [speed]
 Timeline: segments in order; card = silent chapter card, shot = narration line. Times in seconds.
 """
 import json
@@ -12,7 +12,7 @@ import numpy as np
 import soundfile as sf
 from kokoro_onnx import Kokoro
 
-TTS = Path("/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/tts")
+TTS = Path(__file__).resolve().parents[3] / "shared" / "tts"  # oh-my-channels/shared/tts
 CARD = 1.1      # silent chapter card
 P_COMMA = 0.14  # pause after a line ending in a comma
 P_STOP = 0.32   # pause after a full stop / question

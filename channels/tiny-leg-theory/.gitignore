@@ -20,3 +20,5 @@ stickman-video-director/
 batch3/longs/
 **/.log-*
 __pycache__/
+!tts
+!tts-vi

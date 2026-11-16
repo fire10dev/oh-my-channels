@@ -10,7 +10,7 @@ Gói đăng (title/mô tả/chương/nguồn) của từng video: `scripts/IX0NN
 - Logo PEEK + banner vàng đã tải (owner tự chọn file vì built-in browser không có công cụ đưa file vào ô tải lên). Mô tả kênh đã điền.
 
 ## Pipeline
-`src/data/<id>.json` (cảnh + lời) → `tts_kokoro.py` (yt-channel/tools/.venv) → `public/<id>/` + timeline → `npx remotion render src/index.ts <Comp>` → `ffmpeg loudnorm I=-14`.
+`src/data/<id>.json` (cảnh + lời) → `tools/tts_shots.py` (Kokoro dùng chung: `../../shared/tts/.venv/bin/python`) → `public/<id>/` + timeline → `npx remotion render src/index.ts <Comp>` → `ffmpeg loudnorm I=-14`.
 Gói đăng: `scripts/IX001-*.md` §3. File tải lên: `out/upload/`.
 
 ## Shorts
