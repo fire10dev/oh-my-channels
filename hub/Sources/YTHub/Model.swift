@@ -78,6 +78,7 @@ struct Video: Identifiable, Hashable {
   var scriptPath = ""
   var notes = ""
   var publishedAt = ""
+  var branch = ""
   var updatedAt = ""
 
   var group: StatusGroup { stage.group }
@@ -99,4 +100,29 @@ func sortedVideos(_ videos: [Video]) -> [Video] {
     let c = x.code.localizedStandardCompare(y.code)
     return c == .orderedSame ? x.id < y.id : c == .orderedAscending
   }
+}
+
+// MARK: - v2 state (was HANDOFF.md)
+
+struct Event: Identifiable, Hashable {
+  var id: Int64
+  var at: String
+  var actor: String
+  var kind: String
+  var message: String
+}
+
+/// Named HubTask: `Task` is Swift concurrency's.
+struct HubTask: Identifiable, Hashable {
+  var id: Int64
+  var channelId: Int64
+  var videoId: Int64?
+  var owner: String
+  var text: String
+  var createdAt: String
+}
+
+struct Fact: Hashable {
+  var key: String
+  var value: String
 }

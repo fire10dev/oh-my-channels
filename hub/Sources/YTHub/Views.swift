@@ -157,6 +157,7 @@ struct ContentView: View {
   @Local private var editingChannel: Channel? = nil
   @Local private var deletingChannel: Channel? = nil
   @Local private var channelsOpen = false
+  @Local private var mine = false
   @Local private var hoveredChannel: Int64? = nil
   @Local private var split = UserDefaults.standard.object(forKey: "listSplit") as? Double ?? 0.5
 
@@ -181,7 +182,10 @@ struct ContentView: View {
 
   /// Rows in display order (grouped), for ↑/↓.
   private var ordered: [Video] {
-    let s = scoped.filter { (group == nil || $0.group == group) && (kind == nil || $0.kind == kind) }
+    let waiting = model.userVideoIds
+    let s = scoped.filter {
+      (group == nil || $0.group == group) && (kind == nil || $0.kind == kind) && (!mine || waiting.contains($0.id))
+    }
     return groupOrder.flatMap { g in s.filter { $0.group == g } }
   }
 
@@ -245,6 +249,10 @@ struct ContentView: View {
     let byGroup = scoped.filter { group == nil || $0.group == group }
     return HStack(spacing: 6) {
       channelButton(p)
+      VRail(p: p).frame(height: 22)
+      let myCount = model.tasks.filter { t in t.owner == "user" && (channelId == nil || t.channelId == channelId) }.count
+      Chip(title: "Việc của tôi", count: myCount, color: p.coral, active: mine) { mine.toggle() }
+        .help("Video đang chờ bạn (task owner = user)")
       VRail(p: p).frame(height: 22)
       Chip(title: "Tất cả", count: byKind.count, active: group == nil) { group = nil }
       ForEach(groupOrder) { g in
@@ -399,7 +407,27 @@ struct ContentView: View {
 
   private func listColumn(_ p: Palette) -> some View {
     let rows = ordered
-    return Group {
+    let channelTasks = model.tasks.filter {
+      mine && $0.owner == "user" && $0.videoId == nil && (channelId == nil || $0.channelId == channelId)
+    }
+    return VStack(spacing: 0) {
+      if !channelTasks.isEmpty {
+        VStack(alignment: .leading, spacing: 6) {
+          SectionLabel(text: "Việc của kênh · \(channelTasks.count)", p: p)
+          ForEach(channelTasks) { t in
+            TaskRow(task: t, channelName: model.channel(t.channelId)?.name, p: p) { model.completeTask(t) }
+          }
+        }
+        .padding(12)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        HRail(p: p)
+      }
+      listBody(p, rows)
+    }
+  }
+
+  private func listBody(_ p: Palette, _ rows: [Video]) -> some View {
+    Group {
       if rows.isEmpty {
         Text(model.videos.isEmpty ? "Chưa có video.\nChọn kênh rồi bấm + Long / + Short." : "Không có video khớp bộ lọc.")
           .font(.ui(12)).foregroundStyle(p.muted).multilineTextAlignment(.center)
@@ -414,7 +442,7 @@ struct ContentView: View {
                   Section {
                     ForEach(items) { v in
                       VideoRow(video: v, channelName: channelId == nil ? model.channel(v.channelId)?.name : nil,
-                               selected: v.id == selected, p: p)
+                               waiting: model.userTasks(videoId: v.id).count, selected: v.id == selected, p: p)
                         .id(v.id)
                         .onTapGesture { selected = v.id }
                     }
@@ -497,6 +525,7 @@ struct Splitter: View {
 struct VideoRow: View {
   let video: Video
   let channelName: String?
+  var waiting = 0
   let selected: Bool
   let p: Palette
 
@@ -510,6 +539,9 @@ struct VideoRow: View {
           if !video.code.isEmpty { Text(video.code).font(.ui(11, weight: .semibold)).foregroundStyle(p.sun) }
           if let channelName { Text(channelName).font(.ui(10)).foregroundStyle(p.muted).lineLimit(1) }
           Spacer(minLength: 4)
+          if waiting > 0 {
+            Text("● \(waiting) việc của bạn").font(.ui(10, weight: .bold)).foregroundStyle(p.coral)
+          }
           if video.group == .doing {  // the section header already says ready / published
             Text(video.stage.label).font(.ui(10, weight: .semibold)).foregroundStyle(c)
           }
@@ -562,6 +594,23 @@ struct VideoDetail: View {
           }
         }
 
+        section("Việc còn lại", p) {
+          TaskEditor(video: draft, p: p)
+        }
+        let facts = model.facts(videoId: draft.id)
+        if !facts.isEmpty {
+          section("Checklist", p) {
+            LazyVGrid(columns: [GridItem(.adaptive(minimum: 200), alignment: .leading)], alignment: .leading, spacing: 8) {
+              ForEach(facts, id: \.key) { f in
+                HStack(spacing: 6) {
+                  Text(f.key).font(.ui(11)).foregroundStyle(p.muted)
+                  Text(f.value).font(.ui(11, weight: .bold)).foregroundStyle(p.ink).textSelection(.enabled)
+                }
+              }
+            }
+          }
+        }
+
         section("Metadata YouTube", p, trailing: AnyView(CopyButton(text: bundleText, label: "Copy title + mô tả + tag"))) {
           CopyField(label: "Title", text: $draft.title, limit: 100)
           CopyField(label: "Description", text: $draft.description, limit: 5000, multiline: true)
@@ -578,6 +627,22 @@ struct VideoDetail: View {
           CopyField(label: "Video", text: $draft.filePath, action: .reveal)
           CopyField(label: "Thumbnail", text: $draft.thumbPath, action: .reveal)
           CopyField(label: "Kịch bản / note", text: $draft.scriptPath, action: .reveal)
+        }
+        section("Nhật ký", p) {
+          let events = model.events(videoId: draft.id)
+          if events.isEmpty {
+            Text("Chưa có. Agent ghi bằng `ythub log`, đổi stage tự ghi.").font(.ui(11)).foregroundStyle(p.muted)
+          }
+          ForEach(events) { e in
+            HStack(alignment: .firstTextBaseline, spacing: 10) {
+              Text(e.at).font(.ui(10)).foregroundStyle(p.muted).frame(width: 130, alignment: .leading)
+              Text(e.kind).font(.ui(10, weight: .bold)).foregroundStyle(e.kind == "blocker" ? p.coral : p.sun)
+                .frame(width: 70, alignment: .leading)
+              Text(e.message).font(.ui(11)).foregroundStyle(p.ink).textSelection(.enabled)
+                .frame(maxWidth: .infinity, alignment: .leading)
+              Text(e.actor).font(.ui(10)).foregroundStyle(p.muted).lineLimit(1)
+            }
+          }
         }
         section("Ghi chú", p) {
           TextEditor(text: $draft.notes)
@@ -764,5 +829,63 @@ struct ChannelEditor: View {
       TextField(hint, text: text).textFieldStyle(.plain).font(.ui(12)).foregroundStyle(p.ink)
         .padding(8).retroField(p)
     }
+  }
+}
+
+// MARK: - Tasks
+
+struct TaskRow: View {
+  let task: HubTask
+  var channelName: String?
+  let p: Palette
+  let done: () -> Void
+
+  var body: some View {
+    HStack(alignment: .firstTextBaseline, spacing: 8) {
+      Button(action: done) {
+        Image(systemName: "square").font(.system(size: 13)).foregroundStyle(p.muted)
+      }
+      .buttonStyle(.plain).help("Đánh dấu xong")
+      Text(task.owner == "user" ? "BẠN" : "AGENT").font(.ui(9, weight: .bold))
+        .foregroundStyle(task.owner == "user" ? p.coral : p.muted)
+      if let channelName { Text(channelName).font(.ui(10)).foregroundStyle(p.muted) }
+      Text(task.text).font(.ui(12)).foregroundStyle(p.ink).textSelection(.enabled)
+        .frame(maxWidth: .infinity, alignment: .leading)
+    }
+  }
+}
+
+struct TaskEditor: View {
+  @EnvironmentObject var model: AppModel
+  let video: Video
+  let p: Palette
+  @Local private var text = ""
+  @Local private var owner = "user"
+
+  var body: some View {
+    VStack(alignment: .leading, spacing: 8) {
+      let open = model.tasks(videoId: video.id)
+      if open.isEmpty {
+        Text("Không còn việc nào.").font(.ui(11)).foregroundStyle(p.muted)
+      }
+      ForEach(open) { t in TaskRow(task: t, p: p) { model.completeTask(t) } }
+      HStack(spacing: 6) {
+        TextField("Thêm việc…", text: $text)
+          .textFieldStyle(.plain).font(.ui(12)).foregroundStyle(p.ink)
+          .padding(.horizontal, 8).frame(height: 30).retroField(p)
+          .onSubmit(add)
+        Chip(title: "Bạn", active: owner == "user") { owner = "user" }
+        Chip(title: "Agent", active: owner == "agent") { owner = "agent" }
+        RetroButton(title: "Thêm", symbol: "plus", compact: true, action: add)
+          .disabled(text.trimmingCharacters(in: .whitespaces).isEmpty)
+      }
+    }
+  }
+
+  private func add() {
+    let t = text.trimmingCharacters(in: .whitespaces)
+    guard !t.isEmpty else { return }
+    model.addTask(video, owner: owner, text: t)
+    text = ""
   }
 }

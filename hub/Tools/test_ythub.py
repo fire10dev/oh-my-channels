@@ -58,3 +58,69 @@ class CliTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class V2Test(unittest.TestCase):
+    """State that used to live in HANDOFF.md: events, tasks, facts, assets."""
+
+    def setUp(self):
+        self.dir = Path(tempfile.mkdtemp()).resolve()
+        self.con = ythub.connect(str(self.dir / "t.db"))
+        ythub.set_video(self.con, "Rice", "L008", kind="long", stage="render")
+        ythub.set_video(self.con, "Rice", "S001", kind="short", stage="script")
+
+    def test_migrate_twice_is_harmless(self):
+        ythub.connect(str(self.dir / "t.db"))
+        cols = [r[1] for r in self.con.execute("PRAGMA table_info(video)")]
+        self.assertIn("branch", cols)
+
+    def test_stage_change_logs_event(self):
+        ythub.set_video(self.con, "Rice", "L008", stage="ready", actor="agent:x")
+        ev = ythub.show(self.con, "L008")["events"]
+        self.assertEqual((ev[0]["kind"], ev[0]["actor"], ev[0]["message"]), ("stage", "agent:x", "render → ready"))
+        ythub.set_video(self.con, "Rice", "L008", stage="ready", title="T")  # same stage: no new event
+        self.assertEqual(len(ythub.show(self.con, "L008")["events"]), 1)
+
+    def test_find_video_without_channel(self):
+        self.assertEqual(ythub.find_video(self.con, "L008")["code"], "L008")
+        ythub.set_video(self.con, "Other", "L008")
+        with self.assertRaises(ythub.HubError):
+            ythub.find_video(self.con, "L008")          # ambiguous
+        self.assertEqual(ythub.find_video(self.con, "L008", "Other")["code"], "L008")
+        with self.assertRaises(ythub.HubError):
+            ythub.find_video(self.con, "NOPE")
+
+    def test_log_task_fact_show(self):
+        ythub.log(self.con, "L008", "render 9:01, -14.3 LUFS", kind="render", actor="cli")
+        tid = ythub.task_add(self.con, "L008", "xem bản render rồi duyệt đăng", owner="user")
+        ythub.task_add(self.con, "L008", "upload", owner="agent")
+        ythub.fact(self.con, "L008", "images", "51/51")
+        ythub.fact(self.con, "L008", "images", "55/55")   # overwrite
+        s = ythub.show(self.con, "L008")
+        self.assertEqual(s["facts"], {"images": "55/55"})
+        self.assertEqual([t["text"] for t in s["tasks"]], ["xem bản render rồi duyệt đăng", "upload"])
+        self.assertEqual(s["events"][0]["kind"], "render")
+        ythub.task_done(self.con, tid, actor="user")
+        self.assertEqual([t["owner"] for t in ythub.tasks(self.con)], ["agent"])
+        self.assertEqual(ythub.tasks(self.con, owner="user", status="done")[0]["done_by"], "user")
+
+    def test_channel_level_task_and_status(self):
+        ythub.task_add(self.con, None, "chọn nhạc cho kênh", owner="user", channel="Rice")
+        rows = {r["code"]: r for r in ythub.status(self.con, "Rice")}
+        self.assertEqual(rows["L008"]["stage"], "render")
+        self.assertEqual(ythub.tasks(self.con, owner="user")[0]["code"], None)
+
+    def test_relocate(self):
+        ythub.set_video(self.con, "Rice", "L008", file="/old/repo/x/out/L008.mp4", script="/old/repo/x/s.md")
+        self.assertEqual(ythub.relocate(self.con, "/old/repo/x", "/new/ch"), 2)
+        v = ythub.find_video(self.con, "L008")
+        self.assertEqual((v["file_path"], v["script_path"]), ("/new/ch/out/L008.mp4", "/new/ch/s.md"))
+
+    def test_asset_registry(self):
+        f = self.dir / "song.mp3"
+        f.write_bytes(b"abc")
+        aid = ythub.asset_add(self.con, f, kind="music", license="CC-BY 4.0 Scott Buckley")
+        self.assertEqual(ythub.asset_add(self.con, f, kind="music"), aid)        # same path → same asset
+        ythub.asset_link(self.con, "L008", aid, role="music")
+        a = ythub.show(self.con, "L008")["assets"][0]
+        self.assertEqual((a["kind"], a["role"], a["bytes"], a["license"]), ("music", "music", 3, "CC-BY 4.0 Scott Buckley"))

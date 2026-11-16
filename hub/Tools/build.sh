@@ -13,7 +13,7 @@ rm -rf "$APP"
 mkdir -p "$APP/Contents/MacOS" "$APP/Contents/Resources"
 swiftc -O -whole-module-optimization -parse-as-library -target "$(uname -m)-apple-macosx$MIN_OS" \
   -file-prefix-map "$ROOT=." -o "$APP/Contents/MacOS/YTHub" "$ROOT"/Sources/YTHub/*.swift
-cp "$ROOT/Resources/schema.sql" "$APP/Contents/Resources/"
+cp "$ROOT/Resources/schema.sql" "$ROOT/Resources/migrate.sql" "$APP/Contents/Resources/"
 [ -f "$ROOT/Resources/AppIcon.icns" ] && cp "$ROOT/Resources/AppIcon.icns" "$APP/Contents/Resources/"
 cat > "$APP/Contents/Info.plist" <<PLIST
 <?xml version="1.0" encoding="UTF-8"?>

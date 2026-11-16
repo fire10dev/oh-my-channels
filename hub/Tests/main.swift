@@ -7,9 +7,11 @@ func check(_ cond: Bool, _ msg: String, line: Int = #line) {
 }
 
 let schema = try! String(contentsOfFile: CommandLine.arguments[1], encoding: .utf8)
+let migrate = try! String(contentsOfFile: CommandLine.arguments[2], encoding: .utf8)
 let path = NSTemporaryDirectory() + "ythub-test-\(UUID().uuidString).db"
 defer { try? FileManager.default.removeItem(atPath: path) }
-let store = try! Store(path: path, schema: schema)
+let store = try! Store(path: path, schema: schema, migrate: migrate)
+_ = try! Store(path: path, schema: schema, migrate: migrate)  // second open: migration is idempotent
 
 // channels
 let a = try! store.insertChannel(Channel(name: "Off Limits Life", handle: "@OffLimitsLife"))
@@ -47,6 +49,18 @@ check(codes == ["s2", "s10"], "natural sort \(codes)")
 var q = Video(channelId: a, code: "IX002", title: "Nam Cực — \"300 Club\" 'x'", description: "a\nb")
 q.id = try! store.insertVideo(q)
 check(try! store.videos().first { $0.id == q.id }!.title == q.title, "unicode/quotes")
+
+// v2: events, tasks, facts
+let l8 = try! store.insertVideo(Video(channelId: b, code: "L8", kind: .long, stage: .render))
+try! store.addEvent(channelId: b, videoId: l8, kind: "stage", actor: "user", message: "render → ready")
+_ = try! store.addTask(channelId: b, videoId: l8, owner: "user", text: "xem render")
+let t2 = try! store.addTask(channelId: b, videoId: nil, owner: "user", text: "chọn nhạc kênh")
+try! store.db.run("INSERT INTO fact(video_id, key, value) VALUES (?,?,?)", [l8, "images", "51/51"])
+check(try! store.events(videoId: l8).map(\.message) == ["render → ready"], "events")
+check(try! store.openTasks().count == 2, "open tasks")
+try! store.setTaskDone(id: t2, actor: "user")
+check(try! store.openTasks().map(\.text) == ["xem render"], "task done")
+check(try! store.facts(videoId: l8) == [Fact(key: "images", value: "51/51")], "facts")
 
 // cascade delete
 try! store.deleteChannel(id: a)

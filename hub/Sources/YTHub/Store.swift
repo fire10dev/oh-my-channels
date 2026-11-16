@@ -68,9 +68,58 @@ final class DB {
 final class Store {
   let db: DB
 
-  init(path: String, schema: String) throws {
+  /// `migrate` = Resources/migrate.sql: column additions, one statement at a time; a
+  /// "duplicate column" error means it ran before.
+  init(path: String, schema: String, migrate: String = "") throws {
     db = try DB(path: path)
     try db.exec(schema)
+    for stmt in migrate.split(separator: ";") {
+      let sql = stmt.split(separator: "\n").filter { !$0.trimmingCharacters(in: .whitespaces).hasPrefix("--") }
+        .joined(separator: "\n").trimmingCharacters(in: .whitespacesAndNewlines)
+      guard !sql.isEmpty else { continue }
+      do { try db.exec(sql) } catch let e as DBError where e.description.contains("duplicate column") {}
+    }
+  }
+
+  /// Repo root, written by the CLI; relative paths in the DB resolve against it.
+  func root() throws -> String? {
+    try db.rows("SELECT value FROM setting WHERE key='root'").first?["value"]
+  }
+
+  // MARK: v2 — events, tasks, facts
+
+  func addEvent(channelId: Int64, videoId: Int64?, kind: String, actor: String, message: String) throws {
+    try db.run("INSERT INTO event(channel_id, video_id, kind, actor, message) VALUES (?,?,?,?,?)",
+               [channelId, videoId, kind, actor, message])
+  }
+
+  func events(videoId: Int64, limit: Int64 = 100) throws -> [Event] {
+    try db.rows("SELECT * FROM event WHERE video_id=? ORDER BY at DESC, id DESC LIMIT ?", [videoId, limit]).map {
+      Event(id: Int64($0["id"]!)!, at: $0["at"]!, actor: $0["actor"]!, kind: $0["kind"]!, message: $0["message"]!)
+    }
+  }
+
+  @discardableResult
+  func addTask(channelId: Int64, videoId: Int64?, owner: String, text: String) throws -> Int64 {
+    try db.run("INSERT INTO task(channel_id, video_id, owner, text) VALUES (?,?,?,?)", [channelId, videoId, owner, text])
+  }
+
+  func openTasks() throws -> [HubTask] {
+    try db.rows("SELECT * FROM task WHERE status='open' ORDER BY id").map {
+      HubTask(id: Int64($0["id"]!)!, channelId: Int64($0["channel_id"]!)!, videoId: Int64($0["video_id"] ?? ""),
+              owner: $0["owner"]!, text: $0["text"]!, createdAt: $0["created_at"]!)
+    }
+  }
+
+  func setTaskDone(id: Int64, actor: String) throws {
+    try db.run("UPDATE task SET status='done', done_at=strftime('%Y-%m-%d %H:%M','now','localtime'), done_by=? WHERE id=?",
+               [actor, id])
+  }
+
+  func facts(videoId: Int64) throws -> [Fact] {
+    try db.rows("SELECT key, value FROM fact WHERE video_id=? ORDER BY key", [videoId]).map {
+      Fact(key: $0["key"]!, value: $0["value"]!)
+    }
   }
 
   // MARK: channels
@@ -102,7 +151,7 @@ final class Store {
     ("title", \.title), ("description", \.description), ("tags", \.tags),
     ("pinned_comment", \.pinnedComment), ("yt_url", \.ytUrl), ("linked_url", \.linkedUrl),
     ("file_path", \.filePath), ("thumb_path", \.thumbPath), ("script_path", \.scriptPath),
-    ("notes", \.notes), ("published_at", \.publishedAt),
+    ("notes", \.notes), ("published_at", \.publishedAt), ("branch", \.branch),
   ]
 
   private func args(_ v: Video) -> [Any?] {

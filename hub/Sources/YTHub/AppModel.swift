@@ -7,6 +7,7 @@ import SwiftUI
 final class AppModel: ObservableObject {
   @Published var channels: [Channel] = []
   @Published var videos: [Video] = []
+  @Published var tasks: [HubTask] = []
   @Published var error: String?
   private let store: Store?
 
@@ -24,7 +25,9 @@ final class AppModel: ObservableObject {
       guard let url = env ?? Bundle.main.url(forResource: "schema", withExtension: "sql") else {
         throw DBError(description: "schema.sql missing from the app bundle")
       }
-      store = try Store(path: Self.dbPath, schema: String(contentsOf: url, encoding: .utf8))
+      let migrate = url.deletingLastPathComponent().appendingPathComponent("migrate.sql")
+      store = try Store(path: Self.dbPath, schema: String(contentsOf: url, encoding: .utf8),
+                        migrate: (try? String(contentsOf: migrate, encoding: .utf8)) ?? "")
     } catch {
       store = nil
       self.error = "\(error)"
@@ -41,7 +44,35 @@ final class AppModel: ObservableObject {
     attempt { s in
       channels = try s.channels()
       videos = try s.videos()
+      tasks = try s.openTasks()
     }
+  }
+
+  func userTasks(videoId: Int64?) -> [HubTask] { tasks.filter { $0.owner == "user" && $0.videoId == videoId } }
+  func tasks(videoId: Int64) -> [HubTask] { tasks.filter { $0.videoId == videoId } }
+  /// Videos with something waiting on the user.
+  var userVideoIds: Set<Int64> { Set(tasks.compactMap { $0.owner == "user" ? $0.videoId : nil }) }
+
+  func events(videoId: Int64) -> [Event] {
+    var out: [Event] = []
+    attempt { out = try $0.events(videoId: videoId) }
+    return out
+  }
+
+  func facts(videoId: Int64) -> [Fact] {
+    var out: [Fact] = []
+    attempt { out = try $0.facts(videoId: videoId) }
+    return out
+  }
+
+  func addTask(_ v: Video, owner: String, text: String) {
+    attempt { try $0.addTask(channelId: v.channelId, videoId: v.id, owner: owner, text: text) }
+    reload()
+  }
+
+  func completeTask(_ t: HubTask) {
+    attempt { try $0.setTaskDone(id: t.id, actor: "user") }
+    reload()
   }
 
   func channel(_ id: Int64) -> Channel? { channels.first { $0.id == id } }
@@ -67,7 +98,14 @@ final class AppModel: ObservableObject {
 
   /// Keeps the in-memory copy (with its old updatedAt) so the open editor isn't rebuilt mid-typing.
   func save(_ v: Video) {
-    attempt { try $0.updateVideo(v) }
+    let old = videos.first { $0.id == v.id }
+    attempt { s in
+      try s.updateVideo(v)
+      if let old, old.stage != v.stage {
+        try s.addEvent(channelId: v.channelId, videoId: v.id, kind: "stage", actor: "user",
+                       message: "\(old.stage.rawValue) → \(v.stage.rawValue)")
+      }
+    }
     if let i = videos.firstIndex(where: { $0.id == v.id }) { videos[i] = v }
   }
 
