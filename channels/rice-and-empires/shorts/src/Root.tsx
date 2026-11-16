@@ -40,6 +40,8 @@ import l007 from './l007.json';
 import l007t from './l007.timeline.json';
 import l008 from './l008.json';
 import l008t from './l008.timeline.json';
+import s012 from './s012.json';
+import s012t from './s012.timeline.json';
 
 export const RemotionRoot: React.FC = () => (
   <>
@@ -174,6 +176,15 @@ export const RemotionRoot: React.FC = () => (
       height={1080}
       fps={LFPS}
       durationInFrames={longTotal(l008 as any, l008t)}
+    />
+    <Composition
+      id="S012"
+      component={ListShort}
+      defaultProps={{scenes: s012, timeline: s012t, dir: 's012', bgm: 'bgm/ambient.mp3', bgmVolume: 0.12, numbered: false}}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={totalFrames(s012t)}
     />
   </>
 );
