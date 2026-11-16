@@ -59,8 +59,8 @@
      "src": "l003/img-03.jpg"
     },
     {
-     "k": "tall",
-     "src": "s006/img-07.jpg"
+     "k": "img",
+     "src": "l003/img-78.jpg"
     }
    ],
    "src": null,
@@ -93,16 +93,16 @@
    "say": "Over roughly the last five centuries BC, its people cast large bronze drums, decorated with geometric patterns, animals and people.",
    "shots": [
     {
-     "k": "tall",
-     "src": "s011/img-00.jpg"
+     "k": "img",
+     "src": "l003/img-72.jpg"
     },
     {
-     "k": "tall",
-     "src": "s011/img-02.jpg"
+     "k": "img",
+     "src": "l003/img-73.jpg"
     },
     {
-     "k": "tall",
-     "src": "s011/img-04.jpg"
+     "k": "img",
+     "src": "l003/img-74.jpg"
     }
    ],
    "src": null,
@@ -220,15 +220,11 @@
    "shots": [
     {
      "k": "tl",
-     "year": "-111"
+     "year": "111"
     },
     {
      "k": "map",
      "state": "han"
-    },
-    {
-     "k": "tall",
-     "src": "s006/img-02.jpg"
     }
    ],
    "src": null,
@@ -265,8 +261,8 @@
      "src": "l003/img-15.jpg"
     },
     {
-     "k": "tall",
-     "src": "s004/img-01.jpg"
+     "k": "img",
+     "src": "l003/img-80.jpg"
     }
    ],
    "src": null,
@@ -288,8 +284,8 @@
      "src": "l003/img-16.jpg"
     },
     {
-     "k": "tall",
-     "src": "s004/img-00.jpg"
+     "k": "img",
+     "src": "l003/img-81.jpg"
     }
    ],
    "src": null,
@@ -318,8 +314,8 @@
    "say": "The revolt spread quickly. Soo Ding fled, and Chung Chahk was proclaimed queen.",
    "shots": [
     {
-     "k": "tall",
-     "src": "s004/img-02.jpg"
+     "k": "img",
+     "src": "l003/img-82.jpg"
     },
     {
      "k": "img",
@@ -341,8 +337,8 @@
      "src": "l003/img-19.jpg"
     },
     {
-     "k": "tall",
-     "src": "s004/img-04.jpg"
+     "k": "img",
+     "src": "l003/img-83.jpg"
     }
    ],
    "src": "Hou Hanshu",
@@ -360,12 +356,12 @@
      "year": "43"
     },
     {
-     "k": "tall",
-     "src": "s004/img-03.jpg"
+     "k": "img",
+     "src": "l003/img-75.jpg"
     },
     {
-     "k": "tall",
-     "src": "s004/img-05.jpg"
+     "k": "img",
+     "src": "l003/img-76.jpg"
     }
    ],
    "src": null,
@@ -402,8 +398,8 @@
      "src": "l003/img-22.jpg"
     },
     {
-     "k": "tall",
-     "src": "s004/img-07.jpg"
+     "k": "img",
+     "src": "l003/img-84.jpg"
     }
    ],
    "src": null,
@@ -892,8 +888,8 @@
      "src": "l003/img-60.jpg"
     },
     {
-     "k": "tall",
-     "src": "s002/img-07.jpg"
+     "k": "img",
+     "src": "l003/img-85.jpg"
     }
    ],
    "src": null,
@@ -926,8 +922,8 @@
      "src": "l003/img-62.jpg"
     },
     {
-     "k": "tall",
-     "src": "s006/img-05.jpg"
+     "k": "img",
+     "src": "l003/img-86.jpg"
     }
    ],
    "src": null,
@@ -979,8 +975,8 @@
    "say": "And who were the people of the delta? Historian Catherine Church-man argues that the sources do not show a fixed divide between Chinese and Vietnamese in the early Red River plain.",
    "shots": [
     {
-     "k": "tall",
-     "src": "s006/img-06.jpg"
+     "k": "img",
+     "src": "l003/img-87.jpg"
     },
     {
      "k": "img",
@@ -1051,8 +1047,8 @@
    "say": "Which part surprised you? Tell us in the comments, and subscribe to Rice and Empires for more.",
    "shots": [
     {
-     "k": "tall",
-     "src": "s006/img-08.jpg"
+     "k": "img",
+     "src": "l003/img-77.jpg"
     }
    ],
    "src": null,
@@ -1062,17 +1058,34 @@
  ],
  "music": [
   {
-   "src": "bgm/l003-bed-a.mp3",
-   "fromCh": 0
+   "src": "bgm/sb-hymn-to-the-dawn.mp3",
+   "fromCh": 0,
+   "gain": 1.4
   },
   {
-   "src": "bgm/l003-bed-b.mp3",
+   "src": "bgm/sb-the-rise.mp3",
+   "fromCh": 3,
+   "gain": 1.4
+  },
+  {
+   "src": "bgm/sb-hymn-to-the-dawn.mp3",
+   "fromCh": 4,
+   "gain": 1.4
+  },
+  {
+   "src": "bgm/sb-march-of-midnight.mp3",
+   "fromCh": 5,
+   "gain": 1.4
+  },
+  {
+   "src": "bgm/sb-the-fury.mp3",
    "fromCh": 6,
-   "gain": 1.1
+   "gain": 1.6
   },
   {
-   "src": "bgm/l003-bed-a.mp3",
-   "fromCh": 7
+   "src": "bgm/sb-hymn-to-the-dawn.mp3",
+   "fromCh": 7,
+   "gain": 1.4
   }
  ]
 }

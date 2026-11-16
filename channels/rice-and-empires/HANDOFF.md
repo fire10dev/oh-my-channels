@@ -90,6 +90,16 @@ State 00:35 (+07), stopped at the usage limit:
 - Render `shorts/out/S012-name-vietnam.mp4` (git-ignored). ✅ Owner OK 2026-11-11 15:18; **published Public 15:40 (+07): https://youtube.com/shorts/i7YEHQAu2zA**
   (not for kids, "Sử dụng AI" = Không; owner dragged the file in Chrome profile "YT"). Comment posted 15:45 as the channel ("Which name did you know first…"), **not pinned**:
   pinning asks for channel verification in Studio (owner's job, phone). After verifying: ⋮ on the comment → Ghim.
+### Remaining (in order)
+1. Make the 46 missing images (prompts in `shorts/src/l003.images.json`): in AI Studio set Thinking = Minimal; if the quota runs out, use Lite or reuse S002/S004 images (edit the Shots column + `long_build.py`).
+2. `tools/long_import.sh l003` → `.placeholders` empty → `python3 tools/long_build.py scripts/L003-*.md l003 tools/say_l003.json`.
+3. Owner downloads 2–3 Audio Library tracks into `shorts/public/bgm/`, then edits `shorts/src/l003.music.json`.
+4. Render: `cd shorts && npx remotion render src/index.ts L003 out/L003-raw.mp4` → loudnorm −14 → `out/L003-chinese-rule.mp4` + contact sheet.
+
+### Owner morning review
+- Read the VI column of the script (55 lines) + the claim table C1–C27.
+- Listen to the TTS of Vietnamese names (`tools/say_l003.json`).
+- Look at the thumbnail `shorts/out/L003-thumb.jpg`.
 
 ## ✅ Batch S002–S011 closed (2026-11-08 16:55 +07)
 All 10 history Shorts are public or scheduled (table below). Leftovers, not blocking: pinned comments; Codex fixes found in L001 for S004/S011

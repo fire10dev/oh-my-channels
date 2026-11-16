@@ -1,72 +1,437 @@
 [
-["img-01","MAP","a wide river mouth at dusk drawn as a map vignette, rows of wooden stakes in the water, wooden ships with sails in the distance, low hills, golden light"],
-["img-02","MAP","a long antique scroll unrolled on a dark wooden table showing the Red River delta from mountains to sea, a faded horizontal band like a timeline across it"],
-["img-03","MAP","three groups of small figures on a parchment map of a river delta: officials in Han robes, local villagers with bronze drums, and farmers in between"],
-["img-04","MAP","bird's-eye antique map of the Red River delta in the Bronze Age, rice fields, stilt houses, river channels to the sea, mountains in the north"],
-["img-05","LAC","legendary ancient kings in feathered headdresses before a palace of wood and thatch, mist, mythic mood, gold clouds"],
-["img-06","MAP","an old scholar centuries later writing a chronicle by lamplight, brush and bound books, faint images of legendary kings rising from the page like smoke"],
-["img-07","LAC","a Qin dynasty general in armor standing on a hill above a southern river city, banners without symbols, sunset"],
-["img-08","MAP","walled ancient port city of Panyu on the Pearl River drawn as map vignette, ships, palace roofs, southern China coast"],
-["img-09","MAP","map of southern China and the Red River region with a kingdom outline spreading south from a coastal capital toward the delta"],
-["img-10","LAC","two scholars arguing across a table with old scrolls, one pointing to a portrait of an ancient king, candlelight"],
-["img-11","LAC","palace hall at night, overturned cups, a royal throne empty, envoys' scrolls on the floor, tense atmosphere, no gore"],
-["img-12","MAP","a Han dynasty army column crossing a mountain pass drawn as a map vignette, spears and banners without symbols, river valley below"],
-["img-13","MAP","antique map of northern Vietnam with three administrative regions outlined in faded ink along the coast, small Han-style towers marking seats"],
-["img-14","MAP","antique map of the southern coast of Indochina with temple towers of brick and a river-delta port with ocean-going ships, warm colors"],
-["img-15","MAP","a Han official in robes and a local chieftain with a bronze drum meeting in a riverside village, rice fields, stilt houses, map vignette"],
-["img-16","LAC","two women leaders standing before a gathering crowd with spears and banners without symbols, dawn, rice fields, faces not detailed"],
-["img-17","MAP","a lonely riverside execution ground at dusk drawn as an ink vignette, an empty seat of authority, mourning women in the distance, no gore"],
-["img-18","LAC","a woman crowned as ruler on a simple wooden throne, attendants kneeling, bronze drums, gold leaf, faces not detailed"],
-["img-19","LAC","a veteran Han general on horseback leading troops through a jungle river valley, war boats behind, banners without symbols"],
-["img-20","MAP","Han soldiers carrying large bronze drums toward a smoking furnace, map vignette, sorrowful mood"],
-["img-21","LAC","a bronze horse statue gleaming on a pedestal in a Han palace courtyard, molten bronze glow, gold leaf"],
-["img-22","MAP","a Han administrative town with walls, offices and granaries on a river delta, officials with scrolls, orderly grid streets"],
-["img-23","LAC","a dignified elderly official in Han robes in a study filled with books, a map of the delta on the wall"],
-["img-24","MAP","map of the Jiaozhi region with a single governor's seal stamped in red over it, small towns and rivers, no text"],
-["img-25","LAC","an official on a dais receiving local chiefs and merchants with gifts, incense, musicians, gold leaf"],
-["img-26","MAP","a caravan of porters and boats carrying tribute boxes, ivory and pearls northward along rivers and roads, map vignette"],
-["img-27","LAC","a quiet village temple with incense smoke and an altar honoring an ancient governor, offerings, lanterns"],
-["img-28","MAP","warships of the Wu kingdom sailing south along the coast toward a river delta, map vignette with waves"],
-["img-29","LAC","a banquet hall where guards seize guests at a feast, tipped cups, dramatic tension, no gore, faces not detailed"],
-["img-30","LAC","a local leader raising a sword before followers in a misty marshland, banners without symbols, sixth century"],
-["img-31","LAC","a newly crowned emperor in simple robes before a modest wooden palace, cherry and peach blossoms, new spring mood"],
-["img-32","MAP","antique map of the Red River delta with a new small kingdom outlined in gold, spring flowers drawn in the margins"],
-["img-33","LAC","Liang dynasty soldiers attacking a riverside wooden fortress, arrows, smoke, banners without symbols"],
-["img-34","LAC","guerrilla fighters in small boats hidden among tall reeds in a vast swamp at dawn"],
-["img-35","MAP","a large Sui army arriving at a riverside city, a ruler kneeling in surrender at the gate, map vignette"],
-["img-36","MAP","Tang dynasty administrative map of the southern frontier, a fortified seat beside a great river, roads radiating out"],
-["img-37","LAC","villagers with farm tools and spears rising against a Tang official's compound at night, torches"],
-["img-38","MAP","a column of Tang governors' sedan chairs leaving through a city gate in haste, map vignette, dust"],
-["img-39","MAP","armies descending from the high mountains of Yunnan toward a river delta, map vignette with arrows of movement drawn as brush strokes"],
-["img-40","LAC","a walled city besieged and burning at night, mountain warriors with shields, smoke against a gold moon"],
-["img-41","LAC","a Tang general in armor on horseback directing troops to retake a city, morning light, banners without symbols"],
-["img-42","MAP","a calm sea along the delta coast with a fortified city, gentle waves and a quiet harbour, peaceful mood"],
-["img-43","LAC","rebellious soldiers in a fortress courtyard, an official fleeing on horseback through the gate, dusk"],
-["img-44","MAP","a crumbling imperial palace in the north with cracks spreading across a map toward the south, symbolic"],
-["img-45","LAC","a wealthy local patriarch in robes accepting an official seal in a hall, family members behind, gold leaf"],
-["img-46","MAP","map of China broken into several rival kingdoms with different colored outlines, small crowns, the south coast highlighted"],
-["img-47","LAC","Southern Han soldiers entering a delta city, townspeople watching from doorways, banners without symbols"],
-["img-48","LAC","a commander leading warriors from the southern hills to retake a walled city, dawn, dust, gold leaf"],
-["img-49","LAC","a dark palace corridor, a single figure with a hidden dagger in shadow, lamp light, suspense, no gore"],
-["img-50","LAC","a stern young commander in armor gathering troops on a riverbank, war boats, morning mist"],
-["img-51","MAP","a messenger boat sailing north along the coast with a sealed letter, map vignette, stormy sky"],
-["img-52","MAP","a large fleet of tall war junks sailing toward a winding river mouth, map vignette with tides drawn as curling lines"],
-["img-53","LAC","soldiers driving tall wooden stakes with iron tips into a riverbed at low tide, mud, ropes, dusk"],
-["img-54","MAP","cross-section diagram drawn like an old engraving: river surface at high tide hiding sharp stakes below, boats above"],
-["img-55","LAC","the tide falling on a wide river, large war junks caught and tilted on wooden stakes, small boats closing in, smoke"],
-["img-56","LAC","wreckage of ships drifting on a river at sunset, broken masts, victorious small boats returning, gold sky"],
-["img-57","MAP","an open history book with crossed-out and blurred numbers in the margins and question marks drawn as ink blots, no readable text"],
-["img-58","LAC","a king in simple royal robes crowned before a spiral-walled ancient citadel, court officials bowing, gold leaf"],
-["img-59","MAP","antique map of the ancient Cổ Loa citadel with spiral earthen walls and moats, bird's-eye view"],
-["img-60","LAC","rival warlords' banners on different hills around a delta, a broken crown on a table in the foreground"],
-["img-61","MAP","a long timeline scroll rolled out on a desk with objects along it: bronze drum, brush, seal, ship model, lit by candle"],
-["img-62","LAC","Confucian scholars in a hall writing on scrolls with brushes, examination desks in rows, gold leaf"],
-["img-63","MAP","a busy river market where villagers talk and trade, speech drawn as flowing ink swirls, rice boats"],
-["img-64","MAP","two scripts flowing together as ink streams on parchment, abstract, brush strokes merging, no readable characters"],
-["img-65","LAC","Ming dynasty soldiers occupying a citadel in the fifteenth century, banners without symbols, grey sky"],
-["img-66","LAC","a fifteenth-century leader on a hill with followers, a sword raised, sunrise over a lake, gold leaf"],
-["img-67","MAP","faces of diverse ancient people drawn as small portraits around a delta map, mixed dress styles, no labels"],
-["img-68","MAP","a Chinese imperial administrator's register with drawn maps and tables of households, brush, seal, no readable text"],
-["img-69","LAC","a modern school classroom wall mural showing heroic ancient figures, stylized, students silhouettes, no text, no flags"],
-["img-70","MAP","the Red River delta map with a sun rising over the sea, the whole land softly glowing, calm and open"]
+ [
+  "img-01",
+  "MAP",
+  "a wide river mouth at dusk drawn as a map vignette, rows of wooden stakes in the water, wooden ships with sails in the distance, low hills, golden light"
+ ],
+ [
+  "img-02",
+  "MAP",
+  "a long antique scroll unrolled on a dark wooden table showing the Red River delta from mountains to sea, a faded horizontal band like a timeline across it"
+ ],
+ [
+  "img-03",
+  "MAP",
+  "three groups of small figures on a parchment map of a river delta: officials in Han robes, local villagers with bronze drums, and farmers in between"
+ ],
+ [
+  "img-04",
+  "MAP",
+  "bird's-eye antique map of the Red River delta in the Bronze Age, rice fields, stilt houses, river channels to the sea, mountains in the north"
+ ],
+ [
+  "img-05",
+  "LAC",
+  "legendary ancient kings in feathered headdresses before a palace of wood and thatch, mist, mythic mood, gold clouds"
+ ],
+ [
+  "img-06",
+  "MAP",
+  "an elderly Vietnamese scholar-official of the 15th century in a dark East Asian robe and black gauze scholar's cap, writing with an ink brush at a low wooden desk by oil-lamp light, stacks of thread-bound East Asian books, faint images of legendary ancient Vietnamese kings in Bronze Age dress with feather headdresses rising from the page like smoke. All figures Vietnamese / East Asian. No European people, no crowns, no quill pen, no Western books."
+ ],
+ [
+  "img-07",
+  "LAC",
+  "a Qin dynasty general in armor standing on a hill above a southern river city, banners without symbols, sunset"
+ ],
+ [
+  "img-08",
+  "MAP",
+  "walled ancient port city of Panyu on the Pearl River drawn as map vignette, ships, palace roofs, southern China coast"
+ ],
+ [
+  "img-09",
+  "MAP",
+  "map of southern China and the Red River region with a kingdom outline spreading south from a coastal capital toward the delta"
+ ],
+ [
+  "img-10",
+  "LAC",
+  "two scholars arguing across a table with old scrolls, one pointing to a portrait of an ancient king, candlelight"
+ ],
+ [
+  "img-11",
+  "LAC",
+  "palace hall at night, overturned cups, a royal throne empty, envoys' scrolls on the floor, tense atmosphere, no gore"
+ ],
+ [
+  "img-12",
+  "MAP",
+  "a Han dynasty army column crossing a mountain pass drawn as a map vignette, spears and banners without symbols, river valley below"
+ ],
+ [
+  "img-13",
+  "MAP",
+  "antique map of northern Vietnam with three administrative regions outlined in faded ink along the coast, small Han-style towers marking seats"
+ ],
+ [
+  "img-14",
+  "MAP",
+  "antique map of the southern coast of Indochina with temple towers of brick and a river-delta port with ocean-going ships, warm colors"
+ ],
+ [
+  "img-15",
+  "MAP",
+  "a Han official in robes and a local chieftain with a bronze drum meeting in a riverside village, rice fields, stilt houses, map vignette"
+ ],
+ [
+  "img-16",
+  "LAC",
+  "two women leaders standing before a gathering crowd with spears and banners without symbols, dawn, rice fields, faces not detailed"
+ ],
+ [
+  "img-17",
+  "MAP",
+  "a lonely riverside execution ground at dusk drawn as an ink vignette, an empty seat of authority, mourning women in the distance, no gore"
+ ],
+ [
+  "img-18",
+  "LAC",
+  "a woman crowned as ruler on a simple wooden throne, attendants kneeling, bronze drums, gold leaf, faces not detailed"
+ ],
+ [
+  "img-19",
+  "LAC",
+  "a veteran Han general on horseback leading troops through a jungle river valley, war boats behind, banners without symbols"
+ ],
+ [
+  "img-20",
+  "MAP",
+  "Han soldiers carrying large bronze drums toward a smoking furnace, map vignette, sorrowful mood"
+ ],
+ [
+  "img-21",
+  "LAC",
+  "a bronze horse statue gleaming on a pedestal in a Han palace courtyard, molten bronze glow, gold leaf"
+ ],
+ [
+  "img-22",
+  "MAP",
+  "a Han administrative town with walls, offices and granaries on a river delta, officials with scrolls, orderly grid streets"
+ ],
+ [
+  "img-23",
+  "LAC",
+  "a dignified elderly official in Han robes in a study filled with books, a map of the delta on the wall"
+ ],
+ [
+  "img-24",
+  "MAP",
+  "map of the Jiaozhi region with a single governor's seal stamped in red over it, small towns and rivers, no text"
+ ],
+ [
+  "img-25",
+  "LAC",
+  "an official on a dais receiving local chiefs and merchants with gifts, incense, musicians, gold leaf"
+ ],
+ [
+  "img-26",
+  "MAP",
+  "a caravan of porters and boats carrying tribute boxes, ivory and pearls northward along rivers and roads, map vignette"
+ ],
+ [
+  "img-27",
+  "LAC",
+  "a quiet village temple with incense smoke and an altar honoring an ancient governor, offerings, lanterns"
+ ],
+ [
+  "img-28",
+  "MAP",
+  "warships of the Wu kingdom sailing south along the coast toward a river delta, map vignette with waves"
+ ],
+ [
+  "img-29",
+  "LAC",
+  "a banquet hall where guards seize guests at a feast, tipped cups, dramatic tension, no gore, faces not detailed"
+ ],
+ [
+  "img-30",
+  "LAC",
+  "a local leader raising a sword before followers in a misty marshland, banners without symbols, sixth century"
+ ],
+ [
+  "img-31",
+  "LAC",
+  "a newly crowned emperor in simple robes before a modest wooden palace, cherry and peach blossoms, new spring mood"
+ ],
+ [
+  "img-32",
+  "MAP",
+  "antique map of the Red River delta with a new small kingdom outlined in gold, spring flowers drawn in the margins"
+ ],
+ [
+  "img-33",
+  "LAC",
+  "Liang dynasty soldiers attacking a riverside wooden fortress, arrows, smoke, banners without symbols"
+ ],
+ [
+  "img-34",
+  "LAC",
+  "6th-century Vietnamese warriors in small wooden dugout boats hidden among tall reeds in a vast misty swamp at dawn, armed only with long spears, bows and arrows and short bronze swords, ancient dress with cloth headbands or bare heads, long hair tied up. Strictly ancient: no firearms, no guns, no rifles, no conical hats, no modern clothing or uniforms."
+ ],
+ [
+  "img-35",
+  "MAP",
+  "a large Sui army arriving at a riverside city, a ruler kneeling in surrender at the gate, map vignette"
+ ],
+ [
+  "img-36",
+  "MAP",
+  "Tang dynasty administrative map of the southern frontier, a fortified seat beside a great river, roads radiating out"
+ ],
+ [
+  "img-37",
+  "LAC",
+  "villagers with farm tools and spears rising against a Tang official's compound at night, torches"
+ ],
+ [
+  "img-38",
+  "MAP",
+  "a column of Tang governors' sedan chairs leaving through a city gate in haste, map vignette, dust"
+ ],
+ [
+  "img-39",
+  "MAP",
+  "armies descending from the high mountains of Yunnan toward a river delta, map vignette with arrows of movement drawn as brush strokes"
+ ],
+ [
+  "img-40",
+  "LAC",
+  "a walled city besieged and burning at night, mountain warriors with shields, smoke against a gold moon"
+ ],
+ [
+  "img-41",
+  "LAC",
+  "a Tang general in armor on horseback directing troops to retake a city, morning light, banners without symbols"
+ ],
+ [
+  "img-42",
+  "MAP",
+  "a calm sea along the delta coast with a fortified city, gentle waves and a quiet harbour, peaceful mood"
+ ],
+ [
+  "img-43",
+  "LAC",
+  "rebellious soldiers in a fortress courtyard, an official fleeing on horseback through the gate, dusk"
+ ],
+ [
+  "img-44",
+  "MAP",
+  "a crumbling imperial palace in the north with cracks spreading across a map toward the south, symbolic"
+ ],
+ [
+  "img-45",
+  "LAC",
+  "a wealthy local patriarch in robes accepting an official seal in a hall, family members behind, gold leaf"
+ ],
+ [
+  "img-46",
+  "MAP",
+  "map of China broken into several rival kingdoms with different colored outlines, small crowns, the south coast highlighted"
+ ],
+ [
+  "img-47",
+  "LAC",
+  "Southern Han soldiers entering a delta city, townspeople watching from doorways, banners without symbols"
+ ],
+ [
+  "img-48",
+  "LAC",
+  "a commander leading warriors from the southern hills to retake a walled city, dawn, dust, gold leaf"
+ ],
+ [
+  "img-49",
+  "LAC",
+  "a dark palace corridor, a single figure with a hidden dagger in shadow, lamp light, suspense, no gore"
+ ],
+ [
+  "img-50",
+  "LAC",
+  "a stern young commander in armor gathering troops on a riverbank, war boats, morning mist"
+ ],
+ [
+  "img-51",
+  "MAP",
+  "a messenger boat sailing north along the coast with a sealed letter, map vignette, stormy sky"
+ ],
+ [
+  "img-52",
+  "MAP",
+  "a large fleet of tall war junks sailing toward a winding river mouth, map vignette with tides drawn as curling lines"
+ ],
+ [
+  "img-53",
+  "LAC",
+  "soldiers driving tall wooden stakes with iron tips into a riverbed at low tide, mud, ropes, dusk"
+ ],
+ [
+  "img-54",
+  "MAP",
+  "cross-section diagram drawn like an old engraving: river surface at high tide hiding sharp stakes below, boats above"
+ ],
+ [
+  "img-55",
+  "LAC",
+  "the tide falling on a wide river, large war junks caught and tilted on wooden stakes, small boats closing in, smoke"
+ ],
+ [
+  "img-56",
+  "LAC",
+  "wreckage of ships drifting on a river at sunset, broken masts, victorious small boats returning, gold sky"
+ ],
+ [
+  "img-57",
+  "MAP",
+  "an open thread-bound East Asian history book on a low lacquered desk beside an ink brush and ink stone, crossed-out ink marks and ink-blot question marks in the margins, no readable text. No world map, no Western book, no quill pen."
+ ],
+ [
+  "img-58",
+  "LAC",
+  "a king in simple royal robes crowned before a spiral-walled ancient citadel, court officials bowing, gold leaf"
+ ],
+ [
+  "img-59",
+  "MAP",
+  "antique map of the ancient Cổ Loa citadel with spiral earthen walls and moats, bird's-eye view"
+ ],
+ [
+  "img-60",
+  "LAC",
+  "rival warlords' banners on different hills around a delta, a broken crown on a table in the foreground"
+ ],
+ [
+  "img-61",
+  "MAP",
+  "a long timeline scroll rolled out on a desk with objects along it: bronze drum, brush, seal, ship model, lit by candle"
+ ],
+ [
+  "img-62",
+  "LAC",
+  "Confucian scholars in a hall writing on scrolls with brushes, examination desks in rows, gold leaf"
+ ],
+ [
+  "img-63",
+  "MAP",
+  "a busy river market where villagers talk and trade, speech drawn as flowing ink swirls, rice boats"
+ ],
+ [
+  "img-64",
+  "MAP",
+  "a map of the Red River delta and northern Vietnam only, with two ink streams merging over the delta: one of brush-stroke ideogram-like marks flowing down from the north, one of rounded ripple-like spoken-word waves rising from delta villages. No world map, no other continents, no readable characters."
+ ],
+ [
+  "img-65",
+  "LAC",
+  "Ming dynasty soldiers occupying a citadel in the fifteenth century, banners without symbols, grey sky"
+ ],
+ [
+  "img-66",
+  "LAC",
+  "a fifteenth-century leader on a hill with followers, a sword raised, sunrise over a lake, gold leaf"
+ ],
+ [
+  "img-67",
+  "MAP",
+  "a Red River delta map ringed by small round portraits of the region's ancient people around 100-500 CE: Vietnamese villagers, Han Chinese officials in Han robes, local chiefs with Dong Son style feather headdresses, women with hair in buns, fishermen. All faces East and Southeast Asian, mixed dress styles. No European, Middle Eastern or African people, no labels."
+ ],
+ [
+  "img-68",
+  "MAP",
+  "a Chinese imperial administrator's register with drawn maps and tables of households, brush, seal, no readable text"
+ ],
+ [
+  "img-69",
+  "LAC",
+  "a modern school classroom wall mural showing heroic ancient figures, stylized, students silhouettes, no text, no flags"
+ ],
+ [
+  "img-70",
+  "MAP",
+  "the Red River delta map with a sun rising over the sea, the whole land softly glowing, calm and open"
+ ],
+ [
+  "img-72",
+  "LAC",
+  "the top face of a large ancient Đông Sơn bronze drum seen from above, a radiant many-pointed gold star at the centre, concentric rings of geometric patterns and flying long-billed birds, on glossy black lacquer"
+ ],
+ [
+  "img-73",
+  "LAC",
+  "ancient bronze-age craftsmen casting a large bronze drum, glowing molten metal poured from a crucible into a clay mould, workshop by a river, firelight, faces not detailed"
+ ],
+ [
+  "img-74",
+  "LAC",
+  "close-up frieze around the side of an ancient bronze drum in gold relief: long boats with feathered rowers, stilt houses, flying birds and dancers in feather headdresses"
+ ],
+ [
+  "img-75",
+  "LAC",
+  "a scholar's desk by lamplight with two records side by side: an open Vietnamese chronicle scroll and a bundle of Chinese bamboo slips, brush and ink stone, no readable writing"
+ ],
+ [
+  "img-76",
+  "LAC",
+  "a misty river at dusk, one empty wooden boat drifting near reeds, soft gold light on the water, quiet mournful mood, no people"
+ ],
+ [
+  "img-77",
+  "MAP",
+  "an antique map of the Red River delta half rolled up on a scholar's wooden desk at dusk, brush, ink stone and an oil lamp beside it, warm light"
+ ],
+ [
+  "img-16b",
+  "LAC",
+  "two Lạc noblewomen leaders in bronze-age dress with bronze ornaments standing before a gathering crowd with spears and plain banners, dawn, rice fields, calm determined faces painted in stylised lacquer-art manner"
+ ],
+ [
+  "img-78",
+  "MAP",
+  "a split antique map of the Red River delta: the left half drawn in Chinese grid cartographic style, the right half in a local hand-drawn style, small figures standing along the seam between them"
+ ],
+ [
+  "img-79",
+  "MAP",
+  "map of the Indochina peninsula with its long S-shaped coast, only the northern Red River delta and the coast just south of it tinted in red ochre, the far south drawn with other kingdoms' citadels and temples"
+ ],
+ [
+  "img-80",
+  "LAC",
+  "a Han administrative town on a river delta, a Han official in long robes receiving local Lạc lords wearing bronze ornaments, attendants, river boats, faces not detailed"
+ ],
+ [
+  "img-81",
+  "LAC",
+  "two women commanders riding war elephants seen from behind in morning mist, an army with spears following across rice fields, faces not shown"
+ ],
+ [
+  "img-82",
+  "LAC",
+  "crowds of villagers with spears gathering across rice fields around two women leaders on a raised mound, plain banners without symbols, dawn"
+ ],
+ [
+  "img-83",
+  "LAC",
+  "a Han army marching in long columns through jungle and across rivers, plain banners without symbols, soldiers with halberds and crossbows, faces not detailed"
+ ],
+ [
+  "img-84",
+  "LAC",
+  "a Vietnamese temple courtyard with incense smoke and offerings, two seated female statues on the altar inside, worshippers bowing, lanterns"
+ ],
+ [
+  "img-85",
+  "LAC",
+  "a river mouth at low tide with rows of sharp wooden stakes exposed and large wrecked war junks caught on them, smoke, dusk"
+ ],
+ [
+  "img-86",
+  "LAC",
+  "a classroom of young scholars writing with brushes at low wooden desks, a teacher with bound books, lamplight, no readable writing"
+ ],
+ [
+  "img-87",
+  "MAP",
+  "river-delta map with small figures in mixed Han-style robes and local dress trading at a riverside market, boats, a bronze drum drawn in the margin"
+ ]
 ]

@@ -1,4 +1,8 @@
 import {Composition, Still} from 'remotion';
+import {FX_FPS, FX_FRAMES, FxSample} from './FxSample';
+import {FPS as SC_FPS, FxScene, sceneFrames} from './FxScene';
+import {pilotInvasion, pilotStakes, pilotUprising} from './fxPilots';
+import {LongVideo as LongVideoL003, longTotal as longTotalL003} from './LongVideoL003';
 import {Avatar, Banner, BannerSafe} from './Brand';
 import {FPS, ListShort, totalFrames} from './ListShort';
 import s001 from './s001.json';
@@ -36,6 +40,17 @@ import {LFPS, LongVideo, longTotal} from './LongVideo';
 import {Thumb} from './Thumb';
 import l003 from './l003.json';
 import l003t from './l003.timeline.json';
+import l003fx from './l003.fx.json';
+import l003plx from './l003.plx.json';
+import {l003Vfx} from './l003.vfx';
+
+// L003 has its own composition (LongVideoL003: parallax + VFX, as published). L007+ use LongVideo.
+const SAMPLE_IDS = ['41', '42', '43', '44'];
+const l003SampleRows = (l003 as any).rows
+  .filter((r: any) => SAMPLE_IDS.includes(r.id))
+  .map((r: any) => (r.id === '43' ? {...r, shots: r.shots.filter((x: any) => x.k !== 'clip')} : {...r, cardBefore: null, cardAfter: null}));
+const l003Sample = {...(l003 as any), rows: l003SampleRows, plx: l003plx, fx: l003fx, music: [{src: 'bgm/sb-the-fury.mp3', fromCh: 6, gain: 1.6}]};
+const l003SampleT = (l003t as any[]).filter((t, i) => SAMPLE_IDS.includes((l003 as any).rows[i].id));
 import l007 from './l007.json';
 import l007t from './l007.timeline.json';
 import l008 from './l008.json';
@@ -149,14 +164,27 @@ export const RemotionRoot: React.FC = () => (
     />
     <Still id="L008Thumb" component={Thumb} width={1280} height={720} defaultProps={{bg: 'l008/img-01.jpg', big: '1,000 YEARS', line: 'OF CHAMPA', tag: 'Where did it go?'}} />
     <Still id="L003Thumb" component={Thumb} width={1280} height={720} defaultProps={{bg: 'l003/thumb-bg.jpg', big: '1,000 YEARS', line: 'OF CHINESE RULE?', tag: 'What the sources say'}} />
+    <Composition id="PilotUprising" component={FxScene} defaultProps={{scene: pilotUprising}} fps={SC_FPS} width={1920} height={1080} durationInFrames={sceneFrames(pilotUprising)} />
+    <Composition id="PilotInvasion" component={FxScene} defaultProps={{scene: pilotInvasion}} fps={SC_FPS} width={1920} height={1080} durationInFrames={sceneFrames(pilotInvasion)} />
+    <Composition id="PilotStakes" component={FxScene} defaultProps={{scene: pilotStakes}} fps={SC_FPS} width={1920} height={1080} durationInFrames={sceneFrames(pilotStakes)} />
+    <Composition id="FxSample" component={FxSample} fps={FX_FPS} width={1920} height={1080} durationInFrames={FX_FRAMES} />
+    <Composition
+      id="L003Sample"
+      component={LongVideoL003}
+      defaultProps={{data: l003Sample as any, timeline: l003SampleT, vid: 'l003'}}
+      fps={LFPS}
+      width={1920}
+      height={1080}
+      durationInFrames={longTotalL003(l003Sample as any, l003SampleT)}
+    />
     <Composition
       id="L003"
-      component={LongVideo}
-      defaultProps={{data: l003 as any, timeline: l003t, vid: 'l003'}}
+      component={LongVideoL003}
+      defaultProps={{data: {...(l003 as any), fx: l003Vfx}, timeline: l003t, vid: 'l003'}}
       width={1920}
       height={1080}
       fps={LFPS}
-      durationInFrames={longTotal(l003 as any, l003t)}
+      durationInFrames={longTotalL003(l003 as any, l003t)}
     />
     <Still id="L007Thumb" component={Thumb} width={1280} height={720} defaultProps={{bg: 'l007/thumb-bg.jpg', big: 'EMPEROR', line: 'AT HOME. VASSAL ABROAD.', tag: 'Tribute diplomacy, 939–1885'}} />
     <Composition

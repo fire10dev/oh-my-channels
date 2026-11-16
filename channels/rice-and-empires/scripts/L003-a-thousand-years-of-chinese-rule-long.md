@@ -65,24 +65,24 @@ Shots of a row share the row's narration time equally (≈ 4–6 s each).
 |---|---|---|---|---|---|
 | 01 | 0 | Ask people in Vietnam about China, and you may hear one number: a thousand years. A thousand years of Chinese rule. | C1 | CLIP:1 · i01 | Hỏi người Việt về Trung Quốc, bạn có thể nghe một con số: một nghìn năm. Một nghìn năm Bắc thuộc. |
 | 02 | 0 | Vietnamese historiography traditionally dates it from 111 BC to 939 AD. But what did those thousand years really look like? | C1 | TL:full · i02 | Sử học Việt Nam truyền thống tính từ 111 TCN đến 939. Nhưng nghìn năm ấy thực sự trông thế nào? |
-| 03 | 0 | Who ruled, who resisted, and who were the people in between? Let's look at what the sources say, and where they disagree. | C8 | i03 · s6:07 · CARD:0 | Ai cai trị, ai chống lại, và những người ở giữa là ai? Hãy xem các nguồn nói gì, và chỗ nào chúng bất đồng. |
+| 03 | 0 | Who ruled, who resisted, and who were the people in between? Let's look at what the sources say, and where they disagree. | C8 | i03 · i78 · CARD:0 | Ai cai trị, ai chống lại, và những người ở giữa là ai? Hãy xem các nguồn nói gì, và chỗ nào chúng bất đồng. |
 | 04 | 1 | Long before the Han arrived, the Red River delta had its own bronze culture. Archaeologists call it Đông Sơn, after a site where it was found. | C9 | CARD:1 · MAP:draw · i04 | Từ lâu trước khi nhà Hán đến, châu thổ sông Hồng đã có văn hóa đồng riêng. Giới khảo cổ gọi là Đông Sơn, theo tên một địa điểm tìm thấy nó. |
-| 05 | 1 | Over roughly the last five centuries BC, its people cast large bronze drums, decorated with geometric patterns, animals and people. | C9 | s11:00 · s11:02 · s11:04 | Trong khoảng năm thế kỷ cuối trước Công nguyên, họ đúc trống đồng lớn, trang trí hoa văn hình học, động vật và con người. |
+| 05 | 1 | Over roughly the last five centuries BC, its people cast large bronze drums, decorated with geometric patterns, animals and people. | C9 | i72 · i73 · i74 | Trong khoảng năm thế kỷ cuối trước Công nguyên, họ đúc trống đồng lớn, trang trí hoa văn hình học, động vật và con người. |
 | 06 | 1 | Later Vietnamese texts, including a chronicle completed in 1479, tell of the Hùng kings and a kingdom called Văn Lang. Some historians treat these accounts as legend. | C10 | i05 · i06 · SRC:Kelley 2012 | Các văn bản Việt về sau, trong đó có bộ sử hoàn thành năm 1479, kể về các vua Hùng và nước Văn Lang. Một số sử gia coi những ghi chép này là truyền thuyết. |
 | 07 | 1 | Then came Zhao Tuo, a former Qin commander. Around 204 BC, he founded Nanyue, a kingdom ruled from what is now Guangzhou. | C11 | i07 · MAP:nanyue · i08 | Rồi đến Triệu Đà, một tướng cũ nhà Tần. Khoảng năm 204 TCN, ông lập nước Nam Việt, đóng đô ở nơi nay là Quảng Châu. |
 | 08 | 1 | Nanyue later took control of the Red River region. Vietnamese historians have long argued over whether Zhao Tuo was a local king or a foreign ruler. | C11 | i09 · i10 | Về sau Nam Việt nắm vùng sông Hồng. Sử gia Việt Nam tranh luận từ lâu: Triệu Đà là vua bản xứ hay người cai trị ngoại bang. |
 | 09 | 2 | In 112 BC, a Nanyue minister killed his own king and the Han envoys. Emperor Wu of Han answered with an invasion. | C12 | CARD:2 · i11 · i12 | Năm 112 TCN, một đại thần Nam Việt giết chính vua mình và sứ giả nhà Hán. Hán Vũ Đế đáp trả bằng một cuộc xâm lược. |
 | 10 | 2 | In 111 BC, Nanyue fell. The Han split its lands into commanderies, including Jiaozhi, Jiuzhen and Rinan, in what is now northern and north-central Vietnam. | C12 | i71 · MAP:han · i13 | Năm 111 TCN, Nam Việt mất. Nhà Hán chia đất thành các quận, trong đó có Giao Chỉ, Cửu Chân, Nhật Nam, nay là miền Bắc và Bắc Trung Bộ Việt Nam. |
-| 11 | 2 | This is the conventional start of Chinese rule. But notice what it covered: the Red River region and the coast to its south. Not today's whole Vietnam. | C2, C3 | TL:-111 · MAP:han · s6:02 | Đây là mốc khởi đầu quen dùng của Bắc thuộc. Nhưng hãy để ý phạm vi: vùng sông Hồng và dải ven biển phía nam. Không phải cả Việt Nam ngày nay. |
+| 11 | 2 | This is the conventional start of Chinese rule. But notice what it covered: the Red River region and the coast to its south. Not today's whole Vietnam. | C2, C3 | TL:111 · MAP:han | Đây là mốc khởi đầu quen dùng của Bắc thuộc. Nhưng hãy để ý phạm vi: vùng sông Hồng và dải ven biển phía nam. Không phải cả Việt Nam ngày nay. |
 | 12 | 2 | Further south, Linyi and later Champa emerged, alongside Funan in the Mekong region. | C3 | MAP:south · i14 | Xa hơn về phía nam, Lâm Ấp rồi Champa hình thành, cùng với Phù Nam ở vùng Mê Kông. |
-| 13 | 2 | At first, Han control was light. Local Lạc lords kept much of their power, under Chinese governors. | C15 | i15 · s4:01 | Lúc đầu nhà Hán cai trị lỏng. Các lạc tướng bản địa vẫn giữ nhiều quyền lực, dưới quyền thái thú người Hán. |
-| 14 | 3 | That changed around the year 40. The governor Su Ding is remembered as harsh. Trưng Trắc, the daughter of a Lạc lord, rose against him with her sister, Trưng Nhị. | C4, C13 | CARD:3 · TL:40 · i16 · s4:00 | Điều đó thay đổi khoảng năm 40. Thái thú Tô Định bị nhớ đến là hà khắc. Trưng Trắc, con gái một lạc tướng, cùng em là Trưng Nhị nổi dậy chống ông ta. |
+| 13 | 2 | At first, Han control was light. Local Lạc lords kept much of their power, under Chinese governors. | C15 | i15 · i80 | Lúc đầu nhà Hán cai trị lỏng. Các lạc tướng bản địa vẫn giữ nhiều quyền lực, dưới quyền thái thú người Hán. |
+| 14 | 3 | That changed around the year 40. The governor Su Ding is remembered as harsh. Trưng Trắc, the daughter of a Lạc lord, rose against him with her sister, Trưng Nhị. | C4, C13 | CARD:3 · TL:40 · i16 · i81 | Điều đó thay đổi khoảng năm 40. Thái thú Tô Định bị nhớ đến là hà khắc. Trưng Trắc, con gái một lạc tướng, cùng em là Trưng Nhị nổi dậy chống ông ta. |
 | 15 | 3 | Vietnamese chronicles say her husband, Thi Sách, had been killed by the governor. The sources differ on the details. | C13 | i17 · SRC:Sources differ | Sử Việt chép rằng chồng bà là Thi Sách bị thái thú giết. Các nguồn khác nhau về chi tiết. |
-| 16 | 3 | The revolt spread quickly. Su Ding fled, and Trưng Trắc was proclaimed queen. | C13 | s4:02 · i18 | Cuộc khởi nghĩa lan nhanh. Tô Định bỏ chạy, Trưng Trắc được tôn làm vua. |
-| 17 | 3 | The Han sent one of their best generals, Ma Yuan. Chinese records give his force as roughly twenty thousand regulars and twelve thousand local auxiliaries, figures to treat with caution. In 42 and 43, he defeated the sisters' forces. | C13 | i19 · s4:04 · SRC:Hou Hanshu | Nhà Hán cử một trong những tướng giỏi nhất, Mã Viện. Sử Trung Quốc ghi quân ông khoảng hai mươi nghìn lính chính quy và mười hai nghìn quân phụ trợ địa phương — con số cần thận trọng. Trong các năm 42 và 43, ông đánh bại quân hai bà. |
-| 18 | 3 | By 43, the revolt was over. Chinese records say the sisters were captured and beheaded. Vietnamese tradition says they drowned themselves in a river rather than surrender. | C4, C13 | TL:43 · s4:03 · s4:05 | Đến năm 43, khởi nghĩa kết thúc. Sử Trung Quốc chép hai bà bị bắt và bị chém. Truyền thống Việt kể hai bà gieo mình xuống sông chứ không đầu hàng. |
+| 16 | 3 | The revolt spread quickly. Su Ding fled, and Trưng Trắc was proclaimed queen. | C13 | i82 · i18 | Cuộc khởi nghĩa lan nhanh. Tô Định bỏ chạy, Trưng Trắc được tôn làm vua. |
+| 17 | 3 | The Han sent one of their best generals, Ma Yuan. Chinese records give his force as roughly twenty thousand regulars and twelve thousand local auxiliaries, figures to treat with caution. In 42 and 43, he defeated the sisters' forces. | C13 | i19 · i83 · SRC:Hou Hanshu | Nhà Hán cử một trong những tướng giỏi nhất, Mã Viện. Sử Trung Quốc ghi quân ông khoảng hai mươi nghìn lính chính quy và mười hai nghìn quân phụ trợ địa phương — con số cần thận trọng. Trong các năm 42 và 43, ông đánh bại quân hai bà. |
+| 18 | 3 | By 43, the revolt was over. Chinese records say the sisters were captured and beheaded. Vietnamese tradition says they drowned themselves in a river rather than surrender. | C4, C13 | TL:43 · i75 · i76 | Đến năm 43, khởi nghĩa kết thúc. Sử Trung Quốc chép hai bà bị bắt và bị chém. Truyền thống Việt kể hai bà gieo mình xuống sông chứ không đầu hàng. |
 | 19 | 3 | The Book of Later Han, a Chinese history, says Ma Yuan took local bronze drums and cast them into a bronze horse model. | C14 | i20 · i21 | Hậu Hán thư, một bộ sử Trung Quốc, chép rằng Mã Viện lấy trống đồng bản địa đúc thành một mô hình ngựa đồng. |
-| 20 | 3 | After the revolt, Han rule became more direct. The sisters later became heroines of Vietnamese memory, honored in temples to this day. | C15, C13 | i22 · s4:07 | Sau khởi nghĩa, nhà Hán trực trị hơn. Hai bà về sau trở thành nữ anh hùng trong ký ức người Việt, được thờ trong đền đến ngày nay. |
+| 20 | 3 | After the revolt, Han rule became more direct. The sisters later became heroines of Vietnamese memory, honored in temples to this day. | C15, C13 | i22 · i84 | Sau khởi nghĩa, nhà Hán trực trị hơn. Hai bà về sau trở thành nữ anh hùng trong ký ức người Việt, được thờ trong đền đến ngày nay. |
 | 21 | 4 | The next five centuries are often skipped in textbooks. But they hold some surprising figures. | — (transition) | CARD:4 · TL:187 | Năm thế kỷ tiếp theo thường bị sách giáo khoa lướt qua. Nhưng ở đó có những nhân vật bất ngờ. |
 | 22 | 4 | One is Shi Xie, an official whose family had moved south generations earlier. From 187, he governed Jiaozhi for about forty years. | C16 | i23 · i24 | Một người là Sĩ Nhiếp, một quan chức có gia đình đã dời xuống phương nam từ nhiều đời trước. Từ năm 187, ông cai quản Giao Chỉ khoảng bốn mươi năm. |
 | 23 | 4 | As the Han weakened, he exercised considerable local autonomy, while keeping ties with the northern court. | C16 | i25 · i26 | Khi nhà Hán suy yếu, ông có quyền tự chủ đáng kể ở địa phương, đồng thời giữ quan hệ với triều đình phương bắc. |
@@ -108,16 +108,16 @@ Shots of a row share the row's narration time equally (≈ 4–6 s each).
 | 43 | 6 | His boats drew the Han fleet in. Then the tide went out, the ships were caught on the stakes, and the attack collapsed. Liu Hongcao died. | C5, C23 | i55 · CLIP:3 · i56 | Thuyền của ông dụ hạm đội Nam Hán vào. Rồi nước triều rút, thuyền giặc mắc cọc, cuộc tấn công tan vỡ. Lưu Hoằng Tháo tử trận. |
 | 44 | 6 | We do not have reliable numbers for either side. Figures in modern books vary. | C23 | i57 · SRC:Numbers unreliable | Ta không có số liệu đáng tin cho cả hai bên. Các con số trong sách hiện đại khác nhau. |
 | 45 | 6 | In 939, Ngô Quyền declared himself king, with his capital at Cổ Loa. This is where the traditional count of a thousand years ends. | C1, C24 | TL:939 · i58 · i59 | Năm 939, Ngô Quyền xưng vương, đóng đô ở Cổ Loa. Đây là nơi cách tính nghìn năm truyền thống kết thúc. |
-| 46 | 6 | Independence did not bring peace. His dynasty soon broke apart, and decades of instability followed. But the stake trap at Bạch Đằng would be used again, in 1288, against the Mongol Yuan fleet. | C24, C26 | i60 · s2:07 | Độc lập không mang lại hòa bình. Triều đại của ông sớm tan rã, và nhiều thập kỷ bất ổn tiếp theo. Nhưng thế trận cọc trên sông Bạch Đằng sẽ được dùng lại năm 1288, chống hạm đội Nguyên Mông. |
+| 46 | 6 | Independence did not bring peace. His dynasty soon broke apart, and decades of instability followed. But the stake trap at Bạch Đằng would be used again, in 1288, against the Mongol Yuan fleet. | C24, C26 | i60 · i85 | Độc lập không mang lại hòa bình. Triều đại của ông sớm tan rã, và nhiều thập kỷ bất ổn tiếp theo. Nhưng thế trận cọc trên sông Bạch Đằng sẽ được dùng lại năm 1288, chống hạm đội Nguyên Mông. |
 | 47 | 7 | So what did a thousand years leave behind? | — | CARD:7 · i61 | Vậy một nghìn năm để lại gì? |
-| 48 | 7 | Literary Chinese remained the language of government and scholarship for centuries, along with Confucian ideas of the state. | C6 | i62 · s6:05 | Chữ Hán vẫn là chữ của triều chính và học thuật suốt nhiều thế kỷ, cùng với tư tưởng nhà nước Nho giáo. |
+| 48 | 7 | Literary Chinese remained the language of government and scholarship for centuries, along with Confucian ideas of the state. | C6 | i62 · i86 | Chữ Hán vẫn là chữ của triều chính và học thuật suốt nhiều thế kỷ, cùng với tư tưởng nhà nước Nho giáo. |
 | 49 | 7 | Meanwhile the region's spoken languages, including the ancestors of Vietnamese, carried on, absorbing many Chinese loanwords. | C6 | i63 · i64 | Trong khi đó các ngôn ngữ nói trong vùng, gồm tổ tiên của tiếng Việt, vẫn tiếp tục, và vay mượn nhiều từ Hán. |
 | 50 | 7 | China did come back. In the early 1400s, the Ming ruled the region again for about twenty years, until a rising led by Lê Lợi forced them out. He founded a new dynasty in 1428. | C25 | i65 · i66 | Trung Quốc có quay lại. Đầu thế kỷ 15, nhà Minh cai trị vùng này lần nữa khoảng hai mươi năm, cho đến khi cuộc khởi nghĩa do Lê Lợi lãnh đạo buộc họ rút đi. Năm 1428 ông lập triều đại mới. |
-| 51 | 7 | And who were the people of the delta? Historian Catherine Churchman argues that the sources do not show a fixed divide between Chinese and Vietnamese in the early Red River plain. | C7 | s6:06 · i67 · SRC:Churchman 2016 | Vậy cư dân châu thổ là ai? Sử gia Catherine Churchman cho rằng các nguồn không cho thấy một ranh giới cố định giữa "người Hoa" và "người Việt" ở đồng bằng sông Hồng thời đầu. |
+| 51 | 7 | And who were the people of the delta? Historian Catherine Churchman argues that the sources do not show a fixed divide between Chinese and Vietnamese in the early Red River plain. | C7 | i87 · i67 · SRC:Churchman 2016 | Vậy cư dân châu thổ là ai? Sử gia Catherine Churchman cho rằng các nguồn không cho thấy một ranh giới cố định giữa "người Hoa" và "người Việt" ở đồng bằng sông Hồng thời đầu. |
 | 52 | 7 | Chinese records described the region through imperial administration. Some modern Vietnamese national histories frame the period as a thousand-year struggle. | C8 | i68 · i69 | Sử Trung Quốc mô tả vùng này qua lăng kính hành chính đế chế. Một số sách quốc sử Việt hiện đại gọi đó là cuộc đấu tranh nghìn năm. |
 | 53 | 7 | Historians debate that framing. Scholars such as Keith Taylor, Liam Kelley and Catherine Churchman read the evidence in different ways. | C8, C7, C10 | TL:full · SRC:Taylor · Kelley · Churchman | Giới sử học tranh luận về cách nhìn đó. Các học giả như Keith Taylor, Liam Kelley, Catherine Churchman đọc bằng chứng theo những cách khác nhau. |
 | 54 | 7 | The real story is messier than one number. Rule had breaks. It covered one region, not a modern nation. And the people in it did not wear modern labels. | C3, C4, C7 | MAP:full · CLIP:2 | Câu chuyện thật phức tạp hơn một con số. Sự cai trị có gián đoạn. Nó bao trùm một vùng, không phải một quốc gia hiện đại. Và con người thời đó không mang nhãn hiện đại. |
-| 55 | 7 | Which part surprised you? Tell us in the comments, and subscribe to Rice and Empires for more. | — (CTA) | s6:08 · CARD:end | Phần nào làm bạn bất ngờ? Hãy bình luận, và đăng ký Rice & Empires để xem thêm. |
+| 55 | 7 | Which part surprised you? Tell us in the comments, and subscribe to Rice and Empires for more. | — (CTA) | i77 · CARD:end | Phần nào làm bạn bất ngờ? Hãy bình luận, và đăng ký Rice & Empires để xem thêm. |
 
 Chapter cards: 0 "A Thousand Years?" · 1 "Before the Han" · 2 "The Han Conquest" · 3 "The Trưng Revolt" · 4 "The Long Middle" · 5 "Tang Annam" · 6 "Breaking Away" · 7 "What It Left Behind".
 
@@ -136,11 +136,13 @@ Prompts live in `shorts/src/l003.images.json` (`[file, style, prompt]`), generat
 2. `clip-2`: Red River delta map at sunrise, slow drift (Flow, generated from the img-70 prompt). The Han-army clip was generated but could not be downloaded → `img-71` (its Flow start image) with Remotion motion instead.
 3. `clip-3`: lacquer battle, junks caught on stakes, small boats closing in (Flow start image + Omni 1.2 Flash, 8 s, 720p).
 
-## Publishing (draft — owner uploads)
-Title: **1,000 Years of Chinese Rule in Vietnam: What the Sources Actually Say**
-Description:
-"From 111 BC to 939 AD, Chinese dynasties ruled the Red River region of what is now northern Vietnam — with breaks, and never over today's
-whole country. Who resisted, who collaborated, and why do historians still argue about the 'thousand-year struggle'?
+## Publishing (owner uploads `shorts/out/L003-v3.mp4`; ready 2026-11-11)
+Title (69 chars): **1,000 Years of Chinese Rule in Vietnam: What the Sources Actually Say**
+Thumbnail: `shorts/out/L003-thumb.jpg`. Settings: not made for kids · "Sử dụng AI" = Không (stylized illustrations, non-impersonating TTS) · category Education · language English.
+
+Description (paste as is):
+```
+From 111 BC to 939 AD, Chinese dynasties ruled the Red River region of what is now northern Vietnam, with breaks, and never over today's whole country. Who resisted, who worked with the empire, and why do historians still argue about the "thousand-year struggle"? Here is what Chinese records, Vietnamese chronicles and modern historians actually say.
 
 Chapters
 0:00 A Thousand Years?
@@ -152,12 +154,29 @@ Chapters
 5:58 Breaking Away
 7:35 What It Left Behind
 
-Sources: K. W. Taylor, The Birth of Vietnam (1983) and A History of the Vietnamese (2013); L. Kelley, Beyond the Bronze Pillars (2005) and
-'The Biography of the Hồng Bàng Clan as a Medieval Vietnamese Invented Tradition' (2012); C. Churchman, The People between the Rivers (2016);
-B. Kiernan, Việt Nam: A History from Earliest Times to the Present (2019); Sima Qian, Shiji; Hou Hanshu; Sanguozhi; Đại Việt sử ký toàn thư;
-Encyclopaedia Britannica.
-Illustrations, video clips and narration are AI-assisted. Music: (fill in the Audio Library track names; placeholder bed is synthesized). Corrections welcome in the comments.
-#Vietnam #China #History #SoutheastAsia"
+Sources
+- K. W. Taylor, The Birth of Vietnam (1983); A History of the Vietnamese (2013)
+- L. Kelley, Beyond the Bronze Pillars (2005); "The Biography of the Hồng Bàng Clan as a Medieval Vietnamese Invented Tradition" (2012)
+- C. Churchman, The People between the Rivers (2016)
+- B. Kiernan, Việt Nam: A History from Earliest Times to the Present (2019)
+- Primary texts: Sima Qian, Shiji; Hou Hanshu (Book of Later Han); Sanguozhi; Đại Việt sử ký toàn thư (1479)
+- Encyclopaedia Britannica: Vietnam under Chinese rule; Trung Sisters; Ngo Quyen; Ma Yuan; Ly Nam De; Nam Viet
+Army sizes and casualty figures are given only where a source states them, and are attributed to that source.
+
+Music
+"Hymn To The Dawn", "The Rise", "March of Midnight", "The Fury" by Scott Buckley, released under CC-BY 4.0. www.scottbuckley.com.au
+Visual effects overlays: Mixkit. Sound effects: Sonniss GDC bundle.
+
+Illustrations and narration are AI-assisted. Illustrations are artistic interpretations, not historical records.
+Spotted a mistake? Tell us in the comments. Corrections are listed in the pinned comment.
+
+#Vietnam #China #History #SoutheastAsia
+```
+
+Pinned comment (post after publish, owner OK):
+```
+Corrections & notes: none yet. If you know a source that disagrees with something in this video, reply here with the reference and we will check it.
+```
 
 ## Self-check (FACT-CHECK §6)
 - [x] every narration line maps to claim IDs (21, 47, 55 are transitions/CTA, no facts)
