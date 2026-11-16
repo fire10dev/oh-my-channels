@@ -14,3 +14,13 @@ __pycache__/
 .build/
 .buildtmp/
 *.log
+
+# shared media library: only the index + fetch scripts are tracked (licences forbid redistributing the files)
+shared/library/**
+!shared/library/
+!shared/library/README.md
+!shared/library/LICENSES.csv
+!shared/library/build_licenses.py
+!shared/library/*/
+!shared/library/*/*/
+!shared/library/**/fetch*.py
