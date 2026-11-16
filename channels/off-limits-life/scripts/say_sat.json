@@ -1,0 +1,26 @@
+[
+ {
+  "id": "hook",
+  "say": "You're going to work at the bottom of the North Sea. The trip down takes minutes. The trip back up takes days."
+ },
+ {
+  "id": "what",
+  "say": "Saturation divers live in a sealed chamber on a ship, kept at the same pressure as the depth they work at, for up to twenty-eight days."
+ },
+ {
+  "id": "voice",
+  "say": "Problem one: talking. You breathe helium mixed with oxygen, and it makes every voice sound like a cartoon."
+ },
+ {
+  "id": "food",
+  "say": "Problem two: food. Your meals come in through a tiny airlock, like the pass-through window at a bank."
+ },
+ {
+  "id": "leave",
+  "say": "Problem three: leaving. Your body is soaked with dissolved gas. Come up too fast and it bubbles out of your blood. So decompression takes several days."
+ },
+ {
+  "id": "boat",
+  "say": "And if the ship catches fire, you can't just jump overboard. There's a lifeboat for that, and it's pressurized too."
+ }
+]

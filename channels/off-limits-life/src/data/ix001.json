@@ -1,0 +1,531 @@
+{
+ "title": "How Submarine Crews Eat, Shower & Sleep for 77 Days",
+ "unit": "DAY",
+ "scenes": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "clock": "06:00",
+   "view": [
+    960,
+    540,
+    1.0
+   ],
+   "say": "You're about to disappear for seventy-seven days. No windows. No sunlight. No phone. A hundred and fifty-nine people, sealed inside a steel tube, somewhere in the ocean. And nobody, not even your family, knows where."
+  },
+  {
+   "id": "secret",
+   "hud": "DAY 1",
+   "clock": "06:10",
+   "view": [
+    960,
+    540,
+    1.0
+   ],
+   "say": "In fact, most of the crew won't know exactly where the boat is. Sometimes, only the captain and a handful of officers even know exactly how long the patrol will last. Your job is simple to describe and hard to do: disappear, and stay disappeared.",
+   "diagram": {
+    "type": "note",
+    "title": "PATROL ORDERS",
+    "lines": [
+     "AREA: CLASSIFIED",
+     "LENGTH: CLASSIFIED",
+     "OBJECTIVE: DO NOT BE FOUND"
+    ],
+    "stamp": "TOP SECRET"
+   }
+  },
+  {
+   "id": "boat",
+   "hud": "DAY 1",
+   "clock": "07:00",
+   "view": [
+    960,
+    560,
+    1.12
+   ],
+   "say": "This is an Ohio-class ballistic missile submarine, the type the U.S. Navy sails as of twenty twenty-six. Sailors call it a boomer. It's five hundred and sixty feet long, longer than one and a half football fields.",
+   "stat": {
+    "big": "560 ft",
+    "small": "159 crew \u00b7 US Navy, 2025"
+   }
+  },
+  {
+   "id": "forest",
+   "hud": "DAY 1",
+   "clock": "07:00",
+   "view": [
+    1165,
+    550,
+    2.0
+   ],
+   "say": "But most of that length isn't for people. In the back, there's a nuclear reactor. In the middle, twenty missile tubes stand in rows, so tall and so many that sailors call this compartment Sherwood Forest. The humans get what's left."
+  },
+  {
+   "id": "crews",
+   "hud": "DAY 1",
+   "clock": "08:00",
+   "view": [
+    960,
+    540,
+    1.0
+   ],
+   "say": "The Navy runs each of these boats with two complete crews, called Blue and Gold. While one crew is at sea, the other is at home, resting and training. By the Navy's own numbers, a patrol lasts seventy-seven days on average, followed by about five weeks of maintenance. Then the crews swap. Today, it's your turn.",
+   "diagram": {
+    "type": "compare",
+    "left": [
+     "BLUE CREW",
+     "AT SEA",
+     "77 days"
+    ],
+    "right": [
+     "GOLD CREW",
+     "AT HOME",
+     "training"
+    ],
+    "note": "US Navy figures, 2025 \u00b7 then ~35 days of maintenance, and they swap"
+   }
+  },
+  {
+   "id": "sleep1",
+   "hud": "DAY 1",
+   "clock": "22:00",
+   "view": [
+    790,
+    615,
+    2.7
+   ],
+   "say": "Problem one: where do you sleep? Your bed is called a rack. It's a narrow shelf, stacked three high, with a curtain and a thin mattress. Under the mattress is a small locker. That's it. That's your entire personal space for the next eleven weeks.",
+   "card": {
+    "kicker": "PROBLEM 1",
+    "title": "SLEEP"
+   }
+  },
+  {
+   "id": "sleep2",
+   "hud": "DAY 1",
+   "clock": "22:30",
+   "view": [
+    790,
+    615,
+    2.7
+   ],
+   "say": "And on the smaller attack submarines, there aren't always enough racks. The newest sailors may share one bed in shifts. When you crawl in, the mattress is still warm from the last person. That's why it's called hot racking."
+  },
+  {
+   "id": "clock",
+   "hud": "DAY 2",
+   "clock": "??:??",
+   "view": [
+    790,
+    615,
+    2.7
+   ],
+   "say": "Even time works differently down here. For decades, submarines didn't run on a normal day. Sailors stood watch for six hours, then had twelve off: an eighteen-hour day. Your body never knew when it was morning. In twenty fourteen, Navy researchers confirmed what sailors already knew: it was exhausting. Since then, boats have been allowed to switch to a twenty-four-hour schedule.",
+   "diagram": {
+    "type": "compare",
+    "left": [
+     "BEFORE 2014",
+     "18-HOUR DAY",
+     "6 on \u00b7 12 off"
+    ],
+    "right": [
+     "TODAY",
+     "24-HOUR DAY",
+     "8 on \u00b7 16 off"
+    ],
+    "note": "watch schedule"
+   }
+  },
+  {
+   "id": "water1",
+   "hud": "DAY 5",
+   "clock": "05:40",
+   "view": [
+    525,
+    615,
+    3.0
+   ],
+   "say": "Problem two: water. You're surrounded by ocean, but you can't drink a single drop of it. So the boat makes its own. It boils seawater, collects the steam, and cools it back into fresh water. The salt stays behind.",
+   "card": {
+    "kicker": "PROBLEM 2",
+    "title": "WATER"
+   },
+   "diagram": {
+    "type": "flow",
+    "steps": [
+     "SEAWATER",
+     "BOIL",
+     "STEAM",
+     "FRESH WATER"
+    ],
+    "note": "the salt stays behind"
+   }
+  },
+  {
+   "id": "water2",
+   "hud": "DAY 5",
+   "clock": "05:45",
+   "view": [
+    525,
+    615,
+    3.0
+   ],
+   "say": "That fresh water has a long list of jobs: drinking, cooking, cooling equipment. And somewhere near the bottom of that list: your shower. So you learn the Navy shower. Water on. Get wet. Water off. Soap up. Water on. Rinse. Done.",
+   "quote": "WATER OFF!"
+  },
+  {
+   "id": "air1",
+   "hud": "DAY 12",
+   "clock": "14:00",
+   "view": [
+    360,
+    615,
+    2.8
+   ],
+   "say": "Problem three: air. A hundred and fifty-nine people breathe out a lot of carbon dioxide. In a sealed tube, it would build up until it poisoned everyone on board. So the boat has to make its own air, too.",
+   "card": {
+    "kicker": "PROBLEM 3",
+    "title": "AIR"
+   }
+  },
+  {
+   "id": "air2",
+   "hud": "DAY 12",
+   "clock": "14:05",
+   "view": [
+    360,
+    615,
+    2.8
+   ],
+   "say": "An oxygen generator runs electricity through water and splits it into hydrogen and oxygen. The oxygen goes into the air you breathe. The hydrogen goes overboard. A second machine pulls carbon dioxide out of the air using a chemical called amine, then pumps that into the sea, too.",
+   "diagram": {
+    "type": "flow",
+    "steps": [
+     "WATER",
+     "+ ELECTRICITY",
+     "OXYGEN \u2192 AIR",
+     "HYDROGEN \u2192 SEA"
+    ],
+    "note": "CO\u2082 is scrubbed out with amine, then pumped overboard"
+   }
+  },
+  {
+   "id": "air3",
+   "hud": "DAY 12",
+   "clock": "14:10",
+   "view": [
+    355,
+    490,
+    2.6
+   ],
+   "say": "And if both machines fail? There are oxygen candles. Light one, and a chemical reaction releases pure oxygen. None of this would work without the reactor. It gives the boat almost unlimited electricity, and that's what turns seawater into something you can breathe."
+  },
+  {
+   "id": "food1",
+   "hud": "DAY 15",
+   "clock": "12:00",
+   "view": [
+    800,
+    490,
+    2.6
+   ],
+   "say": "Problem four: food. On day one, the boat is packed with fresh fruit, salad, milk, and eggs. Enjoy them. They won't last.",
+   "card": {
+    "kicker": "PROBLEM 4",
+    "title": "FOOD"
+   }
+  },
+  {
+   "id": "food2",
+   "hud": "DAY 15",
+   "clock": "12:00",
+   "view": [
+    800,
+    490,
+    2.6
+   ],
+   "say": "Within one to three weeks, the fresh food is gone. After that, it's frozen, canned, and powdered, all the way to the end of the patrol.",
+   "diagram": {
+    "type": "calendar",
+    "days": 77,
+    "fresh": 18,
+    "label": "fresh food runs out in 1\u20133 weeks"
+   }
+  },
+  {
+   "id": "food3",
+   "hud": "DAY 31",
+   "clock": "00:00",
+   "view": [
+    800,
+    490,
+    2.6
+   ],
+   "say": "The cooks rotate the menu so the same meal doesn't come back too often, because food is one of the few things that still feels normal. And there's a fourth meal, served around midnight for the sailors coming off watch. It's called midrats, short for midnight rations."
+  },
+  {
+   "id": "trash1",
+   "hud": "DAY 31",
+   "clock": "09:00",
+   "view": [
+    1550,
+    615,
+    2.7
+   ],
+   "say": "Problem five: trash. You can't leave a trail of garbage floating behind a submarine that's supposed to be invisible. So dry trash is crushed in a compactor, packed into special metal cans, and loaded with weights so it sinks. Then the cans are fired out of a tube in the bottom of the boat, straight down to the sea floor.",
+   "card": {
+    "kicker": "PROBLEM 5",
+    "title": "TRASH"
+   },
+   "diagram": {
+    "type": "flow",
+    "steps": [
+     "COMPACTOR",
+     "METAL CAN",
+     "+ WEIGHTS",
+     "TDU TUBE \u2193"
+    ],
+    "note": "the cans sink to the sea floor"
+   }
+  },
+  {
+   "id": "trash2",
+   "hud": "DAY 31",
+   "clock": "09:30",
+   "view": [
+    1550,
+    615,
+    2.7
+   ],
+   "say": "Human waste goes somewhere else: a sanitary tank. Every so often, the crew blows that tank out with compressed air. While they do, a sign goes up on every toilet: Warning. Blowing sanitaries. Do not flush. If you ignore it, you'll learn very quickly why that sign exists.",
+   "diagram": {
+    "type": "note",
+    "title": "WARNING!",
+    "lines": [
+     "BLOWING SANITARIES",
+     "DO NOT FLUSH"
+    ],
+    "stamp": "NO"
+   }
+  },
+  {
+   "id": "home1",
+   "hud": "DAY 44",
+   "clock": "20:00",
+   "view": [
+    550,
+    490,
+    2.8
+   ],
+   "say": "Problem six: home. A boomer's whole job is to stay hidden, so it almost never transmits. Your family can send you short messages called familygrams, just a few dozen words at a time. You can read them. You can't reply.",
+   "card": {
+    "kicker": "PROBLEM 6",
+    "title": "HOME"
+   },
+   "diagram": {
+    "type": "note",
+    "title": "FAMILYGRAM",
+    "lines": [
+     "Baby took her first steps.",
+     "We miss you. Dog ate",
+     "your shoe. Love, M."
+    ],
+    "stamp": "NO REPLY"
+   }
+  },
+  {
+   "id": "home2",
+   "hud": "DAY 44",
+   "clock": "20:05",
+   "view": [
+    550,
+    490,
+    2.8
+   ],
+   "say": "On British submarines, as of twenty twenty-six, every message is screened, and bad news may be held back until the end of the patrol, when the crew can actually do something about it. It sounds harsh. The idea is that a sailor who can't go home can't do anything with that news, except carry it."
+  },
+  {
+   "id": "bored1",
+   "hud": "DAY 39",
+   "clock": "19:00",
+   "view": [
+    800,
+    490,
+    2.6
+   ],
+   "say": "Problem seven: boredom. Weeks start to blur together. So crews invent their own reasons to celebrate. When the captain announces that the boat is halfway through the patrol, it's halfway night: special food, games, and a little bit of chaos.",
+   "card": {
+    "kicker": "PROBLEM 7",
+    "title": "BOREDOM"
+   }
+  },
+  {
+   "id": "bored2",
+   "hud": "DAY 39",
+   "clock": "19:30",
+   "view": [
+    800,
+    490,
+    2.6
+   ],
+   "say": "Sailors watch movies, play cards, and keep old traditions alive. Cribbage has been a submarine favorite for generations. And then there are the pranks. On one Trident submarine in nineteen eighty-eight, the crew's forks began mysteriously disappearing, and submariners still tell the story.",
+   "quote": "WHO TOOK THE FORKS?"
+  },
+  {
+   "id": "med1",
+   "hud": "DAY 50",
+   "clock": "03:00",
+   "view": [
+    1550,
+    615,
+    2.7
+   ],
+   "say": "Problem eight: getting sick. As of the mid twenty-twenties, there's no doctor on board. The entire medical department is one person: an independent duty corpsman, a highly trained enlisted sailor who handles everything from flu to broken bones, and answers directly to the captain.",
+   "card": {
+    "kicker": "PROBLEM 8",
+    "title": "SICK"
+   }
+  },
+  {
+   "id": "med2",
+   "hud": "DAY 50",
+   "clock": "03:05",
+   "view": [
+    1550,
+    615,
+    2.7
+   ],
+   "say": "Ballistic missile submarines did once carry doctors, from the late nineteen-fifties into the nineteen-seventies. But the Navy found that corpsmen could handle most of what happens at sea. So today, if you get sick in the middle of the ocean, one sailor is your whole hospital.",
+   "stat": {
+    "big": "1",
+    "small": "medic for 159 people (2020s)"
+   }
+  },
+  {
+   "id": "fire1",
+   "hud": "DAY 57",
+   "clock": "11:00",
+   "view": [
+    550,
+    490,
+    2.8
+   ],
+   "say": "Problem nine: fire. On land, you run outside. Here, there is no outside. Smoke fills a compartment in seconds, and there are no windows to open.",
+   "card": {
+    "kicker": "PROBLEM 9",
+    "title": "FIRE"
+   }
+  },
+  {
+   "id": "fire2",
+   "hud": "DAY 57",
+   "clock": "11:02",
+   "view": [
+    550,
+    490,
+    2.8
+   ],
+   "say": "So you grab a mask called an emergency air breather. You pull it on, then plug its hose into an air manifold in the wall. Now you can breathe, but you can only move a few feet from that manifold. To go anywhere else, you hold your breath, unplug, and find the next one.",
+   "diagram": {
+    "type": "flow",
+    "steps": [
+     "MASK ON",
+     "PLUG INTO MANIFOLD",
+     "BREATHE",
+     "UNPLUG \u00b7 MOVE \u00b7 PLUG"
+    ],
+    "note": "you can only move a few feet on each hose"
+   }
+  },
+  {
+   "id": "fire3",
+   "hud": "DAY 57",
+   "clock": "11:10",
+   "view": [
+    550,
+    490,
+    2.8
+   ],
+   "say": "That's why crews drill constantly, until every sailor knows where every manifold is. Some crews even compete at it blindfolded, because in real smoke, you won't see a thing."
+  },
+  {
+   "id": "sun",
+   "hud": "DAY 66",
+   "clock": "16:00",
+   "view": [
+    790,
+    615,
+    2.7
+   ],
+   "say": "Problem ten: the sun. By now you haven't seen it in two months. Without sunlight, your skin stops making vitamin D, and on long patrols, submariners' levels drop. The Navy has even tested special lighting to try to fix it.",
+   "card": {
+    "kicker": "PROBLEM 10",
+    "title": "SUN"
+   },
+   "diagram": {
+    "type": "note",
+    "title": "VITAMIN D",
+    "lines": [
+     "made when sunlight hits your skin",
+     "no sunlight for two months",
+     "levels drop on long patrols"
+    ],
+    "stamp": "LOW"
+   }
+  },
+  {
+   "id": "surface",
+   "hud": "DAY 77",
+   "clock": "07:00",
+   "view": [
+    960,
+    540,
+    1.0
+   ],
+   "say": "And then, on day seventy-seven, the boat comes up. The hatch opens. Ask a submariner what they remember most about that moment. Many don't say the sunlight. They say the smell of fresh air."
+  },
+  {
+   "id": "swap",
+   "hud": "DAY 77",
+   "clock": "09:00",
+   "view": [
+    960,
+    540,
+    1.0
+   ],
+   "say": "You walk off. The Gold crew walks on. After a few weeks of maintenance, the boat disappears again, and somewhere, another family stops knowing where their sailor is."
+  },
+  {
+   "id": "record",
+   "hud": "DAY 140",
+   "clock": "\u2014",
+   "view": [
+    960,
+    540,
+    1.0
+   ],
+   "say": "Seventy-seven days is the average. As of twenty twenty-six, the longest Ohio-class patrol on record lasted a hundred and forty. And this world won't last forever: starting in the twenty-thirties, the Ohio class begins giving way to a new submarine, the Columbia class. Next time: the people who spend six months in total darkness, at the bottom of the world.",
+   "diagram": {
+    "type": "big",
+    "big": "140",
+    "small": "days \u00b7 longest Ohio-class patrol (as of 2026)"
+   }
+  },
+  {
+   "id": "outro",
+   "hud": "DAY 140",
+   "clock": "\u2014",
+   "view": [
+    960,
+    540,
+    1.0
+   ],
+   "say": "This is Off Limits Life. We go inside the places you're not allowed to go, and find out how people actually live there. If you want to see the next one, subscribe, and I'll see you at the bottom of the world.",
+   "diagram": {
+    "type": "brand",
+    "tag": "How people live where you can\u2019t go"
+   }
+  }
+ ],
+ "asof": "Figures as of 2026 \u00b7 sources in description"
+}

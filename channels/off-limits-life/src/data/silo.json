@@ -1,0 +1,89 @@
+{
+ "title": "24 Hours Inside a Nuclear Missile Capsule",
+ "unit": "HOUR",
+ "scenes": [
+  {
+   "id": "hook",
+   "hud": "HOUR 0",
+   "clock": "08:00",
+   "view": [
+    960,
+    540,
+    1.0
+   ],
+   "say": "Sixty feet under a wheat field in Montana, two officers sit at the controls for ten nuclear missiles."
+  },
+  {
+   "id": "door",
+   "hud": "HOUR 0",
+   "clock": "08:05",
+   "view": [
+    870,
+    820,
+    2.4
+   ],
+   "stat": {
+    "big": "8 t",
+    "small": "blast door \u00b7 24 h shift"
+   },
+   "say": "Their shift lasts twenty-four hours. The door that seals them in weighs about eight tons."
+  },
+  {
+   "id": "sleep",
+   "hud": "HOUR 15",
+   "clock": "23:00",
+   "view": [
+    420,
+    840,
+    2.8
+   ],
+   "card": {
+    "kicker": "PROBLEM 1",
+    "title": "SLEEP"
+   },
+   "say": "Problem one: sleep. There's one small bed. One officer can nap. The other must stay awake. Always."
+  },
+  {
+   "id": "food",
+   "hud": "HOUR 4",
+   "clock": "12:00",
+   "view": [
+    500,
+    330,
+    2.2
+   ],
+   "card": {
+    "kicker": "PROBLEM 2",
+    "title": "FOOD"
+   },
+   "say": "Problem two: food. A cook in the building up top makes your meals, and they ride down the elevator to you."
+  },
+  {
+   "id": "toilet",
+   "hud": "HOUR 9",
+   "clock": "17:00",
+   "view": [
+    740,
+    840,
+    3.0
+   ],
+   "card": {
+    "kicker": "PROBLEM 3",
+    "title": "BATHROOM"
+   },
+   "say": "Problem three: the bathroom. It's right there in the capsule, a few steps from the launch console."
+  },
+  {
+   "id": "msg",
+   "hud": "HOUR 20",
+   "clock": "04:00",
+   "view": [
+    600,
+    840,
+    2.6
+   ],
+   "quote": "MESSAGE INCOMING",
+   "say": "And every few hours, a coded message comes in. You check it, every single time. Because one day, it might be real."
+  }
+ ]
+}
