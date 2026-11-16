@@ -1,0 +1,22 @@
+# whitelist: text/code only — renders, audio, images stay local (paths in YT Hub)
+*
+!*/
+!.gitignore
+!*.md
+!*.json
+!*.py
+!*.sh
+!*.mjs
+!*.ts
+!*.tsx
+!*.txt
+!*.svg
+!*.csv
+# third-party clone kept for reference (own git, licence unclear); generated build dirs
+stickman-video-director/
+**/build/
+**/out/
+**/final/
+batch3/longs/
+**/.log-*
+__pycache__/

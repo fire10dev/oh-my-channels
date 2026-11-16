@@ -1,0 +1,996 @@
+[
+ {
+  "id": "s131",
+  "mascot": "pen",
+  "title": "Why a Blank Page Feels Hard",
+  "mechanism": "Cognitive load theory",
+  "lines": [
+   {
+    "vo": "You open a fresh document and stare at the blinking cursor.",
+    "text": "BLINKING CURSOR",
+    "color": "red",
+    "actor": "panic",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Starting from complete zero overwhelms your working memory with endless options.",
+    "text": "TOO MANY CHOICES",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Your brain wastes energy deciding where to begin.",
+    "text": "ENERGY DRAIN",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Lower the load. Type just one messy heading right now.",
+    "text": "ADD ONE HEADING",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Suddenly you are editing ideas instead of inventing an entire universe.",
+    "text": "FILL THE BLANKS",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Does the page still feel as intimidating once the first words exist?",
+    "text": "MOMENTUM BUILDS",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s131vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao Nhin Trang Trang Lai Ngai?",
+  "title_vi": "Sao Nhìn Trang Trắng Lại Ngại?",
+  "mechanism": "Cognitive load theory",
+  "lines": [
+   {
+    "vo": "Mở tệp làm bài nhóm rồi ngồi nhìn con trỏ nhấp nháy.",
+    "text": "CON TRO NHAP NHAY",
+    "color": "red",
+    "actor": "panic",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Trang giấy trắng tinh khiến não phải cân nhắc quá nhiều hướng đi.",
+    "text": "QUA NHIEU LUA CHON",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn chưa viết được chữ nào mà đầu óc đã thấy mệt.",
+    "text": "HAO HUT NANG LUONG",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Đừng vội viết hay. Gõ tạm một tiêu đề mục thật thô.",
+    "text": "GO MOT TIEU DE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Có khung sẵn rồi, việc điền ý sẽ nhẹ nhàng hơn rất nhiều.",
+    "text": "DIEN TUNG PHAN",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Có vài chữ trên trang rồi, bạn còn thấy nó đáng sợ nữa không?",
+    "text": "DA CO DA CHAY",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s132",
+  "mascot": "buff",
+  "title": "Make the Task Feel Smaller",
+  "mechanism": "Chunking",
+  "lines": [
+   {
+    "vo": "A thirty-page report due tomorrow. Time to panic? No.",
+    "text": "HUGE ASSIGNMENT",
+    "color": "red",
+    "actor": "panic",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Your brain chokes when a workload looks like one giant boulder.",
+    "text": "TOO HEAVY",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Chunk it. Break the beast into three small rounds.",
+    "text": "SPLIT THE LOAD",
+    "color": "green",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Introduction first. Then data. Then summary. Name each block.",
+    "text": "THREE CLEAR BLOCKS",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Stop staring at the mountain. Knock out part one now.",
+    "text": "CRUSH PART ONE",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s132vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Chia Nho Bai Thuyet Trinh",
+  "title_vi": "Chia Nhỏ Bài Thuyết Trình",
+  "mechanism": "Chunking",
+  "lines": [
+   {
+    "vo": "Mở bài thuyết trình ba mươi trang là muốn tắt máy đi ngủ.",
+    "text": "BAI QUA DAI",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Gom cả mớ việc thành một khối tạ khổng lồ chỉ làm bạn đuối thêm.",
+    "text": "KHOI TA QUA NANG",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Cắt nhỏ ra thành ba phần: mở đầu, nội dung và kết bài.",
+    "text": "CHIA BA PHAN",
+    "color": "green",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bỏ qua phần kết. Lo đúng phần mở đầu trước đã.",
+    "text": "LO PHAN MO DAU",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Xong phần một rồi hẵng tính tiếp. Làm ngay đi.",
+    "text": "VAO VIEC NGAY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s133",
+  "mascot": "pen",
+  "title": "Why Your Notes Need a Map",
+  "mechanism": "Hierarchical organization",
+  "lines": [
+   {
+    "vo": "You highlighted half the textbook yellow, but recall zero facts.",
+    "text": "HIGHLIGHTED ZERO",
+    "color": "red",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Every single bullet point looks equally loud and urgent.",
+    "text": "NO STRUCTURE",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Without a visual hierarchy, your memory treats everything as separate clutter.",
+    "text": "MEMORY OVERLOAD",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Turn the messy pile into a map.",
+    "text": "BUILD A MAP",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Nest small facts under two or three main umbrella topics.",
+    "text": "GROUP BY THEME",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Your mind recalls a branch much faster than a thousand loose leaves.",
+    "text": "CLEAR PATHWAYS",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "A neat tree is always easier to navigate than a jungle.",
+    "text": "EASIER TO FIND",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s133vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ghi Chu Can Mot Ban Do",
+  "title_vi": "Ghi Chú Cần Một Bản Đồ",
+  "mechanism": "Hierarchical organization",
+  "lines": [
+   {
+    "vo": "Cả trang đề cương tô vàng chóe, mà đầu óc vẫn trống rỗng.",
+    "text": "TO VANG TRANG GIAY",
+    "color": "red",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Dòng nào cũng bôi vàng thì chẳng có dòng nào thực sự nổi bật.",
+    "text": "VANG CA TRANG",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bộ não rất khó ghi nhớ khi mọi thứ nằm ngang hàng nhau.",
+    "text": "KHO NHO KHO TIM",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hãy tạo một bản đồ cây cho kiến thức.",
+    "text": "TAO BAN DO CAY",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Gom các chi tiết vụn về đúng ba chương chính rõ ràng.",
+    "text": "GOM VAO BA CHUONG",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Nhìn thấy cấu trúc, bạn sẽ biết ngay từng ý đang dẫn về đâu.",
+    "text": "RO CAU TRUC",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Học từ gốc ra cành luôn nhẹ đầu hơn gom từng chiếc lá.",
+    "text": "NHE DAU ON THI",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s134",
+  "mascot": "buff",
+  "title": "Stop Cramming Similar Ideas Together",
+  "mechanism": "Proactive interference",
+  "lines": [
+   {
+    "vo": "Memorized formula A, now formula B is a blur? Classic.",
+    "text": "FORMULAS BLURRED",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Old memory crashes into new facts and tangles them together.",
+    "text": "IDEAS COLLIDE",
+    "color": "red",
+    "actor": "panic",
+    "prop": "brain"
+   },
+   {
+    "vo": "You think you studied hard, but you just built confusion.",
+    "text": "ZERO CLARITY",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Rereading both pages back-to-back? Weak drill.",
+    "text": "WEAK DRILL",
+    "color": "green",
+    "actor": "front",
+    "prop": "target"
+   },
+   {
+    "vo": "Drop the book. Name the one big difference out loud.",
+    "text": "SPOT THE DIFFERENCE",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "You would not rack two different plates together. Sort them out first.",
+    "text": "SORT THEM OUT",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s134vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung Nhoi Hai Khai Niem Giong Nhau",
+  "title_vi": "Đừng Nhồi Hai Khái Niệm Giống Nhau",
+  "mechanism": "Proactive interference",
+  "lines": [
+   {
+    "vo": "Vừa thuộc công thức trước, học sang cái mới là lẫn lộn ngay.",
+    "text": "LAN LON CONG THUC",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Kiến thức cũ chưa kịp vững đã đè bẹp kiến thức mới.",
+    "text": "LAN LON KHAI NIEM",
+    "color": "red",
+    "actor": "panic",
+    "prop": "brain"
+   },
+   {
+    "vo": "Vào phòng thi là râu ông này cắm cằm bà kia ngay.",
+    "text": "RAU NAY CAM CAM KIA",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Đổi bài tập ngay. Đừng chỉ ngồi đọc đi đọc lại.",
+    "text": "DOI BAI TAP",
+    "color": "green",
+    "actor": "front",
+    "prop": "target"
+   },
+   {
+    "vo": "Gập đề cương lại. Tự nói to một điểm khác biệt mấu chốt.",
+    "text": "TIM DIEM KHAC BIET",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Phân biệt rõ tạ trước khi nâng. Bắt tay làm luôn.",
+    "text": "RO RANG ROI TINH",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s135",
+  "mascot": "pen",
+  "title": "The Benefit of a Short Break",
+  "mechanism": "Incubation effect",
+  "lines": [
+   {
+    "vo": "You have been staring at the same tough problem for an hour.",
+    "text": "STUCK ON A PROBLEM",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Pushing harder often keeps your brain circling the same old loop.",
+    "text": "SAME OLD LOOP",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Stand up. Give your conscious mind a quiet five-minute pause.",
+    "text": "STEP AWAY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "While you walk, your brain quietly untangles the knot in the background.",
+    "text": "QUIET REWIRING",
+    "color": "green",
+    "actor": "coffee",
+    "prop": "brain"
+   },
+   {
+    "vo": "Often, the answer appears the moment you stop demanding it.",
+    "text": "A FRESH VIEW",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s135vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Bi Y Tuong Thi Dung Len",
+  "title_vi": "Bí Ý Tưởng Thì Đứng Lên",
+  "mechanism": "Incubation effect",
+  "lines": [
+   {
+    "vo": "Cả nhóm ngồi nhìn bài tập cả tiếng mà không ra giải pháp.",
+    "text": "BI Y TUONG NHOM",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Càng ép não suy nghĩ, bạn càng dễ luẩn quẩn trong một hướng cũ.",
+    "text": "LUAN QUAN LOI MON",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Đứng dậy đi rót cốc nước hoặc bước ra ban công vài phút.",
+    "text": "ROI BAN VAI PHUT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Rời mắt một lát giúp đầu óc thoát khỏi lối mòn vừa nãy.",
+    "text": "NAO TU SAP XEP",
+    "color": "green",
+    "actor": "coffee",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nghỉ tay một lát, đôi khi ý tưởng sáng lại bất ngờ bật ra.",
+    "text": "BAT LEN Y TUONG",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s136",
+  "mascot": "buff",
+  "title": "When Attention Fades",
+  "mechanism": "Vigilance decrement",
+  "lines": [
+   {
+    "vo": "Reviewing slides for three hours straight? Sure, buddy.",
+    "text": "MARATHON REVIEW",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Your attention does not snap. It slowly leaks out of the tank.",
+    "text": "FOCUS DECAY",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "After forty minutes, you are just nodding at typos.",
+    "text": "MISSING ERRORS",
+    "actor": "facepalm",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Treat your review like gym sets. Twenty minutes per round.",
+    "text": "RUN SHORT SETS",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Stand up, shake out your arms, then hit the next round.",
+    "text": "QUICK RESET",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Marathons breed sloppy mistakes. Short sets catch everything. Move.",
+    "text": "WORK IN SETS",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s136vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Soat Bai Dung Ngoi Li",
+  "title_vi": "Soát Bài Đừng Ngồi Lì",
+  "mechanism": "Vigilance decrement",
+  "lines": [
+   {
+    "vo": "Ngồi lì soát bài ba tiếng liền trước giờ họp. Ừ, tin.",
+    "text": "SOAT BAI BA TIENG",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Độ tập trung không tự nhiên mất mà cạn dần từng phút một.",
+    "text": "CAN DAN SU CHU Y",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Qua nửa tiếng là mắt bạn lướt qua lỗi sai mà không biết.",
+    "text": "BO SOT LOI SAI",
+    "actor": "facepalm",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Chia thành từng hiệp ngắn: soát đúng hai mươi phút một lần.",
+    "text": "HIEP HAI MUOI PHUT",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Hết giờ thì đứng lên vươn vai rồi mới vào hiệp mới.",
+    "text": "DUNG LEN KHOI DONG",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Ngồi lì chỉ tổ sót lỗi. Chia hiệp ra mà làm.",
+    "text": "CHIA HIEP RA SOAT",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s137",
+  "mascot": "pen",
+  "title": "When an Old Solution Blocks an Easier Path",
+  "mechanism": "Einstellung effect",
+  "lines": [
+   {
+    "vo": "A tedious task appears, and your hands jump straight to old habits.",
+    "text": "AUTOPILOT TRAP",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "A familiar routine gives comfort, even when it takes twice the effort.",
+    "text": "COMFORTABLE HABIT",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Your brain clings to known answers and blinds you to better shortcuts.",
+    "text": "BLIND TO SHORTCUTS",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Pause before touching the keyboard.",
+    "text": "PAUSE FIRST",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Force yourself to name just one alternative method.",
+    "text": "FIND ANOTHER WAY",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Often, a simple formula replaces hours of mechanical clicking.",
+    "text": "SAVE YOUR HOURS",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "What repetitive chore are you still doing the hard way?",
+    "text": "A BETTER ROUTE",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s137vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Loi Mon Khien Ban Nhap Tay",
+  "title_vi": "Lối Mòn Khiến Bạn Nhập Tay",
+  "mechanism": "Einstellung effect",
+  "lines": [
+   {
+    "vo": "Ngồi còng lưng gõ tay cả trăm dòng bảng tính. Quen rồi đúng không?",
+    "text": "NHAP TAY HANG GIO",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Cách quen thuộc tạo cảm giác an toàn dù nó tốn hàng giờ.",
+    "text": "THOI QUEN CU KY",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Khi não bám vào giải pháp cũ, nó tự che mất lối đi nhanh hơn.",
+    "text": "CHUA CHIU DOI MOI",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Buông tay khỏi bàn phím đúng một phút.",
+    "text": "DUNG TAY MOT PHUT",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Tự hỏi xem có phím tắt hay hàm nào xử lý giúp không.",
+    "text": "TIM HAM TU DONG",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Một dòng công thức ngắn có thể giải phóng cả buổi tối của bạn.",
+    "text": "TIET KIEM CONG SUC",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Có việc quen thuộc nào bạn vẫn đang làm theo cách cực nhất?",
+    "text": "CO CACH TOT HON",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s138",
+  "mascot": "buff",
+  "title": "Why a Hard Question Can Help",
+  "mechanism": "Desirable difficulties",
+  "lines": [
+   {
+    "vo": "Reading notes with a highlighter feels super smooth. Too smooth.",
+    "text": "EASY FEELS GOOD",
+    "color": "red",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Passive reading is fake effort. Your brain needs real resistance to adapt.",
+    "text": "NEEDS RESISTANCE",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Desirable difficulty. You need friction to lock in strength.",
+    "text": "ADD SOME FRICTION",
+    "color": "green",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Close the textbook. Write the formula from memory on blank paper.",
+    "text": "RECALL FROM MEMORY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Struggle on paper today, or sweat on exam day. Test yourself now.",
+    "text": "TEST YOURSELF NOW",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s138vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Kho Khan Giup Nho Lau",
+  "title_vi": "Khó Khăn Giúp Nhớ Lâu",
+  "mechanism": "Desirable difficulties",
+  "lines": [
+   {
+    "vo": "Lướt đề cương gật gù tưởng thuộc hết rồi. Ừ, tin.",
+    "text": "TUONG LA THUOC HET",
+    "color": "red",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Đọc suôn mượt quá thì kiến thức chỉ trượt qua mắt mà thôi.",
+    "text": "TRUOT QUA MAT",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Muốn cơ bắp lên thì tạ phải nặng. Não cũng hệt như vậy.",
+    "text": "TA NANG MOI LEN CO",
+    "color": "green",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Gấp tài liệu lại. Tự giải thích câu hỏi trước khi xem đáp án.",
+    "text": "TRA LOI TRUOC",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Chật vật bây giờ, hoặc toát mồ hôi trong phòng thi. Gập sách làm ngay.",
+    "text": "THU SUC NGAY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s139",
+  "mascot": "pen",
+  "title": "Learn the Example, Then the Rule",
+  "mechanism": "Worked-example effect",
+  "lines": [
+   {
+    "vo": "You dive straight into complex rules and immediately feel lost.",
+    "text": "LOST IN RULES",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Abstract formulas force your brain to guess the steps from scratch.",
+    "text": "TOO ABSTRACT",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Start with a solved case instead.",
+    "text": "STUDY THE EXAMPLE",
+    "color": "green",
+    "actor": "reading",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Trace each step of the finished sample to see the pattern unfold.",
+    "text": "FOLLOW THE STEPS",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Then, solve a matching task on your own without looking back.",
+    "text": "TRY A SIMILAR ONE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Seeing the path walked first makes your own footsteps much firmer.",
+    "text": "A CLEAR TEMPLATE",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s139vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Hoc Bai Mau Truoc Khi Lam",
+  "title_vi": "Học Bài Mẫu Trước Khi Làm",
+  "mechanism": "Worked-example effect",
+  "lines": [
+   {
+    "vo": "Mở đề bài kế toán định khoản phức tạp là đầu óc quay cuồng.",
+    "text": "BAI TOAN PHUC TAP",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Đọc công thức suông khiến đầu óc phải đoán từng bước xử lý.",
+    "text": "LY THUYET ROI RAM",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Đừng vội giải ngay. Hãy tìm một bài mẫu đã giải hoàn chỉnh.",
+    "text": "XEM TRUOC BAI MAU",
+    "color": "green",
+    "actor": "reading",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Lần theo từng bước giải để hiểu xem các con số đi về đâu.",
+    "text": "DOI THEO TUNG BUOC",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Che bài mẫu lại, rồi tự làm một bài tương tự bên cạnh.",
+    "text": "TU LAM BAI MOI",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Nắm chắc khung bài mẫu giúp bạn tự tin làm bài mới.",
+    "text": "VUNG VANG TUNG BUOC",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s140",
+  "mascot": "buff",
+  "title": "Too Many Options Slow You Down",
+  "mechanism": "Hick's Law",
+  "lines": [
+   {
+    "vo": "Staring at twenty tasks on your list, frozen? Classic.",
+    "text": "FROZEN BY CHOICES",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Every extra option multiplies the time you spend hesitating.",
+    "text": "MORE CHOICES SLOW",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "You do not lack discipline. You gave your brain too many targets.",
+    "text": "TOO MANY TARGETS",
+    "actor": "arms_crossed_no",
+    "prop": "target"
+   },
+   {
+    "vo": "Drop the fat. Pick three essential tasks and hide the rest.",
+    "text": "PICK THREE ONLY",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Lock in on item number one. Do not look sideways.",
+    "text": "ATTACK NUMBER ONE",
+    "color": "green",
+    "actor": "front",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Three tasks on the board. Smash the first one right now.",
+    "text": "SMASH IT NOW",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s140vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Qua Nhieu Lua Chon Lam Cham Ban",
+  "title_vi": "Quá Nhiều Lựa Chọn Làm Chậm Bạn",
+  "mechanism": "Hick's Law",
+  "lines": [
+   {
+    "vo": "Ghi hai mươi việc vào sổ rồi ngồi đơ cả buổi. Quen lắm.",
+    "text": "NGOI DO MAT RA",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Càng nhiều lựa chọn thì thời gian do dự càng kéo dài lê thê.",
+    "text": "DO DU KEO DAI",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Không phải bạn lười, mà là mục tiêu đang đè bẹp sự chú ý.",
+    "text": "QUA NHIEU DICH NGAM",
+    "actor": "arms_crossed_no",
+    "prop": "target"
+   },
+   {
+    "vo": "Gọt bớt đi. Chọn đúng ba việc quan trọng nhất cho hôm nay.",
+    "text": "CHON DUNG BA VIEC",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Dồn toàn bộ sức vào việc đầu tiên. Không nhìn ngó lung tung.",
+    "text": "DON SUC VAO VIEC DAU",
+    "color": "green",
+    "actor": "front",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Chỉ ba việc thôi. Vào việc đầu tiên ngay.",
+    "text": "VAO HIEP NGAY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ }
+]

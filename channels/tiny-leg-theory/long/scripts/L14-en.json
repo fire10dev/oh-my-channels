@@ -1,0 +1,1010 @@
+{
+ "id": "L14",
+ "lang": "en",
+ "title": "How to Keep Going When a Subject Feels Boring",
+ "description": "Struggling with a dry textbook, mandatory class, or career pivot? Here are eight psychological mechanisms to turn dull study sessions into real progress.",
+ "chapters": [
+  {
+   "title": "Intro: The Heavy Page",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You open your textbook at night, read the exact same sentence four times, and absorb nothing.",
+     "text": "THE HEAVY PAGE",
+     "color": "red",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Whether studying for a second degree, a mandatory license, or a career pivot, dry material feels suffocating.",
+     "text": "CAREER PIVOT DREAD",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. You are attempting a max-effort lift without warming up your muscles first.",
+     "text": "COLD MAX ATTEMPT",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research highlights eight psychological mechanisms that can transform that dull slog into continuous forward momentum.",
+     "text": "EIGHT MENTAL TOOLS",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Can someone actually train their attention to stay locked in when the subject feels completely lifeless?",
+     "text": "CAN WE TRAIN FOCUS?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Because right now, my energy crashes shortly into every single evening study session.",
+     "text": "EVENING CRASH",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Every single rep counts. Lace up your sneakers; we are building your study engine right now.",
+     "text": "START THE ENGINE",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. The Spark Gap",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I keep waiting for motivation to strike before opening this dense certification manual, but nothing happens.",
+     "text": "1. THE SPARK GAP",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Waiting for passion to strike is like waiting for huge muscles while sitting on the couch.",
+     "text": "PASSION TAKES WORK",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Psychologists describe this as interest development. Real interest is never found lying around; you build it.",
+     "text": "INTEREST DEVELOPMENT",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So nobody naturally wakes up excited to memorize corporate tax law or technical compliance standards?",
+     "text": "NO NATURAL PASSION?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nobody on earth. Research suggests your brain starts in a triggered phase where only small curiosities register.",
+     "text": "TRIGGERED PHASE",
+     "color": "ink",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I sit down after an eight-hour shift, look at three hundred pages, and instantly feel overwhelmed.",
+     "text": "AFTER WORK FATIGUE",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because you demand a roaring bonfire before you even strike a single match, buddy.",
+     "text": "STRIKE A MATCH",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here is your fix. Scan the summary and find one fact that disproves an assumption you had yesterday.",
+     "text": "FIND AN ASSUMPTION",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So hunting for just one contradiction is enough to pull my tired brain out of neutral?",
+     "text": "ONE CONTRADICTION?",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spotting that one clash triggers phase one interest so your eyes stop sliding off the page.",
+     "text": "CURIOSITY UNLOCKED",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That sounds manageable, but what happens when the paragraphs turn into dry, endless reference tables?",
+     "text": "WHAT ABOUT TABLES?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then you need active bait to keep your attention locked when the material gets bone dry.",
+     "text": "BAIT THE ATTENTION",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pack your gym bag, because next we are manufacturing your own curiosity hooks from scratch.",
+     "text": "MANUFACTURE HOOKS",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "2. Curiosity Hooks",
+   "sources": [
+    "s01",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Even with a scout mission, technical paragraphs still make my eyes glaze over within two minutes.",
+     "text": "2. CURIOSITY HOOKS",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain is an efficiency machine that ruthlessly ignores flat, predictable walls of text.",
+     "text": "BRAIN IGNORES FLAT",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Educational scientists call this situational interest. It is an immediate spark triggered by novelty and tension.",
+     "text": "SITUATIONAL HOOK",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Can an electrical code handbook or corporate accounting manual ever contain an actual environmental spark?",
+     "text": "SPARKS IN DRY CODE?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You do not wait for the book to deliver it, buddy. You manufacture the hook yourself.",
+     "text": "MANUFACTURE IT",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How am I supposed to manufacture excitement out of dry regulatory definitions after working all day?",
+     "text": "HOW TO MANUFACTURE?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Turn the chapter into a crime scene. Force the material to defend why it exists at all.",
+     "text": "FORCE THE TENSION",
+     "color": "ink",
+     "actor": "34",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your fix is the failure hunt. Ask what catastrophic disaster happens if this one rule is broken.",
+     "text": "FIND THE DISASTER",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So instead of memorizing abstract regulations, I investigate what causes an expensive system failure or bridge collapse?",
+     "text": "SYSTEM FAILURE LENS",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Your attention locks on when survival, money, or catastrophic errors enter the picture.",
+     "text": "ATTENTION LOCKED",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That definitely wakes me up, but what happens when that initial surprise wears off an hour later?",
+     "text": "WHEN NOVELTY FADES?",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Situational interest gets you through the front door, but pure novelty always fades out fast.",
+     "text": "NOVELTY RUNS OUT",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "To build staying power, you must anchor this dry theory to a personal goal you actually care about.",
+     "text": "TIE TO PERSONAL GOAL",
+     "color": "ink",
+     "actor": "front",
+     "prop": "coin_stack"
+    }
+   ]
+  },
+  {
+   "title": "3. The Utility Bridge",
+   "sources": [
+    "s01",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Whenever I study for this required credential after work, a cynical voice says this will never matter.",
+     "text": "3. THE UTILITY BRIDGE",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That cynical voice is your brain actively guarding precious mental energy from perceived waste.",
+     "text": "ENERGY DEFENSE",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Motivation researchers call this utility value. It measures how useful a topic feels to your direct future.",
+     "text": "UTILITY VALUE",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How does memorizing linear algebra or corporate statutes help an adult pivoting into software engineering?",
+     "text": "WHERE IS THE VALUE?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "If your brain cannot answer that clearly, your unconscious mind will pull the plug on your focus.",
+     "text": "PULL THE PLUG",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So my boredom is just an alarm bell signaling that I see zero connection to my career?",
+     "text": "ALARM BELL RINGING",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Right on the money. You need a pre-study ritual before cracking the cover of any dry book.",
+     "text": "THE BRIDGE RITUAL",
+     "color": "gold",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Before opening the book, write one card linking today's chapter directly to a personal goal.",
+     "text": "WRITE THE BRIDGE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Like writing: this statistics chapter stops my future app from crashing under heavy traffic?",
+     "text": "REAL WORLD LINK",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tape that card beside your monitor. Utility value transforms boring chores into genuine career capital.",
+     "text": "TAPE TO MONITOR",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Seeing that index card reminds me why I am sacrificing my free evening hours for this degree.",
+     "text": "REMEMBER THE WHY",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now you have clear utility, but self-doubt can still crush your effort equation when concepts get brutal.",
+     "text": "WATCH FOR DOUBT",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Next up, we tackle the mathematical reason why hard pages make your brain freeze up entirely.",
+     "text": "THE EFFORT EQUATION",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "4. The Effort Equation",
+   "sources": [
+    "s01",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sometimes I know the chapter is critical for my new job, but the technical formulas look terrifying.",
+     "text": "4. THE EFFORT EQUATION",
+     "color": "red",
+     "actor": "panic",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That freeze happens when self-doubt crashes straight into the expectancy-value theory of motivation.",
+     "text": "EXPECTANCY THEORY",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Motivation equals the value of the outcome multiplied by your subjective belief that you can succeed.",
+     "text": "VALUE TIMES BELIEF",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So if my expected odds of passing this test feel close to zero, my motivation drops dead?",
+     "text": "ZERO EXPECTANCY",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Zero times anything is zero, buddy. Boredom is often just fear hiding behind an eye roll.",
+     "text": "FEAR IN DISGUISE",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Calling the subject boring feels a lot safer than admitting that I feel completely stupid and lost.",
+     "text": "EGO PROTECTION",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. The fix is lowering the entry hurdle so your expected success skyrockets immediately.",
+     "text": "LOWER THE HURDLE",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Copy one completed, solved example or model answer with the notes open before testing yourself.",
+     "text": "COPY MODEL ANSWER",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Walking through a completed example first proves to my nervous system that I can actually follow the logic.",
+     "text": "PROOF OF ABILITY",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Expectancy restored, value locked. Your mental gears start turning without friction or panic.",
+     "text": "EXPECTANCY RESTORED",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That takes away the intimidation, but what if the material is forced by an employer or school?",
+     "text": "MANDATORY COURSES?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Forced mandates trigger deep psychological resistance, and your brain naturally rebels against outside coercion.",
+     "text": "FORCED RESISTANCE",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Next up, we break down why compulsory curriculums make your brain feel trapped like a hostage.",
+     "text": "THE TRAPPED BRAIN",
+     "color": "ink",
+     "actor": "34",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "5. The Trapped Brain",
+   "sources": [
+    "s01",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "The worst feeling is studying a mandatory corporate compliance module or compulsory general education credit.",
+     "text": "5. THE TRAPPED BRAIN",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Human beings hate being told what to think. Your brain instinctively resists external coercion.",
+     "text": "EXTERNAL COERCION",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "This is self-determination theory. When an outside authority forces a task, your internal drive shuts down completely.",
+     "text": "AUTONOMY SHUTDOWN",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When a curriculum is imposed on me, my motivation drops right through the floor.",
+     "text": "DRIVE PLUMMETS",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You feel like a prisoner doing hard labor, so your mind daydreams as an escape hatch.",
+     "text": "DAYDREAM ESCAPE",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I regain intrinsic drive when I literally cannot change the required exam syllabus?",
+     "text": "CAN I REGAIN DRIVE?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Stop acting like a compliant test-taker. Act like a tradesperson taking high-value tools from an employer's shed.",
+     "text": "TAKE THE TOOLS",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here is your fix: the syllabus bounty. Hunt down the exact section that solves one high-stakes problem first.",
+     "text": "THE SYLLABUS BOUNTY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So mastering this mandatory compliance unit becomes my strategic choice to qualify for that senior promotion?",
+     "text": "STRATEGIC CHOICE",
+     "color": "gold",
+     "actor": "typing_focused",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now you are an owner, not a hostage. That single mental shift transforms the entire workout.",
+     "text": "OWNER NOT HOSTAGE",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Claiming personal ownership helps, but sitting through hours of rigid, linear chapters still feels suffocating.",
+     "text": "RIGID STRUCTURE",
+     "color": "ink",
+     "actor": "think",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "To make that ownership real, you need direct control over how you navigate the material.",
+     "text": "CONTROL THE PATH",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Next up, we put your hands on the steering wheel so you dictate the study terms.",
+     "text": "STEER THE WHEEL",
+     "color": "ink",
+     "actor": "celebrate",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "6. Steer the Wheel",
+   "sources": [
+    "s01",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Even when I choose to study, following an instructor's rigid chapter order makes me want to quit.",
+     "text": "6. STEER THE WHEEL",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rigid tracks feel like prison cells. Adult learners need room to steer their own learning vehicle.",
+     "text": "STEER YOUR VEHICLE",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Psychologists call this autonomy support. Having agency over your learning conditions massively increases persistence and retention.",
+     "text": "AUTONOMY SUPPORT",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does that mean I do not have to start on chapter one and read straight through?",
+     "text": "SKIP CHAPTER ONE?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are the boss of your desk. Tackle subtopics in whatever sequence grabs your interest today.",
+     "text": "CHOOSE YOUR ORDER",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What about changing my physical environment or study formats when my mental energy dips?",
+     "text": "CHANGE ENVIRONMENT?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When agency drops, fatigue spikes. You need proactive control over the conditions of every session.",
+     "text": "PROACTIVE CONTROL",
+     "color": "ink",
+     "actor": "34",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here is your fix: pick your study medium, choose which subtopic to attack first, and set your timer.",
+     "text": "THREE STUDY CHOICES",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Choosing my own entry point, medium, and time block immediately dissolves that trapped, heavy feeling.",
+     "text": "DISSOLVE THE DREAD",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Autonomy turns a forced chore into a customized challenge that you actually direct like a pro.",
+     "text": "CUSTOM CHALLENGE",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I feel in control now, but after studying for an hour, how do I know anything stuck?",
+     "text": "DID ANYTHING STICK?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Once you have agency, you need real-time proof that your mental muscles are actually gaining strength.",
+     "text": "NEED PROOF OF GAINS",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Next up, we build an instant scoreboard so your brain sees tangible progress on every single page.",
+     "text": "THE INSTANT SCORE",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "7. Progress Reps",
+   "sources": [
+    "s01",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I often stare at dense technical diagrams for an hour, but ten minutes later my mind is blank.",
+     "text": "7. PROGRESS REPS",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Passive re-reading is junk volume. You burned time without giving your brain any measurable score.",
+     "text": "JUNK VOLUME STUDY",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Learning science highlights competence feedback. Human beings crave immediate, concrete evidence of growing skill.",
+     "text": "COMPETENCE FEEDBACK",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So my boredom is really just frustration from not knowing whether I am actually learning anything?",
+     "text": "HIDDEN FRUSTRATION",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Without a clear scoreboard, your brain assumes the entire workout was a total waste.",
+     "text": "NEED A SCOREBOARD",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I get an honest scoreboard when I am self-studying late at night without a teacher?",
+     "text": "SELF-STUDY SCORE?",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You do not wait for a formal exam. Frequent low-stakes testing generates instant psychological momentum.",
+     "text": "INSTANT MOMENTUM",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here is your fix: the two-minute closed-book dump. Write three key terms from memory, then tally your score.",
+     "text": "CLOSED-BOOK DUMP",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Seeing three verified points written down proves to my brain that the last twenty minutes actually counted.",
+     "text": "TANGIBLE PROOF",
+     "color": "gold",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Competence feedback turns invisible mental effort into tangible wins that fuel your next study block.",
+     "text": "TANGIBLE WINS",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Getting quick scores builds confidence, but studying alone night after night still gets deeply isolating.",
+     "text": "ISOLATION HITS",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Solo sets get heavy fast. Humans were never meant to carry heavy loads in total isolation.",
+     "text": "SOLO SETS GET HEAVY",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Next up, we connect your desk to the wider human tribe so you never train alone.",
+     "text": "THE HUMAN FACTOR",
+     "color": "ink",
+     "actor": "front",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "8. The Human Factor",
+   "sources": [
+    "s01",
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Grinding alone at midnight for a career shift feels like serving an endless solitary confinement sentence.",
+     "text": "8. THE HUMAN FACTOR",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Isolation doubles perceived strain. Humans learn complex skills inside a tribe, not in solitary confinement.",
+     "text": "TRIBE LEARNING",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Motivation researchers call this relatedness. Connecting with peers transforms dry material into shared culture.",
+     "text": "RELATEDNESS",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What if none of my coworkers or friends are studying this specialized framework or certification?",
+     "text": "NO STUDY BUDDIES?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You do not need study buddies sitting next to you. You just need someone to receive your output.",
+     "text": "NEED A RECEIVER",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How does explaining complex concepts to an outside person keep my attention sharp?",
+     "text": "WHY EXPLAIN ALOUD?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The human brain reorganizes knowledge with ruthless clarity when preparing to teach it to someone else.",
+     "text": "ORGANIZE TO TEACH",
+     "color": "gold",
+     "actor": "34",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Record a sixty-second voice memo explaining the core concept, and send it to a friend or study forum.",
+     "text": "RECORD VOICE MEMO",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sending that audio explanation makes the dry theory feel alive and connected to the real world.",
+     "text": "CONCEPTS COME ALIVE",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Relatedness builds the training gym where you never have to carry the mental weight entirely alone.",
+     "text": "NEVER LIFT ALONE",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Having that external connection completely changes the emotional tone of my study evenings.",
+     "text": "SHIFT THE EMOTION",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Social accountability locks in your consistency when sheer willpower runs completely dry.",
+     "text": "SOCIAL LOCK-IN",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now let us bring all eight tools together into one unified game plan for your desk.",
+     "text": "THE UNIFIED PLAN",
+     "color": "ink",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Recap: The Study Engine",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Boring subjects are not a concrete wall you smash through with blind willpower.",
+     "text": "THE STUDY ENGINE",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Willpower alone is not enough. You conquer boring topics by mastering three core dimensions.",
+     "text": "THREE CORE PILLARS",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "First, ignite curiosity using interest development and situational hooks to spark your attention.",
+     "text": "1. IGNITE CURIOSITY",
+     "color": "gold",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Second, build personal purpose through utility value, high expectancy, and clear self-determination.",
+     "text": "2. BUILD PURPOSE",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Third, optimize your reps through autonomy, immediate competence feedback, and social relatedness.",
+     "text": "3. OPTIMIZE REPS",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here is your seven-day challenge: write one utility bridge card before opening your dry book every single day.",
+     "text": "SEVEN DAY CHALLENGE",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "One index card each evening to turn draining study hours into genuine career momentum.",
+     "text": "GENUINE MOMENTUM",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Treat every study session like a gym workout, tracking your reps instead of clocking empty hours.",
+     "text": "TRACK YOUR REPS",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hit subscribe, take your daily reps, and stop letting boring pages beat you.",
+     "text": "SUBSCRIBE FOR REPS",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

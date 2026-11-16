@@ -1,0 +1,1018 @@
+[
+ {
+  "id": "s61",
+  "mascot": "pen",
+  "title": "Why You Forget the Habit You Chose",
+  "mechanism": "Prospective memory (remembering to act later)",
+  "lines": [
+   {
+    "vo": "You decided to drink water at lunch. Lunch came and went.",
+    "text": "LUNCH CAME AND WENT",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "The plan was real. The moment just didn't remind you.",
+    "text": "THE PLAN WAS REAL",
+    "actor": "think"
+   },
+   {
+    "vo": "Remembering to do something later is its own kind of memory, and it slips easily.",
+    "text": "MEMORY FOR LATER",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "A busy day pulls your attention everywhere except the plan.",
+    "text": "BUSY DAY WINS",
+    "color": "red",
+    "actor": "panic",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "So put the reminder where the action happens. Bottle right on the desk.",
+    "text": "REMIND AT THE SPOT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Not in your head. In your way.",
+    "text": "IN YOUR WAY",
+    "color": "gold",
+    "actor": "34",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s61vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao ban quen thoi quen da chon",
+  "title_vi": "Vì sao bạn quên thói quen đã chọn",
+  "mechanism": "Prospective memory (remembering to act later)",
+  "lines": [
+   {
+    "vo": "Ra đến thang máy mới nhớ hộp cơm vẫn nằm trong tủ lạnh.",
+    "text": "HỘP CƠM ĐÂU RỒI?",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Tối qua bạn đã tự dặn mình kỹ lắm rồi.",
+    "text": "ĐÃ DẶN KỸ RỒI",
+    "actor": "think",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Nhớ để làm một việc lát nữa là kiểu trí nhớ rất dễ rơi rớt.",
+    "text": "NHỚ VIỆC SẮP LÀM",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Sáng ra vội vàng, đầu óc bận đủ thứ, lời dặn bị chen mất.",
+    "text": "SÁNG VỘI, QUÊN SẠCH",
+    "color": "red",
+    "actor": "panic",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Vậy thì đặt lời nhắc ngay chỗ việc cần xảy ra.",
+    "text": "NHẮC ĐÚNG CHỖ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Treo chìa khoá xe lên cửa tủ lạnh. Muốn lấy chìa thì phải mở tủ.",
+    "text": "CHÌA KHOÁ Ở TỦ LẠNH",
+    "color": "green",
+    "actor": "front",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Đầu óc không cần nhớ giỏi hơn. Chỉ cần bị chặn đúng lúc.",
+    "text": "CHẶN ĐÚNG LÚC",
+    "color": "gold",
+    "actor": "34",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s62",
+  "mascot": "buff",
+  "title": "Build a Habit That Survives Busy Days",
+  "mechanism": "Minimum viable action (a floor version for hectic days)",
+  "lines": [
+   {
+    "vo": "Busy day, so the habit takes the day off. Sure, buddy.",
+    "text": "BUSY DAY = DAY OFF?",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Skip one day and the next skip gets easier.",
+    "text": "SKIPS STACK UP",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Set a floor. The smallest rep you'd still do on your worst day.",
+    "text": "SET A FLOOR",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Ten push-ups is the plan. One push-up is the floor.",
+    "text": "1 REP STILL COUNTS",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Hit the floor today. The full set can wait for a quiet day.",
+    "text": "HIT THE FLOOR",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s62vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Thoi quen song sot qua ngay ban",
+  "title_vi": "Thói quen sống sót qua ngày bận",
+  "mechanism": "Minimum viable action (a floor version for hectic days)",
+  "lines": [
+   {
+    "vo": "Đi học thêm đến chín giờ tối, nên hôm nay nghỉ đọc sách. Ừ, tin.",
+    "text": "BẬN = ĐƯỢC NGHỈ?",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Nghỉ một hôm thì hôm sau nghỉ tiếp dễ hơn nhiều.",
+    "text": "NGHỈ 1, NGHỈ LUÔN",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Đặt mức sàn: hiệp nhỏ nhất mà ngày tệ nhất bạn vẫn làm được.",
+    "text": "ĐẶT MỨC SÀN",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Kế hoạch là ba mươi trang. Mức sàn là một trang.",
+    "text": "1 TRANG VẪN TÍNH",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "Ngày bận chỉ cần giữ nhịp, không cần phá kỷ lục.",
+    "text": "GIỮ NHỊP, KHÔNG ĐUA",
+    "actor": "sprint_start",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Tối nay một trang rồi đi ngủ. Làm xong mới tắt đèn.",
+    "text": "1 TRANG RỒI NGỦ",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s63",
+  "mascot": "pen",
+  "title": "Why Rewards Can Change the Fun",
+  "mechanism": "Overjustification effect",
+  "lines": [
+   {
+    "vo": "You used to draw for hours, just because you liked it.",
+    "text": "YOU JUST LIKED IT",
+    "actor": "writing"
+   },
+   {
+    "vo": "Then you started posting for likes. Now it feels like homework.",
+    "text": "NOW IT'S HOMEWORK",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "When a reward shows up, the reason you're doing it can quietly shift.",
+    "text": "THE REASON SHIFTS",
+    "color": "red",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "It has a name: the overjustification effect.",
+    "text": "IT HAS A NAME",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Not everything you do needs a score.",
+    "text": "NO SCORE NEEDED",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Keep one thing you do only because you enjoy it. No tracking, no posting.",
+    "text": "ONE THING, UNTRACKED",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "What did you love doing before anyone was counting?",
+    "text": "BEFORE THE COUNT",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s63vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Khi phan thuong lam mat niem vui",
+  "title_vi": "Khi phần thưởng làm mất niềm vui",
+  "mechanism": "Overjustification effect",
+  "lines": [
+   {
+    "vo": "Hồi trước bạn đọc truyện đến khuya, chỉ vì thích.",
+    "text": "ĐỌC VÌ THÍCH",
+    "actor": "reading",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Rồi bạn lập bảng: đọc xong một cuốn, tự thưởng một cốc trà sữa.",
+    "text": "1 CUỐN = 1 TRÀ SỮA",
+    "actor": "snack",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Giờ cầm sách lên, bạn nghĩ đến cốc trà sữa nhiều hơn câu chuyện.",
+    "text": "NGHĨ TỚI PHẦN THƯỞNG",
+    "color": "red",
+    "actor": "think"
+   },
+   {
+    "vo": "Phần thưởng bên ngoài dễ lấn mất lý do bên trong.",
+    "text": "THƯỞNG LẤN NIỀM VUI",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Giữ lại vài việc chỉ để vui. Không ghi chép, không đổi quà.",
+    "text": "CHỈ ĐỂ VUI",
+    "color": "green",
+    "actor": "meditating"
+   },
+   {
+    "vo": "Có những thứ hay hơn khi không ai chấm điểm, kể cả chính bạn.",
+    "text": "KHÔNG AI CHẤM ĐIỂM",
+    "color": "gold",
+    "actor": "reading",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s64",
+  "mascot": "buff",
+  "title": "One Good Workout Isn't a Free Pass",
+  "mechanism": "Self-licensing",
+  "lines": [
+   {
+    "vo": "Great workout today. So you've earned three days off. Sure, buddy.",
+    "text": "EARNED 3 DAYS OFF?",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "One good move can start to feel like permission for a bad one.",
+    "text": "GOOD = PERMISSION?",
+    "color": "red",
+    "actor": "think"
+   },
+   {
+    "vo": "It's called self-licensing. Progress turns into credit you get to spend.",
+    "text": "SELF-LICENSING",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Wrong. The workout wasn't a deposit. It was a rep.",
+    "text": "NOT A DEPOSIT",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Say it like identity: I'm someone who trains.",
+    "text": "I TRAIN. THAT'S ME.",
+    "color": "green",
+    "actor": "front"
+   },
+   {
+    "vo": "Book the next session before you leave the gym.",
+    "text": "BOOK THE NEXT SET",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Wins are fuel for the next rep, not a pass to skip it.",
+    "text": "FUEL, NOT A PASS",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Put tomorrow on the calendar now. Then go celebrate.",
+    "text": "SCHEDULE, THEN PARTY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s64vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Tap xong khong phai giay thong hanh",
+  "title_vi": "Tập xong không phải giấy thông hành",
+  "mechanism": "Self-licensing",
+  "lines": [
+   {
+    "vo": "Đi tập đủ ba buổi, thế là tự cho phép chốt đơn Shopee. Ừ, tin.",
+    "text": "TẬP XONG, CHỐT ĐƠN",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Làm được một việc tốt, đầu óc dễ coi đó là giấy phép làm điều ngược lại.",
+    "text": "VIỆC TỐT = GIẤY PHÉP?",
+    "color": "red",
+    "actor": "think"
+   },
+   {
+    "vo": "Buổi tập biến thành điểm tích luỹ, xài dần vào những thứ phá kế hoạch.",
+    "text": "TẬP ĐỂ TÍCH ĐIỂM?",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Sai. Buổi tập không phải tiền gửi. Nó là một hiệp.",
+    "text": "KHÔNG PHẢI TIỀN GỬI",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Đổi câu nói: không phải mình vừa tập, mà mình là người hay tập.",
+    "text": "MÌNH LÀ NGƯỜI HAY TẬP",
+    "color": "green",
+    "actor": "front"
+   },
+   {
+    "vo": "Rời phòng tập là ghi luôn buổi sau vào lịch.",
+    "text": "HẸN LUÔN BUỔI SAU",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Thắng một hiệp thì tập hiệp tiếp. Không đổi quà.",
+    "text": "THẮNG = TẬP TIẾP",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s65",
+  "mascot": "pen",
+  "title": "Why Your Routine Breaks on Weekends",
+  "mechanism": "Context disruption (weekday cues disappear)",
+  "lines": [
+   {
+    "vo": "Weekdays, you read right after your alarm. Saturday, no alarm, no reading.",
+    "text": "SATURDAY: NOTHING",
+    "actor": "confused_shrug",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "The habit didn't vanish. Its cue did.",
+    "text": "THE CUE VANISHED",
+    "actor": "think",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Weekday habits often lean on weekday cues: the alarm, the commute, the desk.",
+    "text": "WEEKDAY CUES ONLY",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "So give the weekend its own cue, like the first coffee, whenever it happens.",
+    "text": "A WEEKEND CUE",
+    "color": "green",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Maybe the habit was never lazy. It was waiting for an alarm that never rang.",
+    "text": "WAITING FOR AN ALARM",
+    "color": "gold",
+    "actor": "34",
+    "prop": "alarm_clock"
+   }
+  ]
+ },
+ {
+  "id": "s65vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao cuoi tuan la bo thoi quen",
+  "title_vi": "Vì sao cuối tuần là bỏ thói quen",
+  "mechanism": "Context disruption (weekday cues disappear)",
+  "lines": [
+   {
+    "vo": "Trong tuần, bạn đọc mười trang trên xe buýt đi làm. Cuối tuần, chẳng chữ nào.",
+    "text": "CUỐI TUẦN: 0 TRANG",
+    "actor": "confused_shrug",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Không có chuyến xe buýt, thói quen cũng mất chỗ bám.",
+    "text": "MẤT CHỖ BÁM",
+    "actor": "think"
+   },
+   {
+    "vo": "Thói quen ngày thường hay dựa vào tín hiệu ngày thường: báo thức, đường đi làm.",
+    "text": "TÍN HIỆU NGÀY THƯỜNG",
+    "color": "red",
+    "actor": "sleeping",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Đặt cho cuối tuần một tín hiệu riêng, như cốc cà phê đầu tiên sáng thứ bảy.",
+    "text": "TÍN HIỆU CUỐI TUẦN",
+    "color": "green",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Pha xong cà phê là mở sách. Dậy lúc mấy giờ cũng được.",
+    "text": "PHA XONG LÀ ĐỌC",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "Cuối tuần của bạn thường bắt đầu bằng việc gì?",
+    "text": "BẮT ĐẦU TỪ ĐÂU?",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s66",
+  "mascot": "buff",
+  "title": "Put a Pause Between Urge and Click",
+  "mechanism": "Response inhibition",
+  "lines": [
+   {
+    "vo": "Flash sale pops up. Your thumb is already on Buy.",
+    "text": "THUMB ON BUY",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Urge shows up. You don't owe it a rep.",
+    "text": "YOU DON'T OWE IT",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Urges run on autopilot. A short pause gives the brakes time to kick in.",
+    "text": "PAUSE = BRAKES",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Phone face down. Count to ten, slowly.",
+    "text": "FACE DOWN. COUNT 10",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Still want it after ten? Fine. Now you're choosing, not twitching.",
+    "text": "CHOOSING > TWITCHING",
+    "color": "green",
+    "actor": "34",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Next urge, you make the first move. Ten count. Go.",
+    "text": "FIRST MOVE: YOURS",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s66vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung mot nhip truoc khi bam mua",
+  "title_vi": "Dừng một nhịp trước khi bấm mua",
+  "mechanism": "Response inhibition",
+  "lines": [
+   {
+    "vo": "Thấy quảng cáo giảm nửa giá, ngón tay đã bấm mua trước khi kịp đọc.",
+    "text": "TAY NHANH HƠN NÃO",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Cơn thèm mua đến nhanh, nhưng không ai bắt bạn phải chiều nó.",
+    "text": "KHÔNG PHẢI CHIỀU",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Phản xạ chạy tự động. Một nhịp dừng ngắn cho phanh kịp ăn.",
+    "text": "DỪNG ĐỂ KỊP PHANH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Úp điện thoại xuống, đếm chậm đến mười, rồi mới xem lại giỏ hàng.",
+    "text": "ÚP MÁY, ĐẾM 10",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Đếm xong vẫn muốn thì mua. Quên luôn thì ví bạn cảm ơn.",
+    "text": "VÍ CẢM ƠN BẠN",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "coin_stack"
+   }
+  ]
+ },
+ {
+  "id": "s67",
+  "mascot": "pen",
+  "title": "Good Decision, Bad Luck",
+  "mechanism": "Outcome bias",
+  "lines": [
+   {
+    "vo": "You packed an umbrella. It didn't rain. Now it feels like a dumb call.",
+    "text": "UMBRELLA. NO RAIN.",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "We tend to grade a decision by how it turned out.",
+    "text": "GRADED BY RESULT",
+    "color": "red",
+    "actor": "think"
+   },
+   {
+    "vo": "That's outcome bias. Luck sneaks into the score.",
+    "text": "LUCK IN THE SCORE",
+    "color": "red",
+    "actor": "34",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "A good choice can still meet a bad day. A sloppy one can get lucky.",
+    "text": "GOOD CALL, BAD LUCK",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "So judge the process first: did you use what you knew at the time?",
+    "text": "JUDGE THE PROCESS",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "If yes, keep the plan. Only fix what you could have known.",
+    "text": "KEEP THE PLAN",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "The umbrella was still right. The sky just didn't play along.",
+    "text": "STILL THE RIGHT CALL",
+    "color": "gold",
+    "actor": "front",
+    "prop": "storm_cloud"
+   }
+  ]
+ },
+ {
+  "id": "s67vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Quyet dinh dung, gap ngay xui",
+  "title_vi": "Quyết định đúng, gặp ngày xui",
+  "mechanism": "Outcome bias",
+  "lines": [
+   {
+    "vo": "Đặt xe sớm hẳn nửa tiếng, vẫn kẹt xe, vẫn muộn buổi phỏng vấn.",
+    "text": "ĐI SỚM VẪN MUỘN",
+    "actor": "panic",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Tối đó bạn tự trách mãi: biết thế đã đi kiểu khác.",
+    "text": "BIẾT THẾ THÌ...",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Mình hay chấm điểm một quyết định theo kết quả của nó.",
+    "text": "CHẤM THEO KẾT QUẢ",
+    "color": "red",
+    "actor": "think"
+   },
+   {
+    "vo": "Nhưng kết quả còn dính may rủi, thứ bạn không điều khiển được.",
+    "text": "CÓ CẢ MAY RỦI",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Chọn đúng vẫn có thể gặp ngày xui. Chọn ẩu đôi khi lại gặp may.",
+    "text": "ĐÚNG MÀ VẪN XUI",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Xem lại cách chọn: lúc đó bạn đã dùng hết thông tin mình có chưa?",
+    "text": "XEM LẠI CÁCH CHỌN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Nếu rồi, cứ giữ cách làm. Chỉ sửa phần lẽ ra bạn biết trước.",
+    "text": "GIỮ CÁCH LÀM ĐÚNG",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Đi sớm vẫn là lựa chọn đúng. Hôm đó chỉ là đường không chiều bạn.",
+    "text": "VẪN LÀ LỰA CHỌN ĐÚNG",
+    "color": "gold",
+    "actor": "front",
+    "prop": "hourglass"
+   }
+  ]
+ },
+ {
+  "id": "s68",
+  "mascot": "buff",
+  "title": "Make the Next Rep Easier to Repeat",
+  "mechanism": "Self-efficacy (repeatable small wins)",
+  "lines": [
+   {
+    "vo": "Day one: a heroic hour-long workout. Days two to ten: couch.",
+    "text": "HERO DAY, THEN COUCH",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Hero sessions feel great once. Then they feel impossible to repeat.",
+    "text": "TOO HEAVY TO REPEAT",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Confidence grows from wins you actually finish. Again and again.",
+    "text": "FINISHED WINS COUNT",
+    "actor": "think",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Start with a load you could lift on a bad day.",
+    "text": "START LIGHT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Three easy sessions this week beat one legendary one.",
+    "text": "3 EASY > 1 EPIC",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Finish easy today. Add a little next week. That's the program.",
+    "text": "FINISH. THEN ADD.",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s68vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Tap vua suc de con tap tiep",
+  "title_vi": "Tập vừa sức để còn tập tiếp",
+  "mechanism": "Self-efficacy (repeatable small wins)",
+  "lines": [
+   {
+    "vo": "Buổi đầu tập liền hai tiếng, sáng hôm sau leo cầu thang không nổi.",
+    "text": "BUỔI ĐẦU: 2 TIẾNG",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Thế là nghỉ luôn cả tuần. Ừ, quyết tâm ghê.",
+    "text": "NGHỈ LUÔN CẢ TUẦN",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Tự tin không đến từ một buổi anh hùng, mà từ những lần làm xong.",
+    "text": "TỰ TIN = LÀM XONG",
+    "actor": "think",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Mỗi lần hoàn thành là thêm một bằng chứng: mình làm được.",
+    "text": "THÊM 1 BẰNG CHỨNG",
+    "actor": "front",
+    "prop": "target"
+   },
+   {
+    "vo": "Chọn mức tạ mà ngày mệt nhất vẫn nâng nổi.",
+    "text": "TẠ NHẸ, ĐỀU TAY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Ba buổi nhẹ trong tuần hơn hẳn một buổi gồng hết sức.",
+    "text": "3 NHẸ > 1 GỒNG",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Hôm nay tập nhẹ, tập cho xong. Tuần sau thêm chút tạ.",
+    "text": "XONG RỒI MỚI THÊM",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s69",
+  "mascot": "pen",
+  "title": "Why You Need a Fresh Start Monday",
+  "mechanism": "Fresh-start effect",
+  "lines": [
+   {
+    "vo": "Every Sunday night you say it: Monday, I start for real.",
+    "text": "MONDAY, FOR REAL",
+    "actor": "bed_phone_night",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "A new week, a new month, a birthday. They feel like a clean page.",
+    "text": "A CLEAN PAGE",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "That feeling can help. It puts a little distance between you and old slips.",
+    "text": "OLD SLIPS, NEW PAGE",
+    "actor": "34",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "The trap is the wait. Thursday turns into a waiting room for Monday.",
+    "text": "THURSDAY: WAITING",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "And by Monday, the energy has often gone into planning.",
+    "text": "SPENT ON PLANNING",
+    "color": "red",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Use the reset feeling, but take the first step today.",
+    "text": "FIRST STEP: TODAY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Not the big launch. One small, quiet move.",
+    "text": "ONE SMALL MOVE",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "What could you start before the calendar gives you permission?",
+    "text": "BEFORE THE CALENDAR",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s69vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao cu doi dau thang moi lam",
+  "title_vi": "Vì sao cứ đợi đầu tháng mới làm",
+  "mechanism": "Fresh-start effect",
+  "lines": [
+   {
+    "vo": "Lịch học rối tung, nhưng bạn hẹn: đầu tháng sau làm lại từ đầu.",
+    "text": "ĐẦU THÁNG SAU NHÉ",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Tuần mới, tháng mới, sinh nhật, nghe như một trang giấy trắng.",
+    "text": "TRANG GIẤY TRẮNG",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Cảm giác ấy có ích, nhưng dễ biến mấy ngày còn lại thành phòng chờ.",
+    "text": "THÀNH PHÒNG CHỜ",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Cứ tận dụng cảm giác làm lại, nhưng việc đầu tiên thì làm hôm nay.",
+    "text": "BƯỚC ĐẦU: HÔM NAY",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Tối nay chỉ cần xếp lại lịch của một môn thôi.",
+    "text": "XẾP LẠI 1 MÔN",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Đến đầu tháng, bạn đã đi trước chính mình một bước.",
+    "text": "ĐI TRƯỚC 1 BƯỚC",
+    "color": "gold",
+    "actor": "front",
+    "prop": "calendar_today"
+   }
+  ]
+ },
+ {
+  "id": "s70",
+  "mascot": "buff",
+  "title": "Stop Waiting to Feel Confident",
+  "mechanism": "Self-efficacy through mastery experiences",
+  "lines": [
+   {
+    "vo": "I'll present when I feel confident. Sure, buddy. That day isn't coming.",
+    "text": "WHEN I FEEL READY...",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Confidence doesn't show up first. It shows up after reps.",
+    "text": "REPS, THEN CONFIDENCE",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Your brain trusts evidence: things you've actually done.",
+    "text": "BRAIN WANTS PROOF",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Pick a challenge that's slightly scary. One step past easy.",
+    "text": "SLIGHTLY SCARY",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Do it. Then write down that you did it.",
+    "text": "DONE. WRITE IT DOWN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Stack enough proof and the nerves usually get quieter.",
+    "text": "PROOF STACKS UP",
+    "actor": "small_step",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Today: one small scary rep. Then log it.",
+    "text": "1 SCARY REP TODAY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s70vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung doi tu tin roi moi lam",
+  "title_vi": "Đừng đợi tự tin rồi mới làm",
+  "mechanism": "Self-efficacy through mastery experiences",
+  "lines": [
+   {
+    "vo": "Đợi tự tin rồi mới dám thuyết trình. Ừ, tin. Đợi tới lúc nào.",
+    "text": "ĐỢI TỰ TIN ĐÃ",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Tự tin không đến trước. Nó đến sau vài hiệp.",
+    "text": "TẬP TRƯỚC, TỰ TIN SAU",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Đầu óc chỉ tin bằng chứng: những gì bạn đã làm thật.",
+    "text": "CẦN BẰNG CHỨNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hiệp một: nói thử hai phút trước ba đứa bạn thân.",
+    "text": "HIỆP 1: 3 ĐỨA BẠN",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Hiệp hai: phát biểu một câu trong buổi họp nhóm lớp.",
+    "text": "HIỆP 2: NHÓM LỚP",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Xong hiệp nào, ghi lại hiệp đó.",
+    "text": "XONG LÀ GHI",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Bằng chứng chồng lên, cơn run thường bớt dần.",
+    "text": "RUN BỚT DẦN",
+    "actor": "front",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Tuần này một hiệp nhỏ. Nhắn hẹn ba đứa bạn ngay đi.",
+    "text": "HẸN NGAY HÔM NAY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "smartphone_glow"
+   }
+  ]
+ }
+]

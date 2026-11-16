@@ -1,0 +1,965 @@
+[
+ {
+  "id": "s51",
+  "mascot": "pen",
+  "title": "The Phone Check After a Good Moment",
+  "mechanism": "Attentional residue",
+  "lines": [
+   {
+    "vo": "Perfect sunset. And you're checking who viewed your story.",
+    "text": "WHO VIEWED IT?",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Part of your mind stays on the phone after you put it down.",
+    "text": "MIND STILL THERE",
+    "color": "red",
+    "actor": "think"
+   },
+   {
+    "vo": "That leftover pull is called attentional residue.",
+    "text": "ATTENTION RESIDUE",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "So you're half at the sunset, half in the comments.",
+    "text": "HALF HERE",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Take one photo, then put the phone away until it ends.",
+    "text": "ONE PHOTO, THEN AWAY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Post it later. Which moment are you actually here for?",
+    "text": "POST IT LATER",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s51vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Mai xem dien thoai, lo khoanh khac dep",
+  "title_vi": "Mải xem điện thoại, lỡ khoảnh khắc đẹp",
+  "mechanism": "Attentional residue",
+  "lines": [
+   {
+    "vo": "Ngồi cà phê với bạn, tay vẫn mở xem ai đã xem story.",
+    "text": "AI XEM STORY CHƯA?",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bạn đang kể chuyện, mình gật đầu mà chẳng nghe được gì.",
+    "text": "GẬT ĐẦU, KHÔNG NGHE",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Cất máy rồi, đầu óc vẫn còn vướng lại trong đó.",
+    "text": "ĐẦU CÒN VƯỚNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Phần chú ý còn sót lại ấy cứ kéo bạn đi nửa vời.",
+    "text": "CHÚ Ý CÒN SÓT",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Chụp một tấm, rồi úp điện thoại xuống bàn đến lúc về.",
+    "text": "CHỤP 1 TẤM, ÚP MÁY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Story tối đăng cũng được. Buổi cà phê thì chỉ có bây giờ.",
+    "text": "ĐĂNG SAU CŨNG ĐƯỢC",
+    "color": "gold",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s52",
+  "mascot": "buff",
+  "title": "Open the Scary Bill",
+  "mechanism": "Ostrich effect (avoiding unwelcome information)",
+  "lines": [
+   {
+    "vo": "Bank app notification. You swipe it away. Classic.",
+    "text": "SWIPED AWAY",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Not looking feels safer. That's the ostrich effect.",
+    "text": "OSTRICH EFFECT",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "The number doesn't shrink while you hide from it.",
+    "text": "IT DOESN'T SHRINK",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "One rep: open it, read the total, close it.",
+    "text": "OPEN. READ. CLOSE.",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Scary for ten seconds, or scary all month. Pick one.",
+    "text": "10 SECONDS OR A MONTH",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s52vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Mo cai hoa don dang so ra di",
+  "title_vi": "Mở cái hoá đơn đáng sợ ra đi",
+  "mechanism": "Ostrich effect (avoiding unwelcome information)",
+  "lines": [
+   {
+    "vo": "Tháng nóng nhất năm, tin nhắn tiền điện về. Không mở.",
+    "text": "TIỀN ĐIỆN: KHÔNG MỞ",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Sao kê ví trả sau cũng nằm im trong hộp thư.",
+    "text": "SAO KÊ ĐỂ ĐÓ",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Không nhìn thì đỡ sợ. Hiệu ứng đà điểu đấy.",
+    "text": "HIỆU ỨNG ĐÀ ĐIỂU",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Né đi thì con số vẫn y nguyên. Ừ, nó không tự bé lại.",
+    "text": "CON SỐ VẪN ĐÓ",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Một hiệp thôi: mở, đọc tổng tiền, đóng lại.",
+    "text": "MỞ. ĐỌC. ĐÓNG.",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Sợ mười giây, hay sợ cả tháng. Chọn đi.",
+    "text": "10 GIÂY HAY CẢ THÁNG",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s53",
+  "mascot": "pen",
+  "title": "Why Everyone's Highlight Reel Stings",
+  "mechanism": "Upward social comparison",
+  "lines": [
+   {
+    "vo": "Sunday night. Someone your age just bought a house.",
+    "text": "SAME AGE. A HOUSE.",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Suddenly your whole week feels small.",
+    "text": "MY WEEK FEELS SMALL",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "We tend to measure ourselves against people who seem ahead.",
+    "text": "LOOKING UP",
+    "actor": "think"
+   },
+   {
+    "vo": "That's upward comparison. And feeds mostly show the best cuts.",
+    "text": "ONLY THE BEST CUTS",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "You're comparing your whole day to their best ten seconds.",
+    "text": "YOUR DAY VS THEIR CLIP",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Try comparing yourself to you, three months ago.",
+    "text": "YOU VS PAST YOU",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Their reel is edited. Your progress just isn't posted.",
+    "text": "NOT POSTED YET",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s53vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao xem nguoi khac khoe lai thay nhoi",
+  "title_vi": "Sao xem người khác khoe lại thấy nhói",
+  "mechanism": "Upward social comparison",
+  "lines": [
+   {
+    "vo": "Bạn cùng lớp cũ vừa đăng ảnh nhận chìa khoá chung cư.",
+    "text": "BẠN CŨ ĐÃ MUA NHÀ",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Tết về, họ hàng còn nhắc thêm lần nữa cho chắc.",
+    "text": "HỌ HÀNG NHẮC LẠI",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Tự nhiên thấy mình chậm hơn cả lớp.",
+    "text": "MÌNH CHẬM QUÁ",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Mình hay nhìn lên người hơn mình rồi tự chấm điểm. Gọi là so sánh hướng lên.",
+    "text": "SO SÁNH HƯỚNG LÊN",
+    "actor": "think"
+   },
+   {
+    "vo": "Mà mạng xã hội chỉ có đoạn đẹp. Ít ai đăng lúc vất vả.",
+    "text": "CHỈ THẤY ĐOẠN ĐẸP",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Thử so mình với chính mình ba tháng trước.",
+    "text": "MÌNH VỚI MÌNH CŨ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Bạn đã đi được bao xa mà chưa kịp khoe?",
+    "text": "CHƯA KỊP KHOE",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s54",
+  "mascot": "buff",
+  "title": "Make the Phone a Tool Again",
+  "mechanism": "Goal-directed attention",
+  "lines": [
+   {
+    "vo": "Unlocked to check the weather. Forty minutes later: cat videos.",
+    "text": "WEATHER? CAT VIDEOS.",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "No job named, so the feed picks one for you.",
+    "text": "NO JOB = FEED'S JOB",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Attention follows a goal. No goal? Loudest thing wins.",
+    "text": "NO GOAL, LOUDEST WINS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Warm-up rule: say the job before you unlock.",
+    "text": "SAY THE JOB",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "'Reply to Mom.' Then do exactly that.",
+    "text": "REPLY TO MOM.",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Job done? Lock it. Set complete.",
+    "text": "DONE? LOCK IT.",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Feels dumb out loud. Works anyway.",
+    "text": "FEELS DUMB. WORKS.",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Next unlock, name the job. One rep.",
+    "text": "NAME IT. ONE REP.",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s54vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Bien dien thoai lai thanh cong cu",
+  "title_vi": "Biến điện thoại lại thành công cụ",
+  "mechanism": "Goal-directed attention",
+  "lines": [
+   {
+    "vo": "Mở máy để chuyển tiền trà sữa. Nửa tiếng sau, vẫn chưa chuyển.",
+    "text": "CHƯA CHUYỂN KHOẢN",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Không đặt việc trước, thì bảng tin chọn việc hộ bạn.",
+    "text": "BẢNG TIN CHỌN HỘ",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Chú ý đi theo mục tiêu. Không có mục tiêu, cái gì ồn thì thắng.",
+    "text": "CÁI GÌ ỒN THÌ THẮNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Khởi động: nói to việc cần làm trước khi mở khoá.",
+    "text": "NÓI VIỆC TRƯỚC",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Chuyển khoản cho Lan. Xong là tắt màn hình.",
+    "text": "CHUYỂN XONG LÀ TẮT",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Nghe hơi ngớ ngẩn. Ừ, nhưng mà được việc.",
+    "text": "NGHE NGỚ MÀ ĐƯỢC",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Lần mở máy tới, gọi tên việc. Một hiệp thôi.",
+    "text": "GỌI TÊN VIỆC",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s55",
+  "mascot": "pen",
+  "title": "The Habit That Needs a Better Cue",
+  "mechanism": "Context-dependent memory",
+  "lines": [
+   {
+    "vo": "Ten days of stretching at home. One trip, and it's gone.",
+    "text": "ONE TRIP. GONE.",
+    "actor": "shocked",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "The habit wasn't only yours. Part of it lived in that room.",
+    "text": "IT LIVED IN THAT ROOM",
+    "color": "red",
+    "actor": "think"
+   },
+   {
+    "vo": "Same mat, same lamp, same hour. The place was doing the reminding.",
+    "text": "THE PLACE WAS THE CUE",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "So pack a cue that travels: right after you brush your teeth.",
+    "text": "PACK A CUE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "What part of your day comes with you everywhere?",
+    "text": "WHAT TRAVELS WITH YOU?",
+    "color": "gold",
+    "actor": "think",
+    "prop": "alarm_clock"
+   }
+  ]
+ },
+ {
+  "id": "s55vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Thoi quen can tin hieu di theo minh",
+  "title_vi": "Thói quen cần tín hiệu đi theo mình",
+  "mechanism": "Context-dependent memory",
+  "lines": [
+   {
+    "vo": "Ở trọ tối nào cũng giãn cơ. Về quê ăn Tết là quên sạch.",
+    "text": "VỀ QUÊ LÀ QUÊN",
+    "actor": "shocked",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Không hẳn là lười. Thói quen bám vào căn phòng cũ.",
+    "text": "BÁM VÀO CĂN PHÒNG",
+    "color": "red",
+    "actor": "think"
+   },
+   {
+    "vo": "Cái thảm, cái đèn, đúng giờ ấy. Đổi chỗ là mất tín hiệu.",
+    "text": "MẤT TÍN HIỆU",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Mang tín hiệu theo người: đánh răng tối xong là giãn cơ.",
+    "text": "SAU KHI ĐÁNH RĂNG",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Thêm một lời nhắc trên điện thoại, đi đâu cũng kêu.",
+    "text": "NHẮC TRÊN ĐIỆN THOẠI",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Ở đâu bạn cũng đánh răng. Thói quen cứ thế đi theo.",
+    "text": "ĐI ĐÂU CŨNG THEO",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s56",
+  "mascot": "buff",
+  "title": "Don't Plan Tomorrow While You're Pumped",
+  "mechanism": "Hot-cold empathy gap",
+  "lines": [
+   {
+    "vo": "11 PM, fired up. Tomorrow: 5 AM run, read, cold shower.",
+    "text": "5 AM. RUN. READ.",
+    "actor": "sprint_start",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "5 AM you: hits snooze. Hard.",
+    "text": "SNOOZE. HARD.",
+    "color": "red",
+    "actor": "snooze"
+   },
+   {
+    "vo": "Pumped you can't feel how tired morning you will be.",
+    "text": "HYPE CAN'T FEEL TIRED",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "That's the hot-cold empathy gap. Hype writes, morning pays.",
+    "text": "EMPATHY GAP",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Plan for the tired version. Cut the list in half.",
+    "text": "PLAN FOR TIRED YOU",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Light plan you actually lift beats a heavy one you skip.",
+    "text": "WRITE IT LIGHT",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s56vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung len ke hoach luc dang hang",
+  "title_vi": "Đừng lên kế hoạch lúc đang hăng",
+  "mechanism": "Hot-cold empathy gap",
+  "lines": [
+   {
+    "vo": "Xem xong video truyền động lực, lên lịch: năm giờ sáng học tiếng Anh.",
+    "text": "5 GIỜ SÁNG HỌC ANH",
+    "actor": "sprint_start",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Năm giờ sáng thật: tắt báo thức, ngủ tiếp.",
+    "text": "TẮT, NGỦ TIẾP",
+    "color": "red",
+    "actor": "snooze"
+   },
+   {
+    "vo": "Lúc đang hăng, bạn không hình dung nổi sáng mai mình buồn ngủ cỡ nào.",
+    "text": "ĐANG HĂNG, QUÊN MỆT",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Người ta gọi là khoảng cách nóng lạnh.",
+    "text": "KHOẢNG CÁCH NÓNG LẠNH",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Lên lịch cho bản thân lúc mệt nhất. Cắt đôi danh sách.",
+    "text": "CẮT ĐÔI DANH SÁCH",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Mười lăm phút, sau bữa sáng. Nhẹ nhưng làm được.",
+    "text": "15 PHÚT LÀ ĐỦ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Lúc hăng thì viết, lúc mệt thì gánh. Viết cho người gánh.",
+    "text": "VIẾT CHO LÚC MỆT",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s57",
+  "mascot": "pen",
+  "title": "Why You Do What Your Friends Do",
+  "mechanism": "Descriptive social norms",
+  "lines": [
+   {
+    "vo": "New roommate studies every night. Weirdly, now you do too.",
+    "text": "NOW YOU STUDY TOO?",
+    "actor": "reading",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Nobody asked you. Nobody judged you.",
+    "text": "NOBODY ASKED",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "We quietly copy what looks normal around us.",
+    "text": "WE COPY NORMAL",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "It works the other way too. Everyone scrolls, you scroll.",
+    "text": "IT WORKS BOTH WAYS",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Part of your routine is borrowed from the room.",
+    "text": "BORROWED ROUTINE",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "So borrow on purpose. Sit near people who do the thing.",
+    "text": "SIT NEAR THE DOERS",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "A library seat, a running group, a friend who cooks.",
+    "text": "LIBRARY. RUN CLUB.",
+    "color": "green",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Whose normal are you borrowing this week?",
+    "text": "WHOSE NORMAL?",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s57vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao ban be lam gi minh lam nay",
+  "title_vi": "Sao bạn bè làm gì mình làm nấy",
+  "mechanism": "Descriptive social norms",
+  "lines": [
+   {
+    "vo": "Cả nhóm chiều nào cũng trà sữa. Bạn cũng thế, dù chẳng định.",
+    "text": "CHIỀU NÀO CŨNG TRÀ SỮA",
+    "actor": "snack",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Chuyển trọ, bạn cùng phòng tối nào cũng ngồi học.",
+    "text": "NÓ HỌC, MÌNH HỌC",
+    "actor": "reading",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Chẳng ai ép. Vậy mà mình cũng lôi sách ra.",
+    "text": "CHẲNG AI ÉP",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Mình hay làm theo điều có vẻ bình thường quanh mình.",
+    "text": "THEO CÁI BÌNH THƯỜNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Thói quen của bạn một phần là mượn từ người bên cạnh.",
+    "text": "THÓI QUEN ĐI MƯỢN",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Vậy thì mượn có chủ đích: ngồi gần người đang làm điều bạn muốn.",
+    "text": "NGỒI GẦN NGƯỜI LÀM",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Thư viện buổi tối, nhóm chạy bộ công viên, đứa bạn hay nấu cơm.",
+    "text": "THƯ VIỆN, NHÓM CHẠY",
+    "color": "green",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Chơi với ai thì sống theo nhịp người đó. Chọn chỗ ngồi cũng là chọn nhịp.",
+    "text": "CHỌN CHỖ = CHỌN NHỊP",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s58",
+  "mascot": "buff",
+  "title": "Pair the Boring Set With a Treat",
+  "mechanism": "Temptation bundling",
+  "lines": [
+   {
+    "vo": "You hate the treadmill. You love that podcast. Interesting.",
+    "text": "HATE IT. LOVE THAT.",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Lock them together. That podcast only plays on the treadmill.",
+    "text": "TREAT ONLY ON TASK",
+    "color": "green",
+    "actor": "jogging"
+   },
+   {
+    "vo": "That's temptation bundling. The fun drags the boring along.",
+    "text": "TEMPTATION BUNDLE",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Listen anywhere else? Deal's broken. No cheating.",
+    "text": "NO CHEATING",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Pick one boring set. Pair it tonight.",
+    "text": "PAIR ONE TONIGHT",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s58vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Ghep viec chan voi thu minh thich",
+  "title_vi": "Ghép việc chán với thứ mình thích",
+  "mechanism": "Temptation bundling",
+  "lines": [
+   {
+    "vo": "Gấp quần áo thì chán. Phim bộ đang đến tập hay. Ghép lại.",
+    "text": "CHÁN + HAY = GHÉP",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Luật: tập mới chỉ được xem khi đang gấp đồ hoặc rửa bát.",
+    "text": "CHỈ XEM KHI RỬA BÁT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Cái thích kéo cái chán đi cùng. Gọi là gói cám dỗ.",
+    "text": "GÓI CÁM DỖ",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Lén xem trên giường là phạm luật. Cấm.",
+    "text": "XEM LÉN LÀ PHẠM LUẬT",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Đi bộ thì mới được nghe chương trình yêu thích. Cùng một luật.",
+    "text": "ĐI BỘ MỚI ĐƯỢC NGHE",
+    "color": "green",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Chọn một hiệp chán. Ghép ngay tối nay.",
+    "text": "GHÉP NGAY TỐI NAY",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s59",
+  "mascot": "pen",
+  "title": "The Habit You Only Do When Inspired",
+  "mechanism": "Context stability",
+  "lines": [
+   {
+    "vo": "'I'll read at 8 every night.' Then your class times change.",
+    "text": "READ AT 8. RIGHT?",
+    "actor": "reading",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Some nights 8 is the bus. Some nights it's dinner.",
+    "text": "8 PM KEEPS MOVING",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Habits settle in when the cue shows up the same way each day.",
+    "text": "SAME CUE, EVERY DAY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "A clock time isn't stable if your days aren't.",
+    "text": "THE CLOCK MOVES",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "But some things always happen. You get home. You lie down.",
+    "text": "THESE ALWAYS HAPPEN",
+    "actor": "snack"
+   },
+   {
+    "vo": "Anchor to that. After I lie down, two pages.",
+    "text": "IN BED: 2 PAGES",
+    "color": "green",
+    "actor": "reading",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "The hour keeps changing. Lying down never skips a night.",
+    "text": "BED NEVER SKIPS",
+    "color": "gold",
+    "actor": "sleeping"
+   }
+  ]
+ },
+ {
+  "id": "s59vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Gan thoi quen vao viec ngay nao cung co",
+  "title_vi": "Gắn thói quen vào việc ngày nào cũng có",
+  "mechanism": "Context stability",
+  "lines": [
+   {
+    "vo": "Định tám giờ tối đọc sách. Nhưng lịch tín chỉ mỗi hôm một kiểu.",
+    "text": "8 GIỜ ĐỌC SÁCH?",
+    "actor": "reading",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Thứ Hai tám giờ còn kẹt xe, thứ Tư tám giờ mới ăn cơm.",
+    "text": "8 GIỜ: KẸT XE",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Thói quen dễ đứng vững khi tín hiệu đến giống nhau mỗi ngày.",
+    "text": "TÍN HIỆU ỔN ĐỊNH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Lịch không ổn định thì giờ đồng hồ cũng chẳng giữ được.",
+    "text": "ĐỒNG HỒ KHÔNG GIỮ",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Nhưng ngày nào cũng có lúc tắm xong, lúc leo lên giường.",
+    "text": "NGÀY NÀO CŨNG TẮM",
+    "actor": "coffee"
+   },
+   {
+    "vo": "Gắn vào đó: tắm xong là đọc hai trang.",
+    "text": "TẮM XONG: 2 TRANG",
+    "color": "green",
+    "actor": "reading",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Ngày của bạn có việc gì không bao giờ vắng mặt?",
+    "text": "VIỆC NÀO LUÔN CÓ?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s60",
+  "mascot": "buff",
+  "title": "Make the Bad Habit Inconvenient",
+  "mechanism": "Response cost",
+  "lines": [
+   {
+    "vo": "Bored at midnight. Two taps. Package on the way.",
+    "text": "TWO TAPS. ORDERED.",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Zero friction means the impulse does the whole rep alone.",
+    "text": "ZERO FRICTION",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "That's response cost. Add effort, and the urge often quits first.",
+    "text": "ADD A SPEED BUMP",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Log out. Delete the saved card. Bury the app in a folder.",
+    "text": "LOG OUT. UNSAVE CARD.",
+    "color": "green",
+    "actor": "arms_crossed_no",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Still want it tomorrow? Fine. Buy it then.",
+    "text": "STILL WANT IT? OK.",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Make it annoying. Annoying beats sorry.",
+    "text": "ANNOYING BEATS SORRY",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s60vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Lam thoi quen xau phien phuc hon",
+  "title_vi": "Làm thói quen xấu phiền phức hơn",
+  "mechanism": "Response cost",
+  "lines": [
+   {
+    "vo": "Mười hai giờ đêm, buồn buồn, lướt Shopee. Hai chạm là đặt.",
+    "text": "2 CHẠM LÀ ĐẶT",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Sáng ra người giao hàng gọi, chẳng nhớ mình mua gì.",
+    "text": "MUA GÌ VẬY TRỜI",
+    "actor": "facepalm",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Càng dễ càng mua theo đà. Thêm bước, cơn thèm hay hụt hơi.",
+    "text": "THÊM BƯỚC, BỚT MUA",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Đăng xuất. Xoá thẻ đã lưu. Giấu ứng dụng vào thư mục cuối.",
+    "text": "ĐĂNG XUẤT, XOÁ THẺ",
+    "color": "green",
+    "actor": "arms_crossed_no",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Mai vẫn muốn thì mua. Phiền một chút, đỡ tiếc cả tháng.",
+    "text": "PHIỀN CHÚT, ĐỠ TIẾC",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "coin_stack"
+   }
+  ]
+ }
+]

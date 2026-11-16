@@ -1,0 +1,1036 @@
+You are the head writer of "Lý Thuyết Chân Que", the Vietnamese sister channel of "Tiny Leg Theory" (hand-drawn stickman psychology explainers, viewers 18-30 in Vietnam). Below is the approved ENGLISH long-form script (JSON) and the Vietnamese Shorts on the same mechanisms. Write the VIETNAMESE long-form version.
+
+This is a REWRITE, not a translation: keep the same chapters, mechanisms, order and structure, but re-localise every scene and example for Vietnamese daily life (Zalo, nhóm lớp, sếp, đồng nghiệp, mẹ gọi, Shopee, xe buýt, quán cà phê, đi làm thêm...). Natural spoken Vietnamese, not stiff or translated. Pen and Buff call each other "Pen" and "Buff"; with the viewer use "bạn". Pen: trầm, quan sát cảm giác, được hỏi. Buff: câu ngắn, hơi cà khịa, ẩn dụ phòng gym (hiệp, khởi động, hít đất), không kết chương bằng câu hỏi.
+
+ACCURACY: no statistics, percentages, years, study details or researcher names. Mechanism names may stay in Vietnamese with the English term only in the description, never in the voice-over. No medical/therapy advice.
+
+TTS (Vietnamese TTS reads "vo"): every "vo" line <= 25 syllables (âm tiết), plain spoken Vietnamese, NO English words, NO abbreviations, NO digits (write numbers as words), no symbols.
+
+ON-SCREEN "text": UPPERCASE Vietnamese with diacritics, <= 22 characters, punctuation only . , ! ? ' " > = : - . First line of each chapter is the chapter card (e.g. "3. CHẤM ĐỎ NHỎ XÍU").
+"color", "actor", "prop": same allowed values as in the English JSON; you may change them to fit the new scene.
+
+Total voice-over about the same length as the English (similar number of lines per chapter).
+
+OUTPUT ONLY one JSON object, no prose, no code fence, same schema as the English JSON, with "id": "<ID>vi", "lang": "vi", Vietnamese "title" (<= 70 chars) and "description".
+
+ID: L3
+
+## ENGLISH SCRIPT
+
+{
+ "id": "L3",
+ "lang": "en",
+ "title": "Habits That Actually Stick: Build Routines for Real Life",
+ "description": "Habits are easier to repeat when they have a clear cue, fit your real environment, and still feel doable on a busy day. Pen and Buff break down practical ways to build routines that can survive missed days, changing schedules, and fading motivation.",
+ "chapters": [
+  {
+   "title": "Intro",
+   "sources": [
+    "s15",
+    "s16",
+    "s62"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You buy a notebook for your new reading habit, then find it untouched under a pile of mail.",
+     "text": "NEW HABIT, GONE?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You do not need a personality transplant. You need a routine designed for the person you are on ordinary days.",
+     "text": "BUILD FOR REAL LIFE",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The exciting version of me makes a big plan. The regular version gets home tired and forgets it.",
+     "text": "THE ORDINARY DAY",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "We will look at nine reasons habits disappear, and the small adjustments that make them easier to repeat.",
+     "text": "NINE USEFUL FIXES",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Maybe consistency is not a personality trait. Maybe it is what happens when the next step is easier to find.",
+     "text": "MAKE THE NEXT STEP",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Let’s give the habit a home, a cue, and a version that still fits when life gets busy.",
+     "text": "START WITH A CUE",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "1. GIVE IT A CUE",
+   "sources": [
+    "s15",
+    "s16",
+    "s61"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "1. GIVE IT A CUE",
+     "text": "1. GIVE IT A CUE",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I decide to read more, but the day fills up before I remember the book exists.",
+     "text": "THE DAY FILLS UP",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A habit often starts more easily when a specific moment reminds you to begin.",
+     "text": "CUES START HABITS",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I keep telling myself to remember, as if tomorrow’s busy brain will suddenly become an excellent assistant.",
+     "text": "MEMORY GETS BUSY",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A clear signal can help more than a vague promise. Give the action a place in your routine.",
+     "text": "MAKE IT SPECIFIC",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "After my first coffee, I could read one page at the kitchen table. That feels almost too small.",
+     "text": "AFTER MY COFFEE",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Good. That is an if-then plan: if coffee is finished, then book opens. The cue helps decide.",
+     "text": "IF COFFEE, THEN READ",
+     "color": "gold",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I could also put the book beside the mug, so the plan is visible before the morning gets loud.",
+     "text": "BOOK BY THE MUG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use an event that already happens, not an ideal hour that changes every week. Specific beats inspired.",
+     "text": "ANCHOR TO ROUTINE",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then the question is not whether I will feel motivated. It is what moment will carry the first page.",
+     "text": "FIND YOUR MOMENT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Next, we will make that moment easy to notice, even when the room, schedule, or weekend changes.",
+     "text": "MAKE IT VISIBLE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "2. PUT IT IN SIGHT",
+   "sources": [
+    "s18",
+    "s55",
+    "s59",
+    "s65"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "2. PUT IT IN SIGHT",
+     "text": "2. PUT IT IN SIGHT",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My stretching mat sits in the closet. At home, I forget it. On a trip, the routine vanishes.",
+     "text": "THE MAT DISAPPEARS",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The room, object, and usual sequence can all help remind you what to do.",
+     "text": "CONTEXT CAN REMIND",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It is a little humbling to realize the lamp and mat were doing some of the remembering for me.",
+     "text": "THE ROOM HELPS",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Make the useful thing visible. Shoes by the door, book on the pillow, bottle on the desk.",
+     "text": "PUT IT IN SIGHT",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "But if I depend on one room or one exact hour, what happens when the normal routine changes?",
+     "text": "WHEN THE CUE CHANGES",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Choose a cue that travels with you. Brushing your teeth, arriving home, or your first meal may work.",
+     "text": "PICK A TRAVEL CUE",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The clock time shifts on my changing days, but lying down still happens. Two pages could follow that.",
+     "text": "AFTER I LIE DOWN",
+     "color": "green",
+     "actor": "bed_phone_night",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Weekends need their own signals, too. If the weekday alarm disappears, attach reading to weekend coffee.",
+     "text": "WEEKENDS NEED CUES",
+     "color": "gold",
+     "actor": "coffee",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can make the cue obvious and flexible, instead of blaming myself when the old setting is gone.",
+     "text": "FLEX THE ROUTINE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A visible cue helps you start. Next, we will shape the task so starting does not require a heroic mood.",
+     "text": "LOWER THE START COST",
+     "color": "gold",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "3. MAKE STARTING EASY",
+   "sources": [
+    "s56",
+    "s58",
+    "s60",
+    "s66"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "3. MAKE STARTING EASY",
+     "text": "3. MAKE STARTING EASY",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "At night, I plan a perfect morning: a run, a long reading session, and every chore I have avoided.",
+     "text": "THE MIDNIGHT PLAN",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then morning arrives with a different energy. That gap between your excited and tired selves is real.",
+     "text": "MORNING IS DIFFERENT",
+     "color": "gold",
+     "actor": "snooze",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The plan looked easy when I was rested and imagining it. It feels enormous when the alarm rings.",
+     "text": "THE SET FEELS HEAVY",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Plan for the version who has to do it. Cut the list, and make the first step almost laughably clear.",
+     "text": "CUT THE LIST",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I dislike the treadmill, but I love a certain podcast. Maybe I can save it for my walk.",
+     "text": "SAVE THE PODCAST",
+     "color": "ink",
+     "actor": "think",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is temptation bundling: pair a useful task with a treat you already enjoy. One can help pull you toward the other.",
+     "text": "PAIR WORK AND FUN",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And when the task is one tap away, I often start before I have thought it through.",
+     "text": "ONE TAP AWAY",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Add a little friction to unwanted habits. Log out, remove the saved card, or move the app off your home screen.",
+     "text": "ADD A SMALL SPEED BUMP",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "For an urge that still shows up, I could put the phone down and count slowly before choosing.",
+     "text": "PAUSE BEFORE CHOOSING",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Make good actions convenient and impulsive ones less automatic. Next, let’s make progress visible without chasing perfection.",
+     "text": "TRACK THE REPS",
+     "color": "gold",
+     "actor": "dumbbell",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "4. COUNT SMALL REPS",
+   "sources": [
+    "s30",
+    "s63",
+    "s67"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "4. COUNT SMALL REPS",
+     "text": "4. COUNT SMALL REPS",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A finished page feels better than a distant promise to finish a whole book someday.",
+     "text": "ONE PAGE COUNTS",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is progress monitoring. A small record helps you see that your effort is adding up.",
+     "text": "MAKE PROGRESS VISIBLE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I could track pages read or walks taken, the things I can actually do today.",
+     "text": "TRACK WHAT YOU DO",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Keep the measure close to your control. The finish line may be far away, but today’s rep is right here.",
+     "text": "TODAY'S REP IS CLOSE",
+     "color": "gold",
+     "actor": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Still, if I score everything, a hobby can start to feel like another assignment.",
+     "text": "WHEN FUN GETS SCORED",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For some people, outside rewards can shift attention away from the enjoyment that began the activity.",
+     "text": "KEEP SOME THINGS PLAYFUL",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Maybe I can keep one part of drawing private, with no posts, likes, or daily tally attached.",
+     "text": "MAKE ROOM FOR PLAY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Also, do not grade a sensible choice only by what happened afterward. Weather and luck get a vote.",
+     "text": "JUDGE THE PROCESS",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If my plan made sense with what I knew, one awkward result does not prove the habit was foolish.",
+     "text": "ONE RESULT ISN'T ALL",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Track the action, keep some joy unscored, and learn from the process. Next, we’ll deal with missed days.",
+     "text": "KEEP THE THREAD",
+     "color": "gold",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "5. RETURN AFTER A MISS",
+   "sources": [
+    "s17",
+    "s62",
+    "s64",
+    "s69"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "5. RETURN AFTER A MISS",
+     "text": "5. RETURN AFTER A MISS",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I miss one workout, see the broken streak, and somehow decide the whole routine is over.",
+     "text": "THE STREAK IS BROKEN",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Habits often grow through repeated practice in familiar situations. One missed day does not erase earlier reps.",
+     "text": "ONE MISS DOESN'T ERASE",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The next cue is a better place to restart than waiting for Monday to announce a fresh beginning.",
+     "text": "RETURN AT THE NEXT CUE",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Set a floor for busy days. If the full session is too much, choose the smallest honest version you can do.",
+     "text": "SET A SMALL FLOOR",
+     "color": "green",
+     "actor": "dumbbell",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My full plan might be ten push-ups, but one still keeps the movement in my day.",
+     "text": "ONE REP STILL COUNTS",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "And do not treat a good session like credit to spend on skipping the next one. It is simply one rep.",
+     "text": "A WIN IS ONE REP",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can book the next session while I feel pleased, then let that appointment carry the routine forward.",
+     "text": "BOOK THE NEXT SESSION",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A fresh start can help, but you do not need a new week to take one small step today.",
+     "text": "START BEFORE MONDAY",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The useful question is not whether I slipped. It is whether I can find the next workable cue.",
+     "text": "FIND THE NEXT CUE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Miss, return, repeat. Next we’ll build a routine that fits the people and distractions in your life.",
+     "text": "MAKE IT FIT YOUR WORLD",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "6. BORROW GOOD NORMAL",
+   "sources": [
+    "s57",
+    "s54",
+    "s61"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "6. BORROW GOOD NORMAL",
+     "text": "6. BORROW GOOD NORMAL",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My roommate studies most evenings. Without anyone asking, I find myself opening my notes nearby.",
+     "text": "THE ROOM SETS A TONE",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "We often copy what seems normal around us. The people nearby can make a behavior feel easier to begin.",
+     "text": "PEOPLE SHAPE ROUTINES",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That influence runs both ways. If everyone scrolls after dinner, scrolling starts to feel like the default.",
+     "text": "DEFAULTS SPREAD",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Borrow on purpose. Sit beside someone who reads, cook with a friend, or join a group that walks.",
+     "text": "CHOOSE YOUR COMPANY",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My own attention is another environment. I unlock my phone for weather and emerge much later.",
+     "text": "THE PHONE PICKS A JOB",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Before you unlock, name the job. Reply to your friend, check the forecast, then close the app.",
+     "text": "NAME THE JOB FIRST",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The reminder also needs to meet me where I act. A bottle on my desk beats a plan buried in my head.",
+     "text": "PUT IT WHERE YOU ACT",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your surroundings can cue, distract, and normalize. Set up the room and phone to support the action.",
+     "text": "SET UP YOUR SPACE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That makes me wonder how to choose a habit I can trust myself to repeat, even when confidence is low.",
+     "text": "TRUST COMES FROM REPS",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Start with something finishable. Next, we’ll build confidence from repeated evidence, not big promises.",
+     "text": "FINISHABLE REPS FIRST",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "7. BUILD PROOF, NOT HYPE",
+   "sources": [
+    "s68",
+    "s70",
+    "s72",
+    "s71"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "7. BUILD PROOF, NOT HYPE",
+     "text": "7. BUILD PROOF, NOT HYPE",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My first workout is an hour long. It feels amazing, then I avoid the next one for days.",
+     "text": "THE HERO SESSION",
+     "color": "ink",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A heroic session is hard to repeat. Confidence can grow from small actions you complete again.",
+     "text": "REPEATABLE BUILDS TRUST",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Three easy walks this week might give me more proof than one legendary walk followed by a slump.",
+     "text": "EASY SETS ADD UP",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Choose a challenge just beyond easy, then write down that you did it. Let the evidence accumulate.",
+     "text": "LOG WHAT YOU FINISH",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I could practice one weak part of my presentation instead of demanding that I feel confident first.",
+     "text": "PRACTICE ONE PART",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is a mastery goal: improve a skill with deliberate reps. A score can come later.",
+     "text": "PRACTICE BEFORE SCORE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And if I made a first draft, I can still revise it. The hours I spent do not make every sentence untouchable.",
+     "text": "LET VERSION ONE CHANGE",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Treat the draft as a working object, not a portrait of you. Feedback can help the next rep.",
+     "text": "THE WORK CAN CHANGE",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Small practice sounds less dramatic, but it gives me something real to repeat tomorrow.",
+     "text": "REAL PROOF, REPEATED",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Put the cue, easy start, and next rep on one simple plan. Then use it for seven days.",
+     "text": "MAKE YOUR SEVEN DAY PLAN",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Recap",
+   "sources": [
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s30",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "First, give the habit a cue and a place. Make the signal visible, stable enough, and easy to carry into your real day.",
+     "text": "CUE, PLACE, ROUTINE",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Second, lower the starting cost. Use a small floor, pair a task with a treat, and add friction where impulses rush in.",
+     "text": "MAKE THE REP EASIER",
+     "color": "gold",
+     "actor": "dumbbell",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Third, build proof through repeatable practice. Track what you control, return after a miss, and keep some joy unscored.",
+     "text": "PROOF BUILDS ROUTINES",
+     "color": "gold",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For seven days, choose one habit, one cue, and a floor version you can do on a busy day.",
+     "text": "SEVEN DAY MINI CHALLENGE",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Write the plan as: after this familiar moment, I will do this smallest useful action.",
+     "text": "WRITE YOUR IF THEN",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Put one reminder where the action happens, then mark each rep. A missed day is a chance to return.",
+     "text": "CUE IT, THEN RETURN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "At the end of the week, notice what helped and adjust one thing. You are learning your own routine.",
+     "text": "NOTICE WHAT WORKS",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiny reps count. If you want more clear psychology for everyday life, subscribe to Tiny Leg Theory.",
+     "text": "SUBSCRIBE FOR MORE",
+     "color": "green",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}
+## VIETNAMESE SHORTS
+
+# L3 Habits That Actually Stick
+
+### s15vi [pen] Thoi quen moi bien mat — cue-dependent habits
+- Mục tiêu năm nay: đọc sách nhiều hơn.
+- Hai tuần sau, mất tiêu.
+- Thói quen cần một tín hiệu, một chỗ để sống.
+- Gắn nó vào việc bạn vẫn làm mỗi ngày.
+- Uống xong ly cà phê sáng, đọc một trang.
+- Thói quen của bạn sẽ gắn vào đâu?
+
+### s16vi [buff] Ke hoach neu thi — implementation intentions
+- Tôi sẽ tập nhiều hơn? Đó là ước, chưa phải kế hoạch.
+- Chốt kiểu: nếu, thì.
+- Nếu gập máy tính, thì xỏ giày.
+- Tín hiệu quyết giùm bạn luôn.
+- Càng rõ ràng, càng đỡ lười.
+- Viết câu nếu thì của bạn dưới bình luận. Tôi đọc hết.
+
+### s17vi [pen] Lo mot ngay khong phai lam lai — habits build with repetition
+- Lỡ một ngày? Chuỗi đứt rồi.
+- Thế là bỏ luôn cả kế hoạch.
+- Thói quen hình thành nhờ lặp lại trong cùng hoàn cảnh, không cần chuỗi hoàn hảo.
+- Một ngày lỡ không xoá những ngày kia.
+- Cứ quay lại ở tín hiệu tiếp theo.
+- Hôm nay bạn bắt đầu lại thói quen nào?
+
+### s18vi [buff] Khong thay la quen — salience and environmental cues
+- Tạ của bạn đang ngủ dưới gầm giường. Chiến lược hay đó.
+- Giờ não phải nhớ tới hai lần.
+- Mắt không thấy, não dễ quên.
+- Để đồ tốt ở chỗ đi ngang là vấp.
+- Sách trên gối. Giày cạnh cửa.
+- Đi, để một món ngay trước mắt. Bây giờ.
+
+### s30vi [buff] Chien thang nho xiu — progress monitoring, goal gradient
+- Tích được một ô, thấy có đà ngay.
+- Não mê bằng chứng là mình đang tiến lên.
+- Mục tiêu xa quá, ngày nào cũng chẳng thấy gì.
+- Vậy thì đếm từng hiệp nhỏ bạn tự làm được.
+- Số trang đã đọc. Số buổi đi bộ. Không chỉ vạch đích.
+- Chọn một việc nhỏ. Tuần này đếm nó.
+
+### s54vi [buff] Bien dien thoai lai thanh cong cu — Goal-directed attention
+- Mở máy để chuyển tiền trà sữa. Nửa tiếng sau, vẫn chưa chuyển.
+- Không đặt việc cần làm, bảng tin sẽ chọn hộ bạn.
+- Chú ý đi theo mục tiêu. Không có mục tiêu, thứ nổi bật nhất sẽ kéo bạn đi.
+- Khởi động: nói to việc cần làm trước khi mở khoá.
+- Chuyển khoản cho Lan. Xong là tắt màn hình.
+- Nghe hơi ngớ ngẩn. Ừ, nhưng mà được việc.
+- Lần mở máy tới, gọi tên việc. Một hiệp thôi.
+
+### s55vi [pen] Thoi quen can tin hieu di theo minh — Context-dependent memory
+- Ở trọ tối nào cũng giãn cơ. Về quê ăn Tết là quên sạch.
+- Không hẳn là lười. Thói quen bám vào căn phòng cũ.
+- Cái thảm, cái đèn, đúng giờ ấy. Đổi chỗ là mất tín hiệu.
+- Mang tín hiệu theo người: đánh răng tối xong là giãn cơ.
+- Đặt lời nhắc trên điện thoại thì đi đâu cũng có tín hiệu.
+- Ở đâu bạn cũng đánh răng. Thói quen cứ thế đi theo.
+
+### s56vi [buff] Dung len ke hoach luc dang hang — Hot-cold empathy gap
+- Xem xong video truyền động lực, lên lịch: năm giờ sáng học tiếng Anh.
+- Năm giờ sáng thật: tắt báo thức, ngủ tiếp.
+- Lúc đang hăng, bạn không hình dung nổi sáng mai mình buồn ngủ cỡ nào.
+- Người ta gọi là khoảng cách nóng lạnh.
+- Lên lịch cho bản thân lúc mệt nhất. Cắt đôi danh sách.
+- Mười lăm phút, sau bữa sáng. Nhẹ nhưng làm được.
+- Lúc hăng thì viết, lúc mệt thì gánh. Viết cho người gánh.
+
+### s57vi [pen] Sao ban be lam gi minh lam nay — Descriptive social norms
+- Cả nhóm chiều nào cũng trà sữa. Bạn cũng thế, dù chẳng định.
+- Chuyển trọ, bạn cùng phòng tối nào cũng ngồi học.
+- Chẳng ai ép. Vậy mà mình cũng lôi sách ra.
+- Mình hay làm theo điều có vẻ bình thường quanh mình.
+- Thói quen của bạn một phần là mượn từ người bên cạnh.
+- Vậy thì mượn có chủ đích: ngồi gần người đang làm điều bạn muốn.
+- Thư viện buổi tối, nhóm chạy bộ công viên, đứa bạn hay nấu cơm.
+- Chơi với ai cũng có thể ảnh hưởng nhịp sống của bạn. Chọn chỗ ngồi cũng là chọn nhịp.
+
+### s58vi [buff] Ghep viec chan voi thu minh thich — Temptation bundling
+- Gấp quần áo thì chán. Phim bộ đang đến tập hay. Ghép lại.
+- Luật: tập mới chỉ được xem khi đang gấp đồ hoặc rửa bát.
+- Cái mình thích kéo việc mình ngại làm đi cùng. Cách này gọi là ghép đôi cám dỗ.
+- Lén xem trên giường là phạm luật. Cấm.
+- Đi bộ thì mới được nghe chương trình yêu thích. Cùng một luật.
+- Chọn một hiệp chán. Ghép ngay tối nay.
+
+### s59vi [pen] Gan thoi quen vao viec ngay nao cung co — Context stability
+- Định tám giờ tối đọc sách. Nhưng lịch học mỗi ngày một kiểu.
+- Thứ Hai tám giờ còn kẹt xe, thứ Tư tám giờ mới ăn cơm.
+- Thói quen dễ đứng vững khi tín hiệu đến giống nhau mỗi ngày.
+- Ngày nào cũng lệch lịch thì giờ cố định cũng khó giữ.
+- Nhưng ngày nào cũng có lúc tắm xong, lúc leo lên giường.
+- Gắn vào đó: tắm xong là đọc hai trang.
+- Ngày của bạn có việc gì không bao giờ vắng mặt?
+
+### s60vi [buff] Lam thoi quen xau phien phuc hon — Response cost
+- Mười hai giờ đêm, buồn buồn, lướt Shopee. Hai chạm là đặt.
+- Sáng ra người giao hàng gọi, chẳng nhớ mình mua gì.
+- Càng dễ càng mua theo đà. Thêm bước, cơn thèm hay hụt hơi.
+- Đăng xuất. Xoá thẻ đã lưu. Giấu ứng dụng vào thư mục cuối.
+- Mai vẫn muốn thì mua. Phiền một chút, đỡ tiếc cả tháng.
+
+### s61vi [pen] Vi sao ban quen thoi quen da chon — Prospective memory (remembering to act later)
+- Ra đến thang máy mới nhớ hộp cơm vẫn nằm trong tủ lạnh.
+- Tối qua bạn đã tự dặn mình kỹ lắm rồi.
+- Nhớ để làm việc gì đó sau này là một kiểu trí nhớ, và rất dễ quên.
+- Sáng ra vội vàng, đầu óc bận đủ thứ, lời dặn bị chen mất.
+- Vậy thì đặt lời nhắc ngay chỗ việc cần xảy ra.
+- Treo chìa khoá xe cạnh hộp cơm trong tủ lạnh. Muốn lấy chìa thì sẽ thấy hộp cơm.
+- Đầu óc không cần nhớ giỏi hơn. Chỉ cần bị chặn đúng lúc.
+
+### s62vi [buff] Thoi quen song sot qua ngay ban — Minimum viable action (a floor version for hectic days)
+- Đi học thêm đến chín giờ tối, nên hôm nay nghỉ đọc sách. Ừ, tin.
+- Nghỉ một hôm thì hôm sau nghỉ tiếp dễ hơn nhiều.
+- Đặt mức sàn: hiệp nhỏ nhất mà ngày tệ nhất bạn vẫn làm được.
+- Kế hoạch là ba mươi trang. Mức sàn là một trang.
+- Ngày bận chỉ cần giữ nhịp, không cần phá kỷ lục.
+- Tối nay một trang rồi đi ngủ. Làm xong mới tắt đèn.
+
+### s63vi [pen] Khi phan thuong lam mat niem vui — Overjustification effect
+- Hồi trước bạn đọc truyện đến khuya, chỉ vì thích.
+- Rồi bạn lập bảng: đọc xong một cuốn, tự thưởng một cốc trà sữa.
+- Giờ cầm sách lên, bạn nghĩ đến cốc trà sữa nhiều hơn câu chuyện.
+- Phần thưởng bên ngoài dễ lấn mất lý do bên trong.
+- Giữ lại vài việc chỉ để vui. Không ghi chép, không đổi quà.
+- Có những thứ hay hơn khi không ai chấm điểm, kể cả chính bạn.
+
+### s64vi [buff] Tap xong khong phai giay thong hanh — Self-licensing
+- Đi tập đủ ba buổi, thế là tự cho phép chốt đơn Shopee. Ừ, tin.
+- Làm được một việc tốt, đầu óc dễ coi đó là giấy phép làm điều ngược lại.
+- Buổi tập biến thành điểm tích luỹ, rồi mình đem ra đổi lấy những thứ lệch kế hoạch.
+- Sai. Buổi tập không phải tiền gửi. Nó là một hiệp.
+- Đổi câu nói: không phải mình vừa tập, mà mình là người hay tập.
+- Rời phòng tập là ghi luôn buổi sau vào lịch.
+- Thắng một hiệp thì tập hiệp tiếp. Không đổi quà.
+
+### s65vi [pen] Vi sao cuoi tuan la bo thoi quen — Context disruption (weekday cues disappear)
+- Trong tuần, bạn đọc mười trang trên xe buýt đi làm. Cuối tuần, chẳng chữ nào.
+- Không có chuyến xe buýt, thói quen cũng mất chỗ bám.
+- Thói quen ngày thường hay dựa vào tín hiệu ngày thường: báo thức, đường đi làm.
+- Đặt cho cuối tuần một tín hiệu riêng, như cốc cà phê đầu tiên sáng thứ bảy.
+- Pha xong cà phê là mở sách. Dậy lúc mấy giờ cũng được.
+- Cuối tuần của bạn thường bắt đầu bằng việc gì?
+
+### s66vi [buff] Dung mot nhip truoc khi bam mua — Response inhibition
+- Thấy quảng cáo giảm nửa giá, ngón tay đã bấm mua trước khi kịp đọc.
+- Cơn thèm mua đến nhanh, nhưng không ai bắt bạn phải chiều nó.
+- Phản xạ chạy tự động. Một nhịp dừng ngắn cho phanh kịp ăn.
+- Úp điện thoại xuống, đếm chậm đến mười, rồi mới xem lại giỏ hàng.
+- Đếm xong vẫn muốn thì mua. Quên luôn thì ví bạn cảm ơn.
+
+### s67vi [pen] Quyet dinh dung, gap ngay xui — Outcome bias
+- Đặt xe sớm hẳn nửa tiếng, vẫn kẹt xe, vẫn muộn buổi phỏng vấn.
+- Tối đó bạn tự trách mãi: biết thế đã đi kiểu khác.
+- Mình hay chấm điểm một quyết định theo kết quả của nó.
+- Nhưng kết quả còn dính may rủi, thứ bạn không điều khiển được.
+- Chọn đúng vẫn có thể gặp ngày xui. Chọn ẩu đôi khi lại gặp may.
+- Xem lại cách chọn: lúc đó bạn đã dựa trên thông tin mình có chưa?
+- Nếu có, cứ giữ cách làm ấy. Chỉ sửa điều bạn đã có thể biết trước.
+- Đi sớm có thể vẫn là lựa chọn hợp lý. Hôm đó chỉ là đường không chiều bạn.
+
+### s68vi [buff] Tap vua suc de con tap tiep — Self-efficacy (repeatable small wins)
+- Buổi đầu tập liền hai tiếng, sáng hôm sau leo cầu thang không nổi.
+- Thế là nghỉ luôn cả tuần. Ừ, quyết tâm ghê.
+- Tự tin không chỉ đến từ một buổi anh hùng, mà còn từ những lần làm xong.
+- Mỗi lần hoàn thành là thêm một bằng chứng: mình làm được.
+- Chọn mức tạ mà ngày mệt nhất vẫn nâng nổi.
+- Ba buổi nhẹ trong tuần hơn hẳn một buổi gồng hết sức.
+- Hôm nay tập nhẹ, tập cho xong. Tuần sau thêm chút tạ.
+
+### s69vi [pen] Vi sao cu doi dau thang moi lam — Fresh-start effect
+- Lịch học rối tung, nhưng bạn hẹn: đầu tháng sau làm lại từ đầu.
+- Tuần mới, tháng mới, sinh nhật, nghe như một trang giấy trắng.
+- Cảm giác ấy có ích, nhưng dễ biến mấy ngày còn lại thành phòng chờ.
+- Cứ tận dụng cảm giác làm lại, nhưng việc đầu tiên thì làm hôm nay.
+- Tối nay chỉ cần xếp lại lịch của một môn thôi.
+- Đến đầu tháng, bạn đã đi trước chính mình một bước.
+
+### s70vi [buff] Dung doi tu tin roi moi lam — Self-efficacy through mastery experiences
+- Đợi tự tin rồi mới dám thuyết trình. Ừ, tin. Đợi tới lúc nào.
+- Tự tin không đến trước. Nó đến sau vài hiệp.
+- Đầu óc thường tin bằng chứng: những gì bạn đã làm thật.
+- Hiệp một: nói thử hai phút trước ba đứa bạn thân.
+- Hiệp hai: phát biểu một câu trong buổi họp nhóm lớp.
+- Xong hiệp nào, ghi lại hiệp đó.
+- Bằng chứng chồng lên, cơn run thường bớt dần.
+- Tuần này một hiệp nhỏ. Nhắn hẹn ba đứa bạn ngay đi.
+
+### s71vi [pen] Sao ban nhap dau lai kho sua the — IKEA effect (valuing what you made)
+- Bạn nhóm vừa xoá đoạn văn bạn ngồi viết đến hai giờ sáng.
+- Tự nhiên thấy khó chịu, như thể chính mình bị chê.
+- Thứ mình tự tay làm ra, mình thường thấy quý hơn.
+- Công sức bỏ ra dễ bị nhầm thành chất lượng.
+- Thử gọi nó là bản nháp số một, sinh ra là để sửa.
+- Đoạn này đang giúp người đọc, hay chỉ giúp mình đỡ tiếc công?
+
+### s72vi [buff] Tap ky nang truoc, diem so theo sau — Mastery goal orientation
+- Làm hết đề này đến đề khác, điểm vẫn đứng im.
+- Ngày nào cũng thi thử, ít buổi dành riêng để luyện.
+- Mục tiêu điểm chỉ hỏi một câu: mình giỏi chưa.
+- Mục tiêu luyện tập thì hỏi: hôm nay khá lên ở chỗ nào.
+- Chọn đúng một dạng hay sai. Làm mười câu, chậm mà chắc.
+- Sai thì ghi lý do. Đó là một hiệp tập, không phải án phạt.
+- Điểm đến sau. Hiệp tập thì bắt đầu ngay tối nay.

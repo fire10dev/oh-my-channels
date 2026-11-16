@@ -1,0 +1,929 @@
+You are the head writer of "Lý Thuyết Chân Que", the Vietnamese sister channel of "Tiny Leg Theory" (hand-drawn stickman psychology explainers, viewers 18-30 in Vietnam). Below is the approved ENGLISH long-form script (JSON) and the Vietnamese Shorts on the same mechanisms. Write the VIETNAMESE long-form version.
+
+This is a REWRITE, not a translation: keep the same chapters, mechanisms, order and structure, but re-localise every scene and example for Vietnamese daily life (Zalo, nhóm lớp, sếp, đồng nghiệp, mẹ gọi, Shopee, xe buýt, quán cà phê, đi làm thêm...). Natural spoken Vietnamese, not stiff or translated. Pen and Buff call each other "Pen" and "Buff"; with the viewer use "bạn". Pen: trầm, quan sát cảm giác, được hỏi. Buff: câu ngắn, hơi cà khịa, ẩn dụ phòng gym (hiệp, khởi động, hít đất), không kết chương bằng câu hỏi.
+
+ACCURACY: no statistics, percentages, years, study details or researcher names. Mechanism names may stay in Vietnamese with the English term only in the description, never in the voice-over. No medical/therapy advice.
+
+TTS (Vietnamese TTS reads "vo"): every "vo" line <= 25 syllables (âm tiết), plain spoken Vietnamese, NO English words, NO abbreviations, NO digits (write numbers as words), no symbols.
+
+ON-SCREEN "text": UPPERCASE Vietnamese with diacritics, <= 22 characters, punctuation only . , ! ? ' " > = : - . First line of each chapter is the chapter card (e.g. "3. CHẤM ĐỎ NHỎ XÍU").
+"color", "actor", "prop": same allowed values as in the English JSON; you may change them to fit the new scene.
+
+Total voice-over about the same length as the English (similar number of lines per chapter).
+
+OUTPUT ONLY one JSON object, no prose, no code fence, same schema as the English JSON, with "id": "<ID>vi", "lang": "vi", Vietnamese "title" (<= 70 chars) and "description".
+
+This is a non-interactive batch job: never ask questions and ignore any reply-format rules from your config. If unsure, keep the line unchanged (channel names "Tiny Leg Theory" / "Lý Thuyết Chân Que" are fine in voice-over). Your entire answer must be the JSON object, starting with "{".
+
+ID: L7
+
+## ENGLISH SCRIPT
+
+{
+ "id": "L7",
+ "lang": "en",
+ "title": "Why Stress Turns Into Overthinking: Eight Ways to Break the Loop",
+ "description": "Stress can make old moments replay, small problems feel enormous, and tomorrow's tasks feel impossible. Pen and Buff unpack eight common thinking patterns and offer small, practical ways to find a steadier next step.",
+ "chapters": [
+  {
+   "title": "Intro",
+   "sources": [
+    "s11",
+    "s121",
+    "s124",
+    "s126"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You turn off the light, and suddenly one awkward sentence from years ago feels urgent again.",
+     "text": "THE NIGHTTIME REPLAY",
+     "color": "red",
+     "actor": "bed_phone_night",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then tomorrow's presentation joins the meeting, and your brain starts rehearsing every possible disaster.",
+     "text": "WORRY HAS A FULL CALENDAR",
+     "color": "red",
+     "actor": "panic",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I know these thoughts are not helping, but they feel like problems I have to solve right now.",
+     "text": "IT FEELS URGENT",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "We will look at eight reasons stress and overthinking keep their grip, and practice one small move for each.",
+     "text": "EIGHT WAYS TO RESET",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nothing here requires a perfect mood or a brand new life. Just a little room to choose what happens next.",
+     "text": "START WITH ONE MOMENT",
+     "color": "green",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "2. The Replay Loop",
+   "sources": [
+    "s11"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "The house is quiet, the phone is down, and an old conversation suddenly returns in perfect detail.",
+     "text": "2. THE REPLAY LOOP",
+     "color": "ink",
+     "actor": "sleeping",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I remember the pause after my joke, then the face someone made, then what I should have said instead.",
+     "text": "THE SCENE STARTS AGAIN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is rumination: the mind revisiting distress without necessarily finding a new answer.",
+     "text": "RUMINATION",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quiet leaves fewer fresh things competing for attention, so old concerns can feel louder in the dark.",
+     "text": "QUIET MAKES ROOM",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I keep calling it problem solving, but the scene is not changing and neither is the ending.",
+     "text": "SAME SCENE. SAME ENDING.",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "First, label it gently: this is a replay, not a message that needs decoding tonight.",
+     "text": "NAME THE REPLAY",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then give your attention a plain task, like counting backward slowly from one hundred.",
+     "text": "GIVE YOUR MIND A TASK",
+     "color": "green",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If I lose the count, I can just start again, without turning that into another thing I failed.",
+     "text": "BEGIN AGAIN, GENTLY",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are not erasing the past. You are giving tonight a boundary and your attention somewhere else to stand.",
+     "text": "TONIGHT GETS A BOUNDARY",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "But sometimes the loop is not an old scene. It is a future task I keep promising to handle tomorrow.",
+     "text": "TOMORROW JOINS IN",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "laptop_file"
+    }
+   ]
+  },
+  {
+   "title": "3. Tomorrow's Borrowed Energy",
+   "sources": [
+    "s25",
+    "s124"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I leave the presentation untouched, telling myself tomorrow will be the day I finally feel ready.",
+     "text": "3. TOMORROW'S BORROWED ENERGY",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then morning comes, and the file, the notes, and the first decision all seem to be waiting for someone else.",
+     "text": "THE TASK FEELS HEAVIER",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Future you can feel distant, so a task for tomorrow may not feel as real as comfort right now.",
+     "text": "FUTURE YOU FEELS FAR",
+     "color": "gold",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Worry adds another trick: circling a task can feel like effort, even when nothing has moved.",
+     "text": "WORRY IS NOT A REP",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I think, fix the whole presentation, and somehow that sentence makes me want to avoid it more.",
+     "text": "TOO MUCH IN ONE SET",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Make the first action tiny and visible, like finding two useful sources after dinner.",
+     "text": "CHOOSE ONE REP",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Write down the action and when you will do it. If it must wait, park it on tomorrow's list.",
+     "text": "WRITE THE WHEN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can also leave the file open, pack my bag, or write the first sentence before bed.",
+     "text": "SET UP THE FIRST STEP",
+     "color": "ink",
+     "actor": "think",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is a warm-up for future you: less guessing at the start, one clear rep ready to go.",
+     "text": "MAKE TOMORROW EASIER",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even with a next step, the whole day can feel tinted by one feeling I have not named yet.",
+     "text": "THE FEELING NEEDS A NAME",
+     "color": "ink",
+     "actor": "worried_heart"
+    }
+   ]
+  },
+  {
+   "title": "4. A Feeling, Not a Verdict",
+   "sources": [
+    "s121"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Someone cancels plans, and I tell myself I feel bad, as if that explains the whole evening.",
+     "text": "4. A FEELING, NOT A VERDICT",
+     "color": "ink",
+     "actor": "sofa_scroll"
+    },
+    {
+     "speaker": "pen",
+     "vo": "But bad could mean disappointed, lonely, worried, embarrassed, or several things tangled together.",
+     "text": "BAD IS A BLURRY WORD",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Try affect labeling: putting a specific word to the feeling you notice.",
+     "text": "AFFECT LABELING",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A precise name can make an emotion easier to look at, though it does not instantly make it disappear.",
+     "text": "NAME IT, NOTICE IT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Maybe I am disappointed because I wanted company, not just generally having a bad night.",
+     "text": "WHAT IS IT, EXACTLY?",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pick the closest honest word. You are naming the weather, not writing a permanent forecast.",
+     "text": "A NAME IS NOT A FORECAST",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then I can choose a fitting next move, like asking to reschedule or planning a quiet evening.",
+     "text": "A CLEARER NEXT MOVE",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Keep it ordinary and specific. No grand diagnosis needed to notice what the moment feels like.",
+     "text": "PLAIN WORDS ARE ENOUGH",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sometimes the feeling is anger, and the next move I want is to send the message immediately.",
+     "text": "ANGER WANTS THE SEND BUTTON",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    }
+   ]
+  },
+  {
+   "title": "5. Don't Send at Peak Heat",
+   "sources": [
+    "s122"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "A teammate sends a sharp reply, and my thumbs are already writing a sharper one back.",
+     "text": "5. DON'T SEND AT PEAK HEAT",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When emotion is running hot, a quick response can land harder than you intend.",
+     "text": "PEAK HEAT CHANGES THE TONE",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I want to fix the misunderstanding, defend myself, and make sure they know I am annoyed.",
+     "text": "THREE REPLIES AT ONCE",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use response modulation: change what you do with the feeling before the message reaches another person.",
+     "text": "PAUSE BEFORE THE SEND",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Draft the reply, leave it unsent, and take a short break before reading it again.",
+     "text": "DRAFT. PARK. REREAD.",
+     "color": "green",
+     "actor": "writing",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "While I wait, I can step away from the screen and let the first wave pass a little.",
+     "text": "LET THE FIRST WAVE PASS",
+     "color": "ink",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When I reread the draft, I can cut the sentence that only exists to sting.",
+     "text": "REMOVE THE LINE YOU'LL REGRET",
+     "color": "green",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A pause is not surrender. It is a warm-up before a response that actually serves the point.",
+     "text": "A PAUSE IS A WARM-UP",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The message may still need to be sent, but I can choose the version I want attached to my name.",
+     "text": "CHOOSE YOUR WORDS",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now let's handle another hot reaction: the moment one small delay becomes a ruined evening.",
+     "text": "NEXT: THE STORY YOU ADD",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "6. The Story Around the Stress",
+   "sources": [
+    "s123",
+    "s126"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "The checkout line barely moves, and I start calculating how the entire evening has been wrecked.",
+     "text": "6. THE STORY AROUND THE STRESS",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then I send the wrong file to my team, and my mind jumps straight to career over.",
+     "text": "ONE MISTAKE, WORST ENDING",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Catastrophizing stretches a mistake into its most frightening ending before you know what happens next.",
+     "text": "CATASTROPHIZING",
+     "color": "gold",
+     "actor": "think",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A related move is reappraisal: looking for another honest interpretation of the same event.",
+     "text": "TRY ANOTHER HONEST READING",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The line is still slow, but perhaps it is also a few quiet minutes to call my sister.",
+     "text": "THE FACTS STAY THE SAME",
+     "color": "green",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For the file, say the actual consequence plainly, then find the smallest repair available.",
+     "text": "STATE THE REAL CONSEQUENCE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Maybe the team saw an outdated draft briefly. I can send the right one and add a clear apology.",
+     "text": "REPAIR WHAT HAPPENED",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Do not pretend a real problem is secretly wonderful. Just separate what happened from what you fear it means.",
+     "text": "FACTS FIRST. FEARS SECOND.",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can ask what else this moment could mean, while keeping the annoying or difficult facts in view.",
+     "text": "WHAT ELSE COULD BE TRUE?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The moment may still sting. A less dramatic story can make room for the next useful move.",
+     "text": "MAKE ROOM TO ACT",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "But one rough moment can also recruit every rough memory and make a whole week look hopeless.",
+     "text": "A WHOLE WEEK ON TRIAL",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "7. Don't Judge the Week While Tired",
+   "sources": [
+    "s125"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "After a long shift, I look back at the week and swear I got nothing done.",
+     "text": "7. DON'T JUDGE THE WEEK WHILE TIRED",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The missed call and the unfinished errand come quickly to mind. The things I handled do not.",
+     "text": "THE BAD BITS ARRIVE FIRST",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mood-congruent memory means your current mood can make matching memories easier to bring up.",
+     "text": "MOOD-CONGRUENT MEMORY",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When you are tired or low, that can skew the sample your brain uses to judge the whole week.",
+     "text": "A SMALLER SAMPLE THAN IT SEEMS",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The feeling of failure is real, but it may not be a fair summary of every day I had.",
+     "text": "A FEELING IS NOT A FULL REVIEW",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Postpone the big verdict until you have rested. Tired is allowed to be tonight's conclusion.",
+     "text": "REST BEFORE THE VERDICT",
+     "color": "green",
+     "actor": "sleeping",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tomorrow, I can check my calendar or messages and remember what actually happened across the week.",
+     "text": "REVIEW WITH MORE CONTEXT",
+     "color": "green",
+     "actor": "reading",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "No forced gratitude set. Just give the whole week a fairer look when your energy is back.",
+     "text": "A FAIRER LOOK LATER",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That helps with the past. Another useful shift is noticing what attention skips while I am inside the worry.",
+     "text": "NOTICE WHAT WORRY SKIPS",
+     "color": "ink",
+     "actor": "think",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "8. Aim Attention Back at Life",
+   "sources": [
+    "s127"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I walk home thinking about one awkward email, then realize I barely noticed the street around me.",
+     "text": "8. AIM ATTENTION BACK AT LIFE",
+     "color": "ink",
+     "actor": "sofa_scroll"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The rain has stopped, warm bread smells drift from a shop, and I missed both while replaying that message.",
+     "text": "THE REST OF THE WALK",
+     "color": "gold",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Attentional bias describes how attention can lean toward certain kinds of information, including possible problems.",
+     "text": "ATTENTION LEANS TOWARD PROBLEMS",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The email mattered to me, but it was not the only real thing that happened on the walk.",
+     "text": "ONE THING ISN'T EVERYTHING",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Try one deliberate pause on your route. Notice one concrete detail that is going well right now.",
+     "text": "PAUSE AND NOTICE ONE THING",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It could be warm bread, a cleared sidewalk, or the moment the rain finally lets up.",
+     "text": "MAKE IT CONCRETE",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "This is not a demand to feel cheerful. It is one repetition of widening what gets noticed.",
+     "text": "WIDEN THE FRAME",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can hold the concern and the small good detail together, without asking either one to cancel the other.",
+     "text": "BOTH CAN BE TRUE",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "One noticed detail will not solve the week, but it can return a piece of your attention to the present.",
+     "text": "BACK TO THIS MOMENT",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That present moment is easier to reach when the day has a clear ending instead of another scroll.",
+     "text": "GIVE THE DAY AN ENDING",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    }
+   ]
+  },
+  {
+   "title": "9. Give the Day a Shutdown Cue",
+   "sources": [
+    "s12",
+    "s128"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I get into bed, open one video, and keep finding a reason that the next one should be the last.",
+     "text": "9. GIVE THE DAY A SHUTDOWN CUE",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The next clip offers a quick reward right now, while tomorrow's tiredness still feels far away.",
+     "text": "NOW FEELS CLOSER THAN MORNING",
+     "color": "red",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then the lights go off with the phone still glowing, and my brain gets no steady signal that the day is done.",
+     "text": "SCROLLING IS THE LAST CUE",
+     "color": "ink",
+     "actor": "bed_phone_night"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A repeated routine can become a cue. Your brain may begin to associate those steps with winding down.",
+     "text": "REPEAT A WIND-DOWN CUE",
+     "color": "gold",
+     "actor": "think",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Choose a shutdown time and a short offline sequence, such as washing up, charging the phone outside the bedroom, then reading.",
+     "text": "PICK YOUR SHUTDOWN STEPS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The order matters more than making it impressive. I want steps I can repeat on an ordinary night.",
+     "text": "SIMPLE ENOUGH TO REPEAT",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can put tomorrow's clothes out and write the first task down, so morning begins with less negotiation.",
+     "text": "SET UP TOMORROW TONIGHT",
+     "color": "green",
+     "actor": "think",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is a cool-down for the day and a warm-up for tomorrow. Keep the first set manageable.",
+     "text": "COOL DOWN. SET UP.",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Some nights will go off plan. I can return to the routine at the next bedtime without making it a failure.",
+     "text": "RESET AT THE NEXT BEDTIME",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For seven days, give the next step a name, give attention one wider frame, and end the day with a cue.",
+     "text": "SEVEN DAYS. THREE REPS.",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Recap",
+   "sources": [
+    "s11",
+    "s121",
+    "s124",
+    "s126",
+    "s127",
+    "s128"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "First, make the thought clearer: call a replay a replay, name the feeling, and describe the actual problem.",
+     "text": "1. MAKE THE THOUGHT CLEARER",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Second, give your attention a fairer frame: separate facts from feared endings and notice one real detail nearby.",
+     "text": "2. CLARITY. CONTEXT.",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Third, make the next moment easier: choose one small action and build a repeatable signal that the day is done.",
+     "text": "3. ONE STEP. ONE CUE.",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For the next seven days, try one rep each evening: name the loop, write tomorrow's first step, or start your wind-down cue.",
+     "text": "YOUR SEVEN-DAY CHALLENGE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Keep it small enough to do on a normal day, and notice which move gives you a little more room.",
+     "text": "SMALL REPS COUNT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "If you miss a day, the program is not ruined. Just pick up the next rep when you can.",
+     "text": "PICK UP THE NEXT REP",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Stress may still visit, but you have practiced a few ways to meet it without letting every thought run the session.",
+     "text": "YOU CAN CHOOSE THE NEXT MOVE",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Subscribe to Tiny Leg Theory for more practical psychology, one small rep at a time.",
+     "text": "SUBSCRIBE FOR MORE",
+     "color": "green",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}
+## VIETNAMESE SHORTS
+
+# L7 Stress, Worry and Overthinking
+
+### s11vi [pen] Dem nao cung chieu lai pha que — rumination
+- Tắt đèn. Nhắm mắt.
+- Và não chiếu lại một pha quê độ từ mười năm trước.
+- Lúc yên tĩnh, nỗi lo cũ có chỗ để chạy vòng vòng.
+- Gọi tên nó: à, phim chiếu lại thôi.
+- Rồi giao cho não một việc nhạt nhẽo, như đếm ngược từ một trăm.
+- Phim chiếu lại yêu thích của não bạn là gì?
+
+### s12vi [buff] Them mot video nua thoi — present bias, bedtime procrastination
+- Thêm một video nữa thôi, rồi ngủ. Ừ, tin.
+- Bạn đang tiêu trước năng lượng của ngày mai.
+- Vui thì ở ngay đây. Mệt thì để mai lo. Rồi mai tới.
+- Chọn một giờ tắt máy.
+- Điện thoại ngủ ngoài phòng. Xong.
+- Bạn của ngày mai sẽ cảm ơn. Chắc vậy.
+
+### s25vi [pen] Ban cua ngay mai — future-self continuity
+- Mai chắc chắn làm.
+- Não nghĩ về bạn của ngày mai gần như một người khác.
+- Nên đẩy hết việc khó cho người đó.
+- Làm dễ cho họ đi. Chuẩn bị từ tối nay.
+- Đồ để sẵn. Cặp xếp sẵn. Bước đầu ghi sẵn.
+- Tối nay bạn làm được gì cho bạn của ngày mai?
+
+### s121vi [pen] Goi ten cam xuc de nhe dau hon — Affect labeling
+- Tối trước buổi bảo vệ đồ án, bạn chỉ thấy mọi thứ đều tệ.
+- Chữ tệ rộng quá, nên cảm giác cứ phình ra mãi.
+- Gọi đúng tên cảm xúc thường giúp nó dịu xuống một chút.
+- Thử hỏi: mình đang bồn chồn, hay đang sợ bị hội đồng hỏi vặn?
+- Chọn một từ thật sát, viết ra giấy.
+- Sợ bị hỏi vặn thì tối nay ôn trước ba câu khó nhất.
+- Còn bây giờ, cảm giác của bạn tên là gì?
+
+### s122vi [buff] Dung tra loi luc dang nong — Emotion regulation: response modulation
+- Quản lý đổi ca sát giờ. Bạn định xả ngay vào nhóm ca.
+- Lúc đang nóng, câu chữ dễ gắt hơn bạn định.
+- Cả nhóm đọc rồi thì thu hồi cũng muộn.
+- Gõ nháp ra ghi chú trước. Chưa gửi.
+- Đi rót cốc nước, quay lại đọc, gạch câu nào gắt.
+- Nghỉ giữa hiệp rồi mới ra đòn. Tin nhắn cũng vậy.
+
+### s123vi [pen] Nghi khac di, thay nhe hon — Cognitive reappraisal
+- Ngồi xe buýt kẹt cứng giờ tan tầm, bạn thấy cả tối hỏng rồi.
+- Thật ra cái làm bạn bực là câu: mình đang phí thời gian.
+- Cảm xúc thường đi theo cách mình hiểu chuyện, không chỉ theo chuyện.
+- Đổi cách hiểu, miễn vẫn đúng sự thật, cảm giác dễ đổi theo.
+- Dừng một nhịp, hỏi: quãng thời gian này còn có thể là gì?
+- Hai mươi phút để gọi về cho mẹ.
+- Hoặc chỉ ngồi nhìn phố lên đèn, không phải làm gì.
+- Xe vẫn kẹt y như cũ. Chỉ là lòng mình bớt nặng.
+
+### s124vi [buff] Lo mo ho thi doi thanh mot buoc — Problem-focused coping
+- Thứ Hai thuyết trình mà chưa có gì. Lo từ tối thứ Sáu.
+- Lo cả cuối tuần không tính là đã tập hiệp nào.
+- Việc gì làm được thì gọi đúng tên nó, thật nhỏ.
+- Tối nay, ăn cơm xong, tìm ba nguồn tài liệu. Xong thì tích.
+- Ngồi lo tiếp, hoặc nhấc tạ hiệp đầu. Chọn đi.
+
+### s125vi [pen] Vi sao cuoi ngay minh thay te hon — Mood-congruent memory
+- Mười giờ tối tăng ca xong, bạn thấy mình chẳng làm được gì ra hồn.
+- Lúc mệt, đầu óc dễ lôi ra toàn những chuyện mệt.
+- Lần sếp nhắc, cái lỗi chính tả, bữa trưa ăn vội.
+- Còn chuyện sáng nay bạn gỡ rối giúp đồng nghiệp thì quên mất.
+- Đừng chấm điểm cả tuần lúc đang cạn pin. Để sáng mai.
+- Ngủ đủ rồi, tuần này trông có còn tệ như bây giờ không?
+
+### s126vi [buff] Mot loi nho khong phai tan the — Catastrophizing
+- Gửi nhầm bản báo cáo cũ vào nhóm công ty. Thôi xong rồi.
+- Mười giây sau, bạn đã tưởng tượng tới cảnh bị đuổi việc.
+- Một lỗi thôi, mà đầu óc nhảy thẳng tới kết cục tệ nhất.
+- Nói thẳng hậu quả thật: mọi người xem nhầm bản cũ vài phút.
+- Rồi sửa: thu hồi, gửi bản đúng, xin lỗi một câu.
+- Lần sau, đặt tên tệp kèm ngày tháng cho đỡ nhầm.
+- Hụt một hiệp, đâu phải hỏng cả buổi tập. Làm hiệp tiếp.
+
+### s127vi [pen] Khoanh khac dep suyt bi bo lo — Attentional bias
+- Cả quãng đường về, bạn chỉ nghĩ tới tin nhắn của sếp.
+- Sự chú ý tự chọn thứ để thấy, và hay nghiêng về chuyện phiền.
+- Nên mưa vừa tạnh, phố vừa lên đèn, bạn đi qua mà chẳng thấy gì.
+- Dừng một nhịp, gọi tên một điều cụ thể đang ổn.
+- Mùi bánh mì nóng ở đầu ngõ chẳng hạn. Nhỏ thôi, nhưng có thật.
+
+### s128vi [buff] Co tin hieu het ngay, dung luot tiep — Conditioned cue
+- Mười hai giờ đêm, vẫn nằm lướt video, tự nhủ thêm chút nữa.
+- Ngày của bạn chẳng có điểm kết thúc. Chỉ có lúc hết pin.
+- Đầu óc cần một tín hiệu rõ ràng: hết ngày rồi.
+- Tín hiệu có tác dụng khi lặp lại. Cùng việc, cùng thứ tự, mỗi tối.
+- Tắm xong thì cắm sạc điện thoại ở phòng khách.
+- Lên giường, đọc vài trang sách giấy.
+- Tập xong còn có hiệp giãn cơ. Một ngày cũng cần hiệp giãn.
+- Tối nay làm thử. Lặp đủ lâu, chính nó sẽ báo hết ngày.
+
+### s129vi [pen] Giai thich ma chi minh hieu — Curse of knowledge
+- Hướng dẫn mẹ chuyển khoản lần thứ ba, mẹ vẫn bảo khó quá.
+- Bạn thấy dễ, vì đã quen tới mức quên mất hồi chưa biết.
+- Người ta gọi đó là lời nguyền của sự hiểu biết.
+- Bạn nói 'quét mã đi mẹ', nhưng quét ở đâu, bấm nút nào?
+- Bước bạn bỏ qua, với người mới lại là cả một bức tường.
+- Thử đi chậm từng bước, để mẹ tự bấm, bạn chỉ ngồi nhìn.
+- Chỗ mẹ ngập ngừng chính là bước bạn đã quên nói.
+
+### s130vi [buff] Dung mac ca voi nut bao lai — Immediate reward bias
+- Báo thức để cạnh gối. Năm phút nữa thôi. Ừ, tin.
+- Năm phút sướng bây giờ, sáng mai có thể lại cuống cuồng chấm công.
+- Lúc ngái ngủ, cãi gì bạn cũng thua. Đừng cãi.
+- Để điện thoại báo thức ở góc phòng. Muốn tắt thì phải đứng dậy.
+- Hiệp đầu tiên trong ngày: đặt chân xuống đất. Sáng mai làm.

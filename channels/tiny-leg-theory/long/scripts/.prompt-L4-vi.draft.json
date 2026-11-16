@@ -1,0 +1,1101 @@
+You are the head writer of "Lý Thuyết Chân Que", the Vietnamese sister channel of "Tiny Leg Theory" (hand-drawn stickman psychology explainers, viewers 18-30 in Vietnam). Below is the approved ENGLISH long-form script (JSON) and the Vietnamese Shorts on the same mechanisms. Write the VIETNAMESE long-form version.
+
+This is a REWRITE, not a translation: keep the same chapters, mechanisms, order and structure, but re-localise every scene and example for Vietnamese daily life (Zalo, nhóm lớp, sếp, đồng nghiệp, mẹ gọi, Shopee, xe buýt, quán cà phê, đi làm thêm...). Natural spoken Vietnamese, not stiff or translated. Pen and Buff call each other "Pen" and "Buff"; with the viewer use "bạn". Pen: trầm, quan sát cảm giác, được hỏi. Buff: câu ngắn, hơi cà khịa, ẩn dụ phòng gym (hiệp, khởi động, hít đất), không kết chương bằng câu hỏi.
+
+ACCURACY: no statistics, percentages, years, study details or researcher names. Mechanism names may stay in Vietnamese with the English term only in the description, never in the voice-over. No medical/therapy advice.
+
+TTS (Vietnamese TTS reads "vo"): every "vo" line <= 25 syllables (âm tiết), plain spoken Vietnamese, NO English words, NO abbreviations, NO digits (write numbers as words), no symbols.
+
+ON-SCREEN "text": UPPERCASE Vietnamese with diacritics, <= 22 characters, punctuation only . , ! ? ' " > = : - . First line of each chapter is the chapter card (e.g. "3. CHẤM ĐỎ NHỎ XÍU").
+"color", "actor", "prop": same allowed values as in the English JSON; you may change them to fit the new scene.
+
+Total voice-over about the same length as the English (similar number of lines per chapter).
+
+OUTPUT ONLY one JSON object, no prose, no code fence, same schema as the English JSON, with "id": "<ID>vi", "lang": "vi", Vietnamese "title" (<= 70 chars) and "description".
+
+ID: L4
+
+## ENGLISH SCRIPT
+
+{
+ "id": "L4",
+ "lang": "en",
+ "title": "How to Study So It Actually Sticks",
+ "description": "Studying can feel productive while leaving you unsure what you can actually remember or use. Pen and Buff walk through nine research-informed ways to make practice more useful, from recalling ideas to spacing reviews across the week.",
+ "chapters": [
+  {
+   "title": "1. The Study Trap",
+   "sources": [
+    "s26",
+    "s74"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You close your notes after an hour, feeling busy, then someone asks what you learned and your mind goes quiet.",
+     "text": "THE NOTES ARE CLOSED",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That gap between time spent and knowledge kept is where study plans need a better warm-up.",
+     "text": "TIME IS NOT PROOF",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I highlight, reread, and copy things neatly, because those moves make the material feel close and familiar.",
+     "text": "FAMILIAR FEELS SAFE",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "But feeling close is not the same as being able to bring the idea back when you need it.",
+     "text": "CAN YOU RECALL IT",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So how can I tell which study habits are building something I can actually use later?",
+     "text": "WHAT REALLY STICKS",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "We will work through nine ways to make practice more honest, more useful, and easier to repeat.",
+     "text": "NINE BETTER REPS",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "2. Familiar Is Not Fluent",
+   "sources": [
+    "s26"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You reread the same page a third time, and every sentence seems easy because you just saw it.",
+     "text": "2. FAMILIAR ISN'T FLUENT",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Later, you sit down to explain the idea without the page, and the details do not come back.",
+     "text": "WHERE DID IT GO",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is the fluency illusion: smooth reading can feel like learning even when recall is still shaky.",
+     "text": "SMOOTH IS NOT SOLID",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain recognizes the words, which is easier than rebuilding the idea from memory on its own.",
+     "text": "RECOGNITION IS EASIER",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Recognition feels reassuring, so I mistake the page looking known for knowing what it says.",
+     "text": "A PAGE CAN FOOL YOU",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Try a quick check: close the notes and say the main point in your own plain words.",
+     "text": "CLOSE THE BOOK",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If I can only remember fragments, I can see where another careful pass might help.",
+     "text": "FIND THE MISSING PIECE",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then open the notes, compare, and correct one gap before you move to a new topic.",
+     "text": "CHECK AND CORRECT",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The page becomes a map to check against, not a performance that tells me I am doing well.",
+     "text": "THE NOTES ARE A MAP",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Make the memory do a rep first; let the answer key help with form afterward.",
+     "text": "RECALL THEN REVIEW",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The first answer may be awkward, but at least I can see what is there without the page.",
+     "text": "SEE WHAT YOU KNOW",
+     "color": "gold",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That rough first check sets up the next idea: why a little struggle can be useful.",
+     "text": "STRUGGLE HAS A JOB",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "3. Make Your Mind Fetch",
+   "sources": [
+    "s27",
+    "s81"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "A blank page looks intimidating after studying, especially when I could just reread the chapter instead.",
+     "text": "3. THE BLANK PAGE",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Retrieval practice means pulling an idea out of memory before you peek at the answer.",
+     "text": "MAKE MEMORY FETCH",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It can feel worse than reading, because I notice hesitations, wrong guesses, and the parts I cannot name.",
+     "text": "THE HARD PART SHOWS",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That effort is information; remembering is the task you are preparing for, so practice that task.",
+     "text": "PRACTICE THE REAL MOVE",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The brain has to search, choose words, and rebuild a path instead of simply recognizing a printed answer.",
+     "text": "BUILD THE PATH",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Start small: shut the notebook, write three points you remember, and explain one without peeking.",
+     "text": "THREE POINTS COLD",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If I draw a blank, I can mark it as a question rather than proof that I cannot learn this.",
+     "text": "A BLANK IS A CLUE",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now check the source, correct what missed, and put the correction in a different color.",
+     "text": "CHECK THE GAPS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Flashcards and practice questions give me another way to fetch the answer, without staring at the page.",
+     "text": "QUIZ YOURSELF",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Keep the question focused enough that you can tell whether the answer is right or still fuzzy.",
+     "text": "MAKE IT CHECKABLE",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can see how this makes the session more honest, but I still forget things after the quiz.",
+     "text": "WHY DOES IT FADE",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A strong rep helps, and the timing of the next rep matters too.",
+     "text": "TIMING IS THE NEXT SET",
+     "color": "ink",
+     "actor": "jogging"
+    }
+   ]
+  },
+  {
+   "title": "4. Give Memory Some Space",
+   "sources": [
+    "s85"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You cram the whole chapter in one late session, and it feels like every page must be covered tonight.",
+     "text": "4. GIVE IT SPACE",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The next morning, some answers are there, but a few days later the details feel distant again.",
+     "text": "THE DETAILS DRIFT",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The spacing effect describes a useful pattern: reviews spread across days often hold up better later.",
+     "text": "SPACE THE REPS",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A gap lets you find out what still needs effort instead of keeping the material constantly in view.",
+     "text": "LET THE PAGE GO",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Coming back can feel slow, because I have to reconstruct things I recognized easily the night before.",
+     "text": "REBUILD ON RETURN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That recall is part of the practice, as long as you check the answer and correct what slipped.",
+     "text": "RECALL THEN CHECK",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can split one long session into shorter visits, then put each visit on a real calendar.",
+     "text": "PLAN THE NEXT VISIT",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Review today, return in a couple of days, and schedule another pass next week.",
+     "text": "TODAY THEN LATER",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If the next session starts with a few questions from memory, I can spot what stayed and what faded.",
+     "text": "START WITH A QUIZ",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Keep those sessions short enough to repeat; a heroic marathon is a hard routine to sustain.",
+     "text": "A ROUTINE YOU CAN REPEAT",
+     "color": "ink",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "This makes time itself part of the plan, instead of waiting until everything feels urgent.",
+     "text": "MAKE ROOM TO RETURN",
+     "color": "gold",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "And when you return, use checkpoints to steer the session toward the actual target.",
+     "text": "A CHECKPOINT STEERS",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "5. Check Your Aim",
+   "sources": [
+    "s76"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You finish a stack of slides, feel exhausted, and only then look at the grading criteria.",
+     "text": "5. CHECK YOUR AIM",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A small requirement is missing, so the work needs a late repair that could have happened earlier.",
+     "text": "THE TARGET WAS THERE",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Feedback control is the loop of comparing where you are with a target and adjusting the next move.",
+     "text": "COMPARE AND ADJUST",
+     "color": "gold",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Without a checkpoint, more effort can simply make you repeat the same miss with better handwriting.",
+     "text": "EFFORT NEEDS DIRECTION",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I may be trying hard, but I need a clear sign of what counts as finished.",
+     "text": "NAME THE TARGET",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Before starting, turn the instructions into a few things you can check off one by one.",
+     "text": "MAKE A CHECKLIST",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Halfway through, I can pause and compare my work with those points while there is time to adjust.",
+     "text": "PAUSE AT THE HALFWAY",
+     "color": "green",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pick the biggest mismatch, fix that, and check again; do not try to polish every detail at once.",
+     "text": "FIX THE BIG GAP",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That gives me a specific next move instead of the vague order to push harder.",
+     "text": "ONE CLEAR NEXT MOVE",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The same loop works for study: question, attempt, compare, correction, then one more honest attempt.",
+     "text": "RUN THE FEEDBACK LOOP",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A checkpoint can show that I did the steps, but I also want to know why they work.",
+     "text": "WHAT DOES EACH STEP DO",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For that, stop copying the worked solution and explain the reasoning behind each move.",
+     "text": "EXPLAIN THE MOVE",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "6. Explain Each Move",
+   "sources": [
+    "s77",
+    "s80"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I copy a worked solution neatly, then someone asks why the third step works and I lose my words.",
+     "text": "6. SAY WHY IT WORKS",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Self-explanation means saying how each step connects to the rule, not just repeating the step.",
+     "text": "CONNECT THE STEPS",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A familiar example can make me feel I understand more than I can explain without looking.",
+     "text": "FAMILIAR IS NOT EXPLAINED",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The illusion of explanatory depth is that gap between feeling sure and being able to lay out the details.",
+     "text": "THE CONFIDENCE GAP",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trying to explain makes me find the place where my own chain of reasoning suddenly skips a link.",
+     "text": "FIND THE SKIPPED LINK",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cover the example and say what each move does, why it belongs, and what you expect next.",
+     "text": "SAY WHAT COMES NEXT",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If I cannot explain one step, I can write a question about that step instead of hiding it.",
+     "text": "TURN THE GAP INTO A QUESTION",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Check just that point in the source, then cover it again and rebuild the explanation from memory.",
+     "text": "LOOK THEN REBUILD",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The explanation does not need fancy language; plain words make it easier to see what I actually mean.",
+     "text": "PLAIN WORDS WORK",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For a chapter, link one idea to a familiar situation, so the concept has a concrete place to land.",
+     "text": "GIVE THE IDEA A HOME",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That personal example might help the meaning stick, but I still need to notice which problem is which.",
+     "text": "SPOT THE RIGHT TOOL",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That means mixing practice types instead of letting a whole page tell you which method to use.",
+     "text": "MIX THE SET",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "7. Mix the Problem Types",
+   "sources": [
+    "s78"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You do twenty problems of the same kind, get the rhythm, and feel ready for the mixed exam.",
+     "text": "7. MIX THE PROBLEM TYPES",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then the first question looks unfamiliar, because there is no label telling you which method to pick.",
+     "text": "WHICH METHOD NOW",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Interleaving means mixing related types of problems so you practice choosing the right approach.",
+     "text": "PRACTICE THE CHOICE",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "In a long same-type run, the previous question often hands you a clue about the next move.",
+     "text": "THE ORDER GIVES A CLUE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "With a mixed set, I have to pause, recognize the kind of problem, and select a method myself.",
+     "text": "PAUSE THEN IDENTIFY",
+     "color": "ink",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That choice can make practice slower, but it works the skill the test often asks you to use.",
+     "text": "SLOWER CAN BE USEFUL",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can shuffle a few related question types together instead of mixing every subject all at once.",
+     "text": "SHUFFLE A FEW TYPES",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Before each answer, name the method and one clue that helped you choose it.",
+     "text": "NAME THE CLUE",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If I choose wrong, I can sort out whether I missed the idea or rushed past a clue.",
+     "text": "SORT THE MISTAKE",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Review the explanation, correct your choice, then solve a fresh item using the same principle.",
+     "text": "CORRECT THEN RETRY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It may feel less smooth than repeating one pattern, but I learn what decision I need to make.",
+     "text": "PRACTICE THE DECISION",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now make the ideas easier to revisit by seeing them in more than one useful format.",
+     "text": "CHANGE THE CUES",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "8. Change the Cues",
+   "sources": [
+    "s79",
+    "s84"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I know a word when it sits on a flashcard, but it feels unfamiliar when someone asks aloud.",
+     "text": "8. CHANGE THE CUES",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Encoding specificity describes how recall can depend on cues that were present when you learned something.",
+     "text": "CUES CAN GUIDE RECALL",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A card gives me the same visual prompt each time, and I may have learned to rely on it.",
+     "text": "ONE CUE CAN BE NARROW",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Changing how you meet the idea can help you practice finding it through different useful cues.",
+     "text": "VARY THE PRACTICE",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can say the concept aloud, write it from memory, and use it in a fresh sentence.",
+     "text": "SAY WRITE APPLY",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Also process meaning: connect a new idea to something you already know or a real situation.",
+     "text": "LINK IT TO MEANING",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A link can make an abstract definition easier to retrieve because it gives me another path back.",
+     "text": "BUILD ANOTHER PATH",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Keep the example accurate; a vivid picture helps only if it still points to the right idea.",
+     "text": "VIVID AND ACCURATE",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I could picture opportunity cost as the concert I skip because I need to pay rent.",
+     "text": "A CONCRETE EXAMPLE",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Switch the cue, explain the meaning, and check that your example has not bent the concept.",
+     "text": "CHANGE THEN CHECK",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That gives me several ways to meet an idea, instead of only recognizing it in one layout.",
+     "text": "MORE THAN ONE WAY IN",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You can even ask a question before you read, to wake up your attention for the answer.",
+     "text": "ASK BEFORE YOU READ",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "9. Guess Before You Read",
+   "sources": [
+    "s86"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I usually read the whole chapter first because guessing before I know the answer feels pointless.",
+     "text": "9. GUESS BEFORE YOU READ",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pretesting means trying a question before instruction, even when you expect your first answer may be wrong.",
+     "text": "TRY BEFORE THE LESSON",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "An early guess gives me a question to carry as I read, instead of treating every sentence alike.",
+     "text": "READ WITH A QUESTION",
+     "color": "green",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The attempt may help you notice the answer when it appears and pay attention to what you missed.",
+     "text": "NOTICE THE ANSWER",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can try the end questions first, even if some answers are guesses or a clear blank.",
+     "text": "A GUESS IS A START",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then read the section, mark what answered each question, and repair any guess that stayed wrong.",
+     "text": "READ THEN REPAIR",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If there are no questions, I can write three from the headings before I begin the section.",
+     "text": "WRITE THREE QUESTIONS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Keep the questions close to what the lesson teaches, so the warm-up points at the right target.",
+     "text": "AIM THE WARM UP",
+     "color": "gold",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That takes the edge off a long chapter and gives me a reason to look for each answer.",
+     "text": "READ TO FIND OUT",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are not grading your intelligence; you are setting up an attentive first pass.",
+     "text": "THIS IS A WARM UP",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can use it before a new topic, then keep the best questions for a later recall session.",
+     "text": "KEEP THE GOOD QUESTIONS",
+     "color": "gold",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now put the whole routine into a small week you can actually repeat.",
+     "text": "MAKE A WEEK OF REPS",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "10. Your Seven Day Set",
+   "sources": [
+    "s26",
+    "s27",
+    "s74",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s84",
+    "s85",
+    "s86"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "We have covered several tools, but I need a simple way to remember what to do when study time starts.",
+     "text": "10. YOUR SEVEN DAY SET",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Think in three ideas: retrieve before reading, check your work against a target, and return after a gap.",
+     "text": "RECALL CHECK RETURN",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "First, bring the idea back from memory, then explain it plainly and check the source for gaps.",
+     "text": "FETCH AND EXPLAIN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Second, practice choosing methods, changing cues, and using fresh questions that look like the task ahead.",
+     "text": "CHOOSE IN CONTEXT",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Third, space your sessions and use checkpoints to decide what needs the next bit of effort.",
+     "text": "SPACE AND ADJUST",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For seven days, try one short recall session each day, then check and correct what you missed.",
+     "text": "SEVEN DAYS OF RECALL",
+     "color": "ink",
+     "actor": "jogging",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "On a few days, shuffle the question types or explain one idea aloud without looking at your notes.",
+     "text": "VARY A FEW SESSIONS",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Schedule returns after a gap, and count useful corrections as progress, even when a session feels messy.",
+     "text": "COUNT THE CORRECTIONS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "At the end of the week, notice which practice helped you recall and use the ideas more easily.",
+     "text": "NOTICE WHAT STUCK",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Keep the moves that helped, adjust the ones that did not, and give the next week another set.",
+     "text": "ADJUST AND REPEAT",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "You do not need a perfect desk or a perfect mood; you need a clear next rep.",
+     "text": "ONE CLEAR NEXT REP",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Subscribe to Tiny Leg Theory for more plain spoken tools for the psychology of everyday life.",
+     "text": "MORE TINY LEG THEORY",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}
+## VIETNAMESE SHORTS
+
+# L4 How to Study So It Actually Sticks
+
+### s26vi [buff] Doc lai khong phai la hoc — fluency illusion
+- Đọc lại ghi chú ba lần. Hiệp tập nhẹ hều.
+- Thấy quen quen, tưởng là thuộc.
+- Quen đâu phải là nhớ.
+- Gấp lại. Nói lại mà không nhìn.
+- Rồi mở ra xem sót gì.
+- Dừng video. Nói lại bài hôm nay thành tiếng.
+
+### s27vi [pen] Cach hoc kho ma nho lau — retrieval practice
+- Tự kiểm tra thì khó chịu hơn đọc lại.
+- Bạn vấp. Bạn sai.
+- Nhưng lôi kiến thức ra từ trí nhớ giúp nó bám lâu hơn.
+- Thẻ ghi nhớ, đề luyện, giảng lại thành tiếng.
+- Khó bây giờ, nhẹ lúc đi thi.
+- Hôm nay bạn tự kiểm tra môn gì?
+
+### s73vi [pen] Sao cuoi ngay te la ca ngay te — Peak-end rule
+- Cả ngày suôn sẻ, gần về đến nhà thì kẹt xe cả tiếng.
+- Tối nằm nghĩ lại, thấy hôm nay đúng là một ngày tệ.
+- Trí nhớ không chiếu lại từng giờ một.
+- Nó giữ lúc cảm xúc mạnh nhất, và đoạn kết.
+- Trước khi ngủ, ghi ba chuyện ổn trong ngày, nhỏ cũng được.
+- Một tiếng kẹt xe, có nên thay mặt cho cả ngày không?
+
+### s74vi [buff] Met khong co nghia la tien bo — Effort heuristic
+- Ngồi quán từ sáng tới tối, chép lại vở thật đẹp.
+- Mệt rã người, chắc học được nhiều lắm. Ừ, tin.
+- Mình dễ đo công sức bằng độ mệt, chứ không bằng kết quả.
+- Tập tạ mà chỉ đếm mồ hôi, không theo dõi mức tạ hay số lần, khó biết mình tiến bộ.
+- Đầu buổi, ghi ra cần làm được gì. Cuối buổi, đối chiếu.
+- Mệt chưa chắc đã xong. Làm được mới là xong.
+
+### s75vi [pen] Sao hoc cai moi thay minh vung the — Skill acquisition stages
+- Lần đầu làm bảng tính ở công ty, mình dò từng nút một.
+- Đồng nghiệp bấm vèo vèo. Mình bắt đầu nghĩ: chắc không hợp.
+- Lúc mới học, bước nào cũng phải nghĩ, nên chậm là bình thường.
+- Tập nhiều, các bước dần nối vào nhau, rồi quen tay hơn.
+- Người bấm vèo vèo kia có thể đã tập lâu hơn mình.
+- Đừng chấm điểm cả kỹ năng. Chọn một phần nhỏ, như lọc dữ liệu.
+- Vụng không phải kết luận. Nó chỉ là chặng đầu.
+
+### s76vi [buff] Doi chieu giua chung thay vi co len — Feedback control
+- Làm xong báo cáo ba mươi trang mới đọc lại yêu cầu của sếp.
+- Lệch hướng từ trang hai. Toang.
+- Tự nhủ cố lên không cho bạn biết mình lệch chỗ nào.
+- Phải so chỗ mình đang đứng với cái đích, rồi chỉnh.
+- Làm được nửa thì dừng, mở yêu cầu ra, đánh dấu từng ý.
+- Soi gương giữa hiệp tạ, hoặc tập lại cả hiệp. Chọn đi.
+
+### s77vi [pen] Sao biet ma khong giai thich duoc — Illusion of explanatory depth
+- Em họ hỏi: sao điều hoà lại thổi ra hơi lạnh?
+- Bạn tự tin mở miệng, nói được nửa câu rồi im.
+- Mình thường tưởng mình hiểu sâu hơn thực tế.
+- Hiểu đại khái thì dễ. Kể từng bước mới lộ chỗ trống.
+- Thử viết ra từng bước, không mở điện thoại tra.
+- Chỗ bí là chỗ cần học. Thấy được nó là đã lời rồi.
+
+### s78vi [buff] On thi thi tron dang bai vao — Interleaving effect
+- Ôn chương phương trình, làm hai chục câu y một dạng. Ngon.
+- Vào phòng thi, đề trộn lẫn. Đứng hình.
+- Làm một dạng liền mạch thì cách giải được đưa sẵn rồi.
+- Cái khó thật là nhận ra câu này cần cách nào.
+- Trộn các dạng gần nhau trong một buổi. Trước mỗi câu, gọi tên cách giải.
+- Tập một dạng cả buổi thì dễ chịu. Trộn dạng thường thấy chậm hơn, nhưng dễ nhớ cách chọn hơn.
+
+### s79vi [pen] Sao doc xong la quen sach — Levels of processing
+- Đọc xong mười trang giáo trình, gấp sách lại thì trống trơn.
+- Mắt lướt hết từng dòng, nhưng mình chưa nghĩ kỹ về điều vừa đọc.
+- Thứ mình nghĩ kỹ về nghĩa thường được nhớ lâu hơn.
+- Ý mới dễ nhớ hơn khi nối với điều mình đã biết.
+- Đọc đến lạm phát, nghĩ ngay cốc trà sữa năm ngoái rẻ hơn.
+- Mỗi đoạn, ghi bên lề một ví dụ từ đời mình.
+- Lần sau nghe nhắc đến lạm phát, bạn có thể nhớ lại cốc trà sữa ấy.
+
+### s80vi [buff] Tu giang lai bang loi cua minh — Self-explanation effect
+- Chép lời giải mẫu không sót chữ nào. Hỏi vì sao thì chịu.
+- Chép bài là ngồi xem người khác nâng tạ.
+- Tự giải thích vì sao từng bước đúng mới là tự mình nâng.
+- Nhóm lớp có đứa hỏi bài? Nhận luôn.
+- Giải thích công thức bằng ví dụ đời thường, không đọc lại sách.
+- Bước nào ấp úng, đó là chỗ yếu. Tập lại đúng chỗ đó.
+- Giảng cho người khác, mình thường hiểu chắc hơn.
+- Giải thích được là của mình. Chép thì chỉ là đi mượn.
+
+### s81vi [pen] Vi sao trang giay trang giup nho lau — Generation effect
+- Mở vở ra thì thấy hiểu hết, gấp vở lại thì trống trơn.
+- Chữ mình tự viết ra thường bám lâu hơn chữ chỉ đọc qua.
+- Trước khi xem đáp án, gấp vở lại rồi ghi ý chính ra giấy trắng.
+- Sai cũng được. Mở vở ra, gạch đỏ chỗ còn thiếu.
+- Trang giấy trắng không đáng sợ. Nó chỉ cho bạn thấy mình đang ở đâu.
+
+### s82vi [buff] Dung hoc thuoc bai mau — Transfer appropriate processing
+- Thuộc lòng bài mẫu kế toán, từng dòng một.
+- Vào phòng thi, đề đổi sang tình huống khác. Đứng hình.
+- Tập đúng một bài tạ, lên sàn lại gặp bài khác.
+- Luyện giống kiểu đề sẽ gặp thì lúc thi mới gọi ra được.
+- Tìm ba bài tình huống khác nhau, tự giải, không nhìn bài mẫu.
+- Tối nay một bài lạ. Không xem lời giải. Làm luôn.
+
+### s83vi [pen] Vi sao vi du ky quac lai nho dai — Distinctiveness effect
+- Quên sạch định nghĩa, nhưng nhớ mãi cái ví dụ kỳ quặc thầy kể.
+- Ví dụ na ná nhau thì dễ nhòe vào nhau.
+- Cái gì lạ thì nổi bật, nên não dễ tìm lại.
+- Gặp thuật ngữ khô khan, gắn nó với một chuyện cụ thể.
+- Lợi ích cận biên giảm dần? Ly trà sữa đầu thì sướng, ly thứ ba thì ngán.
+- Lạ thôi, nhưng vẫn phải đúng.
+- Thuật ngữ nào trong sách đang cần một ly trà sữa của riêng nó?
+
+### s84vi [buff] Dung on tu vung mot kieu — Encoding specificity
+- Lật thẻ từ vựng thì thuộc vèo vèo.
+- Người nước ngoài hỏi một câu, đầu trống trơn.
+- Trí nhớ bám vào cách bạn học nó.
+- Chỉ nhìn thẻ thì mới quen mặt chữ, chưa quen tai.
+- Đổi bài tập. Đọc to từ đó lên.
+- Viết nó ra mà không nhìn thẻ.
+- Rồi đặt một câu về chuyện hôm nay của bạn.
+- Năm từ, ba kiểu, ngay tối nay. Lật thẻ không tính là một hiệp.
+
+### s85vi [pen] Vi sao hoc don quen nhanh the — Spacing effect
+- Thức trắng ôn thi, sáng làm bài ổn, tuần sau quên sạch.
+- Nhồi một lần thì đủ dùng cho ngày mai, rồi rơi rụng rất nhanh.
+- Cùng số giờ ấy, chia ra nhiều ngày thường nhớ lâu hơn.
+- Thay vì ba tiếng đêm trước hôm thi, học ba buổi ngắn.
+- Hôm nay, hai hôm nữa, rồi cuối tuần ôn lại.
+- Môn nào bạn đang định để dồn vào đêm cuối?
+
+### s86vi [buff] Doan truoc roi hay doc — Pretesting effect
+- Đọc hết chương rồi mới dám làm bài. Ừ, tin.
+- Lật ngược lại: làm câu hỏi cuối chương trước.
+- Đoán sai cũng chẳng sao.
+- Đoán xong rồi, lúc đọc mắt tự đi tìm đáp án.
+- Giống khởi động trước hiệp tạ nặng.
+- Ghi câu đoán ra giấy, rồi mới đọc phần giải.
+- Chương sau: ba câu đoán mù trước. Đọc sau.

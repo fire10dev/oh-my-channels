@@ -1,0 +1,918 @@
+[
+  {
+    "id": "s181",
+    "mascot": "pen",
+    "title": "Why the Afternoon Slump Feels Predictable",
+    "mechanism": "Circadian rhythm",
+    "lines": [
+      {
+        "vo": "Two in the afternoon, and your screen starts blurring.",
+        "text": "AFTERNOON SLUMP",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "You blame your lack of discipline or the sandwich.",
+        "text": "NOT LACK OF GRIT",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "In reality, your circadian rhythm naturally dips right about now.",
+        "text": "CIRCADIAN DIP",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Pushing high-focus work through this window takes twice the effort.",
+        "text": "FIGHTING BIOLOGY",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Move demanding thinking to the hours you actually feel awake.",
+        "text": "SHIFT DEEP WORK",
+        "color": "green",
+        "actor": "think",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "What if your tired hours were meant for lighter tasks?",
+        "text": "FLOW WITH RHYTHM",
+        "color": "gold",
+        "actor": "writing"
+      }
+    ]
+  },
+  {
+    "id": "s181vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Con buon ngu dau gio chieu",
+    "title_vi": "Cơn buồn ngủ đầu giờ chiều",
+    "mechanism": "Circadian rhythm",
+    "lines": [
+      {
+        "vo": "Vừa ăn trưa xong, ngồi vào bàn làm việc là mắt díp lại.",
+        "text": "DÍP CẢ MẮT",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Bạn tự trách mình thiếu ý chí và lười biếng.",
+        "text": "KHÔNG PHẢI LƯỜI",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Thực ra đồng hồ sinh học luôn hạ nhiệt tự nhiên lúc đầu giờ chiều.",
+        "text": "NHỊP SINH HỌC",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Cố giải quyết việc khó lúc này chỉ khiến đầu óc thêm căng thẳng.",
+        "text": "ÉP NÃO LÀM VIỆC",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Hãy để sáng sớm cho việc khó, chiều xử lý giấy tờ nhẹ nhàng.",
+        "text": "DỜI VIỆC NẶNG",
+        "color": "green",
+        "actor": "think",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Thuận theo nhịp của cơ thể chẳng phải nhẹ nhàng hơn sao?",
+        "text": "NƯƠNG THEO CƠ THỂ",
+        "color": "gold",
+        "actor": "writing"
+      }
+    ]
+  },
+  {
+    "id": "s182",
+    "mascot": "buff",
+    "title": "Your Brain Needs a Transition",
+    "mechanism": "Arousal carryover",
+    "lines": [
+      {
+        "vo": "Closed your game and hopped straight into bed. Good luck sleeping.",
+        "text": "ZERO TRANSITION",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "High excitement leaves nervous energy buzzing in your veins.",
+        "text": "BRAIN STILL RACING",
+        "prop": "brain"
+      },
+      {
+        "vo": "You cannot slam the brakes from fifth gear to zero instantly.",
+        "text": "NEEDS COOLDOWN",
+        "actor": "arms_crossed_no",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Kill the screen. Take five quiet minutes before the pillow.",
+        "text": "FIVE MINUTE BUFFER",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Treat bedtime like a cooldown rep. Sleep wins.",
+        "text": "COOL DOWN FIRST",
+        "color": "gold",
+        "actor": "sleeping",
+        "prop": "moon_stars"
+      }
+    ]
+  },
+  {
+    "id": "s182vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Ha nhiet truoc khi di ngu",
+    "title_vi": "Hạ nhiệt trước khi đi ngủ",
+    "mechanism": "Arousal carryover",
+    "lines": [
+      {
+        "vo": "Vừa tắt ván game căng thẳng là nhảy tót lên giường ngủ ngay.",
+        "text": "VỪA GAME XONG",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Tim vẫn đập nhanh, đầu óc vẫn chạy đua từng pha combat.",
+        "text": "NÃO CHƯA NGHỈ",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đang sốt sắng mà đòi ngủ liền thì không có đâu.",
+        "text": "KHÔNG THỂ ÉP NGỦ",
+        "actor": "arms_crossed_no",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Tắt máy tính, ngồi yên năm phút trong phòng tối để xả cơ.",
+        "text": "NGỒI YÊN 5 PHÚT",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Cơ bắp cần xả tạ thì não cũng cần hạ nhiệt. Làm đi.",
+        "text": "HẠ NHIỆT NÃO BỘ",
+        "color": "gold",
+        "actor": "sleeping",
+        "prop": "moon_stars"
+      }
+    ]
+  },
+  {
+    "id": "s183",
+    "mascot": "pen",
+    "title": "Why Tired Choices Feel Harder",
+    "mechanism": "Sleep pressure",
+    "lines": [
+      {
+        "vo": "Late at night, choosing what to wear tomorrow feels exhausting.",
+        "text": "DECISION FATIGUE",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "The simple question feels heavy and complicated.",
+        "text": "HEAVY CHOICES",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "As waking hours stretch, biological sleep pressure gradually builds up.",
+        "text": "SLEEP PRESSURE",
+        "prop": "brain"
+      },
+      {
+        "vo": "Your prefrontal thinking gets sluggish long before your eyes shut.",
+        "text": "TIRED BRAIN",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Pick tomorrow's clothes while you still have dinner energy.",
+        "text": "DECIDE EARLY",
+        "color": "green",
+        "actor": "think"
+      },
+      {
+        "vo": "Remove small hurdles before you run out of fuel.",
+        "text": "CLEAR THE PATH",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Your future exhausted self will thank you for the quiet morning.",
+        "text": "EASY MORNING",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s183vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Khi met, chon gi cung kho",
+    "title_vi": "Khi mệt, chọn gì cũng khó",
+    "mechanism": "Sleep pressure",
+    "lines": [
+      {
+        "vo": "Tối muộn đứng trước tủ đồ, chọn bộ đi làm sáng mai cũng thấy mệt.",
+        "text": "ĐỨNG HÌNH TRƯỚC TỦ",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Một việc cỏn con bỗng biến thành một bài toán hóc búa.",
+        "text": "CHUYỆN NHỎ HOÁ TO",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Càng thức lâu, áp lực giấc ngủ trong não càng tích tụ dày thêm.",
+        "text": "ÁP LỰC GIẤC NGỦ",
+        "prop": "brain"
+      },
+      {
+        "vo": "Khả năng cân nhắc suy giảm rõ rệt khi cơ thể bắt đầu rã rời.",
+        "text": "ĐẦU ÓC MỜ MỊT",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Hãy là ủi và soạn đồ sẵn từ chập tối, lúc bạn còn tỉnh táo.",
+        "text": "SOẠN ĐỒ TỪ SỚM",
+        "color": "green",
+        "actor": "think"
+      },
+      {
+        "vo": "Dọn sẵn đường đi trước khi nguồn năng lượng cạn kiệt.",
+        "text": "BỚT QUYẾT ĐỊNH",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Sáng dậy chỉ việc mặc vào, ngày mới nhẹ nhõm hơn biết bao.",
+        "text": "SÁNG MAI THẢNH THƠI",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s184",
+    "mascot": "buff",
+    "title": "Use a Reliable Wake-Up Anchor",
+    "mechanism": "Sleep-wake regularity",
+    "lines": [
+      {
+        "vo": "Waking at seven on weekdays, then noon on Sunday. Classic mistake.",
+        "text": "SLEEPING TILL NOON",
+        "color": "red",
+        "actor": "snooze",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "You give your brain jet lag without leaving your bed.",
+        "text": "WEEKEND JET LAG",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Your internal biological clock relies on a single anchor point: wake time.",
+        "text": "THE WAKE ANCHOR",
+        "prop": "brain"
+      },
+      {
+        "vo": "Shift that anchor by four hours, and your whole rhythm drifts out to sea.",
+        "text": "RHYTHM DERAILED",
+        "actor": "confused_shrug",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Lock down one steady wake time. Keep it tight across seven days.",
+        "text": "LOCK YOUR ALARM",
+        "color": "green",
+        "actor": "point_viewer",
+        "prop": "target"
+      },
+      {
+        "vo": "Consistency is your base foundation. Stop rocking the boat.",
+        "text": "HOLD THE LINE",
+        "color": "gold",
+        "actor": "sprint_start"
+      }
+    ]
+  },
+  {
+    "id": "s184vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Neo co dinh gio thuc day",
+    "title_vi": "Neo cố định giờ thức dậy",
+    "mechanism": "Sleep-wake regularity",
+    "lines": [
+      {
+        "vo": "Đi làm dậy bảy giờ, cuối tuần nướng tới tận trưa trật. Quen chưa?",
+        "text": "NGỦ NƯỚNG CUỐI TUẦN",
+        "color": "red",
+        "actor": "snooze",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Tự tạo lệch múi giờ ngay trên chiếc giường của mình.",
+        "text": "LỆCH MÚI GIỜ PHÒNG",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Đồng hồ sinh học vận hành nhờ một điểm neo duy nhất: giờ mở mắt.",
+        "text": "ĐIỂM NEO GIỜ DẬY",
+        "prop": "brain"
+      },
+      {
+        "vo": "Cuối tuần xê dịch bốn tiếng, tối chủ nhật nằm trằn trọc ráng chịu.",
+        "text": "TỐI CHỦ NHẬT TRẮNG",
+        "actor": "confused_shrug",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Chốt cứng một khung giờ dậy, kể cả thứ bảy hay chủ nhật.",
+        "text": "GIỮ CHẮC GIỜ DẬY",
+        "color": "green",
+        "actor": "point_viewer",
+        "prop": "target"
+      },
+      {
+        "vo": "Giữ vững kỷ luật này, sáng nào bạn cũng sẵn sàng vào hiệp mới.",
+        "text": "SẴN SÀNG VÀO HIỆP",
+        "color": "gold",
+        "actor": "sprint_start"
+      }
+    ]
+  },
+  {
+    "id": "s185",
+    "mascot": "pen",
+    "title": "Why a Short Pause Can Restore Focus",
+    "mechanism": "Microbreaks",
+    "lines": [
+      {
+        "vo": "Staring unblinking at the same presentation slide for two straight hours.",
+        "text": "TWO HOURS FROZEN",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "The words keep repeating, but none of them register anymore.",
+        "text": "EMPTY FOCUS",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Continuous focus dulls mental responsiveness like worn-out paper.",
+        "text": "HABITUATION",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "A sixty-second microbreak to look out the window resets processing.",
+        "text": "ONE MINUTE RESET",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Sometimes the quickest way forward is stepping back for a breath.",
+        "text": "PAUSE TO SEE",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s185vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Mot phut nghi giua chang",
+    "title_vi": "Một phút nghỉ giữa chặng",
+    "mechanism": "Microbreaks",
+    "lines": [
+      {
+        "vo": "Dán mắt vào mấy chục trang bài thuyết trình hai tiếng không chớp.",
+        "text": "HAI TIẾNG DÁN MẮT",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Chữ chạy qua mắt nhưng đầu óc hoàn toàn rỗng tuếch.",
+        "text": "NÃO ĐỨNG HÌNH",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Sự tập trung liên tục dễ làm não bị trơ và giảm độ nhạy.",
+        "text": "SỰ TRƠ CẢM GIÁC",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Đứng dậy ra bình rót một cốc nước, nhìn ra ngoài ban công một phút.",
+        "text": "ĐỨNG DẬY LẤY NƯỚC",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Chỉ một khoảng dừng ngắn ngủi, mạch nghĩ lại thông suốt trở lại.",
+        "text": "KHOẢNG DỪNG NHẸ",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s186",
+    "mascot": "buff",
+    "title": "Tackle the Afternoon Dip",
+    "mechanism": "Post-lunch dip",
+    "lines": [
+      {
+        "vo": "Trying to draft a complex project plan at two in the afternoon?",
+        "text": "HEAVY LIFT AT 2 PM",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Stop fighting your natural post-lunch dip with pure willpower.",
+        "text": "WILLPOWER IS DOWN",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Your biology dials back alertness right now, food coma or not.",
+        "text": "POST LUNCH DIP",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Do not bench press max weight on empty reserves.",
+        "text": "WRONG TIMING",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Use this slump for sorting emails and clearing out simple files.",
+        "text": "LIGHT TASKS ONLY",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Save the heavy mental lifting for tomorrow morning. Work smart.",
+        "text": "HEAVY REPS IN AM",
+        "color": "gold",
+        "actor": "think",
+        "prop": "calendar_today"
+      }
+    ]
+  },
+  {
+    "id": "s186vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Tranh nang ta nang luc met",
+    "title_vi": "Tránh nâng tạ nặng lúc mệt",
+    "mechanism": "Post-lunch dip",
+    "lines": [
+      {
+        "vo": "Đầu giờ chiều mà lôi kế hoạch chiến lược cả quý ra viết tiếp.",
+        "text": "VIỆC KHÓ ĐẦU CHIỀU",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Càng cố gồng, mắt càng díp lại, chữ nhảy múa loạn xạ.",
+        "text": "GỒNG KHÔNG NỔI",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Giai đoạn này cơ thể tự giảm mức tỉnh táo theo chu kỳ sinh học.",
+        "text": "CƠ THỂ XUỐNG DỐC",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Hết pin mà đòi nâng tạ nặng thì chỉ có sập nguồn.",
+        "text": "HẾT PIN ĐÒI GÁNH",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Dành giờ này để dọn hòm thư, phân loại hoá đơn và giấy tờ.",
+        "text": "DỌN THƯ DỌN TỆP",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Việc nặng dồn hết về đầu buổi sáng. Đó mới là chiến thuật khôn.",
+        "text": "ĐỂ SÁNG HÃY LÀM",
+        "color": "gold",
+        "actor": "think",
+        "prop": "calendar_today"
+      }
+    ]
+  },
+  {
+    "id": "s187",
+    "mascot": "pen",
+    "title": "Why Your Room Changes Your Pace",
+    "mechanism": "Environmental affordances",
+    "lines": [
+      {
+        "vo": "You promised yourself you would read twenty pages tonight.",
+        "text": "READ TONIGHT",
+        "actor": "think"
+      },
+      {
+        "vo": "Yet your phone is on the pillow, and the book is buried in your bag.",
+        "text": "BOOK HIDDEN AWAY",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Your space creates affordances, silently deciding which friction is lowest.",
+        "text": "PATH OF LEAST DRAG",
+        "prop": "target"
+      },
+      {
+        "vo": "Whatever is in arm's reach wins by default.",
+        "text": "PROXIMITY WINS",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Unpack the textbook and place it open right on your desk.",
+        "text": "PUT IT IN SIGHT",
+        "color": "green",
+        "actor": "reading",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "What kind of habits is your desk inviting right now?",
+        "text": "WHAT DOES ROOM SAY",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s187vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Goc phong quyet dinh thoi quen",
+    "title_vi": "Góc phòng quyết định thói quen",
+    "mechanism": "Environmental affordances",
+    "lines": [
+      {
+        "vo": "Tự nhủ tối nay về phòng trọ sẽ đọc xong chương giáo trình.",
+        "text": "TỰ HỨA HỌC BÀI",
+        "actor": "think"
+      },
+      {
+        "vo": "Nhưng điện thoại nằm ngay đầu giường, còn sách thì nhét sâu dưới đáy ba lô.",
+        "text": "SÁCH NẰM ĐÁY BA LÔ",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Không gian quanh bạn tự động dẫn đường cho hành vi tốn ít sức nhất.",
+        "text": "LỰC HÚT KHÔNG GIAN",
+        "prop": "target"
+      },
+      {
+        "vo": "Vật gì tiện tay với thì não sẽ chọn làm trước.",
+        "text": "TIỆN TAY LÀ LÀM",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Lấy sách ra khỏi cặp, mở sẵn trên bàn học ngay khi vừa về đến nơi.",
+        "text": "BÀY SÁCH RA BÀN",
+        "color": "green",
+        "actor": "reading",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Bàn học của bạn đang mời gọi lướt mạng hay mở sách ra đọc?",
+        "text": "GÓC HỌC MỜI GỌI GÌ",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s188",
+    "mascot": "buff",
+    "title": "Move Your Body to Clear Your Head",
+    "mechanism": "Transient hypofrontality",
+    "lines": [
+      {
+        "vo": "Stuck on the same stubborn problem for forty-five minutes?",
+        "text": "STUCK ON REPEAT",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Staring harder at the wall will not break the lock.",
+        "text": "GLARING WONT WORK",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Your frontal cortex is redlining and drowning in its own loop.",
+        "text": "OVERLOADED BRAIN",
+        "prop": "brain"
+      },
+      {
+        "vo": "Rhythmic movement temporarily dials down that mental critic.",
+        "text": "RHYTHMIC SHIFT",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Hit the pavement for a brisk ten-minute walk right now.",
+        "text": "TEN MINUTE WALK",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Let your legs do the pacing so your thoughts can untangle.",
+        "text": "UNCLOG THE PIPE",
+        "color": "green",
+        "actor": "jogging"
+      },
+      {
+        "vo": "Sit there frying or walk it off and conquer the set. Move.",
+        "text": "WALK OR REMAIN STUCK",
+        "color": "gold",
+        "actor": "sprint_start"
+      }
+    ]
+  },
+  {
+    "id": "s188vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung len di bo cho thong nao",
+    "title_vi": "Đứng lên đi bộ cho thông não",
+    "mechanism": "Transient hypofrontality",
+    "lines": [
+      {
+        "vo": "Ngồi cày đồ án lớn suốt gần một tiếng mà dòng code vẫn báo lỗi.",
+        "text": "BẾ TẮC CẢ TIẾNG",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Càng trừng mắt nhìn màn hình, giải pháp càng lặn mất tăm.",
+        "text": "CÀNG NHÌN CÀNG RỐI",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Phần não kiểm soát logic đang nóng máy và kẹt trong vòng lặp luẩn quẩn.",
+        "text": "NÃO BỊ NÓNG MÁY",
+        "prop": "brain"
+      },
+      {
+        "vo": "Vận động nhịp nhàng giúp hệ thần kinh tạm giảm tải cho vùng chỉ huy.",
+        "text": "HẠ TẢI HỆ THẦN KINH",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Xỏ dép vào, đi bộ nhanh mười phút một vòng quanh khu trọ.",
+        "text": "LÀM VÒNG KHU TRỌ",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Đôi chân sải bước thì nút thắt trong đầu mới tự nới lỏng.",
+        "text": "BƯỚC CHÂN NỚI NÚT",
+        "color": "green",
+        "actor": "jogging"
+      },
+      {
+        "vo": "Một là ngồi ôm bực bội, hai là đứng dậy đi bộ xả cơ. Quyết đi.",
+        "text": "ĐỨNG DẬY ĐI BỘ",
+        "color": "gold",
+        "actor": "sprint_start"
+      }
+    ]
+  },
+  {
+    "id": "s189",
+    "mascot": "pen",
+    "title": "Why a Walk Can Clear Your Head",
+    "mechanism": "Embodied cognition",
+    "lines": [
+      {
+        "vo": "You need an opening hook for your speech, but the page stays blank.",
+        "text": "BLANK PAGE TRAP",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Trapping your body in a rigid chair traps your perspective too.",
+        "text": "RIGID BODY LOCKED",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "How your body moves directly shapes the fluidity of your thinking.",
+        "text": "EMBODIED THOUGHT",
+        "prop": "brain"
+      },
+      {
+        "vo": "Linear strides invite open, flexible mental connections.",
+        "text": "STRIDE AND WANDER",
+        "actor": "jogging"
+      },
+      {
+        "vo": "Step outside for a gentle stroll, turning the idea loosely over.",
+        "text": "GENTLE STROLL",
+        "color": "green",
+        "actor": "think",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Ideas rarely chase us down when we are sitting perfectly still.",
+        "text": "THOUGHTS IN MOTION",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s189vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Chan buoc, y tuong mo loi",
+    "title_vi": "Chân bước, ý tưởng mở lối",
+    "mechanism": "Embodied cognition",
+    "lines": [
+      {
+        "vo": "Cần nghĩ lời mở đầu cho bài thuyết trình mà trang giấy vẫn trắng tinh.",
+        "text": "TRANG GIẤY TRẮNG",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Cố ép mình ngồi im một chỗ chỉ làm suy nghĩ đóng băng theo.",
+        "text": "ÉP MÌNH MỘT CHỖ",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Cơ thể cử động thế nào sẽ dẫn dắt nhịp độ tư duy như thế đó.",
+        "text": "TƯ DUY LIÊN ĐỚI",
+        "prop": "brain"
+      },
+      {
+        "vo": "Từng bước chân thong thả giúp các mạch liên tưởng mở rộng tự nhiên.",
+        "text": "BƯỚC ĐI TỰ NHIÊN",
+        "actor": "jogging"
+      },
+      {
+        "vo": "Rảo bước vài con ngõ gần nhà, thả lỏng đầu óc để câu chữ tự ùa về.",
+        "text": "DẠO QUANH VÀI NGÕ",
+        "color": "green",
+        "actor": "think",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Đôi khi cảm hứng chỉ xuất hiện khi đôi chân bắt đầu chuyển động.",
+        "text": "CẢM HỨNG THEO CHÂN",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s190",
+    "mascot": "buff",
+    "title": "Give Your Day a Real Ending",
+    "mechanism": "Psychological detachment from work",
+    "lines": [
+      {
+        "vo": "Sitting at dinner, but your brain is still answering client messages.",
+        "text": "STILL ON THE CLOCK",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "If you do not call time on the shift, work never leaves your head.",
+        "text": "NO CLEAR FINISH",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Your mind stays on duty until you signal a definite shutdown.",
+        "text": "SIGNAL DETACHMENT",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Jot down tomorrow's first morning rep on a notepad.",
+        "text": "WRITE FIRST REP",
+        "color": "green",
+        "actor": "writing",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Close the laptop lid, pack your bag, and clock out for real.",
+        "text": "SHUT DOWN THE RIG",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Workout is over. Step out of the weight room and live.",
+        "text": "SESSION OVER",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s190vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Ha man ngay lam viec",
+    "title_vi": "Hạ màn ngày làm việc",
+    "mechanism": "Psychological detachment from work",
+    "lines": [
+      {
+        "vo": "Đang ngồi ăn cơm tối mà mắt vẫn liếc thông báo nhóm Zalo công ty.",
+        "text": "ĂN CƠM CÙNG ZALO",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Không chịu bấm giờ kết thúc thì việc sẽ bám theo bạn cả đêm.",
+        "text": "VIỆC BÁM CẢ ĐÊM",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Não bộ không thể xả hơi nếu bạn không có tín hiệu ngắt dứt khoát.",
+        "text": "CẦN TÍN HIỆU NGẮT",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Ghi rõ việc quan trọng đầu tiên của ngày mai ra cuốn sổ nhỏ.",
+        "text": "GHI VIỆC SÁNG MAI",
+        "color": "green",
+        "actor": "writing",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Gập máy tính lại, cất vào ba lô và chính thức kết thúc ca làm.",
+        "text": "GẬP MÁY TAN CA",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Buổi tập kết thúc rồi, ra khỏi phòng gym và sống tiếp cuộc đời bạn đi.",
+        "text": "BUỔI TẬP ĐÃ XONG",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  }
+]

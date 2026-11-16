@@ -1,0 +1,959 @@
+{
+ "id": "L10vi",
+ "lang": "vi",
+ "title": "Vì sao tin nhắn công việc cứ chen ngang cả ngày?",
+ "description": "Những tiếng chuông thông báo liên tục đang phá nát sự tập trung sâu của bạn. Hãy khám phá tám cái bẫy tâm lý sau sự quá tải tin nhắn và học các bài tập đơn giản để bảo vệ một ngày làm việc hiệu quả.",
+ "chapters": [
+  {
+   "title": "Bẫy tin nhắn",
+   "sources": [
+    "s01",
+    "s02",
+    "s03",
+    "s04",
+    "s05",
+    "s06",
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa mở máy định viết báo cáo, thông báo Zalo nhóm đã nhảy loạn xạ phá sạch tập trung.",
+     "text": "BẪY TIN NHẮN",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trả lời xong vừa quay lại màn hình, tin nhắn mới lại lập tức nhảy vào.",
+     "text": "LẠI NỮA RỒI",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là đi tong buổi sáng, chưa kịp khởi động đã đứt gánh giữa đường.",
+     "text": "HỎNG BUỔI KHỞI ĐỘNG",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao dù cố gắng tập trung, chúng ta vẫn liên tục bị kéo đi?",
+     "text": "TẠI SAO LẠI THẾ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có tám cái bẫy tâm lý từ tin nhắn công việc đang cướp sạch sự chú ý.",
+     "text": "TÁM CÁI BẪY NGẦM",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn rõ các bẫy, chỉnh lại từng hiệp và lấy lại ngày làm việc thôi.",
+     "text": "LẤY LẠI MỘT NGÀY",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Thiên vị khẩn cấp",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa ngồi vào bàn viết, chưa xong một đoạn thì điện thoại đã rung liên hồi.",
+     "text": "1. THIÊN VỊ KHẨN CẤP",
+     "color": "ink",
+     "actor": "front",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngực tôi thắt lại vì cảm giác người ta đang chờ câu trả lời gấp.",
+     "text": "CẦN TRẢ LỜI NGAY",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là thiên vị khẩn cấp, Pen coi tin nhắn nào cũng là mức tạ kịch khung.",
+     "text": "MỨC TẠ KỊCH KHUNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kể cả khi người ta chỉ hỏi trưa nay ăn cơm tấm hay bún bò hả Buff?",
+     "text": "ĂN CƠM HAY BÚN BÒ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Càng đúng. Tin nhắn đến luôn tạo cảm giác khẩn cấp dù việc cỏn con.",
+     "text": "CẢM GIÁC RẤT GẤP",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao đầu óc cứ cuống lên vì những câu hỏi vặt vãnh có thể chờ?",
+     "text": "SAO LẠI HOẢNG LOẠN?",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não thèm thắng nhanh, gạch xong một việc là thấy thỏa mãn tức thì.",
+     "text": "THÈM THẮNG NHANH",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên tôi lao vào việc vặt chỉ để tự lừa là mình đang tiến triển?",
+     "text": "TIẾN TRIỂN ẢO",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Trước khi gõ trả lời, hãy tự hỏi việc này có cần trong hai giờ không.",
+     "text": "CÓ CẦN TRONG HAI GIỜ?",
+     "color": "green",
+     "actor": "34",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu không, buông tạ xuống và dồn sang ca làm việc buổi chiều.",
+     "text": "BUÔNG TẠ XUỐNG",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lỡ có sự cố cháy việc thật trong lúc tôi không đọc tin nhóm thì sao?",
+     "text": "LỠ CÓ CHUYỆN GẤP SAO?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Việc khẩn cấp người ta sẽ gọi điện, nhưng Pen cứ cắm mắt canh tin nhắn.",
+     "text": "VIỆC GẤP SẼ GỌI ĐIỆN",
+     "color": "gold",
+     "actor": "facepalm",
+     "prop": "laptop_file"
+    }
+   ]
+  },
+  {
+   "title": "2. Chú ý phân mảnh",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi chia đôi màn hình, một bên mở báo cáo, một bên bật sẵn ô tin nhắn.",
+     "text": "2. CHÚ Ý PHÂN MẢNH",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tưởng là phản ứng nhanh, nhưng đầu óc tôi nát vụn từng mảnh.",
+     "text": "TẬP TRUNG VỤN VỠ",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là chú ý phân mảnh, nâng hai cây tạ cùng lúc thì rơi cả đôi.",
+     "text": "RƠI CẢ HAI CÂY TẠ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tưởng làm được nhiều việc, sao chưa xong gì mà người đã mệt lử?",
+     "text": "SAO VẪN KIỆT SỨC?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não luôn cảnh giác cao độ, liếc ngang liếc dọc chứ đâu thể chìm sâu.",
+     "text": "CẢNH GIÁC LIÊN TỤC",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi từng tin mở ô trò chuyện liên tục giúp mình hỗ trợ đồng đội lẹ hơn.",
+     "text": "TƯỞNG LÀ NHANH HƠN",
+     "color": "red",
+     "actor": "nervous_wave",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lẹ đâu không thấy, chỉ thấy cạn pin não vì mắt đảo qua đảo lại liên tục.",
+     "text": "CẠN SẠCH PIN NÃO",
+     "color": "red",
+     "actor": "front",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm thế nào để đủ kỷ luật không liếc nhìn tin nhắn mới nhảy lên hả Buff?",
+     "text": "LÀM SAO RỜI MẮT ĐƯỢC?",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi như một hiệp bấm giờ, tắt thông báo ba mươi phút để làm đúng một việc.",
+     "text": "HIỆP BẤM GIỜ",
+     "color": "green",
+     "actor": "34",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không chia màn hình, không nhìn lén, tập đúng một bài tới khi chuông reo.",
+     "text": "TẬP TRUNG TOÀN LỰC",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghe đơn giản, nhưng đến lúc mở tin nhắn ra xem thì sao?",
+     "text": "LÚC BẬT LẠI THÌ SAO?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gửi tin xong xuôi rồi, đầu Pen vẫn tua đi tua lại chuyện người ta vừa nhắn.",
+     "text": "ĐẦU VẪN TUA LẠI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    }
+   ]
+  },
+  {
+   "title": "3. Cặn dư chú ý",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trả lời xong tin nhắn khó nhằn mười lăm phút trước, đầu tôi vẫn chưa thoát ra được.",
+     "text": "3. CẶN DƯ CHÚ Ý",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mắt dán vào bảng tính, nhưng đầu óc cứ trôi về cuộc trò chuyện dang dở.",
+     "text": "TƯ TƯỞNG TRÔI DẠT",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là cặn dư chú ý. Gánh tạ xong không chịu hạ giá, bảo sao vai không mỏi nhừ.",
+     "text": "HẠ TẠ XUỐNG GIÁ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như có lớp màng nhiễu dính chặt lấy mọi việc làm tiếp theo.",
+     "text": "NHIỄU LOẠN TÂM TRÍ",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuyển việc khi vấn đề chưa khép lại, một phần chú ý sẽ kẹt cứng ở đó.",
+     "text": "CHÚ Ý BỊ MẮC KẸT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vài dòng gõ vội mà phá tan sự tập trung suốt nửa tiếng đồng hồ ư?",
+     "text": "PHÁ HỎNG NỬA TIẾNG?",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phần cặn đó cứ âm ỉ bám theo, phá đám bất cứ việc gì Pen làm sau đó.",
+     "text": "DƯ ÂM CÒN DÍNH LẠI",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm cách nào ép não buông bỏ để tập trung làm việc lại đây?",
+     "text": "LÀM SAO ĐỂ BUÔNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trả tạ về giá đi. Lấy sổ tay ghi đúng một bước tiếp theo cho việc đó.",
+     "text": "HẠ TẠ VÀO GIÁ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ý nằm trên giấy rồi, não mới an tâm tắt vòng lặp chạy ngầm đó đi.",
+     "text": "DỌN SẠCH ĐẦU ÓC",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Viết ra giống như cắm mốc đánh dấu suy nghĩ cho an tâm đúng không?",
+     "text": "ĐÁNH DẤU SUY NGHĨ",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Bị ngắt giữa hiệp, công sức lấy lại đà ban đầu cực kỳ tốn kém.",
+     "text": "CÁI GIÁ CỰC ĐẮT",
+     "color": "gold",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "4. Chi phí ngắt quãng",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đang vào guồng làm việc, chuông báo gấp nhảy lên cắt phăng dòng suy nghĩ.",
+     "text": "4. CHI PHÍ NGẮT QUÃNG",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trả lời xong, tôi ngồi ngẩn ngơ nhìn màn hình, không nhớ mình vừa làm tới đâu.",
+     "text": "ĐỨT MẠCH SUY NGHĨ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là chi phí ngắt quãng, buông tạ giữa chừng rồi phải gồng sức nâng lại từ đầu.",
+     "text": "NÂNG LẠI TỪ ĐẦU",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác đầu óc mất trắng bản nháp và phải tải lại mọi thứ từ trí nhớ.",
+     "text": "TẢI LẠI TỪ BỘ NHỚ",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dựng lại khung ý tưởng đó đốt sạch năng lượng và ngốn cả đống thời gian.",
+     "text": "HAO TỔN NĂNG LƯỢNG",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mới hai giờ chiều mà đầu đã đau nhức, việc chính vẫn chưa đâu vào đâu.",
+     "text": "CHIỀU ĐẾN LÀ KIỆT SỨC",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thủ phạm rút cạn sức là thời gian ngơ ngác lấy lại đà, chứ đâu chỉ vài giây đọc tin.",
+     "text": "THỜI GIAN LẤY LẠI ĐÀ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi phải làm gì khi có những tin nhắn ngắt ngang thực sự không thể ngó lơ?",
+     "text": "KHI KHÔNG THỂ TRÁNH?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi chuông giục bấm, dừng một nhịp, gõ nốt một câu chốt lại ý đang nghĩ đã.",
+     "text": "GHI LẠI MẨU Ý TƯỞNG",
+     "color": "green",
+     "actor": "writing",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để lại một dòng ghi chú dở dang trên màn hình, quay lại là làm tiếp được ngay.",
+     "text": "VÀO LẠI KHÔNG DO DỰ",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dòng ghi chú đó giống như người đỡ tạ giúp tôi vào lại hiệp đúng không?",
+     "text": "NHƯ NGƯỜI ĐỠ TẠ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Nhưng tư thế tốt cỡ nào cũng gãy nếu cách phối hợp của nhóm có vấn đề.",
+     "text": "PHỐI HỢP RỐI LOẠN",
+     "color": "gold",
+     "actor": "nervous_wave",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "5. Bẫy phối hợp",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhóm trò chuyện chia dự án ra hai mươi phần, rồi mọi thứ rối tung lên.",
+     "text": "5. BẪY PHỐI HỢP",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ai cũng xong phần việc của mình, nhưng không ai biết ghép các mảnh lại.",
+     "text": "KHÔNG KHỚP ĐƯỢC NHAU",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng bẫy phối hợp rồi. Chia nhau tập từng hiệp, nhưng chẳng ai chịu ráp bài tổng thể.",
+     "text": "QUÊN RÁP BÀI CHUNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ ngỡ chăm nhắn tin báo tình hình là việc tự nhiên sẽ ăn khớp.",
+     "text": "TƯỞNG LÀ KHỚP NHAU",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhầm to. Chia việc thì rất dễ, nhưng người ta luôn coi nhẹ ma sát lúc ráp nối.",
+     "text": "MA SÁT KHI RÁP LẠI",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên cả nhóm cứ nhắn loạn xạ, như ghép tranh mà không có hình mẫu ngoài hộp?",
+     "text": "GHÉP TRANH KHÔNG HÌNH",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhóm trò chuyện tiện quá nên chẳng ai buồn chỉ định người ráp nối cuối cùng.",
+     "text": "THIẾU NGƯỜI CHỐT VIỆC",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để nhóm không biến thành bãi tranh cãi xem ai phải làm gì?",
+     "text": "AI CHỊU TRÁCH NHIỆM?",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trước khi nhận việc, phải chốt bàn giao, hỏi rõ ai ráp nối sản phẩm cuối.",
+     "text": "CHỐT KHÂU BÀN GIAO",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Biết ai chốt tổng thể sẽ dẹp tan hàng tá tin nhắn hỏi han hoảng loạn.",
+     "text": "BỚT HỎI TÌNH HÌNH",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rõ đầu mối rồi, nhưng còn áp lực ngầm phải trả lời tin nhắn tức thì thì sao?",
+     "text": "ÁP LỰC PHẢI TRẢ LỜI",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Áp lực vô hình đó là con quái thú khác, và cả nhóm đang nuôi béo nó mỗi ngày.",
+     "text": "ÁP LỰC VÔ HÌNH",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "6. Kỳ vọng phản hồi",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đồng nghiệp nhắn lại ngay tắp lự, làm tôi thấy có lỗi nếu để họ đợi năm phút.",
+     "text": "6. KỲ VỌNG PHẢN HỒI",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi ngồi canh bàn phím, sốt vó muốn chứng minh mình vẫn đang ngồi làm việc.",
+     "text": "CANH TỪNG PHÍM GÕ",
+     "color": "red",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là kỳ vọng phản hồi. Pen đang gồng tạ quá sức vì thấy người khác đua tốc độ.",
+     "text": "ĐUA TRẢ LỜI NHANH",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Công ty đâu có quy định bắt buộc phải trả lời tin nhắn ngay lập tức đâu Buff?",
+     "text": "CÓ QUY ĐỊNH NÀO ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không hề có. Nhưng tập thể tự tạo luật ngầm, rồi mức chuẩn đó cứ thế tăng dần.",
+     "text": "LUẬT NGẦM TỰ ĐẶT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chúng ta tự nhốt mình vào cuộc đua vô hình, ai gõ nhanh nhất trông có vẻ chăm nhất.",
+     "text": "CUỘC ĐUA ẢO TƯỞNG",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Ai cũng tưởng người khác muốn trả lời liền, thành ra dán mắt vào ô tin nhắn.",
+     "text": "DÁN MẮT VÀO TIN NHẮN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao bước xuống máy chạy này mà không bị coi là thiếu trách nhiệm?",
+     "text": "LÀM SAO BƯỚC XUỐNG?",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bật chế độ tập trung và đặt trạng thái rõ ràng để đồng nghiệp biết mà chờ.",
+     "text": "BẬT DÒNG TRẠNG THÁI",
+     "color": "green",
+     "actor": "34",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi rõ chỉ kiểm tra tin lúc mười một giờ và ba giờ chiều, ai cũng khỏi sốt ruột.",
+     "text": "GIỜ TRẢ LỜI CỐ ĐỊNH",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói rõ khung giờ đó ra là ngầm cho phép mọi người yên tâm làm việc sao?",
+     "text": "ĐƯỢC PHÉP TẬP TRUNG",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác, nhưng khung giờ cũng vô hiệu nếu lượng tin nhắn xả xuống như lũ quét.",
+     "text": "BÃO TIN NHẮN NGẬP ĐẦU",
+     "color": "gold",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    }
+   ]
+  },
+  {
+   "title": "7. Quá tải tin nhắn",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sáng vừa mở tin nhắn đã thấy tám mươi thông báo giục trả lời ngay.",
+     "text": "7. QUÁ TẢI TIN NHẮN",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vừa gõ xong hai mươi việc gấp, ba mươi câu hỏi mới lại ập tới.",
+     "text": "TIN ĐẾN DỒN DẬP",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là quá tải tin nhắn. Pen đang cố gánh hết tạ cả phòng tập một lúc đấy.",
+     "text": "GÁNH HẾT TẠ MỘT LÚC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao nhóm nhắn tin nhiều gấp đôi mà chốt việc lại chậm một nửa?",
+     "text": "NHẮN LẮM QUYẾT CHẬM",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ nhớ làm việc của não có giới hạn, dội cả núi tin nhắn vào là sập nguồn thôi.",
+     "text": "BỘ NHỚ QUÁ TẢI",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Quyết định then chốt bị trôi sạch trong đống chuyện phiếm, tìm lại phát mệt.",
+     "text": "CHÌM MẤT VIỆC CHÍNH",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xử lý hàng trăm tin nhắn vặt vãnh làm não kiệt quệ trước khi đụng vào việc quan trọng.",
+     "text": "KIỆT SỨC VÌ VIỆC VẶT",
+     "color": "red",
+     "actor": "think",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tinh giản khi nhóm dùng quá nhiều kênh trò chuyện hả Buff?",
+     "text": "LÀM SAO GỌN LẠI?",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dọn thông báo ngay hôm nay. Tắt tiếng nhóm phụ và tắt luôn chấm đỏ ngoài màn hình.",
+     "text": "DỌN DẸP THÔNG BÁO",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chủ động vào xem theo giờ mình chọn, đừng để tiếng chuông điều khiển mình.",
+     "text": "CHỦ ĐỘNG MỞ XEM",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Gom lại thì đỡ, nhưng hết giờ làm tin nhắn vẫn bám theo tôi về tận nhà.",
+     "text": "THEO VỀ TẬN NHÀ",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nó bám theo vì Pen chưa bao giờ dựng hàng rào giữa bàn làm việc và giường ngủ.",
+     "text": "CHƯA XÂY HÀNG RÀO",
+     "color": "gold",
+     "actor": "future_tired",
+     "prop": "moon_stars"
+    }
+   ]
+  },
+  {
+   "title": "8. Mờ nhòa ranh giới",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi giật mình thấy mình đang lướt tin nhắn dự án ngay giữa bữa cơm gia đình.",
+     "text": "8. MỜ NHÒA RANH GIỚI",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng có ai nhắn gì, nhưng tay vẫn bồn chồn muốn bấm vào kiểm tra.",
+     "text": "BỒN CHỒN MUỐN XEM",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là mờ nhòa ranh giới. Pen bắt hệ thần kinh tập quá sức mà không có ngày xả tạ.",
+     "text": "HỎNG RANH GIỚI NGHỈ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi cứ nghĩ chỉ ngó ba mươi giây để sáng mai đi làm đỡ bất ngờ.",
+     "text": "LIẾC BA MƯƠI GIÂY?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cái liếc mắt đó kích hoạt lại căng thẳng, làm não không tài nào hạ nhiệt được.",
+     "text": "NÃO KHÔNG ĐƯỢC NGHỈ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao người ngồi ở nhà mà đầu óc vẫn bị xích chặt ở chỗ làm?",
+     "text": "ĐẦU VẪN KẸT Ở CHỖ LÀM",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không vạch rõ ranh giới, não sẽ coi cả buổi tối là giờ tăng ca.",
+     "text": "MẤT RANH GIỚI TỐI",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có bước cụ thể nào để não tôi được phép thực sự tan ca không Buff?",
+     "text": "LÀM SAO TAN CA THẬT?",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tạo thói quen chốt sổ tan làm: đúng sáu giờ tối, gập máy và tắt sạch thông báo.",
+     "text": "CHỐT SỔ TAN LÀM",
+     "color": "green",
+     "actor": "34",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cất máy đi. Cơ bắp không lớn lúc đang nâng tạ, nó phát triển khi ngủ sâu.",
+     "text": "CƠ BẮP LỚN KHI NGHỈ",
+     "color": "green",
+     "actor": "front",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là giữ trọn buổi tối giúp tôi ngày mai làm việc với phong độ cao nhất?",
+     "text": "SUNG SỨC VÀO NGÀY MAI",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính nó. Nhưng nghỉ ngơi chỉ hiệu quả nếu Pen biến các nguyên tắc này thành giáo án chuẩn.",
+     "text": "LẬP LỊCH TẬP NGAY",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Kế hoạch hành động",
+   "sources": [
+    "s01",
+    "s02",
+    "s03",
+    "s04",
+    "s05",
+    "s06",
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nói nhiều điều quá, làm sao gom tất cả lại thành hệ thống gọn gàng hả Buff?",
+     "text": "KẾ HOẠCH HÀNH ĐỘNG",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đến giờ tổng kết sau buổi tập: gom cả tám cơ chế thành ba nguyên tắc cốt lõi.",
+     "text": "BA NGUYÊN TẮC CỐT LÕI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột một: chặn rò rỉ tâm trí. Gom giờ đọc tin và để lại dấu vết khi bị ngắt.",
+     "text": "CHẶN RÒ RỈ CHÚ Ý",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột hai: giảm ma sát trong nhóm. Chốt người ráp việc và công khai giờ trả lời tin.",
+     "text": "GIẢM MA SÁT ĐỒNG ĐỘI",
+     "color": "gold",
+     "actor": "34",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột ba: dựng hàng rào phục hồi. Dùng nghi thức chốt sổ để bảo vệ buổi tối nghỉ ngơi.",
+     "text": "HÀNG RÀO PHỤC HỒI",
+     "color": "green",
+     "actor": "think",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu hòm tin nhắn đang ngập ngụa quá tải thì nên bắt đầu từ bước nào hả Buff?",
+     "text": "BẮT ĐẦU TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày: cố định khung giờ trả lời tin vặt mỗi ngày và báo rõ cho cả nhóm.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tập trung làm việc theo giờ cố định để chứng minh công việc vẫn chạy trơn tru?",
+     "text": "VIỆC VẪN TRƠN TRU?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Tạ vừa sức, động tác chuẩn, tập đều mỗi ngày là sự tập trung sẽ trở lại.",
+     "text": "TẬP ĐỀU MỖI NGÀY",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu bài học hôm nay hữu ích, đăng ký Lý Thuyết Chân Que để cùng rèn luyện mỗi ngày nhé.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}

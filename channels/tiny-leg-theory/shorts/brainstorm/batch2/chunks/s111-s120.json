@@ -1,0 +1,190 @@
+[
+{"id": "s111", "mascot": "pen", "title": "Why a Quiet Chat Feels Like Rejection", "mechanism": "Fundamental attribution error",
+ "lines": [
+  {"vo": "You asked a simple question at nine. It's almost noon.", "text": "STILL NO REPLY", "actor": "worried_heart", "prop": "smartphone_glow"},
+  {"vo": "And slowly, the silence starts to sound like an opinion of you.", "text": "SILENCE = ME?", "color": "red", "actor": "think"},
+  {"vo": "When we're slow, we know it's the meetings. When they're slow, it feels personal.", "text": "MY DAY VS THEIR MOOD", "actor": "confused_shrug", "prop": "calendar_today"},
+  {"vo": "We tend to blame the person and forget the situation around them.", "text": "PERSON > SITUATION", "color": "red", "prop": "brain"},
+  {"vo": "So check the context first. Are they in meetings, travelling, off today?", "text": "CHECK THEIR DAY", "color": "green", "actor": "reading", "prop": "calendar_today"},
+  {"vo": "If it's urgent, send one short nudge with what you need.", "text": "ONE CLEAR NUDGE", "color": "green", "actor": "typing_focused"},
+  {"vo": "Most quiet chats are just busy days, seen from the outside.", "text": "PROBABLY JUST BUSY", "color": "gold", "actor": "meditating"}
+ ]},
+{"id": "s111vi", "lang": "vi", "mascot": "pen", "title": "Chua tra loi khong co nghia la ghet minh", "title_vi": "Chưa trả lời không có nghĩa là ghét mình", "mechanism": "Fundamental attribution error",
+ "lines": [
+  {"vo": "Bạn hỏi lịch họp từ sáng. Đồng nghiệp vẫn im cả buổi.", "text": "IM CẢ BUỔI SÁNG", "actor": "worried_heart", "prop": "smartphone_glow"},
+  {"vo": "Rồi bạn bắt đầu nghĩ: chắc người ta khó chịu với mình.", "text": "CHẮC HỌ GIẬN MÌNH?", "color": "red", "actor": "think"},
+  {"vo": "Mình trả lời chậm thì là do bận. Họ chậm thì là do thái độ.", "text": "MÌNH BẬN, HỌ THÁI ĐỘ", "actor": "confused_shrug"},
+  {"vo": "Ta hay đổ cho con người, mà quên mất hoàn cảnh của họ.", "text": "ĐỔ CHO NGƯỜI", "color": "red", "prop": "brain"},
+  {"vo": "Xem lại xem: họ đang đi khách hàng, đang họp, hay nghỉ phép?", "text": "XEM HOÀN CẢNH TRƯỚC", "color": "green", "actor": "reading", "prop": "calendar_today"},
+  {"vo": "Việc gấp thì nhắn thêm một câu ngắn, nói rõ cần gì trước mấy giờ.", "text": "NHẮC MỘT CÂU RÕ", "color": "green", "actor": "typing_focused"},
+  {"vo": "Phần lớn những cuộc im lặng chỉ là một ngày bận của người khác.", "text": "CHỈ LÀ HỌ BẬN", "color": "gold", "actor": "meditating"}
+ ]},
+{"id": "s112", "mascot": "buff", "title": "Say the Request, Not the Hint", "mechanism": "Communication clarity",
+ "lines": [
+  {"vo": "You sighed at the dirty dishes. Loudly. Three times.", "text": "THE BIG SIGH", "color": "red", "actor": "arms_crossed_no"},
+  {"vo": "Your roommate heard a sigh. Not a request.", "text": "HINT NOT RECEIVED", "actor": "confused_shrug"},
+  {"vo": "Hints make people guess. Most people guess wrong.", "text": "HINTS = GUESSING", "color": "red", "prop": "brain"},
+  {"vo": "Say what you need and when. One clean rep.", "text": "SAY WHAT AND WHEN", "color": "green", "actor": "point_viewer"},
+  {"vo": "Can you wash the pans before eight tonight?", "text": "PANS BY 8PM?", "color": "green", "actor": "hand_off", "prop": "alarm_clock"},
+  {"vo": "Clear ask, clear answer. Sighing is cardio for nobody.", "text": "ASK. DON'T SIGH.", "color": "gold", "actor": "celebrate"}
+ ]},
+{"id": "s112vi", "lang": "vi", "mascot": "buff", "title": "Muon nho thi noi thang", "title_vi": "Muốn nhờ thì nói thẳng", "mechanism": "Communication clarity",
+ "lines": [
+  {"vo": "Bát chất đầy bồn. Bạn đứng thở dài thật to.", "text": "THỞ DÀI CẠNH BỒN", "color": "red", "actor": "arms_crossed_no"},
+  {"vo": "Bạn cùng phòng vẫn lướt điện thoại. Không ai hiểu.", "text": "KHÔNG AI HIỂU", "actor": "sofa_scroll"},
+  {"vo": "Nói bóng gió là bắt người khác đoán. Đoán thì hay trượt.", "text": "BÓNG GIÓ = ĐOÁN", "color": "red", "prop": "brain"},
+  {"vo": "Nói rõ việc gì, lúc nào. Một hiệp, gọn.", "text": "VIỆC GÌ, LÚC NÀO", "color": "green", "actor": "point_viewer"},
+  {"vo": "Tối nay trước tám giờ bạn rửa giúp mình chỗ nồi nhé.", "text": "RỬA NỒI TRƯỚC 8H", "color": "green", "actor": "hand_off", "prop": "alarm_clock"},
+  {"vo": "Thở dài không đốt được calo nào đâu. Nói đi.", "text": "NÓI, ĐỪNG THỞ DÀI", "color": "gold", "actor": "celebrate"}
+ ]},
+{"id": "s113", "mascot": "pen", "title": "Why Feedback Sounds Like an Attack", "mechanism": "Threat to self-image (defensive response)",
+ "lines": [
+  {"vo": "Someone says the third slide is confusing. You hear: you're not good at this.", "text": "SLIDE 3 = ME?", "color": "red", "actor": "facepalm", "prop": "laptop_file"},
+  {"vo": "When the work feels like part of who we are, a note on it can sting like a verdict.", "text": "WORK FEELS LIKE ME", "actor": "worried_heart"},
+  {"vo": "So we defend everything, even the parts we'd happily fix.", "text": "DEFEND EVERYTHING", "color": "red", "actor": "arms_crossed_no"},
+  {"vo": "Try pulling it back to the work. Which part, exactly, should change?", "text": "WHICH PART?", "color": "green", "actor": "think"},
+  {"vo": "A precise answer is usually smaller than the fear was.", "text": "SMALLER THAN IT FELT", "color": "green", "actor": "writing", "prop": "checkbox_tick"},
+  {"vo": "What if the comment was only ever about slide three?", "text": "JUST SLIDE 3", "color": "gold", "actor": "small_step"}
+ ]},
+{"id": "s113vi", "lang": "vi", "mascot": "pen", "title": "Gop y ve slide, khong phai ve ban", "title_vi": "Góp ý về slide, không phải về bạn", "mechanism": "Threat to self-image (defensive response)",
+ "lines": [
+  {"vo": "Sếp bảo slide số ba hơi rối. Bạn nghe thành: em làm kém.", "text": "SLIDE 3 = EM KÉM?", "color": "red", "actor": "facepalm", "prop": "laptop_file"},
+  {"vo": "Thức hai đêm để làm, nên một lời góp ý cũng thấy như bị chấm điểm con người.", "text": "NHƯ BỊ CHẤM ĐIỂM", "actor": "worried_heart"},
+  {"vo": "Thế là mình giải thích, cãi lại, kể cả những chỗ đáng sửa.", "text": "CÃI CẢ CHỖ ĐÚNG", "color": "red", "actor": "arms_crossed_no"},
+  {"vo": "Thử kéo câu chuyện về lại sản phẩm: anh muốn sửa chỗ nào ạ?", "text": "SỬA CHỖ NÀO Ạ?", "color": "green", "actor": "think"},
+  {"vo": "Câu trả lời cụ thể thường nhỏ hơn nhiều so với nỗi lo.", "text": "NHỎ HƠN NỖI LO", "color": "green", "actor": "writing", "prop": "checkbox_tick"},
+  {"vo": "Hoá ra, người ta chỉ đang nói về slide số ba thôi.", "text": "CHỈ LÀ SLIDE 3", "color": "gold", "actor": "small_step"}
+ ]},
+{"id": "s114", "mascot": "buff", "title": "Don't Mind-Read the Group Chat", "mechanism": "Projection bias",
+ "lines": [
+  {"vo": "Teammate replies \"ok.\" You read: furious.", "text": "\"OK.\" = ANGRY?", "color": "red", "actor": "shocked", "prop": "smartphone_glow"},
+  {"vo": "That tone? You wrote it. With your own bad mood.", "text": "YOUR MOOD, THEIR TEXT", "actor": "facepalm"},
+  {"vo": "We tend to read our own feelings into flat messages.", "text": "PROJECTION", "color": "red", "prop": "brain"},
+  {"vo": "Don't reply to the drama you invented. Skip that set.", "text": "SKIP THE DRAMA", "actor": "arms_crossed_no"},
+  {"vo": "Ask neutral: All good to go with this version?", "text": "ASK NEUTRAL", "color": "green", "actor": "typing_focused", "prop": "smartphone_glow"},
+  {"vo": "Real answer beats imagined tone. Every time.", "text": "ASK > GUESS", "color": "gold", "actor": "celebrate"}
+ ]},
+{"id": "s114vi", "lang": "vi", "mascot": "buff", "title": "Dung doan giong trong nhom chat", "title_vi": "Đừng đoán giọng trong nhóm chat", "mechanism": "Projection bias",
+ "lines": [
+  {"vo": "Nhóm làm việc. Bạn gửi bản sửa. Sếp nhắn đúng một chữ: ừ.", "text": "\"Ừ.\" LÀ GIẬN?", "color": "red", "actor": "shocked", "prop": "smartphone_glow"},
+  {"vo": "Cái giọng khó chịu đó? Bạn tự lồng tiếng đấy.", "text": "BẠN TỰ LỒNG TIẾNG", "actor": "facepalm"},
+  {"vo": "Đang mệt, mình dễ đọc tin nhắn cụt bằng chính tâm trạng mình.", "text": "TÂM TRẠNG CỦA MÌNH", "color": "red", "prop": "brain"},
+  {"vo": "Đừng trả lời một cơn giận mình tự nghĩ ra.", "text": "ĐỪNG TỰ DỰNG PHIM", "actor": "arms_crossed_no"},
+  {"vo": "Hỏi trung tính: vậy em chốt bản này nhé anh?", "text": "HỎI TRUNG TÍNH", "color": "green", "actor": "typing_focused", "prop": "smartphone_glow"},
+  {"vo": "Hỏi một câu nhẹ hơn đoán cả buổi. Gửi đi.", "text": "HỎI > ĐOÁN", "color": "gold", "actor": "celebrate"}
+ ]},
+{"id": "s115", "mascot": "pen", "title": "They Liked Talking to You More Than You Think", "mechanism": "Liking gap",
+ "lines": [
+  {"vo": "On the way home, you replay the one thing you said wrong.", "text": "REPLAYING ONE LINE", "actor": "think", "prop": "brain"},
+  {"vo": "And you decide they probably found you a bit dull.", "text": "\"THEY WERE BORED\"", "color": "red", "actor": "worried_heart"},
+  {"vo": "Studies of first chats find people tend to underestimate how much they were liked.", "text": "THE LIKING GAP", "color": "red", "prop": "lightbulb"},
+  {"vo": "You were busy judging yourself. They were just enjoying the talk.", "text": "THEY HAD FUN", "actor": "phone_grin"},
+  {"vo": "Before the replay starts, recall two moments that went fine.", "text": "RECALL 2 GOOD BITS", "color": "green", "actor": "writing"},
+  {"vo": "A laugh you shared. A question they asked you back.", "text": "A LAUGH. A QUESTION.", "color": "green", "actor": "celebrate"},
+  {"vo": "That stumble was likely the part only you remember.", "text": "ONLY YOU NOTICED", "color": "gold", "actor": "meditating", "prop": "moon_stars"}
+ ]},
+{"id": "s115vi", "lang": "vi", "mascot": "pen", "title": "Ho quy ban hon ban tuong", "title_vi": "Họ quý bạn hơn bạn tưởng", "mechanism": "Liking gap",
+ "lines": [
+  {"vo": "Họp lớp xong, ngồi sau xe về, bạn chỉ nhớ đúng câu mình nói vấp.", "text": "CHỈ NHỚ CÂU VẤP", "actor": "think", "prop": "brain"},
+  {"vo": "Rồi tự kết luận: chắc mọi người thấy mình nhạt lắm.", "text": "\"MÌNH NHẠT QUÁ\"", "color": "red", "actor": "worried_heart"},
+  {"vo": "Sau một cuộc trò chuyện, ta thường đánh giá thấp việc người kia quý mình.", "text": "HỌ QUÝ HƠN BẠN NGHĨ", "color": "red", "prop": "lightbulb"},
+  {"vo": "Bạn bận chấm điểm bản thân. Còn họ chỉ đang vui.", "text": "HỌ CHỈ ĐANG VUI", "actor": "phone_grin"},
+  {"vo": "Trước khi tua lại, nhớ thử hai đoạn diễn ra bình thường.", "text": "NHỚ 2 ĐOẠN ỔN", "color": "green", "actor": "writing"},
+  {"vo": "Lúc cả bàn cười. Lúc đứa bạn cũ hỏi thăm công việc của bạn.", "text": "CƯỜI. HỎI THĂM.", "color": "green", "actor": "celebrate"},
+  {"vo": "Nếu họ nhớ được câu vấp đó, liệu họ còn rủ bạn đi tiếp tăng hai không?", "text": "VẪN ĐƯỢC RỦ TĂNG 2", "color": "gold", "actor": "meditating", "prop": "moon_stars"}
+ ]},
+{"id": "s116", "mascot": "buff", "title": "Make the Group Plan Concrete", "mechanism": "Coordination failure",
+ "lines": [
+  {"vo": "\"We should hang out sometime!\" Sure. Sometime.", "text": "\"SOMETIME!\"", "color": "red", "actor": "phone_grin", "prop": "smartphone_glow"},
+  {"vo": "Everyone agrees. Nobody decides. Nothing happens.", "text": "ALL YES, NO PLAN", "actor": "confused_shrug"},
+  {"vo": "In a group, each person waits for someone else to lock it in.", "text": "EVERYONE WAITS", "color": "red", "prop": "hourglass"},
+  {"vo": "Be the spotter. Drop a place and a time.", "text": "PLACE. TIME. DONE.", "color": "green", "actor": "point_viewer", "prop": "calendar_today"},
+  {"vo": "Saturday, four, the noodle place. Thumbs up to confirm.", "text": "SAT 4PM. THUMBS UP?", "color": "green", "actor": "typing_focused"},
+  {"vo": "Vague plans skip leg day forever. Lock one in now.", "text": "LOCK IT IN", "color": "gold", "actor": "sprint_start"}
+ ]},
+{"id": "s116vi", "lang": "vi", "mascot": "buff", "title": "Keo nhom thi phai chot gio", "title_vi": "Kèo nhóm thì phải chốt giờ", "mechanism": "Coordination failure",
+ "lines": [
+  {"vo": "Nhóm bạn nhắn: cuối tuần đi cà phê nhé! Ừ, tin.", "text": "\"CUỐI TUẦN NHÉ!\"", "color": "red", "actor": "phone_grin", "prop": "smartphone_glow"},
+  {"vo": "Ai cũng thả tim. Không ai chốt. Chủ nhật trôi qua.", "text": "THẢ TIM, KHÔNG CHỐT", "actor": "confused_shrug"},
+  {"vo": "Đông người thì ai cũng chờ người khác chốt hộ.", "text": "AI CŨNG CHỜ", "color": "red", "prop": "hourglass"},
+  {"vo": "Làm người chốt kèo. Đưa luôn chỗ và giờ.", "text": "CHỐT CHỖ, CHỐT GIỜ", "color": "green", "actor": "point_viewer", "prop": "calendar_today"},
+  {"vo": "Ba giờ chiều thứ bảy, quán trà sữa cổng trường. Ai đi thả tim.", "text": "15H THỨ 7. THẢ TIM!", "color": "green", "actor": "typing_focused"},
+  {"vo": "Kèo không có giờ là kèo bỏ tập. Chốt ngay đi.", "text": "CHỐT NGAY", "color": "gold", "actor": "sprint_start"}
+ ]},
+{"id": "s117", "mascot": "pen", "title": "Why You Agree Before Checking Your Week", "mechanism": "Commitment pressure",
+ "lines": [
+  {"vo": "Someone asks if you're free on the twelfth, and yes is already out.", "text": "YES, ALREADY", "actor": "nervous_wave"},
+  {"vo": "Then you open your calendar, and the twelfth is taken.", "text": "THE 12TH IS FULL", "color": "red", "actor": "shocked", "prop": "calendar_today"},
+  {"vo": "Face to face, a pause can feel rude, so a quick yes fills it.", "text": "THE PAUSE FEELS RUDE", "color": "red", "actor": "worried_heart"},
+  {"vo": "And once said out loud, it feels harder to take back.", "text": "HARD TO UNDO", "actor": "facepalm"},
+  {"vo": "A gentler habit: let me check my week, I'll reply tonight.", "text": "\"LET ME CHECK\"", "color": "green", "actor": "think", "prop": "calendar_today"},
+  {"vo": "Then actually reply by the time you named.", "text": "REPLY BY TONIGHT", "color": "green", "actor": "typing_focused", "prop": "alarm_clock"},
+  {"vo": "A yes given after looking is a yes you can keep.", "text": "A YES YOU CAN KEEP", "color": "gold", "actor": "small_step"}
+ ]},
+{"id": "s117vi", "lang": "vi", "mascot": "pen", "title": "Dong y truoc, xem lich sau", "title_vi": "Đồng ý trước, xem lịch sau", "mechanism": "Commitment pressure",
+ "lines": [
+  {"vo": "Cô ruột gọi rủ dự đám cưới anh họ. Bạn buột miệng: vâng ạ.", "text": "\"VÂNG Ạ\"", "actor": "nervous_wave"},
+  {"vo": "Cúp máy, mở lịch ra. Đúng hôm đó có buổi học.", "text": "TRÙNG LỊCH HỌC", "color": "red", "actor": "shocked", "prop": "calendar_today"},
+  {"vo": "Với người thân, ngập ngừng một giây cũng thấy như vô lễ.", "text": "NGẠI NGẬP NGỪNG", "color": "red", "actor": "worried_heart"},
+  {"vo": "Mà đã hứa rồi, rút lại còn khó gấp đôi.", "text": "KHÓ RÚT LẠI", "actor": "facepalm"},
+  {"vo": "Tập một câu mềm hơn: để cháu xem lịch, tối nay cháu báo cô.", "text": "\"ĐỂ CHÁU XEM LỊCH\"", "color": "green", "actor": "think", "prop": "calendar_today"},
+  {"vo": "Và tối đó, gọi lại thật.", "text": "TỐI NAY GỌI LẠI", "color": "green", "actor": "typing_focused", "prop": "alarm_clock"},
+  {"vo": "Lần tới có ai rủ, bạn sẽ dừng lại một nhịp chứ?", "text": "DỪNG MỘT NHỊP", "color": "gold", "actor": "small_step"}
+ ]},
+{"id": "s118", "mascot": "buff", "title": "Don't Confuse Loud With Certain", "mechanism": "Confidence heuristic",
+ "lines": [
+  {"vo": "He said it loud. He said it fast. Everyone nodded.", "text": "LOUDEST WINS", "color": "red", "actor": "point_viewer"},
+  {"vo": "Confidence is a voice. It's not a receipt.", "text": "CONFIDENT IS NOT PROOF", "color": "red", "actor": "arms_crossed_no"},
+  {"vo": "We tend to trust sure-sounding people, even when they're wrong.", "text": "SURE SOUNDS RIGHT", "prop": "brain"},
+  {"vo": "Spot the claim. Ask one rep: what's that based on?", "text": "BASED ON WHAT?", "color": "green", "actor": "think"},
+  {"vo": "Good ideas survive the question. Weak ones get quiet.", "text": "REASONS > VOLUME", "color": "green", "prop": "lightbulb"},
+  {"vo": "Big voice, small evidence? Ask anyway. Every meeting.", "text": "ASK ANYWAY", "color": "gold", "actor": "sprint_start"}
+ ]},
+{"id": "s118vi", "lang": "vi", "mascot": "buff", "title": "Noi to khong co nghia la dung", "title_vi": "Nói to không có nghĩa là đúng", "mechanism": "Confidence heuristic",
+ "lines": [
+  {"vo": "Họp nhóm dự án. Ông nói to nhất chốt ý tưởng. Cả nhóm gật.", "text": "AI TO NGƯỜI ĐÓ THẮNG", "color": "red", "actor": "point_viewer"},
+  {"vo": "Ý của bạn ít người nghe hơn, dù có số liệu khảo sát hẳn hoi.", "text": "Ý NHỎ, CÓ SỐ LIỆU", "actor": "nervous_wave", "prop": "laptop_file"},
+  {"vo": "Nghe chắc nịch thì dễ tin là đúng. Hai cái đó khác nhau.", "text": "TỰ TIN CHƯA CHẮC ĐÚNG", "color": "red", "prop": "brain"},
+  {"vo": "Hỏi một câu thôi: mình dựa vào đâu để chọn hướng này?", "text": "DỰA VÀO ĐÂU?", "color": "green", "actor": "think"},
+  {"vo": "Ý tốt qua được câu hỏi. Ý yếu tự nhỏ tiếng lại.", "text": "LÝ DO > ÂM LƯỢNG", "color": "green", "prop": "lightbulb"},
+  {"vo": "Họp tới, hỏi câu đó. Một hiệp thôi.", "text": "HỎI LÝ DO", "color": "gold", "actor": "sprint_start"}
+ ]},
+{"id": "s119", "mascot": "pen", "title": "Why an Apology Needs a Repair", "mechanism": "Trust repair (acknowledge + make amends)",
+ "lines": [
+  {"vo": "You lost the book your friend lent you. You said sorry. Twice.", "text": "SORRY. SORRY.", "actor": "worried_heart", "prop": "paper_mountain"},
+  {"vo": "And still, something between you feels a little off.", "text": "STILL A BIT OFF", "color": "red", "actor": "think"},
+  {"vo": "Trust tends to come back from what you do, not only what you say.", "text": "WORDS, THEN ACTION", "prop": "lightbulb"},
+  {"vo": "First, name the impact. I know you were saving that book.", "text": "NAME THE IMPACT", "color": "green", "actor": "front"},
+  {"vo": "Then offer a concrete repair. I've ordered a new copy.", "text": "OFFER A REPAIR", "color": "green", "actor": "hand_off", "prop": "checkbox_tick"},
+  {"vo": "What would make it right for them, not just for you?", "text": "RIGHT FOR THEM?", "color": "gold", "actor": "small_step"}
+ ]},
+{"id": "s119vi", "lang": "vi", "mascot": "pen", "title": "Xin loi xong thi sua the nao?", "title_vi": "Xin lỗi xong thì sửa thế nào?", "mechanism": "Trust repair (acknowledge + make amends)",
+ "lines": [
+  {"vo": "Bạn mượn cái sạc dự phòng của bạn thân, rồi để quên trên xe khách.", "text": "MẤT SẠC CỦA BẠN", "actor": "worried_heart", "prop": "low_battery"},
+  {"vo": "Nhắn xin lỗi mấy lần, nó bảo không sao, mà giọng vẫn hơi khác.", "text": "\"KHÔNG SAO\"?", "color": "red", "actor": "think"},
+  {"vo": "Lòng tin thường quay lại nhờ việc mình làm, không chỉ lời mình nói.", "text": "LỜI NÓI, RỒI VIỆC LÀM", "prop": "lightbulb"},
+  {"vo": "Nói rõ mình gây ra gì: tuần này bạn đi làm mà không có sạc.", "text": "NÓI RÕ HẬU QUẢ", "color": "green", "actor": "front"},
+  {"vo": "Rồi đề nghị sửa cụ thể: mình gọi nhà xe hỏi rồi, không có thì mình mua cái mới.", "text": "ĐỀN CỤ THỂ", "color": "green", "actor": "hand_off", "prop": "checkbox_tick"},
+  {"vo": "Một lời xin lỗi trọn vẹn thường có cả phần làm lại.", "text": "XIN LỖI, RỒI SỬA", "color": "gold", "actor": "small_step"}
+ ]},
+{"id": "s120", "mascot": "buff", "title": "Give Credit Where the Work Happened", "mechanism": "Attribution bias",
+ "lines": [
+  {"vo": "Team report crushed it. \"Great job, everyone!\"", "text": "\"GREAT JOB, ALL!\"", "actor": "celebrate", "prop": "checkbox_tick"},
+  {"vo": "Meanwhile, Mai cleaned the data for three nights. Unnamed.", "text": "THE QUIET LIFTER", "color": "red", "actor": "typing_focused", "prop": "laptop_file"},
+  {"vo": "Credit drifts to whoever presented. Not who did the reps.", "text": "CREDIT GOES TO STAGE", "color": "red", "actor": "point_viewer"},
+  {"vo": "Generic thanks? That's a half rep.", "text": "VAGUE = HALF REP", "actor": "arms_crossed_no"},
+  {"vo": "Name the person and the exact part they did.", "text": "NAME WHO DID WHAT", "color": "green", "actor": "writing"},
+  {"vo": "Mai's data cleanup is why chart two works.", "text": "\"MAI DID THE DATA\"", "color": "green", "actor": "hand_off"},
+  {"vo": "Thirty seconds. Full credit. Send it today.", "text": "SEND IT TODAY", "color": "gold", "actor": "sprint_start"}
+ ]},
+{"id": "s120vi", "lang": "vi", "mascot": "buff", "title": "Ai lam thi goi dung ten nguoi do", "title_vi": "Ai làm thì gọi đúng tên người đó", "mechanism": "Attribution bias",
+ "lines": [
+  {"vo": "Báo cáo nhóm được điểm cao. Cả nhóm: cảm ơn mọi người nhé!", "text": "\"CẢM ƠN CẢ NHÓM!\"", "actor": "celebrate", "prop": "checkbox_tick"},
+  {"vo": "Còn Lan ngồi xử lý số liệu ba đêm. Không ai nhắc tên.", "text": "NGƯỜI LÀM THẦM", "color": "red", "actor": "typing_focused", "prop": "laptop_file"},
+  {"vo": "Công thường trôi về người đứng thuyết trình.", "text": "CÔNG VỀ NGƯỜI NÓI", "color": "red", "actor": "point_viewer"},
+  {"vo": "Cảm ơn chung chung? Mới tập nửa hiệp.", "text": "CHUNG CHUNG = NỬA HIỆP", "actor": "arms_crossed_no"},
+  {"vo": "Gọi đúng tên, nói đúng phần người đó làm.", "text": "TÊN, PHẦN VIỆC", "color": "green", "actor": "writing"},
+  {"vo": "Biểu đồ số hai chuẩn là nhờ Lan làm sạch số liệu.", "text": "\"NHỜ LAN LÀM SỐ LIỆU\"", "color": "green", "actor": "hand_off"},
+  {"vo": "Ba mươi giây, nhắn vào nhóm lớp. Làm luôn hôm nay.", "text": "NHẮN NGAY HÔM NAY", "color": "gold", "actor": "sprint_start"}
+ ]}
+]

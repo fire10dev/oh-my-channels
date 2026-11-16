@@ -1,0 +1,933 @@
+{
+ "id": "L9",
+ "lang": "en",
+ "title": "How to Speak Up at Work Without Overthinking It",
+ "description": "Eight everyday psychology mechanisms can make speaking up in team meetings feel harder than it needs to be. Pen and Buff explore small, respectful ways to contribute, including a three-second entry script to try at your next meeting.",
+ "chapters": [
+  {
+   "title": "The Unmute Button",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Your finger hovers over unmute, your heart races, and the topic changes before you make a sound.",
+     "text": "THE UNMUTE BUTTON",
+     "color": "gold",
+     "actor": "panic",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then your brain replays the meeting like it booked an extra session without asking.",
+     "text": "THE BONUS REPLAY",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Maybe the room feels too senior, too quiet, or too quick for your words.",
+     "text": "READING THE ROOM",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "We will unpack eight reasons speaking up feels awkward and give each one a practical rep.",
+     "text": "EIGHT SMALL REPS",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The goal is not to become the loudest person at work. It is to be heard clearly.",
+     "text": "CLEAR, NOT LOUD",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bring one useful point to your next team meeting. We will build a three-second entry script.",
+     "text": "YOUR NEXT MEETING",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "2. The Quiet Room",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "The call goes quiet after a confusing update, and nobody asks about the unrealistic target.",
+     "text": "2. THE QUIET ROOM",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I assume everyone understood, so maybe I am the only one lost. Why does nobody speak up?",
+     "text": "MAYBE IT IS JUST ME",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is pluralistic ignorance. We mistake the group's silence for a sign that everyone is fine.",
+     "text": "SILENCE HIDES DOUBT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Each person may have the same question, while waiting for somebody else to risk asking it first.",
+     "text": "A BAD GROUP GUESS",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When senior people are in the room, jumping in can feel like speaking out of turn.",
+     "text": "WAITING FOR SENIORITY",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quiet alone proves nothing. People might agree, feel unsure, or simply have missed the question.",
+     "text": "QUIET IS NOT YES",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Last time I stayed quiet, then learned two teammates had the same concern afterward.",
+     "text": "OTHERS HAD IT TOO",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Try, 'I may have missed this, but could we clarify who handles that step?'",
+     "text": "ASK ONE CLEAR THING",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That names a practical gap and gives others an easy way to add what they know.",
+     "text": "MAKE IT EASY",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use one specific question as a warm-up rep. Skip the grand speech about the whole meeting.",
+     "text": "ONE QUESTION REP",
+     "color": "green",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It feels less exposing when I focus on the work instead of guessing what silence means.",
+     "text": "FOCUS ON THE WORK",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That quiet room has another layer. Every colleague might be grading your words in real time.",
+     "text": "THE INNER SCORECARD",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "3. The Inner Scorecard",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I start a sentence, then wonder whether my manager thinks it sounds obvious or uninformed.",
+     "text": "3. THE INNER SCORECARD",
+     "color": "gold",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I polish every word, then somebody else takes the floor. How do I stop editing myself out?",
+     "text": "THE MOMENT PASSES",
+     "color": "red",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is evaluation apprehension. Your brain starts treating a comment like a graded performance.",
+     "text": "FEAR OF THE GRADE",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The spotlight feels bright, even when colleagues are mostly trying to follow the agenda.",
+     "text": "THE SPOTLIGHT FEELING",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I want to sound prepared and respectful, especially with senior colleagues in the room.",
+     "text": "RESPECTFUL AND READY",
+     "color": "ink",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Perfect wording is a heavy barbell. Lower the weight and still get the rep done.",
+     "text": "LOWER THE BAR",
+     "color": "gold",
+     "actor": "bored_yawn",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I have often edited a simple question so long that the conversation has already moved on.",
+     "text": "EDITED INTO SILENCE",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Write one short point before the meeting, using ordinary words you would actually say.",
+     "text": "PREP ONE SENTENCE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use a three-second entry: 'Quick question on that before we move on.' Then state your point.",
+     "text": "THREE, THEN START",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That three-second wedge lowers the pressure to start. My brain stops polishing and begins talking.",
+     "text": "BREAK THE FREEZE",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It is a cue, not magic. If the chair moves on, save the point for a better gap.",
+     "text": "A CUE, NOT MAGIC",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even a good entry can feel risky if the room reacts badly to honest mistakes.",
+     "text": "WILL THIS ROOM LISTEN?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now let us see what happens when the room actually pushes back on your point.",
+     "text": "THE ROOM'S RESPONSE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "4. The Room's Response",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "The team debates a deadline, but I think the proposed timeline is unrealistic.",
+     "text": "4. THE ROOM'S RESPONSE",
+     "color": "gold",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nobody challenges it, so I wonder if raising the risk will make me look difficult.",
+     "text": "A RISK TO NAME",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is psychological safety. Your brain often reads social risk like a physical threat.",
+     "text": "SAFE TO SPEAK",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "No applause needed, buddy. Just listening without punishing a concern is a start.",
+     "text": "LISTEN, DON'T PUNISH",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A respectful disagreement can help when the team considers the actual work and its limits.",
+     "text": "RESPECTFUL PUSHBACK",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Leaders shape that climate. A clear, useful contribution can help the next exchange too.",
+     "text": "MAKE IT CLEAR",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I have seen a concern brushed aside, then resurface later when the deadline gets close.",
+     "text": "THE RISK COMES BACK",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tie your comment to the shared task. Try, 'Could we check what is feasible by Friday?'",
+     "text": "TIE IT TO THE TASK",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That invites a practical response instead of making the exchange about my personality.",
+     "text": "INVITE A RESPONSE",
+     "color": "green",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "If somebody responds sharply, stay with the question and ask what information would clarify it.",
+     "text": "RETURN TO THE QUESTION",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even a helpful point can be hard to land when the conversation has a fast rhythm.",
+     "text": "THE FLOOR MOVES FAST",
+     "color": "ink",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Once the room feels safe, you still need to find the right moment to jump in.",
+     "text": "WHO GETS A TURN?",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "5. The Floor Has Rules",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Some meetings invite interruptions, while others require invitations. How do I speak up without sounding rude?",
+     "text": "5. THE FLOOR HAS RULES",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I wait for a perfect gap, but the gap closes before I can take it.",
+     "text": "THE GAP CLOSES",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Turn-taking norms are the spoken and unspoken rules for sharing the conversation.",
+     "text": "THE ROOM'S TURN RULES",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain juggles listening and word-finding at the same time. That makes pauses hard to grab.",
+     "text": "OVERLOADED TO JUMP IN",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "In traditional teams, junior staff may wait to be invited before sharing an opinion.",
+     "text": "RANK CHANGES THE ROOM",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Meeting pace is like a jump rope, buddy. Watch the rhythm before you jump in.",
+     "text": "WATCH THE RHYTHM",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "In my last meeting, I began talking just as the chair moved to the next item.",
+     "text": "BADLY TIMED ENTRY",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use a small hand raise or say, 'Can I add one point after this?'",
+     "text": "ASK FOR THE FLOOR",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "In a remote call, I can use the raise hand feature and wait to be called on.",
+     "text": "USE THE MEETING CUE",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "At a natural pause, link to the last speaker. Try, 'Adding to that, I see one gap.'",
+     "text": "LINK AND ENTER",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The right signal depends on the people, the meeting, and how formal the moment feels.",
+     "text": "FIT THE ROOM'S STYLE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You have the floor now, buddy. Your delivery has to match the room's tempo.",
+     "text": "MATCH THE CHAT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "6. Match the Room",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "My teammate gives brief updates, but I have prepared a long explanation with three detours.",
+     "text": "6. MATCH THE ROOM",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can feel the room drifting before I reach the point I came to make.",
+     "text": "TOO DETAILED",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Communication accommodation means adjusting how you speak to fit the conversation.",
+     "text": "ADJUST YOUR DELIVERY",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Match the level of detail or pace, buddy. That is a warm-up, not a personality transplant.",
+     "text": "PACE, NOT PERSONALITY",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It does not mean copying someone's accent, pretending, or agreeing with every idea.",
+     "text": "KEEP YOUR OWN VOICE",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are adapting delivery so colleagues can follow your point more easily. Simple rep.",
+     "text": "MAKE THE POINT EASY",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I need to disagree about a deadline, but I want the exchange to stay respectful.",
+     "text": "DISAGREE WITH CARE",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "If the room gives short updates, match that length. Try, 'Timeline needs three extra days for testing.'",
+     "text": "MATCH THE DENSITY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then I can explain the risk plainly and offer one next step to consider.",
+     "text": "NAME ONE NEXT STEP",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Match the room's pace, not its volume. A calm sentence can still carry weight.",
+     "text": "CALM CAN CARRY WEIGHT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can adjust my delivery and stay honest about the concern I have.",
+     "text": "CLEAR AND STILL YOU",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The room is ready to listen. Time to make that honest point direct enough to land.",
+     "text": "SAY WHAT YOU NEED",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "7. Clear and Direct",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "An urgent task arrives right before the weekend, but the team is already at full capacity.",
+     "text": "7. CLEAR AND DIRECT",
+     "color": "gold",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I hint about the workload and apologize, but nobody knows what decision I need.",
+     "text": "HINTS HIDE THE POINT",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Assertiveness means saying what you need clearly while respecting the other people in the room.",
+     "text": "CLEAR, NOT PUSHY",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It is a communication skill, buddy. Not a license to dominate the meeting or ignore context.",
+     "text": "RESPECT GOES BOTH WAYS",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "In a senior-led meeting, I may choose a tactful question over a blunt demand.",
+     "text": "TACTFUL CAN BE CLEAR",
+     "color": "ink",
+     "actor": "think",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Try a direct trade-off, buddy: 'If we add this task, which deliverable moves back?'",
+     "text": "ASK FOR TRADE-OFFS",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That forces a decision on workload without pointing fingers at whoever assigned the task.",
+     "text": "WORKLOAD, NOT BLAME",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The wording leaves room for the manager to reprioritize and protect the team's capacity.",
+     "text": "CLEAR ROOM TO DECIDE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That wording feels respectful and still makes the overload visible to the whole group.",
+     "text": "CLEAR AND OPEN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Drop apologies that bury your ask. Keep courtesy where it helps the exchange.",
+     "text": "COURTESY, NO FOG",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A clear request can still be polite, especially when I explain its effect on the group.",
+     "text": "POLITE AND SPECIFIC",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A direct request works better inside a clear frame. Shape the message around the work.",
+     "text": "FRAME THE MESSAGE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "8. Lead With the Work",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I spot a launch risk, then list reasons I might be wrong. How do I raise it without sounding negative?",
+     "text": "8. LEAD WITH THE WORK",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My colleagues hear the caveats first and may miss the practical concern underneath them.",
+     "text": "CAVEATS TAKE THE FLOOR",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Message framing is how you organize a point so people can see its meaning and relevance.",
+     "text": "SHAPE THE POINT",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A useful work frame starts with the situation, the concern, and a possible next step.",
+     "text": "SITUATION, NEXT STEP",
+     "color": "gold",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That connects my comment to a decision the team can actually make together.",
+     "text": "AIM AT THE DECISION",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Try, 'The file arrives Thursday, leaving little review time. Could we move it earlier?'",
+     "text": "SHOW THE TRADE-OFF",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That is clearer than calling the plan bad or implying someone made a careless choice.",
+     "text": "DESCRIBE, DON'T ACCUSE",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Name the tradeoff and offer an option the group can discuss or improve.",
+     "text": "OFFER AN OPTION",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can state what I know, then label what I am still checking.",
+     "text": "FACT VERSUS GUESS",
+     "color": "gold",
+     "actor": "think",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That helps people judge the idea instead of decoding your hidden meaning.",
+     "text": "MAKE THE MEANING PLAIN",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even with a clear message, I still wonder how I look while saying it.",
+     "text": "HOW DO I COME ACROSS?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A clean frame helps, but not if you are rehearsing your image the whole time.",
+     "text": "DROP THE PERFORMANCE",
+     "color": "gold",
+     "actor": "bored_yawn",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "9. Drop Performance",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I choose each word carefully, hoping everyone sees me as smart, calm, and prepared.",
+     "text": "9. DROP PERFORMANCE",
+     "color": "gold",
+     "actor": "coffee"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The more I monitor my image, the less attention I have for the actual discussion.",
+     "text": "ATTENTION GOES INWARD",
+     "color": "red",
+     "actor": "think",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is impression management. You are spending effort shaping how people see you.",
+     "text": "IMAGE MANAGEMENT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Some care about presentation is normal. Trouble starts when it crowds out the message.",
+     "text": "THE MESSAGE SHRINKS",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Credibility matters, and so does asking a question when I need information.",
+     "text": "CREDIBLE AND CURIOUS",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You do not need to perform certainty. Making your contribution understandable is the entire rep.",
+     "text": "CLEAR BEATS PERFECT",
+     "color": "gold",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sometimes I listen to my own imagined audience more than I listen to the team.",
+     "text": "RETURN TO THE WORK",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Before speaking, ask, 'What would help this team make its next decision?'",
+     "text": "A TEAM FOCUSED CUE",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Aim your sentence at that answer, then listen to what your colleagues say back.",
+     "text": "SAY IT, THEN LISTEN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Afterward, note whether your point clarified something, not whether you sounded flawless.",
+     "text": "REVIEW THE USEFUL PART",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That gives me feedback for another rep without turning each meeting into a verdict.",
+     "text": "NOT A FINAL EXAM",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now let us put the eight mechanisms into one simple week of practice.",
+     "text": "TAKE IT INTO THE WEEK",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Recap",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You do not need a perfect version of yourself to begin speaking up.",
+     "text": "RECAP",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "First, read the room. Silence, seniority, and turn-taking rules shape who gets heard.",
+     "text": "NOTICE THE ROOM",
+     "color": "ink",
+     "actor": "think",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Second, make the entry small with one prepared thought, clear request, and natural opening.",
+     "text": "MAKE THE ENTRY SMALL",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Third, aim at the shared work. Frame the point clearly, adapt your delivery, and listen.",
+     "text": "AIM AT THE WORK",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "On days one and two, observe the room's turn-taking and notice questions people leave unasked.",
+     "text": "DAYS ONE AND TWO",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "On days three and four, write one clear sentence before the meeting. Keep it short.",
+     "text": "DAYS THREE AND FOUR",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "From days five through seven, use one entry rep and note how the team responds.",
+     "text": "DAYS 5 TO 7: ONE REP",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Seven days, three small habits, zero overthinking. You have the reps.",
+     "text": "YOU HAVE THE REPS",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Subscribe to Tiny Leg Theory for calm explanations of the minds behind everyday moments.",
+     "text": "MORE SMALL REPS",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}

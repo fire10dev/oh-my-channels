@@ -1,0 +1,1021 @@
+REBUTTAL:
+1 accept
+2 reject: Breaks brief for s204, whose title and payoff explicitly require a slow exhale.
+3 accept
+4 accept
+5 accept
+6 reject: 'tụt mood' violates the TTS guideline forbidding English words in Vietnamese voiceover.
+7 accept
+8 accept
+9 accept
+10 accept
+11 accept
+12 reject: 'săm soi va quẹt mà lờ tịt' is jarring slang that clashes with Pen's calm persona.
+13 reject: The scenario is an incoming phone call, so 'step back from the screen' is illogical and walking away is not clinical triage.
+14 accept
+15 accept
+RESULT:
+[
+  {
+    "id": "s201",
+    "mascot": "pen",
+    "title": "Why Feelings Can Point to Concerns",
+    "mechanism": "Somatic marker hypothesis",
+    "lines": [
+      {
+        "vo": "Your pen hovers over the contract and your stomach drops.",
+        "text": "GUT CHECK",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Nothing looks wrong on paper, yet your chest feels tight.",
+        "text": "TIGHT CHEST",
+        "color": "red",
+        "actor": "panic",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "That bodily reaction is a somatic marker from past experience.",
+        "text": "STORED MEMORY",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Past warning signs trigger muscle tension before words form.",
+        "text": "BODILY MEMORY",
+        "actor": "reading",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Step away for ten minutes to let your pulse settle.",
+        "text": "TAKE TEN MINUTES",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "The right decision usually feels clearer once the tension fades.",
+        "text": "CLEAR MIND",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s201vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Lang nghe linh cam co the",
+    "title_vi": "Lắng nghe linh cảm cơ thể",
+    "mechanism": "Somatic marker hypothesis",
+    "lines": [
+      {
+        "vo": "Chuẩn bị ký hợp đồng thuê trọ, bụng bạn bỗng dưng thắt lại.",
+        "text": "BỤNG THẮT LẠI",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Đọc từng điều khoản thấy ổn, nhưng trong người vẫn thấy bất an.",
+        "text": "CẢM GIÁC BẤT AN",
+        "color": "red",
+        "actor": "panic",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Cơ thể đang phát tín hiệu cảnh báo từ những trải nghiệm cũ.",
+        "text": "KÝ ỨC CƠ THỂ",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Những va vấp cũ gửi tín hiệu căng cứng trước khi não kịp nghĩ.",
+        "text": "TÍN HIỆU CẢNH BÁO",
+        "actor": "reading",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Đừng vội cọc. Đứng lên xin chủ nhà mười phút đọc kỹ tiền điện nước.",
+        "text": "ĐỪNG VỘI CỌC",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Khi nhịp tim dịu lại, bạn sẽ thấy rõ điểm chưa ổn.",
+        "text": "NHÌN RÕ HƠN",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s202",
+    "mascot": "buff",
+    "title": "Why the Afterglow Can Fade",
+    "mechanism": "Opponent-process theory",
+    "lines": [
+      {
+        "vo": "Epic party tonight, total ghost tomorrow. Classic crash.",
+        "text": "POST-EVENT CRASH",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "That is opponent process. High excitement triggers an equal dip.",
+        "text": "THE DROP",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Chasing another buzz right now is just bad form.",
+        "text": "DON'T CHASE IT",
+        "actor": "arms_crossed_no",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Treat the morning like a rest day between heavy lifting sets.",
+        "text": "REST DAY",
+        "color": "green",
+        "actor": "think",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Sleep in, drink water, and let the baseline reset. Simple.",
+        "text": "RESET NOW",
+        "color": "gold",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      }
+    ]
+  },
+  {
+    "id": "s202vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung duoi theo con hung phan",
+    "title_vi": "Đừng đuổi theo cơn hưng phấn",
+    "mechanism": "Opponent-process theory",
+    "lines": [
+      {
+        "vo": "Tối nay quẩy banh nóc, sáng mai nằm bẹp một chỗ.",
+        "text": "TỤT NĂNG LƯỢNG",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Cảm xúc lên đỉnh thì cơ thể tự kéo xuống để cân bằng.",
+        "text": "CƠ CHẾ BÙ TRỪ",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đừng vội rủ bạn đi tăng hai để níu cảm giác vui.",
+        "text": "ĐỪNG NÍU KÉO",
+        "actor": "arms_crossed_no",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Tập nặng cần xả cơ, bung sức xong cũng cần một hiệp nghỉ.",
+        "text": "HIỆP NGHỈ",
+        "color": "green",
+        "actor": "think",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Dành trọn buổi sáng uống cà phê thong thả. Thế thôi.",
+        "text": "NGHỈ NGƠI THÔI",
+        "color": "gold",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      }
+    ]
+  },
+  {
+    "id": "s203",
+    "mascot": "pen",
+    "title": "Why a Feeling Can Peak and Pass",
+    "mechanism": "Emotional adaptation",
+    "lines": [
+      {
+        "vo": "A sharp message arrives and your jaw immediately clenches tight.",
+        "text": "INSTANT RAGE",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "It feels like this irritation will stay forever.",
+        "text": "ENDLESS FURY",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "But emotional waves naturally peak within minutes and dissolve.",
+        "text": "THE WAVE PASSES",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Our minds quickly adapt to new signals if left alone.",
+        "text": "ADAPTATION",
+        "actor": "nervous_wave",
+        "prop": "brain"
+      },
+      {
+        "vo": "Do not treat a peak emotion as a permanent truth.",
+        "text": "NOT PERMANENT",
+        "actor": "hand_off",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Put the phone face down and walk into another room.",
+        "text": "STEP AWAY",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "How important will that message feel in one hour?",
+        "text": "STILL CRITICAL?",
+        "color": "gold",
+        "actor": "front",
+        "prop": "hourglass"
+      }
+    ]
+  },
+  {
+    "id": "s203vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Con gian roi se qua di",
+    "title_vi": "Cơn giận rồi sẽ qua đi",
+    "mechanism": "Emotional adaptation",
+    "lines": [
+      {
+        "vo": "Đọc tin nhắn trách móc trong nhóm, mặt bạn nóng bừng lên.",
+        "text": "NÓNG MẶT",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Cảm giác bực bội như muốn nổ tung ngay lập tức.",
+        "text": "MUỐN NỔ TUNG",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Nhưng cơn giận sinh học thường đạt đỉnh rồi tự hạ nhiệt.",
+        "text": "CƠN SÓNG TỰ RÚT",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Cảm xúc dữ dội đến mấy cũng sẽ thích nghi và dịu dần.",
+        "text": "DỊU LẠI",
+        "actor": "nervous_wave",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đừng vội biến một cơn giận tạm thời thành quyết định dài lâu.",
+        "text": "ĐỪNG VỘI VÀNG",
+        "actor": "hand_off",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Úp màn hình điện thoại xuống, rời mắt đi chỗ khác.",
+        "text": "ÚP MÁY XUỐNG",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Một tiếng nữa nhìn lại, chuyện này có còn đáng bận tâm?",
+        "text": "CÒN ĐÁNG BẬN TÂM?",
+        "color": "gold",
+        "actor": "front",
+        "prop": "hourglass"
+      }
+    ]
+  },
+  {
+    "id": "s204",
+    "mascot": "buff",
+    "title": "Borrow Calm From a Slow Breath",
+    "mechanism": "Physiological feedback",
+    "lines": [
+      {
+        "vo": "Group chat is blowing up and your shoulders are touching your ears.",
+        "text": "TENSE SHOULDERS",
+        "color": "red",
+        "actor": "panic",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Your body is locking up, telling your brain to fight.",
+        "text": "ALARM ON",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Your body tricked your brain. Time to hijack the controls.",
+        "text": "HIJACK IT",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Drop your shoulders two inches right now. Unclench your jaw.",
+        "text": "DROP SHOULDERS",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "One long, slow exhale sends a clear signal of control.",
+        "text": "SLOW EXHALE",
+        "color": "green",
+        "actor": "meditating",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Reset the frame before you type. Stand tall.",
+        "text": "TAKE CONTROL",
+        "color": "gold",
+        "actor": "front",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s204vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Lay lai binh tinh bang hoi tho",
+    "title_vi": "Lấy lại bình tĩnh bằng hơi thở",
+    "mechanism": "Physiological feedback",
+    "lines": [
+      {
+        "vo": "Nhóm lớp cãi nhau ầm ĩ, hai vai bạn gồng cứng ngắc.",
+        "text": "VAI GỒNG CỨNG",
+        "color": "red",
+        "actor": "panic",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Cơ bắp căng thẳng đang gửi tín hiệu giục bạn khẩu chiến.",
+        "text": "BÁO ĐỘNG ĐỎ",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Cơ thể đang lừa não bạn. Giật lại quyền kiểm soát ngay.",
+        "text": "LẤY LẠI QUYỀN",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Hạ vai xuống, thả lỏng quai hàm ngay bây giờ.",
+        "text": "HẠ VAI XUỐNG",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Thở ra chậm một nhịp dài để hạ nhịp tim xuống.",
+        "text": "THỞ CHẬM LẠI",
+        "color": "green",
+        "actor": "meditating",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Giữ nhịp vững vàng rồi mới gõ phím. Đừng để bị cuốn.",
+        "text": "LÀM CHỦ TÌNH HÌNH",
+        "color": "gold",
+        "actor": "front",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s205",
+    "mascot": "pen",
+    "title": "Match Your Mood Before Shifting It",
+    "mechanism": "Iso-principle",
+    "lines": [
+      {
+        "vo": "You feel drained, so you blast an intensely upbeat workout song.",
+        "text": "FORCED ENERGY",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Instead of feeling energized, the cheerful rhythm just feels grating.",
+        "text": "TOO CHEERFUL",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "The brain resists an abrupt leap across opposite emotional states.",
+        "text": "EMOTIONAL GAP",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Psychologists call this the iso principle: meet yourself where you are.",
+        "text": "ISO PRINCIPLE",
+        "actor": "think",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Start with a slow, quiet melody that reflects your low energy.",
+        "text": "MATCH THE MOOD",
+        "color": "green",
+        "actor": "reading",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Let the music validate your tired state for a few minutes.",
+        "text": "ACKNOWLEDGE",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Then gently transition to a slightly warmer, brighter track.",
+        "text": "GENTLE SHIFT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Change happens more naturally when you meet yourself where you stand.",
+        "text": "MEET YOURSELF",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s205vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Doi tam trang theo tung nac",
+    "title_vi": "Đổi tâm trạng theo từng nấc",
+    "mechanism": "Iso-principle",
+    "lines": [
+      {
+        "vo": "Đang rầu rĩ, bạn cố bật nhạc thật bốc để xốc lại tinh thần.",
+        "text": "CỐ ÉP VUI",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Nhạc càng rộn ràng thì trong lòng lại càng thấy lạc lõng.",
+        "text": "CÀNG THẤY LẠC LÕNG",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Tâm trí khó mà nhảy vọt từ u ám sang vui tươi ngay.",
+        "text": "KHOẢNG CÁCH CẢM XÚC",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Hãy bắt đầu bằng cách lắng nghe cảm xúc thật của mình.",
+        "text": "ĐỒNG ĐIỆU TRƯỚC",
+        "actor": "think",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Bật một giai điệu êm dịu hợp với sự trầm lắng lúc này.",
+        "text": "BẬT NHẠC DỊU NHẸ",
+        "color": "green",
+        "actor": "reading",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Cho bản thân vài phút để cảm xúc được vỗ về.",
+        "text": "ĐÓN NHẬN",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Khi lòng nhẹ bớt, mới chuyển dần sang những bài tươi sáng hơn.",
+        "text": "DỊCH CHUYỂN DẦN",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Muốn bước tiếp, hãy chấp nhận nơi mình đang đứng trước đã.",
+        "text": "THẤU HIỂU CHÍNH MÌNH",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s206",
+    "mascot": "buff",
+    "title": "Name the Exact Feeling",
+    "mechanism": "Emotional granularity",
+    "lines": [
+      {
+        "vo": "You storm home saying you hate everything today. Sure, buddy.",
+        "text": "HATE EVERYTHING?",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Vague frustration leaves your brain swinging in the dark.",
+        "text": "VAGUE ANGER",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Emotional granularity means tagging the exact friction point.",
+        "text": "PINPOINT IT",
+        "actor": "think",
+        "prop": "target"
+      },
+      {
+        "vo": "Are you furious at work, or just exhausted and starving?",
+        "text": "MAD OR HUNGRY?",
+        "color": "green",
+        "actor": "arms_crossed_no",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Pinpoint the real friction, or keep punching the air.",
+        "text": "PICK YOUR FIGHT",
+        "color": "gold",
+        "actor": "sprint_start",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s206vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Goi dung ten cam xuc",
+    "title_vi": "Gọi đúng tên cảm xúc",
+    "mechanism": "Emotional granularity",
+    "lines": [
+      {
+        "vo": "Về đến phòng là quạu cọ, bảo hôm nay ghét tất cả mọi thứ.",
+        "text": "GHÉT CẢ THẾ GIỚI?",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Cứ bực chung chung thì chẳng bao giờ xử lý dứt điểm được.",
+        "text": "BỰC CHUNG CHUNG",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Bóc tách cảm xúc như bóc từng lớp tạ trước khi nâng.",
+        "text": "BÓC TÁCH RÕ RÀNG",
+        "actor": "think",
+        "prop": "target"
+      },
+      {
+        "vo": "Bực vì sếp giục gấp, hay đơn giản chỉ vì mệt và đói?",
+        "text": "BỰC HAY LÀ ĐÓI?",
+        "color": "green",
+        "actor": "arms_crossed_no",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Tìm đúng chỗ nghẽn mà gỡ, hoặc cứ việc đấm vào không khí.",
+        "text": "TỰ CHỌN ĐI",
+        "color": "gold",
+        "actor": "sprint_start",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s207",
+    "mascot": "pen",
+    "title": "Why Gratitude Makes Details Stand Out",
+    "mechanism": "Gratitude recall",
+    "lines": [
+      {
+        "vo": "After a long day, only the irritating delays replay in memory.",
+        "text": "FOCUSED ON FLAWS",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "The brain defaults to spotting friction and ignoring quiet support.",
+        "text": "NEGATIVE FILTER",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Deliberate gratitude flips the perceptual filter back to balance.",
+        "text": "REBALANCE FOCUS",
+        "actor": "think",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Searching for one kind detail makes hidden kindness visible again.",
+        "text": "NOTICE KINDNESS",
+        "actor": "reading",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Write down one quiet favor you received today, like a saved dinner.",
+        "text": "WRITE ONE DOWN",
+        "color": "green",
+        "actor": "writing",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "What small kindness went unnoticed in your rush today?",
+        "text": "WHAT WENT UNSEEN?",
+        "color": "gold",
+        "actor": "front",
+        "prop": "moon_stars"
+      }
+    ]
+  },
+  {
+    "id": "s207vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Nhin ra nhung dieu tu te",
+    "title_vi": "Nhìn ra những điều tử tế",
+    "mechanism": "Gratitude recall",
+    "lines": [
+      {
+        "vo": "Đi làm ca muộn về, trong đầu chỉ toàn bực dọc chuyện công ty.",
+        "text": "MỆT MỎI TAN CA",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Não bộ có xu hướng ghim chặt khó chịu mà quên mất điều tốt.",
+        "text": "CHỈ NHÌN MẶT XẤU",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Sự biết ơn giúp bạn mở rộng tầm mắt nhìn ra xung quanh.",
+        "text": "MỞ RỘNG GÓC NHÌN",
+        "actor": "think",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Khi chủ động tìm kiếm, những nâng đỡ thầm lặng sẽ hiện rõ.",
+        "text": "NHẬN DIỆN NÂNG ĐỠ",
+        "actor": "reading",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Ghi lại một sự nâng đỡ hôm nay, như hộp cơm ai đó để phần.",
+        "text": "GHI LẠI MỘT ĐIỀU",
+        "color": "green",
+        "actor": "writing",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Hôm nay, điều tử tế nào suýt bị bạn lãng quên?",
+        "text": "ĐIỀU GÌ BỊ QUÊN?",
+        "color": "gold",
+        "actor": "front",
+        "prop": "moon_stars"
+      }
+    ]
+  },
+  {
+    "id": "s208",
+    "mascot": "buff",
+    "title": "Don't Let Anger Pick Your Words",
+    "mechanism": "Anger-driven risk seeking",
+    "lines": [
+      {
+        "vo": "A harsh comment lands and your fingers fly to incinerate them.",
+        "text": "READY TO SNAP",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Anger floods the system and makes reckless risks look brilliant.",
+        "text": "RECKLESS IMPULSE",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Firing back instantly feels powerful. It is actually just sloppy form.",
+        "text": "SLOPPY FORM",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "Type out your fiery response in an empty notes file.",
+        "text": "DRAFT IT ASIDE",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Step away for three minutes before you hit that send button.",
+        "text": "WAIT THREE MINUTES",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Edit with a cool head. Win the long game, not the brawl.",
+        "text": "WIN THE GAME",
+        "color": "gold",
+        "actor": "front",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s208vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung de con gian chon loi",
+    "title_vi": "Đừng để cơn giận chọn lời",
+    "mechanism": "Anger-driven risk seeking",
+    "lines": [
+      {
+        "vo": "Đọc phản hồi chê bai trong nhóm làm việc, bạn muốn bật lại liền.",
+        "text": "MUỐN BẬT LẠI LIỀN",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Cơn tức tối khiến bạn thích chọn những nước đi liều lĩnh nhất.",
+        "text": "NƯỚC ĐI LIỀU",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Đáp trả ăn miếng trả miếng lúc này chỉ tổ tự làm hỏng việc.",
+        "text": "HỎNG VIỆC LỚN",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "Cứ gõ hết bực bội ra ứng dụng ghi chú cá nhân.",
+        "text": "VIẾT VÀO GHI CHÚ",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Rời màn hình ba phút để máu nóng tự rút khỏi đầu.",
+        "text": "NGHỈ BA PHÚT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Đọc lại bằng cái đầu lạnh rồi mới gửi. Đấu trí, đừng đấu đá.",
+        "text": "GIỮ ĐẦU LẠNH",
+        "color": "gold",
+        "actor": "front",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s209",
+    "mascot": "pen",
+    "title": "Why a Small Win Can Lift Your Mood",
+    "mechanism": "Positive affect broadening",
+    "lines": [
+      {
+        "vo": "You finish a difficult task and instantly jump into the next problem.",
+        "text": "RACING AHEAD",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Skipping acknowledgment leaves your emotional battery constantly running low.",
+        "text": "RUNNING ON EMPTY",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Pausing to recognize progress sparks genuine positive affect.",
+        "text": "SPARK PROGRESS",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "A small lift broadens your mental view and invites fresh ideas.",
+        "text": "BROADEN VISION",
+        "actor": "small_step",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Tick that finished box deliberately before looking ahead.",
+        "text": "TICK THE BOX",
+        "color": "green",
+        "actor": "celebrate",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Note down what worked well so your brain registers the success.",
+        "text": "LOG THE WIN",
+        "color": "green",
+        "actor": "writing",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Which finished task deserves your nod of respect today?",
+        "text": "WORTH NOTICING?",
+        "color": "gold",
+        "actor": "front",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s209vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Nhan dien thanh cong nho",
+    "title_vi": "Nhận diện thành công nhỏ",
+    "mechanism": "Positive affect broadening",
+    "lines": [
+      {
+        "vo": "Nộp xong bài tập nhóm, bạn lập tức lo sang việc khác.",
+        "text": "CHẠY ĐUA LIÊN TỤC",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Cứ lao đi mà không dừng lại, bạn sẽ nhanh chóng kiệt sức.",
+        "text": "CẠN NĂNG LƯỢNG",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Dừng lại ghi nhận thành quả giúp kích hoạt cảm xúc tích cực.",
+        "text": "TẠO ĐỘNG LỰC MỚI",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Cảm giác nhẹ nhõm này mở rộng suy nghĩ và giải tỏa áp lực.",
+        "text": "MỞ RỘNG TẦM NHÌN",
+        "actor": "small_step",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Đánh một dấu tích thật rõ ràng vào phần việc vừa nộp.",
+        "text": "TÍCH Ô HOÀN THÀNH",
+        "color": "green",
+        "actor": "celebrate",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Viết một dòng ghi lại nỗ lực của chính mình hôm nay.",
+        "text": "GHI LẠI CỐ GẮNG",
+        "color": "green",
+        "actor": "writing",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Hôm nay, việc nhỏ nào bạn làm xong xứng đáng được ghi nhận?",
+        "text": "ĐÁNG GHI NHẬN?",
+        "color": "gold",
+        "actor": "front",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s210",
+    "mascot": "buff",
+    "title": "Read Your Body Before You React",
+    "mechanism": "Interoceptive accuracy",
+    "lines": [
+      {
+        "vo": "Phone rings from family while you are stressed and you instantly snap.",
+        "text": "INSTANT SNAP",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Your heart was already pounding before you even picked up.",
+        "text": "RACING HEART",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Interoception means reading your bodily dashboard before taking any action.",
+        "text": "READ THE DASHBOARD",
+        "actor": "think",
+        "prop": "target"
+      },
+      {
+        "vo": "Hand on chest. If your pulse is racing, step outside immediately.",
+        "text": "CHECK PULSE FIRST",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Cool down first or drop the call. Your choice.",
+        "text": "YOUR CALL",
+        "color": "gold",
+        "actor": "front",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s210vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Bat mach cam xuc truoc khi noi",
+    "title_vi": "Bắt mạch cảm xúc trước khi nói",
+    "mechanism": "Interoceptive accuracy",
+    "lines": [
+      {
+        "vo": "Đang căng thẳng mà người nhà gọi điện, bạn rất dễ cáu gắt.",
+        "text": "DỄ GẮT GỎNG",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Thật ra nhịp tim của bạn đã dồn dập từ trước đó.",
+        "text": "TIM ĐẬP NHANH",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Tập thói quen kiểm tra đồng hồ cơ thể trước khi tương tác.",
+        "text": "ĐỌC TÍN HIỆU CƠ THỂ",
+        "actor": "think",
+        "prop": "target"
+      },
+      {
+        "vo": "Đặt tay lên ngực. Tim đập nhanh thì lùi lại hít thở đã.",
+        "text": "BẮT MẠCH BẢN THÂN",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Hạ nhiệt rồi mới nghe máy, hoặc gọi lại sau. Tự chọn đi.",
+        "text": "TỰ CHỌN ĐI",
+        "color": "gold",
+        "actor": "front",
+        "prop": "dumbbell"
+      }
+    ]
+  }
+]

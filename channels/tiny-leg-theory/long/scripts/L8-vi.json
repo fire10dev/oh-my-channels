@@ -1,0 +1,978 @@
+{
+ "id": "L8vi",
+ "lang": "vi",
+ "title": "Vì sao bạn thấy sự nghiệp mãi giậm chân tại chỗ?",
+ "description": "Cảm giác giậm chân tại chỗ thường đến từ kỹ năng mai một, sự lệch pha hay chi phí cơ hội. Dưới đây là tám cơ chế tâm lý giúp bạn gỡ rối, cùng bài tự rà soát buổi sáng để bứt phá.",
+ "chapters": [
+  {
+   "title": "Intro",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tan làm, thấy người vào sau mình vừa nhận quyết định lên chức.",
+     "text": "MỞ ĐẦU",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bình tĩnh đi Pen. Đứng yên một chỗ chưa chắc do bạn lười hay nâng tạ hụt đâu.",
+     "text": "KHÔNG PHẢI DO LƯỜI",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Do kỹ năng đứng yên, hay do công việc này không có đường phát triển?",
+     "text": "KẸT LẠI DO ĐÂU?",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cùng điểm qua tám lý do khiến dân chăm chỉ vẫn va phải ngõ cụt.",
+     "text": "TÁM NGUYÊN NHÂN",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rồi rà soát lại ba mươi phút đầu tiên mỗi sáng khi mở máy làm việc.",
+     "text": "SOI LẠI BUỔI SÁNG",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khỏi viết đơn nghỉ việc, nhúc nhích được phần nào thì khởi động phần đó trước.",
+     "text": "NHÚC NHÍCH TỪNG CHÚT",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "2. Learned Helplessness",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Góp ý hai lần bị sếp ngó lơ, thế là mình nín lặng luôn.",
+     "text": "2. BẤT LỰC TẬP NHIỄM",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bất lực tập nhiễm đấy. Va tường nhiều khiến não nghĩ cố gắng cũng vô ích.",
+     "text": "NỖ LỰC VÔ NGHĨA",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên dù môi trường thay đổi, mình cũng chẳng buồn tìm đường mới?",
+     "text": "KHÔNG DÁM ĐỔI HƯỚNG",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mất quyền kiểm soát lâu ngày, đầu óc tự đoán trước đằng nào cũng toang.",
+     "text": "ĐOÁN TRƯỚC THẤT BẠI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sự im lặng của mọi người như bằng chứng rằng cố mấy cũng vậy thôi.",
+     "text": "IM LẶNG LÀ DẤU CHẤM",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng đòi sửa cả văn phòng. Chọn một việc nhỏ với người phụ trách rõ ràng.",
+     "text": "XIN MỘT VIỆC NHỎ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Này Buff, hay là xin sếp mười lăm phút để thử đổi một khâu nhỏ xem sao?",
+     "text": "XIN THỬ NGHIỆM",
+     "color": "green",
+     "actor": "nervous_wave",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi lại phản hồi thật, bớt tự suy diễn. Coi như xong một hiệp.",
+     "text": "GHI LẠI SỰ THẬT",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu bị từ chối, mình hỏi cần điều kiện gì để làm phép thử nhỏ?",
+     "text": "TÌM ĐIỀU KIỆN ĐỦ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bị từ chối chưa phải bản án. Đó là dữ liệu để đổi bài tập.",
+     "text": "TÍN HIỆU, KHÔNG PHÁN",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Gom dữ liệu thật giúp mình thấy hành động nhỏ vẫn tạo chuyển biến.",
+     "text": "GOM DỮ LIỆU THẬT",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ tích lũy từng hiệp nhỏ, hành động sẽ đập tan cảm giác tê liệt.",
+     "text": "HÀNH ĐỘNG PHÁ BĂNG",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đôi khi tín hiệu là mình đang làm việc quá quen tay đến phát ngán.",
+     "text": "LÀM MÃI VIỆC CŨ",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "laptop_file"
+    }
+   ]
+  },
+  {
+   "title": "3. Competence Trap",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình thành chân dọn bảng tính và gánh mọi hạn chót gấp gáp.",
+     "text": "3. BẪY NĂNG LỰC",
+     "color": "gold",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy năng lực đấy. Làm tốt việc quen khiến bạn kẹt cứng ở mức tạ cũ.",
+     "text": "LÀM TỐT NHƯNG KẸT",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Được tin cậy giao việc, giờ xin làm thứ khác lại sợ bị bảo thiếu trách nhiệm?",
+     "text": "BỊ TRÓI VÌ ĐÁNG TIN",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Công sở thích trả tiền cho bài bạn đã thạo hơn là cho bạn học mới.",
+     "text": "THƯỞNG CHO VIỆC CŨ",
+     "color": "gold",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thắng dễ ở việc quen tay an toàn hơn làm người mới ngơ ngác vụng về.",
+     "text": "SỢ LÚNG TÚNG BAN ĐẦU",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não thích cảm giác thành thạo có sẵn, vì học cái mới vừa đuối vừa sợ quê.",
+     "text": "HAO TỔN NHẬN THỨC",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao bước khỏi bẫy mà không bỏ bê việc mình đang gánh?",
+     "text": "LỐI NÀO THOÁT RA?",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ giữ bài quen, nhưng tháng này kẹp thêm một nhiệm vụ giúp nâng trình.",
+     "text": "GHÉP THÊM BÀI MỚI",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình xin đứng lên trình bày số liệu thay vì chỉ gửi tệp báo cáo?",
+     "text": "XIN ĐỨNG LÊN BÁO CÁO",
+     "color": "green",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Báo với sếp bạn sẽ thuyết trình một phần, làm gọn và đo lường kết quả.",
+     "text": "ĐO LƯỜNG HIỆP ĐẦU",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như vậy thể hiện được bước tiến mà việc thường ngày vẫn chạy êm.",
+     "text": "THỬ SỨC TRONG TẦM TAY",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không bỏ bài tập quen, chỉ là nâng thêm một hiệp tạ nặng hơn bên cạnh.",
+     "text": "THÊM MỘT HIỆP NẶNG",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mải dọn bảng tính làm những kỹ năng mình từng thích dần lụi tàn mất.",
+     "text": "KỸ NĂNG CŨ LỤI TÀN",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "4. Skill Atrophy",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hồi trước viết lách với lập trình ngon lành, giờ chỗ làm chẳng đụng tới.",
+     "text": "4. MAI MỘT KỸ NĂNG",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mai một kỹ năng đó. Cơ bắp không tập thì nhão, tay nghề bỏ xó thì lục.",
+     "text": "KHÔNG TẬP THÌ NHÃO",
+     "color": "gold",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bị gỉ sét như vậy là do chọn sai nghề, hay do mình hết thời rồi?",
+     "text": "GỈ SÉT HAY HẾT THỜI?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ bẵng lâu ngày thì khớp bị cứng, việc xưa làm vèo vèo giờ thấy nặng.",
+     "text": "BỎ LÂU KHỚP CỨNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thử lại thấy lóng ngóng là chùn bước, càng đinh ninh mình kém cỏi.",
+     "text": "CÀNG TRỐN CÀNG GỈ",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đầu óc hay nhầm gỉ sét với kém cỏi. Máy lâu chưa chạy nên nguội thôi.",
+     "text": "MÁY NGUỘI, KHÔNG KÉM",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là không cần khóa học ba tháng mới tìm lại phong độ?",
+     "text": "CẦN GÌ KHÓA HỌC DÀI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lồng bài tập nhỏ vào việc hằng ngày, đừng đợi lúc rảnh rỗi mới sờ tới.",
+     "text": "TẬP NGAY LÚC LÀM",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình có thể dành mười phút viết nháp bản tin trước khi mở hòm thư?",
+     "text": "MƯỜI PHÚT RÈN TAY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mỗi tuần một lần, lôi ngón nghề đó ra dùng hoặc học lỏm từ đồng nghiệp.",
+     "text": "ĐƯA KỸ NĂNG VÀO VIỆC",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Việc đó giúp kiểm chứng xem tay nghề có quay lại và còn mê không.",
+     "text": "XEM CÒN HỨNG THÚ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi gỉ sét là lúc khởi động. Nếu tập lại mà nguội ngắt thì cũng rõ ràng.",
+     "text": "KHỞI ĐỘNG VÀ ĐÁNH GIÁ",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm hứng rất cần, vì sự nghiệp là câu chuyện mình muốn tự tay viết tiếp.",
+     "text": "CÂU CHUYỆN SỰ NGHIỆP",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "5. Career Construction",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Thấy bạn đồng trang lứa thăng tiến vèo vèo, nhìn lại mình thấy tối tăm.",
+     "text": "5. KIẾN TẠO SỰ NGHIỆP",
+     "color": "gold",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tỉnh lại đi Pen, sự nghiệp là bài tập tự chọn, không phải đường ray có sẵn.",
+     "text": "BẠN TỰ VIẾT BÀI TẬP",
+     "color": "gold",
+     "actor": "writing",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghe hay đấy, nhưng mình đâu thể tự quyết chuyện cất nhắc hay ngân sách.",
+     "text": "GIỚI HẠN KIỂM SOÁT",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nối thứ bạn coi trọng với những khúc mắc mà đội nhóm đang cần giải quyết.",
+     "text": "GIẢI BÀI TOÁN THẬT",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Não mê nấc thang có sẵn vì tự vạch đường tốn rất nhiều năng lượng.",
+     "text": "MÊ NẤC THANG CÓ SẴN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hết thang là đứng hình. Người chủ động sẽ tự thiết kế bài tập tiếp theo.",
+     "text": "TỰ THIẾT KẾ HIỆP MỚI",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vừa muốn có ích, vừa muốn lương ổn lại muốn học hỏi, biết chọn cái nào?",
+     "text": "ƯU TIÊN ĐIỀU GÌ?",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Viết ra ba lúc đi làm thấy tự hào nhất, xem sợi dây nối chúng là gì.",
+     "text": "TÌM ĐIỂM CHUNG",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra mình thích đứng ra gỡ rối công việc hơn là ôm chức danh hão.",
+     "text": "GỠ RỐI HƠN DANH XƯNG",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng điểm chung đó xin làm thử hai tuần, nhận phần tổng hợp việc xem sao.",
+     "text": "THỬ NGHIỆM HAI TUẦN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm thử cho mình số liệu thật thay vì ngồi quán cà phê mơ mộng?",
+     "text": "DỮ LIỆU THAY MƠ MỘNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ý nghĩa không nằm ở lời nói suông, muốn tiến thì chân phải chạm đất.",
+     "text": "Ý NGHĨA CẦN HÀNH ĐỘNG",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù rõ hướng đi, nếu áp lực hằng ngày cứ lệch pha với thế mạnh thì sao?",
+     "text": "SOI ĐỘ LỆCH PHA",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "6. Person-Job Fit",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa bật máy là nhóm Zalo réo liên tục, việc ngập đầu mà mông lung.",
+     "text": "6. ĐỘ TƯƠNG THÍCH",
+     "color": "gold",
+     "actor": "worried_heart",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Độ tương thích có hai mặt, kỹ năng có vừa sức và đãi ngộ có xứng đáng.",
+     "text": "NĂNG LỰC VÀ ĐÃI NGỘ",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không khớp lại thấy mình kém, rốt cuộc do sức mình hay do vị trí đó?",
+     "text": "DO MÌNH HAY DO VIỆC?",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gánh mức tạ lệch vai quá lâu, cơ thể bạn sẽ tự buông xuôi để giữ sức.",
+     "text": "QUÁ TẢI SẼ BUÔNG XUÔI",
+     "color": "gold",
+     "actor": "bored_yawn",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm việc mà mất hết quyền tự chủ thì pin tinh thần tụt rất nhanh.",
+     "text": "CẠN KIỆT NĂNG LƯỢNG",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi chép một tuần ba thứ, việc nạp pin, việc rút pin, và kỹ năng cần dùng.",
+     "text": "THEO DÕI MỘT TUẦN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thích ngồi làm số liệu, mà ngày nào cũng phải đi xử lý khiếu nại thì kiệt sức.",
+     "text": "ĐÂU LÀ THỨ HÚT PIN?",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn rõ xem hụt hơi là do chưa thạo bài hay do bản chất không hợp.",
+     "text": "KỸ NĂNG HAY LỆCH PHA?",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu không hợp bản chất, mình xin đổi phần việc đó cho đồng nghiệp được không?",
+     "text": "ĐỔI VIỆC CHO NHAU",
+     "color": "green",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi việc chạy theo chữa cháy phát sinh lấy phần phân tích mà người khác đang ngán.",
+     "text": "HOÁN ĐỔI CHO ĐỒNG ĐỘI",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn nếu cấp trên nhất quyết không chịu điều chỉnh chút việc nào thì sao?",
+     "text": "KHI SẾP BÁC BỎ HẾT",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉnh mức tạ mà vẫn trật khớp thì đó là tín hiệu để rút lui trật tự.",
+     "text": "RÚT LUI TRẬT TỰ",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng ngay vị trí hiện tại, vẫn có những khoảng thời gian mình tự nắn được.",
+     "text": "TỈA TÓT LẠI MỖI NGÀY",
+     "color": "ink",
+     "actor": "front",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "7. Job Crafting",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Chưa kịp nhấp ngụm cà phê sáng thì hòm thư đã nổ thông báo, loáng cái mất toi nửa tiếng.",
+     "text": "7. TÁI TẠO CÔNG VIỆC",
+     "color": "gold",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tái tạo công việc là tự chỉnh lại việc làm, ranh giới và cách nhìn nhận.",
+     "text": "SỬA TỪNG BÀI NHỎ",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là mình đổi được việc phải làm hằng ngày, hoặc cách tiếp cận chúng?",
+     "text": "ĐỔI CÁCH LÀM VIỆC",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tỉa bớt động tác thừa, thêm việc có ích hoặc cắt thói quen vô bổ buổi sáng.",
+     "text": "TỈA BỚT ĐỘNG TÁC THỪA",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn khâu phối hợp, nhiều khi việc bàn giao giữa người với người gây ức chế nhất.",
+     "text": "LẤN CẤN LÚC BÀN GIAO",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dựng lại ranh giới, hẹn rõ giờ bàn giao hoặc trao đổi ngắn để khỏi đoán mò.",
+     "text": "DỰNG LẠI RANH GIỚI",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy mình có thể đổi cách nhìn việc lặp lại mà không cần giả vờ thích nó?",
+     "text": "TÌM Ý NGHĨA MỚI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi góc nhìn đi, coi báo cáo tuần là gom số liệu cho đề xuất mới.",
+     "text": "ĐỔI GÓC NHÌN BÀI TẬP",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Năm sáng tới, mình ghi lại ba mươi phút đầu xem làm gì và bị ngắt quãng thế nào.",
+     "text": "GHI LẠI NĂM BUỔI SÁNG",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi chép hai sáng đầu, thử đổi một điểm trong ba ngày sau, êm thì giữ.",
+     "text": "THỬ RỒI GIỮ LẠI",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giữ được nửa tiếng đầu ngày là có khoảng thở mà không làm phiền ai.",
+     "text": "TẠO KHOẢNG THỞ",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tích tiểu thành đại, làm chủ ba mươi phút đầu là làm chủ cả ngày làm việc.",
+     "text": "LÀM CHỦ TỪNG PHÚT",
+     "color": "gold",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giữ được buổi sáng mới thấy mình từng phí bao nhiêu thời gian cho việc linh tinh.",
+     "text": "CÁI GIÁ CỦA VIỆC VẶT",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "8. Opportunity Cost",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ gật đầu nhận mọi việc gấp, để rồi khóa học nâng chuyên môn mãi bị hoãn.",
+     "text": "8. CHI PHÍ CƠ HỘI",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chi phí cơ hội đấy. Nhận thêm việc vặt là đá văng bài quan trọng ra rìa.",
+     "text": "GẬT ĐẦU CÓ CÁI GIÁ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng việc đó giúp trả tiền nhà và giữ uy tín, đâu phải cứ gật đầu là sai?",
+     "text": "CÓ ĐÁNG GIÁ KHÔNG?",
+     "color": "ink",
+     "actor": "wallet_worry"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Áp lực trước mắt lúc nào cũng hét to hơn lợi ích âm thầm vài tháng sau.",
+     "text": "CÁI TRƯỚC MẮT HÉT TO",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình ôm việc quen vì thấy kết quả ngay, còn phát triển thì mơ hồ và sợ rủi ro.",
+     "text": "VIỆC QUEN THÌ AN TÂM",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não thích húp trọn lời khen trước mắt, hơn là kiên trì đợi trái ngọt.",
+     "text": "THÈM LỜI KHEN NHANH",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Này Buff, làm sao thấy rõ sự đánh đổi trước khi lịch cả tuần bị lấp kín?",
+     "text": "NHÌN RÕ SỰ ĐÁNH ĐỔI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng bỏ ngang. Xin gom việc giấy tờ lại xử lý một buổi, dành chỗ cho phân tích dự án.",
+     "text": "ĐỀ XUẤT ĐỔI NGANG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trao đổi sòng phẳng như vậy sẽ giúp mình giữ được giờ để nâng cao tay nghề.",
+     "text": "GIỮ GIỜ ĐỂ HỌC TẬP",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thể lực mỗi ngày có hạn. Ôm việc lặt vặt thì lấy đâu sức nâng hiệp tạ nặng.",
+     "text": "THỂ LỰC CÓ HẠN",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi nhận thêm việc, mình phải gọi tên chính xác thứ gì sẽ bị chậm lại?",
+     "text": "GỌI TÊN CÁI BỊ HOÃN",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói thẳng cái giá phải trả. Nếu cản đà tiến bộ, hãy thương lượng lại hạn chót.",
+     "text": "THƯƠNG LƯỢNG HẠN CHÓT",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chọn lối đi sẽ dễ hơn khi hình dung rõ hình mẫu bản thân muốn hướng tới.",
+     "text": "HÌNH DUNG BẢN THÂN",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "9. Possible Selves",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nửa đêm lướt tin tuyển dụng, tưởng tượng năm viễn cảnh nhưng chẳng tin cái nào.",
+     "text": "9. BẢN THỂ TIỀM NĂNG",
+     "color": "gold",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản thể tiềm năng là tương lai bạn tự vẽ, kéo bạn đi hoặc làm bạn đông cứng.",
+     "text": "VIỄN CẢNH DẪN LỐI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bản thể làm mình sợ nhất là năm năm nữa vẫn ngồi còng lưng đúng góc bàn này.",
+     "text": "BẢN THỂ ĐÁNG SỢ NHẤT",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Biết sợ là tốt đấy Pen. Nó như chốt an toàn trên giá tạ, nhắc bạn đường cần né.",
+     "text": "NỖI SỢ LÀ LAN CAN",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vay mượn ước mơ của người khác trên mạng sẽ chẳng bao giờ vừa với đời mình.",
+     "text": "GIẤC MƠ VAY MƯỢN",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy tả một ngày làm việc thực tế, việc bạn làm và giá trị bạn tạo ra.",
+     "text": "TẢ MỘT NGÀY ĐI LÀM",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Muốn tự chủ làm chuyên môn, được quyết việc lớn và bớt cảnh chữa cháy.",
+     "text": "TỰ CHỦ VÀ TẠO GIÁ TRỊ",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn đúng một kỹ năng ngăn cách ngày mơ ước với ngày bế tắc, rồi tập nó.",
+     "text": "TẬP KỸ NĂNG CÒN THIẾU",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rồi thử nghiệm một phần việc tương lai đó, như viết bản tóm tắt chiến lược?",
+     "text": "THỬ NGHIỆM MỘT PHẦN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhào vô tập thử. Va chạm thực tế mới biết tương lai đó tiếp sức hay chỉ hào nhoáng.",
+     "text": "THỰC TẾ LÊN TIẾNG",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình có thể chỉnh lại hình dung khi đã hiểu việc thực tế đòi hỏi những gì.",
+     "text": "CẬP NHẬT TỪ THỰC TẾ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lên lộ trình như tập thể hình, hình dung, tập thử, rút kinh nghiệm rồi chỉnh lại.",
+     "text": "HÌNH DUNG. THỬ. SỬA.",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giờ hãy gom tám manh mối này lại để lên kế hoạch cụ thể cho tuần tới.",
+     "text": "LÊN KẾ HOẠCH CỤ THỂ",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Recap",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Kẹt sự nghiệp luôn có quy luật, dù trông nó giống như bức tường khổng lồ.",
+     "text": "TỔNG KẾT",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một là xem ngõ cụt tâm lý, kỹ năng mai một hay bẫy việc quen đang bóp nghẹt bạn.",
+     "text": "SOI LỐI MÒN CŨ",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hai là đối chiếu nhu cầu với đòi hỏi chỗ làm xem phần nào nắn được.",
+     "text": "SOI ĐỘ VỪA VẶN",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba là chọn hướng ý nghĩa, tính chi phí thời gian và tập thử viễn cảnh.",
+     "text": "CHỌN. TÍNH. TẬP THỬ.",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thử thách bảy ngày cho bạn, soi ba mươi phút đầu giờ làm trong năm ngày tới.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngày một và hai ghi vướng mắc, ngày ba đến năm thử đổi một thói quen nhỏ.",
+     "text": "GHI RỒI CHỈNH BÀI",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chiều thứ sáu xem lại kết quả, sáng thứ hai khóa chặt ranh giới tạo khoảng thở.",
+     "text": "KHÓA CHẶT RANH GIỚI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Theo dõi Lý Thuyết Chân Que, tập đều từng hiệp để tự lái sự nghiệp.",
+     "text": "RÈN TỪNG BƯỚC MỘT",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

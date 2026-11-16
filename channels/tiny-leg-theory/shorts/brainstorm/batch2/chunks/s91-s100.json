@@ -1,0 +1,191 @@
+[
+{"id": "s91", "mascot": "pen", "title": "Why You Think Everyone Chose It", "mechanism": "Bandwagon effect",
+ "lines": [
+  {"vo": "Everyone picked the same topic, so it must be the right one.", "text": "EVERYONE CHOSE IT", "color": "red", "actor": "confused_shrug"},
+  {"vo": "Popular can feel like proof, even when nobody really checked.", "text": "POPULAR = PROOF?", "color": "red", "actor": "think", "prop": "target"},
+  {"vo": "It's the bandwagon effect. We lean toward what the crowd seems to like.", "text": "BANDWAGON EFFECT", "actor": "34", "prop": "brain"},
+  {"vo": "The crowd might know something. Or they might just be following each other.", "text": "OR JUST FOLLOWING?", "actor": "nervous_wave"},
+  {"vo": "So ask one quiet question. What's the reason, besides popularity?", "text": "ANY OTHER REASON?", "color": "green", "actor": "writing", "prop": "lightbulb"},
+  {"vo": "If the reason holds up, join them. Then the choice is yours too.", "text": "THEN IT'S YOURS", "color": "gold", "actor": "small_step"}
+ ]},
+{"id": "s91vi", "lang": "vi", "mascot": "pen", "title": "Ca lop chon de nay, chac la dung?", "title_vi": "Cả lớp chọn đề này, chắc là đúng?", "mechanism": "Bandwagon effect",
+ "lines": [
+  {"vo": "Cả lớp đăng ký cùng một đề tài, nên chắc đề đó dễ ăn điểm.", "text": "CẢ LỚP CHỌN ĐỀ NÀY", "color": "red", "actor": "confused_shrug"},
+  {"vo": "Đông người chọn tự nhiên trông giống một lời bảo đảm.", "text": "ĐÔNG = ĐÚNG?", "color": "red", "actor": "think", "prop": "target"},
+  {"vo": "Đó là hiệu ứng đám đông. Thấy nhiều người làm, mình nghiêng theo.", "text": "HIỆU ỨNG ĐÁM ĐÔNG", "actor": "34", "prop": "brain"},
+  {"vo": "Có khi nhóm kia cũng chỉ chọn vì thấy nhóm bên cạnh chọn.", "text": "AI CŨNG NHÌN NHAU", "actor": "nervous_wave"},
+  {"vo": "Thử hỏi nhóm mình: đề này hợp với mình ở điểm nào?", "text": "HỢP VỚI MÌNH Ở ĐÂU?", "color": "green", "actor": "writing", "prop": "lightbulb"},
+  {"vo": "Bỏ đám đông ra rồi, nhóm mình có còn chọn đề này không?", "text": "BỎ ĐÁM ĐÔNG RA THÌ SAO?", "color": "gold", "actor": "think"}
+ ]},
+{"id": "s92", "mascot": "buff", "title": "Separate the Price From the Value", "mechanism": "Price-quality heuristic",
+ "lines": [
+  {"vo": "Expensive course, so it must be great. Sure, buddy.", "text": "PRICEY = GOOD?", "color": "red", "actor": "wallet_worry", "prop": "coin_stack"},
+  {"vo": "Your brain uses price as a shortcut for quality.", "text": "PRICE AS SHORTCUT", "actor": "think", "prop": "brain"},
+  {"vo": "A price tag is not a review. It's a number.", "text": "TAG, NOT REVIEW", "color": "red", "actor": "arms_crossed_no"},
+  {"vo": "Write your three must-haves. Check every option against them.", "text": "LIST YOUR MUST-HAVES", "color": "green", "actor": "writing", "prop": "checkbox_tick"},
+  {"vo": "Pay for what you need, not for the vibe. Go compare.", "text": "PAY FOR NEEDS", "color": "gold", "actor": "point_viewer"}
+ ]},
+{"id": "s92vi", "lang": "vi", "mascot": "buff", "title": "Dat chua chac da xin", "title_vi": "Đắt chưa chắc đã xịn", "mechanism": "Price-quality heuristic",
+ "lines": [
+  {"vo": "Khóa học ngoại ngữ đắt gấp ba, chắc dạy hay gấp ba. Ừ, tin.", "text": "ĐẮT = XỊN?", "color": "red", "actor": "wallet_worry", "prop": "coin_stack"},
+  {"vo": "Não lấy giá tiền làm đường tắt để đoán chất lượng.", "text": "GIÁ LÀ ĐƯỜNG TẮT", "actor": "think", "prop": "brain"},
+  {"vo": "Bỏ qua quảng cáo. Xin học thử một buổi, hỏi người đã học.", "text": "HỌC THỬ TRƯỚC", "color": "green", "actor": "reading", "prop": "laptop_file"},
+  {"vo": "Rồi đối chiếu đúng thứ mình cần. Giao tiếp, hay luyện thi?", "text": "CẦN GÌ THÌ SO CÁI ĐÓ", "color": "green", "actor": "writing", "prop": "checkbox_tick"},
+  {"vo": "Trả tiền cho nhu cầu, đừng trả cho cảm giác sang. So sánh ngay đi.", "text": "TRẢ CHO NHU CẦU", "color": "gold", "actor": "point_viewer"}
+ ]},
+{"id": "s93", "mascot": "pen", "title": "The Choice You Keep Because It's Default", "mechanism": "Status quo bias",
+ "lines": [
+  {"vo": "That app renewed again. You never actually decided to keep it.", "text": "RENEWED AGAIN", "color": "red", "actor": "shocked", "prop": "smartphone_glow"},
+  {"vo": "Doing nothing still picks something. It just picks the default.", "text": "NOTHING IS A CHOICE", "actor": "think"},
+  {"vo": "Status quo bias. The current option feels safer, simply because it's current.", "text": "STATUS QUO BIAS", "actor": "34", "prop": "brain"},
+  {"vo": "Changing takes effort, and leaving can feel like a small loss.", "text": "CHANGE FEELS COSTLY", "color": "red", "actor": "future_tired"},
+  {"vo": "So once a month, open your subscriptions and settings on purpose.", "text": "MONTHLY REVIEW", "color": "green", "actor": "typing_focused", "prop": "calendar_today"},
+  {"vo": "For each one, ask: would I choose this today, from scratch?", "text": "CHOOSE IT AGAIN?", "color": "green", "actor": "think"},
+  {"vo": "Some will stay. But now they stay because you said so.", "text": "NOW YOU DECIDED", "color": "gold", "actor": "small_step"}
+ ]},
+{"id": "s93vi", "lang": "vi", "mascot": "pen", "title": "Goi cuoc tu gia han, minh chua tung chon", "title_vi": "Gói cước tự gia hạn, mình chưa từng chọn", "mechanism": "Status quo bias",
+ "lines": [
+  {"vo": "Gói cước điện thoại lại tự gia hạn, tháng thứ tư rồi.", "text": "LẠI TỰ GIA HẠN", "color": "red", "actor": "shocked", "prop": "smartphone_glow"},
+  {"vo": "Bạn chưa từng quyết giữ nó. Chỉ là chưa vào đổi thôi.", "text": "CHƯA TỪNG CHỌN", "actor": "think"},
+  {"vo": "Thiên kiến hiện trạng: cái đang có tự nhiên thấy an toàn hơn.", "text": "THIÊN KIẾN HIỆN TRẠNG", "actor": "34", "prop": "brain"},
+  {"vo": "Muốn đổi phải mở ứng dụng, đọc điều khoản, nên cứ để đấy.", "text": "NGẠI ĐỔI", "color": "red", "actor": "sofa_scroll"},
+  {"vo": "Chọn một ngày cố định mỗi tháng, soát hết các khoản tự trừ tiền trong ví.", "text": "SOÁT KHOẢN TỰ TRỪ", "color": "green", "actor": "typing_focused", "prop": "calendar_today"},
+  {"vo": "Với từng khoản, hỏi: nếu hôm nay mới đăng ký, mình có chọn không?", "text": "HÔM NAY CÒN CHỌN?", "color": "green", "actor": "think"},
+  {"vo": "Giữ hay bỏ đều được, miễn là lần này mình tự chọn.", "text": "LẦN NÀY TỰ CHỌN", "color": "gold", "actor": "small_step"}
+ ]},
+{"id": "s94", "mascot": "buff", "title": "Too Many Options? Set a Rule", "mechanism": "Choice overload",
+ "lines": [
+  {"vo": "Two hours comparing laptops. Zero laptops bought.", "text": "2 HOURS, 0 LAPTOPS", "color": "red", "actor": "sofa_scroll", "prop": "laptop_file"},
+  {"vo": "Too many options, and every pick starts to feel risky.", "text": "TOO MANY OPTIONS", "color": "red", "actor": "confused_shrug"},
+  {"vo": "That's choice overload. More options, more freezing.", "text": "CHOICE OVERLOAD", "actor": "34", "prop": "brain"},
+  {"vo": "Warm-up first. Pick three must-haves before you scroll.", "text": "3 MUST-HAVES FIRST", "color": "green", "actor": "writing", "prop": "checkbox_tick"},
+  {"vo": "Misses one? Out. Cut the list hard.", "text": "CUT THE LIST", "color": "green", "actor": "arms_crossed_no"},
+  {"vo": "Three finalists, one decision, done today. Set complete.", "text": "DECIDE TODAY", "color": "gold", "actor": "celebrate", "prop": "target"}
+ ]},
+{"id": "s94vi", "lang": "vi", "mascot": "buff", "title": "Ba tram mau may tinh, chot kieu gi?", "title_vi": "Ba trăm mẫu máy tính, chốt kiểu gì?", "mechanism": "Choice overload",
+ "lines": [
+  {"vo": "Lên sàn tìm máy tính học tập, ba trăm mẫu hiện ra.", "text": "300 MẪU MÁY TÍNH", "color": "red", "actor": "sofa_scroll", "prop": "smartphone_glow"},
+  {"vo": "Lướt đến tối, thêm vào giỏ mười cái, chưa mua cái nào.", "text": "GIỎ 10 MÓN, MUA 0", "color": "red", "actor": "facepalm"},
+  {"vo": "Quá nhiều lựa chọn khiến chọn cái nào cũng sợ sai.", "text": "QUÁ NHIỀU LỰA CHỌN", "actor": "34", "prop": "brain"},
+  {"vo": "Khởi động trước: ghi ba tiêu chí bắt buộc. Pin, độ nhẹ, tầm giá.", "text": "3 TIÊU CHÍ TRƯỚC", "color": "green", "actor": "writing", "prop": "checkbox_tick"},
+  {"vo": "Mẫu nào trượt một tiêu chí, loại luôn, không tiếc.", "text": "TRƯỢT LÀ LOẠI", "color": "green", "actor": "arms_crossed_no"},
+  {"vo": "Còn ba mẫu thì hỏi một người đang dùng.", "text": "HỎI NGƯỜI ĐANG DÙNG", "color": "green", "actor": "reading"},
+  {"vo": "Chốt trong tối nay. Hết hiệp.", "text": "CHỐT TỐI NAY", "color": "gold", "actor": "celebrate", "prop": "target"}
+ ]},
+{"id": "s95", "mascot": "pen", "title": "Why You Remember the Last Part Most", "mechanism": "Recency effect",
+ "lines": [
+  {"vo": "You leave a meeting remembering only the last five minutes.", "text": "ONLY THE LAST BIT", "color": "red", "actor": "confused_shrug"},
+  {"vo": "The decision from the very start? Already blurry.", "text": "THE START? GONE.", "color": "red", "actor": "facepalm", "prop": "paper_mountain"},
+  {"vo": "That's the recency effect. The latest information is the easiest to recall.", "text": "RECENCY EFFECT", "actor": "34", "prop": "brain"},
+  {"vo": "Newer details quietly push the earlier ones out of easy reach.", "text": "NEW PUSHES OUT OLD", "actor": "think"},
+  {"vo": "So you might follow up on the wrong task entirely.", "text": "WRONG FOLLOW-UP", "color": "red", "actor": "worried_heart", "prop": "checkbox_tick"},
+  {"vo": "Jot one line each time something gets decided, as it happens.", "text": "NOTE AS YOU GO", "color": "green", "actor": "writing", "prop": "laptop_file"},
+  {"vo": "Before leaving, read your notes from the top, not just the end.", "text": "REREAD FROM THE TOP", "color": "green", "actor": "reading"},
+  {"vo": "What did the first ten minutes actually say?", "text": "WHAT CAME FIRST?", "color": "gold", "actor": "think"}
+ ]},
+{"id": "s95vi", "lang": "vi", "mascot": "pen", "title": "Hop xong chi nho moi cau cuoi", "title_vi": "Họp xong chỉ nhớ mỗi câu cuối", "mechanism": "Recency effect",
+ "lines": [
+  {"vo": "Họp xong, chỉ nhớ câu cuối sếp dặn mua bánh cho buổi liên hoan.", "text": "NHỚ MỖI CÂU CUỐI", "color": "red", "actor": "confused_shrug"},
+  {"vo": "Còn việc sếp giao lúc đầu buổi thì quên sạch.", "text": "VIỆC ĐẦU GIỜ? QUÊN", "color": "red", "actor": "facepalm", "prop": "paper_mountain"},
+  {"vo": "Hiệu ứng gần đây: thông tin đến sau cùng thường dễ nhớ nhất.", "text": "HIỆU ỨNG GẦN ĐÂY", "actor": "34", "prop": "brain"},
+  {"vo": "Cái mới đến cứ thế đẩy cái cũ ra khỏi tầm nhớ.", "text": "MỚI ĐẨY CŨ", "actor": "think"},
+  {"vo": "Mở ghi chú điện thoại, chốt việc gì là ghi ngay một dòng.", "text": "CHỐT LÀ GHI", "color": "green", "actor": "writing", "prop": "smartphone_glow"},
+  {"vo": "Trước khi rời phòng, đọc lại từ dòng đầu tiên.", "text": "ĐỌC LẠI TỪ ĐẦU", "color": "green", "actor": "reading"},
+  {"vo": "Câu cuối vẫn nhớ, nhưng việc đầu giờ cũng không lạc mất nữa.", "text": "VIỆC ĐẦU GIỜ VẪN CÒN", "color": "gold", "actor": "small_step"}
+ ]},
+{"id": "s96", "mascot": "buff", "title": "Don't Let a Tiny Risk Scare You Off", "mechanism": "Probability neglect",
+ "lines": [
+  {"vo": "Heard one bus horror story. Now you won't ride the bus. Sure.", "text": "ONE STORY, NO BUS", "color": "red", "actor": "shocked"},
+  {"vo": "The scary outcome fills the screen. How likely? Never checked.", "text": "HOW LIKELY? NO IDEA", "color": "red", "actor": "worried_heart", "prop": "brain"},
+  {"vo": "That's probability neglect. Vivid beats likely.", "text": "VIVID BEATS LIKELY", "actor": "34"},
+  {"vo": "Split it into two reps. Rep one: how bad would it be?", "text": "REP 1: HOW BAD?", "color": "green", "actor": "think", "prop": "storm_cloud"},
+  {"vo": "Rep two: how often does it actually happen?", "text": "REP 2: HOW OFTEN?", "color": "green", "actor": "typing_focused", "prop": "laptop_file"},
+  {"vo": "Rare and fixable? That's not a stop sign.", "text": "RARE? KEEP GOING.", "color": "green", "actor": "sprint_start"},
+  {"vo": "Fear gets a say, not the final say. Next decision, both reps.", "text": "BOTH REPS, EVERY TIME", "color": "gold", "actor": "point_viewer"}
+ ]},
+{"id": "s96vi", "lang": "vi", "mascot": "buff", "title": "Dung de mot chuyen hiem lam ban so", "title_vi": "Đừng để một chuyện hiếm làm bạn sợ", "mechanism": "Probability neglect",
+ "lines": [
+  {"vo": "Đọc một bài trên mạng về xe buýt gặp sự cố, thế là thề không đi nữa.", "text": "1 BÀI BÁO, BỎ XE BUÝT", "color": "red", "actor": "shocked"},
+  {"vo": "Cảnh đáng sợ chiếm hết đầu óc, còn khả năng xảy ra thì chẳng ai tính.", "text": "KHẢ NĂNG? KỆ", "color": "red", "actor": "worried_heart", "prop": "brain"},
+  {"vo": "Đó là bỏ qua xác suất. Hình ảnh càng rõ, càng tưởng dễ xảy ra.", "text": "BỎ QUA XÁC SUẤT", "actor": "34"},
+  {"vo": "Hiệp một: nếu xảy ra thì tệ cỡ nào?", "text": "HIỆP 1: TỆ CỠ NÀO?", "color": "green", "actor": "think", "prop": "storm_cloud"},
+  {"vo": "Hiệp hai: mỗi ngày bao nhiêu chuyến chạy êm mà chẳng ai đưa tin?", "text": "HIỆP 2: HAY XẢY RA?", "color": "green", "actor": "typing_focused", "prop": "smartphone_glow"},
+  {"vo": "Sợ thì cứ ghi nhận, nhưng quyết phải qua đủ hai hiệp. Mai thử lại một chuyến.", "text": "ĐỦ 2 HIỆP RỒI QUYẾT", "color": "gold", "actor": "sprint_start"}
+ ]},
+{"id": "s97", "mascot": "pen", "title": "Why You See Patterns in Randomness", "mechanism": "Clustering illusion",
+ "lines": [
+  {"vo": "Wore the gray hoodie, nailed three quizzes. Lucky hoodie, obviously.", "text": "THE LUCKY HOODIE", "color": "red", "actor": "confused_shrug"},
+  {"vo": "A short streak feels like it has to mean something.", "text": "MUST MEAN SOMETHING", "actor": "think"},
+  {"vo": "The clustering illusion. Random things often bunch up all on their own.", "text": "CLUSTERING ILLUSION", "actor": "34", "prop": "brain"},
+  {"vo": "Before you name a rule, quietly count a few more weeks.", "text": "COUNT MORE DAYS", "color": "green", "actor": "writing", "prop": "calendar_today"},
+  {"vo": "The hoodie is still nice. It just isn't doing your homework.", "text": "STILL JUST A HOODIE", "color": "gold", "actor": "small_step"}
+ ]},
+{"id": "s97vi", "lang": "vi", "mascot": "pen", "title": "Ba hom tre khong co nghia la luon tre", "title_vi": "Ba hôm trễ không có nghĩa là luôn trễ", "mechanism": "Clustering illusion",
+ "lines": [
+  {"vo": "Ba hôm liền xe buýt đến muộn, thế là tuyến này lúc nào cũng trễ.", "text": "3 HÔM TRỄ = LUÔN TRỄ?", "color": "red", "actor": "confused_shrug", "prop": "calendar_today"},
+  {"vo": "Một chuỗi ngắn rất dễ trông như có quy luật.", "text": "TRÔNG NHƯ QUY LUẬT", "actor": "think"},
+  {"vo": "Ảo giác chùm: chuyện ngẫu nhiên vẫn hay tự tụ lại thành chùm.", "text": "ẢO GIÁC CHÙM", "actor": "34", "prop": "brain"},
+  {"vo": "Mà tuần đó trời mưa, đường đang sửa, chưa chắc tại tuyến xe.", "text": "CÒN MƯA, SỬA ĐƯỜNG", "actor": "think", "prop": "storm_cloud"},
+  {"vo": "Ghi giờ xe đến trong hai tuần rồi hẵng kết luận.", "text": "GHI 2 TUẦN RỒI NÓI", "color": "green", "actor": "writing", "prop": "alarm_clock"},
+  {"vo": "Bạn đang kết luận từ ba hôm, hay từ hai tuần?", "text": "BA HÔM HAY HAI TUẦN?", "color": "gold", "actor": "think"}
+ ]},
+{"id": "s98", "mascot": "buff", "title": "Every Yes Costs Something", "mechanism": "Opportunity cost neglect",
+ "lines": [
+  {"vo": "Sure, I'll help with that. Third yes this week. Sure, buddy.", "text": "THIRD YES THIS WEEK", "color": "red", "actor": "nervous_wave"},
+  {"vo": "Every yes spends time you could have used somewhere else.", "text": "YES SPENDS TIME", "color": "red", "actor": "wallet_worry", "prop": "hourglass"},
+  {"vo": "You see the favor. You don't see what it pushes out.", "text": "YOU MISS THE COST", "actor": "34"},
+  {"vo": "That's opportunity cost neglect. The other option stays invisible.", "text": "OPPORTUNITY COST", "actor": "think", "prop": "brain"},
+  {"vo": "Before saying yes, name what this hour replaces.", "text": "NAME WHAT IT REPLACES", "color": "green", "actor": "writing", "prop": "calendar_today"},
+  {"vo": "Your workout? Your sleep? Your own project?", "text": "WORKOUT? SLEEP? WORK?", "actor": "confused_shrug", "prop": "dumbbell"},
+  {"vo": "Still worth it? Then say yes like you mean it.", "text": "STILL WORTH IT? GO", "color": "green", "actor": "sprint_start"},
+  {"vo": "If not, say: not this week. Three words. One rep. Today.", "text": "NOT THIS WEEK.", "color": "gold", "actor": "arms_crossed_no"}
+ ]},
+{"id": "s98vi", "lang": "vi", "mascot": "buff", "title": "Moi lan gat dau deu co gia", "title_vi": "Mỗi lần gật đầu đều có giá", "mechanism": "Opportunity cost neglect",
+ "lines": [
+  {"vo": "Bạn cùng phòng nhờ làm hộ bài thuyết trình. Gật luôn. Ừ, tin là rảnh.", "text": "GẬT LUÔN", "color": "red", "actor": "nervous_wave"},
+  {"vo": "Mỗi lần đồng ý là tiêu một khoảng thời gian không lấy lại được.", "text": "ĐỒNG Ý = TIÊU GIỜ", "color": "red", "actor": "wallet_worry", "prop": "hourglass"},
+  {"vo": "Thấy rõ lời nhờ. Không thấy buổi tối của chính mình.", "text": "CÁI KHÔNG NHÌN THẤY", "actor": "34"},
+  {"vo": "Đó là quên chi phí cơ hội. Lựa chọn kia vô hình nên bị bỏ qua.", "text": "CHI PHÍ CƠ HỘI", "actor": "think", "prop": "brain"},
+  {"vo": "Trước khi gật, hỏi thẳng: tối nay đổi lấy cái gì? Ôn thi? Ngủ sớm?", "text": "ĐỔI LẤY CÁI GÌ", "color": "green", "actor": "writing", "prop": "moon_stars"},
+  {"vo": "Vẫn đáng thì giúp hết mình.", "text": "VẪN ĐÁNG THÌ GIÚP", "color": "green", "actor": "celebrate"},
+  {"vo": "Không đáng thì một câu: tuần này mình kín lịch rồi. Tập ngay hôm nay.", "text": "TUẦN NÀY KÍN RỒI", "color": "gold", "actor": "arms_crossed_no"}
+ ]},
+{"id": "s99", "mascot": "pen", "title": "Why the Discount Feels Like Savings", "mechanism": "Mental accounting",
+ "lines": [
+  {"vo": "You saved so much on that jacket. You also spent money on it.", "text": "YOU SAVED. YOU SPENT.", "color": "red", "actor": "wallet_worry", "prop": "coin_stack"},
+  {"vo": "The old price sits next to the new one, and the gap feels like income.", "text": "GAP FEELS LIKE CASH", "actor": "think"},
+  {"vo": "Mental accounting. We sort money into separate jars in our heads.", "text": "MENTAL ACCOUNTING", "actor": "34", "prop": "brain"},
+  {"vo": "The savings land in a happy jar. The spending barely gets counted.", "text": "SPENDING GOES UNSEEN", "color": "red", "actor": "worried_heart"},
+  {"vo": "Try another comparison. This item, or this cash staying in your account.", "text": "ITEM VS. KEEP CASH", "color": "green", "actor": "writing", "prop": "coin_stack"},
+  {"vo": "Without the crossed-out price, would you still want it?", "text": "NO OLD PRICE. STILL?", "color": "gold", "actor": "think"}
+ ]},
+{"id": "s99vi", "lang": "vi", "mascot": "pen", "title": "Mua them cho du don mien phi giao hang", "title_vi": "Mua thêm cho đủ đơn miễn phí giao hàng", "mechanism": "Mental accounting",
+ "lines": [
+  {"vo": "Đơn thiếu ba chục nghìn mới được miễn phí giao hàng, thế là thêm một món.", "text": "THÊM MÓN CHO ĐỦ ĐƠN", "color": "red", "actor": "wallet_worry", "prop": "smartphone_glow"},
+  {"vo": "Cảm giác như vừa tiết kiệm được tiền giao hàng.", "text": "CẢM GIÁC LỜI TO", "actor": "think"},
+  {"vo": "Kế toán tâm lý: trong đầu, tiền được chia vào từng ngăn riêng.", "text": "KẾ TOÁN TÂM LÝ", "actor": "34", "prop": "brain"},
+  {"vo": "Ngăn tiết kiệm thấy đầy lên, còn ngăn đã tiêu thì chẳng ai nhìn.", "text": "NGĂN ĐÃ TIÊU BỊ LỜ", "color": "red", "actor": "worried_heart", "prop": "coin_stack"},
+  {"vo": "Mà món thêm vào thường đắt hơn chính phí giao hàng.", "text": "MÓN THÊM > TIỀN GIAO", "color": "red", "actor": "facepalm"},
+  {"vo": "So lại cho thật: trả phí giao hàng, hay mua món mình chưa cần.", "text": "TRẢ PHÍ HAY MUA THÊM", "color": "green", "actor": "writing"},
+  {"vo": "Đôi khi trả phí giao hàng mới là cách tiết kiệm thật.", "text": "TRẢ PHÍ CŨNG ĐƯỢC", "color": "gold", "actor": "small_step"}
+ ]},
+{"id": "s100", "mascot": "buff", "title": "Don't Buy It Just to Avoid a Loss", "mechanism": "Loss aversion",
+ "lines": [
+  {"vo": "Coupon expires tonight, so you buy something you didn't need. Smart.", "text": "IT EXPIRES TONIGHT!", "color": "red", "actor": "panic", "prop": "notification_bell"},
+  {"vo": "Losing the deal stings more than skipping a random buy.", "text": "LOSS STINGS MORE", "color": "red", "actor": "worried_heart"},
+  {"vo": "That's loss aversion. Losses tend to feel bigger than equal gains.", "text": "LOSS AVERSION", "actor": "34", "prop": "brain"},
+  {"vo": "An unused coupon costs you nothing. The purchase costs real money.", "text": "UNUSED COUPON = 0", "color": "green", "actor": "think", "prop": "coin_stack"},
+  {"vo": "Pause one set. Did you want this before the offer showed up?", "text": "WANTED IT BEFORE?", "color": "green", "actor": "hand_off", "prop": "hourglass"},
+  {"vo": "No? Let it expire. Swipe it away.", "text": "LET IT EXPIRE", "color": "green", "actor": "arms_crossed_no"},
+  {"vo": "The coupon was free. Keep it that way.", "text": "KEEP IT FREE", "color": "gold", "actor": "celebrate"}
+ ]},
+{"id": "s100vi", "lang": "vi", "mascot": "buff", "title": "Dung mua do chi vi tiec ma giam gia", "title_vi": "Đừng mua đồ chỉ vì tiếc mã giảm giá", "mechanism": "Loss aversion",
+ "lines": [
+  {"vo": "Mã giảm giá hết hạn lúc nửa đêm, thế là chốt luôn cái nồi chiên chưa cần.", "text": "MÃ HẾT HẠN NỬA ĐÊM", "color": "red", "actor": "panic", "prop": "notification_bell"},
+  {"vo": "Để mã trôi mất thấy xót hơn cả tiêu tiền cho món không dùng.", "text": "ĐỂ TRÔI THẤY XÓT", "color": "red", "actor": "wallet_worry", "prop": "coin_stack"},
+  {"vo": "Né mất mát: mất một chút thường thấy nặng hơn được bằng chừng ấy.", "text": "NÉ MẤT MÁT", "actor": "34", "prop": "brain"},
+  {"vo": "Mã không dùng thì không mất đồng nào. Đơn hàng mới tốn tiền thật.", "text": "MÃ BỎ = 0 ĐỒNG", "color": "green", "actor": "think"},
+  {"vo": "Nghỉ một hiệp. Trước khi có mã, mình có định mua không?", "text": "TRƯỚC ĐÓ CÓ ĐỊNH MUA?", "color": "green", "actor": "hand_off", "prop": "hourglass"},
+  {"vo": "Không thì xoá khỏi giỏ. Thử ngay với cái mã đang chờ trong ví.", "text": "KỆ MÃ, GIỮ TIỀN", "color": "gold", "actor": "arms_crossed_no"}
+ ]}
+]

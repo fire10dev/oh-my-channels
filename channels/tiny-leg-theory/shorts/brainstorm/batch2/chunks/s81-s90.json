@@ -1,0 +1,1007 @@
+[
+ {
+  "id": "s81",
+  "mascot": "pen",
+  "title": "Why a Blank Page Helps You Remember",
+  "mechanism": "Generation effect",
+  "lines": [
+   {
+    "vo": "Try to recall before you peek.",
+    "text": "RECALL BEFORE PEEKING",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Words you produce yourself tend to stick better than words you only read.",
+    "text": "GENERATION EFFECT",
+    "actor": "writing",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Reading hands you the answer. Producing it makes your mind build the path.",
+    "text": "BUILD THE PATH",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "So close the notebook and write what you remember on a blank page.",
+    "text": "BLANK PAGE FIRST",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Then open it, check, and fix the gaps in a different color.",
+    "text": "CHECK. FIX THE GAPS",
+    "color": "green",
+    "actor": "think",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "The gaps are your next lesson. What will you write down first?",
+    "text": "GAPS = NEXT LESSON",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s81vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao trang giay trang giup nho lau",
+  "title_vi": "Vì sao trang giấy trắng giúp nhớ lâu",
+  "mechanism": "Generation effect",
+  "lines": [
+   {
+    "vo": "Mở vở ra thì thấy hiểu hết, gấp vở lại thì trống trơn.",
+    "text": "GẤP VỞ LÀ QUÊN",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Chữ mình tự viết ra thường bám lâu hơn chữ chỉ đọc qua.",
+    "text": "TỰ VIẾT THÌ NHỚ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Trước khi xem đáp án, gấp vở lại, ghi ý chính ra giấy trắng.",
+    "text": "GẤP VỞ, GHI RA",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Sai cũng được. Mở vở ra, gạch đỏ chỗ còn thiếu.",
+    "text": "SAI CŨNG ĐƯỢC",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Trang giấy trắng không đáng sợ. Nó chỉ cho bạn thấy mình đang ở đâu.",
+    "text": "GIẤY TRẮNG CHỈ ĐƯỜNG",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s82",
+  "mascot": "buff",
+  "title": "Don't Memorize the Worked Example",
+  "mechanism": "Transfer appropriate processing",
+  "lines": [
+   {
+    "vo": "You memorized the worked example. Every step. Nice.",
+    "text": "MEMORIZED EVERY STEP",
+    "actor": "celebrate",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Then the exam asks it a different way. Blank.",
+    "text": "SAME IDEA, NEW WORDS",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "You trained one move. The test wants a different lift.",
+    "text": "WRONG LIFT TRAINED",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Recall works best when practice looks like the real task.",
+    "text": "PRACTICE LIKE THE TEST",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "So train with fresh questions, not the same example again.",
+    "text": "FRESH QUESTIONS",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Switch the numbers. Switch the wording. Solve it cold.",
+    "text": "CHANGE IT. SOLVE COLD",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "One new problem tonight. That's your set.",
+    "text": "ONE NEW PROBLEM. GO",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s82vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung hoc thuoc bai mau",
+  "title_vi": "Đừng học thuộc bài mẫu",
+  "mechanism": "Transfer appropriate processing",
+  "lines": [
+   {
+    "vo": "Thuộc lòng bài mẫu kế toán, từng dòng một.",
+    "text": "THUỘC LÒNG BÀI MẪU",
+    "actor": "reading",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Vào phòng thi, đề đổi sang tình huống khác. Đứng hình.",
+    "text": "ĐỀ ĐỔI LÀ ĐỨNG HÌNH",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Tập mỗi một bài tạ, lên sàn lại gặp bài khác.",
+    "text": "TẬP SAI BÀI TẠ",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Luyện giống kiểu đề sẽ gặp thì lúc thi mới gọi ra được.",
+    "text": "LUYỆN GIỐNG LÚC THI",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tìm ba bài tình huống khác nhau, tự giải, không nhìn bài mẫu.",
+    "text": "3 TÌNH HUỐNG MỚI",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Tối nay một bài lạ. Không xem lời giải. Làm luôn.",
+    "text": "1 BÀI LẠ. LÀM LUÔN",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s83",
+  "mascot": "pen",
+  "title": "Why You Remember the Weird Example",
+  "mechanism": "Distinctiveness effect",
+  "lines": [
+   {
+    "vo": "You forgot the definition, but you still remember the teacher's weird example.",
+    "text": "YOU KEPT THE WEIRD BIT",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Ordinary examples tend to blur into each other.",
+    "text": "ORDINARY BLURS",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Something odd stands out, so it is easier to find again later.",
+    "text": "ODD STANDS OUT",
+    "actor": "shocked",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "That's the distinctiveness effect.",
+    "text": "DISTINCTIVENESS",
+    "actor": "front",
+    "prop": "brain"
+   },
+   {
+    "vo": "So when an idea feels abstract, give it a strange, specific example.",
+    "text": "MAKE IT STRANGE",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Opportunity cost? The concert you skipped so you could pay rent.",
+    "text": "CONCERT VS RENT",
+    "color": "green",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Odd is fine. It still has to be accurate.",
+    "text": "ODD, BUT TRUE",
+    "actor": "think"
+   },
+   {
+    "vo": "The idea might fade. The strange picture tends to bring it back.",
+    "text": "PICTURES PULL IT BACK",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s83vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao vi du ky quac lai nho dai",
+  "title_vi": "Vì sao ví dụ kỳ quặc lại nhớ dai",
+  "mechanism": "Distinctiveness effect",
+  "lines": [
+   {
+    "vo": "Quên sạch định nghĩa, nhưng nhớ mãi cái ví dụ kỳ quặc thầy kể.",
+    "text": "NHỚ VÍ DỤ KỲ QUẶC",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Ví dụ na ná nhau thì dễ nhòe vào nhau.",
+    "text": "NA NÁ LÀ NHÒE",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Cái gì lạ thì nổi bật, nên não dễ tìm lại.",
+    "text": "LẠ THÌ NỔI BẬT",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Gặp thuật ngữ khô khan, gắn nó vào một chuyện thật của bạn.",
+    "text": "GẮN VÀO CHUYỆN THẬT",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Lợi ích cận biên giảm dần? Ly trà sữa đầu thì sướng, ly thứ ba thì ngán.",
+    "text": "LY THỨ 3 THÌ NGÁN",
+    "color": "green",
+    "actor": "snack",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Lạ thôi, nhưng vẫn phải đúng.",
+    "text": "LẠ NHƯNG ĐÚNG",
+    "actor": "think"
+   },
+   {
+    "vo": "Thuật ngữ nào trong sách đang cần một ly trà sữa của riêng nó?",
+    "text": "MỖI Ý MỘT LY TRÀ SỮA",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s84",
+  "mascot": "buff",
+  "title": "Stop Studying Only in One Format",
+  "mechanism": "Encoding specificity",
+  "lines": [
+   {
+    "vo": "You know the word on the flashcard. Someone says it out loud. Nothing.",
+    "text": "CARD YES. SPEECH NO",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Memory gets tied to the cues you learned it with.",
+    "text": "MEMORY HAS CUES",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "One format, one set of cues. Change the cue, and it may not show up.",
+    "text": "ONE FORMAT = ONE DOOR",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "So mix the reps. Say it, write it, use it in a sentence.",
+    "text": "SAY. WRITE. USE.",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Five words, three formats, tonight. Flipping cards is not a full set.",
+    "text": "5 WORDS, 3 WAYS",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s84vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung on tu vung mot kieu",
+  "title_vi": "Đừng ôn từ vựng một kiểu",
+  "mechanism": "Encoding specificity",
+  "lines": [
+   {
+    "vo": "Lật thẻ từ vựng thì thuộc vèo vèo.",
+    "text": "LẬT THẺ THÌ THUỘC",
+    "actor": "phone_grin",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Người nước ngoài hỏi một câu, đầu trống trơn.",
+    "text": "NGHE NÓI THÌ TẮT",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Trí nhớ bám vào cách bạn học nó.",
+    "text": "NHỚ THEO CÁCH HỌC",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Chỉ nhìn thẻ thì mới quen mặt chữ, chưa quen tai.",
+    "text": "QUEN MẮT, LẠ TAI",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Đổi bài tập. Đọc to từ đó lên.",
+    "text": "ĐỌC TO LÊN",
+    "color": "green",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Viết nó ra mà không nhìn thẻ.",
+    "text": "VIẾT KHÔNG NHÌN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Rồi đặt một câu về chuyện hôm nay của bạn.",
+    "text": "ĐẶT CÂU CỦA MÌNH",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Năm từ, ba kiểu, ngay tối nay. Lật thẻ không tính là một hiệp.",
+    "text": "5 TỪ, 3 KIỂU",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s85",
+  "mascot": "pen",
+  "title": "Why Cramming Fades So Fast",
+  "mechanism": "Spacing effect",
+  "lines": [
+   {
+    "vo": "You crammed all night, passed the quiz, and lost it by next week.",
+    "text": "PASSED IT. LOST IT.",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Cramming can carry you to tomorrow. Then it tends to fade fast.",
+    "text": "GOOD FOR TOMORROW ONLY",
+    "actor": "think",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "The same hours spread across days usually hold much longer.",
+    "text": "SPREAD IT OUT",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "That's the spacing effect. A small gap makes each review count more.",
+    "text": "SPACING EFFECT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Split one long session into short ones on different days.",
+    "text": "SHORT, ON MANY DAYS",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Today, then in a couple of days, then again next week.",
+    "text": "TODAY. LATER. AGAIN.",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "It feels slower going in. It also tends to stay.",
+    "text": "SLOW IN, SLOW OUT",
+    "color": "gold",
+    "actor": "think",
+    "prop": "brain"
+   }
+  ]
+ },
+ {
+  "id": "s85vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao hoc don quen nhanh the",
+  "title_vi": "Vì sao học dồn quên nhanh thế",
+  "mechanism": "Spacing effect",
+  "lines": [
+   {
+    "vo": "Thức trắng ôn thi, sáng làm bài ổn, tuần sau quên sạch.",
+    "text": "THỨC TRẮNG RỒI QUÊN",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Nhồi một lần thì đủ dùng cho ngày mai, rồi rơi rụng rất nhanh.",
+    "text": "NHỒI XONG LÀ RƠI",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Cùng số giờ ấy, chia ra nhiều ngày thường nhớ lâu hơn.",
+    "text": "CHIA RA NHIỀU NGÀY",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Thay vì ba tiếng đêm trước hôm thi, học ba buổi ngắn.",
+    "text": "3 BUỔI NGẮN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Hôm nay, hai hôm nữa, rồi cuối tuần ôn lại.",
+    "text": "HÔM NAY. 2 HÔM NỮA.",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Môn nào bạn đang định để dồn vào đêm cuối?",
+    "text": "MÔN NÀO ĐANG DỒN?",
+    "color": "gold",
+    "actor": "think",
+    "prop": "alarm_clock"
+   }
+  ]
+ },
+ {
+  "id": "s86",
+  "mascot": "buff",
+  "title": "Make the Answer Before You See It",
+  "mechanism": "Pretesting effect",
+  "lines": [
+   {
+    "vo": "Guess first. The answer will land harder.",
+    "text": "GUESS FIRST",
+    "actor": "think",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Reading the whole chapter first feels safe. Sure, buddy.",
+    "text": "READ FIRST? SURE.",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Even a wrong guess primes you to spot the answer when it shows up.",
+    "text": "WRONG GUESSES COUNT",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "That's the pretesting effect. A warm-up before the real set.",
+    "text": "PRETEST = WARM-UP",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Hit the end-of-chapter questions before you read. Then read.",
+    "text": "QUESTIONS FIRST",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Next chapter: three questions cold. Guess loud, then read.",
+    "text": "3 COLD GUESSES. GO",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s86vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Doan truoc roi hay doc",
+  "title_vi": "Đoán trước rồi hãy đọc",
+  "mechanism": "Pretesting effect",
+  "lines": [
+   {
+    "vo": "Đọc hết chương rồi mới dám làm bài. Ừ, tin.",
+    "text": "ĐỌC HẾT RỒI MỚI LÀM?",
+    "color": "red",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Lật ngược lại: làm câu hỏi cuối chương trước.",
+    "text": "LÀM TRƯỚC, ĐỌC SAU",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Đoán sai cũng chẳng sao.",
+    "text": "ĐOÁN SAI KHÔNG SAO",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Đoán xong rồi, lúc đọc mắt tự đi tìm đáp án.",
+    "text": "MẮT TỰ ĐI TÌM",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Giống khởi động trước hiệp tạ nặng.",
+    "text": "KHỞI ĐỘNG TRƯỚC",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Ghi câu đoán ra giấy, rồi mới đọc phần giải.",
+    "text": "GHI CÂU ĐOÁN RA",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Chương sau: ba câu đoán mù trước. Đọc sau.",
+    "text": "3 CÂU ĐOÁN. LÀM LUÔN",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s87",
+  "mascot": "pen",
+  "title": "Why Your First Guess Sticks",
+  "mechanism": "Anchoring effect",
+  "lines": [
+   {
+    "vo": "The first number you see keeps tugging at your estimate.",
+    "text": "THE FIRST NUMBER TUGS",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "A high starting price makes the next price look fair.",
+    "text": "THEN IT LOOKS FAIR",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "That pull is anchoring. It can work even when the first number is random.",
+    "text": "ANCHORING",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Before you look at their number, write down your own.",
+    "text": "YOUR NUMBER FIRST",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Then compare. Which number were you really judging against?",
+    "text": "WHOSE NUMBER?",
+    "color": "gold",
+    "actor": "think",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s87vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao gia gach ngang lam ban mem long",
+  "title_vi": "Vì sao giá gạch ngang làm bạn mềm lòng",
+  "mechanism": "Anchoring effect",
+  "lines": [
+   {
+    "vo": "Giá gốc gạch ngang, giá sale đỏ chót. Thấy rẻ ghê.",
+    "text": "GIÁ GẠCH NGANG",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Con số đầu tiên bạn thấy âm thầm kéo phán đoán của bạn.",
+    "text": "SỐ ĐẦU TIÊN KÉO BẠN",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Người ta gọi đó là hiệu ứng mỏ neo.",
+    "text": "HIỆU ỨNG MỎ NEO",
+    "actor": "front",
+    "prop": "brain"
+   },
+   {
+    "vo": "Đặt cạnh giá gạch ngang, giá sale nghe thật hợp lý.",
+    "text": "CẠNH GIÁ GẠCH NGANG",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Dù con số kia có khi chỉ đặt ra để mình so.",
+    "text": "SỐ ĐỂ SO, KHÔNG ĐỂ MUA",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Trước khi nhìn giá, tự hỏi món này đáng bao nhiêu với mình.",
+    "text": "MÌNH TRẢ BAO NHIÊU?",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Ghi con số đó ra, rồi mới so.",
+    "text": "GHI GIÁ CỦA MÌNH",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Giỏ hàng vẫn ở đó. Chỉ là mỏ neo giờ do bạn thả.",
+    "text": "NEO DO MÌNH THẢ",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s88",
+  "mascot": "buff",
+  "title": "Don't Let One Bad Review Decide",
+  "mechanism": "Negativity bias",
+  "lines": [
+   {
+    "vo": "A wall of good reviews. One angry comment. And you're out.",
+    "text": "ONE ANGRY COMMENT",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bad news tends to hit harder than good news. That's negativity bias.",
+    "text": "BAD HITS HARDER",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Handy near real danger. Lousy for picking a burger place.",
+    "text": "A BURGER IS NOT A BEAR",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "One story is a single rep. You need the whole set.",
+    "text": "ONE REP IS NOT A SET",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Read several reviews. Look for what repeats.",
+    "text": "WHAT REPEATS?",
+    "color": "green",
+    "actor": "reading",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Same complaint again and again? That's real.",
+    "text": "SAME COMPLAINT = REAL",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "One loud complaint in a happy crowd? Maybe just a bad day.",
+    "text": "ONE LOUD = BAD DAY",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Next choice: three sources before you bail.",
+    "text": "3 SOURCES, THEN DECIDE",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s88vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung de mot loi che quyet ho",
+  "title_vi": "Đừng để một lời chê quyết hộ",
+  "mechanism": "Negativity bias",
+  "lines": [
+   {
+    "vo": "Một đánh giá một sao, bạn gạch luôn quán bún ngon nhất phố.",
+    "text": "1 SAO LÀ GẠCH",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Não chấm tin xấu nặng tay hơn tin tốt.",
+    "text": "TIN XẤU NẶNG KÝ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Một lời chê chỉ là một hiệp. Xem cả buổi tập.",
+    "text": "XEM CẢ BUỔI TẬP",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Lướt thêm vài đánh giá, ở vài nơi. Chê cùng một điểm mới đáng tin.",
+    "text": "TÌM CÁI LẶP LẠI",
+    "color": "green",
+    "actor": "reading",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Trưa nay đọc ba nguồn rồi chọn. Hoặc để một người cáu chọn hộ bữa trưa.",
+    "text": "3 NGUỒN RỒI CHỌN",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s89",
+  "mascot": "pen",
+  "title": "Why You Notice Proof You're Right",
+  "mechanism": "Confirmation bias",
+  "lines": [
+   {
+    "vo": "Your feed may be showing your own side back to you.",
+    "text": "YOUR SIDE, ECHOED",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "We tend to notice, and trust, what already agrees with us.",
+    "text": "AGREE = NOTICED",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Evidence against us gets a harsher look, or no look at all.",
+    "text": "THE REST GETS SKIPPED",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "That's confirmation bias. From the inside, it just feels like being right.",
+    "text": "FEELS LIKE BEING RIGHT",
+    "actor": "phone_grin"
+   },
+   {
+    "vo": "Try one search for the strongest case against your view.",
+    "text": "SEARCH THE OTHER SIDE",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Not the weakest version. The one a smart opponent would make.",
+    "text": "THEIR BEST ARGUMENT",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "You might still be right. Now you would know why.",
+    "text": "RIGHT, FOR REAL",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s89vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao minh chi thay dieu minh tin",
+  "title_vi": "Vì sao mình chỉ thấy điều mình tin",
+  "mechanism": "Confirmation bias",
+  "lines": [
+   {
+    "vo": "Cãi nhau trong nhóm lớp, bạn chỉ mở đúng mấy bài ủng hộ mình.",
+    "text": "CHỈ ĐỌC BÀI HỢP Ý",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Mình dễ để ý, và dễ tin, những gì nói giống mình.",
+    "text": "GIỐNG MÌNH THÌ TIN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bài nói ngược thì lướt qua, hoặc soi từng chữ để bắt lỗi.",
+    "text": "NGƯỢC Ý THÌ BẮT LỖI",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Trước khi gửi tin chốt, tìm bài phản bác mạnh nhất.",
+    "text": "TÌM PHẢN BÁC MẠNH",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Viết lại lập luận của bên kia, sao cho chính họ cũng gật đầu.",
+    "text": "VIẾT HỘ BÊN KIA",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Nếu vẫn thấy mình đúng, giờ bạn đúng vì lý do nào?",
+    "text": "ĐÚNG VÌ ĐÂU?",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s90",
+  "mascot": "buff",
+  "title": "Don't Let a Recent Story Set the Odds",
+  "mechanism": "Availability heuristic",
+  "lines": [
+   {
+    "vo": "Easy to remember doesn't mean common.",
+    "text": "VIVID IS NOT COMMON",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "One dramatic story on your feed, and it suddenly feels like it happens daily.",
+    "text": "ONE STORY, BIG FEAR",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Your brain judges odds by how fast an example comes to mind.",
+    "text": "FAST TO MIND = LIKELY?",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "That's the availability heuristic. Vivid beats frequent.",
+    "text": "AVAILABILITY",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Before you panic, check how often it actually happens.",
+    "text": "CHECK THE BASE RATE",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Look up the numbers, then decide. A scary story is not a stat sheet.",
+    "text": "DATA, THEN DECIDE",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s90vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung de mot tin giat gan doa ban",
+  "title_vi": "Đừng để một tin giật gân dọa bạn",
+  "mechanism": "Availability heuristic",
+  "lines": [
+   {
+    "vo": "Đọc một vụ lừa chuyển khoản, giờ ai nhắn cũng thấy là lừa.",
+    "text": "VỤ NÀO CŨNG LÀ LỪA?",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Cái gì dễ nhớ thì não tưởng là hay xảy ra.",
+    "text": "DỄ NHỚ CHƯA CHẮC NHIỀU",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Vụ càng giật gân, càng dễ nhớ.",
+    "text": "CÀNG GIẬT GÂN",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Nhưng một vụ nổi trên mạng chưa nói được chuyện đó phổ biến cỡ nào.",
+    "text": "1 VỤ KHÔNG PHẢI TẤT CẢ",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Trước khi hoảng, tìm xem chuyện đó thật ra hay gặp cỡ nào.",
+    "text": "XEM NÓ HAY GẶP CỠ NÀO",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Cẩn thận thì vẫn giữ. Chỉ là bớt hoảng với mọi giao dịch.",
+    "text": "CẨN THẬN, KHÔNG HOẢNG",
+    "color": "green",
+    "actor": "meditating"
+   },
+   {
+    "vo": "Tin giật gân là một hiệp. Số liệu mới là cả giáo án.",
+    "text": "XEM SỐ RỒI HÃY SỢ",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ }
+]

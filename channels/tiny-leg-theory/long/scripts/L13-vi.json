@@ -1,0 +1,945 @@
+{
+ "id": "L13vi",
+ "lang": "vi",
+ "title": "Vì sao vào phòng thi bạn bỗng quên sạch những gì đã học?",
+ "description": "Từng thức trắng đêm ôn thi nhưng vừa nhận đề là đầu óc trắng xóa? Đây là tám bẫy tâm lý khiến não bạn đứng hình trong phòng thi và cách khắc phục từng bẫy. Áp dụng ngay các bài tập đơn giản để giữ phong độ vững vàng khi bước vào kỳ thi.",
+ "chapters": [
+  {
+   "title": "Vì sao bạn đứng hình",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cả tháng thức đêm ôn thi học kỳ, vậy mà vừa phát đề là đầu óc bỗng trắng xóa.",
+     "text": "VÌ SAO BẠN ĐỨNG HÌNH",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bình tĩnh nào Pen. Đầu óc Pen không hề dốt đi, chỉ là hệ thống bị nghẽn thôi.",
+     "text": "HỆ THỐNG BỊ NGHẼN",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bao nhiêu công ôn thi chứng chỉ hay thi tuyển, sao cứ vào phòng là bốc hơi?",
+     "text": "KIẾN THỨC ĐI ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có tám cái bẫy làm não đứng hình, và đây là cách gỡ từng cái.",
+     "text": "TÁM BẪY TÂM LÝ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Liệu mình có thể rèn cho đầu óc vững vàng khi đồng hồ đếm ngược?",
+     "text": "RÈN ĐƯỢC KHÔNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Được chứ. Giống như nâng tạ, độ lì đòn được rèn qua từng hiệp tập.",
+     "text": "RÈN TỪNG HIỆP TẬP",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Bộ nhớ làm việc",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa lật tờ đề thi hết môn, đầu mình đã ngập tràn nỗi sợ trượt.",
+     "text": "1. BỘ NHỚ LÀM VIỆC",
+     "color": "red",
+     "actor": "panic",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lỗi quen thuộc. Mấy tiếng lo âu trong đầu đang đốt sạch năng lượng não bộ.",
+     "text": "HAO TỔN BĂNG THÔNG",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thay vì giải bài, mình lại ngồi tính xem cần mấy điểm để qua môn.",
+     "text": "TÍNH ĐIỂM QUA MÔN",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là cạn kiệt bộ nhớ làm việc. Não Pen chỉ có chừng đó ngăn trống để xử lý đề thi.",
+     "text": "NGĂN CHỨA CÓ HẠN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tức là nỗi lo điểm số đã chiếm hết chỗ của công thức mình vừa học?",
+     "text": "BỊ CHIẾM HẾT CHỖ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Lo âu chạy ngầm nặng máy, khiến Pen không còn chỗ để tính toán.",
+     "text": "HẾT DUNG LƯỢNG",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để giữ các ngăn chứa quý giá này trước giờ phát đề?",
+     "text": "GIỮ CHỖ CHO NÃO",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mười phút trước giờ thi, dành năm phút viết hết nỗi lo ra giấy.",
+     "text": "VIẾT HẾT RA GIẤY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Xả hết sợ hãi lên giấy nháp thực sự chặn được ý nghĩ tiêu cực sao?",
+     "text": "XẢ BỚT NỖI SỢ",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trút sạch nỗi lo ra giấy sẽ giải phóng bộ nhớ cho câu khó.",
+     "text": "PHỤC HỒI BỘ NHỚ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dọn sạch rác trong đầu từ sớm giúp mình dồn toàn lực làm bài.",
+     "text": "DỌN SẠCH ĐẦU ÓC",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ nhớ an toàn rồi, nhưng áp lực vẫn có thể làm đầu Pen tê liệt.",
+     "text": "HIỂM NGUY TIẾP THEO",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Áp lực gây cóng",
+   "sources": [
+    "s01",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trong phòng thi chứng chỉ bấm giờ, gặp câu quen mà đầu mình bỗng tê liệt.",
+     "text": "2. CÓNG VÌ ÁP LỰC",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen bị cóng rồi. Áp lực thành tích đang xé toạc sự tập trung.",
+     "text": "BỊ CÓNG TÂM LÝ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dạng bài này mình làm suốt, thế mà giờ không nối nổi các bước.",
+     "text": "TÊ LIỆT TƯ DUY",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi sợ hãi, đầu óc vừa phải giải đề, vừa bận sợ thi rớt.",
+     "text": "PHÂN TÂM NGUY HIỂM",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là nửa cái đầu đang bận sợ hãi thay vì tìm cách làm bài?",
+     "text": "SỢ HÃI CHI PHỐI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Pen không thể giải bài khó khi còi báo động bên trong đang gào.",
+     "text": "CÒI BÁO ĐỘNG HÚ",
+     "color": "red",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi đầu óc bị đơ giữa giờ làm bài, làm sao để gỡ ra?",
+     "text": "CÁCH PHÁ ĐÓNG BĂNG",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng nhìn trừng trừng nữa. Cầm bút chép ngay các số liệu đã cho và ẩn số cần tìm ra giấy.",
+     "text": "HÀNH ĐỘNG TAY CHÂN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ cần viết lại dữ kiện là tay chân bắt đầu vào nhịp?",
+     "text": "CHÉP LẠI DỮ KIỆN",
+     "color": "gold",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vận động tay chân sẽ dập tắt nỗi sợ và kéo Pen vào dòng chảy.",
+     "text": "LẤY LẠI NHỊP ĐỘ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chia nhỏ thành từng bước vật lý giúp tư duy khởi động trở lại.",
+     "text": "TỪNG BƯỚC NHỎ",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đã thông suốt, nhưng để tim đập quá nhanh sẽ làm đứt xích ngay.",
+     "text": "BẪY KÍCH THÍCH",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Đường cong áp lực",
+   "sources": [
+    "s01",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trước đợt thi tuyển dụng, mình cày đêm ở quán cà phê rồi nốc hai lon bò húc.",
+     "text": "3. ĐƯỜNG CONG ÁP LỰC",
+     "color": "red",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen ép tim quá mức rồi. Đường cong hiệu suất bị bẻ gãy hoàn toàn.",
+     "text": "QUÁ TẢI ĐỘNG CƠ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tim đập thình thịch, mắt hoa lên không thể đọc hết câu hỏi.",
+     "text": "TIM ĐẬP LOẠN NHỊP",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cần tỉnh táo để thi, nhưng kích động quá đà là sập nguồn ngay.",
+     "text": "ĐƯỜNG CONG TÂM LÝ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là lờ đờ thì hỏng, mà hưng phấn quá đà cũng toang?",
+     "text": "DƯ THỪA NĂNG LƯỢNG",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Buồn ngủ thì sót ý, nhưng quá tải thì không thể nhớ nổi công thức.",
+     "text": "QUÁ TẢI THẦN KINH",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngồi trong phòng thi mà tim đập mạnh, làm sao hạ xuống?",
+     "text": "HẠ NHIỆT CƠ THỂ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hít hai nhịp ngắn bằng mũi, rồi thở dài một hơi qua miệng.",
+     "text": "NHỊP THỞ HẠ NHIỆT",
+     "color": "green",
+     "actor": "meditating",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thao tác thở này giúp hạ nhịp tim trước khi bắt đầu?",
+     "text": "HẠ NHIỆP TIM XUỐNG",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rồi giải hai câu khởi động thật dễ để vào guồng thi đấu.",
+     "text": "KHỞI ĐỘNG CÂU DỄ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm dịu cơ thể rồi tạo đà, đầu óc sẽ vào đúng điểm rơi.",
+     "text": "ĐIỂM RƠI PHONG ĐỘ",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tim êm rồi, nhưng phiên tòa trong đầu vẫn đang chực chờ phán xét.",
+     "text": "PHIÊN TÒA TRONG ĐẦU",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Nỗi sợ bị phán xét",
+   "sources": [
+    "s01",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần giám thị đi ngang qua bàn, mình lại lạnh toát cả sống lưng.",
+     "text": "4. SỢ BỊ PHÁN XÉT",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen lại tự dựng phiên tòa phán xét năng lực bản thân rồi.",
+     "text": "TỰ DỰNG PHIÊN TÒA",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình sợ điểm kém thì nhóm lớp réo tên, bố mẹ ở quê lại lo sốt vó.",
+     "text": "SỢ BỊ MẤT MẶT",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bộ xem việc bị đánh giá thấp như mối nguy hiểm sinh tồn.",
+     "text": "MỐI NGUY XÃ HỘI",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên thần kinh phản ứng với bài thi như gặp hiểm nguy thật sự?",
+     "text": "BÁO ĐỘNG GIẢ TẠO",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng rồi. Bản năng nhầm lẫn giữa điểm số và sự sống còn.",
+     "text": "NHẦM LẪN NGUY CƠ",
+     "color": "ink",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để não hiểu rằng điểm số không định nghĩa bản thân?",
+     "text": "GIẢM BỚT ÁP LỰC",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi bài thi như một buổi đấu tập. Nó đo độ chuẩn bị, không đo giá trị.",
+     "text": "CHỈ LÀ BUỔI ĐẤU TẬP",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn khi tim đập nhanh, mình nên hiểu cảm giác đó thế nào?",
+     "text": "TIM ĐẬP NHANH",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự nhủ rằng máu đang dồn lên để tiếp thêm năng lượng thi đấu.",
+     "text": "NHIÊN LIỆU THI ĐẤU",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Coi thi cử là đấu tập giúp đổi sợ hãi thành sự tập trung.",
+     "text": "TẬP TRUNG TỐI ĐA",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đầu óc đã vững, nhưng coi chừng kiến thức quan trọng bỗng tuột khỏi tay.",
+     "text": "KẸT DỮ LIỆU",
+     "color": "ink",
+     "actor": "front",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "Đầu mối gợi nhớ",
+   "sources": [
+    "s01",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn vào câu hỏi thi, mình biết rõ hôm qua vừa học công thức này.",
+     "text": "5. ĐẦU MỐI GỢI NHỚ",
+     "color": "red",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen mất đầu mối gợi nhớ rồi. Kiến thức ở trong tủ nhưng mất tay nắm.",
+     "text": "MẤT TAY NẮM CỬA",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình nhớ cả vệt bút nhớ dòng, nhưng công thức thì bốc hơi mất.",
+     "text": "QUÊN MẤT CÔNG THỨC",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ký ức cần các mắt xích. Căng thẳng làm đứt lối dẫn vào dữ liệu.",
+     "text": "ĐỨT ĐƯỜNG DẪN TRUYỀN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngồi nhìn chằm chằm vào chỗ trống chẳng cho não chút manh mối nào?",
+     "text": "BẪY TỜ GIẤY TRẮNG",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chẳng có gì. Nhìn giấy trắng chỉ làm Pen thêm hoảng loạn và bất lực.",
+     "text": "HOẢNG LOẠN BẤT LỰC",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để dựng lại đường dẫn tìm về kiến thức bị quên?",
+     "text": "DỰNG LẠI LỐI VÀO",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đọc lướt các câu khác trong đề, nhặt công thức lân cận và đơn vị đo chép ra nháp.",
+     "text": "TÌM TỪ KHÓA LÂN CẬN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mấy từ khóa đó sẽ làm bàn đạp dẫn về mẩu ký ức kia?",
+     "text": "BÀN ĐẠP LIÊN TƯỞNG",
+     "color": "gold",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng. Kích hoạt các mắt xích xung quanh sẽ bật mở ngay đáp án.",
+     "text": "MỞ KHÓA BỘ NHỚ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lùng tìm manh mối biến sự bế tắc thành cuộc điều tra bài bản.",
+     "text": "ĐIỀU TRA BÀI BẢN",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ nhớ chạy lại rồi, nhưng không thể lôi ra thứ Pen chưa nạp kỹ.",
+     "text": "CÁCH NẠP DỮ LIỆU",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Khớp nối ghi nhớ",
+   "sources": [
+    "s01",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ôn thi, mình toàn nằm ườn nghe nhạc rồi cầm bút dạ tô vở.",
+     "text": "6. KHỚP NỐI GHI NHỚ",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nằm ườn tập nhẹ mà đòi thi đấu đỉnh cao. Não chưa hề chịu tải.",
+     "text": "BẪY TỰ HỌC ÊM ẤM",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ở nhà đọc thấy rất thuộc, vào phòng thi im ắng lại tắc tị.",
+     "text": "CÚ SỐC PHÒNG THI",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý học gọi là tính đặc thù khi nạp dữ liệu. Nạp lúc nào thì não quen nhả ra lúc đó.",
+     "text": "KHỚP NỐI ÁP LỰC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn sách nhận ra đáp án khác xa việc tự viết từ đầu?",
+     "text": "ẢO TƯỞNG THUỘC BÀI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xem lại thì dễ. Giống như xem người khác tập tạ rồi mong lên cơ.",
+     "text": "TẬP TẠ BẰNG MẮT",
+     "color": "ink",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Phải tự học thế nào để khớp với áp lực phòng thi?",
+     "text": "LUYỆN TẬP CHỦ ĐỘNG",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gập hết sách lại, bấm giờ, tự tay viết câu trả lời ra.",
+     "text": "GẬP SÁCH BẤM GIỜ",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự nhớ dưới áp lực thời gian sẽ rèn đúng cơ bắp tư duy?",
+     "text": "CƠ BẮP TƯ DUY",
+     "color": "gold",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Chủ động moi kiến thức ra mới mong phản xạ kịp lúc thi.",
+     "text": "NỖ LỰC TRUY XUẤT",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Luyện đúng độ khó, đến ngày thi sẽ chỉ như một lần tập dượt.",
+     "text": "TẬP NHƯ ĐI THI",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập chuẩn rồi, nhưng bốn bức tường quanh Pen vẫn có thể phá đám.",
+     "text": "BỐN BỨC TƯỜNG QUANH",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Ký ức môi trường",
+   "sources": [
+    "s01",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tự ôn trong phòng ngủ quen thuộc, kiến thức cứ tuôn ra vanh vách.",
+     "text": "7. KÝ ỨC MÔI TRƯỜNG",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là trí nhớ bám môi trường. Não đã móc bài vở vào góc phòng.",
+     "text": "BẪY GÓC PHÒNG NGỦ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đến khi vào hội trường thi lạ lẫm, đầu óc bỗng đứng hình luôn.",
+     "text": "KHUNG CẢNH XA LẠ",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Góc bàn, ánh sáng phòng ngủ chính là mỏ neo giữ các ký ức.",
+     "text": "MỎ NEO MÔI TRƯỜNG",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vào phòng thi xa lạ, toàn bộ các mỏ neo đó đều biến mất?",
+     "text": "MẤT HẾT ĐIỂM TỰA",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mất sạch. Não Pen bối rối vì khung cảnh lạ không còn gợi ý.",
+     "text": "KHÔNG CÒN GỢI Ý",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đâu thể mang bàn học đi thi, vậy phải làm thế nào?",
+     "text": "BỘ NHỚ DI ĐỘNG",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Luân phiên đổi chỗ học: hôm nay ngồi thư viện, hôm sau đổi sang quán cà phê vắng.",
+     "text": "ĐỔI CHỖ TỰ HỌC",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lỡ bị đứng hình ngay bàn thi, làm sao để nhớ lại bài?",
+     "text": "KẸT Ở BÀN THI",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dành nửa phút nhắm mắt, tưởng tượng đúng góc vở và màu mực lúc Pen ghi công thức đó.",
+     "text": "HÌNH DUNG TRANG VỞ",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tái hiện lại trang vở giúp kéo mỏ neo thị giác trở lại.",
+     "text": "KÉO MỎ NEO VỀ",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Làm chủ căn phòng rồi, nhưng cơn bão trong lồng ngực mới đáng sợ.",
+     "text": "CƠN BÃO BÊN TRONG",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Ký ức thể chất",
+   "sources": [
+    "s01",
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình toàn bật máy lạnh đắp chăn, vừa uống trà sữa vừa đọc bài.",
+     "text": "8. KÝ ỨC THỂ CHẤT",
+     "color": "ink",
+     "actor": "snack",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lúc nạp bài thì êm như ngủ nướng, lúc thi thì tim đập như chạy nước rút. Lệch pha rồi.",
+     "text": "BÌNH YÊN ĐỐI ĐẦU",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sáng đi thi, tay run bần bật, đầu óc khóa chặt không nhớ nổi.",
+     "text": "RUN RẨY NGÀY THI",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hóa chất căng thẳng sẽ chặn đứng các đường dẫn tạo ra lúc thư thái.",
+     "text": "BỘ LỌC CĂNG THẲNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kiến thức nạp lúc thư giãn sẽ khó tìm lại khi tim đập dồn?",
+     "text": "NGHẼN MẠCH TRÍ NHỚ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng rồi. Còi báo động đang hú thì não không tìm được lối êm ả.",
+     "text": "BÁO ĐỘNG BÊN TRONG",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để lôi kiến thức ra khi cơ thể đang căng thẳng?",
+     "text": "TRUY XUẤT ÁP LỰC",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bật nhảy tại chỗ ba mươi giây thật nhanh trước khi bấm giờ giải đề.",
+     "text": "BẬT NHẢY TĂNG TIM",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giải đề lúc tim đập mạnh giúp rèn não truy xuất dưới áp lực?",
+     "text": "QUEN VỚI ÁP LỰC",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Tim đập nhanh sẽ trở thành trạng thái quen thuộc khi làm bài.",
+     "text": "TRẠNG THÁI QUEN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đến ngày thi, tim đập nhanh sẽ chỉ như một hiệp tập quen thuộc.",
+     "text": "HIỆP TẬP QUEN THUỘC",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thuần hóa được nhịp tim rồi. Giờ ráp lại toàn bộ giáo án phòng thi.",
+     "text": "GIÁO ÁN PHÒNG THI",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Kế hoạch hành động",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Thi cử điểm cao không nhờ may rủi. Nó nằm ở ba trụ cột cốt lõi.",
+     "text": "CHIẾN LƯỢC PHÒNG THI",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trụ cột một: trước giờ thi mười phút, dành năm phút viết sạch nỗi lo ra giấy nháp.",
+     "text": "1. BẢO VỆ BỘ NHỚ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột hai: phá thế đóng băng bằng cách chép dữ kiện và tìm từ khóa.",
+     "text": "2. TÌM LẠI ĐẦU MỐI",
+     "color": "gold",
+     "actor": "writing"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trụ cột ba: đổi góc bàn và đẩy nhịp tim lên khi giải đề bấm giờ.",
+     "text": "3. TẬP VỚI ÁP LỰC",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nó biến nỗi sợ thành phản xạ thi đấu lì đòn như một vận động viên.",
+     "text": "KỶ LUẬT THI ĐẤU",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để rèn ba trụ cột này trong tuần tới?",
+     "text": "RÈN LUYỆN MỖI NGÀY?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày: giải đề bấm giờ hai mươi phút ở chỗ lạ, sau khi vừa nhảy dây hoặc hít đất.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và bật nhảy ba mươi giây để tập nhớ bài khi tim đập dồn dập?",
+     "text": "TẬP KHI TIM ĐẬP",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rèn kỹ lúc tập, ngày thi sẽ chỉ là một buổi tập đã thuần thục.",
+     "text": "LÀM CHỦ PHÒNG THI",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đăng ký Lý Thuyết Chân Que để hiểu thêm tâm lý học ứng dụng mỗi tuần.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

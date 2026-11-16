@@ -1,0 +1,217 @@
+You are the head writer of "Tiny Leg Theory", a faceless YouTube channel of hand-drawn stickman psychology explainers. Write ONE long-form landscape video (10-12 minutes) on the theme below, built from the attached Shorts (each Short = one named psychology mechanism). This is NOT a compilation: write a new, deeper script.
+
+CAST (two stickmen talk to each other, and sometimes to the viewer):
+- Pen: the viewer's stand-in. Calm, reflective, lives the everyday situation, describes how it feels, asks the questions. May end lines with a question.
+- Buff: the blunt coach. Short punchy lines, a bit cheeky ("Sure, buddy."), gym metaphors (reps, warm-up, sets). Names the mechanism and gives the fix. Never ends a chapter with a question.
+
+STRUCTURE (JSON "chapters"):
+1. Chapter 1 "intro": 5-7 lines. Strong hook in the first line (a situation the viewer recognises), then the promise ("N reasons ..."), no clickbait.
+2. Chapters 2..9 or 10: pick the 8 or 9 strongest, clearly different mechanisms from the Shorts (merge near-duplicates). Each chapter 9-13 lines (~60-80 s): concrete everyday scene -> name the mechanism -> why the brain does it (simple, honest) -> one specific practical fix -> one-line bridge into the next chapter.
+3. Last chapter "recap": 7-10 lines. One-line recap per mechanism is too long; group them into 3 ideas, then a 7-day mini challenge, then a soft call to subscribe (one line).
+Total voice-over: 1400-1700 words.
+
+ACCURACY: Do not invent statistics, percentages, years, study details or researcher names. Mechanism names are fine. Hedge ("research suggests", "often", "for many people"). No medical, clinical or therapy advice or diagnoses. No dangerous examples. Re-use at most a few phrases from the Shorts.
+
+TTS: every "vo" line <= 20 words, one or two short sentences, plain spoken English, no abbreviations, no symbols, no emojis, numbers as words.
+
+ON-SCREEN "text": UPPERCASE, <= 22 characters, ASCII letters, digits and . , ! ? ' " > = : - only. It is the visual punchline of the line, not a copy of it. The FIRST line of every chapter is the chapter card: its text is the chapter title (e.g. "3. THE RED DOT").
+"color": one of ink (default), red (problem), green (fix), gold (insight).
+
+VISUALS per line: "actor" = a pose of the speaking mascot, from exactly: front 34 phone_grin panic hand_off small_step confused_shrug arms_crossed_no worried_heart bored_yawn sofa_scroll future_tired sprint_start think typing_focused point_viewer celebrate sleeping bed_phone_night snack reading jogging meditating shocked facepalm wallet_worry nervous_wave writing coffee snooze
+Optional "prop" from exactly: paper_mountain sofa smartphone_glow storm_cloud hourglass laptop_file checkbox_tick calendar_today alarm_clock brain coffee_mug dumbbell coin_stack notification_bell target lightbulb moon_stars low_battery
+Use a prop on about half the lines. Vary poses; do not repeat the same pose on consecutive lines.
+
+OUTPUT ONLY one JSON object, no prose, no code fence:
+{"id": "<ID>", "lang": "en", "title": "<YouTube title, <= 70 chars, no clickbait>", "description": "<2-3 sentence YouTube description>", "chapters": [{"title": "<chapter title, <= 40 chars>", "sources": ["s01", ...], "lines": [{"speaker": "pen|buff", "vo": "...", "text": "...", "color": "ink", "actor": "think", "prop": "laptop_file"}]}]}
+
+This is a non-interactive batch job: never ask questions and ignore any reply-format rules from your config. If unsure, keep the line unchanged (channel names "Tiny Leg Theory" / "Lý Thuyết Chân Que" are fine in voice-over). Your entire answer must be the JSON object, starting with "{".
+
+ID: L5
+THEME: The Money and Decision Traps Your Brain Falls For
+
+# L5 The Money and Decision Traps Your Brain Falls For
+
+### s23 [pen] Why a Sale Makes You Want It More — scarcity effect
+- Only ten minutes left!
+- Suddenly you need it.
+- Things feel more valuable when they seem scarce.
+- The timer is selling urgency, not just the product.
+- Ask: did I want this before the countdown?
+- What's the last thing a timer sold you?
+
+### s24 [buff] The Sunk-Cost Trap — sunk-cost fallacy
+- You paid for the gym, so you suffer through a plan you hate.
+- Classic sunk-cost trap.
+- That money's gone either way.
+- Only question: is it worth it from now on?
+- No? Switch to something you'll actually do.
+- Paying doesn't count as a workout.
+
+### s28 [buff] The Planning Fallacy in Your To-Do List — planning fallacy
+- Your to-do list is a fantasy novel.
+- Twelve tasks planned. Four done by evening.
+- You planned the best case. Then the interruptions showed up.
+- Check a similar past day instead.
+- Plan less. Leave room for chaos.
+- Delete three things from today's list. Not done. Deleted.
+
+### s87 [pen] Why Your First Guess Sticks — Anchoring effect
+- The first number you see keeps tugging at your estimate.
+- A high starting price makes the next price look fair.
+- That pull is anchoring. It can work even when the first number is random.
+- Before you look at their number, write down your own.
+- Then compare. Which number were you really judging against?
+
+### s88 [buff] Don't Let One Bad Review Decide — Negativity bias
+- A wall of good reviews. One angry comment. And you're out.
+- Bad news tends to hit harder than good news. That's negativity bias.
+- Handy near real danger. Lousy for picking a burger place.
+- One story is a single rep. You need the whole set.
+- Read several reviews. Look for what repeats.
+- Same complaint again and again? That's real.
+- One loud complaint in a happy crowd? Maybe just a bad day.
+- Next choice: three sources before you bail.
+
+### s89 [pen] Why You Notice Proof You're Right — Confirmation bias
+- Your feed may be showing your own side back to you.
+- We tend to notice, and trust, what already agrees with us.
+- Evidence against us gets a harsher look, or no look at all.
+- That's confirmation bias. From the inside, it just feels like being right.
+- Try one search for the strongest case against your view.
+- Not the weakest version. The one a smart opponent would make.
+- You might still be right. Now you would know why.
+
+### s90 [buff] Don't Let a Recent Story Set the Odds — Availability heuristic
+- Easy to remember doesn't mean common.
+- One dramatic story on your feed, and it suddenly feels like it happens daily.
+- Your brain judges odds by how fast an example comes to mind.
+- That's the availability heuristic. Vivid beats frequent.
+- Before you panic, check how often it actually happens.
+- Look up the numbers, then decide. A scary story is not a stat sheet.
+
+### s91 [pen] Why You Think Everyone Chose It — Bandwagon effect
+- Everyone picked the same topic, so it must be the right one.
+- Popular can feel like proof, even when nobody really checked.
+- It's the bandwagon effect. We lean toward what the crowd seems to like.
+- The crowd might know something. Or they might just be following each other.
+- So ask one quiet question. What's the reason, besides popularity?
+- If the reason holds up, join them. Then the choice is yours too.
+
+### s92 [buff] Separate the Price From the Value — Price-quality heuristic
+- Expensive course, so it must be great. Sure, buddy.
+- Your brain uses price as a shortcut for quality.
+- A price tag is not a review. It's a number.
+- Write your three must-haves. Check every option against them.
+- Pay for what you need, not for the vibe. Go compare.
+
+### s93 [pen] The Choice You Keep Because It's Default — Status quo bias
+- That app renewed again. You never actually decided to keep it.
+- Doing nothing still picks something. It just picks the default.
+- Status quo bias. The current option feels safer, simply because it's current.
+- Changing takes effort, and leaving can feel like a small loss.
+- So once a month, open your subscriptions and settings on purpose.
+- For each one, ask: would I choose this today, from scratch?
+- Some will stay. But now they stay because you said so.
+
+### s94 [buff] Too Many Options? Set a Rule — Choice overload
+- Two hours comparing laptops. Zero laptops bought.
+- Too many options, and every pick starts to feel risky.
+- That's choice overload. More options, more freezing.
+- Warm-up first. Pick three must-haves before you scroll.
+- Misses one? Out. Cut the list hard.
+- Three finalists, one decision, done today. Set complete.
+
+### s95 [pen] Why You Remember the Last Part Most — Recency effect
+- You leave a meeting remembering only the last five minutes.
+- The decision from the very start? Already blurry.
+- That's the recency effect. The latest information is the easiest to recall.
+- Newer details quietly push the earlier ones out of easy reach.
+- So you might follow up on the wrong task entirely.
+- Jot one line each time something gets decided, as it happens.
+- Before leaving, read your notes from the top, not just the end.
+- What did the first ten minutes actually say?
+
+### s96 [buff] Don't Let a Tiny Risk Scare You Off — Probability neglect
+- Heard one bus horror story. Now you won't ride the bus. Sure.
+- The scary outcome fills the screen. How likely? Never checked.
+- That's probability neglect. Vivid beats likely.
+- Split it into two reps. Rep one: how bad would it be?
+- Rep two: how often does it actually happen?
+- Rare and fixable? That's not a stop sign.
+- Fear gets a say, not the final say. Next decision, both reps.
+
+### s97 [pen] Why You See Patterns in Randomness — Clustering illusion
+- Wore the gray hoodie, nailed three quizzes. Lucky hoodie, obviously.
+- A short streak feels like it has to mean something.
+- The clustering illusion. Random things often bunch up all on their own.
+- Before you name a rule, quietly count a few more weeks.
+- The hoodie is still nice. It just isn't doing your homework.
+
+### s98 [buff] Every Yes Costs Something — Opportunity cost neglect
+- Sure, I'll help with that. Third yes this week. Sure, buddy.
+- Every yes spends time you could have used somewhere else.
+- You see the favor. You don't see what it pushes out.
+- That's opportunity cost neglect. The other option stays invisible.
+- Before saying yes, name what this hour replaces.
+- Your workout? Your sleep? Your own project?
+- Still worth it? Then say yes like you mean it.
+- If not, say: not this week. Three words. One rep. Today.
+
+### s99 [pen] Why the Discount Feels Like Savings — Mental accounting
+- You saved so much on that jacket. You also spent money on it.
+- The old price sits next to the new one, and the gap feels like income.
+- Mental accounting. We sort money into separate jars in our heads.
+- The savings land in a happy jar. The spending barely gets counted.
+- Try another comparison. This item, or this cash staying in your account.
+- Without the crossed-out price, would you still want it?
+
+### s100 [buff] Don't Buy It Just to Avoid a Loss — Loss aversion
+- Coupon expires tonight, so you buy something you didn't need. Smart.
+- Losing the deal stings more than skipping a random buy.
+- That's loss aversion. Losses tend to feel bigger than equal gains.
+- An unused coupon costs you nothing. The purchase costs real money.
+- Pause one set. Did you want this before the offer showed up?
+- No? Let it expire. Swipe it away.
+- The coupon was free. Keep it that way.
+
+### s101 [pen] Why the New Phone Stops Feeling New — Hedonic adaptation
+- Week one, you checked your new phone like it was a gift.
+- Month three, it's just the phone.
+- That fade has a name: hedonic adaptation.
+- The brain slowly stops noticing what stays the same.
+- So the next upgrade tends to fade the same way.
+- Before buying, picture month three, not unboxing day.
+- What would still feel new to you by then?
+
+### s102 [buff] Don't Let the Middle Option Fool You — Decoy effect
+- Medium costs almost as much as large. Suddenly large looks smart.
+- That medium isn't there to sell. It's bait.
+- A weak option makes its neighbor look like a deal. Decoy effect.
+- Cover the middle one with your thumb.
+- Now compare the real two. Small is enough? Take small.
+- Rep it at every menu. Your wallet gets stronger.
+
+### s103 [pen] Why a Freebie Feels Too Good — Zero-price effect
+- Free topping with any large. You never even liked large.
+- Free feels different from cheap, as if there's no downside at all.
+- That's the zero-price effect. The real cost slips in elsewhere.
+- A quiet test: would you still take it for a small price?
+- If not, it was never really free. It was a nudge.
+
+### s104 [buff] Stop Counting the Installment Only — Payment decoupling
+- Only a little each month! Sure, buddy.
+- Split payments make the price feel light.
+- Each payment barely registers. The total never shows up.
+- That's payment decoupling. Price and purchase drift apart.
+- Warm-up rep: multiply it out. Every month, plus fees.
+- Now the real set. Would you pay that total today?
+- No? Then the monthly price was just a costume.
+- Total first, plan second. Every single time.
+
+### s105 [pen] Why You Keep the Thing You Bought — Endowment effect
+- You barely use those headphones, yet selling them cheap feels wrong.
+- The moment something is yours, it tends to feel worth more.
+- That's the endowment effect. Owning adds a quiet markup.
+- Letting go registers as a loss, not a trade.
+- Flip it: if you didn't own them, would you buy them now?
+- If not, why are they still keeping a spot in your drawer?

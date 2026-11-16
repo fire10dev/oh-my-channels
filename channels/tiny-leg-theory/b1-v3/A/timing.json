@@ -1,0 +1,120 @@
+{
+ "DUR": {
+  "hook": 3.994,
+  "myth": 4.889,
+  "reveal": 8.183,
+  "future": 4.676,
+  "fix": 6.548,
+  "close": 5.173
+ },
+ "PHRASES": [
+  [
+   "hook",
+   0.0,
+   1.785,
+   "You know exactly what you should be doing."
+  ],
+  [
+   "hook",
+   2.105,
+   3.994,
+   "So why are you scrolling your phone instead?"
+  ],
+  [
+   "myth",
+   0.0,
+   1.57,
+   "Most people call it laziness,"
+  ],
+  [
+   "myth",
+   1.75,
+   3.088,
+   "or bad time management."
+  ],
+  [
+   "myth",
+   3.408,
+   4.889,
+   "Researchers say it is neither."
+  ],
+  [
+   "reveal",
+   0.0,
+   1.926,
+   "Procrastination is about feelings."
+  ],
+  [
+   "reveal",
+   2.246,
+   3.757,
+   "A task feels boring, scary,"
+  ],
+  [
+   "reveal",
+   3.937,
+   4.955,
+   "or just too big,"
+  ],
+  [
+   "reveal",
+   5.135,
+   6.523,
+   "so your brain grabs something"
+  ],
+  [
+   "reveal",
+   6.843,
+   8.183,
+   "that feels better right now."
+  ],
+  [
+   "future",
+   0.0,
+   1.794,
+   "And the bill goes to your future self."
+  ],
+  [
+   "future",
+   2.115,
+   4.676,
+   "A person your brain treats almost like a stranger."
+  ],
+  [
+   "fix",
+   0.0,
+   1.307,
+   "So don't wait to feel ready."
+  ],
+  [
+   "fix",
+   1.627,
+   4.005,
+   "Shrink the first step until it's too small to fear."
+  ],
+  [
+   "fix",
+   4.325,
+   5.287,
+   "Open the file."
+  ],
+  [
+   "fix",
+   5.607,
+   6.548,
+   "Write one line."
+  ],
+  [
+   "close",
+   0.0,
+   2.345,
+   "The bad feeling usually fades once you start."
+  ],
+  [
+   "close",
+   2.664,
+   5.173,
+   "So, what's the smallest first step you could take today?"
+  ]
+ ]
+}

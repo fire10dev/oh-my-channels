@@ -1,0 +1,849 @@
+{
+ "id": "L15vi",
+ "lang": "vi",
+ "title": "Vì sao đi mua sắm cùng bạn bè dễ tiêu quá tay?",
+ "description": "Bạn có bao giờ đi dạo trung tâm thương mại chỉ để ngắm, nhưng khi về ví lại rỗng tuếch? Video này bóc trần tám cái bẫy tâm lý khiến bạn tiêu hoang khi đi cùng bạn bè và cách khắc phục đơn giản để bảo vệ túi tiền.",
+ "chapters": [
+  {
+   "title": "BUỔI ĐI CHƠI TỐN KÉM",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mở cốp xe sau buổi cà phê, bạn ngơ ngác thấy ba bốn túi đồ mới mua.",
+     "text": "BUỔI ĐI CHƠI TỐN KÉM",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ban đầu tính đi cho vui, vậy mà bạn bè rủ rê là kỷ luật bay sạch.",
+     "text": "KỶ LUẬT BAY SẠCH",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì sao sự kiềm chế của mình bốc hơi ngay khi bước vào trung tâm thương mại?",
+     "text": "MẤT KIỂM SOÁT",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não Pen coi việc hòa nhập hơn cả ví tiền, nên lý trí mới chịu thua.",
+     "text": "HÒA NHẬP HƠN VÍ TIỀN",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay chúng ta bóc trần tám cái bẫy ngầm rút cạn tiền của bạn.",
+     "text": "TÁM CÁI BẪY NGẦM",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cầm khăn tập lên nào Pen, khởi động ngay hiệp phòng thủ túi tiền đi.",
+     "text": "BÀI TẬP PHÒNG THỦ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "1. HÙA THEO BẠN BÈ",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhóm bạn rủ tạt vào tiệm đồ đắt đỏ, bạn không thích nhưng vẫn lẽo đẽo đi theo.",
+     "text": "1. HÙA THEO BẠN BÈ",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bạn chẳng thiếu thứ gì, nhưng vẫn tiện tay xem từng chiếc áo khoác đắt đỏ.",
+     "text": "GIẢ VỜ XEM ĐỒ",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là tâm lý hùa theo, tự ép mình uốn cong để giống cả nhóm.",
+     "text": "UỐN THEO ĐÁM ĐÔNG",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao việc đứng chờ bên ngoài lại khó khăn hơn đi xem đồ vô nghĩa?",
+     "text": "SỢ BỊ LẠC LÕNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não xem việc đi ngược số đông là bị cô lập, nên đành tặc lưỡi đi theo.",
+     "text": "TRÁNH BỊ CÔ LẬP",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đang đi theo đội mà tự dưng đứng khựng lại một góc, não bạn thấy ngượng chín mặt.",
+     "text": "ÁP LỰC ĐÁM ĐÔNG",
+     "color": "red",
+     "actor": "front",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra mình xem đồ chỉ để đỡ thấy lạc lõng và không phải giải thích nhiều?",
+     "text": "LẶNG LẼ HÙA THEO",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Bạn giữ hòa khí bằng cách trả giá bằng chính ví tiền mình.",
+     "text": "TRẢ GIÁ BẰNG TIỀN",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy khởi động ranh giới bằng cách quyết định điểm dừng trước khi bước vào trung tâm.",
+     "text": "ĐẶT RA RANH GIỚI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Báo trước với cả hội là hôm nay bạn chỉ đi hóng mát, không mua sắm.",
+     "text": "CHỈ ĐI HÓNG MÁT",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhịn mua thì làm được, nhưng thấy bạn chốt đơn hăng say lại thấy ngứa tay.",
+     "text": "BỊ KÍCH THÍCH?",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "2. BẰNG CHỨNG XÃ HỘI",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn đi cùng bốc chiếc áo hàng hiệu đắt đỏ rồi quẹt thẻ thanh toán gọn lơ.",
+     "text": "2. BẰNG CHỨNG XÃ HỘI",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy bạn mua gọn gàng làm mình tin ngay đây là món đồ tốt và hời.",
+     "text": "TƯỞNG LÀ ĐỒ HỜI",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là bẫy bằng chứng xã hội, mượn sự tự tin của người khác gánh hộ mình.",
+     "text": "MƯỢN NIỀM TIN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao mình lại tin món đồ đáng tiền chỉ vì bạn mình thanh toán dứt khoát?",
+     "text": "QUẸT THẺ QUÁ TỰ TIN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi không rành món hàng, não xem hành động người bên cạnh là nguồn dữ liệu chuẩn.",
+     "text": "ĐI TẮT DỮ LIỆU",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy bạn mua liền tay, bạn tưởng người ta đã tìm hiểu kỹ càng từ trước.",
+     "text": "TƯỞNG ĐÃ TÌM HIỂU",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biết đâu họ vừa bị sếp mắng nên quẹt thẻ xả giận theo cảm xúc.",
+     "text": "TIÊU TIỀN VÌ BUỒN",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quá đúng. Cú quẹt thẻ đó thuần túy là bốc đồng, chẳng bảo đảm giá trị gì.",
+     "text": "KHÔNG CÓ BẢO ĐẢM",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đặt ra nguyên tắc hạ nhiệt hai mươi tư giờ trước món đồ được khen nức nở.",
+     "text": "HẠ NHIỆT MỘT NGÀY",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sau một ngày ngồi yên ở nhà mà vẫn thấy cần, lúc đó mới tính chuyện mua.",
+     "text": "BÌNH TÂM SUY NGHĨ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy nhìn ngắm mới là khởi động thôi, hiệp đấu trên bàn ăn mới gắt.",
+     "text": "ÁP LỰC TRÊN BÀN ĂN",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "3. ÁP LỰC CHUẨN MỰC",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhân viên vừa hỏi bàn mình dùng thêm món gì không, cả nhóm đã gật lia lịa.",
+     "text": "3. ÁP LỰC CHUẨN MỰC",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sáng nay vừa tự nhủ phải tiết kiệm, vậy mà bạn vẫn cười gượng đồng ý.",
+     "text": "CƯỜI GƯỢNG ĐỒNG Ý",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cảm giác bứt rứt khó chịu đó chính là do áp lực chuẩn mực gây ra.",
+     "text": "ÁP LỰC NHÓM BẠN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn biết rõ túi tiền mình đang cạn, nhưng lại chọn chiều lòng bàn ăn.",
+     "text": "CHIỀU LÒNG CẢ BÀN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao chỉ gọi ly trà đá hay phần nhỏ lại làm mình thấy ngại ngùng và bủn xỉn?",
+     "text": "SỢ BỊ NÓI BỦN XỈN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì bạn sợ bị coi là kẻ phá đám, làm tụt hứng cả buổi đi chơi.",
+     "text": "SỢ LÀM TỤT HỨNG",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là mình bỏ tiền thật ra chỉ để đổi lấy vài phút không khó xử?",
+     "text": "TRÁNH MẶT KHÓ XỬ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn đấy Pen, nhiều người cạn sạch ví chỉ vì sợ làm tụt hứng cả bàn.",
+     "text": "NỂ NANG HẾT TIỀN",
+     "color": "red",
+     "actor": "front",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khởi động bài tập ranh giới bằng cách chốt mức trần chi tiêu trước khi đi.",
+     "text": "ĐẶT MỨC TRẦN CHI",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vừa ngồi xuống cứ nói thẳng là mình mới ăn no, gọi phần nhỏ vừa túi tiền.",
+     "text": "CHỦ ĐỘNG GỌI VỪA",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giữ giới hạn là tốt, nhưng nếu gặp bạn thân am hiểu đồ công nghệ thì sao?",
+     "text": "LỜI KHUYÊN TỪ BẠN?",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "4. ẢNH HƯỞNG THÔNG TIN",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đứa bạn cầm chiếc tai nghe không dây đắt tiền và bảo đây là món đồ phải có.",
+     "text": "4. ẢNH HƯỞNG THÔNG TIN",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ nói năng rành rẽ làm bạn bỗng thấy chiếc tai nghe cũ của mình thật lỗi thời.",
+     "text": "THẤY ĐỒ MÌNH LỖI THỜI",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là ảnh hưởng thông tin, biến người khác thành chuyên gia thẩm định hộ bạn.",
+     "text": "MƯỢN UY CHUYÊN GIA",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao mình lại dễ tin lời bạn hơn là nhìn vào nhu cầu thực tế của bản thân?",
+     "text": "DỄ DÀNG TIN NGAY?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy người ta nói chắc nịch, não bạn lười biếng nên giao luôn quyền suy xét.",
+     "text": "LƯỜI SUY NGHĨ",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "So sánh cấu hình và giá cả mất sức lắm, nên bạn lấy luôn ý kiến của họ.",
+     "text": "MƯỢN Ý KIẾN SẴN",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sự hào hứng của họ làm mờ mắt mình, khiến mình quên mất ví đang eo hẹp?",
+     "text": "QUÊN MẤT VÍ TIỀN",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn Pen. Đam mê của họ chưa chắc đã vừa vặn với túi tiền của Pen.",
+     "text": "KHÔNG HỢP NHU CẦU",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập một hiệp kiểm chứng độc lập, mở mạng lên đọc đánh giá trước khi tính tiền.",
+     "text": "KIỂM CHỨNG ĐỘC LẬP",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đọc ba bài nhận xét khách quan xem người dùng thật chỉ ra lỗi gì.",
+     "text": "XEM BA ĐÁNH GIÁ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xong hiệp tư vấn này rồi, cái bẫy đảo mắt ngắm đồ mới rút tiền ác hơn.",
+     "text": "LÒNG VÒNG NGẮM ĐỒ",
+     "color": "ink",
+     "actor": "34",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "5. TIẾP XÚC ĐƠN THUẦN",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cả nhóm hẹn nhau đi ăn trưa, nhưng bạn bè cứ kéo nhau qua các gian hàng lấp lánh.",
+     "text": "5. TIẾP XÚC ĐƠN THUẦN",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bạn nhìn thấy chiếc túi da đó ở ba tủ kính, và giờ bạn khao khát muốn mua.",
+     "text": "KHAO KHÁT DẦN TĂNG",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng tiếp xúc đơn thuần, bào mòn ý chí qua từng lần nhìn thấy.",
+     "text": "BÀO MÒN Ý CHÍ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao chỉ việc nhìn lướt qua ba lần lại biến món đồ xa lạ thành món phải có?",
+     "text": "SAO LẠI THÈM MUỐN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn nhiều khiến não quen mắt, xử lý hình ảnh món hàng nhanh và dễ dàng hơn.",
+     "text": "QUEN MẮT VỚI ĐỒ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bộ thường nhầm lẫn sự quen thuộc với cảm giác an toàn và đáng tin.",
+     "text": "TƯỞNG AN TOÀN",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đi cùng đám bạn vừa đi vừa buôn chuyện làm mình bước chậm lại và nhìn chăm chú hơn.",
+     "text": "ĐI CHẬM NGẮM LÂU",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cả nhóm lượn lờ trước quầy hàng càng lâu, bạn càng thèm muốn món đồ đó.",
+     "text": "CÀNG LƯỢN CÀNG THÈM",
+     "color": "red",
+     "actor": "front",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào trung tâm thương mại với danh sách thép, siết kỷ luật không ngó nghiêng lung tung.",
+     "text": "BÁM SÁT MỤC TIÊU",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xong việc là kéo cả nhóm ra quán cà phê nghỉ ngơi ngay lập tức.",
+     "text": "RỜI KHỎI QUẦY HÀNG",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tránh ngắm đồ thì được, nhưng khi bạn bè đem đồ hiệu ra khoe thì rất khó chịu.",
+     "text": "ĐỒ HIỆU ĐẦY BÀN?",
+     "color": "ink",
+     "actor": "wallet_worry"
+    }
+   ]
+  },
+  {
+   "title": "6. THỂ HIỆN VỊ THẾ",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngồi xuống quán cà phê, mọi người bày túi xách đắt tiền và kính hiệu lên bàn.",
+     "text": "6. THỂ HIỆN VỊ THẾ",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại chiếc túi vải sờn vai của mình, bạn bỗng thấy tự ti và thua kém.",
+     "text": "THẤY MÌNH THUA KÉM",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là tiêu dùng phô trương, mua đồ hiệu chỉ để khoe mẽ sự khá giả.",
+     "text": "KHOE MẼ VỊ THẾ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao chúng ta lại có thôi thúc phải mua đồ hiệu chỉ để thấy ngang hàng với bạn?",
+     "text": "CẦN PHẢI BẰNG BẠN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghe này Pen, mác hàng hiệu chỉ là tấm huy chương ảo để người ta mua oai thôi.",
+     "text": "HUY CHƯƠNG ĐỒ HIỆU",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn tưởng mang đồ đắt tiền sẽ mua được sự nể trọng thật lòng từ bạn bè.",
+     "text": "MUA SỰ NỂ TRỌNG",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Liệu có ai thật sự tôn trọng mình chỉ vì chiếc áo phông vài triệu đồng?",
+     "text": "AI THẬT SỰ QUAN TÂM?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không đâu Pen. Ai cũng mải lo giữ thể diện, chẳng rảnh soi ví Pen đâu.",
+     "text": "CHẲNG AI ĐỂ Ý",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhớ kỹ, tài sản thật nằm trong tài khoản tích lũy, không nằm ở mác áo.",
+     "text": "TÀI KHOẢN TÍCH LŨY",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Luyện bản lĩnh tự tin, sự đàng hoàng của bạn mới là thứ tạo nên sức nặng.",
+     "text": "BẢN LĨNH TỰ TIN",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đọ đồ hiệu chỉ là khởi động, trận chiến tốn kém nhất bùng nổ khi tính tiền.",
+     "text": "TRẬN CHIẾN TÍNH TIỀN",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "7. GIÀNH NHAU TRẢ TIỀN",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hóa đơn vừa đặt lên bàn, đứa bạn đã nhanh tay giật lấy đòi bao trọn.",
+     "text": "7. GIÀNH NHAU TRẢ TIỀN",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bạn liền thấy ngột ngạt và muốn bao chầu nước tiếp theo để chứng tỏ mình hào sảng.",
+     "text": "MUỐN BAO CHẦU TIẾP",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Màn tranh nhau trả tiền đó gọi là phát tín hiệu tốn kém, mua oai bằng tiền túi.",
+     "text": "MUA OAI BẰNG TIỀN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao chúng ta lại vung nửa tháng tiền ăn chỉ để chứng minh mình quý bạn bè?",
+     "text": "CHỨNG MINH TÌNH BẠN?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lời nói gió bay, nên việc bao trọn bữa ăn là cách chứng minh độ chịu chơi.",
+     "text": "CHỨNG MINH CHỊU CHƠI",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiềm thức xem việc chịu thiệt thòi về tiền bạc là bằng chứng của tình bạn gắn kết.",
+     "text": "CHỊU THIỆT VÌ BẠN",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng gánh chầu trà sữa đó làm bay luôn tiền chợ cả tuần sau của mình.",
+     "text": "HẾT SẠCH TIỀN CHỢ",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ráng gồng bao chầu vượt sức chỉ biến tình bạn thành bài tập gánh nợ thôi Pen.",
+     "text": "BẪY NỢ GƯỢNG GẠO",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Triệt tiêu cuộc đua này ngay lúc gọi món, giao hẹn trước là phần ai nấy trả.",
+     "text": "PHẦN AI NẤY TRẢ",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hoặc chủ động mở máy tính trên điện thoại chia đều từng món thật dứt khoát.",
+     "text": "CHIA ĐỀU HÓA ĐƠN",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giải quyết vụ bao chầu rất tốt, nhưng các công cụ chuyển khoản lại giấu đi nỗi đau mất tiền.",
+     "text": "GIẤU NỖI ĐAU MẤT TIỀN",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "8. TÁCH RỜI THANH TOÁN",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cuối buổi, một đứa đứng ra quét mã bao trước rồi bảo về bắn tiền lại sau.",
+     "text": "8. TÁCH RỜI THANH TOÁN",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì không thấy tờ tiền nào rời khỏi tay, bạn cảm thấy bữa ăn gần như miễn phí.",
+     "text": "TƯỞNG NHƯ MIỄN PHÍ",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng tách rời thanh toán, chuyển khoản làm tê liệt cảm giác xót tiền.",
+     "text": "TÊ LIỆT NỖI XÓT",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao chuyển trả tiền qua tin nhắn vào ngày mai lại ít xót hơn đưa tiền mặt lúc này?",
+     "text": "SAO LẠI BỚT ĐAU?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rút từng tờ tiền giấy trao đi tạo ra cú nhói tâm lý ngay tại chỗ.",
+     "text": "CÚ NHÓI TIỀN MẶT",
+     "color": "gold",
+     "actor": "front",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuyển khoản sau làm não tách bữa ăn vui vẻ khỏi cảm giác xót tiền.",
+     "text": "TÁCH RỜI HẬU QUẢ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cho đến sáng thứ hai khi tin nhắn nhắc nợ vang lên làm ví tiền hụt hẫng.",
+     "text": "SÁNG THỨ HAI GIẬT MÌNH",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Bạn vui chơi trả sau, để rồi đầu tuần ngậm ngùi trả giá đắt.",
+     "text": "TRẢ GIÁ ĐẦU TUẦN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập bài thanh toán liền tay, gửi phần tiền của bạn ngay trước khi đứng dậy.",
+     "text": "THANH TOÁN LIỀN TAY",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mở ứng dụng chuyển tiền tại bàn, gửi ngay để mắt thấy số dư vừa tụt xuống.",
+     "text": "CHUYỂN KHOẢN NGAY",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đã lật tẩy xong tám cái bẫy, giờ là lúc lập kế hoạch phòng thủ dài hạn.",
+     "text": "KẾ HOẠCH BẢO VỆ VÍ",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "THỬ THÁCH BẢY NGÀY",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại tám cái bẫy vừa qua, việc chi tiêu quá đà bắt nguồn từ ba thói quen chính.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một là kiểm soát đường đi, đừng đi dạo vô định khiến mắt quen đồ rồi hùa theo.",
+     "text": "1. KIỂM SOÁT ĐƯỜNG ĐI",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai là nghi ngờ ý kiến vay mượn, chớ để lời khen của bạn bè thao túng túi tiền.",
+     "text": "2. ĐỘC LẬP SUY NGHĨ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba là chia tiền sòng phẳng tại chỗ, không để các ứng dụng che giấu chi phí thật.",
+     "text": "3. CHIA TIỀN TẠI CHỖ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày cho bạn, hãy đặt hạn mức đi chơi cố định ngay trên tài khoản ngân hàng.",
+     "text": "ĐẶT HẠN MỨC TIÊU",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chủ động chọn món vừa túi, bám sát hạn mức và gửi tiền phần mình trước khi rời bàn.",
+     "text": "BÁM SÁT VÀ CHUYỂN NGAY",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tình bạn thật sự nằm ở tiếng cười và sự chân thành, không phải sự đua đòi tốn kém.",
+     "text": "CHÂN THÀNH LÀ CHÍNH",
+     "color": "ink",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn rèn cơ bắp tâm lý vững vàng mỗi tuần, bấm đăng ký Lý Thuyết Chân Que ngay.",
+     "text": "ĐĂNG KÝ TẬP MỖI TUẦN",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

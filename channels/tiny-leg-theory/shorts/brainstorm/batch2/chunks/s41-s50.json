@@ -1,0 +1,1004 @@
+[
+ {
+  "id": "s41",
+  "mascot": "pen",
+  "title": "Why You Lose Your Place After a Ping",
+  "mechanism": "Interruption recovery (resumption cue)",
+  "lines": [
+   {
+    "vo": "One quick reply, and your half-written paragraph goes blank.",
+    "text": "WHERE WAS I?",
+    "actor": "confused_shrug",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "The message ends. The thought you were holding often doesn't.",
+    "text": "THE THREAD SNAPS",
+    "color": "red",
+    "actor": "think",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Your mind has to rebuild where you were, and that takes effort.",
+    "text": "REBUILD FROM ZERO",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "brain"
+   },
+   {
+    "vo": "So before you reply, leave yourself a marker.",
+    "text": "LEAVE A MARKER",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Half a sentence is enough. Next: add the second example.",
+    "text": "NEXT: ADD EXAMPLE 2",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Coming back is easier when you leave the door open.",
+    "text": "LEAVE THE DOOR OPEN",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s41vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ghi cho dung truoc khi tra loi tin",
+  "title_vi": "Ghi chỗ dừng trước khi trả lời tin",
+  "mechanism": "Interruption recovery (resumption cue)",
+  "lines": [
+   {
+    "vo": "Đang viết tiểu luận ngon trớn thì nhóm nhắn hỏi trang mấy.",
+    "text": "ĐANG NGON TRỚN...",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Trả lời xong quay lại, câu đang viết dở bay đâu mất.",
+    "text": "BAY ĐÂU MẤT RỒI?",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Tin nhắn thì xong, nhưng dòng suy nghĩ chưa chắc quay về.",
+    "text": "Ý NGHĨ KHÔNG QUAY VỀ",
+    "color": "red",
+    "actor": "think",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Đầu óc phải dựng lại xem mình đang ở đoạn nào.",
+    "text": "DỰNG LẠI TỪ ĐẦU",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nên trước khi mở Zalo, ghi vội một dòng chỗ dừng.",
+    "text": "GHI CHỖ DỪNG",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Kiểu như: tiếp theo, thêm ví dụ thứ hai vào đoạn ba.",
+    "text": "TIẾP: VÍ DỤ 2, ĐOẠN 3",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Một dòng nhỏ thôi, mà quay lại không phải mò mẫm.",
+    "text": "QUAY LẠI LÀ VIẾT TIẾP",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s42",
+  "mascot": "buff",
+  "title": "Put a Wall Around Deep Work",
+  "mechanism": "Boundary management",
+  "lines": [
+   {
+    "vo": "You open the textbook. Someone yells your name. Again.",
+    "text": "FOCUS, INTERRUPTED",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Your focus needs a fence. Right now it's an open field.",
+    "text": "BUILD A FENCE",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Tell people your block. Busy till four, all yours after.",
+    "text": "BUSY TILL 4",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Then guard it. Phone face down. Door closed.",
+    "text": "GUARD THE BLOCK",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "No fence, no gains. Announce your block now.",
+    "text": "ANNOUNCE IT NOW",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s42vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung hang rao cho gio tap trung",
+  "title_vi": "Dựng hàng rào cho giờ tập trung",
+  "mechanism": "Boundary management",
+  "lines": [
+   {
+    "vo": "Vừa mở đề cương, mẹ gọi đi chợ. Mở lại, em nhờ giảng bài.",
+    "text": "VỪA NGỒI ĐÃ BỊ GỌI",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Sự tập trung cần hàng rào. Nhà bạn đang để cổng mở toang.",
+    "text": "CẦN HÀNG RÀO",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Báo trước cả nhà: tới bốn giờ con bận, sau đó con làm hết.",
+    "text": "BẬN TỚI 4 GIỜ",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Không phải từ chối. Là hẹn sang giờ khác.",
+    "text": "HẸN LẠI, KHÔNG TỪ CHỐI",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Rồi giữ chặt hiệp đó. Điện thoại úp, cửa đóng.",
+    "text": "GIỮ CHẶT HIỆP NÀY",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Không có rào thì không lên tạ được. Báo cả nhà ngay đi.",
+    "text": "BÁO NGAY ĐI",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s43",
+  "mascot": "pen",
+  "title": "Why Endless Feeds Have No Last Page",
+  "mechanism": "Missing stopping cues (no natural end point)",
+  "lines": [
+   {
+    "vo": "You meant to watch one clip. The feed never said the end.",
+    "text": "NO LAST PAGE",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "A book ends a chapter. A show ends an episode.",
+    "text": "BOOKS HAVE ENDINGS",
+    "actor": "reading"
+   },
+   {
+    "vo": "Those small endings are where we usually pause and decide.",
+    "text": "ENDINGS = DECISIONS",
+    "actor": "think"
+   },
+   {
+    "vo": "An endless feed removes them. There's no natural place to stop.",
+    "text": "NOTHING TO STOP AT",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "So you keep going, not because you chose to, but because nothing asked.",
+    "text": "NOTHING ASKED",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "You can build the chapter breaks back in.",
+    "text": "ADD CHAPTER BREAKS",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Every few clips, lock the screen. Then choose: stop or continue.",
+    "text": "LOCK. THEN CHOOSE.",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "A pause is just a page break you made yourself.",
+    "text": "MAKE YOUR OWN PAGE",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s43vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao luot mai khong co diem dung",
+  "title_vi": "Vì sao lướt mãi không có điểm dừng",
+  "mechanism": "Missing stopping cues (no natural end point)",
+  "lines": [
+   {
+    "vo": "Định lướt năm phút trước khi ngủ, ngẩng lên đã một giờ sáng.",
+    "text": "NGẨNG LÊN ĐÃ 1 GIỜ",
+    "actor": "bed_phone_night",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Đọc truyện còn hết chương, xem phim còn hết tập.",
+    "text": "TRUYỆN CÒN HẾT CHƯƠNG",
+    "actor": "reading"
+   },
+   {
+    "vo": "Bảng tin thì không có trang cuối, nên chẳng có lúc nào dừng lại nghĩ.",
+    "text": "KHÔNG CÓ TRANG CUỐI",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Vậy thì tự chia chương. Cứ vài video lại tắt màn hình một lần.",
+    "text": "TỰ CHIA CHƯƠNG",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Chương này hết rồi. Bạn có thật sự muốn mở chương mới không?",
+    "text": "TIẾP HAY THÔI?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s44",
+  "mascot": "buff",
+  "title": "Turn Off the Red Dot",
+  "mechanism": "Salience bias",
+  "lines": [
+   {
+    "vo": "Seventeen red dots. Zero of them are your problem.",
+    "text": "17 RED DOTS",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "That red dot is a tiny alarm. Your eyes go straight to it.",
+    "text": "A TINY ALARM",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Bright, red, in the corner. Your brain tags it as important.",
+    "text": "BRAIN SAYS: URGENT",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Open it. A sale. Or a like. Sure, super urgent.",
+    "text": "IT'S A SALE.",
+    "actor": "arms_crossed_no",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Settings. Notifications. Badges off for everything that isn't people.",
+    "text": "BADGES OFF",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Keep dots only for messages that actually matter.",
+    "text": "KEEP THE REAL ONES",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "One set, two minutes. Kill the dots now.",
+    "text": "KILL THE DOTS",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s44vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Tat cham do di",
+  "title_vi": "Tắt chấm đỏ đi",
+  "mechanism": "Salience bias",
+  "lines": [
+   {
+    "vo": "Mở máy ra: chấm đỏ Shopee, chấm đỏ Facebook, chấm đỏ cả ví điện tử.",
+    "text": "TOÀN CHẤM ĐỎ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Chấm đỏ là cái chuông báo động tí hon. Mắt nhìn vào ngay.",
+    "text": "CHUÔNG BÁO ĐỘNG TÍ HON",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Đỏ, sáng, nằm ở góc. Não dễ coi nó là việc gấp.",
+    "text": "NÃO TƯỞNG LÀ GẤP",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Mở ra thì: mã giảm năm nghìn. Ừ, gấp lắm.",
+    "text": "MÃ GIẢM 5K",
+    "actor": "arms_crossed_no",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Mà mỗi lần liếc là một lần rời việc đang làm.",
+    "text": "LIẾC LÀ RỜI VIỆC",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Vào cài đặt, tắt chấm đỏ cho mấy ứng dụng mua sắm.",
+    "text": "TẮT CHẤM ĐỎ",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Chỉ giữ chấm đỏ cho tin nhắn của người thật.",
+    "text": "CHỈ GIỮ NGƯỜI THẬT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Một hiệp hai phút. Dọn sạch chấm đỏ ngay bây giờ.",
+    "text": "DỌN NGAY",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s45",
+  "mascot": "pen",
+  "title": "Why You Keep the App on Page One",
+  "mechanism": "Mere exposure",
+  "lines": [
+   {
+    "vo": "Your thumb finds the video app before your eyes do.",
+    "text": "THE THUMB KNOWS",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "It's been on page one for years. You see it every unlock.",
+    "text": "SEEN EVERY UNLOCK",
+    "actor": "think"
+   },
+   {
+    "vo": "Things we see often tend to feel friendly and easy to pick.",
+    "text": "FAMILIAR FEELS EASY",
+    "actor": "front",
+    "prop": "brain"
+   },
+   {
+    "vo": "So your first screen quietly leans toward your oldest habits.",
+    "text": "PAGE ONE = HABITS",
+    "color": "red",
+    "actor": "sofa_scroll"
+   },
+   {
+    "vo": "Move it into a folder on the last page. Add a little effort.",
+    "text": "MOVE IT TO A FOLDER",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Put something you'd rather open in its old spot.",
+    "text": "SWAP THE SPOT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "What is your home screen inviting you to do?",
+    "text": "WHAT DOES IT INVITE?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s45vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao ung dung o trang dau de bam",
+  "title_vi": "Vì sao ứng dụng ở trang đầu dễ bấm",
+  "mechanism": "Mere exposure",
+  "lines": [
+   {
+    "vo": "Mở khoá máy định xem giờ, ngón tay đã bấm vào ứng dụng video.",
+    "text": "NGÓN TAY TỰ BẤM",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Nó nằm ở trang đầu từ hồi mới mua máy.",
+    "text": "NẰM ĐÓ TỪ HỒI MUA MÁY",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Cái gì nhìn quen mắt thường thấy thân thiện, dễ chọn hơn.",
+    "text": "QUEN MẮT LÀ DỄ BẤM",
+    "color": "red",
+    "actor": "front",
+    "prop": "brain"
+   },
+   {
+    "vo": "Còn ứng dụng học từ vựng thì nằm tít trang bốn.",
+    "text": "HỌC TỪ VỰNG Ở TRANG 4",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Đổi chỗ đi: học từ vựng lên trang đầu, video vào thư mục cuối.",
+    "text": "ĐỔI CHỖ",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Thứ gì thấy đầu tiên, dần dần cũng thành thói quen đầu tiên.",
+    "text": "QUEN MẮT, QUEN TAY",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s46",
+  "mascot": "buff",
+  "title": "Give Your Phone a Parking Spot",
+  "mechanism": "Object location cue",
+  "lines": [
+   {
+    "vo": "Dinner. Phone next to the plate. A check between every bite.",
+    "text": "PHONE AT DINNER",
+    "color": "red",
+    "actor": "snack",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Within reach means within habit. Your hand doesn't ask permission.",
+    "text": "IN REACH = IN HAND",
+    "color": "red",
+    "actor": "phone_grin"
+   },
+   {
+    "vo": "Give it a parking spot. One place. Same place, every time.",
+    "text": "ONE PARKING SPOT",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Shelf by the door. Charger in the hallway. Not your pocket.",
+    "text": "NOT YOUR POCKET",
+    "color": "green",
+    "actor": "arms_crossed_no",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Working or eating, the phone stays parked.",
+    "text": "PHONE STAYS PARKED",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Pick the spot today. Park it before the next meal. Rep one.",
+    "text": "PARK IT. REP ONE.",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s46vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Cho dien thoai mot cho do",
+  "title_vi": "Cho điện thoại một chỗ đỗ",
+  "mechanism": "Object location cue",
+  "lines": [
+   {
+    "vo": "Cả nhà ăn cơm, điện thoại nằm ngay cạnh bát nước mắm.",
+    "text": "CẠNH BÁT NƯỚC MẮM",
+    "color": "red",
+    "actor": "snack",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Gắp một miếng, liếc một cái. Ăn xong chẳng nhớ ai nói gì.",
+    "text": "ĂN MÀ KHÔNG NGHE",
+    "color": "red",
+    "actor": "phone_grin"
+   },
+   {
+    "vo": "Trong tầm tay thì tay tự cầm. Chẳng cần hỏi ý ai.",
+    "text": "TRONG TẦM TAY",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cho nó một chỗ đỗ cố định. Một chỗ thôi.",
+    "text": "CHỖ ĐỖ CỐ ĐỊNH",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Kệ phòng khách, ổ sạc góc nhà. Không phải túi quần.",
+    "text": "KHÔNG PHẢI TÚI QUẦN",
+    "color": "green",
+    "actor": "arms_crossed_no",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Ăn cơm hay làm việc, nó cứ nằm yên ở đó.",
+    "text": "NẰM YÊN Ở ĐÓ",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Tối nay, đỗ máy trước rồi mới ngồi vào mâm. Hiệp một.",
+    "text": "ĐỖ MÁY RỒI MỚI ĂN",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s47",
+  "mascot": "pen",
+  "title": "Why You Check \"Just in Case\"",
+  "mechanism": "Fear of missing out",
+  "lines": [
+   {
+    "vo": "You check again. Maybe something new. Maybe not.",
+    "text": "MAYBE SOMETHING NEW",
+    "actor": "worried_heart",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Not knowing can feel like you're missing out on something.",
+    "text": "WHAT IF I MISS IT?",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Each check soothes it for a moment, then the itch comes back.",
+    "text": "THE ITCH COMES BACK",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Try fixed check-in times instead. Noon, five, after dinner.",
+    "text": "CHECK AT SET TIMES",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Most things that matter will still be there at noon.",
+    "text": "STILL THERE AT NOON",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s47vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao cu mo nhom lop cho chac",
+  "title_vi": "Vì sao cứ mở nhóm lớp cho chắc",
+  "mechanism": "Fear of missing out",
+  "lines": [
+   {
+    "vo": "Mở nhóm lớp lần thứ mười. Vẫn chưa ai báo đổi lịch.",
+    "text": "LẦN THỨ 10",
+    "actor": "worried_heart",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Lỡ lớp trưởng nhắn mà mình không thấy thì sao?",
+    "text": "LỠ MÌNH BỎ LỠ?",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Mỗi lần mở ra thấy yên tâm một chút, rồi cái ngứa lại quay về.",
+    "text": "NGỨA LẠI QUAY VỀ",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Cái khó chịu không nằm ở tin nhắn, mà ở cảm giác không biết.",
+    "text": "SỢ VÌ KHÔNG BIẾT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Thử chọn giờ xem cố định: buổi trưa, buổi chiều, trước khi ngủ.",
+    "text": "XEM THEO GIỜ",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Nếu có đổi lịch thật, buổi trưa bạn vẫn kịp biết.",
+    "text": "TRƯA VẪN KỊP BIẾT",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s48",
+  "mascot": "buff",
+  "title": "Don't Let Autoplay Coach You",
+  "mechanism": "Default effect",
+  "lines": [
+   {
+    "vo": "You opened one lecture. Now you're watching a raccoon steal cereal.",
+    "text": "HOW DID I GET HERE?",
+    "actor": "confused_shrug",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "The next video started because you didn't stop it.",
+    "text": "YOU DIDN'T STOP IT",
+    "color": "red",
+    "actor": "sofa_scroll"
+   },
+   {
+    "vo": "Autoplay is a default. Defaults tend to win when we do nothing.",
+    "text": "DEFAULTS WIN",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Doing nothing isn't neutral. Someone else picked that setting.",
+    "text": "SOMEONE SET THIS",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Fix the setting before the session, not during.",
+    "text": "FIX IT BEFORE",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Autoplay off. One flick. Warm-up done.",
+    "text": "AUTOPLAY: OFF",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Now the video ends, and you decide what's next.",
+    "text": "YOU PICK NEXT",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "You're the coach now. Flip the switch before you press play.",
+    "text": "FLIP IT NOW",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s48vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung de tu dong phat dat mui",
+  "title_vi": "Đừng để tự động phát dắt mũi",
+  "mechanism": "Default effect",
+  "lines": [
+   {
+    "vo": "Mở bài giảng kinh tế vĩ mô. Bốn mươi phút sau: video mèo nấu cơm.",
+    "text": "BÀI GIẢNG ĐÂU RỒI?",
+    "actor": "confused_shrug",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Video sau tự chạy vì bạn không tắt nó. Thế thôi.",
+    "text": "TỰ CHẠY VÌ KHÔNG TẮT",
+    "color": "red",
+    "actor": "sofa_scroll"
+   },
+   {
+    "vo": "Cài sẵn thế nào, người ta thường để nguyên thế ấy.",
+    "text": "CÀI SẴN LÀ THẮNG",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Trước khi học, vào cài đặt, gạt tắt tự động phát.",
+    "text": "TẮT TỰ ĐỘNG PHÁT",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Một cú gạt là xong khởi động. Hết bài, bạn chọn, không phải máy.",
+    "text": "BẠN CHỌN BÀI TIẾP",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s49",
+  "mascot": "pen",
+  "title": "Why the Group Chat Feels Urgent",
+  "mechanism": "Social notification pressure",
+  "lines": [
+   {
+    "vo": "The group chat buzzes eleven times while you're on shift.",
+    "text": "BUZZ. BUZZ. BUZZ.",
+    "actor": "nervous_wave",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "It can feel like a summons, like everyone is waiting on you.",
+    "text": "FEELS LIKE A SUMMONS",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Most of it is memes and plans for next week.",
+    "text": "MOSTLY MEMES",
+    "actor": "bored_yawn",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Still, a buzz from friends tends to pull harder than one from an app.",
+    "text": "FRIENDS PULL HARDER",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Mute the chats that aren't urgent.",
+    "text": "MUTE THE NON-URGENT",
+    "color": "green",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "Tell the group: I read the chat at lunch and after six.",
+    "text": "LUNCH AND AFTER 6",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Would they really mind if you answered a little later?",
+    "text": "WOULD THEY MIND?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s49vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao tin nhan nhom nghe nhu goi gap",
+  "title_vi": "Vì sao tin nhắn nhóm nghe như gọi gấp",
+  "mechanism": "Social notification pressure",
+  "lines": [
+   {
+    "vo": "Đang đứng quầy pha trà sữa, túi quần rung liên hồi.",
+    "text": "RUNG LIÊN HỒI",
+    "actor": "nervous_wave",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Nhóm bạn thân đang bàn chuyện cuối tuần đi Đà Lạt.",
+    "text": "BÀN ĐI ĐÀ LẠT",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Cảm giác như cả nhóm đang chờ mỗi mình bạn.",
+    "text": "CẢ NHÓM ĐANG CHỜ?",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Tin từ bạn bè thường kéo mạnh hơn tin từ ứng dụng.",
+    "text": "BẠN BÈ KÉO MẠNH HƠN",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nhưng phần lớn là ảnh chế và câu hỏi chưa cần trả lời ngay.",
+    "text": "CHƯA CẦN NGAY",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Tắt thông báo nhóm trong giờ làm.",
+    "text": "TẮT THÔNG BÁO NHÓM",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Nhắn một câu: mình đọc tin lúc nghỉ trưa và sau ca.",
+    "text": "ĐỌC SAU CA",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Chuyến Đà Lạt vẫn chờ được tới lúc bạn tan ca.",
+    "text": "VẪN CHỜ ĐƯỢC",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s50",
+  "mascot": "buff",
+  "title": "Set a Scroll Exit Before You Start",
+  "mechanism": "Precommitment",
+  "lines": [
+   {
+    "vo": "Waiting for the bus. Just a few clips. Sure, buddy.",
+    "text": "JUST A FEW. SURE.",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Once the feed grabs you, stopping is the heaviest rep.",
+    "text": "STOPPING IS HEAVY",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Decide the exit while you're still fresh. Before the first swipe.",
+    "text": "DECIDE BEFORE",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Bus arrives, phone goes away. That's the deal.",
+    "text": "BUS ARRIVES: DONE",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Make it hard to break. Phone in the bag, zipped.",
+    "text": "PHONE IN THE BAG",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Set your exit before you start. Or the feed sets it for you.",
+    "text": "SET YOUR EXIT",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s50vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Chot diem dung truoc khi luot",
+  "title_vi": "Chốt điểm dừng trước khi lướt",
+  "mechanism": "Precommitment",
+  "lines": [
+   {
+    "vo": "Đứng chờ xe buýt, tự nhủ: xem vài video thôi. Ừ, tin.",
+    "text": "Ừ, VÀI VIDEO THÔI",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Xe tới, bạn lên xe, vẫn lướt. Lỡ luôn bến xuống.",
+    "text": "LỠ LUÔN BẾN",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Bị cuốn vào rồi thì dừng lại là hiệp nặng nhất.",
+    "text": "DỪNG LÀ HIỆP NẶNG",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Chốt điểm dừng từ lúc còn tỉnh, trước cú lướt đầu tiên.",
+    "text": "CHỐT TRƯỚC KHI LƯỚT",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Xe tới là cất máy. Luật là luật.",
+    "text": "XE TỚI = CẤT MÁY",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Cất vào ba lô, kéo khoá. Muốn lấy ra phải mất công.",
+    "text": "BA LÔ, KÉO KHOÁ",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Bạn tự chốt điểm dừng, hoặc bảng tin chốt hộ bạn.",
+    "text": "TỰ CHỐT ĐIỂM DỪNG",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ }
+]

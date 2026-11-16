@@ -1,0 +1,899 @@
+{
+ "id": "L12vi",
+ "lang": "vi",
+ "title": "Học kỹ năng khó thế nào để không thấy mình mãi đứng yên?",
+ "description": "Khi tự học kỹ năng mới sau giờ làm hay giờ học, bạn rất dễ thấy mình giậm chân tại chỗ. Đây là tám bước tháo gỡ bế tắc: luyện tập có chọn lọc (deliberate practice), dựng khung đỡ (scaffolding), vùng tập vừa tầm (zone of proximal development), mổ xẻ cách nghĩ (cognitive apprenticeship), lực cản cần thiết (desirable difficulties), đối chiếu tức thì (feedback loops), đưa vào đời thật (transfer-appropriate processing), và đo bằng tay nghề (mastery orientation). Cùng biến những buổi tối tự học thành tiến bộ thực chất.",
+ "chapters": [
+  {
+   "title": "Bẫy tự học",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn mua khóa học, cày hết bài giảng, nhưng mở màn hình trắng ra là đứng hình.",
+     "text": "BẪY TỰ HỌC",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tối nào cũng nản lòng vì học xong chẳng đọng lại được bao nhiêu.",
+     "text": "HỌC TRƯỚC QUÊN SAU",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn người ta nâng tạ thì cơ ngực bạn đâu tự nở ra được.",
+     "text": "KHÔNG LÊN CƠ ĐƯỢC",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như đứng trước núi cao mà không có lối đi hay bản đồ.",
+     "text": "BIẾT BẮT ĐẦU TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn không lười, chỉ là đang đi lòng vòng trong phòng tập vì thiếu giáo án.",
+     "text": "THIẾU GIÁO ÁN",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là tám hiệp chỉnh tư thế giúp bạn biến bài học thành phản xạ.",
+     "text": "BẮT ĐẦU VÀO BÀI",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Luyện tập có chọn lọc",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngồi vào bàn luyện vẽ, nhưng cả tiếng chỉ tỉa góc mặt quen thuộc mình đã vẽ thạo.",
+     "text": "1. LUYỆN CÓ CHỌN LỌC",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó không phải luyện tập, bạn chỉ đang khởi động mãi trong vùng êm ấm.",
+     "text": "BẪY KHỞI ĐỘNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao tay mình cứ vô thức làm những thứ dễ và quen thuộc nhỉ?",
+     "text": "VÙNG AN TOÀN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não muốn giữ sức, nên nó tự động trôi về những hiệp tập nhẹ tênh.",
+     "text": "TIẾT KIỆM NĂNG LƯỢNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn lên cơ thì phải luyện có chọn lọc, bóc tách đúng điểm yếu đang đuối.",
+     "text": "TÌM ĐÚNG ĐIỂM YẾU",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ vẽ lại cả bức tranh mà không nhắm đích cụ thể là phí sức sao?",
+     "text": "TỐN CÔNG VÔ ÍCH?",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khớp nào lỏng thì siết khớp đó. Bấm giờ mười lăm phút, chỉ dợt đúng một thế.",
+     "text": "CÔ LẬP KHỚP YẾU",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu vẽ tay bị đơ, mình vẽ hai mươi cái cổ tay thay vì vẽ cả người?",
+     "text": "CHIA NHỎ BÀI TẬP",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Nhồi đúng bài đó cho đến khi hết gượng và nét vẽ thật dứt khoát.",
+     "text": "TẬP ĐẾN KHI THUẦN",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tập thế tuy mệt nhưng tối nay mình biết rõ mục tiêu cần làm.",
+     "text": "RÕ RÀNG MỤC TIÊU",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi lại bài tập đó vào sổ trước khi tắt máy đi ngủ.",
+     "text": "GHI NHẬT KÝ TẬP",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi đã chọn bài khó, bạn cần dựng khung đỡ để không bị sập tạ.",
+     "text": "DỰNG KHUNG ĐỠ",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "2. Dựng khung đỡ",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ mở phần mềm lập trình thấy màn hình trắng trơn là đầu mình đứng sững.",
+     "text": "2. DỰNG KHUNG ĐỠ",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn đòi đẩy tạ nặng ngay buổi đầu mà không thèm cài then an toàn.",
+     "text": "KHÔNG CÀI THEN CHỐT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng lẽ mình không nên tự làm từ đầu để chứng minh đã hiểu?",
+     "text": "TỰ LÀM TỪ ĐẦU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ nhớ sẽ sập nếu vừa nhớ cú pháp, vừa phải lo cấu trúc dự án.",
+     "text": "QUÁ TẢI BỘ NHỚ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn cần dựng khung đỡ, mượn điểm tựa tạm thời gánh bớt độ nặng cho não.",
+     "text": "MƯỢN ĐIỂM TỰA TẠM",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giống như bắt đầu từ bản mẫu chạy tốt thay vì nhìn trang giấy trắng?",
+     "text": "DÙNG BẢN MẪU CÓ SẴN",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lấy một đoạn mẫu đang chạy tốt, xóa thử một hàm rồi tự tay viết lại hàm đó.",
+     "text": "SỬA TỪNG PHẦN NHỎ",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy kết quả chạy được ngay mà không sập hệ thống làm mình yên tâm hẳn.",
+     "text": "THỬ NGHIỆM AN TOÀN",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi đã vững tay, mỗi tuần tháo bớt một điểm tựa cho tới lúc tự làm.",
+     "text": "THÁO DẦN ĐIỂM TỰA",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dùng khung mẫu không phải ăn gian, mà là chia sức nâng thông minh cho não.",
+     "text": "PHÂN BỔ SỨC NÂNG",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Huấn luyện viên luôn đỡ tạ phụ cho tới khi cơ bạn tự giữ thăng bằng.",
+     "text": "ĐỠ TẠ ĐÚNG LÚC",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khung đỡ chắc rồi, giờ bạn phải chỉnh đúng độ nặng cho từng hiệp.",
+     "text": "CHỌN ĐÚNG ĐỘ NẶNG",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "3. Vùng tập vừa tầm",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tự học ngoại ngữ, câu chào hỏi thì chán ngắt, còn nghe đài bản xứ thì đuối.",
+     "text": "3. VÙNG TẬP VỪA TẦM",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn cứ nhảy qua lại giữa bể vầy trẻ con với biển sâu thì tiến sao được.",
+     "text": "NÉ BỂ VẦY VÀ BIỂN SÂU",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có một ranh giới rất mảnh giữa chán ngấy và cảm giác bị ngợp sao?",
+     "text": "RANH GIỚI VỪA TẦM",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là vùng cận phát triển, nằm kẹp giữa ngưỡng quá dễ và ngưỡng hoảng loạn.",
+     "text": "VÙNG CẬN PHÁT TRIỂN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bài tập nhỉnh hơn sức một chút, não sẽ căng ra ráng sức mà không đứt gãy.",
+     "text": "CĂNG MÀ KHÔNG GÃY",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra mới học ba tuần mà đòi cày phim không phụ đề chỉ làm mình mau nản.",
+     "text": "HÁM TẠ QUÁ SỨC",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là ham tạ nặng quá sức. Đau cơ tinh thần rồi bỏ cuộc trước cuối tuần.",
+     "text": "ĐAU CƠ TINH THẦN",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao chọn được bài đọc hay bài nghe đúng độ nặng vừa tầm đó?",
+     "text": "TÌM MỨC TẠ VỪA SỨC",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn bài bạn hiểu phần lớn, nhưng vẫn có vài chỗ mới cần ráng sức đoán.",
+     "text": "ĐỘ KHÓ TĂNG DẦN",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như vậy mình tập trung cao độ mà không bị cảm giác ngộp đè bẹp.",
+     "text": "TẬP TRUNG KHÔNG NGỢP",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cắm chốt tập ở mép ranh giới đó để não quen dần áp lực mới.",
+     "text": "GIỮ ĐÚNG RANH GIỚI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khó giữ ranh giới này nếu bạn chỉ mải nhìn thành phẩm bóng bẩy của người ta.",
+     "text": "ĐỪNG NHÌN THÀNH PHẨM",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "4. Mổ xẻ cách nghĩ",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Xem đàn anh dựng phim cắt ghép thoan thoắt, mình chẳng hiểu vì sao họ cắt vậy.",
+     "text": "4. MỔ XẺ CÁCH NGHĨ",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn chỉ mải ngắm bàn thắng mà quên nhìn chiến thuật của huấn luyện viên.",
+     "text": "CHỈ NGẮM HUY CHƯƠNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ chọn góc nhẹ tênh, còn mình tự cắt thì lúng túng và mất phương hướng.",
+     "text": "LÚNG TÚNG VỤNG VỀ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dân trong nghề làm lâu năm nên xử lý thành bản năng, chính họ cũng khó gọi tên.",
+     "text": "PHẢN XẠ ĐÃ THUẦN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn học lỏm chuẩn bài, phải xem người giỏi vừa làm vừa nói ra suy nghĩ trong đầu.",
+     "text": "PHƠI BÀY CÁCH NGHĨ",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là cần nghe họ nói về bản nháp bỏ đi, chứ không chỉ học bấm phím tắt?",
+     "text": "HIỂU LÝ DO ĐẰNG SAU",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tìm xem những buổi mổ xẻ dự án, nơi họ nói lý do gạt bỏ bốn phương án đầu.",
+     "text": "SOI TỪNG PHƯƠNG ÁN",
+     "color": "green",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy người giỏi cũng loay hoay căn nhịp làm mình bớt hoảng với đống nháp vụng.",
+     "text": "VẬT LỘN LÀ TỰ NHIÊN",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bắt chước cách chọn đó trong ba bài tới trước khi nghĩ đến phong cách riêng.",
+     "text": "MÔ PHỎNG CÁCH NGHĨ",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Học từ bản nháp lộn xộn dạy mình tư duy chẩn đoán thật, không phải mẹo vặt.",
+     "text": "HỌC CÁCH NGHĨ THẬT",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lấy khung tư duy trước đã. Kỹ thuật chưa vững mà đòi bay bổng là hỏng bài.",
+     "text": "CHẮC KỸ THUẬT TRƯỚC",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn bài học ngấm sâu, bạn phải bỏ ngay kiểu tự học êm ru không chút lực cản.",
+     "text": "TẠO RA LỰC CẢN",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "5. Lực cản cần thiết",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tối cày tài liệu lập trình thấy hiểu mười mươi, sáng ra mở máy lên công ty lại quên sạch.",
+     "text": "5. LỰC CẢN CẦN THIẾT",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đọc thụ động thì êm ru mượt mà, nên não mới quẳng ngay vào sọt rác.",
+     "text": "ẢO TƯỞNG THUẦN THỤC",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Học nhẹ nhàng không phải chứng tỏ kiến thức đang ngấm vào đầu sao?",
+     "text": "BẪY THOẢI MÁI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy dễ ợt thì não chỉ đang lừa bạn bằng cảm giác thạo ảo thôi.",
+     "text": "CẢM GIÁC THẠO ẢO",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn cần lực cản cần thiết, tạo độ khó vừa đủ để ép não phải tự lôi kiến thức ra.",
+     "text": "TẠO ĐỘ NẶNG CHO NÃO",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như việc đóng tài liệu lại rồi ép bản thân tự gõ lệnh từ trí nhớ?",
+     "text": "CHỦ ĐỘNG GỢI NHỚ",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Cảm giác nhọc óc đó chính là thanh tạ đang rèn thớ não bạn.",
+     "text": "GÁNH TẠ CHO ĐẦU ÓC",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng cày một dạng bài suốt một tiếng. Hãy đảo ba bài khác nhau trong một buổi.",
+     "text": "ĐỔI DẠNG BÀI TẬP",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhảy bài liên tục thấy hơi khựng, nhưng bù lại nhớ rất dai.",
+     "text": "GHI NHỚ BỀN VỮNG",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cách vài ngày hãy ôn lại, để não bị ép gợi nhớ sau thời gian hạ nhiệt.",
+     "text": "ÔN TẬP CẮT QUÃNG",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chật vật nhớ lại là dấu hiệu não đang lên cơ, không phải mình kém cỏi.",
+     "text": "VẬT LỘN ĐỂ LÊN TRÌNH",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhưng chật vật mù quáng sẽ vô ích nếu không có phản hồi chuẩn về lỗi sai.",
+     "text": "ĐO LƯỜNG SAI SỐ",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "6. Đối chiếu tức thì",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tự mày mò làm nhạc suốt ba tháng, mong bản thu nghe ra chất chuyên nghiệp.",
+     "text": "6. ĐỐI CHIẾU TỨC THÌ",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngồi phòng kín ba tháng là bạn đang tự khóa chặt tư thế sai thành tật.",
+     "text": "KHẮC SÂU THÓI XẤU",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại mình sợ người ta nghe xong lại chê bản thu nghe nghiệp dư quá.",
+     "text": "SỢ BỊ CHÊ BAI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cái tôi sợ bị chê, nhưng thiếu đối chiếu thì não biến lỗi sai thành tật.",
+     "text": "LỖI DỄ HÓA THÀNH TẬT",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vòng lặp ngắn cho bạn biết mình lệch ở đâu để nắn lại thế tập ngay.",
+     "text": "NẮN LẠI TƯ THẾ",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tự kiểm tra khách quan khi chỉ ngồi học một mình lúc nửa đêm?",
+     "text": "TỰ SOI LỖI MỘT MÌNH",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ vài phút bật bản chuẩn lên so để thấy ngay âm thanh bị đục ở đâu.",
+     "text": "SO VỚI BẢN CHUẨN",
+     "color": "green",
+     "actor": "reading",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bật phần mềm nghe và soi dải sóng giúp mình thấy ngay chỗ lệch mà không tự ái.",
+     "text": "THẤY LỖI TỨC THÌ",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉnh lại ngay khi còn nóng, đừng để lỗi sai đóng cứng thành xi măng trong đầu.",
+     "text": "SỬA KHI CÒN MỚI",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sửa lỗi nhỏ ngay lập tức giúp mình đỡ lo sau này phải đập đi xây lại.",
+     "text": "SỬA SỚM ĐỠ TỐN CÔNG",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ phải đảm bảo miếng đòn rèn trong phòng kín dùng tốt giữa đời thực ồn ào.",
+     "text": "RA NGOÀI ĐỜI THẬT",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "7. Đưa vào đời thật",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cày chuỗi hai trăm ngày trên ứng dụng, ra phố gặp khách nước ngoài là cứng họng.",
+     "text": "7. ĐƯA VÀO ĐỜI THẬT",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nằm ghế bấm trắc nghiệm thì sao rèn được phản xạ bật chữ trước mặt người ta.",
+     "text": "ẢO TƯỞNG TRẮC NGHIỆM",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao bao nhiêu từ vựng bốc hơi sạch ngay lúc người ta nhìn vào mắt mình?",
+     "text": "KHÔNG BẬT RA ĐƯỢC",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não chỉ bật chữ tốt khi lúc tập chịu đúng sự luống cuống ngoài đời thật.",
+     "text": "KHỚP VỚI THỰC CHIẾN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là xử lý tương thích, bài tập phải mang đúng áp lực và lộn xộn ngoài đời.",
+     "text": "XỬ LÝ TƯƠNG THÍCH",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tập mà cứ bấm nút dừng chỉ rèn cho mình một thực tế không có thật sao?",
+     "text": "BÀI TẬP PHI THỰC TẾ",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lên đài thế nào thì tập y vậy. Muốn nói trôi chảy thì bấm giờ gửi tin thoại.",
+     "text": "TẬP DƯỚI ÁP LỰC GIỜ",
+     "color": "green",
+     "actor": "front",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thay vì quẹt thẻ từ vựng, mình tự bấm giờ thu âm nhật ký nói ngoại ngữ?",
+     "text": "THU ÂM BẬT CHỮ NHANH",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Ép miệng phải nhả câu dưới áp lực thời gian trước khi bạn kịp tính.",
+     "text": "ÉP MIỆNG BẬT CÂU",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bỏ phao cứu sinh làm tim đập thình thịch, nhưng đầu óc nảy số nhanh hơn hẳn.",
+     "text": "BỎ PHAO CỨU SINH",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập quen với áp lực thật, bạn sẽ không bao giờ bị khớp khi ra thực tế.",
+     "text": "VỮNG VÀNG THỰC CHIẾN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cọ xát thực tế giúp mình xây dựng sự tự tin thật sự trước đám đông.",
+     "text": "TỰ TIN THỰC SỰ",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mọi bài tập sẽ đổ bể nếu thước đo trong đầu bạn chỉ mải săn tìm lời khen.",
+     "text": "THƯỚC ĐO BÊN TRONG",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "8. Đo bằng tay nghề",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ vẽ nét vụng về là mình lại tự ti, thấy bản thân không có năng khiếu.",
+     "text": "8. ĐO BẰNG TAY NGHỀ",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn dính bẫy khoe mẽ, thích tỏ ra có khiếu hơn là chăm chỉ tập từng hiệp.",
+     "text": "BẪY BIỂU DIỄN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cày cuốc cả buổi tối thì ai chẳng thèm được người khác khen ngợi một câu?",
+     "text": "THÈM ĐƯỢC KHEN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ham tiếng vỗ tay khiến bạn né tránh bài khó làm lộ tẩy điểm yếu của mình.",
+     "text": "NÉ TRÁNH ĐIỂM YẾU",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy đo bằng tay nghề, nơi tiến bộ tính bằng độ vững chứ không phải lời khen.",
+     "text": "ĐO BẰNG ĐỘ VỮNG TAY",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bản vẽ xấu không phải thất bại, mà là số liệu chỉ ra chỗ cần gọt giũa?",
+     "text": "BẢN VẼ LÀ DỮ LIỆU",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nâng hụt tạ vẫn làm cơ dày lên. Coi bản nháp vụng là lời nhắc miễn phí từ thực tế.",
+     "text": "BÀI HỌC MIỄN PHÍ",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chấm điểm buổi tập bằng việc dám chạm vào điểm yếu, đừng bận tâm hình đẹp để khoe.",
+     "text": "DÁM CHẠM ĐIỂM YẾU",
+     "color": "green",
+     "actor": "writing",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩ vậy nhẹ cả lòng, tự đánh giá bằng sự kiên trì thay vì chờ người khác khen.",
+     "text": "TẬP VÌ NỖ LỰC",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đếm số hiệp tạ đã nâng, đừng đếm lượt thả tim của người lạ trên mạng.",
+     "text": "ĐẾM SỐ HIỆP TẬP",
+     "color": "green",
+     "actor": "34",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tay nghề xây từ từng hiệp tập. Giờ hãy gom tám nguyên tắc vào lịch tập một tuần.",
+     "text": "LÊN LỊCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "Kế hoạch bảy ngày",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tám nguyên tắc cùng lúc nghe như một buổi tập quá nặng cho não bộ.",
+     "text": "KẾ HOẠCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gói vào ba trụ cột, dựng khung bài bản, tạo lực cản và thử lửa thực tế.",
+     "text": "BA TRỤ CỘT",
+     "color": "gold",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và thôi phán xét xem mình có giỏi giang ngay ngày đầu hay không?",
+     "text": "BỎ QUA CÁI TÔI",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Bạn chiến thắng khi âm thầm rèn giũa năng lực trong bóng tối.",
+     "text": "LUYỆN TRONG BÓNG TỐI",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao biến ba trụ cột thành hành động cụ thể sau giờ làm tối mai?",
+     "text": "BẮT ĐẦU TỪ TỐI MAI",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tách kỹ năng thành ba phần nhỏ, tối nay dợt một phần mười lăm phút rồi ghi lại lỗi.",
+     "text": "CHIA NHỎ VÀ TẬP ĐỀU",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi tối mười lăm phút tập đúng một khớp yếu. Rất nhẹ nhàng và làm được ngay.",
+     "text": "VỪA SỨC DỄ LÀM",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Muốn cùng rèn luyện để làm chủ kỹ năng khó, bấm đăng ký kênh đồng hành cùng tụi mình nhé.",
+     "text": "ĐỒNG HÀNH MỖI TUẦN",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

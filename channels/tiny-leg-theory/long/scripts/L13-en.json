@@ -1,0 +1,945 @@
+{
+ "id": "L13",
+ "lang": "en",
+ "title": "Why You Freeze on Exams: 8 Brain Traps and How to Beat Them",
+ "description": "Ever blank out on a test you studied hard for? Here are eight psychological reasons your brain freezes under pressure and how to fix each one. Learn simple routines to keep your memory sharp when it counts.",
+ "chapters": [
+  {
+   "title": "Why You Freeze",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You studied every night for semester finals, but when the test begins, your mind goes blank.",
+     "text": "WHY YOU FREEZE",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Do not panic, buddy. Your intelligence did not vanish, but your mental system locked up.",
+     "text": "SYSTEM LOCKUP",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does preparation vanish during high stakes semester finals or job recruitment exams?",
+     "text": "WHERE DID IT GO?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here are eight reasons your brain freezes under pressure, and how to outsmart them.",
+     "text": "EIGHT BRAIN TRAPS",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Can we actually train our nervous system to stay reliable when the clock ticks?",
+     "text": "PRESSURE PROOF?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Absolutely, buddy. Just like in the gym, we build pressure tolerance rep by rep.",
+     "text": "BUILD THE ARMOR",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Working Memory",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I open my semester final, and intrusive thoughts about failing immediately flood my mind.",
+     "text": "1. WORKING MEMORY",
+     "color": "red",
+     "actor": "panic",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Classic mistake, buddy. That anxious internal chatter burns up your active mental processing power.",
+     "text": "STOLEN BANDWIDTH",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I start calculating passing grades instead of solving the first problem on the page.",
+     "text": "GRADE WORRIES",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Psychologists call this working memory depletion. Your conscious mind has strictly limited workspace slots.",
+     "text": "LIMITED SLOTS",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So worrying about my future literally crowds out the formulas I spent weeks memorizing?",
+     "text": "CROWDED OUT",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Anxiety runs heavy background tasks, leaving almost zero working memory for complex logic.",
+     "text": "ZERO CAPACITY",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I protect my limited mental slots before entering the testing hall?",
+     "text": "PROTECT THE SLOTS",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ten minutes before the test, spend five minutes writing down your worries on paper.",
+     "text": "EXPRESSIVE WRITING",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does spilling my panic onto scratch paper stop intrusive thoughts during the exam?",
+     "text": "OFFLOAD PANIC",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests offloading fears before testing frees up working memory for difficult questions.",
+     "text": "BANDWIDTH RESTORED",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Clearing the mental static early leaves full bandwidth for solving the actual questions.",
+     "text": "CLEARED WORKSPACE",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your working memory is safe, but high stakes can still trigger sudden mental shutdown.",
+     "text": "THE NEXT THREAT",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Choking Pressure",
+   "sources": [
+    "s01",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "During my timed certification test, a standard problem suddenly makes my mind lock up.",
+     "text": "2. CHOKING PRESSURE",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is choking under pressure, buddy. High stakes split attention between tasks and panic.",
+     "text": "EXECUTIVE HIJACK",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I practiced these steps for weeks, but suddenly I cannot connect basic logic.",
+     "text": "FROZEN LOGIC",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When fear strikes, executive control divides between solving questions and monitoring fear of failure.",
+     "text": "ATTENTION SPLIT",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So half my brain is obsessing over failure instead of executing analytical steps?",
+     "text": "DOUBLE TRACKING",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Your central executive cannot parse multi-step logic while fighting an internal panic alarm.",
+     "text": "LOST FOCUS",
+     "color": "red",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When that mental paralysis hits during a test question, how do I recover?",
+     "text": "BREAK THE FREEZE",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Stop staring at the paragraph. Pick up your pencil and copy the given numbers.",
+     "text": "MECHANICAL RESTART",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Just writing down the raw data and target variable gets my hands moving?",
+     "text": "EXTRACTING DATA",
+     "color": "gold",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mechanical data extraction quiets self-monitoring chatter and pulls executive focus back into flow.",
+     "text": "REBOOTING FLOW",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Breaking the freeze into tiny physical steps lets my trained problem solving restart.",
+     "text": "MOMENTUM REGAINED",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Focus is restored, but watch out: pushing bodily arousal too high snaps your engine.",
+     "text": "THE AROUSAL TRAP",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Yerkes-Dodson Law",
+   "sources": [
+    "s01",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Before my corporate recruitment assessment, I drank two large energy drinks for sharp alertness.",
+     "text": "3. YERKES-DODSON",
+     "color": "red",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You redlined your engine before the green flag. That is the Yerkes-Dodson law in action.",
+     "text": "REDLINED ENGINE",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My pulse hammered against my ribs, and my shaking eyes could not track sentences.",
+     "text": "RACING PULSE",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Performance follows an inverted curve: you need alert energy, but excessive adrenaline collapses reasoning.",
+     "text": "THE AROUSAL CURVE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So being sluggish hurts, but being flooded with stimulants completely shatters complex logic?",
+     "text": "TOO MUCH FUEL",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Drowsy brains miss key details, but overstimulated nervous systems cannot hold formulas in sequence.",
+     "text": "OVERSTIMULATED",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When my heart is pounding at my desk, how do I bring it down?",
+     "text": "DOWN REGULATE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Take two physiological sighs: two quick inhales through your nose, then a long exhale.",
+     "text": "PHYSIOLOGICAL SIGH",
+     "color": "green",
+     "actor": "meditating",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That immediate breath reset slows my heart rate before I tackle the test?",
+     "text": "RESET HEART RATE",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then solve two easy warm-up questions first to lock your focus into rhythm.",
+     "text": "MOMENTUM REPS",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Calming my body first, then building early momentum, keeps my mind in the sweet spot.",
+     "text": "THE SWEET SPOT",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your heart rate is steady, yet an invisible courtroom inside your skull is judging you.",
+     "text": "THE INNER TRIAL",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Evaluative Threat",
+   "sources": [
+    "s01",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Whenever the proctor paces past my desk during a licensing exam, cold dread strikes.",
+     "text": "4. EVALUATIVE THREAT",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That suffocating feeling is evaluative threat, buddy. You turned written paper into an existential trial.",
+     "text": "EXISTENTIAL TRIAL",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My mind tells me that one weak score will ruin my reputation and future.",
+     "text": "CATASTROPHIC DREAD",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research shows our brains treat being judged inadequate as a direct threat to social security.",
+     "text": "SOCIAL THREAT",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So my nervous system reacts to an exam paper like a personal survival emergency?",
+     "text": "FALSE EMERGENCY",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. Your stress wiring confuses negative social evaluation with immediate danger to life.",
+     "text": "EVALUATION ALARM",
+     "color": "ink",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I teach my brain that a test score does not define me?",
+     "text": "REDUCING STAKES",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Reframe the exam as a training scrimmage. It measures current preparation, not your personal worth.",
+     "text": "PRACTICE SCRIMMAGE",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And when my heart starts beating fast, how should I interpret that surge?",
+     "text": "HEART SURGE",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tell yourself that your adrenaline is performance fuel, actively priming your brain to compete.",
+     "text": "PERFORMANCE FUEL",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Seeing the exam as an athletic scrimmage turns paralyzing fear into sharp, focused energy.",
+     "text": "SCRIMMAGE MINDSET",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your mind is calm, but watch what happens when a critical fact slips out of reach.",
+     "text": "LOCKED MEMORIES",
+     "color": "ink",
+     "actor": "front",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "Retrieval Cues",
+   "sources": [
+    "s01",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I stare at a technical certification question, knowing I studied the exact formula yesterday.",
+     "text": "5. RETRIEVAL CUES",
+     "color": "red",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You lost your retrieval cues, buddy. The knowledge is in your mental filing cabinet without handles.",
+     "text": "LOST FILE HANDLE",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I remember the blue highlight and margin notes, but the actual equation completely vanished.",
+     "text": "TIP OF THE TONGUE",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Memories rely on associative pathways. When stress cuts those links, access to stored information stalls.",
+     "text": "BROKEN PATHWAYS",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And glaring at that empty answer box gives my brain zero cues to pull from?",
+     "text": "BLANK PAGE TRAP",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "None at all. Staring at blank paper only deepens panic and reinforces feelings of helplessness.",
+     "text": "HELPLESS STARES",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I mechanically rebuild an associative search path back to that missing formula?",
+     "text": "REBUILD THE PATH",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Scan the exam for question stems sharing related topics, and write their units on scrap paper.",
+     "text": "ASSOCIATION LADDER",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Those surrounding keywords and units act like stepping stones leading straight to the target memory?",
+     "text": "STEPPING STONES",
+     "color": "gold",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Priming related concepts from neighboring questions sparks the associative network to release the answer.",
+     "text": "NETWORK SPARKED",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Scanning for related cues turns helpless blanking into a methodical, active detective search.",
+     "text": "DETECTIVE SEARCH",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Retrieval is running, but you cannot harvest answers you never encoded under realistic demands.",
+     "text": "ENCODING REALITY",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Encoding Match",
+   "sources": [
+    "s01",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "For my semester finals, I studied lounging on my couch, highlighting notes while playing music.",
+     "text": "6. ENCODING MATCH",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Welcome to encoding specificity, buddy. You trained in comfort and expected to perform under fire.",
+     "text": "COMFORT TRAP",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I felt confident highlighting notes at home, but in the silent exam room, my recall vanished.",
+     "text": "SILENT ROOM SHOCK",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests recall peaks when cognitive demands during practice mirror the actual demands of testing.",
+     "text": "MATCH THE DEMAND",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So recognizing an answer while reading notes is completely different from generating it from scratch?",
+     "text": "RECOGNITION GAP",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Passive recognition is easy. It is like watching someone lift weights and expecting your muscles to grow.",
+     "text": "SPECTATOR REPS",
+     "color": "ink",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How should I structure study sessions so practice matches the cognitive strain of the exam?",
+     "text": "ACTIVE PRACTICE",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Close all books, set a timer, and force yourself to write answers from memory.",
+     "text": "CLOSED BOOK DRILLS",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Practicing active recall under a ticking stopwatch builds the exact cognitive muscle needed for exams?",
+     "text": "COGNITIVE MUSCLE",
+     "color": "gold",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Every single time. Encoding through effortful retrieval makes your knowledge accessible when test pressure hits.",
+     "text": "EFFORTFUL RETRIEVAL",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Train the actual cognitive task in practice, so testing feels like familiar execution.",
+     "text": "TRAIN LIKE GAMEDAY",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your study drills are active, yet the physical walls around you can quietly hijack recall.",
+     "text": "SURROUNDING WALLS",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Context Memory",
+   "sources": [
+    "s01",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "When I quiz myself in my quiet bedroom, licensing exam answers roll off my tongue.",
+     "text": "7. CONTEXT MEMORY",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is context-dependent memory, buddy. Your brain unconsciously tethered study material to bedroom surroundings.",
+     "text": "ROOM DEPENDENCY",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then I walk into an echoing, unfamiliar testing hall, and my memory stalls out completely.",
+     "text": "FOREIGN HALL SHOCK",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Desk textures, room acoustics, and lighting act as environmental retrieval hooks for newly formed memories.",
+     "text": "ENVIRONMENT HOOKS",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And when I enter that strange exam hall, all my familiar environmental hooks disappear?",
+     "text": "HOOKS VANISHED",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "They vanish completely. Your brain struggles because the physical scenery no longer provides automatic recall.",
+     "text": "SCENERY STRIPPED",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I cannot haul my bedroom desk into the certification center, so how do I prepare?",
+     "text": "PORTABLE MEMORY?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rotate your study locations. Practice across two different quiet spots, like a library or classroom.",
+     "text": "ROTATE LOCATIONS",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What should I do if I blank out while trapped at that unfamiliar testing desk?",
+     "text": "TRAPPED IN THE HALL",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Take thirty seconds to picture the exact page layout and handwriting where you solved that problem.",
+     "text": "MENTAL REINSTATE",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mentally visualizing my study notes reinstates those visual anchors and unlocks the missing memory.",
+     "text": "ANCHORS RESTORED",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You mastered the room, but your internal biological storm can still blindside your memory.",
+     "text": "INTERNAL STORM",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "State Memory",
+   "sources": [
+    "s01",
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I reviewed for my certification test in total peace, wrapped in blankets sipping warm tea.",
+     "text": "8. STATE MEMORY",
+     "color": "ink",
+     "actor": "snack",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is state-dependent memory, buddy. You encoded information in peace, but retrieve in combat.",
+     "text": "PEACE VERSUS COMBAT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "On test morning, my hands tremble with adrenaline, and my recall locks up tight.",
+     "text": "ADRENALINE SHAKES",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Internal chemistry acts as a retrieval filter. Stress hormones alter neural circuits, blocking calm memories.",
+     "text": "HORMONAL FILTER",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So memories formed while completely relaxed become hard to reach when my pulse is racing?",
+     "text": "LOCKED BY PULSE",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. Your brain struggles to access peaceful pathways while an internal emergency siren screams.",
+     "text": "INTERNAL SIREN",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I make knowledge accessible even when my body pumps out stress hormones?",
+     "text": "ACCESS UNDER FIRE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Do thirty seconds of jumping jacks or brisk stairs right before starting timed practice drills.",
+     "text": "PULSE DRILLS",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Practicing test questions while my heart is pumping trains my brain to retrieve under pressure?",
+     "text": "STRESS INOCULATION",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Elevated heart rate practice inoculates your nervous system, turning adrenaline into familiar operating conditions.",
+     "text": "OPERATING NORM",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So on test day, an elevated pulse feels like normal workout fuel rather than a threat.",
+     "text": "NORMALIZED PULSE",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You tamed the adrenaline, buddy. Now let us assemble your complete exam battle blueprint.",
+     "text": "THE FINAL BLUEPRINT",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "The Game Plan",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Mastering exams is not lucky genetics, buddy. It comes down to three core training pillars.",
+     "text": "THE GAME PLAN",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Pillar one: protect working memory with ten minutes of expressive writing before entering the hall.",
+     "text": "1. PROTECT MEMORY",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pillar two: defeat blanks by extracting given data and scanning nearby questions for retrieval cues.",
+     "text": "2. REBUILD CUES",
+     "color": "gold",
+     "actor": "writing"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Pillar three: eliminate test shock by practicing active recall at unfamiliar desks with elevated pulse.",
+     "text": "3. MATCH THE TEST",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That replaces blind panic with an athletic system you can execute under genuine exam pressure.",
+     "text": "ATHLETIC SYSTEM",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do we build these three pillars into our routine over the next week?",
+     "text": "WEEKLY ROUTINE?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here is your seven day challenge: complete one twenty minute timed practice test at unfamiliar desks.",
+     "text": "7 DAY CHALLENGE",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And do thirty seconds of jumping jacks first to prove I can retrieve answers under adrenaline?",
+     "text": "TRAIN UNDER PULSE",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Build the habit in training, and test day becomes just another workout you already mastered.",
+     "text": "OWN THE WORKOUT",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Subscribe to Tiny Leg Theory for more practical psychology breakdowns every single week.",
+     "text": "SUBSCRIBE FOR MORE",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

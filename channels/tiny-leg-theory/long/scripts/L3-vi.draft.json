@@ -1,0 +1,811 @@
+{
+ "id": "L3vi",
+ "lang": "vi",
+ "title": "Thói quen bền lâu: Xây nếp sống hợp ngày thường",
+ "description": "Thói quen dễ lặp lại hơn khi có tín hiệu rõ, hợp với môi trường thật và vẫn làm được trong ngày bận. Pen và Buff cùng tìm cách tạo nếp sống có thể quay lại sau ngày lỡ, lịch đổi và lúc hết hứng.",
+ "chapters": [
+  {
+   "title": "Mở đầu",
+   "sources": [
+    "s15",
+    "s16",
+    "s62"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn mua sổ mới để tập đọc, rồi để nó nằm im dưới chồng hóa đơn.",
+     "text": "THÓI QUEN MỚI, BIẾN MẤT?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn không cần đổi tính. Bạn cần một nếp sống hợp với ngày thường của mình.",
+     "text": "HỢP NGÀY THƯỜNG",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lúc hăng, tôi lên kế hoạch lớn. Tan làm về mệt, tôi lại quên mất.",
+     "text": "NGÀY BÌNH THƯỜNG",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ta sẽ xem chín lý do thói quen biến mất, và cách chỉnh nhỏ để dễ lặp lại.",
+     "text": "CHÍN CÁCH CHỈNH",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có khi đều đặn không phải do tính cách. Có khi bước kế tiếp chỉ cần dễ tìm hơn.",
+     "text": "TÌM BƯỚC KẾ TIẾP",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cho thói quen một chỗ, một tín hiệu, và một bản vẫn làm được lúc bận.",
+     "text": "BẮT ĐẦU BẰNG TÍN HIỆU",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "1. GẮN VỚI TÍN HIỆU",
+   "sources": [
+    "s15",
+    "s16",
+    "s61"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Một. Gắn với tín hiệu.",
+     "text": "1. GẮN VỚI TÍN HIỆU",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi định đọc nhiều hơn, nhưng ngày cứ kín lịch trước khi tôi nhớ đến sách.",
+     "text": "NGÀY CỨ KÍN LỊCH",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thói quen dễ bắt đầu hơn khi một khoảnh khắc cụ thể nhắc bạn làm.",
+     "text": "TÍN HIỆU GỢI BẮT ĐẦU",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi cứ tự nhắc phải nhớ, như thể mai đầu óc bận sẽ thành trợ lý giỏi.",
+     "text": "ĐẦU ÓC CŨNG BẬN",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tín hiệu rõ giúp hơn lời hứa mơ hồ. Đặt việc đó vào nếp sống sẵn có.",
+     "text": "CHỌN LÚC CỤ THỂ",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Uống xong cà phê sáng, tôi có thể đọc một trang ở bàn ăn. Nhỏ thật.",
+     "text": "UỐNG XONG CÀ PHÊ",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tốt. Cà phê xong thì mở sách. Tín hiệu chốt giúp bạn khỏi cân nhắc.",
+     "text": "CÀ PHÊ XONG, ĐỌC SÁCH",
+     "color": "gold",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi còn có thể để sách cạnh cốc, trước khi buổi sáng bắt đầu ồn ào.",
+     "text": "SÁCH CẠNH CỐC",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gắn vào việc vẫn xảy ra, đừng chọn một giờ đẹp mà lịch đổi liên tục.",
+     "text": "GẮN VÀO NẾP SẴN CÓ",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy câu hỏi không phải là tôi có hứng không. Mà là lúc nào mở trang đầu.",
+     "text": "TÌM ĐÚNG KHOẢNH KHẮC",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiếp theo, ta làm tín hiệu dễ thấy, dù phòng, lịch hay cuối tuần có đổi.",
+     "text": "LÀM TÍN HIỆU DỄ THẤY",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "2. ĐỂ TRONG TẦM MẮT",
+   "sources": [
+    "s18",
+    "s55",
+    "s59",
+    "s65"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hai. Để trong tầm mắt.",
+     "text": "2. ĐỂ TRONG TẦM MẮT",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thảm giãn cơ nằm trong tủ. Ở nhà tôi quên, về quê là nếp tập mất luôn.",
+     "text": "TẤM THẢM BIẾN MẤT",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Căn phòng, đồ vật và thứ tự việc làm đều có thể nhắc bạn.",
+     "text": "KHÔNG GIAN NHẮC BẠN",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hơi ngượng khi nhận ra cái đèn với tấm thảm đã nhớ hộ tôi.",
+     "text": "CĂN PHÒNG CÓ ÍCH",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để đồ hữu ích lộ ra. Giày cạnh cửa, sách trên gối, bình nước trên bàn.",
+     "text": "ĐỂ NGAY TRƯỚC MẮT",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng nếu tôi cần đúng một phòng, đúng một giờ, thì sao khi nếp sống đổi?",
+     "text": "KHI TÍN HIỆU ĐỔI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn tín hiệu đi theo bạn. Đánh răng, về tới nhà, hay ăn bữa đầu.",
+     "text": "CHỌN TÍN HIỆU DI ĐỘNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngày làm ca khác giờ, nhưng tối nào tôi cũng nằm xuống. Đọc hai trang sau đó.",
+     "text": "NẰM XUỐNG RỒI ĐỌC",
+     "color": "green",
+     "actor": "bed_phone_night",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cuối tuần cũng cần tín hiệu riêng. Pha cà phê sáng thứ bảy rồi mở sách.",
+     "text": "CUỐI TUẦN CẦN TÍN HIỆU",
+     "color": "gold",
+     "actor": "coffee",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi có thể làm tín hiệu rõ mà linh hoạt, thay vì trách mình khi nếp cũ mất.",
+     "text": "LINH HOẠT NẾP SỐNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tín hiệu dễ thấy giúp bạn bắt đầu. Giờ làm bước đầu nhẹ hơn, khỏi cần hăng máu.",
+     "text": "GIẢM SỨC ĐỂ BẮT ĐẦU",
+     "color": "gold",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "3. BẮT ĐẦU CHO DỄ",
+   "sources": [
+    "s56",
+    "s58",
+    "s60",
+    "s66"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ba. Bắt đầu cho dễ.",
+     "text": "3. BẮT ĐẦU CHO DỄ",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đêm, tôi vạch buổi sáng hoàn hảo: chạy bộ, đọc lâu, làm hết việc nhà.",
+     "text": "KẾ HOẠCH NỬA ĐÊM",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sáng ra năng lượng khác hẳn. Khoảng cách giữa lúc hăng và lúc mệt có thật.",
+     "text": "SÁNG RA KHÁC HẲN",
+     "color": "gold",
+     "actor": "snooze",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lúc còn khỏe, kế hoạch thấy nhẹ tênh. Chuông reo thì nó hóa thành núi.",
+     "text": "HIỆP NẶNG QUÁ",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lên kế hoạch cho người sẽ phải làm. Bớt việc đi, chốt bước đầu cho rõ.",
+     "text": "CẮT BỚT DANH SÁCH",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi không thích máy chạy bộ, nhưng thích chương trình mình hay nghe. Để dành khi đi bộ.",
+     "text": "ĐỂ DÀNH CHƯƠNG TRÌNH",
+     "color": "ink",
+     "actor": "think",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghép việc cần làm với món bạn thích. Món vui kéo bạn vào hiệp tập.",
+     "text": "GHÉP VIỆC VỚI NIỀM VUI",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu chỉ cần chạm một cái, tôi thường làm trước khi kịp nghĩ.",
+     "text": "CHỈ MỘT CÚ CHẠM",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thêm chút phiền cho thói quen xấu. Đăng xuất, xóa thẻ, giấu ứng dụng.",
+     "text": "THÊM MỘT BƯỚC CẢN",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cơn muốn mua vẫn tới, tôi úp máy xuống, đếm chậm rồi mới chọn.",
+     "text": "DỪNG TRƯỚC KHI CHỌN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Việc tốt thì tiện, việc bốc đồng thì bớt tự động. Giờ theo dõi từng hiệp.",
+     "text": "ĐẾM TỪNG HIỆP",
+     "color": "gold",
+     "actor": "dumbbell",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "4. ĐẾM TỪNG HIỆP NHỎ",
+   "sources": [
+    "s30",
+    "s63",
+    "s67"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bốn. Đếm từng hiệp nhỏ.",
+     "text": "4. ĐẾM TỪNG HIỆP NHỎ",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đọc xong một trang vui hơn lời hứa một ngày nào đó đọc hết cuốn sách.",
+     "text": "MỘT TRANG CŨNG TÍNH",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi nhận tiến độ giúp bạn thấy công sức đang cộng dồn.",
+     "text": "NHÌN THẤY TIẾN ĐỘ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi có thể ghi số trang đã đọc, hay số buổi đi bộ mình làm được.",
+     "text": "GHI VIỆC BẠN LÀM",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đếm thứ nằm trong tay bạn. Vạch đích còn xa, hiệp hôm nay ở ngay đây.",
+     "text": "HIỆP HÔM NAY Ở ĐÂY",
+     "color": "gold",
+     "actor": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng nếu tôi chấm điểm mọi thứ, sở thích lại giống bài tập về nhà.",
+     "text": "VUI MÀ CŨNG CHẤM ĐIỂM",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Với vài người, phần thưởng bên ngoài làm niềm vui ban đầu nhỏ lại.",
+     "text": "CHỪA CHỖ ĐỂ VUI",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có lẽ tôi giữ một phần vẽ cho riêng mình, không đăng bài hay đếm lượt thích.",
+     "text": "CHỪA CHỖ ĐỂ CHƠI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng chấm một lựa chọn hợp lý chỉ bằng kết quả. Trời mưa với vận may cũng chen vào.",
+     "text": "XEM LẠI CÁCH LÀM",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu kế hoạch hợp lý với điều tôi biết, một kết quả dở không chứng minh nó ngốc.",
+     "text": "MỘT KẾT QUẢ CHƯA ĐỦ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi hành động, giữ niềm vui khỏi bảng điểm. Giờ ta nói về những ngày lỡ.",
+     "text": "GIỮ MẠCH THÓI QUEN",
+     "color": "gold",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "5. QUAY LẠI SAU NGÀY LỠ",
+   "sources": [
+    "s17",
+    "s62",
+    "s64",
+    "s69"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Năm. Quay lại sau ngày lỡ.",
+     "text": "5. QUAY LẠI SAU NGÀY LỠ",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi nghỉ một buổi tập, thấy chuỗi đứt, rồi nghĩ luôn là hết.",
+     "text": "CHUỖI ĐÃ ĐỨT",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thói quen lớn lên nhờ tập lặp lại trong hoàn cảnh quen. Một ngày lỡ không xóa hiệp cũ.",
+     "text": "LỠ MỘT NGÀY KHÔNG SAO",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi quay lại ở tín hiệu kế tiếp, đâu cần đợi thứ hai làm lễ bắt đầu lại.",
+     "text": "QUAY LẠI Ở TÍN HIỆU KẾ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đặt mức sàn cho ngày bận. Không kham nổi cả buổi thì chọn bản nhỏ nhất.",
+     "text": "ĐẶT MỨC SÀN NHỎ",
+     "color": "green",
+     "actor": "dumbbell",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kế hoạch là mười cái hít đất, nhưng một cái vẫn giữ tôi trong nhịp.",
+     "text": "MỘT HIỆP VẪN TÍNH",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng coi buổi tốt như điểm để đổi lấy lần nghỉ. Nó chỉ là một hiệp.",
+     "text": "THẮNG MỘT HIỆP THÔI",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lúc đang vui vì tập xong, tôi ghi luôn buổi kế tiếp vào lịch.",
+     "text": "CHỐT BUỔI TẬP KẾ",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bắt đầu mới có ích, nhưng bước nhỏ hôm nay đâu cần chờ sang tuần.",
+     "text": "ĐỪNG ĐỢI THỨ HAI",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Câu hỏi hay hơn là: tín hiệu nào tiếp theo mình có thể dùng?",
+     "text": "TÌM TÍN HIỆU TIẾP THEO",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lỡ, quay lại, lặp tiếp. Giờ tính cả người bên cạnh và những thứ gây xao nhãng.",
+     "text": "HỢP VỚI THẾ GIỚI CỦA BẠN",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "6. MƯỢN NẾP TỐT",
+   "sources": [
+    "s57",
+    "s54",
+    "s61"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sáu. Mượn nếp tốt.",
+     "text": "6. MƯỢN NẾP TỐT",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bạn cùng phòng tối nào cũng học. Tôi chẳng ai nhắc mà cũng mở vở ngồi cạnh.",
+     "text": "CĂN PHÒNG TẠO NHỊP",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ta hay bắt chước điều trông có vẻ bình thường quanh mình. Người bên cạnh giúp ta bắt đầu.",
+     "text": "NGƯỜI QUANH TA TẠO NẾP",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ảnh hưởng cũng có chiều ngược. Cả nhà lướt máy sau bữa tối, tôi cũng thấy bình thường.",
+     "text": "NẾP QUEN LAN RA",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mượn có chủ đích. Ngồi cạnh người đọc, nấu cùng bạn, hay đi bộ theo nhóm.",
+     "text": "CHỌN NGƯỜI ĐỒNG HÀNH",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sự chú ý của tôi cũng có môi trường. Mở máy xem trời, lát sau lạc sang nơi khác.",
+     "text": "ĐIỆN THOẠI CHỌN VIỆC",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trước khi mở khóa, gọi tên việc cần làm. Nhắn bạn xong thì tắt ứng dụng.",
+     "text": "GỌI TÊN VIỆC CẦN LÀM",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lời nhắc cần nằm đúng chỗ tôi hành động. Bình nước trên bàn dễ thấy hơn trong đầu.",
+     "text": "ĐỂ ĐÚNG CHỖ HÀNH ĐỘNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không gian gợi nhắc, làm xao nhãng, rồi biến việc thành bình thường. Sắp xếp cho có lợi.",
+     "text": "SẮP XẾP KHÔNG GIAN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy chọn thói quen nào để tôi tin mình còn lặp lại, kể cả lúc thiếu tự tin?",
+     "text": "TỰ TIN ĐẾN TỪ HIỆP TẬP",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bắt đầu bằng việc làm xong được. Ta xây tự tin từ bằng chứng, không lời hứa lớn.",
+     "text": "BẮT ĐẦU BẰNG HIỆP VỪA SỨC",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "7. TẠO BẰNG CHỨNG",
+   "sources": [
+    "s68",
+    "s70",
+    "s72",
+    "s71"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bảy. Tạo bằng chứng.",
+     "text": "7. TẠO BẰNG CHỨNG",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Buổi tập đầu kéo dài cả tiếng. Sướng thật, rồi tôi nghỉ mấy ngày.",
+     "text": "BUỔI TẬP ANH HÙNG",
+     "color": "ink",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Buổi tập anh hùng khó lặp lại. Tự tin lớn từ việc nhỏ mà bạn làm được nhiều lần.",
+     "text": "LẶP LẠI MỚI TIN",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ba buổi đi bộ nhẹ có khi cho tôi nhiều bằng chứng hơn một buổi gồng.",
+     "text": "HIỆP NHẸ CŨNG CỘNG DỒN",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn thử thách hơi nhỉnh hơn mức dễ, rồi ghi lại lúc làm xong. Cứ thế cộng dồn.",
+     "text": "GHI VIỆC ĐÃ LÀM",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi có thể tập một phần yếu trong bài thuyết trình, khỏi đợi tự tin mới làm.",
+     "text": "TẬP MỘT PHẦN THÔI",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là mục tiêu rèn kỹ năng. Tập có chủ đích trước, điểm số tính sau.",
+     "text": "TẬP TRƯỚC, CHẤM SAU",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi đã viết bản nháp thì vẫn sửa được. Công sức bỏ ra không làm câu nào bất khả xâm phạm.",
+     "text": "BẢN ĐẦU CỨ SỬA",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi bản nháp là thứ đang làm, không phải chân dung của bạn. Góp ý giúp hiệp sau tốt hơn.",
+     "text": "BÀI LÀM CÓ THỂ ĐỔI",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tập ít nghe không hoành tráng, nhưng mai tôi có việc thật để lặp lại.",
+     "text": "BẰNG CHỨNG THẬT, LẶP LẠI",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi tín hiệu, bước dễ, hiệp kế vào một kế hoạch. Rồi thử trong bảy ngày.",
+     "text": "LÊN KẾ HOẠCH BẢY NGÀY",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Tóm tắt",
+   "sources": [
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s30",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Một là gắn thói quen với tín hiệu và địa điểm dễ thấy, đủ ổn định cho ngày thật.",
+     "text": "TÍN HIỆU, CHỖ, NẾP SỐNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai là giảm sức bắt đầu. Hạ mức sàn, ghép việc với niềm vui, thêm bước cản cho cơn bốc đồng.",
+     "text": "LÀM HIỆP TẬP DỄ HƠN",
+     "color": "gold",
+     "actor": "dumbbell",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ba là tạo bằng chứng bằng cách tập vừa sức. Đếm việc mình làm, quay lại sau ngày lỡ.",
+     "text": "BẰNG CHỨNG TẠO NẾP",
+     "color": "gold",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trong bảy ngày, chọn một thói quen, một tín hiệu và một bản nhỏ cho ngày bận.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Viết kế hoạch: sau việc quen này, tôi sẽ làm hành động nhỏ nhất có ích.",
+     "text": "VIẾT CÂU NẾU THÌ",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đặt lời nhắc đúng chỗ, rồi đánh dấu mỗi hiệp. Lỡ ngày nào thì quay lại.",
+     "text": "GẮN TÍN HIỆU, RỒI QUAY LẠI",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cuối tuần, để ý điều gì có ích rồi chỉnh một điểm. Bạn đang học nếp sống của mình.",
+     "text": "ĐỂ Ý ĐIỀU CÓ ÍCH",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp nhỏ vẫn tính. Muốn nghe thêm tâm lý đời thường, theo dõi Lý Thuyết Chân Que.",
+     "text": "THEO DÕI ĐỂ XEM THÊM",
+     "color": "green",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}

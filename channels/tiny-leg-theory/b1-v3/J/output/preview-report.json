@@ -1,0 +1,3272 @@
+{
+  "fingerprint": "c50a6dc4fd17c2e67b35ce6366710cf07e13335603ae31a5eb182a545ca61933",
+  "preview_seconds": 42.942,
+  "output": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/output/preview.mp4",
+  "output_sha256": "b51c6093131b12b2e3efe67e597aef87b650810e230246d798ed6b2b3d9481f2",
+  "original_voice_sha256": "f51a92ae3ec573663c3e8ab25de70bb84c7e4cd3961133516f15620ba88c483f",
+  "original_voice_duration": 42.192542,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 1289,
+  "duration": 42.966667,
+  "cache_hits": 0,
+  "shot_count": 18,
+  "full_decode": "pass",
+  "caption_count": 18,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/chalkboard-1.ttf",
+      "sha256": "ee12f0017cc69d42026e36fdd49b72e7b726972d7c7cd928e709f7e641f358a8"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/music.mp3",
+      "sha256": "aaf1d13e2142f9530f66c1fe3d9df195964bbdb451bc43216f2fcb048dc8f934"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/narration.wav",
+      "sha256": "f51a92ae3ec573663c3e8ab25de70bb84c7e4cd3961133516f15620ba88c483f"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/room-tone.wav",
+      "sha256": "f18b7f0b0fdb3e5fc26bc97b5d1ffa0d45268ef08c04d630d2781715db8dcee8"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/buff_34.png",
+      "sha256": "12cf603d789750ac81c224ac3bb417977219743ea48d306cf0b12c3982bc9045"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/buff_front.png",
+      "sha256": "f706ca952ba9a66089f8dca5f86104131e56f27b39cffbc2f825d3bd32d06405"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q01_paper_mountain.png",
+      "sha256": "eac075365554f7c8f8a400e316e1d9b73257bff825eac9befcb05ebc61c67d63"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q02_sofa.png",
+      "sha256": "5307a51ba8c6d865ac098419f65624e79f3a344bc63d561f91cceb62e08e8e92"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q03_smartphone_glow.png",
+      "sha256": "be06aeef8fba90a7c473d4be46b7467f3bba97b5609cf49d5574c2a2396cc359"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q04_storm_cloud.png",
+      "sha256": "93bad717d6b50d843506ee5dcc0ee7237235526c4f76a77918a0bbf7fd9dda86"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q05_hourglass.png",
+      "sha256": "4b4b506e3649ee00d855ffabb155a7b96482e56911bec80e76904b3956395230"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q06_laptop_file.png",
+      "sha256": "443b69f59fccd6154a48c863128f81422d0d848d73478d8710b1cac348e9626f"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q07_checkbox_tick.png",
+      "sha256": "7037683366e7e29eeedcf439f1ee0311ad21c3ce8e773febe70e7e7d6e93e48b"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q08_calendar_today.png",
+      "sha256": "dfdb801883e98070317ca6ecbc5f6fa2a45f57cd3fdd7e675556956c1bc2e04c"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t01_phone_grin.png",
+      "sha256": "c968d4661bfdf2a302f5f0b136be31ba31331cf8a30a0841a38f2cf758631817"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t02_panic.png",
+      "sha256": "351adb322b9cce6cdf1b42a6d07d051c67fee01bad9cb32e4dbccc79f8906e06"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t03_hand_off.png",
+      "sha256": "d34b82a8d55c0fa560df8f74326eb34661f47ad2f20ae009b4f7a43c836e1ba4"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t04_small_step.png",
+      "sha256": "cbcc10640a9ba81c0474d439d0c2027daa20528b9f43fcad0fb56ab01633618b"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t05_confused_shrug.png",
+      "sha256": "afae0c6b9438e668fb51154f758aeb956973fea5d23d409fc60ed66658669b16"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t06_arms_crossed_no.png",
+      "sha256": "de762ad6e178145c9725f2cfb0a41d634af0e6bc4d010a41afda39c8bb3c3c60"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t07_worried_heart.png",
+      "sha256": "61d690fb24a99dea80b448f24db9e9b119601df83476799eabb213507d43650e"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t08_bored_yawn.png",
+      "sha256": "94417ab56a39316bc8e0c3f2fa9d2bd072055518c9f504c355fd42578f5b25db"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t09_sofa_scroll.png",
+      "sha256": "ebcd4ae86211f283b4c777346af51ed2b9da6f54fc7727315f193f20f700fdf5"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t10_future_tired.png",
+      "sha256": "9c20308fe775cb07e707f682978c299ad8d132a37405403955b988aa4486f2bd"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t11_sprint_start.png",
+      "sha256": "6539e408c790585825708871c51f7e78d3807c2752eb2cd7e1588c44fd24ea32"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t12_think.png",
+      "sha256": "c02680fb3e1d76cdddd47f7882c3b8839a1197ef66726b8c635035a7e9262fd6"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t13_typing_focused.png",
+      "sha256": "982b91c399caf366d5412a233ea3dac6ad94d143c730b4d05cf607feb50d278b"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t14_point_viewer.png",
+      "sha256": "9211a657157b7bded5f2cebaa80fbe12440b004cdcaa57d1bcd0400d2e89e3ef"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23-contact-sheet.png",
+      "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23-motion-sheet.png",
+      "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23.mp4",
+      "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-24-longform-contact-sheet.jpg",
+      "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-baseline.json",
+      "sha256": "71a45ae39cfde9e90eefdf32676ad9be7082bfb5e0a85589face9967eca37e73"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-production-standard.json",
+      "sha256": "1208febb532b602ebf2cd54543461f90c171eab263d68ee4021a195ae27cd8b5"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ],
+  "local_motion": {
+    "intervals": [
+      {
+        "id": "prop1",
+        "start": 0,
+        "end": 0.35,
+        "reason": "The pile of work looms",
+        "changed_pixels": 53221
+      },
+      {
+        "id": "prop1",
+        "start": 0.35,
+        "end": 1.345,
+        "reason": "The pile of work looms",
+        "changed_pixels": 43796
+      },
+      {
+        "id": "prop1",
+        "start": 1.345,
+        "end": 2.591,
+        "reason": "The pile of work looms",
+        "changed_pixels": 36609
+      },
+      {
+        "id": "actor3",
+        "start": 2.691,
+        "end": 3.0909999999999997,
+        "reason": "He turns away to scroll his phone",
+        "changed_pixels": 148180
+      },
+      {
+        "id": "actor3",
+        "start": 3.0909999999999997,
+        "end": 4.1419999999999995,
+        "reason": "He turns away to scroll his phone",
+        "changed_pixels": 68770
+      },
+      {
+        "id": "actor3",
+        "start": 4.1419999999999995,
+        "end": 5.493,
+        "reason": "He turns away to scroll his phone",
+        "changed_pixels": 77253
+      },
+      {
+        "id": "prop4",
+        "start": 5.593,
+        "end": 5.943,
+        "reason": "The comfy sofa calls",
+        "changed_pixels": 110981
+      },
+      {
+        "id": "prop4",
+        "start": 5.943,
+        "end": 6.615,
+        "reason": "The comfy sofa calls",
+        "changed_pixels": 40282
+      },
+      {
+        "id": "prop4",
+        "start": 6.615,
+        "end": 7.537,
+        "reason": "The comfy sofa calls",
+        "changed_pixels": 27772
+      },
+      {
+        "id": "actor5",
+        "start": 6.615,
+        "end": 7.537,
+        "reason": "The hero shrugs off the label",
+        "changed_pixels": 292
+      },
+      {
+        "id": "prop6",
+        "start": 7.637,
+        "end": 7.986999999999999,
+        "reason": "The planner page appears",
+        "changed_pixels": 24558
+      },
+      {
+        "id": "prop6",
+        "start": 7.986999999999999,
+        "end": 8.636,
+        "reason": "The planner page appears",
+        "changed_pixels": 18760
+      },
+      {
+        "id": "prop6",
+        "start": 8.636,
+        "end": 9.533999999999999,
+        "reason": "The planner page appears",
+        "changed_pixels": 21131
+      },
+      {
+        "id": "actor8",
+        "start": 9.634,
+        "end": 9.984,
+        "reason": "He crosses his arms: no",
+        "changed_pixels": 87845
+      },
+      {
+        "id": "actor8",
+        "start": 9.984,
+        "end": 10.791,
+        "reason": "He crosses his arms: no",
+        "changed_pixels": 34513
+      },
+      {
+        "id": "actor8",
+        "start": 10.791,
+        "end": 11.847000000000001,
+        "reason": "He crosses his arms: no",
+        "changed_pixels": 30186
+      },
+      {
+        "id": "actor9",
+        "start": 11.947,
+        "end": 12.296999999999999,
+        "reason": "Hand on heart, worried",
+        "changed_pixels": 74595
+      },
+      {
+        "id": "actor9",
+        "start": 12.296999999999999,
+        "end": 13.299999999999999,
+        "reason": "Hand on heart, worried",
+        "changed_pixels": 32861
+      },
+      {
+        "id": "actor9",
+        "start": 13.299999999999999,
+        "end": 14.553999999999998,
+        "reason": "Hand on heart, worried",
+        "changed_pixels": 35185
+      },
+      {
+        "id": "prop10",
+        "start": 14.654,
+        "end": 15.004,
+        "reason": "A storm cloud of dread",
+        "changed_pixels": 35479
+      },
+      {
+        "id": "prop10",
+        "start": 15.004,
+        "end": 15.699,
+        "reason": "A storm cloud of dread",
+        "changed_pixels": 14225
+      },
+      {
+        "id": "prop10",
+        "start": 15.699,
+        "end": 16.644,
+        "reason": "A storm cloud of dread",
+        "changed_pixels": 10585
+      },
+      {
+        "id": "prop12",
+        "start": 16.744,
+        "end": 17.094,
+        "reason": "The task towers over everything",
+        "changed_pixels": 65562
+      },
+      {
+        "id": "prop12",
+        "start": 17.094,
+        "end": 17.544,
+        "reason": "The task towers over everything",
+        "changed_pixels": 52329
+      },
+      {
+        "id": "prop12",
+        "start": 17.544,
+        "end": 18.070999999999998,
+        "reason": "The task towers over everything",
+        "changed_pixels": 38135
+      },
+      {
+        "id": "prop14",
+        "start": 18.171,
+        "end": 18.570999999999998,
+        "reason": "The glowing phone slides in",
+        "changed_pixels": 88216
+      },
+      {
+        "id": "prop14",
+        "start": 18.570999999999998,
+        "end": 19.169999999999998,
+        "reason": "The glowing phone slides in",
+        "changed_pixels": 22606
+      },
+      {
+        "id": "prop14",
+        "start": 19.169999999999998,
+        "end": 20.069,
+        "reason": "The glowing phone slides in",
+        "changed_pixels": 37641
+      },
+      {
+        "id": "actor15",
+        "start": 20.169,
+        "end": 20.519000000000002,
+        "reason": "He sinks into the sofa with the phone",
+        "changed_pixels": 293818
+      },
+      {
+        "id": "actor15",
+        "start": 20.519000000000002,
+        "end": 21.283,
+        "reason": "He sinks into the sofa with the phone",
+        "changed_pixels": 100122
+      },
+      {
+        "id": "actor15",
+        "start": 21.283,
+        "end": 22.297,
+        "reason": "He sinks into the sofa with the phone",
+        "changed_pixels": 102793
+      },
+      {
+        "id": "prop16",
+        "start": 22.397,
+        "end": 22.747,
+        "reason": "The deadline day is circled",
+        "changed_pixels": 22309
+      },
+      {
+        "id": "prop16",
+        "start": 22.747,
+        "end": 23.608999999999998,
+        "reason": "The deadline day is circled",
+        "changed_pixels": 17381
+      },
+      {
+        "id": "prop16",
+        "start": 23.608999999999998,
+        "end": 24.721999999999998,
+        "reason": "The deadline day is circled",
+        "changed_pixels": 19626
+      },
+      {
+        "id": "prop18",
+        "start": 24.822,
+        "end": 25.172,
+        "reason": "Time runs out",
+        "changed_pixels": 27681
+      },
+      {
+        "id": "prop18",
+        "start": 25.172,
+        "end": 26.54,
+        "reason": "Time runs out",
+        "changed_pixels": 16149
+      },
+      {
+        "id": "prop18",
+        "start": 26.54,
+        "end": 28.159,
+        "reason": "Time runs out",
+        "changed_pixels": 20482
+      },
+      {
+        "id": "actor20",
+        "start": 28.259,
+        "end": 28.659,
+        "reason": "He crouches to start",
+        "changed_pixels": 96110
+      },
+      {
+        "id": "actor20",
+        "start": 28.659,
+        "end": 29.252,
+        "reason": "He crouches to start",
+        "changed_pixels": 35542
+      },
+      {
+        "id": "actor20",
+        "start": 29.252,
+        "end": 30.144000000000002,
+        "reason": "He crouches to start",
+        "changed_pixels": 36326
+      },
+      {
+        "id": "prop22",
+        "start": 31.848,
+        "end": 32.65,
+        "reason": "A tiny first step remains",
+        "changed_pixels": 8015
+      },
+      {
+        "id": "actor23",
+        "start": 31.848,
+        "end": 33.352,
+        "reason": "He thinks it through",
+        "changed_pixels": 22577
+      },
+      {
+        "id": "prop24",
+        "start": 33.452,
+        "end": 33.802,
+        "reason": "The file opens",
+        "changed_pixels": 95658
+      },
+      {
+        "id": "prop24",
+        "start": 33.802,
+        "end": 34.251999999999995,
+        "reason": "The file opens",
+        "changed_pixels": 43669
+      },
+      {
+        "id": "prop24",
+        "start": 34.251999999999995,
+        "end": 34.846,
+        "reason": "The file opens",
+        "changed_pixels": 38822
+      },
+      {
+        "id": "prop25",
+        "start": 34.946,
+        "end": 35.296,
+        "reason": "The first line is ticked",
+        "changed_pixels": 32014
+      },
+      {
+        "id": "prop25",
+        "start": 35.296,
+        "end": 35.751,
+        "reason": "The first line is ticked",
+        "changed_pixels": 7863
+      },
+      {
+        "id": "prop25",
+        "start": 35.751,
+        "end": 36.455999999999996,
+        "reason": "The first line is ticked",
+        "changed_pixels": 10387
+      },
+      {
+        "id": "prop27",
+        "start": 36.556,
+        "end": 38.878,
+        "reason": "The dread cloud fades",
+        "changed_pixels": 29484
+      },
+      {
+        "id": "actor28",
+        "start": 38.007,
+        "end": 39.358,
+        "reason": "He steps up and flexes",
+        "changed_pixels": 29618
+      },
+      {
+        "id": "prop29",
+        "start": 39.458,
+        "end": 39.808,
+        "reason": "Today is circled",
+        "changed_pixels": 19181
+      },
+      {
+        "id": "prop29",
+        "start": 39.808,
+        "end": 41.199999999999996,
+        "reason": "Today is circled",
+        "changed_pixels": 18409
+      }
+    ],
+    "windows": [
+      {
+        "start": 0,
+        "end": 2.25,
+        "id": "prop1",
+        "changed_pixels": 48072
+      },
+      {
+        "start": 0.25,
+        "end": 2.5,
+        "id": "prop1",
+        "changed_pixels": 53221
+      },
+      {
+        "start": 0.5,
+        "end": 2.75,
+        "id": "prop1",
+        "changed_pixels": 43796
+      },
+      {
+        "start": 0.75,
+        "end": 3,
+        "id": "prop1",
+        "changed_pixels": 41194
+      },
+      {
+        "start": 1,
+        "end": 3.25,
+        "id": "prop1",
+        "changed_pixels": 33030
+      },
+      {
+        "start": 1.25,
+        "end": 3.5,
+        "id": "prop1",
+        "changed_pixels": 12648
+      },
+      {
+        "start": 1.5,
+        "end": 3.75,
+        "id": "prop1",
+        "changed_pixels": 36609
+      },
+      {
+        "start": 1.75,
+        "end": 4,
+        "id": "prop1",
+        "changed_pixels": 33972
+      },
+      {
+        "start": 2,
+        "end": 4.25,
+        "id": "prop1",
+        "changed_pixels": 28677
+      },
+      {
+        "start": 2.25,
+        "end": 4.5,
+        "id": "prop1",
+        "changed_pixels": 19534
+      },
+      {
+        "start": 2.5,
+        "end": 4.75,
+        "id": "prop1",
+        "changed_pixels": 3876
+      },
+      {
+        "start": 2.75,
+        "end": 5,
+        "id": "actor3",
+        "changed_pixels": 148180
+      },
+      {
+        "start": 3,
+        "end": 5.25,
+        "id": "actor3",
+        "changed_pixels": 119356
+      },
+      {
+        "start": 3.25,
+        "end": 5.5,
+        "id": "actor3",
+        "changed_pixels": 68770
+      },
+      {
+        "start": 3.5,
+        "end": 5.75,
+        "id": "actor3",
+        "changed_pixels": 60262
+      },
+      {
+        "start": 3.75,
+        "end": 6,
+        "id": "actor3",
+        "changed_pixels": 43239
+      },
+      {
+        "start": 4,
+        "end": 6.25,
+        "id": "actor3",
+        "changed_pixels": 16355
+      },
+      {
+        "start": 4.25,
+        "end": 6.5,
+        "id": "actor3",
+        "changed_pixels": 77253
+      },
+      {
+        "start": 4.5,
+        "end": 6.75,
+        "id": "actor3",
+        "changed_pixels": 72798
+      },
+      {
+        "start": 4.75,
+        "end": 7,
+        "id": "actor3",
+        "changed_pixels": 63702
+      },
+      {
+        "start": 5,
+        "end": 7.25,
+        "id": "actor3",
+        "changed_pixels": 49270
+      },
+      {
+        "start": 5.25,
+        "end": 7.5,
+        "id": "actor3",
+        "changed_pixels": 26900
+      },
+      {
+        "start": 5.5,
+        "end": 7.75,
+        "id": "prop4",
+        "changed_pixels": 103539
+      },
+      {
+        "start": 5.75,
+        "end": 8,
+        "id": "prop4",
+        "changed_pixels": 110981
+      },
+      {
+        "start": 6,
+        "end": 8.25,
+        "id": "prop4",
+        "changed_pixels": 40282
+      },
+      {
+        "start": 6.25,
+        "end": 8.5,
+        "id": "prop4",
+        "changed_pixels": 30011
+      },
+      {
+        "start": 6.5,
+        "end": 8.75,
+        "id": "prop4",
+        "changed_pixels": 9949
+      },
+      {
+        "start": 6.75,
+        "end": 9,
+        "id": "prop4",
+        "changed_pixels": 27772
+      },
+      {
+        "start": 7,
+        "end": 9.25,
+        "id": "prop4",
+        "changed_pixels": 22485
+      },
+      {
+        "start": 7.25,
+        "end": 9.5,
+        "id": "prop4",
+        "changed_pixels": 13233
+      },
+      {
+        "start": 7.5,
+        "end": 9.75,
+        "id": "actor5",
+        "changed_pixels": 292
+      },
+      {
+        "start": 7.75,
+        "end": 10,
+        "id": "prop6",
+        "changed_pixels": 24558
+      },
+      {
+        "start": 8,
+        "end": 10.25,
+        "id": "prop6",
+        "changed_pixels": 18760
+      },
+      {
+        "start": 8.25,
+        "end": 10.5,
+        "id": "prop6",
+        "changed_pixels": 15774
+      },
+      {
+        "start": 8.5,
+        "end": 10.75,
+        "id": "prop6",
+        "changed_pixels": 5252
+      },
+      {
+        "start": 8.75,
+        "end": 11,
+        "id": "prop6",
+        "changed_pixels": 21131
+      },
+      {
+        "start": 9,
+        "end": 11.25,
+        "id": "prop6",
+        "changed_pixels": 17113
+      },
+      {
+        "start": 9.25,
+        "end": 11.5,
+        "id": "prop6",
+        "changed_pixels": 8999
+      },
+      {
+        "start": 9.5,
+        "end": 11.75,
+        "id": "prop6",
+        "changed_pixels": 193
+      },
+      {
+        "start": 9.75,
+        "end": 12,
+        "id": "actor8",
+        "changed_pixels": 87845
+      },
+      {
+        "start": 10,
+        "end": 12.25,
+        "id": "actor8",
+        "changed_pixels": 34513
+      },
+      {
+        "start": 10.25,
+        "end": 12.5,
+        "id": "actor8",
+        "changed_pixels": 30892
+      },
+      {
+        "start": 10.5,
+        "end": 12.75,
+        "id": "actor8",
+        "changed_pixels": 20180
+      },
+      {
+        "start": 10.75,
+        "end": 13,
+        "id": "actor8",
+        "changed_pixels": 30186
+      },
+      {
+        "start": 11,
+        "end": 13.25,
+        "id": "actor8",
+        "changed_pixels": 28925
+      },
+      {
+        "start": 11.25,
+        "end": 13.5,
+        "id": "actor8",
+        "changed_pixels": 24648
+      },
+      {
+        "start": 11.5,
+        "end": 13.75,
+        "id": "actor8",
+        "changed_pixels": 16160
+      },
+      {
+        "start": 11.75,
+        "end": 14,
+        "id": "actor8",
+        "changed_pixels": 2931
+      },
+      {
+        "start": 12,
+        "end": 14.25,
+        "id": "actor9",
+        "changed_pixels": 74595
+      },
+      {
+        "start": 12.25,
+        "end": 14.5,
+        "id": "actor9",
+        "changed_pixels": 21441
+      },
+      {
+        "start": 12.5,
+        "end": 14.75,
+        "id": "actor9",
+        "changed_pixels": 32861
+      },
+      {
+        "start": 12.75,
+        "end": 15,
+        "id": "actor9",
+        "changed_pixels": 27597
+      },
+      {
+        "start": 13,
+        "end": 15.25,
+        "id": "actor9",
+        "changed_pixels": 17585
+      },
+      {
+        "start": 13.25,
+        "end": 15.5,
+        "id": "actor9",
+        "changed_pixels": 35185
+      },
+      {
+        "start": 13.5,
+        "end": 15.75,
+        "id": "actor9",
+        "changed_pixels": 34303
+      },
+      {
+        "start": 13.75,
+        "end": 16,
+        "id": "actor9",
+        "changed_pixels": 30868
+      },
+      {
+        "start": 14,
+        "end": 16.25,
+        "id": "actor9",
+        "changed_pixels": 24957
+      },
+      {
+        "start": 14.25,
+        "end": 16.5,
+        "id": "actor9",
+        "changed_pixels": 15459
+      },
+      {
+        "start": 14.5,
+        "end": 16.75,
+        "id": "actor9",
+        "changed_pixels": 158
+      },
+      {
+        "start": 14.75,
+        "end": 17,
+        "id": "prop10",
+        "changed_pixels": 35479
+      },
+      {
+        "start": 15,
+        "end": 17.25,
+        "id": "prop10",
+        "changed_pixels": 14225
+      },
+      {
+        "start": 15.25,
+        "end": 17.5,
+        "id": "prop10",
+        "changed_pixels": 11488
+      },
+      {
+        "start": 15.5,
+        "end": 17.75,
+        "id": "prop10",
+        "changed_pixels": 4648
+      },
+      {
+        "start": 15.75,
+        "end": 18,
+        "id": "prop10",
+        "changed_pixels": 10585
+      },
+      {
+        "start": 16,
+        "end": 18.25,
+        "id": "prop10",
+        "changed_pixels": 8867
+      },
+      {
+        "start": 16.25,
+        "end": 18.5,
+        "id": "prop10",
+        "changed_pixels": 5447
+      },
+      {
+        "start": 16.5,
+        "end": 18.75,
+        "id": "prop10",
+        "changed_pixels": 1990
+      },
+      {
+        "start": 16.75,
+        "end": 19,
+        "id": "prop12",
+        "changed_pixels": 60968
+      },
+      {
+        "start": 17,
+        "end": 19.25,
+        "id": "prop12",
+        "changed_pixels": 65562
+      },
+      {
+        "start": 17.25,
+        "end": 19.5,
+        "id": "prop12",
+        "changed_pixels": 52329
+      },
+      {
+        "start": 17.5,
+        "end": 19.75,
+        "id": "prop12",
+        "changed_pixels": 15565
+      },
+      {
+        "start": 17.75,
+        "end": 20,
+        "id": "prop12",
+        "changed_pixels": 38135
+      },
+      {
+        "start": 18,
+        "end": 20.25,
+        "id": "prop12",
+        "changed_pixels": 12039
+      },
+      {
+        "start": 18.25,
+        "end": 20.5,
+        "id": "prop14",
+        "changed_pixels": 88216
+      },
+      {
+        "start": 18.5,
+        "end": 20.75,
+        "id": "prop14",
+        "changed_pixels": 38389
+      },
+      {
+        "start": 18.75,
+        "end": 21,
+        "id": "prop14",
+        "changed_pixels": 22606
+      },
+      {
+        "start": 19,
+        "end": 21.25,
+        "id": "prop14",
+        "changed_pixels": 7465
+      },
+      {
+        "start": 19.25,
+        "end": 21.5,
+        "id": "prop14",
+        "changed_pixels": 37641
+      },
+      {
+        "start": 19.5,
+        "end": 21.75,
+        "id": "prop14",
+        "changed_pixels": 30979
+      },
+      {
+        "start": 19.75,
+        "end": 22,
+        "id": "prop14",
+        "changed_pixels": 16843
+      },
+      {
+        "start": 20,
+        "end": 22.25,
+        "id": "prop14",
+        "changed_pixels": 4048
+      },
+      {
+        "start": 20.25,
+        "end": 22.5,
+        "id": "actor15",
+        "changed_pixels": 293818
+      },
+      {
+        "start": 20.5,
+        "end": 22.75,
+        "id": "actor15",
+        "changed_pixels": 19654
+      },
+      {
+        "start": 20.75,
+        "end": 23,
+        "id": "actor15",
+        "changed_pixels": 100122
+      },
+      {
+        "start": 21,
+        "end": 23.25,
+        "id": "actor15",
+        "changed_pixels": 60684
+      },
+      {
+        "start": 21.25,
+        "end": 23.5,
+        "id": "actor15",
+        "changed_pixels": 102793
+      },
+      {
+        "start": 21.5,
+        "end": 23.75,
+        "id": "actor15",
+        "changed_pixels": 97094
+      },
+      {
+        "start": 21.75,
+        "end": 24,
+        "id": "actor15",
+        "changed_pixels": 77953
+      },
+      {
+        "start": 22,
+        "end": 24.25,
+        "id": "actor15",
+        "changed_pixels": 46126
+      },
+      {
+        "start": 22.25,
+        "end": 24.5,
+        "id": "actor15",
+        "changed_pixels": 653
+      },
+      {
+        "start": 22.5,
+        "end": 24.75,
+        "id": "prop16",
+        "changed_pixels": 22309
+      },
+      {
+        "start": 22.75,
+        "end": 25,
+        "id": "prop16",
+        "changed_pixels": 17381
+      },
+      {
+        "start": 23,
+        "end": 25.25,
+        "id": "prop16",
+        "changed_pixels": 16046
+      },
+      {
+        "start": 23.25,
+        "end": 25.5,
+        "id": "prop16",
+        "changed_pixels": 11417
+      },
+      {
+        "start": 23.5,
+        "end": 25.75,
+        "id": "prop16",
+        "changed_pixels": 2873
+      },
+      {
+        "start": 23.75,
+        "end": 26,
+        "id": "prop16",
+        "changed_pixels": 19626
+      },
+      {
+        "start": 24,
+        "end": 26.25,
+        "id": "prop16",
+        "changed_pixels": 17073
+      },
+      {
+        "start": 24.25,
+        "end": 26.5,
+        "id": "prop16",
+        "changed_pixels": 11651
+      },
+      {
+        "start": 24.5,
+        "end": 26.75,
+        "id": "prop16",
+        "changed_pixels": 5280
+      },
+      {
+        "start": 24.75,
+        "end": 27,
+        "id": "prop18",
+        "changed_pixels": 25923
+      },
+      {
+        "start": 25,
+        "end": 27.25,
+        "id": "prop18",
+        "changed_pixels": 27681
+      },
+      {
+        "start": 25.25,
+        "end": 27.5,
+        "id": "prop18",
+        "changed_pixels": 16149
+      },
+      {
+        "start": 25.5,
+        "end": 27.75,
+        "id": "prop18",
+        "changed_pixels": 15405
+      },
+      {
+        "start": 25.75,
+        "end": 28,
+        "id": "prop18",
+        "changed_pixels": 13832
+      },
+      {
+        "start": 26,
+        "end": 28.25,
+        "id": "prop18",
+        "changed_pixels": 10669
+      },
+      {
+        "start": 26.25,
+        "end": 28.5,
+        "id": "prop18",
+        "changed_pixels": 5811
+      },
+      {
+        "start": 26.5,
+        "end": 28.75,
+        "id": "prop18",
+        "changed_pixels": 20482
+      },
+      {
+        "start": 26.75,
+        "end": 29,
+        "id": "prop18",
+        "changed_pixels": 20233
+      },
+      {
+        "start": 27,
+        "end": 29.25,
+        "id": "prop18",
+        "changed_pixels": 19116
+      },
+      {
+        "start": 27.25,
+        "end": 29.5,
+        "id": "prop18",
+        "changed_pixels": 17086
+      },
+      {
+        "start": 27.5,
+        "end": 29.75,
+        "id": "prop18",
+        "changed_pixels": 13215
+      },
+      {
+        "start": 27.75,
+        "end": 30,
+        "id": "prop18",
+        "changed_pixels": 8273
+      },
+      {
+        "start": 28,
+        "end": 30.25,
+        "id": "prop18",
+        "changed_pixels": 2887
+      },
+      {
+        "start": 28.25,
+        "end": 30.5,
+        "id": "actor20",
+        "changed_pixels": 81830
+      },
+      {
+        "start": 28.5,
+        "end": 30.75,
+        "id": "actor20",
+        "changed_pixels": 96110
+      },
+      {
+        "start": 28.75,
+        "end": 31,
+        "id": "actor20",
+        "changed_pixels": 35542
+      },
+      {
+        "start": 29,
+        "end": 31.25,
+        "id": "actor20",
+        "changed_pixels": 23144
+      },
+      {
+        "start": 29.25,
+        "end": 31.5,
+        "id": "actor20",
+        "changed_pixels": 36326
+      },
+      {
+        "start": 29.5,
+        "end": 31.75,
+        "id": "actor20",
+        "changed_pixels": 33176
+      },
+      {
+        "start": 29.75,
+        "end": 32,
+        "id": "actor20",
+        "changed_pixels": 23543
+      },
+      {
+        "start": 30,
+        "end": 32.25,
+        "id": "actor20",
+        "changed_pixels": 9104
+      },
+      {
+        "start": 30.25,
+        "end": 32.5,
+        "id": "prop22",
+        "changed_pixels": 6099
+      },
+      {
+        "start": 30.5,
+        "end": 32.75,
+        "id": "prop22",
+        "changed_pixels": 6383
+      },
+      {
+        "start": 30.75,
+        "end": 33,
+        "id": "prop22",
+        "changed_pixels": 6383
+      },
+      {
+        "start": 31,
+        "end": 33.25,
+        "id": "prop22",
+        "changed_pixels": 6383
+      },
+      {
+        "start": 31.25,
+        "end": 33.5,
+        "id": "prop22",
+        "changed_pixels": 6383
+      },
+      {
+        "start": 31.5,
+        "end": 33.75,
+        "id": "prop22",
+        "changed_pixels": 6383
+      },
+      {
+        "start": 31.75,
+        "end": 34,
+        "id": "prop22",
+        "changed_pixels": 6383
+      },
+      {
+        "start": 32,
+        "end": 34.25,
+        "id": "prop22",
+        "changed_pixels": 6753
+      },
+      {
+        "start": 32.25,
+        "end": 34.5,
+        "id": "prop22",
+        "changed_pixels": 8015
+      },
+      {
+        "start": 32.5,
+        "end": 34.75,
+        "id": "prop22",
+        "changed_pixels": 5923
+      },
+      {
+        "start": 32.75,
+        "end": 35,
+        "id": "actor23",
+        "changed_pixels": 22577
+      },
+      {
+        "start": 33,
+        "end": 35.25,
+        "id": "actor23",
+        "changed_pixels": 13940
+      },
+      {
+        "start": 33.25,
+        "end": 35.5,
+        "id": "actor23",
+        "changed_pixels": 1823
+      },
+      {
+        "start": 33.5,
+        "end": 35.75,
+        "id": "prop24",
+        "changed_pixels": 95658
+      },
+      {
+        "start": 33.75,
+        "end": 36,
+        "id": "prop24",
+        "changed_pixels": 45781
+      },
+      {
+        "start": 34,
+        "end": 36.25,
+        "id": "prop24",
+        "changed_pixels": 43669
+      },
+      {
+        "start": 34.25,
+        "end": 36.5,
+        "id": "prop24",
+        "changed_pixels": 38822
+      },
+      {
+        "start": 34.5,
+        "end": 36.75,
+        "id": "prop24",
+        "changed_pixels": 28945
+      },
+      {
+        "start": 34.75,
+        "end": 37,
+        "id": "prop24",
+        "changed_pixels": 7687
+      },
+      {
+        "start": 35,
+        "end": 37.25,
+        "id": "prop25",
+        "changed_pixels": 32014
+      },
+      {
+        "start": 35.25,
+        "end": 37.5,
+        "id": "prop25",
+        "changed_pixels": 5600
+      },
+      {
+        "start": 35.5,
+        "end": 37.75,
+        "id": "prop25",
+        "changed_pixels": 7863
+      },
+      {
+        "start": 35.75,
+        "end": 38,
+        "id": "prop25",
+        "changed_pixels": 10387
+      },
+      {
+        "start": 36,
+        "end": 38.25,
+        "id": "prop25",
+        "changed_pixels": 8338
+      },
+      {
+        "start": 36.25,
+        "end": 38.5,
+        "id": "prop25",
+        "changed_pixels": 4055
+      },
+      {
+        "start": 36.5,
+        "end": 38.75,
+        "id": "prop27",
+        "changed_pixels": 27197
+      },
+      {
+        "start": 36.75,
+        "end": 39,
+        "id": "prop27",
+        "changed_pixels": 29473
+      },
+      {
+        "start": 37,
+        "end": 39.25,
+        "id": "prop27",
+        "changed_pixels": 29484
+      },
+      {
+        "start": 37.25,
+        "end": 39.5,
+        "id": "prop27",
+        "changed_pixels": 28354
+      },
+      {
+        "start": 37.5,
+        "end": 39.75,
+        "id": "prop27",
+        "changed_pixels": 27423
+      },
+      {
+        "start": 37.75,
+        "end": 40,
+        "id": "prop27",
+        "changed_pixels": 25674
+      },
+      {
+        "start": 38,
+        "end": 40.25,
+        "id": "prop27",
+        "changed_pixels": 24652
+      },
+      {
+        "start": 38.25,
+        "end": 40.5,
+        "id": "prop27",
+        "changed_pixels": 21089
+      },
+      {
+        "start": 38.5,
+        "end": 40.75,
+        "id": "prop27",
+        "changed_pixels": 4343
+      },
+      {
+        "start": 38.75,
+        "end": 41,
+        "id": "actor28",
+        "changed_pixels": 29618
+      },
+      {
+        "start": 39,
+        "end": 41.25,
+        "id": "actor28",
+        "changed_pixels": 18767
+      },
+      {
+        "start": 39.25,
+        "end": 41.5,
+        "id": "actor28",
+        "changed_pixels": 3396
+      },
+      {
+        "start": 39.5,
+        "end": 41.75,
+        "id": "prop29",
+        "changed_pixels": 19181
+      },
+      {
+        "start": 39.75,
+        "end": 42,
+        "id": "prop29",
+        "changed_pixels": 14940
+      },
+      {
+        "start": 40,
+        "end": 42.25,
+        "id": "prop29",
+        "changed_pixels": 18409
+      },
+      {
+        "start": 40.25,
+        "end": 42.5,
+        "id": "prop29",
+        "changed_pixels": 17023
+      },
+      {
+        "start": 40.5,
+        "end": 42.75,
+        "id": "prop29",
+        "changed_pixels": 14342
+      },
+      {
+        "start": 40.692,
+        "end": 42.942,
+        "id": "prop29",
+        "changed_pixels": 10424
+      }
+    ],
+    "sample_step": 0.25,
+    "max_window": 2.25,
+    "limits": "Bounded isolated-layer pixel change, with text/shadows excluded and ancestors frozen; geometry is conservative. Causal action, final visibility/occlusion, semantic captions and sound still require playback review"
+  },
+  "audio_tracks": {
+    "ambience": 1,
+    "dialogue": 0,
+    "file_sfx": 0,
+    "cuts": 0
+  },
+  "reference_review": {
+    "schema": 1,
+    "status": "pending_independent_review",
+    "style": "B1",
+    "output": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/output/preview.mp4",
+    "output_sha256": "b51c6093131b12b2e3efe67e597aef87b650810e230246d798ed6b2b3d9481f2",
+    "project_fingerprint": "c50a6dc4fd17c2e67b35ce6366710cf07e13335603ae31a5eb182a545ca61933",
+    "project_inputs": {
+      "file": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/project.json",
+      "inputs": [
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/chalkboard-1.ttf",
+          "sha256": "ee12f0017cc69d42026e36fdd49b72e7b726972d7c7cd928e709f7e641f358a8"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/music.mp3",
+          "sha256": "aaf1d13e2142f9530f66c1fe3d9df195964bbdb451bc43216f2fcb048dc8f934"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/narration.wav",
+          "sha256": "f51a92ae3ec573663c3e8ab25de70bb84c7e4cd3961133516f15620ba88c483f"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/room-tone.wav",
+          "sha256": "f18b7f0b0fdb3e5fc26bc97b5d1ffa0d45268ef08c04d630d2781715db8dcee8"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/buff_34.png",
+          "sha256": "12cf603d789750ac81c224ac3bb417977219743ea48d306cf0b12c3982bc9045"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/buff_front.png",
+          "sha256": "f706ca952ba9a66089f8dca5f86104131e56f27b39cffbc2f825d3bd32d06405"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q01_paper_mountain.png",
+          "sha256": "eac075365554f7c8f8a400e316e1d9b73257bff825eac9befcb05ebc61c67d63"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q02_sofa.png",
+          "sha256": "5307a51ba8c6d865ac098419f65624e79f3a344bc63d561f91cceb62e08e8e92"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q03_smartphone_glow.png",
+          "sha256": "be06aeef8fba90a7c473d4be46b7467f3bba97b5609cf49d5574c2a2396cc359"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q04_storm_cloud.png",
+          "sha256": "93bad717d6b50d843506ee5dcc0ee7237235526c4f76a77918a0bbf7fd9dda86"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q05_hourglass.png",
+          "sha256": "4b4b506e3649ee00d855ffabb155a7b96482e56911bec80e76904b3956395230"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q06_laptop_file.png",
+          "sha256": "443b69f59fccd6154a48c863128f81422d0d848d73478d8710b1cac348e9626f"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q07_checkbox_tick.png",
+          "sha256": "7037683366e7e29eeedcf439f1ee0311ad21c3ce8e773febe70e7e7d6e93e48b"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q08_calendar_today.png",
+          "sha256": "dfdb801883e98070317ca6ecbc5f6fa2a45f57cd3fdd7e675556956c1bc2e04c"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t01_phone_grin.png",
+          "sha256": "c968d4661bfdf2a302f5f0b136be31ba31331cf8a30a0841a38f2cf758631817"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t02_panic.png",
+          "sha256": "351adb322b9cce6cdf1b42a6d07d051c67fee01bad9cb32e4dbccc79f8906e06"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t03_hand_off.png",
+          "sha256": "d34b82a8d55c0fa560df8f74326eb34661f47ad2f20ae009b4f7a43c836e1ba4"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t04_small_step.png",
+          "sha256": "cbcc10640a9ba81c0474d439d0c2027daa20528b9f43fcad0fb56ab01633618b"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t05_confused_shrug.png",
+          "sha256": "afae0c6b9438e668fb51154f758aeb956973fea5d23d409fc60ed66658669b16"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t06_arms_crossed_no.png",
+          "sha256": "de762ad6e178145c9725f2cfb0a41d634af0e6bc4d010a41afda39c8bb3c3c60"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t07_worried_heart.png",
+          "sha256": "61d690fb24a99dea80b448f24db9e9b119601df83476799eabb213507d43650e"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t08_bored_yawn.png",
+          "sha256": "94417ab56a39316bc8e0c3f2fa9d2bd072055518c9f504c355fd42578f5b25db"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t09_sofa_scroll.png",
+          "sha256": "ebcd4ae86211f283b4c777346af51ed2b9da6f54fc7727315f193f20f700fdf5"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t10_future_tired.png",
+          "sha256": "9c20308fe775cb07e707f682978c299ad8d132a37405403955b988aa4486f2bd"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t11_sprint_start.png",
+          "sha256": "6539e408c790585825708871c51f7e78d3807c2752eb2cd7e1588c44fd24ea32"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t12_think.png",
+          "sha256": "c02680fb3e1d76cdddd47f7882c3b8839a1197ef66726b8c635035a7e9262fd6"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t13_typing_focused.png",
+          "sha256": "982b91c399caf366d5412a233ea3dac6ad94d143c730b4d05cf607feb50d278b"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t14_point_viewer.png",
+          "sha256": "9211a657157b7bded5f2cebaa80fbe12440b004cdcaa57d1bcd0400d2e89e3ef"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23-contact-sheet.png",
+          "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23-motion-sheet.png",
+          "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23.mp4",
+          "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-24-longform-contact-sheet.jpg",
+          "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-baseline.json",
+          "sha256": "71a45ae39cfde9e90eefdf32676ad9be7082bfb5e0a85589face9967eca37e73"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-production-standard.json",
+          "sha256": "1208febb532b602ebf2cd54543461f90c171eab263d68ee4021a195ae27cd8b5"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+          "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+        }
+      ]
+    },
+    "plan_sha256": "53e5b4126ce7e3b9545c248e2e2703b2d22066dcfb1b6e7d46d23212cb7d45c5",
+    "scope": {
+      "start": 0,
+      "end": 42.942
+    },
+    "metadata": {
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "average_fps": 30.000454574382005,
+      "duration": 42.966016,
+      "frames": 1289,
+      "frame_timing_sha256": "9140b07ce6cfccfb8945726644fe1d51c21e3f42ace0e59229aa70062e7772d8",
+      "max_step_error": 0.0006513333333321228,
+      "video_codec": "h264",
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": 24000,
+          "channels": 1
+        }
+      ]
+    },
+    "plan": {
+      "schema": 1,
+      "style": "B1",
+      "author_id": null,
+      "capability": {
+        "mode": "sample_target",
+        "environment": null,
+        "limitations": []
+      },
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "scope_start": 0,
+      "scope_end": 42.942,
+      "frame_count": 1289,
+      "shots": [
+        {
+          "id": "shot-0",
+          "index": 0,
+          "source_id": null,
+          "start": 0,
+          "end": 2.691,
+          "start_frame": 0,
+          "end_frame": 81,
+          "phases": {
+            "start": 0,
+            "mid": 40,
+            "end": 80
+          },
+          "shot_sha256": "3f49c86e4966ad8bc488e1a2d2ea374247e891210cc16c06d41e34832326a312"
+        },
+        {
+          "id": "shot-1",
+          "index": 1,
+          "source_id": null,
+          "start": 2.691,
+          "end": 5.593,
+          "start_frame": 81,
+          "end_frame": 168,
+          "phases": {
+            "start": 81,
+            "mid": 124,
+            "end": 167
+          },
+          "shot_sha256": "3f962a210fd18ecc5aad7ef7bfef8d740a59e364f8e6e1c0a76f3a7c69bbd7a6"
+        },
+        {
+          "id": "shot-2",
+          "index": 2,
+          "source_id": null,
+          "start": 5.593,
+          "end": 7.637,
+          "start_frame": 168,
+          "end_frame": 230,
+          "phases": {
+            "start": 168,
+            "mid": 198,
+            "end": 229
+          },
+          "shot_sha256": "1318d860245444396acd0e76589047b3deccdc1ba6ed245f45627bcb96a86c35"
+        },
+        {
+          "id": "shot-3",
+          "index": 3,
+          "source_id": null,
+          "start": 7.637,
+          "end": 9.634,
+          "start_frame": 230,
+          "end_frame": 290,
+          "phases": {
+            "start": 230,
+            "mid": 259,
+            "end": 289
+          },
+          "shot_sha256": "6aceed4fd840f950b4e57b05dc5177af4efdb2fc454a9970cdb00acda2726c08"
+        },
+        {
+          "id": "shot-4",
+          "index": 4,
+          "source_id": null,
+          "start": 9.634,
+          "end": 11.947,
+          "start_frame": 290,
+          "end_frame": 359,
+          "phases": {
+            "start": 290,
+            "mid": 324,
+            "end": 358
+          },
+          "shot_sha256": "a413bb9836c54dd20f45d44f5e9691b53bc40d16d60242b7d1defbbc80c8285f"
+        },
+        {
+          "id": "shot-5",
+          "index": 5,
+          "source_id": null,
+          "start": 11.947,
+          "end": 14.654,
+          "start_frame": 359,
+          "end_frame": 440,
+          "phases": {
+            "start": 359,
+            "mid": 399,
+            "end": 439
+          },
+          "shot_sha256": "31d2b4ef0ac0f088418b80c1bcb0c66ec5fddcf41028dcd3c7ff9bf9166e80ad"
+        },
+        {
+          "id": "shot-6",
+          "index": 6,
+          "source_id": null,
+          "start": 14.654,
+          "end": 16.744,
+          "start_frame": 440,
+          "end_frame": 503,
+          "phases": {
+            "start": 440,
+            "mid": 471,
+            "end": 502
+          },
+          "shot_sha256": "1afbe0f2fc08265889aac8696dad8b4e5b689aa3471442902e914e7fc2bb567a"
+        },
+        {
+          "id": "shot-7",
+          "index": 7,
+          "source_id": null,
+          "start": 16.744,
+          "end": 18.171,
+          "start_frame": 503,
+          "end_frame": 546,
+          "phases": {
+            "start": 503,
+            "mid": 524,
+            "end": 545
+          },
+          "shot_sha256": "809ed45e4606676ea903f1e34466cd9b4ccdec13428cd1d42f5509a5a6abbf18"
+        },
+        {
+          "id": "shot-8",
+          "index": 8,
+          "source_id": null,
+          "start": 18.171,
+          "end": 20.169,
+          "start_frame": 546,
+          "end_frame": 606,
+          "phases": {
+            "start": 546,
+            "mid": 575,
+            "end": 605
+          },
+          "shot_sha256": "4b6583e2a1e327bdd74d1b20b5081a97d4590d03a165b815c2fb2c0747227fbc"
+        },
+        {
+          "id": "shot-9",
+          "index": 9,
+          "source_id": null,
+          "start": 20.169,
+          "end": 22.397,
+          "start_frame": 606,
+          "end_frame": 672,
+          "phases": {
+            "start": 606,
+            "mid": 638,
+            "end": 671
+          },
+          "shot_sha256": "b6235ab596fc75edf2cfe382e2f090553f2f82c179c4c6763c90b7b0395a15bd"
+        },
+        {
+          "id": "shot-10",
+          "index": 10,
+          "source_id": null,
+          "start": 22.397,
+          "end": 24.822,
+          "start_frame": 672,
+          "end_frame": 745,
+          "phases": {
+            "start": 672,
+            "mid": 708,
+            "end": 744
+          },
+          "shot_sha256": "a840d6b2d6712b753e143ebad4cb2f0c986bebacef1e4586099ee2128b01faf6"
+        },
+        {
+          "id": "shot-11",
+          "index": 11,
+          "source_id": null,
+          "start": 24.822,
+          "end": 28.259,
+          "start_frame": 745,
+          "end_frame": 848,
+          "phases": {
+            "start": 745,
+            "mid": 796,
+            "end": 847
+          },
+          "shot_sha256": "6d4497e9085b59ecef903cd09c1ca2ee24907345e305564213c6dcd580e591b7"
+        },
+        {
+          "id": "shot-12",
+          "index": 12,
+          "source_id": null,
+          "start": 28.259,
+          "end": 30.244,
+          "start_frame": 848,
+          "end_frame": 908,
+          "phases": {
+            "start": 848,
+            "mid": 877,
+            "end": 907
+          },
+          "shot_sha256": "02180a09d796f227ae82ec779c234921176cd822cc1fe93e56e784423ad1de83"
+        },
+        {
+          "id": "shot-13",
+          "index": 13,
+          "source_id": null,
+          "start": 30.244,
+          "end": 33.452,
+          "start_frame": 908,
+          "end_frame": 1004,
+          "phases": {
+            "start": 908,
+            "mid": 955,
+            "end": 1003
+          },
+          "shot_sha256": "043fd24c64801e15abc248dbb10b7f513cd0c4e7f154a0dcefa2e015004993b0"
+        },
+        {
+          "id": "shot-14",
+          "index": 14,
+          "source_id": null,
+          "start": 33.452,
+          "end": 34.946,
+          "start_frame": 1004,
+          "end_frame": 1049,
+          "phases": {
+            "start": 1004,
+            "mid": 1026,
+            "end": 1048
+          },
+          "shot_sha256": "645d6f2686bcaf21cee60e4318fcce69650a07c7b6adf90f8cf09bfe630f8f22"
+        },
+        {
+          "id": "shot-15",
+          "index": 15,
+          "source_id": null,
+          "start": 34.946,
+          "end": 36.556,
+          "start_frame": 1049,
+          "end_frame": 1097,
+          "phases": {
+            "start": 1049,
+            "mid": 1072,
+            "end": 1096
+          },
+          "shot_sha256": "0e1317165797da5757296bd61959b7c4c12151e3d8bad7181ecea1176af6cde6"
+        },
+        {
+          "id": "shot-16",
+          "index": 16,
+          "source_id": null,
+          "start": 36.556,
+          "end": 39.458,
+          "start_frame": 1097,
+          "end_frame": 1184,
+          "phases": {
+            "start": 1097,
+            "mid": 1140,
+            "end": 1183
+          },
+          "shot_sha256": "dbe1ee719648d54a62f512e9fff4fbf397ce73e915344884e0f45ef6c6ffdd28"
+        },
+        {
+          "id": "shot-17",
+          "index": 17,
+          "source_id": null,
+          "start": 39.458,
+          "end": 42.942,
+          "start_frame": 1184,
+          "end_frame": 1289,
+          "phases": {
+            "start": 1184,
+            "mid": 1236,
+            "end": 1288
+          },
+          "shot_sha256": "fc6b4d198c111a5456a967e897e7629828fd85aaa39eb4e93f140cd071b26758"
+        }
+      ],
+      "caption_sha256": "66a5ba37ad649c5bce84fdaea3c7e2ce31d3190d1c1ce6743e6fbeb51d1d8c34",
+      "reference_ids": [
+        "b1-ryan-v4",
+        "b1-ryan-contact-sheet",
+        "b1-ryan-motion-sheet",
+        "b1-full-v4-contact-sheet"
+      ],
+      "checks": [
+        "drawing_character",
+        "semantic_acting",
+        "contact_continuity",
+        "composition_evidence",
+        "typography_captions",
+        "timing_pacing",
+        "sound"
+      ],
+      "limits": [
+        "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+        "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+        "Independent agent review does not imply human approval or user acceptance.",
+        "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+        "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+      ]
+    },
+    "references": [
+      {
+        "id": "b1-ryan-v4",
+        "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23.mp4",
+        "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc",
+        "kind": "video",
+        "role": "approved_baseline",
+        "duration": 21.3,
+        "has_audio": true,
+        "required_comparison": true,
+        "limitations": []
+      },
+      {
+        "id": "b1-ryan-contact-sheet",
+        "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23-contact-sheet.png",
+        "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e",
+        "kind": "image",
+        "role": "approved_baseline",
+        "duration": null,
+        "has_audio": false,
+        "required_comparison": false,
+        "limitations": [
+          "Static sheet cannot demonstrate continuous motion, subtitle timing or listening."
+        ]
+      },
+      {
+        "id": "b1-ryan-motion-sheet",
+        "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23-motion-sheet.png",
+        "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73",
+        "kind": "image",
+        "role": "approved_baseline",
+        "duration": null,
+        "has_audio": false,
+        "required_comparison": false,
+        "limitations": [
+          "Static sheet cannot demonstrate continuous motion, subtitle timing or listening."
+        ]
+      },
+      {
+        "id": "b1-full-v4-contact-sheet",
+        "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-24-longform-contact-sheet.jpg",
+        "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e",
+        "kind": "image",
+        "role": "approved_longform_sampled_sheet",
+        "duration": null,
+        "has_audio": false,
+        "required_comparison": false,
+        "limitations": [
+          "Full V4 film is not bundled. This sampled sheet cannot establish continuous long-form motion or audio."
+        ]
+      }
+    ],
+    "reference_manifests": [
+      {
+        "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-baseline.json",
+        "sha256": "71a45ae39cfde9e90eefdf32676ad9be7082bfb5e0a85589face9967eca37e73"
+      },
+      {
+        "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-production-standard.json",
+        "sha256": "1208febb532b602ebf2cd54543461f90c171eab263d68ee4021a195ae27cd8b5"
+      }
+    ],
+    "artifacts": [
+      {
+        "id": "shot-0-start",
+        "shot": "shot-0",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 0,
+        "source_time": 0,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-0-start.png",
+        "sha256": "b4477a3937eb8b9822e7cbe7b31917e0b77e809dc0d07ef44a74b454b5b503a4"
+      },
+      {
+        "id": "shot-0-mid",
+        "shot": "shot-0",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 40,
+        "source_time": 1.333333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-0-mid.png",
+        "sha256": "27ea35508c1c1535226dd01dbe365fc4361d8d51e35c8f0d02c494d9c56c5715"
+      },
+      {
+        "id": "shot-0-end",
+        "shot": "shot-0",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 80,
+        "source_time": 2.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-0-end.png",
+        "sha256": "12e393d5b9925607131e7100ce3485586e30f17d99680b87c433b60ec24c2ba5"
+      },
+      {
+        "id": "shot-0-continuous",
+        "shot": "shot-0",
+        "type": "clip",
+        "start_frame": 0,
+        "end_frame": 81,
+        "source_start": 0,
+        "source_end": 2.7,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-0-continuous.mp4",
+        "sha256": "37dfe3f2db52b21cd992e61c8fee8cdb0fe2b2b06aca99c63d38fe7aa6e47a01"
+      },
+      {
+        "id": "shot-1-start",
+        "shot": "shot-1",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 81,
+        "source_time": 2.7,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-1-start.png",
+        "sha256": "e5ffff6a2ab031fbd5bf02c5a2d3f85d131f8073fd65d374bf58ab2760c0c330"
+      },
+      {
+        "id": "shot-1-mid",
+        "shot": "shot-1",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 124,
+        "source_time": 4.133333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-1-mid.png",
+        "sha256": "408b1f1ac7c721aaa04a396d3405ce4f51fb894f54c6f20f3443a599abca0e70"
+      },
+      {
+        "id": "shot-1-end",
+        "shot": "shot-1",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 167,
+        "source_time": 5.566667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-1-end.png",
+        "sha256": "5ddea55c2261fbebc2948721cb0165388adbd1c09ed7d555b44fa3c7483e80cd"
+      },
+      {
+        "id": "shot-1-continuous",
+        "shot": "shot-1",
+        "type": "clip",
+        "start_frame": 81,
+        "end_frame": 168,
+        "source_start": 2.7,
+        "source_end": 5.6,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-1-continuous.mp4",
+        "sha256": "71f87b8d6cf3a4827132c8340851b1a7929de434b63474923633ac4b43307f48"
+      },
+      {
+        "id": "shot-2-start",
+        "shot": "shot-2",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 168,
+        "source_time": 5.6,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-2-start.png",
+        "sha256": "b2ef27c4801b5dcf88bc6978a5226c0516f852670acd719b0cd43b3d38746cb3"
+      },
+      {
+        "id": "shot-2-mid",
+        "shot": "shot-2",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 198,
+        "source_time": 6.6,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-2-mid.png",
+        "sha256": "4b710266e6d44accd923bafc1e96c340b1a0ccf9f2323759bb27c121b0b7f0b7"
+      },
+      {
+        "id": "shot-2-end",
+        "shot": "shot-2",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 229,
+        "source_time": 7.633333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-2-end.png",
+        "sha256": "2f077de7ea5d9e772588fd4016174137c97680aa43518fcd2c604a32b8b17fdf"
+      },
+      {
+        "id": "shot-2-continuous",
+        "shot": "shot-2",
+        "type": "clip",
+        "start_frame": 168,
+        "end_frame": 230,
+        "source_start": 5.6,
+        "source_end": 7.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-2-continuous.mp4",
+        "sha256": "af89d297d06a1a1fd82c34d43f7beecf3f84443b49c7b2a7f0e47b77b985ec37"
+      },
+      {
+        "id": "shot-3-start",
+        "shot": "shot-3",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 230,
+        "source_time": 7.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-3-start.png",
+        "sha256": "d5303566a7f3cc9509fbc15c5af1c7d828cff0a6779b520b4f7528013689dcb9"
+      },
+      {
+        "id": "shot-3-mid",
+        "shot": "shot-3",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 259,
+        "source_time": 8.633333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-3-mid.png",
+        "sha256": "982a35a434fbe7aa75008d1219c3bfda4e0e326fd9e883c649844e470106c11a"
+      },
+      {
+        "id": "shot-3-end",
+        "shot": "shot-3",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 289,
+        "source_time": 9.633333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-3-end.png",
+        "sha256": "8b70de1d2cb12bb2a70ac5cf4ed3f65f21588d09e7ee991f2d1470a2758ec833"
+      },
+      {
+        "id": "shot-3-continuous",
+        "shot": "shot-3",
+        "type": "clip",
+        "start_frame": 230,
+        "end_frame": 290,
+        "source_start": 7.666667,
+        "source_end": 9.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-3-continuous.mp4",
+        "sha256": "b7f9f716cd91259ccee7a96d8f1637ce1efa8a52469adc35c53e98ab36f91147"
+      },
+      {
+        "id": "shot-4-start",
+        "shot": "shot-4",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 290,
+        "source_time": 9.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-4-start.png",
+        "sha256": "f57829a7b48ad780476baa9cd1ccbd0a5e9eff7272bcd811fa518a1606408b7e"
+      },
+      {
+        "id": "shot-4-mid",
+        "shot": "shot-4",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 324,
+        "source_time": 10.8,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-4-mid.png",
+        "sha256": "e77cea454f44ed654b4aeeef01f3d79afd286a1833fb4c2223d664faf492be0e"
+      },
+      {
+        "id": "shot-4-end",
+        "shot": "shot-4",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 358,
+        "source_time": 11.933333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-4-end.png",
+        "sha256": "0322f4a8742551b9c6955d68ab1861c4d37ffc0d016f6bad5805d816bdf3ac73"
+      },
+      {
+        "id": "shot-4-continuous",
+        "shot": "shot-4",
+        "type": "clip",
+        "start_frame": 290,
+        "end_frame": 359,
+        "source_start": 9.666667,
+        "source_end": 11.966667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-4-continuous.mp4",
+        "sha256": "78e72c772c74388bce1cbd024487058fe25604a5edc0197ea673fccb6e8c9c3b"
+      },
+      {
+        "id": "shot-5-start",
+        "shot": "shot-5",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 359,
+        "source_time": 11.966667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-5-start.png",
+        "sha256": "865e63ecafdb3239dd67623a8a4b71ae22cd199a12e9c85c57eb3d88c1dd33b6"
+      },
+      {
+        "id": "shot-5-mid",
+        "shot": "shot-5",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 399,
+        "source_time": 13.3,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-5-mid.png",
+        "sha256": "d182c5b4ea85fd1a695cbed263052fbb798747d461ec4698acf703cc454df279"
+      },
+      {
+        "id": "shot-5-end",
+        "shot": "shot-5",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 439,
+        "source_time": 14.633333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-5-end.png",
+        "sha256": "51800458c8938a3a6e53b03e2fe8a3899d5b3f161b5c5bb2b3c7b29f9e21064b"
+      },
+      {
+        "id": "shot-5-continuous",
+        "shot": "shot-5",
+        "type": "clip",
+        "start_frame": 359,
+        "end_frame": 440,
+        "source_start": 11.966667,
+        "source_end": 14.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-5-continuous.mp4",
+        "sha256": "221f097cab78b3de024477cc077b410fd91c4297f6c56ab57bc7fd3f8ada079f"
+      },
+      {
+        "id": "shot-6-start",
+        "shot": "shot-6",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 440,
+        "source_time": 14.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-6-start.png",
+        "sha256": "42c10e8f60d2e9eb43264a3b87d5355951e42c73ff3e3f9bd162e4663f3f76c0"
+      },
+      {
+        "id": "shot-6-mid",
+        "shot": "shot-6",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 471,
+        "source_time": 15.7,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-6-mid.png",
+        "sha256": "4d4d59559906f452192abb235df39179ffaf225f8a4aef5c83e1dcd8e78f0ffe"
+      },
+      {
+        "id": "shot-6-end",
+        "shot": "shot-6",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 502,
+        "source_time": 16.733333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-6-end.png",
+        "sha256": "149bd5c92e74f32ca658ac8a141a2fa37d15457252b8054c642e7cfc9531204b"
+      },
+      {
+        "id": "shot-6-continuous",
+        "shot": "shot-6",
+        "type": "clip",
+        "start_frame": 440,
+        "end_frame": 503,
+        "source_start": 14.666667,
+        "source_end": 16.766667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-6-continuous.mp4",
+        "sha256": "158873afa4c32555505882187d0c81bf6cde1c5201132bbc1144ef669dbd3a11"
+      },
+      {
+        "id": "shot-7-start",
+        "shot": "shot-7",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 503,
+        "source_time": 16.766667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-7-start.png",
+        "sha256": "57136466096a24cc4ba39da51b2faeb4b16fdcc52e52ba46f24959626f2844af"
+      },
+      {
+        "id": "shot-7-mid",
+        "shot": "shot-7",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 524,
+        "source_time": 17.466667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-7-mid.png",
+        "sha256": "94dc0732f258a504171eba631bcd76900a1f66c8325cbae07689d1444ed4587d"
+      },
+      {
+        "id": "shot-7-end",
+        "shot": "shot-7",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 545,
+        "source_time": 18.166667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-7-end.png",
+        "sha256": "e764434a2e98b8919bc5838881c72b72ce4f664c2cc6e1329b7ade7f9e7dfa1c"
+      },
+      {
+        "id": "shot-7-continuous",
+        "shot": "shot-7",
+        "type": "clip",
+        "start_frame": 503,
+        "end_frame": 546,
+        "source_start": 16.766667,
+        "source_end": 18.2,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-7-continuous.mp4",
+        "sha256": "01f26af1068382dd418fa4ba4fb49e14f6563cb32d887c8f125e26a6a7dfa95d"
+      },
+      {
+        "id": "shot-8-start",
+        "shot": "shot-8",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 546,
+        "source_time": 18.2,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-8-start.png",
+        "sha256": "7bd7b3fbb87f60b412ddc0cdc1f8fb25e5b89c2d5730c8625b5cb93593d27ac5"
+      },
+      {
+        "id": "shot-8-mid",
+        "shot": "shot-8",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 575,
+        "source_time": 19.166667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-8-mid.png",
+        "sha256": "361a15b7dcb80c7b0da5863f232e898bff1a6d3ceb1711dfabe7e70d9d2ce964"
+      },
+      {
+        "id": "shot-8-end",
+        "shot": "shot-8",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 605,
+        "source_time": 20.166667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-8-end.png",
+        "sha256": "40f53bd14df4166ba80bdc1fe26bf36cd776e36200d15a63283579519eaf6612"
+      },
+      {
+        "id": "shot-8-continuous",
+        "shot": "shot-8",
+        "type": "clip",
+        "start_frame": 546,
+        "end_frame": 606,
+        "source_start": 18.2,
+        "source_end": 20.2,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-8-continuous.mp4",
+        "sha256": "2c4760d2abdf4b8dd79ead2372e359c6f451dc6c37a573863388e5c60223958a"
+      },
+      {
+        "id": "shot-9-start",
+        "shot": "shot-9",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 606,
+        "source_time": 20.2,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-9-start.png",
+        "sha256": "428e97abfe6830d97ec6857dade1304101c2d4a0e0f6b46c38dc5682394155ee"
+      },
+      {
+        "id": "shot-9-mid",
+        "shot": "shot-9",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 638,
+        "source_time": 21.266667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-9-mid.png",
+        "sha256": "75685b1c30d4d8801399b6d8855f56f3eb954bef62c5ef4015c84e0e57870589"
+      },
+      {
+        "id": "shot-9-end",
+        "shot": "shot-9",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 671,
+        "source_time": 22.366667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-9-end.png",
+        "sha256": "3901f541ad45f864004ffcb92aab8a873a0de73f41ebafddbaf4ea535e18209b"
+      },
+      {
+        "id": "shot-9-continuous",
+        "shot": "shot-9",
+        "type": "clip",
+        "start_frame": 606,
+        "end_frame": 672,
+        "source_start": 20.2,
+        "source_end": 22.4,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-9-continuous.mp4",
+        "sha256": "c7555b02e5f5965af0999a3f6bcb7230995200459d62eceeac2db8492bb1d86c"
+      },
+      {
+        "id": "shot-10-start",
+        "shot": "shot-10",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 672,
+        "source_time": 22.4,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-10-start.png",
+        "sha256": "34ee9c57cb24d04a729a2b21413ac523f6922429b93e07fb6f552da6b87b0bde"
+      },
+      {
+        "id": "shot-10-mid",
+        "shot": "shot-10",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 708,
+        "source_time": 23.6,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-10-mid.png",
+        "sha256": "bf99fe16c02e1a5fd35efa064b3eb1abee60f508de082a118832aed1dd2519d9"
+      },
+      {
+        "id": "shot-10-end",
+        "shot": "shot-10",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 744,
+        "source_time": 24.8,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-10-end.png",
+        "sha256": "ef9d543a553aa89a7cf96bc8b67ed229c2c3fa2c034279ac0ea30844bb552c11"
+      },
+      {
+        "id": "shot-10-continuous",
+        "shot": "shot-10",
+        "type": "clip",
+        "start_frame": 672,
+        "end_frame": 745,
+        "source_start": 22.4,
+        "source_end": 24.833333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-10-continuous.mp4",
+        "sha256": "6502af1a7d3ce8b491a10ce8f8bdb5a3a5262b85cf7bf8717bc4a39291460f38"
+      },
+      {
+        "id": "shot-11-start",
+        "shot": "shot-11",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 745,
+        "source_time": 24.833333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-11-start.png",
+        "sha256": "6430eb5eba6868ddf4c50a2349c52327ffcc4452e301ef3afe3070c3612ebee3"
+      },
+      {
+        "id": "shot-11-mid",
+        "shot": "shot-11",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 796,
+        "source_time": 26.533333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-11-mid.png",
+        "sha256": "bb2bcd87e0adcae3309c6068cc01f892ee36b74656975bd77d36a407fcd2d4c1"
+      },
+      {
+        "id": "shot-11-end",
+        "shot": "shot-11",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 847,
+        "source_time": 28.233333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-11-end.png",
+        "sha256": "a9aeecb3b7c0dc5e34e1c964ebdfc0ecf2527fe85830a2ad3b68358c892d4565"
+      },
+      {
+        "id": "shot-11-continuous",
+        "shot": "shot-11",
+        "type": "clip",
+        "start_frame": 745,
+        "end_frame": 848,
+        "source_start": 24.833333,
+        "source_end": 28.266667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-11-continuous.mp4",
+        "sha256": "1099bf9a7b80cc9ecf8ace692d5635aa3997b0ef87427c572d499a39021f2e03"
+      },
+      {
+        "id": "shot-12-start",
+        "shot": "shot-12",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 848,
+        "source_time": 28.266667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-12-start.png",
+        "sha256": "f6b07ddcdfbbdafe2ba7ea859b9a3b228451303779bfaf84d1ac47eb0da2fe07"
+      },
+      {
+        "id": "shot-12-mid",
+        "shot": "shot-12",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 877,
+        "source_time": 29.233333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-12-mid.png",
+        "sha256": "20b5d6023fe79582aff52736e6c5a7ef67cf9b7c5e3715d2dfed32c18e91fc8a"
+      },
+      {
+        "id": "shot-12-end",
+        "shot": "shot-12",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 907,
+        "source_time": 30.232682,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-12-end.png",
+        "sha256": "6d1f98529b6f6882db49d570c3a3bca64c152cda25878cab0e8762b807e0b78e"
+      },
+      {
+        "id": "shot-12-continuous",
+        "shot": "shot-12",
+        "type": "clip",
+        "start_frame": 848,
+        "end_frame": 908,
+        "source_start": 28.266667,
+        "source_end": 30.266016,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-12-continuous.mp4",
+        "sha256": "f2160b2f9ba9ecd773942cce66213d156f73bac03068f521ac04376dba710472"
+      },
+      {
+        "id": "shot-13-start",
+        "shot": "shot-13",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 908,
+        "source_time": 30.266016,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-13-start.png",
+        "sha256": "9277f246eeee9e5ab1795faa54cb7535c41edd2cbf758356c7145b1470653772"
+      },
+      {
+        "id": "shot-13-mid",
+        "shot": "shot-13",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 955,
+        "source_time": 31.832682,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-13-mid.png",
+        "sha256": "ea2921e462a5a6629ca33382ac832e0743cf4c6e7ab2bef31329b5c3f9c6fe9f"
+      },
+      {
+        "id": "shot-13-end",
+        "shot": "shot-13",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 1003,
+        "source_time": 33.432682,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-13-end.png",
+        "sha256": "c15eac6027ffed98dfad2d94202128707c6802e361c1f835d884455885816048"
+      },
+      {
+        "id": "shot-13-continuous",
+        "shot": "shot-13",
+        "type": "clip",
+        "start_frame": 908,
+        "end_frame": 1004,
+        "source_start": 30.266016,
+        "source_end": 33.466016,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-13-continuous.mp4",
+        "sha256": "a45dbe5902ce2de40b784a0caf069c97527015753dac83fa04968aad4c7f193b"
+      },
+      {
+        "id": "shot-14-start",
+        "shot": "shot-14",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 1004,
+        "source_time": 33.466016,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-14-start.png",
+        "sha256": "35f78efc0d596fdbc37a1a5bdf1ad9deb150257c939e532b0da54a20f115771e"
+      },
+      {
+        "id": "shot-14-mid",
+        "shot": "shot-14",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 1026,
+        "source_time": 34.199349,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-14-mid.png",
+        "sha256": "1b092021eb98e8bcf483201b5723b1fb2f2473d7ceb9e88fdbe746126efdf124"
+      },
+      {
+        "id": "shot-14-end",
+        "shot": "shot-14",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 1048,
+        "source_time": 34.932682,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-14-end.png",
+        "sha256": "487e5d18856181bcec3e14fc56040d8ca036daa383d4079f4d4c54a82e3af98c"
+      },
+      {
+        "id": "shot-14-continuous",
+        "shot": "shot-14",
+        "type": "clip",
+        "start_frame": 1004,
+        "end_frame": 1049,
+        "source_start": 33.466016,
+        "source_end": 34.966016,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-14-continuous.mp4",
+        "sha256": "a7e9053f548785092a822fe2fb27168d251d79592a33a09c45ca2f07828b88ba"
+      },
+      {
+        "id": "shot-15-start",
+        "shot": "shot-15",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 1049,
+        "source_time": 34.966016,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-15-start.png",
+        "sha256": "6ddac160cd19fd2d04b4fa04a3e0e7198ebb6a8239160949b2b65d3d8a89db89"
+      },
+      {
+        "id": "shot-15-mid",
+        "shot": "shot-15",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 1072,
+        "source_time": 35.732682,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-15-mid.png",
+        "sha256": "1223b09655bf26fb9f73338f46bde76edcecf2d55d823daf17201685c366d387"
+      },
+      {
+        "id": "shot-15-end",
+        "shot": "shot-15",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 1096,
+        "source_time": 36.532682,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-15-end.png",
+        "sha256": "8972c9b7fe5ea0bf731de45af04e2424acb4fbcceaa23f4bdeded19b013a9175"
+      },
+      {
+        "id": "shot-15-continuous",
+        "shot": "shot-15",
+        "type": "clip",
+        "start_frame": 1049,
+        "end_frame": 1097,
+        "source_start": 34.966016,
+        "source_end": 36.566016,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-15-continuous.mp4",
+        "sha256": "dd05215e111f6e9ab55cf572fe377cd698b236e80883e5539e5cf2f31acdfb90"
+      },
+      {
+        "id": "shot-16-start",
+        "shot": "shot-16",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 1097,
+        "source_time": 36.566016,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-16-start.png",
+        "sha256": "d937eb028f1bb0738526eaa767e9596606bba1278698dfee6ef4a358b5f0e6c8"
+      },
+      {
+        "id": "shot-16-mid",
+        "shot": "shot-16",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 1140,
+        "source_time": 37.999349,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-16-mid.png",
+        "sha256": "e5c1d35e19c6b8e670a8d9ff32e8fbb2c218e6e49ca847f060d049d70aee6cd0"
+      },
+      {
+        "id": "shot-16-end",
+        "shot": "shot-16",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 1183,
+        "source_time": 39.432682,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-16-end.png",
+        "sha256": "86bb30466a70dcf370af575ee6152807fb12c034e62b1cbff9fcb37546ca148d"
+      },
+      {
+        "id": "shot-16-continuous",
+        "shot": "shot-16",
+        "type": "clip",
+        "start_frame": 1097,
+        "end_frame": 1184,
+        "source_start": 36.566016,
+        "source_end": 39.466016,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-16-continuous.mp4",
+        "sha256": "507aec41aa8ec87e336540137e173a58867d297fd48556c1f69207a8dac17644"
+      },
+      {
+        "id": "shot-17-start",
+        "shot": "shot-17",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 1184,
+        "source_time": 39.466016,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-17-start.png",
+        "sha256": "16f9c9e4f42e39fd5f69d8768a95e95f580bc22acb501afff7f24646282439d4"
+      },
+      {
+        "id": "shot-17-mid",
+        "shot": "shot-17",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 1236,
+        "source_time": 41.199349,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-17-mid.png",
+        "sha256": "ddb07c7982da0cfaac4d4b1236a1647a3bafb3a2e803240d5a2d63d191c2ec30"
+      },
+      {
+        "id": "shot-17-end",
+        "shot": "shot-17",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 1288,
+        "source_time": 42.932682,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-17-end.png",
+        "sha256": "c769e51fba5b864a94f9a27fd5ada06ca12dcff320fb04847bbcab5ae5604485"
+      },
+      {
+        "id": "shot-17-continuous",
+        "shot": "shot-17",
+        "type": "clip",
+        "start_frame": 1184,
+        "end_frame": 1289,
+        "source_start": 39.466016,
+        "source_end": 42.966016,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-17-continuous.mp4",
+        "sha256": "e6734f4aebadc8e1fc5ec17a43bfe0baf8ed01092075009e4054b179c2e3a655"
+      }
+    ],
+    "evidence_dir": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/output/preview-reference",
+    "ledger_file": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/output/preview-reference/evidence.json",
+    "template_file": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/J/output/preview-reference/review-template.json",
+    "limits": [
+      "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+      "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+      "Independent agent review does not imply human approval or user acceptance.",
+      "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+      "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+    ]
+  },
+  "visual_acceptance": "pending_independent_review",
+  "delivery_ready": false
+}

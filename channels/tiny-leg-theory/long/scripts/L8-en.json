@@ -1,0 +1,978 @@
+{
+ "id": "L8",
+ "lang": "en",
+ "title": "Why You Feel Stuck in Your Career",
+ "description": "Feeling stuck at work often comes from stalled skills, poor fit, or unseen trade-offs. Here are eight mechanisms explaining why you hit a wall, plus a practical audit to start moving again.",
+ "chapters": [
+  {
+   "title": "Intro",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "The day is ending and someone hired after you just got the promotion you wanted.",
+     "text": "INTRO",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. Feeling stuck does not mean you are lazy or aiming too low.",
+     "text": "NOT A CHARACTER FLAW",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Maybe my skills stopped growing, or maybe the job itself blocks every next step?",
+     "text": "SKILLS OR FRICTION?",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "We will look at eight reasons a capable person hits a wall at work.",
+     "text": "EIGHT CLUES",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then we run a focused audit on the first thirty minutes of each workday.",
+     "text": "A FOCUSED AUDIT",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "No dramatic quit speech. Just notice which parts are yours to move.",
+     "text": "START WHAT MOVES",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "2. Learned Helplessness",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You suggest a better process twice, hear silence, and stop sharing ideas altogether.",
+     "text": "2. LEARNED HELPLESSNESS",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is learned helplessness. Repeated dead ends teach you that effort will not matter.",
+     "text": "EFFORT FEELS POINTLESS",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So even when the situation changes, I never test a new route?",
+     "text": "OLD RULES LINGER",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When attempts brought zero control, your mind saves energy by predicting the same wall.",
+     "text": "PREDICT THE SAME END",
+     "color": "gold",
+     "actor": "think",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The silence around my idea starts to feel like proof that nothing will ever work.",
+     "text": "SILENCE BECOMES PROOF",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Do not fix the whole culture. Pick one small request with a clear owner.",
+     "text": "MAKE ONE SMALL ASK",
+     "color": "green",
+     "actor": "writing",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I could ask my manager for fifteen minutes to review one small process change?",
+     "text": "ASK FOR A TRIAL",
+     "color": "green",
+     "actor": "nervous_wave",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Log the actual response, not the story your worry adds. That is one clean rep.",
+     "text": "LOG WHAT HAPPENED",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If the answer is no, can I ask what makes a small test possible?",
+     "text": "FIND THE CONDITION",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "One refusal is not a verdict. It gives you a fresh signal to test.",
+     "text": "SIGNAL, NOT VERDICT",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Stacking factual responses proves that small actions still carry weight.",
+     "text": "STACK REAL PROOF",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rebuild agency one rep at a time. Action rewires what worry freezes.",
+     "text": "REPS REWIRE FEAR",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sometimes the signal is that I do work I already know too well.",
+     "text": "WHEN MASTERY STALLS",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "laptop_file"
+    }
+   ]
+  },
+  {
+   "title": "3. Competence Trap",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You become the one who fixes every spreadsheet and rescues every tight deadline.",
+     "text": "3. COMPETENCE TRAP",
+     "color": "gold",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is the competence trap. Reliability keeps you locked in the exact same lane.",
+     "text": "GOOD AT IT. STUCK.",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "People trust me with this. Would asking for new work look like dropping the ball?",
+     "text": "TRUST BOXES YOU IN",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Workplaces reward tasks you already ace far more than skills you need to build.",
+     "text": "REWARDED FOR THE OLD",
+     "color": "gold",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And a known win feels safer than a beginner moment where I look clumsy.",
+     "text": "BEGINNER FEELS RISKY",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain craves cheap competence because novel learning burns energy and triggers self-doubt.",
+     "text": "THE COGNITIVE COST",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So how do I step out of this trap without abandoning my current duties?",
+     "text": "HOW TO STEP OUT?",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Keep your dependable reps, but bolt one growth task onto a project this month.",
+     "text": "PAIR WORK WITH GROWTH",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I could offer to present the analysis instead of just emailing the workbook?",
+     "text": "OWN THE PRESENTATION",
+     "color": "green",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tell your lead you are taking one crack at the deck. Keep the delivery small and measurable.",
+     "text": "MEASURE THE FIRST REP",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That makes the stretch visible without dropping my regular duties overnight.",
+     "text": "STRETCH WITH A LIMIT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are not dropping what works. Just add a heavier set beside it.",
+     "text": "ADD A NEW SET",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "While I polished those spreadsheets, older skills I once loved faded from lack of use.",
+     "text": "PRACTICE FADES",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "4. Skill Atrophy",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You used to write or code, but your current role rarely asks for it.",
+     "text": "4. SKILL ATROPHY",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Skill atrophy. Abilities get rusty when you stop giving them regular reps.",
+     "text": "REPS KEEP IT SHARP",
+     "color": "gold",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does that rust mean I chose the wrong career, or lost my ability for good?",
+     "text": "RUST IS NOT ERASED",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When you stop practicing, restart friction climbs. What used to feel automatic now takes heavy conscious effort.",
+     "text": "RESTART FRICTION GROWS",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When the first attempt feels clumsy, I avoid the next one and confirm fear.",
+     "text": "AVOIDANCE ADDS RUST",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your mind mistakes rust for lack of talent. It is just cold machinery.",
+     "text": "COLD MACHINERY",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So I do not need a three-month course to regain my sharpness?",
+     "text": "NO COURSE NEEDED",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Fit small practice inside work. Do not wait for a perfect free afternoon.",
+     "text": "MAKE PRACTICE SMALL",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I could spend ten minutes drafting a client note before checking email?",
+     "text": "TEN MINUTES OF REPS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Once a week, use that skill on a live task or shadow someone using it.",
+     "text": "PUT SKILL TO WORK",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That gives me evidence about whether fluency returns and whether I still enjoy it.",
+     "text": "NOTICE WHAT RETURNS",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Treat rust as a warm-up. If reps bring zero spark, that is useful data.",
+     "text": "WARM UP, THEN REVIEW",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Spark matters because a career is shaped by the story I want my work to tell.",
+     "text": "THE STORY I BUILD",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "5. Career Construction",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "A peer gets promoted and suddenly your own path looks like a dead-end hallway.",
+     "text": "5. CAREER CONSTRUCTION",
+     "color": "gold",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. Treat work as an unfolding story, not a fixed track. You write the next set.",
+     "text": "YOU SHAPE THE STORY",
+     "color": "gold",
+     "actor": "writing",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That sounds nice, but I cannot control executive hiring decisions or budgets.",
+     "text": "CONTROL HAS LIMITS",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Connect what matters to you with real problems teams need solved.",
+     "text": "VALUES MEET OPTIONS",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Our brains crave premade ladders because authoring our own path takes heavy focus.",
+     "text": "LADDERS FEEL EASY",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When ladders end, passive workers stall. Storytellers design their next chapter.",
+     "text": "DESIGN THE CHAPTER",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I want useful work, steady income, and room to learn, but which one leads?",
+     "text": "NAME WHAT MATTERS",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Write three past work moments that felt worthwhile and spot the common thread.",
+     "text": "FIND THE THREAD",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Maybe I enjoyed untangling messy team handoffs much more than chasing an empty title.",
+     "text": "WORK BEHIND TITLES",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use that thread to pitch a two-week trial. Own the weekly summary or shadow.",
+     "text": "A TWO-WEEK TRIAL",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A trial gives me real data instead of another round of daydreaming?",
+     "text": "DATA BEATS DAYDREAMS",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Keep the story grounded. A meaningful direction needs a workable next step.",
+     "text": "MEANING NEEDS ACTION",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even with a clear story, what if daily demands and strengths clash?",
+     "text": "CHECK THE DAILY FIT",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "6. Person-Job Fit",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Your workday is full of friction: constant pings, fuzzy priorities, and no deep work.",
+     "text": "6. PERSON-JOB FIT",
+     "color": "gold",
+     "actor": "worried_heart",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Person-job fit has two sides: whether your skills match their demands, and whether their rewards match your needs.",
+     "text": "SKILLS AND REWARDS",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A poor match feels like failure. Is the problem my stamina or the role?",
+     "text": "IS IT ME OR THE ROLE?",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When demands constantly clash with strengths, your mind dials down effort to protect your energy.",
+     "text": "STRAIN CUTS EFFORT",
+     "color": "gold",
+     "actor": "bored_yawn",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When the role starves your autonomy, chronic stress drains your mental batteries fast.",
+     "text": "AUTONOMY DRAIN",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Track three things for a week: energy up, energy down, and required skill.",
+     "text": "TRACK THE PATTERN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I enjoy deep analysis but lose steam when forced into back-to-back client escalations.",
+     "text": "FIND THE DRAIN",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Decide if the drain is a trainable skill gap or a values clash.",
+     "text": "SKILL GAP OR CLASH?",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If it is a values clash, can I propose swapping a task with someone?",
+     "text": "PROPOSE A SWAP",
+     "color": "green",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trade reactive firefighting for analytical summaries that someone else on the team dreads.",
+     "text": "TRADE WITH A PEER",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And what if leadership refuses to budge on any part of the workload?",
+     "text": "WHEN WORK IS RIGID",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "If the mismatch stays after adjustments, that is a clear signal to move.",
+     "text": "AN ORDERLY MOVE",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even inside the same role, some pieces of the day are easier to reshape.",
+     "text": "RESHAPE THE WORKDAY",
+     "color": "ink",
+     "actor": "front",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "7. Job Crafting",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You open your laptop to a flood of messages, and thirty minutes vanish.",
+     "text": "7. JOB CRAFTING",
+     "color": "gold",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Job crafting means adjusting tasks, boundaries, or perspective. Small moves, real reps.",
+     "text": "SHAPE A SMALL PART",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So I could change what daily tasks I take on, or how I approach them?",
+     "text": "CHANGE THE TASK",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tweak the tasks. Add one meaningful piece or trim one low-value morning habit.",
+     "text": "TWEAK THE TASKS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What about the people side? Some handoffs create more friction than the tasks themselves.",
+     "text": "FRICTION IN HANDOFFS",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Shift the boundary. Renegotiate one handoff or add a check-in that cuts confusion.",
+     "text": "SHIFT THE BOUNDARY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And can I change how I view routine tasks without just pretending to love them?",
+     "text": "REFRAME THE ROUTINE",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Change the angle. Reframe the weekly report as data powering your next pitch.",
+     "text": "CHANGE THE ANGLE",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "For five mornings, I will track my first thirty minutes: actions, energy, and interruptions.",
+     "text": "AUDIT THE MORNING",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Log for two mornings. Test one adjustment for three days, and keep what sticks.",
+     "text": "TEST, THEN KEEP",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Protecting that early window creates immediate breathing room without triggering workplace drama.",
+     "text": "CREATE BREATHING ROOM",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Small adjustments compound. When you control thirty minutes, you control your day.",
+     "text": "CONTROL COMPOUNDS",
+     "color": "gold",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Protecting my morning shows how much time I lose to low-value routines.",
+     "text": "COUNTING REAL COSTS",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "8. Opportunity Cost",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You keep saying yes to urgent requests, and the course that grows your role waits.",
+     "text": "8. OPPORTUNITY COST",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Opportunity cost. Every yes to one thing is a no to something on your bench.",
+     "text": "EVERY YES COSTS",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Some of that work pays bills or builds trust. Not every yes is wrong.",
+     "text": "WORTH THE COST?",
+     "color": "ink",
+     "actor": "wallet_worry"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Immediate demands shout louder than quiet benefits that show up months from now.",
+     "text": "NOW BEATS LATER",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I keep familiar tasks because results are visible. Growth feels uncertain and risky.",
+     "text": "SURE TASK, FAR GROWTH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain defaults to immediate social praise instead of investing in delayed growth.",
+     "text": "SEEKING EASY WINS",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I make tradeoffs visible before my week gets booked up?",
+     "text": "MAKE TRADES VISIBLE",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Do not just drop work. Propose swapping thirty minutes of routine admin for thirty minutes of project analysis.",
+     "text": "PROPOSE A CLEAN TRADE",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Framing it as a clean trade protects time for focused learning.",
+     "text": "PROTECT TIME TO GROW",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You only have so many daily working sets. Spend them on busywork, and heavy lifts suffer.",
+     "text": "ENERGY IS FINITE",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So every time an ask arrives, I consciously name what project gets delayed?",
+     "text": "NAME WHAT GETS CUT",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Name the trade out loud. If it harms your growth, negotiate the deadline.",
+     "text": "NEGOTIATE DEADLINES",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Choosing a direction gets easier when I picture a version of myself doing it.",
+     "text": "PICTURE A FUTURE SELF",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "9. Possible Selves",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You browse job listings late at night, imagining five futures and trusting none.",
+     "text": "9. POSSIBLE SELVES",
+     "color": "gold",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Possible selves are futures you imagine becoming. They pull you forward or freeze you.",
+     "text": "FUTURES GUIDE TODAY",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The version that scares me most is sitting at this exact desk five years from now.",
+     "text": "THE FEARED VERSION",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Good, fear is useful. It is a guardrail showing you which direction to avoid.",
+     "text": "A GUARDRAIL, NOT DOOM",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A borrowed future built from someone else's highlight reel will never fit my actual life.",
+     "text": "BORROWED DREAMS",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Describe one realistic future day: the tasks, the pace, and the impact you want.",
+     "text": "DESCRIBE A REAL DAY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I want autonomous analytical work, clear strategic decisions, and fewer panicked escalations.",
+     "text": "AUTONOMY AND IMPACT",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pick the skill separating the hoped-for day from the feared one, and practice it.",
+     "text": "PRACTICE THE GAP",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then I test one piece of that future, like an executive brief or a cross-team presentation?",
+     "text": "TEST ONE PIECE",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Run that trial. Direct evidence reveals whether that future energizes you or just looks shiny.",
+     "text": "DIRECT EVIDENCE WINS",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can update the picture as I learn what the daily work actually requires.",
+     "text": "UPDATE WITH EVIDENCE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Career planning as reps: imagine, test, learn, adjust. No heroic leap needed.",
+     "text": "IMAGINE. TEST. ADJUST.",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Let us bring these clues together and make the next week concrete.",
+     "text": "MAKE IT CONCRETE",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Recap",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Career stuckness has a predictable pattern, even when it feels like a giant wall.",
+     "text": "RECAP",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "First: notice if dead ends, rusty skills, or overused strengths narrow your options.",
+     "text": "SPOT WHAT NARROWS",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Second: compare your needs with what the job asks and what you can shape.",
+     "text": "CHECK THE JOB MATCH",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Third: pick a meaningful direction, weigh the time cost, and test one future.",
+     "text": "CHOOSE. WEIGH. TEST.",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Here is your seven-day challenge: run a five-day audit on your first thirty minutes at work.",
+     "text": "SEVEN DAY CHALLENGE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Days one and two, log morning friction. Days three through five, test one small adjustment.",
+     "text": "LOG, THEN TEST",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "On Friday afternoon, review the audit. On Monday morning, lock in the boundary that gave you breathing room.",
+     "text": "LOCK IN THE BOUNDARY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Subscribe to Tiny Leg Theory. Put in the reps, and stop letting your career run on autopilot.",
+     "text": "PUT IN THE REPS",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

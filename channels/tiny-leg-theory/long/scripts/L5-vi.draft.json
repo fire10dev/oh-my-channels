@@ -1,0 +1,835 @@
+{
+ "id": "L5vi",
+ "lang": "vi",
+ "title": "Những cái bẫy tiền bạc và lựa chọn của não bộ",
+ "description": "Đồng hồ giảm giá, thực đơn dài hay một câu chuyện gây sốc đều có thể âm thầm lái quyết định. Pen và Buff bóc tách tám cái bẫy thường gặp, cùng vài cách đơn giản để chậm lại và tự chọn.",
+ "chapters": [
+  {
+   "title": "1. LỜI MỜI MUA HÀNG ÊM RU",
+   "sources": [],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn mở điện thoại xem một món, rồi tự nhiên lại đi biện hộ cho đơn hàng chưa tính mua.",
+     "text": "CHỈ XEM GIÁ THÔI",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não nhanh, thích hòa đồng, lại ngại tốn sức. Tiện đấy, tới lúc nó tiêu tiền của bạn.",
+     "text": "NHANH CHƯA CHẮC KHÔN",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một con số hiện ra, đồng hồ bắt đầu chạy. Tự nhiên lựa chọn bình thường giống bài kiểm tra dễ trượt.",
+     "text": "ÁP LỰC ẬP TỚI",
+     "color": "red",
+     "actor": "nervous_wave",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay gọi tên tám cái bẫy, mỗi cái một cách đối phó. Không phép màu, chỉ tập thôi.",
+     "text": "TÁM BẪY, TÁM HIỆP",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình sẽ xem giá, gói cước, đánh giá và lựa chọn mặc định, những lúc nhỏ khiến ta đổi ý.",
+     "text": "KHOẢNH KHẮC NHỎ",
+     "color": "ink",
+     "actor": "think",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đầu tiên là đồng hồ đếm ngược. Nó khiến chờ đợi giống như thua, dù món đó chưa thuộc về bạn.",
+     "text": "ĐỒNG HỒ BẮT ĐẦU",
+     "color": "red",
+     "actor": "panic",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "2. ĐỒNG HỒ ĐẾM NGƯỢC",
+   "sources": [
+    "s23",
+    "s100"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình thấy cái áo khoác vừa mắt, rồi trang báo ưu đãi hết sau mười phút. Tự nhiên mình căng lên.",
+     "text": "2. ĐỒNG HỒ ĐẾM NGƯỢC",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ban đầu mình chỉ lướt xem. Giờ lại tính xem đóng trang thì bỏ lỡ bao nhiêu tiền.",
+     "text": "MÓN HỜI HÓA GẤP",
+     "color": "red",
+     "actor": "wallet_worry"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng khan hiếm. Thứ gì có vẻ giới hạn, não dễ xem là có giá trị hơn.",
+     "text": "HIỆU ỨNG KHAN HIẾM",
+     "color": "gold",
+     "actor": "front 34",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tín hiệu nghe gọn lắm: mua trước khi cơ hội biến mất. Có lúc hữu ích, có lúc đồng hồ đang tập hít đất.",
+     "text": "GẤP GÁP LÀ TÍN HIỆU",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đồng hồ còn đổi luôn câu hỏi. Mình thôi hỏi có muốn áo không, mà sợ mất món hời.",
+     "text": "CÂU HỎI ĐỔI RỒI",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý né mất mát làm mình tiếc khi bỏ mã. Nhưng mã không dùng đâu phải tiền trong ví bay mất.",
+     "text": "MÃ GIẢM KHÔNG PHẢI TIỀN",
+     "color": "gold",
+     "actor": "coin_stack",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thử hỏi xem: trước khi thấy đồng hồ hay giá gạch ngang, mình có muốn món này không?",
+     "text": "TRƯỚC KHI ĐẾM NGƯỢC?",
+     "color": "green",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đóng trang một phút, ghi tên món và giá đầy đủ. Rồi chọn khi đồng hồ không dí trước mặt.",
+     "text": "TẮT ĐỒNG HỒ ĐI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngày mai mình vẫn muốn, lại vừa túi tiền, thì để phiên bản bình tĩnh hơn quyết định.",
+     "text": "BÌNH TĨNH RỒI CHỌN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cách nghỉ một nhịp cũng dùng được với món hời. Tiếp theo là tiền đã tiêu cứ kéo mình đi tiếp.",
+     "text": "NGHỈ RỒI ĐI TIẾP",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình gần như nghe trang bán hàng bảo đây là cơ hội cuối, dù hôm qua mình chưa cần nó.",
+     "text": "HÔM QUA CHƯA CẦN",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn theo điều bạn biết lúc này, đừng để cái đồng hồ nghĩ hộ bạn.",
+     "text": "BẠN TỰ CHỌN NHỊP",
+     "color": "green",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "3. TIỀN ĐÃ LỠ CHI",
+   "sources": [
+    "s24",
+    "s105"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình đóng tiền tập cả năm. Ghét lịch tập đó, nhưng nghỉ giống như nhận mình phí tiền.",
+     "text": "3. TIỀN ĐÃ LỠ CHI",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hoặc mình giữ đôi tai nghe cũ trong ngăn kéo, vì bán rẻ cứ thấy như mình chịu lỗ.",
+     "text": "ĐỒ CỦA MÌNH CÓ GIÁ",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cái níu đầu tiên là ngụy biện chi phí chìm. Tiền đã chi lại thành cớ để tiêu thêm thời gian.",
+     "text": "NGỤY BIỆN CHI PHÍ CHÌM",
+     "color": "gold",
+     "actor": "front 34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khoản đó mất rồi. Ở lại không hoàn tiền, còn nghỉ cũng chẳng làm khoản cũ lớn thêm.",
+     "text": "TIỀN CŨ ĐÃ ĐI",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đồ thuộc về mình còn níu thêm. Buông nó ra có thể giống mất nhiều hơn số tiền đã trả.",
+     "text": "ĐỒ CỦA MÌNH ĐẮT HƠN?",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng sở hữu. Món đồ tự nhiên được cộng giá trong đầu chỉ vì nó là của bạn.",
+     "text": "HIỆU ỨNG SỞ HỮU",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thử hỏi: nếu chưa mua hay chưa đăng ký, hôm nay mình có chọn nó với giá này không?",
+     "text": "HÔM NAY CÒN CHỌN?",
+     "color": "green",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Với phòng tập, so tháng tới của gói này với tháng tới của gói bạn thật sự sẽ tập.",
+     "text": "SO TỪ BÂY GIỜ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Với tai nghe, tưởng tượng tiền mặt và tai nghe đặt trên bàn. Ngay lúc này mình chọn gì?",
+     "text": "TIỀN HAY TAI NGHE?",
+     "color": "green",
+     "actor": "think",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ nếu giá trị sắp tới xứng chỗ. Đổi hoặc bán nếu không. Hiệp đó rõ ràng rồi.",
+     "text": "HIỆP TỚI MỚI TÍNH",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chuyện cũ giải thích mình đến đây thế nào, nhưng không phải nó chọn đường tiếp theo.",
+     "text": "NHÌN VỀ PHÍA TRƯỚC",
+     "color": "gold",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ xem con số đầu tiên mình thấy, và vì sao mấy giá sau cứ xoay quanh nó.",
+     "text": "GIÁ ĐẦU TIÊN",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "4. CON SỐ ĐẦU TIÊN",
+   "sources": [
+    "s87",
+    "s92"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình thấy ghế giá mười triệu, rồi cái thứ hai giá sáu triệu. Cái sau trông hợp lý ghê.",
+     "text": "4. CON SỐ ĐẦU TIÊN",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có thể là hợp lý thật. Cũng có thể giá đầu tiên lặng lẽ thành thước đo của mình.",
+     "text": "CÂY THƯỚC VÔ HÌNH",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng mỏ neo. Con số đến trước kéo phán đoán về sau, dù nó chẳng làm mốc tốt.",
+     "text": "HIỆU ỨNG MỎ NEO",
+     "color": "gold",
+     "actor": "front 34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cửa hàng biết giá mở đầu cao làm giá thấp hơn trông như thắng lớn. Vẫn phải tính cho kỹ.",
+     "text": "KIỂM TRA CON SỐ",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giá còn đóng giả chất lượng. Khóa học đắt tiền nghe uy tín hơn trước cả khi mình biết học gì.",
+     "text": "GIÁ CAO CHƯA CHỨNG MINH",
+     "color": "red",
+     "actor": "laptop_file",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lối tắt đó tiết kiệm thời gian khi thiếu thông tin. Cũng có thể chỉ bán cho bạn cái vẻ sang.",
+     "text": "LỐI TẮT, KHÔNG PHẢI ĐÁNH GIÁ",
+     "color": "gold",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trước khi xem các tin đăng, mình tự ghi khoảng giá hợp lý theo nhu cầu và lựa chọn tương tự.",
+     "text": "TỰ GHI KHOẢNG GIÁ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Với khóa học, liệt kê ba điều cần có. So bài học, khối lượng và hỗ trợ, đừng nhìn mỗi giá bóng bẩy.",
+     "text": "BA ĐIỀU CẦN CÓ",
+     "color": "green",
+     "actor": "checkbox_tick",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rồi mình so các lựa chọn trên cùng tiêu chí, và hỏi phần khác biệt có đáng trả thêm không.",
+     "text": "SO CÙNG TIÊU CHÍ",
+     "color": "green",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vậy giá chỉ là một mẩu bằng chứng, khỏi làm quan tòa kiêm bồi thẩm đoàn.",
+     "text": "MỘT MẨU BẰNG CHỨNG",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng so sánh hợp lý vẫn lung lay nếu mình chỉ nhớ đúng một đánh giá thật kịch tính.",
+     "text": "MỘT CHUYỆN CỨ DÍNH",
+     "color": "red",
+     "actor": "reading",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để xem cả buổi tập rồi mới cho câu chuyện đó đứng ra điều khiển cuộc họp.",
+     "text": "ĐỌC CẢ LOẠT ĐI",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "5. CÂU CHUYỆN ỒN NHẤT",
+   "sources": [
+    "s88",
+    "s90"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình chọn quán cà phê. Mười hai đánh giá khen, nhưng một bài chê giận dữ làm mình suýt quay xe.",
+     "text": "5. CÂU CHUYỆN ỒN NHẤT",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sau đó trên mạng hiện chuyện hiếm gặp mà nghe sốc. Tự nhiên mình tưởng đâu cũng thế.",
+     "text": "GÂY SỐC TƯỞNG LÀ THƯỜNG",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiên kiến tiêu cực khiến tin xấu dễ hút chú ý hơn tin tốt ở nhiều người.",
+     "text": "THIÊN KIẾN TIÊU CỰC",
+     "color": "gold",
+     "actor": "front 34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Còn lối nghĩ sẵn có: chuyện nào dễ nhớ thì mình dễ tưởng nó xảy ra nhiều hơn thật.",
+     "text": "DỄ NHỚ, TƯỞNG THƯỜNG GẶP",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cả hai giúp mình để ý cảnh báo thật. Nhưng một người kể to chưa chắc dự đoán đáng tin.",
+     "text": "MỘT CHUYỆN CÓ GIỚI HẠN",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xem mỗi đánh giá là một hiệp. Tìm lời chê lặp lại ở vài nguồn gần đây, độc lập với nhau.",
+     "text": "TÌM ĐIỀU LẶP LẠI",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Với chuyện rủi ro, mình xem nguồn đáng tin nói chuyện đó xảy ra thường thế nào, đừng chỉ tua lại câu chuyện.",
+     "text": "XEM XẢY RA THƯỜNG KHÔNG",
+     "color": "green",
+     "actor": "laptop_file",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi ba điều: chuyện đó có liên quan mình không, có lặp lại không, nguồn có chi tiết hữu ích không.",
+     "text": "BA LẦN KIỂM TRA",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không phải mình lờ cảnh báo. Chỉ là bằng chứng lặp lại đáng cân hơn một cảnh khó quên.",
+     "text": "CÂN BẰNG CHỨNG CỨ",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cảm xúc mạnh có thể báo cần hỏi thêm. Nó không trả lời hết mọi câu. Làm hiệp kiểm tra tiếp đi.",
+     "text": "CẢM THẤY, RỒI KIỂM TRA",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đám đông cũng làm lựa chọn trông hiển nhiên, dù mình chưa xem họ chọn vì điều gì.",
+     "text": "ĐÁM ĐÔNG CÓ VẺ CHẮC",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xem độ phổ biến là bằng chứng hữu ích, hay chỉ là người sau chép người trước.",
+     "text": "HỎI VÌ SAO HỌ CHỌN",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "6. LÝ DO CỦA ĐÁM ĐÔNG",
+   "sources": [
+    "s91",
+    "s89"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn bè mình đều chọn cùng một gói điện thoại. Mình đoán chắc có lý do, dù chưa hỏi ai.",
+     "text": "6. LÝ DO CỦA ĐÁM ĐÔNG",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lựa chọn phổ biến giống lối tắt cho yên tâm: chắc ai đó đã tìm hiểu kỹ rồi.",
+     "text": "ĐÔNG NGƯỜI, YÊN TÂM",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng đám đông. Ta nghiêng về thứ có vẻ phổ biến, nhất là lúc chưa chắc nên chọn gì.",
+     "text": "HIỆU ỨNG ĐÁM ĐÔNG",
+     "color": "gold",
+     "actor": "front 34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đôi khi đám đông có kinh nghiệm hay. Đôi khi ai cũng theo cùng một lời giới thiệu ban đầu.",
+     "text": "ĐÁM ĐÔNG CÓ THỂ VỌNG",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bảng tin cũng có thể lặp lại điều mình vốn đồng ý, khiến một phía trông như toàn bộ câu chuyện.",
+     "text": "BẢNG TIN CŨNG VỌNG",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiên kiến xác nhận là mình dễ để ý hay tin bằng chứng khớp điều mình đã nghĩ.",
+     "text": "THIÊN KIẾN XÁC NHẬN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Muốn kiểm tra lựa chọn, mình hỏi lý do nào ủng hộ ngoài chuyện đông người chọn, và người phản biện tỉnh táo sẽ nói gì.",
+     "text": "HỎI CHO RA LÝ DO",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tìm lập luận mạnh nhất chống lại ý mình. Đừng lấy bài ngớ ngẩn để phe mình trông sáng chói.",
+     "text": "TÌM LẬP LUẬN MẠNH",
+     "color": "green",
+     "actor": "laptop_file",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu lựa chọn vẫn vững, mình theo đám đông mà biết vì sao. Không thì cứ so thêm.",
+     "text": "BIẾT VÌ SAO MÌNH CHỌN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phổ biến là một manh mối, không thay lý do của bạn. Tay vẫn giữ vô lăng nhé.",
+     "text": "BẠN GIỮ VÔ LĂNG",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn có lúc mình chẳng theo đám đông. Mình chỉ giữ nguyên lựa chọn đã cài sẵn.",
+     "text": "CÀI ĐẶT VẪN GIỮ",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lựa chọn im lặng đó cũng đáng xem. Không làm gì có khi gia hạn đúng quyết định cũ thêm tháng nữa.",
+     "text": "XEM LẠI MẶC ĐỊNH",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "7. NÚT MẶC ĐỊNH",
+   "sources": [
+    "s93",
+    "s104"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Gói đăng ký lại tự gia hạn. Tháng này mình chưa quyết giữ, chỉ là chưa mở phần cài đặt.",
+     "text": "7. NÚT MẶC ĐỊNH",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đổi thì phải bấm vài bước, còn lựa chọn cũ thấy an toàn vì mình quen rồi.",
+     "text": "QUEN NÊN THẤY AN TOÀN",
+     "color": "ink",
+     "actor": "sofa_scroll"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là thiên kiến hiện trạng. Não có thể chuộng cách sắp xếp hiện tại vì đổi thì tốn công.",
+     "text": "THIÊN KIẾN HIỆN TRẠNG",
+     "color": "gold",
+     "actor": "front 34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gói trả góp cũng có lối tắt giống vậy. Tiền mỗi tháng trông nhỏ xíu khi tổng giá bị giấu khỏi màn hình.",
+     "text": "TIỀN THÁNG CHE TỔNG",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là khoản trả và món đồ giống hai chuyện riêng, dù chúng nằm trong cùng hóa đơn.",
+     "text": "GIÁ BỊ CHIA NHỎ",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi tổng tiền cả kỳ, tính luôn phí. So số đó với khoản phải trả nếu mua ngay hôm nay.",
+     "text": "CỘNG RA TỔNG TIỀN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Với dịch vụ trừ tiền đều, đặt nhắc mỗi tháng. Hỏi mình có đăng ký lại từng món hôm nay không.",
+     "text": "CHỌN LẠI MỘT LẦN",
+     "color": "green",
+     "actor": "calendar_today",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hủy, giữ hay đổi đều được, miễn là bạn chủ động. Gói đáng tiền thì cứ chọn giữ.",
+     "text": "BIẾN THÀNH LỰA CHỌN",
+     "color": "green",
+     "actor": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không phải cứ thấy gì cũng hủy. Chỉ cần nhận ra quyết định hôm qua đang tiêu tiền hôm nay.",
+     "text": "HÔM NAY CŨNG CÓ QUYỀN",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mặc định là cài đặt, đâu phải mệnh lệnh. Đọc điều khoản, chọn gói hợp với bạn.",
+     "text": "CÀI ĐẶT KHÔNG RA LỆNH",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn một kiểu làm mình đứng hình: quá nhiều lựa chọn, món nào cũng khiến mình tưởng tượng mình sẽ chọn sai.",
+     "text": "QUÁ NHIỀU LỰA CHỌN",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đến lúc gọt bớt thực đơn trước khi não chạy vòng so sánh.",
+     "text": "GỌT BỚT THỰC ĐƠN",
+     "color": "ink",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "8. THỰC ĐƠN DÀI BẤT TẬN",
+   "sources": [
+    "s94",
+    "s28"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình so máy tính hai tiếng. Mẫu nào cũng có một tính năng làm mình sợ mua rồi sẽ tiếc.",
+     "text": "8. THỰC ĐƠN DÀI BẤT TẬN",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Danh sách dài nhanh hơn sự tự tin. Mình cứ tìm món hoàn hảo để khỏi còn nghi ngờ.",
+     "text": "MÓN HOÀN HẢO ĐÂU?",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là quá tải lựa chọn. Có nhiều món thì so sánh mệt, quyết định dễ bị trì hoãn.",
+     "text": "QUÁ TẢI LỰA CHỌN",
+     "color": "gold",
+     "actor": "front 34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Danh sách việc dày có họ hàng với chuyện này: ngộ nhận lập kế hoạch. Ta tưởng ngày sẽ trôi thật êm.",
+     "text": "KẾ HOẠCH NGÀY ÊM RU",
+     "color": "gold",
+     "actor": "paper_mountain",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình ghi mười hai việc vì tưởng chẳng ai làm phiền, việc vặt không chậm, sếp cũng không gọi thêm.",
+     "text": "ĐỜI THẬT HAY NGẮT QUÃNG",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn lại một ngày tương tự. Ghi ít việc hơn, chừa chỗ cho mấy chuyện khó xếp lịch.",
+     "text": "LẬP KẾ HOẠCH THỰC TẾ",
+     "color": "green",
+     "actor": "calendar_today",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Với máy tính, mình ghi ba điều bắt buộc trước khi lướt, như nhẹ, pin khỏe và vừa túi tiền.",
+     "text": "CHỌN BA TIÊU CHÍ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mẫu nào thiếu tiêu chí thì loại. Giữ ba mẫu cuối, rồi so chúng trên cùng thông tin.",
+     "text": "CHỈ GIỮ BA MẪU",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Với danh sách hôm nay, mình ghi vài việc quan trọng, rồi xóa bớt việc mong là sẽ làm kịp.",
+     "text": "CHỪA CHỖ THỞ",
+     "color": "green",
+     "actor": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đặt giờ chốt, dùng thông tin đang có rồi đi tiếp. Một quyết định là một hiệp, đâu phải cả đời.",
+     "text": "CHỐT RỒI ĐI TIẾP",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mấy lựa chọn trong video này gom lại thành vài thói quen đơn giản dùng được mỗi ngày.",
+     "text": "THÓI QUEN GOM LẠI",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ôn lại mấy thói quen, rồi làm thử thách bảy ngày mà bạn thật sự hoàn thành được.",
+     "text": "BẢY NGÀY TẬP HIỆP",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "9. BA Ý NÊN NHỚ",
+   "sources": [
+    "s23",
+    "s24",
+    "s87",
+    "s88",
+    "s90",
+    "s91",
+    "s89",
+    "s93",
+    "s104",
+    "s94",
+    "s28"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ý đầu tiên: làm chậm áp lực. Đồng hồ, giá đầu tiên hay tiền góp tháng đều đổi cảm giác về lựa chọn.",
+     "text": "9. BA Ý NÊN NHỚ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dừng lại, tự ghi mốc giá, xem tổng tiền. Quyết định khi tiếng rao hàng đã nhỏ đi.",
+     "text": "LÀM CHẬM ÁP LỰC",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ý thứ hai: kiểm tra bằng chứng. Một đánh giá, một chuyện gây sốc hay món đông người chọn chỉ là một phần.",
+     "text": "KIỂM TRA BẰNG CHỨNG",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tìm chi tiết lặp lại, bối cảnh đáng tin, và lý do vẫn vững khi bạn xem cả phía bên kia.",
+     "text": "TÌM ĐIỀU LẶP LẠI",
+     "color": "green",
+     "actor": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ý thứ ba: chọn từ hôm nay trở đi. Tiền đã tiêu, mặc định quen, thực đơn dài không được quyền quyết hết.",
+     "text": "CHỌN TỪ HÔM NAY",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xem tháng tới tốn gì, đem lại gì, và một ngày thật của bạn gánh nổi bao nhiêu việc.",
+     "text": "THÁNG TỚI, ĐỜI THẬT",
+     "color": "green",
+     "actor": "calendar_today",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trong bảy ngày, để ý mỗi ngày một quyết định. Ghi cú hích, gọi tên cái bẫy, thử cách đối phó nhỏ.",
+     "text": "BẢY NGÀY, MỘT GHI CHÚ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không cần điểm tuyệt đối. Chỉ cần một hiệp nhận ra trước khi bấm, gia hạn, đồng ý hay lướt tiếp.",
+     "text": "NHẬN RA RỒI HẴNG CHỌN",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu mấy thử nghiệm nhỏ giúp bạn hiểu lựa chọn của mình, đăng ký kênh Lý Thuyết Chân Que nhé.",
+     "text": "THÊM LÝ THUYẾT CHÂN QUE",
+     "color": "ink",
+     "actor": "celebrate"
+    }
+   ]
+  }
+ ]
+}

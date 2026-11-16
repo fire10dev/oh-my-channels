@@ -1,0 +1,955 @@
+[
+ {
+  "id": "s211",
+  "mascot": "pen",
+  "title": "Why Your Ideal Self Feels Far Away",
+  "mechanism": "Self-discrepancy",
+  "lines": [
+   {
+    "vo": "Your mind holds an image of someone who never falls behind.",
+    "text": "THE PERFECT YOU",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Then today happens, and the distance feels huge.",
+    "text": "FAR FROM IDEAL",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "That quiet ache between who you are and who you want to be.",
+    "text": "THE INNER GAP",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "The wider that gap feels, the easier it is to freeze.",
+    "text": "STUCK IN PLACE",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Shrink the ideal into one quiet step this week.",
+    "text": "ONE REAL STEP",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "What small move fits the person you are right now?",
+    "text": "START SMALL",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s211vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Khi ban than ly tuong qua xa",
+  "title_vi": "Khi bản thân lý tưởng quá xa",
+  "mechanism": "Self-discrepancy",
+  "lines": [
+   {
+    "vo": "Bạn muốn nói tiếng Anh lưu loát như người bản xứ.",
+    "text": "MUỐN GIỎI NGAY",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Nhưng tan làm về, mở sách ra lại thấy nản lòng.",
+    "text": "KHOẢNG CÁCH LỚN",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Khoảng cách giữa kỳ vọng và thực tế làm bạn dễ bỏ cuộc.",
+    "text": "ÁP LỰC KỲ VỌNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hạ tiêu chuẩn xuống mức bạn có thể làm ngay tối nay.",
+    "text": "HẠ TIÊU CHUẨN",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Chỉ cần mười phút luyện nói một chủ đề đơn giản tối nay.",
+    "text": "MƯỜI PHÚT TỐI NAY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Hôm nay, bạn có thể bắt đầu từ câu nào?",
+    "text": "BẮT ĐẦU HÔM NAY",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s212",
+  "mascot": "buff",
+  "title": "Don't Let One Mistake Define You",
+  "mechanism": "Global self-evaluation",
+  "lines": [
+   {
+    "vo": "One bad slide and you think your whole career is finished.",
+    "text": "ONE SLIP",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Sure, buddy. One failed rep means you cannot lift at all.",
+    "text": "BAD EVALUATION",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "One miss is just bad form, not zero strength.",
+    "text": "JUST BAD FORM",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Separate the bad lift from your strength. Pinpoint the exact slip.",
+    "text": "PINPOINT THE SLIP",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "target"
+   },
+   {
+    "vo": "Fix that one detail on the next set. Back to work.",
+    "text": "NEXT REP",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s212vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung de mot loi danh guc ban",
+  "title_vi": "Đừng để một lỗi đánh gục bạn",
+  "mechanism": "Global self-evaluation",
+  "lines": [
+   {
+    "vo": "Trượt một vòng phỏng vấn, bạn nghĩ mình kém cỏi toàn diện.",
+    "text": "TRƯỢT MỘT VÒNG",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Ừ, tin. Tạ rơi một hiệp là coi như cả đời yếu.",
+    "text": "TẠ RƠI MỘT HIỆP",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Đó chỉ là một buổi trao đổi chưa khớp tiêu chí.",
+    "text": "CHƯA ĐÚNG LÚC",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Ghi ra đúng một câu trả lời cần sửa cho lần tới.",
+    "text": "SỬA ĐÚNG MỘT CHỖ",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Chỉnh xong hiệp này thì vào hiệp mới. Đứng dậy.",
+    "text": "LÀM LẠI NGAY",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s213",
+  "mascot": "pen",
+  "title": "Why You Defend a Choice You Just Made",
+  "mechanism": "Choice-supportive bias",
+  "lines": [
+   {
+    "vo": "You sign the lease, and suddenly this flat feels perfect.",
+    "text": "PERFECT CHOICE",
+    "color": "red",
+    "actor": "celebrate",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "And the option you left behind seems full of flaws.",
+    "text": "FORGOTTEN FLAWS",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "This is choice-supportive bias protecting your peace of mind.",
+    "text": "CHOICE BIAS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Memory quietly polishes your decision so you feel secure.",
+    "text": "POLISHED PAST",
+    "actor": "reading"
+   },
+   {
+    "vo": "Before major choices, write down your real reasons on paper.",
+    "text": "WRITE IT DOWN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "When doubt arrives later, you will see the actual trade-offs.",
+    "text": "CLEAR CONTEXT",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "You chose with the information you had that morning.",
+    "text": "HONEST CHOICES",
+    "color": "gold",
+    "actor": "front",
+    "prop": "calendar_today"
+   }
+  ]
+ },
+ {
+  "id": "s213vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao luon benh lua chon cua minh",
+  "title_vi": "Vì sao luôn bênh lựa chọn của mình",
+  "mechanism": "Choice-supportive bias",
+  "lines": [
+   {
+    "vo": "Vừa nhận lời mời nhận việc, bạn thấy công ty đó tuyệt vời nhất.",
+    "text": "CHỌN XONG LÀ KHEN",
+    "color": "red",
+    "actor": "celebrate",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Còn chỗ từ chối thì bỗng dưng lộ ra toàn nhược điểm.",
+    "text": "CHỖ BỎ LẠI KÉM",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Não tự tô hồng lựa chọn để bạn đỡ tiếc nuối.",
+    "text": "ĐỠ TIẾC NUỐI",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Ký ức có xu hướng vẽ lại quá khứ đẹp hơn thực tế.",
+    "text": "KÝ ỨC DỄ DÃI",
+    "actor": "meditating"
+   },
+   {
+    "vo": "Hãy ghi rõ ba lý do bạn chọn nơi này vào cuốn sổ.",
+    "text": "GHI LẠI LÝ DO",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Sau này nhìn lại, bạn nhớ rõ vì sao ngày đó mình chọn như vậy.",
+    "text": "NHỚ RÕ BỐI CẢNH",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "Quyết định lúc đó đã dựa trên những gì tốt nhất bạn biết.",
+    "text": "TRÂN TRỌNG MÌNH",
+    "color": "gold",
+    "actor": "front",
+    "prop": "calendar_today"
+   }
+  ]
+ },
+ {
+  "id": "s214",
+  "mascot": "buff",
+  "title": "Build Confidence From Evidence",
+  "mechanism": "Self-perception theory",
+  "lines": [
+   {
+    "vo": "You are waiting to feel confident before touching the work. Good luck.",
+    "text": "WAITING ON MOOD",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Confidence does not fall out of the sky. It follows action.",
+    "text": "ACTION FIRST",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "You judge who you are by watching what you actually do.",
+    "text": "WATCH YOUR ACTS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Want to be someone who speaks up? Log every time.",
+    "text": "LOG EVERY REP",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "A few honest lines on a notepad. No speeches needed.",
+    "text": "REAL PROOFS",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Stack the reps first. The mindset will catch up.",
+    "text": "STACK THE REPS",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s214vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Tu tin den tu bang chung that",
+  "title_vi": "Tự tin đến từ bằng chứng thật",
+  "mechanism": "Self-perception theory",
+  "lines": [
+   {
+    "vo": "Ngồi đợi thấy tự tin mới dám mở mic phát biểu. Chờ đến tết.",
+    "text": "CHỜ TỰ TIN",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Cứ ngồi đợi thì hết giờ họp. Sự tự tin không tự rơi xuống.",
+    "text": "HẾT GIỜ ĐỢI",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Não bạn tin vào hành động thực tế hơn là lời tự khen.",
+    "text": "TIN VÀO HÀNH ĐỘNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Chủ động nói một ý ngắn, rồi ghi lại vào sổ tay.",
+    "text": "GHI LẠI BẰNG CHỨNG",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Góp ý một câu cũng tính là một lần nâng tạ thành công.",
+    "text": "TÍNH MỘT ĐIỂM",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Ghi lại từng lần dám nói. Xây bằng chứng trước, tự tin theo sau.",
+    "text": "XÂY BẰNG CHỨNG",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s215",
+  "mascot": "pen",
+  "title": "Why Your Profile Feels Like You",
+  "mechanism": "Self-presentation",
+  "lines": [
+   {
+    "vo": "You tweak your profile until it matches who you hope to be.",
+    "text": "CRAFTING AN IMAGE",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "It is natural. We constantly curate what the world sees.",
+    "text": "PUBLIC STAGE",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "We polish the storefront so nobody sees the messy storage room.",
+    "text": "THE STOREFRONT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Pick one clear detail that honors your actual current focus.",
+    "text": "HONEST SIGNAL",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Let your profile show where your work is today, not your fear.",
+    "text": "SHOW REAL WORK",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s215vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Trang ca nhan co phai la ban?",
+  "title_vi": "Trang cá nhân có phải là bạn?",
+  "mechanism": "Self-presentation",
+  "lines": [
+   {
+    "vo": "Đổi ảnh đại diện làm việc mà sửa đi sửa lại cả tiếng.",
+    "text": "ĐỔI ẢNH ĐẠI DIỆN",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bạn sợ đồng nghiệp hay sếp nhìn vào sẽ đánh giá mình.",
+    "text": "SỢ NGƯỜI TA NHÌN",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Chúng ta luôn muốn kiểm soát ấn tượng trong mắt người khác.",
+    "text": "TẠO ẤN TƯỢNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Chỉ cần một tấm hình rõ mặt, gọn gàng và đúng tác phong.",
+    "text": "RÕ MẶT VÀ GỌN GÀNG",
+    "color": "green",
+    "actor": "front"
+   },
+   {
+    "vo": "Bức ảnh đó đang giúp bạn làm việc, hay xoa dịu nỗi sợ?",
+    "text": "VÌ MÌNH HAY VÌ AI",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s216",
+  "mascot": "buff",
+  "title": "Compare Your Work to Your Past Work",
+  "mechanism": "Temporal comparison",
+  "lines": [
+   {
+    "vo": "You just started, yet you compare yourself to an industry veteran.",
+    "text": "ROOKIE MISTAKE",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Sure, buddy. Walk into a gym and grab the heaviest barbell.",
+    "text": "WRONG BENCHMARK",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Comparing day one to year ten will crush your drive.",
+    "text": "DAY ONE VS YEAR TEN",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Your brain needs a fair metric: temporal comparison.",
+    "text": "FAIR TEST",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Pull up your project from last month.",
+    "text": "OPEN OLD FILES",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Spot two things you handle cleaner today.",
+    "text": "SPOT REAL GAINS",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "That is your real baseline. Beat your own last rep.",
+    "text": "BEAT YOUR RECORD",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s216vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "So voi minh cua thang truoc",
+  "title_vi": "So với mình của tháng trước",
+  "mechanism": "Temporal comparison",
+  "lines": [
+   {
+    "vo": "Mới đi làm một năm mà đem bài của mình so với quản lý.",
+    "text": "SO SÁNH LỆCH",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Ừ, tin. Mới vào phòng tập đã đòi gánh tạ bằng huấn luyện viên.",
+    "text": "GÁNH TẠ QUÁ SỨC",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "So như thế chỉ làm bạn thấy mình vô dụng.",
+    "text": "MẤT HẾT ĐỘNG LỰC",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Thước đo đúng nhất là so với chính bạn ở quá khứ.",
+    "text": "THƯỚC ĐO ĐÚNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Mở lại bản báo cáo bạn làm hồi tháng trước ra xem.",
+    "text": "MỞ LẠI BẢN CŨ",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Bạn trình bày gọn hơn, xử lý số liệu nhanh hơn.",
+    "text": "ĐÃ TIẾN BỘ HƠN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Vượt qua chính mình tháng trước. Bỏ thói quen dòm sang bàn bên cạnh.",
+    "text": "VƯỢT QUA BẢN THÂN",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s217",
+  "mascot": "pen",
+  "title": "When Someone Slaps a Label on You",
+  "mechanism": "Labeling effect",
+  "lines": [
+   {
+    "vo": "Call someone messy, and they stop trying to stay organized.",
+    "text": "STICKY LABELS",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Labels feel harmless, but people unconsciously grow into them.",
+    "text": "LIVING THE ROLE",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "A sticky tag quietly rewires how they behave.",
+    "text": "STICKY TAGS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "When friction happens, drop the personality diagnosis.",
+    "text": "NO NAME-CALLING",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Point to the missing file, not their character.",
+    "text": "NAME THE ACTION",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Specific feedback solves the problem without building a cage.",
+    "text": "CLEAR BOUNDARIES",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s217vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Dung dan nhan cho nguoi khac",
+  "title_vi": "Đừng dán nhãn cho người khác",
+  "mechanism": "Labeling effect",
+  "lines": [
+   {
+    "vo": "Làm bài tập nhóm mà chê bạn lười, bạn ấy sẽ lười thật.",
+    "text": "CHÊ NGƯỜI KHÁC",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Khi bị dán nhãn, người ta có xu hướng hành xử đúng như vậy.",
+    "text": "BỊ DÁN NHÃN",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bị đóng khung vào một chữ, người ta buông xuôi luôn.",
+    "text": "BUÔNG XUÔI THEO NHÃN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Thay vì phán xét tính cách, hãy nói thẳng vào đầu việc.",
+    "text": "NÓI VÀO ĐẦU VIỆC",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Chốt rõ hạn nộp của từng phần vào tối thứ sáu.",
+    "text": "CHỐT HẠN NỘP",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Nhắc việc rõ ràng sẽ cứu được cả điểm số lẫn tình bạn.",
+    "text": "RÕ RÀNG DỄ LÀM",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s218",
+  "mascot": "buff",
+  "title": "Don't Borrow Someone Else's Standards",
+  "mechanism": "Self-evaluation maintenance",
+  "lines": [
+   {
+    "vo": "Your peer gets a promotion and suddenly your breakfast tastes bitter.",
+    "text": "STOLEN THUNDER",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Sure, buddy. Someone else hit a personal record, so you quit lifting?",
+    "text": "NOT YOUR MEET",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Borrowing their scorecard will only exhaust you for nothing.",
+    "text": "NOT YOUR SCORE",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Take one useful tactic from their playbook and close the tab.",
+    "text": "TAKE ONE LESSON",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "target"
+   },
+   {
+    "vo": "Eyes on your own barbell. Lift your own weight.",
+    "text": "LIFT YOUR WEIGHT",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s218vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung muon thuoc do cua nguoi khac",
+  "title_vi": "Đừng mượn thước đo của người khác",
+  "mechanism": "Self-evaluation maintenance",
+  "lines": [
+   {
+    "vo": "Bạn cùng lớp đậu kỳ thực tập xịn, tự nhiên bạn thấy cồn cào.",
+    "text": "BẠN CÓ CHỖ TỐT",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Thành công của họ không làm bớt đi năng lực của bạn.",
+    "text": "KHÔNG PHẢI THUA",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Mỗi người có một lộ trình và thế mạnh hoàn toàn khác nhau.",
+    "text": "LỘ TRÌNH RIÊNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hỏi xem họ làm hồ sơ thế nào rồi quay lại ôn phần mình.",
+    "text": "HỌC MỘT ĐIỂM HAY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Tập trung vào phần tạ của mình. Đi nộp hồ sơ tiếp.",
+    "text": "TẬP TRUNG VIỆC MÌNH",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s219",
+  "mascot": "pen",
+  "title": "Why You Notice Your Own Awkward Moment",
+  "mechanism": "Illusion of transparency",
+  "lines": [
+   {
+    "vo": "Your voice cracked for a moment during the presentation.",
+    "text": "VOICE CRACKED",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "To you, it felt like an earthquake everyone recorded.",
+    "text": "INTERNAL ALARM",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "We assume our racing pulse is broadcast on a giant screen.",
+    "text": "TRANSPARENT MIND",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "In truth, nobody has the spotlight on you like you do.",
+    "text": "NO SPOTLIGHT",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "In reality, people are busy following their own thoughts.",
+    "text": "OTHERS ARE BUSY",
+    "actor": "reading"
+   },
+   {
+    "vo": "Ask a trusted colleague what stood out to them.",
+    "text": "CHECK REALITY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Did they notice your panic, or just your main point?",
+    "text": "WHAT DID THEY SEE",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s219vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Khoanh khac lung tung ai de y?",
+  "title_vi": "Khoảnh khắc lúng túng ai để ý?",
+  "mechanism": "Illusion of transparency",
+  "lines": [
+   {
+    "vo": "Thuyết trình lỡ nói vấp một câu, bạn ngượng chín cả mặt.",
+    "text": "NÓI VẤP MỘT CÂU",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Bạn tưởng cả hội trường đang soi từng biểu cảm của mình.",
+    "text": "TƯỞNG AI CŨNG SOI",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Tâm lý này gọi là ảo tưởng minh bạch.",
+    "text": "ẢO TƯỞNG MINH BẠCH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Thực tế, người ta còn mải lo xem điện thoại hoặc nghĩ phần việc của họ.",
+    "text": "AI CŨNG BẬN VIỆC",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Bước xuống, hỏi nhỏ bạn cùng nhóm xem nghe có rõ không.",
+    "text": "HỎI BẠN CÙNG NHÓM",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Họ sẽ chỉ nhớ ý chính, chứ chẳng ai để ý vết vấp đó.",
+    "text": "CHỈ NHỚ Ý CHÍNH",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "Cơn run rẩy đó chỉ có một khán giả duy nhất là bạn.",
+    "text": "CHỈ MÌNH BẠN BIẾT",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s220",
+  "mascot": "buff",
+  "title": "Give Credit to the Process",
+  "mechanism": "Self-serving bias",
+  "lines": [
+   {
+    "vo": "When the team wins, it was all your genius idea.",
+    "text": "I DID THAT",
+    "color": "red",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "When the pitch fails, the client clearly had terrible taste.",
+    "text": "THEIR FAULT",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Sure, buddy. That is self-serving bias defending your pride.",
+    "text": "PRIDE SHIELD",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Inspect the match tape honestly after every outcome.",
+    "text": "CHECK THE TAPE",
+    "color": "green",
+    "actor": "think",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Separate your actual effort from pure luck and timing.",
+    "text": "EFFORT VS LUCK",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Honor the system that produced the win. Run it again.",
+    "text": "RUN THE SYSTEM",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s220vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Nhin nhan cong bang sau ket qua",
+  "title_vi": "Nhìn nhận công bằng sau kết quả",
+  "mechanism": "Self-serving bias",
+  "lines": [
+   {
+    "vo": "Bài nhóm được điểm cao thì bảo do mình gánh cả đội.",
+    "text": "NHẬN HẾT CÔNG",
+    "color": "red",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Lúc bị điểm kém thì đổ tại giáo viên chấm gắt.",
+    "text": "ĐỔ TẠI NGƯỜI KHÁC",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Ừ, tin. Não rất giỏi nhận vơ chiến thắng và chối bỏ sai sót.",
+    "text": "BÊNH BẢN THÂN",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Có điểm rồi thì mổ xẻ bài làm ngay. Xem khâu nào kéo điểm lên thật sự.",
+    "text": "MỔ XẺ BÀI LÀM",
+    "color": "green",
+    "actor": "think",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Ghi nhận công sức đồng đội và cả may mắn khi bốc đề.",
+    "text": "CÔNG SỨC CHUNG",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Hiểu đúng cách mình thắng thì dự án sau mới thắng tiếp.",
+    "text": "THẮNG NHỜ HỆ THỐNG",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "checkbox_tick"
+   }
+  ]
+ }
+]

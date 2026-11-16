@@ -1,0 +1,990 @@
+[
+ {
+  "id": "s101",
+  "mascot": "pen",
+  "title": "Why the New Phone Stops Feeling New",
+  "mechanism": "Hedonic adaptation",
+  "lines": [
+   {
+    "vo": "Week one, you checked your new phone like it was a gift.",
+    "text": "WEEK ONE: WOW",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Month three, it's just the phone.",
+    "text": "MONTH THREE: MEH",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "That fade has a name: hedonic adaptation.",
+    "text": "HEDONIC ADAPTATION",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "The brain slowly stops noticing what stays the same.",
+    "text": "SAME = UNNOTICED",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "So the next upgrade tends to fade the same way.",
+    "text": "NEXT UPGRADE FADES",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Before buying, picture month three, not unboxing day.",
+    "text": "PICTURE MONTH THREE",
+    "color": "green",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "What would still feel new to you by then?",
+    "text": "STILL NEW BY THEN?",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s101vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao may moi chang may choc het moi",
+  "title_vi": "Sao máy mới chẳng mấy chốc hết mới",
+  "mechanism": "Hedonic adaptation",
+  "lines": [
+   {
+    "vo": "Tuần đầu, ngày nào bạn cũng lau màn hình điện thoại mới.",
+    "text": "TUẦN ĐẦU: NÂNG NIU",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Tháng thứ ba, ốp lưng ố vàng, bạn chẳng buồn để ý.",
+    "text": "THÁNG 3: HẾT MỚI",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Não quen dần với thứ cứ ở yên đó. Gọi là thích nghi khoái lạc.",
+    "text": "THÍCH NGHI KHOÁI LẠC",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nên niềm vui từ đồ mới thường nhạt nhanh hơn mình tưởng.",
+    "text": "VUI NHẠT DẦN",
+    "actor": "confused_shrug",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Trước khi lên đời máy, hãy nghĩ tới tháng thứ ba, đừng nghĩ ngày đập hộp.",
+    "text": "NGHĨ TỚI THÁNG 3",
+    "color": "green",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Cái mới nào rồi cũng thành quen. Biết trước vậy, mua sẽ tỉnh hơn.",
+    "text": "MỚI NÀO CŨNG QUEN",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s102",
+  "mascot": "buff",
+  "title": "Don't Let the Middle Option Fool You",
+  "mechanism": "Decoy effect",
+  "lines": [
+   {
+    "vo": "Medium costs almost as much as large. Suddenly large looks smart.",
+    "text": "MEDIUM: ALMOST LARGE",
+    "actor": "confused_shrug",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "That medium isn't there to sell. It's bait.",
+    "text": "IT'S BAIT",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "A weak option makes its neighbor look like a deal. Decoy effect.",
+    "text": "DECOY EFFECT",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Cover the middle one with your thumb.",
+    "text": "COVER THE DECOY",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Now compare the real two. Small is enough? Take small.",
+    "text": "SMALL OR LARGE?",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Rep it at every menu. Your wallet gets stronger.",
+    "text": "REP IT EVERY MENU",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "coin_stack"
+   }
+  ]
+ },
+ {
+  "id": "s102vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung de lua chon o giua lua ban",
+  "title_vi": "Đừng để lựa chọn ở giữa lừa bạn",
+  "mechanism": "Decoy effect",
+  "lines": [
+   {
+    "vo": "Trà sữa size vừa đắt gần bằng size lớn. Thôi lấy lớn luôn.",
+    "text": "VỪA GẦN BẰNG LỚN",
+    "actor": "confused_shrug",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Chúc mừng, bạn vừa bị cái mồi nhử dắt đi.",
+    "text": "BỊ MỒI NHỬ DẮT",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Size vừa đặt đó không phải để bán, mà để size lớn trông hời.",
+    "text": "HIỆU ỨNG MỒI NHỬ",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Gói cước mạng cũng thế. Gói ở giữa nhiều khi chỉ để làm nền.",
+    "text": "GÓI CƯỚC CŨNG VẬY",
+    "actor": "wallet_worry",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Lấy tay che phương án ở giữa lại.",
+    "text": "CHE CÁI Ở GIỮA",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "So hai cái còn lại. Size nhỏ đủ uống thì lấy nhỏ.",
+    "text": "NHỎ ĐỦ? LẤY NHỎ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Mỗi lần gọi món là một hiệp tập. Che, so, chọn.",
+    "text": "CHE. SO. CHỌN.",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s103",
+  "mascot": "pen",
+  "title": "Why a Freebie Feels Too Good",
+  "mechanism": "Zero-price effect",
+  "lines": [
+   {
+    "vo": "Free topping with any large. You never even liked large.",
+    "text": "FREE TOPPING!",
+    "actor": "snack",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Free feels different from cheap, as if there's no downside at all.",
+    "text": "FREE FEELS SAFE",
+    "color": "red",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "That's the zero-price effect. The real cost slips in elsewhere.",
+    "text": "ZERO-PRICE EFFECT",
+    "actor": "confused_shrug",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "A quiet test: would you still take it for a small price?",
+    "text": "WOULD YOU PAY A BIT?",
+    "color": "green",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "If not, it was never really free. It was a nudge.",
+    "text": "NOT FREE. A NUDGE.",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s103vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao chu mien phi kho cuong the",
+  "title_vi": "Sao chữ miễn phí khó cưỡng thế",
+  "mechanism": "Zero-price effect",
+  "lines": [
+   {
+    "vo": "Thiếu mười nghìn là được miễn phí giao, thế là gọi thêm bánh.",
+    "text": "THÊM MÓN ĐỂ FREESHIP",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Chữ miễn phí làm mình quên mất phần phải trả thêm.",
+    "text": "QUÊN PHẦN TRẢ THÊM",
+    "color": "red",
+    "actor": "snack",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Cái giá bằng không có sức hút riêng, khác hẳn đồ rẻ.",
+    "text": "GIÁ 0 ĐỒNG HÚT HƠN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tặng kèm topping cũng vậy, tự dưng thấy phải chọn ly to.",
+    "text": "TẶNG TOPPING CŨNG VẬY",
+    "actor": "confused_shrug",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Thử nghĩ, nếu món tặng này mất năm nghìn, mình có lấy không.",
+    "text": "NẾU PHẢI TRẢ 5K?",
+    "color": "green",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Không lấy, thì miễn phí chỉ là cái cớ để mình chi thêm.",
+    "text": "MIỄN PHÍ LÀ CÁI CỚ",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s104",
+  "mascot": "buff",
+  "title": "Stop Counting the Installment Only",
+  "mechanism": "Payment decoupling",
+  "lines": [
+   {
+    "vo": "Only a little each month! Sure, buddy.",
+    "text": "SMALL MONTHLY. SURE.",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Split payments make the price feel light.",
+    "text": "PAIN, SPLIT UP",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Each payment barely registers. The total never shows up.",
+    "text": "TOTAL STAYS HIDDEN",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "That's payment decoupling. Price and purchase drift apart.",
+    "text": "PAYMENT DECOUPLING",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Warm-up rep: multiply it out. Every month, plus fees.",
+    "text": "MULTIPLY IT OUT",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Now the real set. Would you pay that total today?",
+    "text": "THE TOTAL TEST",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "No? Then the monthly price was just a costume.",
+    "text": "MONTHLY = COSTUME",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Total first, plan second. Every single time.",
+    "text": "TOTAL FIRST. ALWAYS.",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s104vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung chi nhin tien gop moi thang",
+  "title_vi": "Đừng chỉ nhìn tiền góp mỗi tháng",
+  "mechanism": "Payment decoupling",
+  "lines": [
+   {
+    "vo": "Mua trước trả sau trên Shopee, mỗi tháng có tí xíu. Ừ, tin.",
+    "text": "MỖI THÁNG TÍ XÍU",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Chia nhỏ ra, mỗi lần trả gần như chẳng thấy xót.",
+    "text": "CHIA NHỎ, BỚT XÓT",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Tiền trả tách khỏi món đồ, nên tổng tiền biến khỏi đầu.",
+    "text": "TỔNG TIỀN BIẾN MẤT",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bài khởi động: nhân đủ số tháng, cộng cả phí.",
+    "text": "NHÂN RA, CỘNG PHÍ",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Tổng đó trả một lần mà thấy tiếc, thì đừng bấm. Tổng trước, góp sau.",
+    "text": "TỔNG TRƯỚC, GÓP SAU",
+    "color": "gold",
+    "actor": "arms_crossed_no",
+    "prop": "coin_stack"
+   }
+  ]
+ },
+ {
+  "id": "s105",
+  "mascot": "pen",
+  "title": "Why You Keep the Thing You Bought",
+  "mechanism": "Endowment effect",
+  "lines": [
+   {
+    "vo": "You barely use those headphones, yet selling them cheap feels wrong.",
+    "text": "SELL THEM? NO WAY.",
+    "actor": "arms_crossed_no",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "The moment something is yours, it tends to feel worth more.",
+    "text": "MINE = WORTH MORE",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "That's the endowment effect. Owning adds a quiet markup.",
+    "text": "ENDOWMENT EFFECT",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Letting go registers as a loss, not a trade.",
+    "text": "FEELS LIKE A LOSS",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Flip it: if you didn't own them, would you buy them now?",
+    "text": "WOULD YOU BUY IT NOW?",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "If not, why are they still keeping a spot in your drawer?",
+    "text": "STILL WORTH A DRAWER?",
+    "color": "gold",
+    "actor": "confused_shrug"
+   }
+  ]
+ },
+ {
+  "id": "s105vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao do cua minh luon co gia hon",
+  "title_vi": "Sao đồ của mình luôn có giá hơn",
+  "mechanism": "Endowment effect",
+  "lines": [
+   {
+    "vo": "Đăng pass cái áo mới mặc một lần, ai trả giá là thấy chạnh lòng.",
+    "text": "AI TRẢ GIÁ LÀ GIẬN",
+    "actor": "arms_crossed_no",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Với người mua, đó chỉ là một cái áo cũ.",
+    "text": "VỚI HỌ: ÁO CŨ",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Với bạn, đó là cái áo của mình. Khác hẳn.",
+    "text": "VỚI MÌNH: CỦA MÌNH",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Thứ gì đã thuộc về mình, mình thường định giá cao hơn.",
+    "text": "HIỆU ỨNG SỞ HỮU",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bán đi bị cảm nhận như mất mát, chứ không phải trao đổi.",
+    "text": "BÁN = MẤT",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Thử đảo vai: nếu chưa có nó, bạn có bỏ tiền mua lại không.",
+    "text": "ĐẢO VAI: MUA LẠI?",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Không mua lại, thì cái giá kia phần lớn là cảm xúc.",
+    "text": "GIÁ CỦA CẢM XÚC",
+    "actor": "small_step",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Mấy món trong tủ có còn đáng chỗ của chúng không?",
+    "text": "CÒN ĐÁNG CHỖ KHÔNG?",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s106",
+  "mascot": "buff",
+  "title": "Watch the Tiny First Yes",
+  "mechanism": "Foot-in-the-door",
+  "lines": [
+   {
+    "vo": "Can you just like this post? Next week: can you run the page?",
+    "text": "JUST ONE LIKE?",
+    "actor": "nervous_wave",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Small yes first, big ask later. Classic setup.",
+    "text": "SMALL YES, BIG ASK",
+    "color": "red",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "It's called foot-in-the-door.",
+    "text": "FOOT IN THE DOOR",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "After one yes, another yes tends to feel consistent.",
+    "text": "YES WANTS MORE YES",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Spot the ladder. This step might be one of five.",
+    "text": "SPOT THE LADDER",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "target"
+   },
+   {
+    "vo": "Judge the big ask on its own. Like a fresh set.",
+    "text": "JUDGE IT ALONE",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Old yes, new no. Totally allowed. Rep it.",
+    "text": "OLD YES. NEW NO.",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s106vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Coi chung cai gat dau nho dau tien",
+  "title_vi": "Coi chừng cái gật đầu nhỏ đầu tiên",
+  "mechanism": "Foot-in-the-door",
+  "lines": [
+   {
+    "vo": "Bạn điền giúp mình khảo sát hai phút thôi mà.",
+    "text": "CHỈ 2 PHÚT THÔI",
+    "actor": "nervous_wave",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Nửa tiếng sau, bạn đang nghe tư vấn đóng tiền khoá học.",
+    "text": "RỒI THÀNH ĐÓNG TIỀN",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Gật cái nhỏ trước, xin cái lớn sau. Chiêu chân trong cửa.",
+    "text": "GẬT NHỎ, XIN LỚN",
+    "actor": "hand_off",
+    "prop": "brain"
+   },
+   {
+    "vo": "Đã đồng ý một lần, từ chối lần sau thấy như mình nói ngược.",
+    "text": "TỪ CHỐI THẤY KỲ",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Tách yêu cầu lớn ra, xét như chưa từng gật gì.",
+    "text": "XÉT RIÊNG TỪNG CÁI",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Điền khảo sát rồi vẫn được nói không. Hiệp này tập ngay.",
+    "text": "VẪN ĐƯỢC NÓI KHÔNG",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s107",
+  "mascot": "pen",
+  "title": "Why Splitting the Bill Feels Awkward",
+  "mechanism": "Communal vs exchange norms",
+  "lines": [
+   {
+    "vo": "Your friend pulls out a calculator at dinner. Something shifts.",
+    "text": "CALCULATOR AT DINNER",
+    "actor": "shocked",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Friendship runs on one set of rules. Shops run on another.",
+    "text": "TWO SETS OF RULES",
+    "actor": "think"
+   },
+   {
+    "vo": "With friends, we give and take loosely, without keeping score.",
+    "text": "FRIENDS: NO SCORE",
+    "actor": "celebrate"
+   },
+   {
+    "vo": "A bill drops market rules into a friendship moment.",
+    "text": "MARKET RULES ARRIVE",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "That clash is what feels awkward, more than the money.",
+    "text": "THE CLASH IS AWKWARD",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "So settle it before ordering: equal split, or everyone pays their own.",
+    "text": "SPLIT PLAN FIRST",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Then the bill is just a bill.",
+    "text": "BILL = JUST A BILL",
+    "actor": "meditating"
+   },
+   {
+    "vo": "The money was always easy. The rules were the hard part.",
+    "text": "THE RULES WERE HARD",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s107vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao chia tien voi ban lai nguong",
+  "title_vi": "Sao chia tiền với bạn lại ngượng",
+  "mechanism": "Communal vs exchange norms",
+  "lines": [
+   {
+    "vo": "Đi lẩu, đứa ăn chay, đứa gọi thêm bia. Tới lúc tính tiền, cả bàn im.",
+    "text": "TÍNH TIỀN, CẢ BÀN IM",
+    "actor": "nervous_wave",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Bạn bè sống bằng luật cho nhận thoải mái, chẳng ai ghi sổ.",
+    "text": "BẠN BÈ: KHÔNG GHI SỔ",
+    "actor": "celebrate"
+   },
+   {
+    "vo": "Hoá đơn kéo luật mua bán vào giữa bàn ăn, nên thấy gượng.",
+    "text": "LUẬT MUA BÁN XEN VÀO",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Chốt trong nhóm Zalo trước khi đi: chia đều, hay ai gọi nấy trả.",
+    "text": "CHỐT TRƯỚC TRÊN ZALO",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Tiền thì dễ tính. Cái khó là chẳng ai muốn làm người mở lời.",
+    "text": "KHÓ LÀ AI MỞ LỜI",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s108",
+  "mascot": "buff",
+  "title": "Pay Yourself Before the Checkout",
+  "mechanism": "Mental budgeting",
+  "lines": [
+   {
+    "vo": "I'll save whatever's left at the end of the month. Sure, buddy.",
+    "text": "LEFTOVERS? SURE.",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Money in one big pile gets spent like one big pile.",
+    "text": "ONE PILE = GONE",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Your brain budgets by labels. Give savings its label first.",
+    "text": "LABEL IT FIRST",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Payday? Move your chosen amount out before you shop. Rep one.",
+    "text": "PAYDAY: SAVE FIRST",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Then spend the rest, guilt-free. Same set, every payday.",
+    "text": "THEN SPEND THE REST",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s108vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "De danh truoc, tieu sau",
+  "title_vi": "Để dành trước, tiêu sau",
+  "mechanism": "Mental budgeting",
+  "lines": [
+   {
+    "vo": "Cuối tháng còn bao nhiêu thì để dành. Ừ, tin.",
+    "text": "CÒN DƯ THÌ ĐỂ DÀNH",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Ngày hai mươi lăm, tài khoản còn đúng tiền mì gói.",
+    "text": "NGÀY 25: MÌ GÓI",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Tiền để chung một chỗ thì tiêu kiểu gì cũng hết.",
+    "text": "CHUNG MỘT CHỖ = HẾT",
+    "actor": "confused_shrug",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Não chia tiền theo nhãn. Có nhãn để dành thì khó động vào hơn.",
+    "text": "DÁN NHÃN CHO TIỀN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Lương làm thêm vừa về, chuyển ngay phần để dành sang tài khoản riêng.",
+    "text": "LƯƠNG VỀ: CHUYỂN NGAY",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Phần còn lại, cứ tiêu, khỏi áy náy.",
+    "text": "CÒN LẠI: CỨ TIÊU",
+    "actor": "celebrate"
+   },
+   {
+    "vo": "Hiệp đầu tiên là kỳ lương tới. Chọn sẵn con số luôn từ bây giờ.",
+    "text": "BẮT ĐẦU KỲ LƯƠNG TỚI",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "calendar_today"
+   }
+  ]
+ },
+ {
+  "id": "s109",
+  "mascot": "pen",
+  "title": "The Gift That Makes You Feel Obligated",
+  "mechanism": "Reciprocity norm",
+  "lines": [
+   {
+    "vo": "They handed you a free sample. Now walking away feels rude.",
+    "text": "FREE SAMPLE, NOW GUILT",
+    "actor": "hand_off",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "We tend to feel we owe something back, even for small gifts.",
+    "text": "I OWE YOU ONE",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "That's the reciprocity norm. It keeps relationships warm.",
+    "text": "RECIPROCITY NORM",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "But it can also make a sales pitch hard to refuse.",
+    "text": "AND HARD TO SAY NO",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Split the moment in two: thank them, then decide on its own.",
+    "text": "THANK, THEN DECIDE",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "If the gift hadn't come first, would you still want this?",
+    "text": "WITHOUT THE GIFT?",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s109vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Mon qua khien ban thay mac no",
+  "title_vi": "Món quà khiến bạn thấy mắc nợ",
+  "mechanism": "Reciprocity norm",
+  "lines": [
+   {
+    "vo": "Chị đồng nghiệp từng đổi ca giúp bạn. Hôm nay chị mời mua mỹ phẩm.",
+    "text": "ĐỔI CA XONG, MỜI MUA",
+    "actor": "hand_off",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Từ chối thì thấy mình như kẻ vô ơn.",
+    "text": "TỪ CHỐI = VÔ ƠN?",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Được giúp, mình thường thấy phải trả lại, kể cả chuyện nhỏ.",
+    "text": "CÓ QUA CÓ LẠI",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Chuẩn mực có qua có lại giữ cho các mối quan hệ ấm áp.",
+    "text": "GIỮ TÌNH CẢM ẤM",
+    "actor": "meditating"
+   },
+   {
+    "vo": "Nhưng nó cũng làm câu không trở nên nặng trĩu.",
+    "text": "NHƯNG KHÓ NÓI KHÔNG",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Tách làm hai việc: cảm ơn chuyện đổi ca, rồi mới xét món hàng.",
+    "text": "CẢM ƠN, RỒI MỚI XÉT",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Trả ơn có nhiều cách, đâu nhất thiết phải bằng tiền.",
+    "text": "TRẢ ƠN KHÔNG CẦN TIỀN",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Nếu chưa từng được giúp, bạn có muốn mua món đó không?",
+    "text": "NẾU CHƯA ĐƯỢC GIÚP?",
+    "color": "gold",
+    "actor": "think",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s110",
+  "mascot": "buff",
+  "title": "Someone in the Group Has to Go First",
+  "mechanism": "Bystander effect (diffusion of responsibility)",
+  "lines": [
+   {
+    "vo": "Forty people in the group chat. Who's booking the room? Silence.",
+    "text": "40 SEEN. 0 REPLIES.",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Everyone figures someone else has it.",
+    "text": "SOMEONE ELSE WILL",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "More people, less push each. Bystander effect.",
+    "text": "BYSTANDER EFFECT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "The job splits until nobody's holding any of it.",
+    "text": "SPLIT TO ZERO",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Break it. Answer first, even if it's just 'I'll check.'",
+    "text": "YOU GO FIRST",
+    "color": "green",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Need help? Tag one name, not the whole room.",
+    "text": "TAG ONE NAME",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Somebody takes the first rep. Might as well be you.",
+    "text": "FIRST REP IS YOURS",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s110vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Trong nhom phai co nguoi len tieng truoc",
+  "title_vi": "Trong nhóm phải có người lên tiếng trước",
+  "mechanism": "Bystander effect (diffusion of responsibility)",
+  "lines": [
+   {
+    "vo": "Sếp hỏi trong nhóm ai ghi biên bản. Ba mươi người đã xem.",
+    "text": "30 NGƯỜI ĐÃ XEM",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Ai cũng nghĩ chắc có người khác nhận rồi.",
+    "text": "CHẮC AI ĐÓ NHẬN",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Đông người, trách nhiệm bị chia nhỏ tới mức chẳng ai cầm. Hiệu ứng bàng quan.",
+    "text": "HIỆU ỨNG BÀNG QUAN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn là người nhờ? Gọi đích danh một người, đừng hỏi cả nhóm.",
+    "text": "GỌI ĐÍCH DANH",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Bạn là người đọc? Trả lời trước, dù chỉ là để em xem.",
+    "text": "LÊN TIẾNG TRƯỚC",
+    "color": "green",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Cả nhóm đang chờ một người mở màn. Hoặc là bạn, hoặc lại im re.",
+    "text": "BẠN MỞ MÀN ĐI",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ }
+]

@@ -1,0 +1,168 @@
+# L6 The Social Brain: Why People Are Confusing
+
+### s19 [pen] Why You Replay What You Said — spotlight effect
+- You said something a little weird.
+- Now you're sure everyone noticed.
+- Psychologists call it the spotlight effect.
+- We think people notice us more than they do.
+- People are usually busier thinking about themselves.
+- Who are you giving too much spotlight to?
+
+### s20 [buff] Why Small Talk Feels Like a Test — social-evaluative threat
+- Someone asks: how's your week?
+- And your brain hears: pop quiz.
+- You grade every sentence while you're still talking.
+- Easy fix: ask them one real follow-up.
+- Spotlight moves off you, onto them.
+- Bonus: most people enjoy a good question.
+
+### s21 [pen] Why You Assume They're Judging You — interpretation bias
+- They took two hours to reply.
+- Your brain writes a whole courtroom drama.
+- When there's no context, it's easy to jump to the scariest story.
+- List three other reasons. Busy. In a meeting. Asleep.
+- The harsh one is just one guess.
+- What's a kinder explanation?
+
+### s22 [buff] Why You Avoid Sending the Message — avoidance and short-term relief
+- Not sending it feels great.
+- For about five seconds.
+- Quick relief trains you to dodge again.
+- Write a rough draft. Not sending. Just typing.
+- Pick a time to hit send.
+- Open that chat and type the first line. Now.
+
+### s29 [pen] Why You Say Yes Too Fast — automatic responding
+- Can you help this weekend?
+- Your mouth said yes before your calendar got a vote.
+- In the moment, yes feels easier than no.
+- Use a pause line: let me check and get back to you.
+- A pause gives future you a vote.
+- Are you being nice, or just scared of saying no?
+
+### s106 [buff] Watch the Tiny First Yes — Foot-in-the-door
+- Can you just like this post? Next week: can you run the page?
+- Small yes first, big ask later. Classic setup.
+- It's called foot-in-the-door.
+- After one yes, another yes tends to feel consistent.
+- Spot the ladder. This step might be one of five.
+- Judge the big ask on its own. Like a fresh set.
+- Old yes, new no. Totally allowed. Rep it.
+
+### s107 [pen] Why Splitting the Bill Feels Awkward — Communal vs exchange norms
+- Your friend pulls out a calculator at dinner. Something shifts.
+- Friendship runs on one set of rules. Shops run on another.
+- With friends, we give and take loosely, without keeping score.
+- A bill drops market rules into a friendship moment.
+- That clash is what feels awkward, more than the money.
+- So settle it before ordering: equal split, or everyone pays their own.
+- Then the bill is just a bill.
+- The money was always easy. The rules were the hard part.
+
+### s108 [buff] Pay Yourself Before the Checkout — Mental budgeting
+- I'll save whatever's left at the end of the month. Sure, buddy.
+- Money in one big pile gets spent like one big pile.
+- Your brain budgets by labels. Give savings its label first.
+- Payday? Move your chosen amount out before you shop. Rep one.
+- Then spend the rest, guilt-free. Same set, every payday.
+
+### s109 [pen] The Gift That Makes You Feel Obligated — Reciprocity norm
+- They handed you a free sample. Now walking away feels rude.
+- We tend to feel we owe something back, even for small gifts.
+- That's the reciprocity norm. It keeps relationships warm.
+- But it can also make a sales pitch hard to refuse.
+- Split the moment in two: thank them, then decide on its own.
+- If the gift hadn't come first, would you still want this?
+
+### s110 [buff] Someone in the Group Has to Go First — Bystander effect (diffusion of responsibility)
+- Forty people in the group chat. Who's booking the room? Silence.
+- Everyone figures someone else has it.
+- More people, less push each. Bystander effect.
+- The job splits until nobody's holding any of it.
+- Break it. Answer first, even if it's just 'I'll check.'
+- Need help? Tag one name, not the whole room.
+- Somebody takes the first rep. Might as well be you.
+
+### s111 [pen] Why a Quiet Chat Feels Like Rejection — Fundamental attribution error
+- You asked a simple question at nine. It's almost noon.
+- And slowly, the silence starts to sound like an opinion of you.
+- When we're slow, we know it's the meetings. When they're slow, it feels personal.
+- We tend to blame the person and forget the situation around them.
+- So check the context first. Are they in meetings, travelling, off today?
+- If it's urgent, send one short nudge with what you need.
+- A quiet chat may just mean someone's having a busy day.
+
+### s112 [buff] Say the Request, Not the Hint — Communication clarity
+- You sighed at the dirty dishes. Loudly. Three times.
+- Your roommate heard a sigh. Not a request.
+- Hints make people guess. Most people guess wrong.
+- Say what you need and when. One clean rep.
+- Can you wash the pans before eight tonight?
+- Clear ask, clear answer. Sighing is cardio for nobody.
+
+### s113 [pen] Why Feedback Sounds Like an Attack — Threat to self-image (defensive response)
+- Someone says the third slide is confusing. You hear: you're not good at this.
+- When the work feels like part of who we are, a note on it can sting like a verdict.
+- So we defend everything, even the parts we'd happily fix.
+- Try pulling it back to the work. Which part, exactly, should change?
+- A precise answer is usually smaller than the fear was.
+- What if the comment was only ever about slide three?
+
+### s114 [buff] Don't Mind-Read the Group Chat — Projection bias
+- Teammate replies "ok." You read: furious.
+- That tone? You wrote it. With your own bad mood.
+- We tend to read our own feelings into flat messages.
+- Don't reply to the drama you invented. Skip that set.
+- Ask neutral: All good to go with this version?
+- Real answer beats imagined tone. Every time.
+
+### s115 [pen] They Liked Talking to You More Than You Think — Liking gap
+- On the way home, you replay the one thing you said wrong.
+- And you decide they probably found you a bit dull.
+- Studies of first chats find people tend to underestimate how much they were liked.
+- You were busy judging yourself. They were just enjoying the talk.
+- Before the replay starts, recall two moments that went fine.
+- A laugh you shared. A question they asked you back.
+- That stumble was likely the part only you remember.
+
+### s116 [buff] Make the Group Plan Concrete — Coordination failure
+- "We should hang out sometime!" Sure. Sometime.
+- Everyone agrees. Nobody decides. Nothing happens.
+- In a group, each person waits for someone else to lock it in.
+- Be the spotter. Drop a place and a time.
+- Saturday, four, the noodle place. Thumbs up to confirm.
+- Vague plans skip leg day forever. Lock one in now.
+
+### s117 [pen] Why You Agree Before Checking Your Week — Commitment pressure
+- Someone asks if you're free on the twelfth, and yes is already out.
+- Then you open your calendar, and the twelfth is taken.
+- Face to face, a pause can feel rude, so a quick yes fills it.
+- And once said out loud, it feels harder to take back.
+- A gentler habit: let me check my week, I'll reply tonight.
+- Then actually reply by the time you named.
+- A yes given after looking is a yes you can keep.
+
+### s118 [buff] Don't Confuse Loud With Certain — Confidence heuristic
+- He said it loud. He said it fast. Everyone nodded.
+- Confidence is a voice. It's not a receipt.
+- We tend to trust sure-sounding people, even when they're wrong.
+- Spot the claim. Ask one rep: what's that based on?
+- Good ideas can handle questions. Weak ones may not.
+- Big voice, small evidence? Ask anyway. Every meeting.
+
+### s119 [pen] Why an Apology Needs a Repair — Trust repair (acknowledge + make amends)
+- You lost the book your friend lent you. You said sorry. Twice.
+- And still, something between you feels a little off.
+- Trust tends to come back from what you do, not only what you say.
+- First, name the impact. I know you were saving that book.
+- Then offer a concrete repair. I've ordered a new copy.
+- What would make it right for them, not just for you?
+
+### s120 [buff] Give Credit Where the Work Happened — Attribution bias
+- Team report crushed it. "Great job, everyone!"
+- Meanwhile, Mai cleaned the data for three nights. Unnamed.
+- Credit drifts to whoever presented. Not who did the reps.
+- Generic thanks? That's a half rep.
+- Name the person and the exact part they did.
+- Mai's data cleanup is why chart two works.
+- Thirty seconds. Full credit. Send it today.

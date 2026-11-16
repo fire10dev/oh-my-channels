@@ -1,0 +1,969 @@
+[
+ {
+  "id": "s71",
+  "mascot": "pen",
+  "title": "Why the First Draft Feels So Personal",
+  "mechanism": "IKEA effect (valuing what you made)",
+  "lines": [
+   {
+    "vo": "You spent three nights on this draft. Now cut a paragraph.",
+    "text": "CUT ONE PARAGRAPH?",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Suddenly it feels like cutting a piece of you.",
+    "text": "IT FEELS PERSONAL",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "We tend to value things more simply because we built them.",
+    "text": "THE IKEA EFFECT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "The effort quietly gets mixed up with the quality.",
+    "text": "EFFORT IS NOT QUALITY",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "So a small note can sound like a verdict on you.",
+    "text": "FEEDBACK STINGS",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Try calling it version one. A working object, not a portrait.",
+    "text": "CALL IT V1",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "The nights still count. They just don't have to stay in the draft.",
+    "text": "THE NIGHTS STILL COUNT",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s71vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao ban nhap dau lai kho sua the",
+  "title_vi": "Sao bản nháp đầu lại khó sửa thế",
+  "mechanism": "IKEA effect (valuing what you made)",
+  "lines": [
+   {
+    "vo": "Bạn nhóm vừa xoá đoạn văn bạn ngồi viết đến hai giờ sáng.",
+    "text": "ĐOẠN CỦA MÌNH BỊ XOÁ",
+    "actor": "shocked",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Tự nhiên thấy khó chịu, như thể chính mình bị chê.",
+    "text": "NHƯ BỊ CHÊ MÌNH",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Thứ tự tay làm ra, mình thường thấy nó giá trị hơn thật.",
+    "text": "HIỆU ỨNG IKEA",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Công sức bỏ ra dễ bị nhầm thành chất lượng.",
+    "text": "VẤT VẢ CHƯA CHẮC HAY",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Thử gọi nó là bản nháp số một, sinh ra là để sửa.",
+    "text": "BẢN NHÁP SỐ 1",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Đoạn này đang giúp người đọc, hay chỉ giúp mình đỡ tiếc công?",
+    "text": "GIÚP NGƯỜI ĐỌC?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s72",
+  "mascot": "buff",
+  "title": "Aim for Practice, Not a Perfect Score",
+  "mechanism": "Mastery goal orientation",
+  "lines": [
+   {
+    "vo": "Full mock exam. Again. Same score. Again.",
+    "text": "SAME SCORE. AGAIN.",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "You're testing every day. You're not training.",
+    "text": "TESTING ISN'T TRAINING",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "A score goal only asks one thing: am I good yet?",
+    "text": "SCORE GOAL",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "A practice goal asks: which move gets better today?",
+    "text": "PRACTICE GOAL",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "Pick one weak spot. Ten clean reps of it.",
+    "text": "ONE WEAK SPOT, 10 REPS",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Reps show up tonight. The score shows up later.",
+    "text": "REPS NOW. SCORE LATER.",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s72vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Tap ky nang truoc, diem so theo sau",
+  "title_vi": "Tập kỹ năng trước, điểm số theo sau",
+  "mechanism": "Mastery goal orientation",
+  "lines": [
+   {
+    "vo": "Làm hết đề này đến đề khác, điểm vẫn đứng im.",
+    "text": "ĐIỂM VẪN ĐỨNG IM",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Ngày nào cũng thi thử. Chưa ngày nào chịu tập.",
+    "text": "THI THỬ KHÁC TẬP",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Mục tiêu điểm chỉ hỏi một câu: mình giỏi chưa.",
+    "text": "MỤC TIÊU ĐIỂM",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "Mục tiêu luyện tập thì hỏi: hôm nay khá lên ở chỗ nào.",
+    "text": "MỤC TIÊU LUYỆN TẬP",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "Chọn đúng một dạng hay sai. Làm mười câu, chậm mà chắc.",
+    "text": "1 DẠNG SAI, 10 CÂU",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Sai thì ghi lý do. Đó là một hiệp tập, không phải án phạt.",
+    "text": "SAI LÀ MỘT HIỆP TẬP",
+    "actor": "writing"
+   },
+   {
+    "vo": "Điểm đến sau. Hiệp tập thì bắt đầu ngay tối nay.",
+    "text": "TẬP TRƯỚC, ĐIỂM SAU",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s73",
+  "mascot": "pen",
+  "title": "Why You Judge a Day by Its Ending",
+  "mechanism": "Peak-end rule",
+  "lines": [
+   {
+    "vo": "A genuinely good day. Then one awkward text at 11 p.m.",
+    "text": "THEN ONE BAD TEXT",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "And now the whole day feels ruined.",
+    "text": "WHOLE DAY: RUINED",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Memory doesn't replay every hour. It keeps a few snapshots.",
+    "text": "MEMORY SKIPS HOURS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Mostly the strongest moment, and how things ended.",
+    "text": "THE PEAK AND THE END",
+    "actor": "front",
+    "prop": "target"
+   },
+   {
+    "vo": "It's often called the peak-end rule.",
+    "text": "PEAK-END RULE",
+    "actor": "34",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Before bed, write down three moments that went fine.",
+    "text": "3 GOOD MOMENTS",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "And let the last few minutes be something small and kind.",
+    "text": "END ON PURPOSE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "One bad text was one minute. You lived all the others too.",
+    "text": "THE REST COUNTS TOO",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s73vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao cuoi ngay te la ca ngay te",
+  "title_vi": "Sao cuối ngày tệ là cả ngày tệ",
+  "mechanism": "Peak-end rule",
+  "lines": [
+   {
+    "vo": "Cả ngày suôn sẻ, gần về đến nhà thì kẹt xe cả tiếng.",
+    "text": "KẸT XE CUỐI NGÀY",
+    "actor": "future_tired",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Tối nằm nghĩ lại, thấy hôm nay đúng là một ngày tệ.",
+    "text": "HÔM NAY TỆ THẬT",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Trí nhớ không chiếu lại từng giờ một.",
+    "text": "KHÔNG NHỚ TỪNG GIỜ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nó giữ lúc cảm xúc mạnh nhất, và đoạn kết.",
+    "text": "ĐỈNH VÀ KẾT",
+    "actor": "front",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Trước khi ngủ, ghi ba chuyện ổn trong ngày, nhỏ cũng được.",
+    "text": "GHI 3 CHUYỆN ỔN",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Một tiếng kẹt xe, có nên thay mặt cho cả ngày không?",
+    "text": "1 TIẾNG HAY CẢ NGÀY?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s74",
+  "mascot": "buff",
+  "title": "Don't Confuse Effort With Progress",
+  "mechanism": "Effort heuristic",
+  "lines": [
+   {
+    "vo": "Four highlighter colors. Every page glowing. No idea what's on it.",
+    "text": "EVERY PAGE GLOWING",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "It felt hard, so it must be working. Sure, buddy.",
+    "text": "FELT HARD = WORKED?",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "We tend to judge value by sweat, not by results.",
+    "text": "SWEAT IS NOT A RESULT",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Before the set, name the result. After it, check you got it.",
+    "text": "NAME IT. CHECK IT.",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Tired isn't done. Done is done.",
+    "text": "DONE IS DONE",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s74vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Met khong co nghia la tien bo",
+  "title_vi": "Mệt không có nghĩa là tiến bộ",
+  "mechanism": "Effort heuristic",
+  "lines": [
+   {
+    "vo": "Ngồi quán từ sáng tới tối, chép lại vở thật đẹp.",
+    "text": "CHÉP VỞ CẢ NGÀY",
+    "actor": "writing",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Mệt rã người, chắc học được nhiều lắm. Ừ, tin.",
+    "text": "MỆT LÀ HỌC ĐƯỢC?",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Mình dễ đo công sức bằng độ mệt, chứ không bằng kết quả.",
+    "text": "MỆT KHÔNG PHẢI KẾT QUẢ",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Tập tạ mà chỉ đếm mồ hôi, không đếm mức tạ, thì đứng yên.",
+    "text": "ĐẾM MỒ HÔI À?",
+    "actor": "jogging",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Đầu buổi, ghi ra cần làm được gì. Cuối buổi, đối chiếu.",
+    "text": "GHI ĐÍCH, ĐỐI CHIẾU",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Mệt chưa chắc đã xong. Làm được mới là xong.",
+    "text": "LÀM ĐƯỢC MỚI LÀ XONG",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s75",
+  "mascot": "pen",
+  "title": "Why You Feel Like a Beginner Again",
+  "mechanism": "Skill acquisition stages",
+  "lines": [
+   {
+    "vo": "New software at work. Everyone clicks fast. You hunt for buttons.",
+    "text": "HUNTING FOR BUTTONS",
+    "actor": "confused_shrug",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "It's easy to decide this just isn't your thing.",
+    "text": "NOT MY THING?",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Early on, every single step needs your full attention.",
+    "text": "EVERY STEP IS SLOW",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "With practice, steps tend to chain together and get quieter.",
+    "text": "STEPS START TO CHAIN",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "So skip judging the whole skill. Pick one small piece.",
+    "text": "PRACTICE ONE PIECE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Which piece would make tomorrow a little less clumsy?",
+    "text": "WHICH PIECE TOMORROW?",
+    "color": "gold",
+    "actor": "writing"
+   }
+  ]
+ },
+ {
+  "id": "s75vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao hoc cai moi thay minh vung the",
+  "title_vi": "Sao học cái mới thấy mình vụng thế",
+  "mechanism": "Skill acquisition stages",
+  "lines": [
+   {
+    "vo": "Lần đầu làm bảng tính ở công ty, mình dò từng nút một.",
+    "text": "DÒ TỪNG NÚT",
+    "actor": "confused_shrug",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Đồng nghiệp bấm vèo vèo. Mình bắt đầu nghĩ: chắc không hợp.",
+    "text": "CHẮC MÌNH KHÔNG HỢP",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Lúc mới học, bước nào cũng phải nghĩ, nên chậm là bình thường.",
+    "text": "MỚI HỌC THÌ CHẬM",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tập nhiều, các bước dần nối vào nhau, gần như tự chạy.",
+    "text": "CÁC BƯỚC TỰ NỐI",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "Người bấm vèo vèo kia cũng từng dò nút như vậy, chỉ là lâu rồi.",
+    "text": "HỌ CŨNG TỪNG CHẬM",
+    "actor": "front"
+   },
+   {
+    "vo": "Đừng chấm điểm cả kỹ năng. Chọn một phần nhỏ, như lọc dữ liệu.",
+    "text": "TẬP 1 PHẦN NHỎ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Vụng không phải kết luận. Nó chỉ là chặng đầu.",
+    "text": "VỤNG LÀ CHẶNG ĐẦU",
+    "color": "gold",
+    "actor": "34",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s76",
+  "mascot": "buff",
+  "title": "Use a Checkpoint, Not a Pep Talk",
+  "mechanism": "Feedback control",
+  "lines": [
+   {
+    "vo": "Forty slides done. Grading sheet never opened.",
+    "text": "40 SLIDES, NO RUBRIC",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "That's lifting with no mirror. Form goes sideways.",
+    "text": "NO MIRROR, BAD FORM",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "A pep talk makes you push harder. Not in the right direction.",
+    "text": "PEP TALK: NO DIRECTION",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Feedback works by comparing where you are to the target.",
+    "text": "WHERE YOU ARE VS GOAL",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "Halfway through, open the criteria. Tick each one.",
+    "text": "HALFWAY CHECKPOINT",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Missing one? Fix it now, not the night before.",
+    "text": "FIX IT NOW",
+    "color": "green",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Check the mirror mid-set, or redo the whole set. Pick.",
+    "text": "MIRROR OR REDO. PICK.",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s76vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Doi chieu giua chung thay vi co len",
+  "title_vi": "Đối chiếu giữa chừng thay vì cố lên",
+  "mechanism": "Feedback control",
+  "lines": [
+   {
+    "vo": "Làm xong báo cáo ba mươi trang mới đọc lại yêu cầu của sếp.",
+    "text": "XONG RỒI MỚI ĐỌC ĐỀ",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Lệch hướng từ trang hai. Toang.",
+    "text": "LỆCH TỪ TRANG 2",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Tự nhủ cố lên không cho bạn biết mình lệch chỗ nào.",
+    "text": "CỐ LÊN KHÔNG CHỈ ĐƯỜNG",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Phải so chỗ mình đang đứng với cái đích, rồi chỉnh.",
+    "text": "SO VỚI ĐÍCH, RỒI CHỈNH",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "Làm được nửa thì dừng, mở yêu cầu ra, đánh dấu từng ý.",
+    "text": "NỬA CHỪNG: ĐỐI CHIẾU",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Soi gương giữa hiệp tạ, hoặc tập lại cả hiệp. Chọn đi.",
+    "text": "SOI GƯƠNG HAY TẬP LẠI",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s77",
+  "mascot": "pen",
+  "title": "Why You Can't Explain What You Know",
+  "mechanism": "Illusion of explanatory depth",
+  "lines": [
+   {
+    "vo": "You know how a zipper works. Until someone asks you to explain it.",
+    "text": "EXPLAIN A ZIPPER",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Then the words run out after one sentence.",
+    "text": "WORDS RUN OUT",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "We often feel we understand things in more detail than we do.",
+    "text": "IT FEELS DEEPER",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Try writing the steps one by one, with nothing to look up.",
+    "text": "WRITE THE STEPS",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "The gaps you find aren't failures. They're the map.",
+    "text": "GAPS ARE THE MAP",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s77vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao biet ma khong giai thich duoc",
+  "title_vi": "Sao biết mà không giải thích được",
+  "mechanism": "Illusion of explanatory depth",
+  "lines": [
+   {
+    "vo": "Em họ hỏi: sao điều hoà lại thổi ra hơi lạnh?",
+    "text": "SAO ĐIỀU HOÀ MÁT?",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Bạn tự tin mở miệng, nói được nửa câu rồi im.",
+    "text": "NÓI NỬA CÂU RỒI IM",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Mình thường tưởng mình hiểu sâu hơn thực tế.",
+    "text": "TƯỞNG HIỂU SÂU",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hiểu đại khái thì dễ. Kể từng bước mới lộ chỗ trống.",
+    "text": "TỪNG BƯỚC MỚI LỘ",
+    "actor": "front"
+   },
+   {
+    "vo": "Thử viết ra từng bước, không mở điện thoại tra.",
+    "text": "VIẾT TỪNG BƯỚC",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Chỗ bí là chỗ cần học. Thấy được nó là đã lời rồi.",
+    "text": "CHỖ BÍ LÀ CHỖ HỌC",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s78",
+  "mascot": "buff",
+  "title": "Mix the Problem Types",
+  "mechanism": "Interleaving effect",
+  "lines": [
+   {
+    "vo": "Twenty problems in a row, same type. You crushed them.",
+    "text": "20 IN A ROW. EASY.",
+    "actor": "celebrate",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Then the exam mixes them up.",
+    "text": "THEN THE EXAM MIXES",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Same-type sets hand you the method before you start.",
+    "text": "METHOD GIVEN FOR FREE",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "The real skill is spotting which method this one needs.",
+    "text": "PICK THE METHOD",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "So shuffle the set. Mix related types together.",
+    "text": "SHUFFLE THE SET",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "It feels slower and messier. It tends to stick better.",
+    "text": "MESSIER, STICKS BETTER",
+    "actor": "future_tired",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Before solving, say the method out loud. Then go.",
+    "text": "NAME THE METHOD FIRST",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Same machine every rep is comfy. Mixed sets win exams.",
+    "text": "MIX THE SET. WIN.",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s78vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "On thi thi tron dang bai vao",
+  "title_vi": "Ôn thi thì trộn dạng bài vào",
+  "mechanism": "Interleaving effect",
+  "lines": [
+   {
+    "vo": "Ôn chương phương trình, làm hai chục câu y một dạng. Ngon.",
+    "text": "20 CÂU CÙNG 1 DẠNG",
+    "actor": "celebrate",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Vào phòng thi, đề trộn lẫn. Đứng hình.",
+    "text": "ĐỀ TRỘN. ĐỨNG HÌNH.",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Làm một dạng liền mạch thì cách giải được đưa sẵn rồi.",
+    "text": "CÁCH GIẢI CÓ SẴN",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Cái khó thật là nhận ra câu này cần cách nào.",
+    "text": "NHẬN RA CÁCH NÀO",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "Trộn các dạng gần nhau trong một buổi. Trước mỗi câu, gọi tên cách giải.",
+    "text": "TRỘN DẠNG, GỌI TÊN",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Tập một máy cả buổi thì sướng. Trộn bài mới ra sức. Chọn đi.",
+    "text": "TRỘN BÀI MỚI RA SỨC",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s79",
+  "mascot": "pen",
+  "title": "Why You Forget What You Just Read",
+  "mechanism": "Levels of processing",
+  "lines": [
+   {
+    "vo": "You finished the chapter. You can't recall a single idea.",
+    "text": "READ IT. RECALL ZERO.",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Your eyes moved down every line. Your mind stayed on the surface.",
+    "text": "SURFACE READING",
+    "color": "red",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Memory tends to hold what we process for meaning.",
+    "text": "MEANING STICKS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Meaning grows when a new idea hooks onto one you already know.",
+    "text": "HOOK IT TO SOMETHING",
+    "actor": "front",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "After each section, link it to one example from your own life.",
+    "text": "LINK ONE EXAMPLE",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "So what does this idea remind you of?",
+    "text": "REMINDS YOU OF?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s79vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao doc xong la quen sach",
+  "title_vi": "Sao đọc xong là quên sạch",
+  "mechanism": "Levels of processing",
+  "lines": [
+   {
+    "vo": "Đọc xong mười trang giáo trình, gấp sách lại thì trống trơn.",
+    "text": "GẤP SÁCH LÀ QUÊN",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Mắt lướt hết từng dòng, nhưng đầu chỉ chạm lớp vỏ chữ.",
+    "text": "MẮT ĐỌC, ĐẦU KHÔNG",
+    "color": "red",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Thứ mình nghĩ kỹ về nghĩa thường được nhớ lâu hơn.",
+    "text": "NGHĨ VỀ NGHĨA",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nghĩa đến khi ý mới móc được vào thứ mình đã biết.",
+    "text": "MÓC VÀO CÁI ĐÃ BIẾT",
+    "actor": "front",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Đọc đến lạm phát, nghĩ ngay cốc trà sữa năm ngoái rẻ hơn.",
+    "text": "LẠM PHÁT = TRÀ SỮA",
+    "actor": "snack",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Mỗi đoạn, ghi bên lề một ví dụ từ đời mình.",
+    "text": "1 ĐOẠN, 1 VÍ DỤ",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Lần sau nhắc đến lạm phát, cốc trà sữa sẽ kéo cả bài về.",
+    "text": "TRÀ SỮA KÉO BÀI VỀ",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s80",
+  "mascot": "buff",
+  "title": "Teach It in Plain Words",
+  "mechanism": "Self-explanation effect",
+  "lines": [
+   {
+    "vo": "Copied the solution. Every step. No idea why step three works.",
+    "text": "COPIED. NO IDEA WHY.",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Copying is watching someone else lift.",
+    "text": "COPYING = WATCHING",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Explaining why each step works makes you do the rep.",
+    "text": "EXPLAIN THE WHY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "It tends to expose gaps and tie each step to its rule.",
+    "text": "STEP, MEET RULE",
+    "actor": "front"
+   },
+   {
+    "vo": "Cover the textbook. Say each step in plain words.",
+    "text": "PLAIN WORDS ONLY",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Stuck on one? That's your weak spot. Hit it.",
+    "text": "STUCK = WEAK SPOT",
+    "color": "green",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Explain it, you own it. Copy it, you rent it.",
+    "text": "OWN IT, DON'T RENT IT",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s80vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Tu giang lai bang loi cua minh",
+  "title_vi": "Tự giảng lại bằng lời của mình",
+  "mechanism": "Self-explanation effect",
+  "lines": [
+   {
+    "vo": "Chép lời giải mẫu không sót chữ nào. Hỏi vì sao thì chịu.",
+    "text": "CHÉP ĐỦ, HỎI THÌ CHỊU",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Chép bài là ngồi xem người khác nâng tạ.",
+    "text": "CHÉP LÀ XEM NGƯỜI TẬP",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Tự giải thích vì sao từng bước đúng mới là tự mình nâng.",
+    "text": "TỰ NÂNG MỚI LÀ TẬP",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nhóm lớp có đứa hỏi bài? Nhận luôn.",
+    "text": "NHÓM LỚP HỎI? NHẬN!",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Giải thích công thức bằng ví dụ đời thường, không đọc lại sách.",
+    "text": "NÓI BẰNG LỜI MÌNH",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Bước nào ấp úng, đó là chỗ yếu. Tập lại đúng chỗ đó.",
+    "text": "ẤP ÚNG = CHỖ YẾU",
+    "color": "green",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Giảng cho người khác, mình thường hiểu chắc hơn.",
+    "text": "GIẢNG LÀ HỌC THÊM",
+    "actor": "front",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Giải thích được là của mình. Chép thì chỉ là đi mượn.",
+    "text": "CHÉP LÀ ĐI MƯỢN",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ }
+]

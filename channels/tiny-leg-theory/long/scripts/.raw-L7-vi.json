@@ -1,0 +1,797 @@
+{
+ "id": "L7vi",
+ "lang": "vi",
+ "title": "Vì sao căng thẳng khiến ta nghĩ mãi: tám cách ngắt vòng lặp",
+ "description": "Căng thẳng có thể khiến chuyện cũ cứ phát lại, việc nhỏ hóa thành chuyện lớn, còn việc ngày mai thì thấy khó bắt đầu. Pen và Buff cùng bóc tách tám kiểu suy nghĩ thường gặp, rồi thử những bước nhỏ để bạn dễ chọn việc tiếp theo.",
+ "chapters": [
+  {
+   "title": "Intro",
+   "sources": [
+    "s11",
+    "s121",
+    "s124",
+    "s126"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tắt đèn rồi, tự nhiên câu nói quê từ lâu lại khiến mình thấy phải nghĩ ngay.",
+     "text": "ĐÊM NÀO CŨNG CHIẾU LẠI",
+     "color": "red",
+     "actor": "bed_phone_night",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rồi bài thuyết trình ngày mai nhập hội, não tập dượt đủ kiểu tai nạn.",
+     "text": "NỖI LO KÍN LỊCH",
+     "color": "red",
+     "actor": "panic",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình biết nghĩ vậy chẳng giúp gì, nhưng cứ thấy như phải giải quyết ngay.",
+     "text": "CỨ NHƯ VIỆC GẤP",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mình xem tám lý do vòng lo cứ bám dai, rồi thử một bước nhỏ cho mỗi lý do.",
+     "text": "TÁM CÁCH NGẮT VÒNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không cần tâm trạng hoàn hảo hay làm lại cuộc đời. Chỉ cần chút chỗ để chọn bước kế.",
+     "text": "BẮT ĐẦU TỪ MỘT LÚC",
+     "color": "green",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "2. Vòng lặp phát lại",
+   "sources": [
+    "s11"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhà yên, điện thoại đã đặt xuống, tự nhiên cuộc trò chuyện cũ quay lại rõ mồn một.",
+     "text": "2. VÒNG LẶP PHÁT LẠI",
+     "color": "ink",
+     "actor": "sleeping",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình nhớ lúc mọi người im sau câu đùa, rồi nét mặt ai đó, rồi câu lẽ ra mình nên nói.",
+     "text": "CẢNH CŨ BẮT ĐẦU LẠI",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là nghiền ngẫm: đầu óc xem lại chuyện buồn mà chưa chắc tìm ra lời giải mới.",
+     "text": "NGHIỀN NGẪM",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Yên tĩnh bớt chuyện mới tranh sự chú ý, nên nỗi lo cũ nghe rõ hơn trong đêm.",
+     "text": "YÊN TĨNH CHỪA CHỖ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình cứ gọi đó là tìm cách giải quyết, nhưng cảnh chẳng đổi, kết thúc cũng vậy.",
+     "text": "CẢNH CŨ. KẾT CŨ.",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đầu tiên, gọi nhẹ tên nó: phim chiếu lại thôi, không phải tin nhắn cần giải mã tối nay.",
+     "text": "GỌI TÊN PHIM CHIẾU LẠI",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rồi giao cho đầu óc một việc đơn giản, như đếm ngược chậm từ một trăm.",
+     "text": "GIAO NÃO MỘT VIỆC",
+     "color": "green",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Quên mất mình đang đếm thì mình bắt đầu lại, không biến chuyện đó thành thêm một lần thất bại.",
+     "text": "BẮT ĐẦU LẠI NHẸ NHÀNG",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn không xóa quá khứ. Bạn chỉ đặt ranh giới cho tối nay và cho sự chú ý chỗ khác đứng.",
+     "text": "TỐI NAY CÓ RANH GIỚI",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng đôi khi vòng lặp không phải chuyện cũ. Nó là việc ngày mai mình cứ hẹn để mai tính.",
+     "text": "NGÀY MAI CŨNG NHẬP HỘI",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "laptop_file"
+    }
+   ]
+  },
+  {
+   "title": "3. Mượn sức của ngày mai",
+   "sources": [
+    "s25",
+    "s124"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình để bài thuyết trình đó, tự nhủ mai sẽ là ngày mình thấy sẵn sàng.",
+     "text": "3. MƯỢN SỨC CỦA NGÀY MAI",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sáng đến, tệp, ghi chú, cả quyết định đầu tiên như đang chờ một người khác làm.",
+     "text": "VIỆC BỖNG NẶNG HƠN",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn của ngày mai nghe xa xôi, nên để việc đến mai làm dễ chịu hơn ngay lúc này.",
+     "text": "BẠN NGÀY MAI Ở XA",
+     "color": "gold",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nỗi lo còn giở trò này: nghĩ vòng quanh việc cũng thấy như đã cố, dù chẳng nhúc nhích.",
+     "text": "LO KHÔNG TÍNH LÀ MỘT HIỆP",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình nghĩ phải sửa hết bài thuyết trình, rồi câu ấy lại khiến mình muốn né nó hơn.",
+     "text": "DỒN QUÁ NHIỀU MỘT HIỆP",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thu nhỏ bước đầu cho thật rõ, như ăn tối xong tìm hai nguồn tài liệu hữu ích.",
+     "text": "CHỌN MỘT HIỆP ĐẦU",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi lại việc cần làm và lúc làm. Nếu phải đợi, đưa nó vào danh sách ngày mai.",
+     "text": "GHI RÕ LÚC LÀM",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình cũng có thể mở sẵn tệp, xếp cặp, hoặc viết câu đầu tiên trước khi ngủ.",
+     "text": "DỌN SẴN BƯỚC ĐẦU",
+     "color": "ink",
+     "actor": "think",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là khởi động cho bạn ngày mai: bớt đoán lúc bắt đầu, có sẵn một hiệp rõ ràng.",
+     "text": "LÀM NGÀY MAI DỄ HƠN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù đã có bước kế, cả ngày vẫn có thể bị nhuộm bởi một cảm giác mình chưa gọi tên.",
+     "text": "CẢM GIÁC CẦN ĐƯỢC GỌI TÊN",
+     "color": "ink",
+     "actor": "worried_heart"
+    }
+   ]
+  },
+  {
+   "title": "4. Cảm giác không phải phán quyết",
+   "sources": [
+    "s121"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Có người hủy kèo, mình nói thấy tệ, như thể thế là giải thích xong cả buổi tối.",
+     "text": "4. CẢM GIÁC KHÔNG PHẢI PHÁN QUYẾT",
+     "color": "ink",
+     "actor": "sofa_scroll"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tệ có thể là hụt hẫng, cô đơn, lo, ngượng, hoặc mấy thứ rối vào nhau.",
+     "text": "TỪ TỆ QUÁ MƠ HỒ",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử gọi tên cảm xúc: chọn một từ cụ thể cho điều bạn đang cảm thấy.",
+     "text": "GỌI TÊN CẢM XÚC",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gọi tên chính xác giúp mình nhìn cảm xúc dễ hơn, dù nó không biến mất ngay.",
+     "text": "GỌI TÊN RỒI NHẬN RA",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có khi mình hụt hẫng vì muốn có người đi cùng, chứ không phải tối nay tệ chung chung.",
+     "text": "CHÍNH XÁC LÀ GÌ?",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn từ thật sát. Bạn đang gọi tên thời tiết, đâu phải dự báo cả đời.",
+     "text": "TÊN GỌI KHÔNG PHẢI DỰ BÁO",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rồi mình chọn bước hợp hơn, như hẹn lại hoặc tự lên kế hoạch một tối yên tĩnh.",
+     "text": "BƯỚC KẾ RÕ HƠN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ dùng từ bình thường, cụ thể. Nhận ra cảm giác lúc này không cần chẩn đoán gì cả.",
+     "text": "TỪ THƯỜNG LÀ ĐỦ",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đôi khi cảm giác đó là tức giận, và mình muốn gửi tin nhắn ngay lập tức.",
+     "text": "CƠN GIẬN MUỐN BẤM GỬI",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    }
+   ]
+  },
+  {
+   "title": "5. Đừng gửi lúc đang nóng",
+   "sources": [
+    "s122"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đồng nghiệp nhắn một câu gắt, ngón tay mình đã gõ câu còn gắt hơn để đáp lại.",
+     "text": "5. ĐỪNG GỬI LÚC ĐANG NÓNG",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đang nóng, trả lời quá nhanh có thể nặng lời hơn bạn định.",
+     "text": "NÓNG QUÁ DỄ LỆCH GIỌNG",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình muốn gỡ hiểu lầm, bênh mình, lại muốn cho họ biết mình đang bực.",
+     "text": "BA CÂU TRẢ LỜI MỘT LÚC",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Điều chỉnh phản ứng là đổi cách mình xử lý cảm xúc trước khi tin tới tay người khác.",
+     "text": "DỪNG TRƯỚC KHI GỬI",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gõ câu trả lời ra nháp, để đó chưa gửi, nghỉ một lát rồi đọc lại.",
+     "text": "GÕ NHÁP. ĐỂ ĐÓ. ĐỌC LẠI.",
+     "color": "green",
+     "actor": "writing",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trong lúc chờ, mình rời màn hình một chút, để đợt sóng đầu dịu xuống.",
+     "text": "ĐỢI SÓNG ĐẦU QUA",
+     "color": "ink",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đọc lại bản nháp, mình có thể xóa câu chỉ để chọc tức người ta.",
+     "text": "BỎ CÂU SẼ HỐI HẬN",
+     "color": "green",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dừng lại không phải đầu hàng. Đó là khởi động trước khi trả lời đúng trọng tâm.",
+     "text": "TẠM DỪNG LÀ KHỞI ĐỘNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tin nhắn có thể vẫn cần gửi, nhưng mình chọn phiên bản sẽ gắn với tên mình.",
+     "text": "CHỌN CÂU CHỮ CỦA MÌNH",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ đến phản ứng nóng khác: khi một lần chậm trễ làm cả buổi tối như hỏng bét.",
+     "text": "TIẾP: CÂU CHUYỆN MÌNH THÊM VÀO",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "6. Câu chuyện quanh nỗi căng thẳng",
+   "sources": [
+    "s123",
+    "s126"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Xe buýt nhích từng chút, mình tính xem cả buổi tối đã hỏng thế nào.",
+     "text": "6. CÂU CHUYỆN QUANH NỖI CĂNG THẲNG",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rồi mình gửi nhầm tệp vào nhóm công ty, đầu óc nhảy thẳng tới cảnh mất việc.",
+     "text": "MỘT LỖI, KẾT CỤC TỆ NHẤT",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thảm họa hóa là kéo một lỗi tới kết thúc đáng sợ nhất trước khi biết chuyện gì xảy ra.",
+     "text": "THẢM HỌA HÓA",
+     "color": "gold",
+     "actor": "think",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một cách khác là nhìn lại sự việc và tìm cách hiểu khác mà vẫn đúng thật.",
+     "text": "THỬ MỘT CÁCH HIỂU KHÁC",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Xe vẫn chậm, nhưng có khi mình tranh thủ gọi về cho mẹ vài phút.",
+     "text": "SỰ VIỆC VẪN NHƯ CŨ",
+     "color": "green",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Với tệp gửi nhầm, nói rõ hậu quả thật, rồi tìm cách sửa nhỏ nhất.",
+     "text": "NÓI RÕ HẬU QUẢ THẬT",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có thể cả nhóm xem nhầm bản cũ một lúc. Mình gửi bản đúng rồi xin lỗi rõ ràng.",
+     "text": "SỬA VIỆC ĐÃ XẢY RA",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng giả vờ chuyện khó lại hay ho. Tách điều đã xảy ra khỏi điều bạn sợ nó có nghĩa.",
+     "text": "SỰ THẬT TRƯỚC. NỖI SỢ SAU.",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình có thể hỏi khoảnh khắc này còn có nghĩa gì khác, mà vẫn nhớ những điều khó chịu.",
+     "text": "CÒN ĐIỀU GÌ CÓ THỂ ĐÚNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuyện vẫn có thể khiến bạn bực. Câu chuyện bớt kịch tính sẽ chừa chỗ cho bước hữu ích.",
+     "text": "CHỪA CHỖ ĐỂ HÀNH ĐỘNG",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng một lúc tệ cũng có thể kéo theo mọi ký ức tệ, làm cả tuần trông tuyệt vọng.",
+     "text": "CẢ TUẦN BỊ ĐƯA RA XÉT",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "7. Đừng chấm điểm tuần lúc mệt",
+   "sources": [
+    "s125"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tăng ca xong, mình nhìn lại tuần rồi thề rằng chẳng làm được gì.",
+     "text": "7. ĐỪNG CHẤM ĐIỂM TUẦN LÚC MỆT",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cuộc gọi nhỡ với việc còn dang dở hiện ra rất nhanh. Việc mình đã xử lý thì không.",
+     "text": "CHUYỆN TỆ HIỆN RA TRƯỚC",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ký ức theo tâm trạng nghĩa là tâm trạng lúc này khiến chuyện tương tự dễ hiện ra hơn.",
+     "text": "KÝ ỨC THEO TÂM TRẠNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lúc mệt hay xuống tinh thần, đầu óc có thể lấy một phần nhỏ để chấm cả tuần.",
+     "text": "MẪU NHỎ HƠN MÌNH TƯỞNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác thất bại là thật, nhưng có thể không tóm tắt công bằng mọi ngày của mình.",
+     "text": "CẢM GIÁC KHÔNG PHẢI BẢN TỔNG KẾT",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để mai nghỉ ngơi rồi hãy kết luận lớn. Tối nay cứ kết luận là mình đang mệt.",
+     "text": "NGHỈ RỒI HẴNG KẾT LUẬN",
+     "color": "green",
+     "actor": "sleeping",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngày mai, mình có thể xem lịch hay tin nhắn để nhớ lại tuần này đã xảy ra gì.",
+     "text": "NHÌN LẠI ĐẦY ĐỦ HƠN",
+     "color": "green",
+     "actor": "reading",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không cần ép mình biết ơn gì cả. Khỏe lại rồi hãy nhìn tuần này công bằng hơn.",
+     "text": "MAI NHÌN LẠI CÔNG BẰNG",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách đó giúp nhìn chuyện cũ. Còn một đổi khác là để ý điều nỗi lo khiến mình bỏ qua.",
+     "text": "ĐỂ Ý ĐIỀU NỖI LO BỎ QUA",
+     "color": "ink",
+     "actor": "think",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "8. Hướng sự chú ý về lại cuộc sống",
+   "sources": [
+    "s127"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình đi bộ về, nghĩ mãi một email ngượng ngùng, rồi nhận ra chẳng để ý phố xá quanh mình.",
+     "text": "8. HƯỚNG SỰ CHÚ Ý VỀ LẠI CUỘC SỐNG",
+     "color": "ink",
+     "actor": "sofa_scroll"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mưa vừa tạnh, đầu ngõ thơm mùi bánh nóng, vậy mà mình mải nghĩ tin nhắn nên bỏ lỡ.",
+     "text": "PHẦN CÒN LẠI CỦA ĐƯỜNG VỀ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiên lệch chú ý là khi sự chú ý nghiêng về một số thứ, kể cả những chuyện có thể gây rắc rối.",
+     "text": "SỰ CHÚ Ý NGHIÊNG VỀ RẮC RỐI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Email đó quan trọng với mình, nhưng không phải điều thật duy nhất trên đường về.",
+     "text": "MỘT ĐIỀU KHÔNG PHẢI TẤT CẢ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử dừng một nhịp trên đường. Nhận ra một điều cụ thể đang ổn ngay lúc này.",
+     "text": "DỪNG LẠI, NHẬN RA MỘT ĐIỀU",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có thể là mùi bánh nóng, vỉa hè khô ráo, hay lúc mưa cuối cùng cũng ngớt.",
+     "text": "CỨ THẬT CỤ THỂ",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây không phải yêu cầu phải vui lên. Chỉ là thêm một lần tập mở rộng điều mình nhận ra.",
+     "text": "MỞ RỘNG KHUNG NHÌN",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình có thể giữ cả nỗi lo lẫn điều nhỏ bé dễ chịu, không cần bắt bên nào xóa bên nào.",
+     "text": "CẢ HAI ĐỀU CÓ THỂ ĐÚNG",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một điều bạn nhận ra không giải quyết cả tuần, nhưng trả lại chút chú ý cho hiện tại.",
+     "text": "QUAY VỀ KHOẢNH KHẮC NÀY",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Quay về hiện tại dễ hơn khi ngày có điểm kết thúc rõ, thay vì lướt thêm nữa.",
+     "text": "CHO NGÀY MỘT ĐIỂM KẾT",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    }
+   ]
+  },
+  {
+   "title": "9. Tạo tín hiệu kết thúc ngày",
+   "sources": [
+    "s12",
+    "s128"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Lên giường, mở một video, rồi lại tìm lý do để video kế tiếp là cái cuối.",
+     "text": "9. TẠO TÍN HIỆU KẾT THÚC NGÀY",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Video kế tiếp thưởng nhanh ngay lúc này, còn cơn mệt ngày mai vẫn thấy xa.",
+     "text": "BÂY GIỜ GẦN HƠN SÁNG MAI",
+     "color": "red",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tắt đèn mà điện thoại vẫn sáng, đầu óc chẳng nhận được tín hiệu ổn định rằng ngày đã hết.",
+     "text": "LƯỚT MẠNG LÀ TÍN HIỆU CUỐI",
+     "color": "ink",
+     "actor": "bed_phone_night"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một nếp lặp lại có thể thành tín hiệu. Đầu óc dần gắn chuỗi việc đó với lúc nghỉ.",
+     "text": "LẶP LẠI TÍN HIỆU NGHỈ NGƠI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn giờ dừng và chuỗi việc ngắn không màn hình: rửa mặt, sạc điện thoại ngoài phòng, rồi đọc sách.",
+     "text": "CHỌN CHUỖI VIỆC KẾT NGÀY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thứ tự quan trọng hơn làm cho thật hoành tráng. Mình cần việc làm được vào tối bình thường.",
+     "text": "ĐỦ ĐƠN GIẢN ĐỂ LẶP",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình có thể chuẩn bị quần áo ngày mai và ghi việc đầu tiên, để sáng khỏi phải mặc cả với bản thân.",
+     "text": "CHUẨN BỊ NGÀY MAI TỪ TỐI",
+     "color": "green",
+     "actor": "think",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là giãn cơ cho hôm nay, khởi động cho ngày mai. Hiệp đầu cứ vừa sức.",
+     "text": "GIÃN CƠ. CHUẨN BỊ.",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có tối không theo kế hoạch. Mình có thể trở lại nếp này vào tối sau, không gọi đó là thất bại.",
+     "text": "LÀM LẠI VÀO TỐI SAU",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trong bảy ngày, gọi tên bước kế, mở rộng điều mình chú ý, rồi kết ngày bằng một tín hiệu.",
+     "text": "BẢY NGÀY. BA HIỆP.",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Recap",
+   "sources": [
+    "s11",
+    "s121",
+    "s124",
+    "s126",
+    "s127",
+    "s128"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đầu tiên, làm suy nghĩ rõ hơn: gọi phim chiếu lại, gọi tên cảm xúc, nói đúng vấn đề thật.",
+     "text": "1. LÀM SUY NGHĨ RÕ HƠN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thứ hai, nhìn cho công bằng hơn: tách sự thật khỏi kết cục mình sợ, để ý một điều quanh mình.",
+     "text": "2. RÕ RÀNG. ĐẦY ĐỦ.",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thứ ba, làm khoảnh khắc kế dễ hơn: chọn một việc nhỏ và tạo tín hiệu lặp lại để kết ngày.",
+     "text": "3. MỘT BƯỚC. MỘT TÍN HIỆU.",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trong bảy ngày tới, thử một hiệp mỗi tối: gọi tên vòng lặp, ghi bước đầu ngày mai, hoặc bắt đầu nếp nghỉ.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giữ bước đủ nhỏ cho ngày bình thường, rồi để ý cách nào giúp mình có thêm chút khoảng trống.",
+     "text": "HIỆP NHỎ VẪN TÍNH",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lỡ một ngày thì chương trình chưa hỏng. Khi nào tiện, nhấc hiệp kế tiếp lên.",
+     "text": "NHẤC HIỆP KẾ TIẾP",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Căng thẳng vẫn có thể ghé, nhưng mình đã tập vài cách đón nó mà không để mọi ý nghĩ dẫn dắt.",
+     "text": "BẠN CÓ THỂ CHỌN BƯỚC KẾ",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đăng ký kênh Lý Thuyết Chân Que để xem thêm tâm lý học thực tế, mỗi lần một hiệp nhỏ.",
+     "text": "ĐĂNG KÝ ĐỂ XEM THÊM",
+     "color": "green",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}

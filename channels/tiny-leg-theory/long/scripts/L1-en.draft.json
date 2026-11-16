@@ -1,0 +1,860 @@
+{
+ "id": "L1",
+ "lang": "en",
+ "title": "Why You Procrastinate and How to Actually Start",
+ "description": "Procrastination often begins with how a task feels, not with laziness. Pen and Buff unpack nine everyday mechanisms behind putting things off, then turn each one into a small, practical next step.",
+ "chapters": [
+  {
+   "title": "intro",
+   "sources": [
+    "s01",
+    "s02",
+    "s13"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You sit down to write one email, and somehow end up reorganizing your desktop.",
+     "text": "THE EMAIL CAN WAIT",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then you call yourself lazy, like that explains anything. Sure, buddy.",
+     "text": "BLAME IS EASY",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The task is still there, and now I feel bad about avoiding it too.",
+     "text": "GUILT JOINS IN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Today, we are breaking down nine reasons procrastination happens, and what helps you start.",
+     "text": "NINE WAYS TO START",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Not with a personality transplant. With small changes you can try in ordinary life.",
+     "text": "SMALL CHANGES WORK",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "First, let’s look at what you’re really avoiding.",
+     "text": "START WITH THE FEELING",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "The Feeling Behind the Delay",
+   "sources": [
+    "s01",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I have a form to fill out, and I keep finding other things to do first.",
+     "text": "2. THE FEELING",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It is only a few boxes, but one asks me to make an awkward decision.",
+     "text": "ONE PART FEELS HEAVY",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That’s task aversiveness: one unpleasant piece can make the whole job feel bigger.",
+     "text": "TASK AVERSIVENESS",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Procrastination can work like short-term mood repair. You switch tasks and feel better briefly.",
+     "text": "QUICK MOOD REPAIR",
+     "color": "gold",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The relief is real, but the form stays open in the back of my mind.",
+     "text": "RELIEF DOES NOT FINISH IT",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain is responding to the feeling right now, not weighing the whole week evenly.",
+     "text": "RIGHT NOW FEELS LOUD",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So I can ask which exact part I keep trying to escape?",
+     "text": "NAME THE HARD PART",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Yes. Write the unpleasant bit in plain words, like choose a date or answer honestly.",
+     "text": "MAKE IT SPECIFIC",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then I can do that piece first, or make its first move very small.",
+     "text": "ONE SMALL PIECE",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You don’t need to enjoy the task. You need a next move that feels doable.",
+     "text": "DOABLE BEATS PERFECT",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "But what if even that first move feels too heavy to begin?",
+     "text": "LOWER THE FIRST STEP",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then stop planning the whole workout. We’re only doing the warm-up.",
+     "text": "WARM UP FIRST",
+     "color": "gold",
+     "actor": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "The First Rep Is the Hardest",
+   "sources": [
+    "s02",
+    "s13",
+    "s62"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "When I picture the whole report, I imagine hours of effort and no clear starting point.",
+     "text": "3. THE FIRST REP",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That’s perceived effort. The full set looks heavy before you even touch the bar.",
+     "text": "THE SET LOOKS HUGE",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Set a two-minute warm-up: open the file, name it, and write one rough sentence.",
+     "text": "TWO MINUTES ONLY",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Two minutes sounds small enough that I don’t have to promise the whole evening.",
+     "text": "A SMALL PROMISE",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Starting reduces the distance between thinking about work and actually doing a rep.",
+     "text": "STARTING CLOSES THE GAP",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I keep waiting to feel motivated, as if the feeling must arrive first.",
+     "text": "WAITING TO FEEL READY",
+     "color": "red",
+     "actor": "sofa_scroll"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Often, motivation follows a little action. It doesn’t always lead the parade.",
+     "text": "ACTION CAN COME FIRST",
+     "color": "gold",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And if I stop after two minutes, that still counts as beginning?",
+     "text": "BEGINNING STILL COUNTS",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You showed up. On a packed day, your floor can be one sentence, not the full report.",
+     "text": "SET A SMALL FLOOR",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can choose the tiny version now, before my mind negotiates the entire job.",
+     "text": "CHOOSE THE FIRST REP",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Keep the promise small enough to repeat. A warm-up is still a real rep.",
+     "text": "MAKE IT REPEATABLE",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "But sometimes I start only when the deadline is breathing down my neck.",
+     "text": "PRESSURE MOVES ME",
+     "color": "ink",
+     "actor": "nervous_wave"
+    }
+   ]
+  },
+  {
+   "title": "Deadlines Make the Future Real",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I have three weeks for a presentation, so today it somehow feels optional.",
+     "text": "4. FUTURE REWARDS",
+     "color": "ink",
+     "actor": "calendar_today",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That’s temporal discounting. A distant payoff often feels less urgent than a nearby one.",
+     "text": "TEMPORAL DISCOUNTING",
+     "color": "gold",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Finishing later matters, but the distraction in front of me feels more vivid.",
+     "text": "LATER FEELS FAR AWAY",
+     "color": "red",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A deadline can make you move because it brings the consequence closer into view.",
+     "text": "CLOSER FEELS LOUDER",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That explains the last-minute sprint, but I don’t want panic doing all the coaching.",
+     "text": "PANIC IS A POOR PLAN",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Make a checkpoint for tomorrow: choose the outline and have three sections named.",
+     "text": "TOMORROW'S CHECKPOINT",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Now there’s a visible finish line before the final deadline arrives.",
+     "text": "A NEARER FINISH LINE",
+     "color": "green",
+     "actor": "target",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Put that checkpoint in your calendar. Give the future a date and a small job.",
+     "text": "PUT IT ON THE CALENDAR",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A smaller checkpoint seems kinder than leaving everything for one dramatic final push.",
+     "text": "SMALLER STEPS, LESS DRAMA",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use pressure as a signal to plan, not as your only source of movement.",
+     "text": "PLAN BEFORE THE SPRINT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Another reason I stall is worrying that the first version won’t be good enough.",
+     "text": "WHAT IF IT IS BAD?",
+     "color": "ink",
+     "actor": "worried_heart"
+    }
+   ]
+  },
+  {
+   "title": "The Blank Page Feels Safer",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I keep rewriting the first sentence because I want it to sound polished immediately.",
+     "text": "5. THE PERFECT FIRST DRAFT",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Perfectionism can turn fear of a flawed result into a reason to delay making one.",
+     "text": "PERFECTIONISM DELAYS",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "An empty page can’t be judged yet, so not starting feels strangely safer.",
+     "text": "BLANK FEELS SAFER",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "But the blank page gives you nothing to revise. That’s a lousy training partner.",
+     "text": "NOTHING TO REVISE",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I could make a rough draft on purpose, without pretending it is the final version.",
+     "text": "ROUGH ON PURPOSE",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Give the draft a job: get the main idea down, even if the wording is clumsy.",
+     "text": "GET THE IDEA DOWN",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then I can come back and improve it when there is something real to work with.",
+     "text": "IMPROVE WHAT EXISTS",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Set a short first pass. No polishing, no font hunt, no fake extra sets.",
+     "text": "FIRST PASS, NO POLISH",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It helps to separate making something from deciding whether it is any good.",
+     "text": "MAKE FIRST, REVIEW LATER",
+     "color": "gold",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Draft the rough version today. Editing is another rep, not permission to begin.",
+     "text": "DRAFT IS THE START",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I also notice my attention sliding away when I don’t know what to do next.",
+     "text": "WHEN ATTENTION DRIFTS",
+     "color": "ink",
+     "actor": "confused_shrug"
+    }
+   ]
+  },
+  {
+   "title": "Give Your Attention One Clear Job",
+   "sources": [
+    "s31"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I open the report, then check messages, the calendar, and somehow the snack drawer.",
+     "text": "6. ATTENTION DRIFTS",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Holding attention on something unclear takes effort. Easy things keep waving from the sidelines.",
+     "text": "EASY THINGS WAVE",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The report says research, but that could mean a hundred different things.",
+     "text": "TOO VAGUE TO HOLD",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That’s an attentional control problem with a vague target. Give your focus one clear cue.",
+     "text": "ATTENTIONAL CONTROL",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can write the next action on paper: find the latest customer notes.",
+     "text": "WRITE THE NEXT ACTION",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Make it visible beside the screen. When you drift, return to that single line.",
+     "text": "ONE LINE TO RETURN TO",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So I don’t have to scold myself or rebuild the entire plan each time?",
+     "text": "RETURN WITHOUT SCOLDING",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Right. Notice the drift, read the cue, do the next small action. That’s the set.",
+     "text": "NOTICE. RETURN. ACT.",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can also remove some of the distractions before I start.",
+     "text": "MAKE FOCUS EASIER",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Put the phone out of reach and leave the notes open. Shape the room around the task.",
+     "text": "SET UP THE ROOM",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Still, a clear task can be hard to start if everything I need is hidden.",
+     "text": "HIDE THE FRICTION",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Set Up the First Move",
+   "sources": [
+    "s14",
+    "s36"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I sit down to work, then spend ten minutes looking for the right file.",
+     "text": "7. FIRST MOVE READY",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That’s choice architecture. The setup quietly nudges what you do next.",
+     "text": "CHOICE ARCHITECTURE",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If the file is buried and my phone is glowing, the easy move wins.",
+     "text": "EASY MOVES WIN",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Don’t make this a willpower audition. Move the phone and open the exact file tonight.",
+     "text": "SET UP THE BAR",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can leave the page, notes, and the tool I need ready on the screen.",
+     "text": "LEAVE THE TOOLS READY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Make the helpful action obvious and the detour take a few more steps.",
+     "text": "MAKE THE NEXT MOVE EASY",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That turns tomorrow’s start into doing, rather than searching and deciding.",
+     "text": "LESS SEARCHING TOMORROW",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It’s like loading the bar before the set. Your first rep is waiting.",
+     "text": "LOAD THE BAR FIRST",
+     "color": "gold",
+     "actor": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can also define what finished means, so I don’t drift around the task.",
+     "text": "KNOW WHEN IT ENDS",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A better setup carries you into a clear finish line. Let’s name one.",
+     "text": "PICK A FINISH LINE",
+     "color": "gold",
+     "actor": "target",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Define What Done Looks Like",
+   "sources": [
+    "s34"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "My plan says work on the presentation, but I can’t tell what counts as progress.",
+     "text": "8. DEFINE DONE",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That’s a vague goal. Without a finish line, the set can feel endless or already done.",
+     "text": "VAGUE GOALS DRIFT",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I keep switching between slides, research, and colors, without completing a clear piece.",
+     "text": "BUSY IS NOT FINISHED",
+     "color": "red",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Goal setting helps when the target names a result you can actually see.",
+     "text": "NAME A VISIBLE RESULT",
+     "color": "gold",
+     "actor": "target",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "For this session, I could finish a rough opening slide and three section headings.",
+     "text": "ONE SESSION, ONE RESULT",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Good. Write that down. It gives your effort a boundary and your brain a cue.",
+     "text": "WRITE THE FINISH LINE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then I can stop when that result exists, instead of chasing a vague feeling of enough.",
+     "text": "STOP WHEN IT EXISTS",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Specific beats heroic. Pick a result that fits today’s actual time and energy.",
+     "text": "FIT THE REAL DAY",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And if a task stays in my head after I stop, I can give it a place to land?",
+     "text": "LET THE TASK REST",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Yes. A written next step and a time can help close the mental tab for now.",
+     "text": "WRITE IT DOWN, CLOSE IT",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "Close the Mental Tab",
+   "sources": [
+    "s33",
+    "s35"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I send the email, then open Sent again because I’m unsure I got it right.",
+     "text": "9. CLOSE THE TAB",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rechecking can briefly ease uncertainty, but the doubt may return and ask for another look.",
+     "text": "RELIEF CAN FADE",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The same unfinished reply also keeps tapping at my attention during dinner.",
+     "text": "THE TASK FOLLOWS ME",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Open tasks can linger in your thoughts. A clear plan may help you set them aside.",
+     "text": "OPEN TASKS LINGER",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Before checking, I can decide to read the message once carefully, then leave it alone.",
+     "text": "ONE CAREFUL LOOK",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For the reply, write the next step and when you’ll do it. Put it outside your head.",
+     "text": "NEXT STEP, SET TIME",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I don’t have to finish tonight to know where I’ll pick it up tomorrow.",
+     "text": "A PLAN CAN WAIT",
+     "color": "gold",
+     "actor": "sleeping",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. The plan is the bookmark. You can stop carrying the whole book around.",
+     "text": "LEAVE A BOOKMARK",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And starting can be easier when another person knows what I said I’d do.",
+     "text": "A SPOTTER CAN HELP",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Let’s make that promise specific and small enough for a real week.",
+     "text": "MAKE A CLEAR PROMISE",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "A Spotter and a Seven-Day Start",
+   "sources": [
+    "s32",
+    "s02",
+    "s13",
+    "s14",
+    "s34",
+    "s35",
+    "s62"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I’ve told myself I’ll start Monday, but nobody knows what that means.",
+     "text": "10. MAKE IT REAL",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tell one person what you’ll finish and by when. Ask them to check in that day.",
+     "text": "ONE PERSON. ONE CHECK-IN.",
+     "color": "green",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I don’t need an audience. I need a clear promise that someone can understand.",
+     "text": "KEEP THE PROMISE CLEAR",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here’s the recap. First, name the feeling and shrink the first rep until it’s doable.",
+     "text": "NAME IT. SHRINK IT.",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Second, shape your space and attention, then define the result that means done.",
+     "text": "SET UP. DEFINE DONE.",
+     "color": "gold",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Third, make a nearby checkpoint, write down the next step, and ask a spotter to check in.",
+     "text": "PLAN. PARK IT. SHARE.",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "For seven days, choose one task each day and write its smallest useful first move.",
+     "text": "SEVEN DAYS, ONE MOVE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Do that move, even if it’s only a warm-up. Mark it down and keep the floor small.",
+     "text": "TAKE THE SMALL REP",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "At the end of the week, notice which setup made starting feel less difficult.",
+     "text": "NOTICE WHAT HELPS",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiny Leg Theory is here for more clear, practical psychology. Subscribe if that helps.",
+     "text": "MORE TINY LEG THEORY",
+     "color": "green",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}

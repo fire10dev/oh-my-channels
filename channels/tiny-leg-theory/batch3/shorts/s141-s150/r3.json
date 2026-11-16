@@ -1,0 +1,902 @@
+[
+ {
+  "id": "s141",
+  "mascot": "pen",
+  "title": "Why a Discount Feels Like a Win",
+  "mechanism": "Transaction utility",
+  "lines": [
+   {
+    "vo": "Marked down by half. You bought it instantly.",
+    "text": "HALF PRICE",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "You did not even need the item yesterday.",
+    "text": "DID YOU NEED IT?",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Finding a bargain creates a little rush of victory.",
+    "text": "FEELS LIKE A WIN",
+    "color": "red",
+    "actor": "celebrate",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Psychologists call this transaction utility.",
+    "text": "THE BARGAIN RUSH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Before checkout, picture the item at full price.",
+    "text": "FULL PRICE TEST",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Would you still want it without the sale tag?",
+    "text": "STILL WANT IT?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s141vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Cam giac thang khi san sale",
+  "title_vi": "Cảm giác thắng khi săn sale",
+  "mechanism": "Transaction utility",
+  "lines": [
+   {
+    "vo": "Lướt sàn thấy giảm một nửa, bạn bấm mua ngay.",
+    "text": "GIẢM MỘT NỬA",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Món đồ này vốn đâu có trong danh sách cần sắm.",
+    "text": "CÓ CẦN THẬT KHÔNG?",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Cảm giác săn được món hời làm ta thấy mình thắng.",
+    "text": "CẢM GIÁC THẮNG",
+    "color": "red",
+    "actor": "celebrate",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Niềm vui đó đến từ món hời, không phải món đồ.",
+    "text": "VUI VÌ GIẢM GIÁ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hãy thử tưởng tượng món đó đang bán nguyên giá.",
+    "text": "NẾU NGUYÊN GIÁ",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Nếu không giảm giá, bạn có mua nó không?",
+    "text": "BẠN CÒN MUỐN MUA?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s142",
+  "mascot": "buff",
+  "title": "Why a Pay Raise Feels Bigger Than It Is",
+  "mechanism": "Money illusion",
+  "lines": [
+   {
+    "vo": "New raise hit. Time to upgrade everything. Sure, buddy.",
+    "text": "NEW RAISE",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Your paycheck grew, but your rent and groceries grew too.",
+    "text": "BILLS GREW TOO",
+    "actor": "wallet_worry"
+   },
+   {
+    "vo": "Bigger number on paper, exact same buying power.",
+    "text": "MONEY ILLUSION",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Subtract rising living costs before you lift your lifestyle.",
+    "text": "CHECK REAL GAINS",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Keep the old budget. Bank the difference today.",
+    "text": "BANK THE REST",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s142vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Ao tuong khi duoc tang luong",
+  "title_vi": "Ảo tưởng khi được tăng lương",
+  "mechanism": "Money illusion",
+  "lines": [
+   {
+    "vo": "Lương tăng năm trăm nghìn, tối nay liên hoan. Ừ, tin.",
+    "text": "TĂNG LƯƠNG RỒI",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Tiền trọ tăng, suất cơm trưa cũng vừa tăng thêm.",
+    "text": "CHI PHÍ TĂNG THEO",
+    "actor": "wallet_worry"
+   },
+   {
+    "vo": "Số tiền nhìn to hơn, nhưng sức mua chẳng đổi.",
+    "text": "ẢO TƯỞNG TIỀN TỆ",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Trừ khoản trượt giá trước khi vội nâng chuẩn sống.",
+    "text": "TÍNH KỸ CHI PHÍ",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Giữ mức tiêu cũ. Bắn thẳng khoản tăng đó vào tài khoản tích luỹ.",
+    "text": "TÀI KHOẢN TÍCH LUỸ",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s143",
+  "mascot": "pen",
+  "title": "Why Small Cash Goes Fast",
+  "mechanism": "Denomination effect",
+  "lines": [
+   {
+    "vo": "You broke a large bill for morning coffee.",
+    "text": "BROKE A BIG BILL",
+    "color": "red",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "By evening, the rest of the change vanished.",
+    "text": "GONE BY NIGHT",
+    "color": "red",
+    "actor": "wallet_worry"
+   },
+   {
+    "vo": "A whole bill feels heavy and protected.",
+    "text": "WHOLE BILLS FEEL BIG",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Once broken, each smaller note feels like loose change.",
+    "text": "SMALL BILLS FLY",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Your mind stops treating the pieces like real savings.",
+    "text": "NOT REAL SAVINGS",
+    "color": "red",
+    "actor": "front",
+    "prop": "brain"
+   },
+   {
+    "vo": "Keep your cash in larger denominations on purpose.",
+    "text": "KEEP BIG NOTES",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "That tiny friction gives your mind time to pause.",
+    "text": "TIME TO PAUSE",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s143vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao tien le nhanh het",
+  "title_vi": "Vì sao tiền lẻ nhanh hết",
+  "mechanism": "Denomination effect",
+  "lines": [
+   {
+    "vo": "Đổi tờ năm trăm nghìn trả ly cà phê sáng.",
+    "text": "ĐỔI TỜ NĂM TRĂM",
+    "color": "red",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Đến chiều, mấy tờ tiền lẻ trong ví biến mất sạch.",
+    "text": "CHIỀU ĐÃ HẾT",
+    "color": "red",
+    "actor": "wallet_worry"
+   },
+   {
+    "vo": "Khi còn nguyên một tờ lớn, ta rất ngại tiêu.",
+    "text": "TỜ NGUYÊN KHÓ TIÊU",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Nhưng đã xé lẻ rồi, từng tờ nhỏ lại thấy như tiền thừa.",
+    "text": "TIỀN LẺ DỄ RỜI VÍ",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Não không còn coi những mảnh nhỏ đó là khoản tiền lớn.",
+    "text": "KHÔNG COI LÀ TIỀN",
+    "color": "red",
+    "actor": "front",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nếu muốn giữ tiền, hãy chủ động giữ tờ mệnh giá lớn.",
+    "text": "GIỮ TỜ TIỀN TO",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Một chút ngập ngừng đó giúp bạn dừng lại kịp lúc.",
+    "text": "DỪNG LẠI KỊP LÚC",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s144",
+  "mascot": "buff",
+  "title": "Don't Let the Base Price Fool You",
+  "mechanism": "Partitioned pricing",
+  "lines": [
+   {
+    "vo": "Ten dollar shirt. Looks like a total steal.",
+    "text": "TEN DOLLAR SHIRT",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "At checkout, shipping and processing fees jump in.",
+    "text": "HIDDEN FEES",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Sellers split the price so your brain anchors low.",
+    "text": "PARTITION TRICK",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Lifting the bar means lifting the plates. Add shipping before you bench.",
+    "text": "COUNT ALL WEIGHT",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Judge the deal only by the final checkout screen.",
+    "text": "FINAL TOTAL ONLY",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s144vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung de gia goc danh lua",
+  "title_vi": "Đừng để giá gốc đánh lừa",
+  "mechanism": "Partitioned pricing",
+  "lines": [
+   {
+    "vo": "Áo năm mươi nghìn. Giá hời chốt luôn. Ừ, tin.",
+    "text": "ÁO NĂM MƯƠI NGHÌN",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Đến bước thanh toán, tiền giao với phụ phí đội lên gấp đôi.",
+    "text": "PHÍ GIAO ĐỘI LÊN",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Người bán tách nhỏ giá để mắt bạn chỉ neo vào số nhỏ.",
+    "text": "CHIÊU TÁCH GIÁ",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tập tạ tính cả đòn tạ. Mua hàng phải tính đủ tiền giao.",
+    "text": "TÍNH CẢ PHÍ GIAO",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "So đúng tổng tiền thanh toán giữa các shop rồi hãy bấm chốt.",
+    "text": "CHỈ SO TỔNG TIỀN",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s145",
+  "mascot": "pen",
+  "title": "Why Daily Pennies Add Up",
+  "mechanism": "Pennies-a-day effect",
+  "lines": [
+   {
+    "vo": "Just one dollar a day. Sounds like loose pocket change.",
+    "text": "ONE DOLLAR A DAY",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "You barely notice it leaving your account.",
+    "text": "HARDLY NOTICED",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Marketers slice big annual costs into daily pennies.",
+    "text": "DAILY PENNY TRICK",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "It tricks our intuition into seeing zero downside.",
+    "text": "FEELS PAINLESS",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "A single dollar feels tiny until you tally twelve full months.",
+    "text": "ADDS UP FAST",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Multiply that daily dollar by a full year before subscribing.",
+    "text": "MULTIPLY BY 365",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Is that service still worth the full yearly price tag?",
+    "text": "WORTH THE YEAR?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s145vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Cai bay vai nghin mot ngay",
+  "title_vi": "Cái bẫy vài nghìn một ngày",
+  "mechanism": "Pennies-a-day effect",
+  "lines": [
+   {
+    "vo": "Mỗi ngày chỉ mười nghìn đồng, nghe như tiền lẻ.",
+    "text": "MƯỜI NGHÌN MỘT NGÀY",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Bạn đăng ký liền tay vì thấy chẳng đáng bao nhiêu.",
+    "text": "THẤY KHÔNG ĐÁNG KỂ",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Người bán cố tình chia nhỏ số tiền theo từng ngày.",
+    "text": "CHIÊU CHIA NHỎ",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cách nói này làm não bỏ qua tổng chi phí thực sự.",
+    "text": "QUÊN TỔNG TIỀN",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Mười nghìn mỗi ngày gom lại là hơn ba triệu sáu một năm.",
+    "text": "HƠN 3,6 TRIỆU",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Trước khi đồng ý, nhân số tiền ngày với ba trăm sáu mươi lăm.",
+    "text": "NHÂN VỚI 365 NGÀY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Khoản chi đó có còn nhỏ bé như bạn nghĩ ban đầu?",
+    "text": "CÒN NHỎ NỮA KHÔNG?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s146",
+  "mascot": "buff",
+  "title": "Why You Keep a Subscription You Ignore",
+  "mechanism": "Inertia in recurring payments",
+  "lines": [
+   {
+    "vo": "Free trial ends tomorrow. 'I will cancel tonight.' Sure, buddy.",
+    "text": "FREE TRIAL TRAP",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Six months later, that movie app still quietly sips your money.",
+    "text": "STILL PAYING",
+    "color": "red",
+    "actor": "wallet_worry"
+   },
+   {
+    "vo": "Subscriptions run on pure friction and memory lapses.",
+    "text": "RECURRING INERTIA",
+    "actor": "arms_crossed_no",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Set a calendar alarm for the first of every month.",
+    "text": "MONTHLY AUDIT",
+    "color": "green",
+    "actor": "think",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Cancel the app now, or keep paying for air.",
+    "text": "CANCEL OR PAY",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s146vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Ung dung tu tru tien hang thang",
+  "title_vi": "Ứng dụng tự trừ tiền hàng tháng",
+  "mechanism": "Inertia in recurring payments",
+  "lines": [
+   {
+    "vo": "Dùng thử miễn phí, mai nhớ huỷ nhé. Ừ, tin.",
+    "text": "DÙNG THỬ MIỄN PHÍ",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Nửa năm sau, gói xem phim vẫn âm thầm trừ tiền.",
+    "text": "VẪN TỰ TRỪ TIỀN",
+    "color": "red",
+    "actor": "wallet_worry"
+   },
+   {
+    "vo": "Ứng dụng kiếm tiền từ chính sự lười huỷ của bạn.",
+    "text": "SỐNG NHỜ SỰ LƯỜI",
+    "actor": "arms_crossed_no",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Đặt lịch ngày đầu mỗi tháng rà soát lại toàn bộ gói đăng ký.",
+    "text": "RÀ SOÁT ĐẦU THÁNG",
+    "color": "green",
+    "actor": "think",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Một là bấm huỷ ngay, hai là tiếp tục mất tiền oan.",
+    "text": "HUỶ NGAY HÔM NAY",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s147",
+  "mascot": "pen",
+  "title": "Why Bundles Can Feel Like Better Value",
+  "mechanism": "Bundling",
+  "lines": [
+   {
+    "vo": "Add fries and a pie for just one more dollar.",
+    "text": "ADD FOR ONE DOLLAR",
+    "color": "red",
+    "actor": "snack",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "You only came in for a quick sandwich.",
+    "text": "ONLY WANTED ONE",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Bundling hides the price of extras you never planned to get.",
+    "text": "THE BUNDLE TRICK",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "The deal feels generous, so your resistance softens.",
+    "text": "RESISTANCE DROPS",
+    "actor": "wallet_worry"
+   },
+   {
+    "vo": "Check what you actually intended to buy before ordering.",
+    "text": "BUY WHAT YOU NEED",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Was that extra dollar a bargain, or just an extra expense?",
+    "text": "BARGAIN OR EXPENSE?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s147vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Cai bay mua theo combo",
+  "title_vi": "Cái bẫy mua theo combo",
+  "mechanism": "Bundling",
+  "lines": [
+   {
+    "vo": "Thêm mười nghìn để lấy phần bánh kèm ly trà sữa.",
+    "text": "THÊM MƯỜI NGHÌN",
+    "color": "red",
+    "actor": "snack",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Rõ ràng lúc đầu bạn chỉ định ghé mua đúng một ly.",
+    "text": "CHỈ ĐỊNH MUA MỘT",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Gói combo làm bạn quên mất món bánh đó mình chẳng hề thèm.",
+    "text": "MỜ GIÁ MÓN PHỤ",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cảm giác lời vài nghìn khiến ta dễ dàng mở ví hơn.",
+    "text": "TƯỞNG LỜI HÓA LỖ",
+    "actor": "wallet_worry"
+   },
+   {
+    "vo": "Luôn so giá gói chung với đúng món bạn thực sự muốn.",
+    "text": "CHỈ CHỌN MÓN CẦN",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Món mua kèm đó là giá hời, hay chỉ là tiền mất thêm?",
+    "text": "HỜI HAY TỐN THÊM?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s148",
+  "mascot": "buff",
+  "title": "Why 199k Feels Way Cheaper Than 200k",
+  "mechanism": "Left-digit effect",
+  "lines": [
+   {
+    "vo": "One ninety-nine beats two hundred. Massive bargain. Sure, buddy.",
+    "text": "199 VS 200",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "It is literally one single dollar difference. Snap out of it.",
+    "text": "ONE DOLLAR OFF",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Your brain reads left to right and stops at that first digit.",
+    "text": "LEFT-DIGIT TRICK",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Stores price it that way because quick mental math is lazy.",
+    "text": "LAZY MENTAL MATH",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Always round up to the nearest whole number first.",
+    "text": "ROUND UP FIRST",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "A ninety-nine pound barbell is still heavy weight. Count the full load.",
+    "text": "COUNT FULL LOAD",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s148vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Bay gia mot tram chin muoi chin nghin",
+  "title_vi": "Bẫy giá một trăm chín mươi chín nghìn",
+  "mechanism": "Left-digit effect",
+  "lines": [
+   {
+    "vo": "Một trăm chín mươi chín nghìn nghe rẻ hơn hai trăm. Ừ, tin.",
+    "text": "199K VÀ 200K",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Lệch nhau đúng một nghìn đồng tiền lẻ. Tỉnh táo lại đi.",
+    "text": "LỆCH MỘT NGHÌN",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Mắt đọc từ trái sang phải rồi neo ngay vào số một đầu tiên.",
+    "text": "BẪY CHỮ SỐ ĐẦU",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Người bán dùng chiêu này vì biết bạn ngại tính nhẩm.",
+    "text": "NGẠI TÍNH NHẨM",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Luôn chủ động làm tròn lên hai trăm trước khi chốt.",
+    "text": "LÀM TRÒN LÊN",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Đòn tạ tính cả bánh tạ. Chín mươi chín hay một trăm cũng nặng như nhau. Tính tròn đi.",
+    "text": "TÍNH TRÒN TẢI",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s149",
+  "mascot": "pen",
+  "title": "Why Cash Can Feel More Real",
+  "mechanism": "Payment transparency",
+  "lines": [
+   {
+    "vo": "You tapped for fifty dollars of groceries and felt absolutely nothing.",
+    "text": "A QUICK TAP",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "No physical cash left your hand, so zero pain registered.",
+    "text": "NO PAIN OF PAYING",
+    "color": "red",
+    "actor": "wallet_worry"
+   },
+   {
+    "vo": "Paper bills force your fingers to count what you lose.",
+    "text": "CASH IS TANGIBLE",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Digital payments make the trade invisible to your senses.",
+    "text": "PAYMENT IS INVISIBLE",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Write down each food swipe in a simple notebook.",
+    "text": "LOG EACH SWIPE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "When money stays visible, everyday choices become much clearer.",
+    "text": "CHOICES BECOME CLEAR",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s149vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao quet vi nhanh het tien",
+  "title_vi": "Vì sao quẹt ví nhanh hết tiền",
+  "mechanism": "Payment transparency",
+  "lines": [
+   {
+    "vo": "Quẹt mã trả tiền ăn trưa, chưa đầy hai giây là xong.",
+    "text": "QUẸT MÃ HAI GIÂY",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Không đếm tiền mặt trao tay, bạn chẳng hề thấy xót ví.",
+    "text": "KHÔNG THẤY TIẾC",
+    "color": "red",
+    "actor": "wallet_worry"
+   },
+   {
+    "vo": "Khi cầm từng tờ tiền trao tay, não cảm nhận rõ sự hao hụt.",
+    "text": "TIỀN MẶT CÓ SỨC NẶNG",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Ví điện tử giấu đi quá trình đó, khiến ta quẹt không ngừng.",
+    "text": "VÍ ĐIỆN TỬ DỄ QUẸT",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Tập ghi lại từng lần quẹt ví ăn trưa vào cuốn sổ nhỏ.",
+    "text": "GHI LẠI VÀO SỔ",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Khi các con số hiện rõ trước mắt, bạn sẽ tự biết dừng.",
+    "text": "BIẾT DỪNG ĐÚNG LÚC",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s150",
+  "mascot": "buff",
+  "title": "The Receipt Check",
+  "mechanism": "Post-purchase information search",
+  "lines": [
+   {
+    "vo": "New headphones arrived. Already checking reviews again. Sure, buddy.",
+    "text": "CHECKING REVIEWS",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "The box is unsealed, yet you are still hunting for five-star proof.",
+    "text": "NEEDING VALIDATION",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "That is post-purchase anxiety searching for reassurance.",
+    "text": "BUYER'S ANXIETY",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Research belongs before the purchase, not after.",
+    "text": "RESEARCH FIRST",
+    "color": "green",
+    "actor": "arms_crossed_no",
+    "prop": "target"
+   },
+   {
+    "vo": "Lock in your decision. Close the comparison tabs and move on.",
+    "text": "CLOSE THE TABS",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s150vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Mua xong roi dung doc danh gia",
+  "title_vi": "Mua xong rồi đừng đọc đánh giá",
+  "mechanism": "Post-purchase information search",
+  "lines": [
+   {
+    "vo": "Tai nghe vừa nhận xong, lại mở mạng đọc thêm bài đánh giá. Ừ, tin.",
+    "text": "LẠI ĐỌC ĐÁNH GIÁ",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Hộp bóc ra rồi, nhưng vẫn mò đọc khen chê để tự trấn an.",
+    "text": "TÌM SỰ TRẤN AN",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Nghi ngờ sau khi mua chỉ làm bạn thêm mệt não.",
+    "text": "NGHI NGỜ SAU MUA",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "So sánh giá và tính năng thì làm trước khi thanh toán.",
+    "text": "TÍNH TOÁN TRƯỚC",
+    "color": "green",
+    "actor": "arms_crossed_no",
+    "prop": "target"
+   },
+   {
+    "vo": "Đẩy tạ xong thì buông đòn. Đã chốt đơn thì tắt sạch so sánh.",
+    "text": "ĐÓNG HẾT SO SÁNH",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ }
+]

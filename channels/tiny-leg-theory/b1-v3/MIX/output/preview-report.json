@@ -1,0 +1,3294 @@
+{
+  "fingerprint": "e68ad9d2b1b29b6654061f4cd5c97948815149be1b70de1c5478e6803cf799e3",
+  "preview_seconds": 43.25,
+  "output": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/output/preview.mp4",
+  "output_sha256": "04ff5b9a5b28ccd88045381a396d3f1d6e6d3a4c437d43128884dbf5dc6a4a05",
+  "original_voice_sha256": "71aed10f90a21e8d2c1dc9b3c65d61648a8a2ed531b3d7b369199c34ffe6c427",
+  "original_voice_duration": 42.500023,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 1298,
+  "duration": 43.266667,
+  "cache_hits": 0,
+  "shot_count": 18,
+  "full_decode": "pass",
+  "caption_count": 18,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/chalkboard-1.ttf",
+      "sha256": "ee12f0017cc69d42026e36fdd49b72e7b726972d7c7cd928e709f7e641f358a8"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/music.mp3",
+      "sha256": "aaf1d13e2142f9530f66c1fe3d9df195964bbdb451bc43216f2fcb048dc8f934"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/narration.wav",
+      "sha256": "71aed10f90a21e8d2c1dc9b3c65d61648a8a2ed531b3d7b369199c34ffe6c427"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/room-tone.wav",
+      "sha256": "f18b7f0b0fdb3e5fc26bc97b5d1ffa0d45268ef08c04d630d2781715db8dcee8"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a01_phone_grin.png",
+      "sha256": "7e3605e69528032f127db8ab04dace8cd7f2464c2652325bce32bde57f8d78d5"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a02_panic.png",
+      "sha256": "dd85856b1b41c804c02dcd3a668a49e029ca47da0c1e515e96d640bd15fbe0d9"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a03_hand_off.png",
+      "sha256": "a8c283857cf2c6c49062150ea43bf1586869c2fa353ef6a2417a6929d2384c96"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a07_worried_heart.png",
+      "sha256": "73b7f0e81366b98ba3b5f16a3a9db4f0e7ab6030ff5033874369557b2c45928a"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a08_bored_yawn.png",
+      "sha256": "07bcaffdb71c18ff6cf976bdd6f0745307e01ec81cb4cacf4bdc1e10087b0105"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a09_sofa_scroll.png",
+      "sha256": "5cde8152ee55d218611a9279e63dfe87d179026a3b413906a75465dfecec9f04"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a11_sprint_start.png",
+      "sha256": "36c550611c8921dfc8c66f9719c39cf3ad1742548ff9c17c894b10b8b780dbe2"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a12_think.png",
+      "sha256": "657416f995818ffa8fa407fb87107a08a5d777791c1ff6070172b0dc21dce555"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a13_typing_focused.png",
+      "sha256": "6df9517bdbfece99bed76a1aeefdf6a857bf8b0bc3a8f9717540bd6a76199ee1"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/b01_paper_mountain.png",
+      "sha256": "60351769bf39391fe80ad384f35c8b4e97763e427e24c4c4c85fa7261a6c46ee"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/b03_smartphone_glow.png",
+      "sha256": "99c07a91e4fb26e44efd1147d6fcdf873c616a3b3fd88e8338edd765148e5593"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/b04_storm_cloud.png",
+      "sha256": "c95709f048ea61454bb700d819761709aa1b2437db4c2c0076a8c4381738f1a9"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/b06_laptop_file.png",
+      "sha256": "a256b52d74f5bd904382207022ae3574a78e84d9f0e67cc94ed43ff154bfe75b"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/b07_checkbox_tick.png",
+      "sha256": "93a7b60db87c8757eeb9adeb65895d2d28f3829f528c2ae9037d951db8ae7616"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/b08_calendar_today.png",
+      "sha256": "0184473fa8f44b72291072586e2fa611ad68e1c9829fec926adff633eebf6035"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/pen_34.png",
+      "sha256": "aea4ee54859233397774077ad5a416bdb417b6da6aff883e76ea817a260709b9"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/buff_front.png",
+      "sha256": "f706ca952ba9a66089f8dca5f86104131e56f27b39cffbc2f825d3bd32d06405"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q02_sofa.png",
+      "sha256": "5307a51ba8c6d865ac098419f65624e79f3a344bc63d561f91cceb62e08e8e92"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q04_storm_cloud.png",
+      "sha256": "93bad717d6b50d843506ee5dcc0ee7237235526c4f76a77918a0bbf7fd9dda86"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q05_hourglass.png",
+      "sha256": "4b4b506e3649ee00d855ffabb155a7b96482e56911bec80e76904b3956395230"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q08_calendar_today.png",
+      "sha256": "dfdb801883e98070317ca6ecbc5f6fa2a45f57cd3fdd7e675556956c1bc2e04c"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t04_small_step.png",
+      "sha256": "cbcc10640a9ba81c0474d439d0c2027daa20528b9f43fcad0fb56ab01633618b"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t05_confused_shrug.png",
+      "sha256": "afae0c6b9438e668fb51154f758aeb956973fea5d23d409fc60ed66658669b16"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t06_arms_crossed_no.png",
+      "sha256": "de762ad6e178145c9725f2cfb0a41d634af0e6bc4d010a41afda39c8bb3c3c60"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t10_future_tired.png",
+      "sha256": "9c20308fe775cb07e707f682978c299ad8d132a37405403955b988aa4486f2bd"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t14_point_viewer.png",
+      "sha256": "9211a657157b7bded5f2cebaa80fbe12440b004cdcaa57d1bcd0400d2e89e3ef"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23-contact-sheet.png",
+      "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23-motion-sheet.png",
+      "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23.mp4",
+      "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-24-longform-contact-sheet.jpg",
+      "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-baseline.json",
+      "sha256": "71a45ae39cfde9e90eefdf32676ad9be7082bfb5e0a85589face9967eca37e73"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-production-standard.json",
+      "sha256": "1208febb532b602ebf2cd54543461f90c171eab263d68ee4021a195ae27cd8b5"
+    },
+    {
+      "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    }
+  ],
+  "local_motion": {
+    "intervals": [
+      {
+        "id": "s0-prop1",
+        "start": 0,
+        "end": 0.35,
+        "reason": "The pile of work looms",
+        "changed_pixels": 62657
+      },
+      {
+        "id": "s0-prop1",
+        "start": 0.35,
+        "end": 1.25,
+        "reason": "The pile of work looms",
+        "changed_pixels": 62804
+      },
+      {
+        "id": "s0-prop1",
+        "start": 1.25,
+        "end": 2.4,
+        "reason": "The pile of work looms",
+        "changed_pixels": 58508
+      },
+      {
+        "id": "s1-actor3",
+        "start": 2.5,
+        "end": 2.9,
+        "reason": "He turns away to scroll his phone",
+        "changed_pixels": 84377
+      },
+      {
+        "id": "s1-actor3",
+        "start": 2.9,
+        "end": 4.093,
+        "reason": "He turns away to scroll his phone",
+        "changed_pixels": 68551
+      },
+      {
+        "id": "s1-actor3",
+        "start": 4.093,
+        "end": 5.585,
+        "reason": "He turns away to scroll his phone",
+        "changed_pixels": 72675
+      },
+      {
+        "id": "s2-prop4",
+        "start": 5.685,
+        "end": 6.034999999999999,
+        "reason": "The comfy sofa calls",
+        "changed_pixels": 114992
+      },
+      {
+        "id": "s2-prop4",
+        "start": 6.034999999999999,
+        "end": 6.685,
+        "reason": "The comfy sofa calls",
+        "changed_pixels": 34952
+      },
+      {
+        "id": "s2-prop4",
+        "start": 6.685,
+        "end": 7.584999999999999,
+        "reason": "The comfy sofa calls",
+        "changed_pixels": 28396
+      },
+      {
+        "id": "s3-prop6",
+        "start": 7.685,
+        "end": 8.035,
+        "reason": "The planner page appears",
+        "changed_pixels": 21696
+      },
+      {
+        "id": "s3-prop6",
+        "start": 8.035,
+        "end": 8.73,
+        "reason": "The planner page appears",
+        "changed_pixels": 17073
+      },
+      {
+        "id": "s3-prop6",
+        "start": 8.73,
+        "end": 9.674999999999999,
+        "reason": "The planner page appears",
+        "changed_pixels": 21489
+      },
+      {
+        "id": "s4-actor8",
+        "start": 9.775,
+        "end": 10.125,
+        "reason": "He crosses his arms: no",
+        "changed_pixels": 81281
+      },
+      {
+        "id": "s4-actor8",
+        "start": 10.125,
+        "end": 10.882,
+        "reason": "He crosses his arms: no",
+        "changed_pixels": 33604
+      },
+      {
+        "id": "s4-actor8",
+        "start": 10.882,
+        "end": 11.888,
+        "reason": "He crosses his arms: no",
+        "changed_pixels": 29644
+      },
+      {
+        "id": "s5-actor9",
+        "start": 11.988,
+        "end": 12.338,
+        "reason": "Hand on heart, worried",
+        "changed_pixels": 25137
+      },
+      {
+        "id": "s5-actor9",
+        "start": 12.338,
+        "end": 13.298,
+        "reason": "Hand on heart, worried",
+        "changed_pixels": 25693
+      },
+      {
+        "id": "s5-actor9",
+        "start": 13.298,
+        "end": 14.508,
+        "reason": "Hand on heart, worried",
+        "changed_pixels": 27351
+      },
+      {
+        "id": "s6-prop10",
+        "start": 14.608,
+        "end": 14.958,
+        "reason": "A storm cloud of dread",
+        "changed_pixels": 26186
+      },
+      {
+        "id": "s6-prop10",
+        "start": 14.958,
+        "end": 15.973,
+        "reason": "A storm cloud of dread",
+        "changed_pixels": 23666
+      },
+      {
+        "id": "s6-prop10",
+        "start": 15.973,
+        "end": 17.238,
+        "reason": "A storm cloud of dread",
+        "changed_pixels": 23194
+      },
+      {
+        "id": "s7-prop12",
+        "start": 17.338,
+        "end": 17.688000000000002,
+        "reason": "The task towers over everything",
+        "changed_pixels": 85499
+      },
+      {
+        "id": "s7-prop12",
+        "start": 17.688000000000002,
+        "end": 18.138,
+        "reason": "The task towers over everything",
+        "changed_pixels": 79010
+      },
+      {
+        "id": "s7-prop12",
+        "start": 18.138,
+        "end": 18.538,
+        "reason": "The task towers over everything",
+        "changed_pixels": 71318
+      },
+      {
+        "id": "s8-prop14",
+        "start": 18.618,
+        "end": 19.017999999999997,
+        "reason": "The glowing phone slides in",
+        "changed_pixels": 110645
+      },
+      {
+        "id": "s8-prop14",
+        "start": 19.017999999999997,
+        "end": 19.418,
+        "reason": "The glowing phone slides in",
+        "changed_pixels": 51448
+      },
+      {
+        "id": "s8-prop14",
+        "start": 19.418,
+        "end": 19.988,
+        "reason": "The glowing phone slides in",
+        "changed_pixels": 72071
+      },
+      {
+        "id": "s9-actor15",
+        "start": 20.088,
+        "end": 20.438000000000002,
+        "reason": "He sinks into the sofa with the phone",
+        "changed_pixels": 163609
+      },
+      {
+        "id": "s9-actor15",
+        "start": 20.438000000000002,
+        "end": 21.205000000000002,
+        "reason": "He sinks into the sofa with the phone",
+        "changed_pixels": 146574
+      },
+      {
+        "id": "s9-actor15",
+        "start": 21.205000000000002,
+        "end": 22.223,
+        "reason": "He sinks into the sofa with the phone",
+        "changed_pixels": 145990
+      },
+      {
+        "id": "s10-prop16",
+        "start": 22.323,
+        "end": 22.673000000000002,
+        "reason": "The deadline day is circled",
+        "changed_pixels": 24421
+      },
+      {
+        "id": "s10-prop16",
+        "start": 22.673000000000002,
+        "end": 23.593,
+        "reason": "The deadline day is circled",
+        "changed_pixels": 21119
+      },
+      {
+        "id": "s10-prop16",
+        "start": 23.593,
+        "end": 24.763,
+        "reason": "The deadline day is circled",
+        "changed_pixels": 24480
+      },
+      {
+        "id": "s10-actor17",
+        "start": 23.593,
+        "end": 24.763,
+        "reason": "He hands the pile onward",
+        "changed_pixels": 0
+      },
+      {
+        "id": "s11-prop18",
+        "start": 24.863,
+        "end": 25.213,
+        "reason": "Time runs out",
+        "changed_pixels": 29743
+      },
+      {
+        "id": "s11-prop18",
+        "start": 25.213,
+        "end": 26.68,
+        "reason": "Time runs out",
+        "changed_pixels": 16198
+      },
+      {
+        "id": "s11-prop18",
+        "start": 26.68,
+        "end": 28.398,
+        "reason": "Time runs out",
+        "changed_pixels": 20473
+      },
+      {
+        "id": "s12-actor20",
+        "start": 28.498,
+        "end": 28.898,
+        "reason": "He crouches to start",
+        "changed_pixels": 37171
+      },
+      {
+        "id": "s12-actor20",
+        "start": 28.898,
+        "end": 29.298000000000002,
+        "reason": "He crouches to start",
+        "changed_pixels": 30625
+      },
+      {
+        "id": "s12-actor20",
+        "start": 29.298000000000002,
+        "end": 29.968,
+        "reason": "He crouches to start",
+        "changed_pixels": 29189
+      },
+      {
+        "id": "s13-prop22",
+        "start": 31.553,
+        "end": 32.296,
+        "reason": "A tiny first step remains",
+        "changed_pixels": 9806
+      },
+      {
+        "id": "s13-actor23",
+        "start": 31.553,
+        "end": 32.938,
+        "reason": "He thinks it through",
+        "changed_pixels": 18396
+      },
+      {
+        "id": "s14-prop24",
+        "start": 33.038,
+        "end": 33.388,
+        "reason": "The file opens",
+        "changed_pixels": 97536
+      },
+      {
+        "id": "s14-prop24",
+        "start": 33.388,
+        "end": 33.837999999999994,
+        "reason": "The file opens",
+        "changed_pixels": 90039
+      },
+      {
+        "id": "s14-prop24",
+        "start": 33.837999999999994,
+        "end": 34.458,
+        "reason": "The file opens",
+        "changed_pixels": 76769
+      },
+      {
+        "id": "s15-prop25",
+        "start": 34.558,
+        "end": 34.908,
+        "reason": "The first line is ticked",
+        "changed_pixels": 18104
+      },
+      {
+        "id": "s15-prop25",
+        "start": 34.908,
+        "end": 35.358,
+        "reason": "The first line is ticked",
+        "changed_pixels": 14471
+      },
+      {
+        "id": "s15-prop25",
+        "start": 35.358,
+        "end": 36.045,
+        "reason": "The first line is ticked",
+        "changed_pixels": 14051
+      },
+      {
+        "id": "s16-prop27",
+        "start": 36.145,
+        "end": 38.673,
+        "reason": "The dread cloud fades",
+        "changed_pixels": 29584
+      },
+      {
+        "id": "s16-actor28",
+        "start": 37.725,
+        "end": 39.205000000000005,
+        "reason": "He steps up and flexes",
+        "changed_pixels": 30961
+      },
+      {
+        "id": "s17-prop29",
+        "start": 39.305,
+        "end": 39.655,
+        "reason": "Today is circled",
+        "changed_pixels": 25261
+      },
+      {
+        "id": "s17-prop29",
+        "start": 39.655,
+        "end": 41.278999999999996,
+        "reason": "Today is circled",
+        "changed_pixels": 18687
+      }
+    ],
+    "windows": [
+      {
+        "start": 0,
+        "end": 2.25,
+        "id": "s0-prop1",
+        "changed_pixels": 62249
+      },
+      {
+        "start": 0.25,
+        "end": 2.5,
+        "id": "s0-prop1",
+        "changed_pixels": 62657
+      },
+      {
+        "start": 0.5,
+        "end": 2.75,
+        "id": "s0-prop1",
+        "changed_pixels": 62804
+      },
+      {
+        "start": 0.75,
+        "end": 3,
+        "id": "s0-prop1",
+        "changed_pixels": 60608
+      },
+      {
+        "start": 1,
+        "end": 3.25,
+        "id": "s0-prop1",
+        "changed_pixels": 53924
+      },
+      {
+        "start": 1.25,
+        "end": 3.5,
+        "id": "s0-prop1",
+        "changed_pixels": 58508
+      },
+      {
+        "start": 1.5,
+        "end": 3.75,
+        "id": "s0-prop1",
+        "changed_pixels": 57994
+      },
+      {
+        "start": 1.75,
+        "end": 4,
+        "id": "s0-prop1",
+        "changed_pixels": 55491
+      },
+      {
+        "start": 2,
+        "end": 4.25,
+        "id": "s0-prop1",
+        "changed_pixels": 48898
+      },
+      {
+        "start": 2.25,
+        "end": 4.5,
+        "id": "s0-prop1",
+        "changed_pixels": 18208
+      },
+      {
+        "start": 2.5,
+        "end": 4.75,
+        "id": "s1-actor3",
+        "changed_pixels": 58179
+      },
+      {
+        "start": 2.75,
+        "end": 5,
+        "id": "s1-actor3",
+        "changed_pixels": 84377
+      },
+      {
+        "start": 3,
+        "end": 5.25,
+        "id": "s1-actor3",
+        "changed_pixels": 68551
+      },
+      {
+        "start": 3.25,
+        "end": 5.5,
+        "id": "s1-actor3",
+        "changed_pixels": 66652
+      },
+      {
+        "start": 3.5,
+        "end": 5.75,
+        "id": "s1-actor3",
+        "changed_pixels": 61960
+      },
+      {
+        "start": 3.75,
+        "end": 6,
+        "id": "s1-actor3",
+        "changed_pixels": 49133
+      },
+      {
+        "start": 4,
+        "end": 6.25,
+        "id": "s1-actor3",
+        "changed_pixels": 10589
+      },
+      {
+        "start": 4.25,
+        "end": 6.5,
+        "id": "s1-actor3",
+        "changed_pixels": 72675
+      },
+      {
+        "start": 4.5,
+        "end": 6.75,
+        "id": "s1-actor3",
+        "changed_pixels": 70679
+      },
+      {
+        "start": 4.75,
+        "end": 7,
+        "id": "s1-actor3",
+        "changed_pixels": 67137
+      },
+      {
+        "start": 5,
+        "end": 7.25,
+        "id": "s1-actor3",
+        "changed_pixels": 60136
+      },
+      {
+        "start": 5.25,
+        "end": 7.5,
+        "id": "s1-actor3",
+        "changed_pixels": 45226
+      },
+      {
+        "start": 5.5,
+        "end": 7.75,
+        "id": "s1-actor3",
+        "changed_pixels": 3733
+      },
+      {
+        "start": 5.75,
+        "end": 8,
+        "id": "s2-prop4",
+        "changed_pixels": 114992
+      },
+      {
+        "start": 6,
+        "end": 8.25,
+        "id": "s2-prop4",
+        "changed_pixels": 14130
+      },
+      {
+        "start": 6.25,
+        "end": 8.5,
+        "id": "s2-prop4",
+        "changed_pixels": 34952
+      },
+      {
+        "start": 6.5,
+        "end": 8.75,
+        "id": "s2-prop4",
+        "changed_pixels": 15974
+      },
+      {
+        "start": 6.75,
+        "end": 9,
+        "id": "s2-prop4",
+        "changed_pixels": 28396
+      },
+      {
+        "start": 7,
+        "end": 9.25,
+        "id": "s2-prop4",
+        "changed_pixels": 24143
+      },
+      {
+        "start": 7.25,
+        "end": 9.5,
+        "id": "s2-prop4",
+        "changed_pixels": 15496
+      },
+      {
+        "start": 7.5,
+        "end": 9.75,
+        "id": "s2-prop4",
+        "changed_pixels": 3556
+      },
+      {
+        "start": 7.75,
+        "end": 10,
+        "id": "s3-prop6",
+        "changed_pixels": 21696
+      },
+      {
+        "start": 8,
+        "end": 10.25,
+        "id": "s3-prop6",
+        "changed_pixels": 6123
+      },
+      {
+        "start": 8.25,
+        "end": 10.5,
+        "id": "s3-prop6",
+        "changed_pixels": 17073
+      },
+      {
+        "start": 8.5,
+        "end": 10.75,
+        "id": "s3-prop6",
+        "changed_pixels": 9203
+      },
+      {
+        "start": 8.75,
+        "end": 11,
+        "id": "s3-prop6",
+        "changed_pixels": 21489
+      },
+      {
+        "start": 9,
+        "end": 11.25,
+        "id": "s3-prop6",
+        "changed_pixels": 19561
+      },
+      {
+        "start": 9.25,
+        "end": 11.5,
+        "id": "s3-prop6",
+        "changed_pixels": 13474
+      },
+      {
+        "start": 9.5,
+        "end": 11.75,
+        "id": "s3-prop6",
+        "changed_pixels": 5270
+      },
+      {
+        "start": 9.75,
+        "end": 12,
+        "id": "s4-actor8",
+        "changed_pixels": 79558
+      },
+      {
+        "start": 10,
+        "end": 12.25,
+        "id": "s4-actor8",
+        "changed_pixels": 81281
+      },
+      {
+        "start": 10.25,
+        "end": 12.5,
+        "id": "s4-actor8",
+        "changed_pixels": 33604
+      },
+      {
+        "start": 10.5,
+        "end": 12.75,
+        "id": "s4-actor8",
+        "changed_pixels": 26271
+      },
+      {
+        "start": 10.75,
+        "end": 13,
+        "id": "s4-actor8",
+        "changed_pixels": 10248
+      },
+      {
+        "start": 11,
+        "end": 13.25,
+        "id": "s4-actor8",
+        "changed_pixels": 29644
+      },
+      {
+        "start": 11.25,
+        "end": 13.5,
+        "id": "s4-actor8",
+        "changed_pixels": 26234
+      },
+      {
+        "start": 11.5,
+        "end": 13.75,
+        "id": "s4-actor8",
+        "changed_pixels": 18580
+      },
+      {
+        "start": 11.75,
+        "end": 14,
+        "id": "s4-actor8",
+        "changed_pixels": 6385
+      },
+      {
+        "start": 12,
+        "end": 14.25,
+        "id": "s5-actor9",
+        "changed_pixels": 21251
+      },
+      {
+        "start": 12.25,
+        "end": 14.5,
+        "id": "s5-actor9",
+        "changed_pixels": 25137
+      },
+      {
+        "start": 12.5,
+        "end": 14.75,
+        "id": "s5-actor9",
+        "changed_pixels": 25693
+      },
+      {
+        "start": 12.75,
+        "end": 15,
+        "id": "s5-actor9",
+        "changed_pixels": 24083
+      },
+      {
+        "start": 13,
+        "end": 15.25,
+        "id": "s5-actor9",
+        "changed_pixels": 19038
+      },
+      {
+        "start": 13.25,
+        "end": 15.5,
+        "id": "s5-actor9",
+        "changed_pixels": 27351
+      },
+      {
+        "start": 13.5,
+        "end": 15.75,
+        "id": "s5-actor9",
+        "changed_pixels": 27022
+      },
+      {
+        "start": 13.75,
+        "end": 16,
+        "id": "s5-actor9",
+        "changed_pixels": 25595
+      },
+      {
+        "start": 14,
+        "end": 16.25,
+        "id": "s5-actor9",
+        "changed_pixels": 21434
+      },
+      {
+        "start": 14.25,
+        "end": 16.5,
+        "id": "s5-actor9",
+        "changed_pixels": 14633
+      },
+      {
+        "start": 14.5,
+        "end": 16.75,
+        "id": "s6-prop10",
+        "changed_pixels": 22330
+      },
+      {
+        "start": 14.75,
+        "end": 17,
+        "id": "s6-prop10",
+        "changed_pixels": 26186
+      },
+      {
+        "start": 15,
+        "end": 17.25,
+        "id": "s6-prop10",
+        "changed_pixels": 23666
+      },
+      {
+        "start": 15.25,
+        "end": 17.5,
+        "id": "s6-prop10",
+        "changed_pixels": 23368
+      },
+      {
+        "start": 15.5,
+        "end": 17.75,
+        "id": "s6-prop10",
+        "changed_pixels": 22429
+      },
+      {
+        "start": 15.75,
+        "end": 18,
+        "id": "s6-prop10",
+        "changed_pixels": 16707
+      },
+      {
+        "start": 16,
+        "end": 18.25,
+        "id": "s6-prop10",
+        "changed_pixels": 23194
+      },
+      {
+        "start": 16.25,
+        "end": 18.5,
+        "id": "s6-prop10",
+        "changed_pixels": 22963
+      },
+      {
+        "start": 16.5,
+        "end": 18.75,
+        "id": "s6-prop10",
+        "changed_pixels": 22216
+      },
+      {
+        "start": 16.75,
+        "end": 19,
+        "id": "s6-prop10",
+        "changed_pixels": 19982
+      },
+      {
+        "start": 17,
+        "end": 19.25,
+        "id": "s6-prop10",
+        "changed_pixels": 11248
+      },
+      {
+        "start": 17.25,
+        "end": 19.5,
+        "id": "s7-prop12",
+        "changed_pixels": 78879
+      },
+      {
+        "start": 17.5,
+        "end": 19.75,
+        "id": "s7-prop12",
+        "changed_pixels": 85499
+      },
+      {
+        "start": 17.75,
+        "end": 20,
+        "id": "s7-prop12",
+        "changed_pixels": 79010
+      },
+      {
+        "start": 18,
+        "end": 20.25,
+        "id": "s7-prop12",
+        "changed_pixels": 68834
+      },
+      {
+        "start": 18.25,
+        "end": 20.5,
+        "id": "s7-prop12",
+        "changed_pixels": 71318
+      },
+      {
+        "start": 18.5,
+        "end": 20.75,
+        "id": "s7-prop12",
+        "changed_pixels": 10001
+      },
+      {
+        "start": 18.75,
+        "end": 21,
+        "id": "s8-prop14",
+        "changed_pixels": 110645
+      },
+      {
+        "start": 19,
+        "end": 21.25,
+        "id": "s8-prop14",
+        "changed_pixels": 22475
+      },
+      {
+        "start": 19.25,
+        "end": 21.5,
+        "id": "s8-prop14",
+        "changed_pixels": 51448
+      },
+      {
+        "start": 19.5,
+        "end": 21.75,
+        "id": "s8-prop14",
+        "changed_pixels": 72071
+      },
+      {
+        "start": 19.75,
+        "end": 22,
+        "id": "s8-prop14",
+        "changed_pixels": 57360
+      },
+      {
+        "start": 20,
+        "end": 22.25,
+        "id": "s9-actor15",
+        "changed_pixels": 154812
+      },
+      {
+        "start": 20.25,
+        "end": 22.5,
+        "id": "s9-actor15",
+        "changed_pixels": 163609
+      },
+      {
+        "start": 20.5,
+        "end": 22.75,
+        "id": "s9-actor15",
+        "changed_pixels": 146574
+      },
+      {
+        "start": 20.75,
+        "end": 23,
+        "id": "s9-actor15",
+        "changed_pixels": 140685
+      },
+      {
+        "start": 21,
+        "end": 23.25,
+        "id": "s9-actor15",
+        "changed_pixels": 104769
+      },
+      {
+        "start": 21.25,
+        "end": 23.5,
+        "id": "s9-actor15",
+        "changed_pixels": 145990
+      },
+      {
+        "start": 21.5,
+        "end": 23.75,
+        "id": "s9-actor15",
+        "changed_pixels": 143631
+      },
+      {
+        "start": 21.75,
+        "end": 24,
+        "id": "s9-actor15",
+        "changed_pixels": 134001
+      },
+      {
+        "start": 22,
+        "end": 24.25,
+        "id": "s9-actor15",
+        "changed_pixels": 88538
+      },
+      {
+        "start": 22.25,
+        "end": 24.5,
+        "id": "s10-prop16",
+        "changed_pixels": 18345
+      },
+      {
+        "start": 22.5,
+        "end": 24.75,
+        "id": "s10-prop16",
+        "changed_pixels": 24421
+      },
+      {
+        "start": 22.75,
+        "end": 25,
+        "id": "s10-prop16",
+        "changed_pixels": 21119
+      },
+      {
+        "start": 23,
+        "end": 25.25,
+        "id": "s10-prop16",
+        "changed_pixels": 20834
+      },
+      {
+        "start": 23.25,
+        "end": 25.5,
+        "id": "s10-prop16",
+        "changed_pixels": 18082
+      },
+      {
+        "start": 23.5,
+        "end": 25.75,
+        "id": "s10-prop16",
+        "changed_pixels": 6018
+      },
+      {
+        "start": 23.75,
+        "end": 26,
+        "id": "s10-prop16",
+        "changed_pixels": 24480
+      },
+      {
+        "start": 24,
+        "end": 26.25,
+        "id": "s10-prop16",
+        "changed_pixels": 23566
+      },
+      {
+        "start": 24.25,
+        "end": 26.5,
+        "id": "s10-prop16",
+        "changed_pixels": 20682
+      },
+      {
+        "start": 24.5,
+        "end": 26.75,
+        "id": "s10-prop16",
+        "changed_pixels": 14611
+      },
+      {
+        "start": 24.75,
+        "end": 27,
+        "id": "s11-prop18",
+        "changed_pixels": 25923
+      },
+      {
+        "start": 25,
+        "end": 27.25,
+        "id": "s11-prop18",
+        "changed_pixels": 29743
+      },
+      {
+        "start": 25.25,
+        "end": 27.5,
+        "id": "s11-prop18",
+        "changed_pixels": 16198
+      },
+      {
+        "start": 25.5,
+        "end": 27.75,
+        "id": "s11-prop18",
+        "changed_pixels": 15691
+      },
+      {
+        "start": 25.75,
+        "end": 28,
+        "id": "s11-prop18",
+        "changed_pixels": 14436
+      },
+      {
+        "start": 26,
+        "end": 28.25,
+        "id": "s11-prop18",
+        "changed_pixels": 12148
+      },
+      {
+        "start": 26.25,
+        "end": 28.5,
+        "id": "s11-prop18",
+        "changed_pixels": 8128
+      },
+      {
+        "start": 26.5,
+        "end": 28.75,
+        "id": "s11-prop18",
+        "changed_pixels": 3145
+      },
+      {
+        "start": 26.75,
+        "end": 29,
+        "id": "s11-prop18",
+        "changed_pixels": 20473
+      },
+      {
+        "start": 27,
+        "end": 29.25,
+        "id": "s11-prop18",
+        "changed_pixels": 19904
+      },
+      {
+        "start": 27.25,
+        "end": 29.5,
+        "id": "s11-prop18",
+        "changed_pixels": 18676
+      },
+      {
+        "start": 27.5,
+        "end": 29.75,
+        "id": "s11-prop18",
+        "changed_pixels": 16304
+      },
+      {
+        "start": 27.75,
+        "end": 30,
+        "id": "s11-prop18",
+        "changed_pixels": 12395
+      },
+      {
+        "start": 28,
+        "end": 30.25,
+        "id": "s11-prop18",
+        "changed_pixels": 7568
+      },
+      {
+        "start": 28.25,
+        "end": 30.5,
+        "id": "s11-prop18",
+        "changed_pixels": 2458
+      },
+      {
+        "start": 28.5,
+        "end": 30.75,
+        "id": "s12-actor20",
+        "changed_pixels": 24155
+      },
+      {
+        "start": 28.75,
+        "end": 31,
+        "id": "s12-actor20",
+        "changed_pixels": 37171
+      },
+      {
+        "start": 29,
+        "end": 31.25,
+        "id": "s12-actor20",
+        "changed_pixels": 30625
+      },
+      {
+        "start": 29.25,
+        "end": 31.5,
+        "id": "s12-actor20",
+        "changed_pixels": 12197
+      },
+      {
+        "start": 29.5,
+        "end": 31.75,
+        "id": "s12-actor20",
+        "changed_pixels": 29189
+      },
+      {
+        "start": 29.75,
+        "end": 32,
+        "id": "s12-actor20",
+        "changed_pixels": 22763
+      },
+      {
+        "start": 30,
+        "end": 32.25,
+        "id": "s13-prop22",
+        "changed_pixels": 8350
+      },
+      {
+        "start": 30.25,
+        "end": 32.5,
+        "id": "s13-prop22",
+        "changed_pixels": 8356
+      },
+      {
+        "start": 30.5,
+        "end": 32.75,
+        "id": "s13-prop22",
+        "changed_pixels": 8356
+      },
+      {
+        "start": 30.75,
+        "end": 33,
+        "id": "s13-prop22",
+        "changed_pixels": 8356
+      },
+      {
+        "start": 31,
+        "end": 33.25,
+        "id": "s13-prop22",
+        "changed_pixels": 8356
+      },
+      {
+        "start": 31.25,
+        "end": 33.5,
+        "id": "s13-prop22",
+        "changed_pixels": 8356
+      },
+      {
+        "start": 31.5,
+        "end": 33.75,
+        "id": "s13-prop22",
+        "changed_pixels": 8356
+      },
+      {
+        "start": 31.75,
+        "end": 34,
+        "id": "s13-prop22",
+        "changed_pixels": 9806
+      },
+      {
+        "start": 32,
+        "end": 34.25,
+        "id": "s13-prop22",
+        "changed_pixels": 9228
+      },
+      {
+        "start": 32.25,
+        "end": 34.5,
+        "id": "s13-prop22",
+        "changed_pixels": 6081
+      },
+      {
+        "start": 32.5,
+        "end": 34.75,
+        "id": "s13-actor23",
+        "changed_pixels": 18396
+      },
+      {
+        "start": 32.75,
+        "end": 35,
+        "id": "s13-actor23",
+        "changed_pixels": 11341
+      },
+      {
+        "start": 33,
+        "end": 35.25,
+        "id": "s14-prop24",
+        "changed_pixels": 81094
+      },
+      {
+        "start": 33.25,
+        "end": 35.5,
+        "id": "s14-prop24",
+        "changed_pixels": 97536
+      },
+      {
+        "start": 33.5,
+        "end": 35.75,
+        "id": "s14-prop24",
+        "changed_pixels": 90039
+      },
+      {
+        "start": 33.75,
+        "end": 36,
+        "id": "s14-prop24",
+        "changed_pixels": 43037
+      },
+      {
+        "start": 34,
+        "end": 36.25,
+        "id": "s14-prop24",
+        "changed_pixels": 76769
+      },
+      {
+        "start": 34.25,
+        "end": 36.5,
+        "id": "s14-prop24",
+        "changed_pixels": 53960
+      },
+      {
+        "start": 34.5,
+        "end": 36.75,
+        "id": "s15-prop25",
+        "changed_pixels": 13359
+      },
+      {
+        "start": 34.75,
+        "end": 37,
+        "id": "s15-prop25",
+        "changed_pixels": 18104
+      },
+      {
+        "start": 35,
+        "end": 37.25,
+        "id": "s15-prop25",
+        "changed_pixels": 14471
+      },
+      {
+        "start": 35.25,
+        "end": 37.5,
+        "id": "s15-prop25",
+        "changed_pixels": 10103
+      },
+      {
+        "start": 35.5,
+        "end": 37.75,
+        "id": "s15-prop25",
+        "changed_pixels": 14051
+      },
+      {
+        "start": 35.75,
+        "end": 38,
+        "id": "s15-prop25",
+        "changed_pixels": 12037
+      },
+      {
+        "start": 36,
+        "end": 38.25,
+        "id": "s15-prop25",
+        "changed_pixels": 1049
+      },
+      {
+        "start": 36.25,
+        "end": 38.5,
+        "id": "s16-prop27",
+        "changed_pixels": 27846
+      },
+      {
+        "start": 36.5,
+        "end": 38.75,
+        "id": "s16-prop27",
+        "changed_pixels": 29584
+      },
+      {
+        "start": 36.75,
+        "end": 39,
+        "id": "s16-prop27",
+        "changed_pixels": 29308
+      },
+      {
+        "start": 37,
+        "end": 39.25,
+        "id": "s16-prop27",
+        "changed_pixels": 28166
+      },
+      {
+        "start": 37.25,
+        "end": 39.5,
+        "id": "s16-prop27",
+        "changed_pixels": 26085
+      },
+      {
+        "start": 37.5,
+        "end": 39.75,
+        "id": "s16-prop27",
+        "changed_pixels": 25357
+      },
+      {
+        "start": 37.75,
+        "end": 40,
+        "id": "s16-prop27",
+        "changed_pixels": 24643
+      },
+      {
+        "start": 38,
+        "end": 40.25,
+        "id": "s16-prop27",
+        "changed_pixels": 21066
+      },
+      {
+        "start": 38.25,
+        "end": 40.5,
+        "id": "s16-prop27",
+        "changed_pixels": 4410
+      },
+      {
+        "start": 38.5,
+        "end": 40.75,
+        "id": "s16-actor28",
+        "changed_pixels": 30961
+      },
+      {
+        "start": 38.75,
+        "end": 41,
+        "id": "s16-actor28",
+        "changed_pixels": 21431
+      },
+      {
+        "start": 39,
+        "end": 41.25,
+        "id": "s16-actor28",
+        "changed_pixels": 9382
+      },
+      {
+        "start": 39.25,
+        "end": 41.5,
+        "id": "s17-prop29",
+        "changed_pixels": 17803
+      },
+      {
+        "start": 39.5,
+        "end": 41.75,
+        "id": "s17-prop29",
+        "changed_pixels": 25261
+      },
+      {
+        "start": 39.75,
+        "end": 42,
+        "id": "s17-prop29",
+        "changed_pixels": 18687
+      },
+      {
+        "start": 40,
+        "end": 42.25,
+        "id": "s17-prop29",
+        "changed_pixels": 18058
+      },
+      {
+        "start": 40.25,
+        "end": 42.5,
+        "id": "s17-prop29",
+        "changed_pixels": 16440
+      },
+      {
+        "start": 40.5,
+        "end": 42.75,
+        "id": "s17-prop29",
+        "changed_pixels": 13774
+      },
+      {
+        "start": 40.75,
+        "end": 43,
+        "id": "s17-prop29",
+        "changed_pixels": 9047
+      },
+      {
+        "start": 41,
+        "end": 43.25,
+        "id": "s17-prop29",
+        "changed_pixels": 4193
+      }
+    ],
+    "sample_step": 0.25,
+    "max_window": 2.25,
+    "limits": "Bounded isolated-layer pixel change, with text/shadows excluded and ancestors frozen; geometry is conservative. Causal action, final visibility/occlusion, semantic captions and sound still require playback review"
+  },
+  "audio_tracks": {
+    "ambience": 1,
+    "dialogue": 0,
+    "file_sfx": 0,
+    "cuts": 0
+  },
+  "reference_review": {
+    "schema": 1,
+    "status": "pending_independent_review",
+    "style": "B1",
+    "output": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/output/preview.mp4",
+    "output_sha256": "04ff5b9a5b28ccd88045381a396d3f1d6e6d3a4c437d43128884dbf5dc6a4a05",
+    "project_fingerprint": "e68ad9d2b1b29b6654061f4cd5c97948815149be1b70de1c5478e6803cf799e3",
+    "project_inputs": {
+      "file": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/project.json",
+      "inputs": [
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/chalkboard-1.ttf",
+          "sha256": "ee12f0017cc69d42026e36fdd49b72e7b726972d7c7cd928e709f7e641f358a8"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/music.mp3",
+          "sha256": "aaf1d13e2142f9530f66c1fe3d9df195964bbdb451bc43216f2fcb048dc8f934"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/narration.wav",
+          "sha256": "71aed10f90a21e8d2c1dc9b3c65d61648a8a2ed531b3d7b369199c34ffe6c427"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/room-tone.wav",
+          "sha256": "f18b7f0b0fdb3e5fc26bc97b5d1ffa0d45268ef08c04d630d2781715db8dcee8"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a01_phone_grin.png",
+          "sha256": "7e3605e69528032f127db8ab04dace8cd7f2464c2652325bce32bde57f8d78d5"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a02_panic.png",
+          "sha256": "dd85856b1b41c804c02dcd3a668a49e029ca47da0c1e515e96d640bd15fbe0d9"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a03_hand_off.png",
+          "sha256": "a8c283857cf2c6c49062150ea43bf1586869c2fa353ef6a2417a6929d2384c96"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a07_worried_heart.png",
+          "sha256": "73b7f0e81366b98ba3b5f16a3a9db4f0e7ab6030ff5033874369557b2c45928a"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a08_bored_yawn.png",
+          "sha256": "07bcaffdb71c18ff6cf976bdd6f0745307e01ec81cb4cacf4bdc1e10087b0105"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a09_sofa_scroll.png",
+          "sha256": "5cde8152ee55d218611a9279e63dfe87d179026a3b413906a75465dfecec9f04"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a11_sprint_start.png",
+          "sha256": "36c550611c8921dfc8c66f9719c39cf3ad1742548ff9c17c894b10b8b780dbe2"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a12_think.png",
+          "sha256": "657416f995818ffa8fa407fb87107a08a5d777791c1ff6070172b0dc21dce555"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/a13_typing_focused.png",
+          "sha256": "6df9517bdbfece99bed76a1aeefdf6a857bf8b0bc3a8f9717540bd6a76199ee1"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/b01_paper_mountain.png",
+          "sha256": "60351769bf39391fe80ad384f35c8b4e97763e427e24c4c4c85fa7261a6c46ee"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/b03_smartphone_glow.png",
+          "sha256": "99c07a91e4fb26e44efd1147d6fcdf873c616a3b3fd88e8338edd765148e5593"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/b04_storm_cloud.png",
+          "sha256": "c95709f048ea61454bb700d819761709aa1b2437db4c2c0076a8c4381738f1a9"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/b06_laptop_file.png",
+          "sha256": "a256b52d74f5bd904382207022ae3574a78e84d9f0e67cc94ed43ff154bfe75b"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/b07_checkbox_tick.png",
+          "sha256": "93a7b60db87c8757eeb9adeb65895d2d28f3829f528c2ae9037d951db8ae7616"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/b08_calendar_today.png",
+          "sha256": "0184473fa8f44b72291072586e2fa611ad68e1c9829fec926adff633eebf6035"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-A/pen_34.png",
+          "sha256": "aea4ee54859233397774077ad5a416bdb417b6da6aff883e76ea817a260709b9"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/buff_front.png",
+          "sha256": "f706ca952ba9a66089f8dca5f86104131e56f27b39cffbc2f825d3bd32d06405"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q02_sofa.png",
+          "sha256": "5307a51ba8c6d865ac098419f65624e79f3a344bc63d561f91cceb62e08e8e92"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q04_storm_cloud.png",
+          "sha256": "93bad717d6b50d843506ee5dcc0ee7237235526c4f76a77918a0bbf7fd9dda86"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q05_hourglass.png",
+          "sha256": "4b4b506e3649ee00d855ffabb155a7b96482e56911bec80e76904b3956395230"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/q08_calendar_today.png",
+          "sha256": "dfdb801883e98070317ca6ecbc5f6fa2a45f57cd3fdd7e675556956c1bc2e04c"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t04_small_step.png",
+          "sha256": "cbcc10640a9ba81c0474d439d0c2027daa20528b9f43fcad0fb56ab01633618b"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t05_confused_shrug.png",
+          "sha256": "afae0c6b9438e668fb51154f758aeb956973fea5d23d409fc60ed66658669b16"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t06_arms_crossed_no.png",
+          "sha256": "de762ad6e178145c9725f2cfb0a41d634af0e6bc4d010a41afda39c8bb3c3c60"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t10_future_tired.png",
+          "sha256": "9c20308fe775cb07e707f682978c299ad8d132a37405403955b988aa4486f2bd"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/art-J/t14_point_viewer.png",
+          "sha256": "9211a657157b7bded5f2cebaa80fbe12440b004cdcaa57d1bcd0400d2e89e3ef"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23-contact-sheet.png",
+          "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23-motion-sheet.png",
+          "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23.mp4",
+          "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-24-longform-contact-sheet.jpg",
+          "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-baseline.json",
+          "sha256": "71a45ae39cfde9e90eefdf32676ad9be7082bfb5e0a85589face9967eca37e73"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-production-standard.json",
+          "sha256": "1208febb532b602ebf2cd54543461f90c171eab263d68ee4021a195ae27cd8b5"
+        },
+        {
+          "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+          "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+        }
+      ]
+    },
+    "plan_sha256": "656a6a1b099c1ac61485c4424877ad8590a538d1b5e23a9f52df64502b89a676",
+    "scope": {
+      "start": 0,
+      "end": 43.25
+    },
+    "metadata": {
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "average_fps": 30.00067713874272,
+      "duration": 43.26569,
+      "frames": 1298,
+      "frame_timing_sha256": "e2682706bd5f503a9a2224852a3643917c015bb0fa17b078e2324e64464baf61",
+      "max_step_error": 0.0006513333333321228,
+      "video_codec": "h264",
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": 44100,
+          "channels": 2
+        }
+      ]
+    },
+    "plan": {
+      "schema": 1,
+      "style": "B1",
+      "author_id": null,
+      "capability": {
+        "mode": "sample_target",
+        "environment": null,
+        "limitations": []
+      },
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "scope_start": 0,
+      "scope_end": 43.25,
+      "frame_count": 1298,
+      "shots": [
+        {
+          "id": "shot-0",
+          "index": 0,
+          "source_id": null,
+          "start": 0,
+          "end": 2.5,
+          "start_frame": 0,
+          "end_frame": 75,
+          "phases": {
+            "start": 0,
+            "mid": 37,
+            "end": 74
+          },
+          "shot_sha256": "7115ec3ef6a2854771d625e08814e73633779ce26c2c888ca208e38190471706"
+        },
+        {
+          "id": "shot-1",
+          "index": 1,
+          "source_id": null,
+          "start": 2.5,
+          "end": 5.685,
+          "start_frame": 75,
+          "end_frame": 171,
+          "phases": {
+            "start": 75,
+            "mid": 122,
+            "end": 170
+          },
+          "shot_sha256": "e9d58172c2c674f23ba16fe80c20d2f4769936ed7a2f708d7dba17d95b29e339"
+        },
+        {
+          "id": "shot-2",
+          "index": 2,
+          "source_id": null,
+          "start": 5.685,
+          "end": 7.685,
+          "start_frame": 171,
+          "end_frame": 231,
+          "phases": {
+            "start": 171,
+            "mid": 200,
+            "end": 230
+          },
+          "shot_sha256": "df936d623d9c6ad5622439588bd7b6a5053b48e5f4047ff119af2658c89fc44d"
+        },
+        {
+          "id": "shot-3",
+          "index": 3,
+          "source_id": null,
+          "start": 7.685,
+          "end": 9.775,
+          "start_frame": 231,
+          "end_frame": 294,
+          "phases": {
+            "start": 231,
+            "mid": 262,
+            "end": 293
+          },
+          "shot_sha256": "1c73394178538897d9654d2fe7a7ec821171fe675461f53c0e6301a6d06b9250"
+        },
+        {
+          "id": "shot-4",
+          "index": 4,
+          "source_id": null,
+          "start": 9.775,
+          "end": 11.988,
+          "start_frame": 294,
+          "end_frame": 360,
+          "phases": {
+            "start": 294,
+            "mid": 326,
+            "end": 359
+          },
+          "shot_sha256": "f2f6b66986351b4d5a87e014ab105ec63e272e380174bf679957c06230d8150b"
+        },
+        {
+          "id": "shot-5",
+          "index": 5,
+          "source_id": null,
+          "start": 11.988,
+          "end": 14.608,
+          "start_frame": 360,
+          "end_frame": 439,
+          "phases": {
+            "start": 360,
+            "mid": 399,
+            "end": 438
+          },
+          "shot_sha256": "0af41f19602a3c2bf686da4649ed4dad6fdfa5a45cf56225f30d55437afdd559"
+        },
+        {
+          "id": "shot-6",
+          "index": 6,
+          "source_id": null,
+          "start": 14.608,
+          "end": 17.338,
+          "start_frame": 439,
+          "end_frame": 521,
+          "phases": {
+            "start": 439,
+            "mid": 479,
+            "end": 520
+          },
+          "shot_sha256": "18a43a36bea49a51c373611ff3e61b4de70e48d3d6c5c76069ef422d7ff5500a"
+        },
+        {
+          "id": "shot-7",
+          "index": 7,
+          "source_id": null,
+          "start": 17.338,
+          "end": 18.618,
+          "start_frame": 521,
+          "end_frame": 559,
+          "phases": {
+            "start": 521,
+            "mid": 539,
+            "end": 558
+          },
+          "shot_sha256": "0f89955f3635613e7a92269ade93e689f552999144d43df7504fcd044e05c1f3"
+        },
+        {
+          "id": "shot-8",
+          "index": 8,
+          "source_id": null,
+          "start": 18.618,
+          "end": 20.088,
+          "start_frame": 559,
+          "end_frame": 603,
+          "phases": {
+            "start": 559,
+            "mid": 580,
+            "end": 602
+          },
+          "shot_sha256": "4be59a2a766c1b9b2889845c6ff478ca5a18fd436720a03603ab3667548f9a71"
+        },
+        {
+          "id": "shot-9",
+          "index": 9,
+          "source_id": null,
+          "start": 20.088,
+          "end": 22.323,
+          "start_frame": 603,
+          "end_frame": 670,
+          "phases": {
+            "start": 603,
+            "mid": 636,
+            "end": 669
+          },
+          "shot_sha256": "0dbfaa3eefef22f92f6f679b1686d58b36ed934c0261f50216142450a67310ca"
+        },
+        {
+          "id": "shot-10",
+          "index": 10,
+          "source_id": null,
+          "start": 22.323,
+          "end": 24.863,
+          "start_frame": 670,
+          "end_frame": 746,
+          "phases": {
+            "start": 670,
+            "mid": 707,
+            "end": 745
+          },
+          "shot_sha256": "2a8df6262f7c8ed7cb5240a3b4155ace6f789856a91eb8b178ac155454103fb0"
+        },
+        {
+          "id": "shot-11",
+          "index": 11,
+          "source_id": null,
+          "start": 24.863,
+          "end": 28.498,
+          "start_frame": 746,
+          "end_frame": 855,
+          "phases": {
+            "start": 746,
+            "mid": 800,
+            "end": 854
+          },
+          "shot_sha256": "41d57c965e14cb6f453f52ac544c1e7b5a3fc7372bc5baea4e2034e125b0c509"
+        },
+        {
+          "id": "shot-12",
+          "index": 12,
+          "source_id": null,
+          "start": 28.498,
+          "end": 30.068,
+          "start_frame": 855,
+          "end_frame": 903,
+          "phases": {
+            "start": 855,
+            "mid": 878,
+            "end": 902
+          },
+          "shot_sha256": "10b7157725495584e92389e3f1e9dfa1021c590679d8909dac636506e0096dc7"
+        },
+        {
+          "id": "shot-13",
+          "index": 13,
+          "source_id": null,
+          "start": 30.068,
+          "end": 33.038,
+          "start_frame": 903,
+          "end_frame": 992,
+          "phases": {
+            "start": 903,
+            "mid": 947,
+            "end": 991
+          },
+          "shot_sha256": "d685ced1cfcdafe271f8a017978b17e0d0272af70b1bd29ef2b5a7a081cf8fc3"
+        },
+        {
+          "id": "shot-14",
+          "index": 14,
+          "source_id": null,
+          "start": 33.038,
+          "end": 34.558,
+          "start_frame": 992,
+          "end_frame": 1037,
+          "phases": {
+            "start": 992,
+            "mid": 1014,
+            "end": 1036
+          },
+          "shot_sha256": "4d18763e6fa7f6924d6ccdceea5d842848aadcee6d747555750ded9bac0e9d5e"
+        },
+        {
+          "id": "shot-15",
+          "index": 15,
+          "source_id": null,
+          "start": 34.558,
+          "end": 36.145,
+          "start_frame": 1037,
+          "end_frame": 1085,
+          "phases": {
+            "start": 1037,
+            "mid": 1060,
+            "end": 1084
+          },
+          "shot_sha256": "b96aa374164456a1e2e5a90b21f4220a24a039c0287da9f79af3350975c40fcc"
+        },
+        {
+          "id": "shot-16",
+          "index": 16,
+          "source_id": null,
+          "start": 36.145,
+          "end": 39.305,
+          "start_frame": 1085,
+          "end_frame": 1180,
+          "phases": {
+            "start": 1085,
+            "mid": 1132,
+            "end": 1179
+          },
+          "shot_sha256": "156e3e1e25ef8116c9b15b7bcbfcbf6ad33580d1b685ced4cca40a6d9e5a6a60"
+        },
+        {
+          "id": "shot-17",
+          "index": 17,
+          "source_id": null,
+          "start": 39.305,
+          "end": 43.25,
+          "start_frame": 1180,
+          "end_frame": 1298,
+          "phases": {
+            "start": 1180,
+            "mid": 1238,
+            "end": 1297
+          },
+          "shot_sha256": "a52bf7a84d017a278ca4c6bfb4765f230f9b6dcc6eabe53b87d4748090fbea66"
+        }
+      ],
+      "caption_sha256": "2b7dc84042fda545f875786e434246a2c0e8123dbe5dec508cf609eee987379f",
+      "reference_ids": [
+        "b1-ryan-v4",
+        "b1-ryan-contact-sheet",
+        "b1-ryan-motion-sheet",
+        "b1-full-v4-contact-sheet"
+      ],
+      "checks": [
+        "drawing_character",
+        "semantic_acting",
+        "contact_continuity",
+        "composition_evidence",
+        "typography_captions",
+        "timing_pacing",
+        "sound"
+      ],
+      "limits": [
+        "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+        "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+        "Independent agent review does not imply human approval or user acceptance.",
+        "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+        "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+      ]
+    },
+    "references": [
+      {
+        "id": "b1-ryan-v4",
+        "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23.mp4",
+        "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc",
+        "kind": "video",
+        "role": "approved_baseline",
+        "duration": 21.3,
+        "has_audio": true,
+        "required_comparison": true,
+        "limitations": []
+      },
+      {
+        "id": "b1-ryan-contact-sheet",
+        "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23-contact-sheet.png",
+        "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e",
+        "kind": "image",
+        "role": "approved_baseline",
+        "duration": null,
+        "has_audio": false,
+        "required_comparison": false,
+        "limitations": [
+          "Static sheet cannot demonstrate continuous motion, subtitle timing or listening."
+        ]
+      },
+      {
+        "id": "b1-ryan-motion-sheet",
+        "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-23-motion-sheet.png",
+        "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73",
+        "kind": "image",
+        "role": "approved_baseline",
+        "duration": null,
+        "has_audio": false,
+        "required_comparison": false,
+        "limitations": [
+          "Static sheet cannot demonstrate continuous motion, subtitle timing or listening."
+        ]
+      },
+      {
+        "id": "b1-full-v4-contact-sheet",
+        "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-2026-10-24-longform-contact-sheet.jpg",
+        "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e",
+        "kind": "image",
+        "role": "approved_longform_sampled_sheet",
+        "duration": null,
+        "has_audio": false,
+        "required_comparison": false,
+        "limitations": [
+          "Full V4 film is not bundled. This sampled sheet cannot establish continuous long-form motion or audio."
+        ]
+      }
+    ],
+    "reference_manifests": [
+      {
+        "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-baseline.json",
+        "sha256": "71a45ae39cfde9e90eefdf32676ad9be7082bfb5e0a85589face9967eca37e73"
+      },
+      {
+        "path": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/stickman-video-director/skills/directing-stickman-videos/assets/b1/approved-production-standard.json",
+        "sha256": "1208febb532b602ebf2cd54543461f90c171eab263d68ee4021a195ae27cd8b5"
+      }
+    ],
+    "artifacts": [
+      {
+        "id": "shot-0-start",
+        "shot": "shot-0",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 0,
+        "source_time": 0,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-0-start.png",
+        "sha256": "8fbbb384b5ffb643e8949d81fb51d1e5f6739ff8d88cab59b74f1381368c313e"
+      },
+      {
+        "id": "shot-0-mid",
+        "shot": "shot-0",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 37,
+        "source_time": 1.233333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-0-mid.png",
+        "sha256": "929e863f9c5adc968c41d7fd409606b3c3def710439691fa81b170d36d7dc547"
+      },
+      {
+        "id": "shot-0-end",
+        "shot": "shot-0",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 74,
+        "source_time": 2.466667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-0-end.png",
+        "sha256": "47b6a1515039ca8a42af17bdf4e2dd599fc3c89751ee61717aed9992946bc1f0"
+      },
+      {
+        "id": "shot-0-continuous",
+        "shot": "shot-0",
+        "type": "clip",
+        "start_frame": 0,
+        "end_frame": 75,
+        "source_start": 0,
+        "source_end": 2.5,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-0-continuous.mp4",
+        "sha256": "4311b3a502a8d377d03d66116f6df0e1f2b80763d065b556e3b77b9ae68631a6"
+      },
+      {
+        "id": "shot-1-start",
+        "shot": "shot-1",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 75,
+        "source_time": 2.5,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-1-start.png",
+        "sha256": "ad471675e49cae1c2ed0c7896ec6839783c29ad059166c20b1825fc4149232f8"
+      },
+      {
+        "id": "shot-1-mid",
+        "shot": "shot-1",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 122,
+        "source_time": 4.066667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-1-mid.png",
+        "sha256": "83741fc354567e7a13893d1a38c35a3b2780ec28fa12f8becd505358423f9a23"
+      },
+      {
+        "id": "shot-1-end",
+        "shot": "shot-1",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 170,
+        "source_time": 5.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-1-end.png",
+        "sha256": "543445943bf33a99b75bc3441fcd524ce9d9a41f92113ed05186960b444efa45"
+      },
+      {
+        "id": "shot-1-continuous",
+        "shot": "shot-1",
+        "type": "clip",
+        "start_frame": 75,
+        "end_frame": 171,
+        "source_start": 2.5,
+        "source_end": 5.7,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-1-continuous.mp4",
+        "sha256": "c91664231e35d141174be2cc1308c24fe5d9feff05c15499cac62d0bf2458ada"
+      },
+      {
+        "id": "shot-2-start",
+        "shot": "shot-2",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 171,
+        "source_time": 5.7,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-2-start.png",
+        "sha256": "3ddab16593130fe3c2c17ec543b627326006edd80ee0b291edbbc322d7385ba6"
+      },
+      {
+        "id": "shot-2-mid",
+        "shot": "shot-2",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 200,
+        "source_time": 6.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-2-mid.png",
+        "sha256": "45d09e0cf98f5ded9fb300cb432e0435dae6a8f97d4d9e7c9387a39cca2a568b"
+      },
+      {
+        "id": "shot-2-end",
+        "shot": "shot-2",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 230,
+        "source_time": 7.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-2-end.png",
+        "sha256": "9074d26dfc512e201f04a7e4ea16dc8a35d23c477380713411427ee222ce6050"
+      },
+      {
+        "id": "shot-2-continuous",
+        "shot": "shot-2",
+        "type": "clip",
+        "start_frame": 171,
+        "end_frame": 231,
+        "source_start": 5.7,
+        "source_end": 7.7,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-2-continuous.mp4",
+        "sha256": "01f7504543f937d88ada100caa56a034f355f0a8e9e6c15e3757160531676616"
+      },
+      {
+        "id": "shot-3-start",
+        "shot": "shot-3",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 231,
+        "source_time": 7.7,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-3-start.png",
+        "sha256": "9fea5f33405ca0775fc56934dcd8abf5eeb5a6a0b0cff52d88d8356de768103d"
+      },
+      {
+        "id": "shot-3-mid",
+        "shot": "shot-3",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 262,
+        "source_time": 8.733333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-3-mid.png",
+        "sha256": "2ee9461fef6ce5e5c676244f01988ef9ff1ec502fc58b494363bcae5df95fec8"
+      },
+      {
+        "id": "shot-3-end",
+        "shot": "shot-3",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 293,
+        "source_time": 9.766667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-3-end.png",
+        "sha256": "0ef60a2da1d1f7060c3450d9c3b0b8d3a420e7eab4096876f0581d9a370b5e37"
+      },
+      {
+        "id": "shot-3-continuous",
+        "shot": "shot-3",
+        "type": "clip",
+        "start_frame": 231,
+        "end_frame": 294,
+        "source_start": 7.7,
+        "source_end": 9.8,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-3-continuous.mp4",
+        "sha256": "c8100bb46798b34d68f37bfe64ab9a7f1f685266b6d6fd643876f048a85e834f"
+      },
+      {
+        "id": "shot-4-start",
+        "shot": "shot-4",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 294,
+        "source_time": 9.8,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-4-start.png",
+        "sha256": "84466bf0ee7f4c6f6953c37e72bd7fbcde79c99b0342cf98254731f87158d213"
+      },
+      {
+        "id": "shot-4-mid",
+        "shot": "shot-4",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 326,
+        "source_time": 10.866667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-4-mid.png",
+        "sha256": "0712513b60737a142b46df14f043c1b7cf436c6dab01074a2119dadeed755eb2"
+      },
+      {
+        "id": "shot-4-end",
+        "shot": "shot-4",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 359,
+        "source_time": 11.966667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-4-end.png",
+        "sha256": "64b99ff264cf74a9382a42a83c0defb511eaba99f28445ef49634b006bd8d47c"
+      },
+      {
+        "id": "shot-4-continuous",
+        "shot": "shot-4",
+        "type": "clip",
+        "start_frame": 294,
+        "end_frame": 360,
+        "source_start": 9.8,
+        "source_end": 12,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-4-continuous.mp4",
+        "sha256": "6145001a398ca35569205bde6130b2b0e2c1034eea62e45a1fe2537cec13214f"
+      },
+      {
+        "id": "shot-5-start",
+        "shot": "shot-5",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 360,
+        "source_time": 12,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-5-start.png",
+        "sha256": "4edbc6cb9fe27eab00fa210509b5fbca71564fc3146f03717eca736c2862bb69"
+      },
+      {
+        "id": "shot-5-mid",
+        "shot": "shot-5",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 399,
+        "source_time": 13.3,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-5-mid.png",
+        "sha256": "397490ffe60def10f583642df2e74b89f3fed5e70a4d1093b99f429d56ad75ff"
+      },
+      {
+        "id": "shot-5-end",
+        "shot": "shot-5",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 438,
+        "source_time": 14.6,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-5-end.png",
+        "sha256": "591c6525d94b57921a6f17a01e4eafc37df643c469c3122c04436f35447fe518"
+      },
+      {
+        "id": "shot-5-continuous",
+        "shot": "shot-5",
+        "type": "clip",
+        "start_frame": 360,
+        "end_frame": 439,
+        "source_start": 12,
+        "source_end": 14.633333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-5-continuous.mp4",
+        "sha256": "e25382aedef3b498a3e48fd5b14815f1ef12b9bb7c3acedd04c172936d4fd316"
+      },
+      {
+        "id": "shot-6-start",
+        "shot": "shot-6",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 439,
+        "source_time": 14.633333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-6-start.png",
+        "sha256": "85a5cb2b2131a4a23f0c23cb26c8f7c3c0d128050911fac5744ff442b5536d1b"
+      },
+      {
+        "id": "shot-6-mid",
+        "shot": "shot-6",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 479,
+        "source_time": 15.966667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-6-mid.png",
+        "sha256": "4ef0fea7e1cb87ddf9ee17d60e0d311eb47c1acb711dfa9a92ad225121991639"
+      },
+      {
+        "id": "shot-6-end",
+        "shot": "shot-6",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 520,
+        "source_time": 17.333008,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-6-end.png",
+        "sha256": "5c6de8074828bf26cf09de93694e0b6e1c2ee0f9fd547c4ab54b2b694c24f049"
+      },
+      {
+        "id": "shot-6-continuous",
+        "shot": "shot-6",
+        "type": "clip",
+        "start_frame": 439,
+        "end_frame": 521,
+        "source_start": 14.633333,
+        "source_end": 17.366341,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-6-continuous.mp4",
+        "sha256": "e3f64aa98ea3f0a03fcdbd8431c9be798d1f33ac29332097f6195c3a6109b273"
+      },
+      {
+        "id": "shot-7-start",
+        "shot": "shot-7",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 521,
+        "source_time": 17.366341,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-7-start.png",
+        "sha256": "384f45de5beb2bbf5fd2d8c418428eb7db944a690491dce36b18482b00abc53b"
+      },
+      {
+        "id": "shot-7-mid",
+        "shot": "shot-7",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 539,
+        "source_time": 17.966341,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-7-mid.png",
+        "sha256": "00e67a41abe2ae83dee3d2f1da8384a48ae66513a0775f51d8b51ea8ec137972"
+      },
+      {
+        "id": "shot-7-end",
+        "shot": "shot-7",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 558,
+        "source_time": 18.599674,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-7-end.png",
+        "sha256": "4decffd38cca4d109ae9ea3493c432846782d220a21fea54cc5e83cf046529c7"
+      },
+      {
+        "id": "shot-7-continuous",
+        "shot": "shot-7",
+        "type": "clip",
+        "start_frame": 521,
+        "end_frame": 559,
+        "source_start": 17.366341,
+        "source_end": 18.633008,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-7-continuous.mp4",
+        "sha256": "1d49585795e8310c11f6aed6a1d33e7f7ad4a6ca91697b45ee3a9781a4ffd5de"
+      },
+      {
+        "id": "shot-8-start",
+        "shot": "shot-8",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 559,
+        "source_time": 18.633008,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-8-start.png",
+        "sha256": "2e33a6d225cbbb960784df8d4652996eab4e4e05ee749c8365f998a6e2e9c6fe"
+      },
+      {
+        "id": "shot-8-mid",
+        "shot": "shot-8",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 580,
+        "source_time": 19.333008,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-8-mid.png",
+        "sha256": "c9796ec01bf5c1c67164504d97ffd79ebde11ba0b9b84401e40f2b3a994207ba"
+      },
+      {
+        "id": "shot-8-end",
+        "shot": "shot-8",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 602,
+        "source_time": 20.066341,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-8-end.png",
+        "sha256": "e0416f34bb4b664c0bbd7ace98404a4218e85a7ac342f00549c70bf020bc942e"
+      },
+      {
+        "id": "shot-8-continuous",
+        "shot": "shot-8",
+        "type": "clip",
+        "start_frame": 559,
+        "end_frame": 603,
+        "source_start": 18.633008,
+        "source_end": 20.099674,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-8-continuous.mp4",
+        "sha256": "052a257efff8d170e1a85e9be0ea5ad936edbec3006dcd0bdf0b63fa916fb7bf"
+      },
+      {
+        "id": "shot-9-start",
+        "shot": "shot-9",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 603,
+        "source_time": 20.099674,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-9-start.png",
+        "sha256": "a1e7a6a3ec4f9cd2ea13b7308ab68ecb00ac297d57391af55a252f93cd39c9a7"
+      },
+      {
+        "id": "shot-9-mid",
+        "shot": "shot-9",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 636,
+        "source_time": 21.199674,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-9-mid.png",
+        "sha256": "237140086ec6998b00c6122eb1d054a38c60d26aec4a19e866f0a1c0beb32930"
+      },
+      {
+        "id": "shot-9-end",
+        "shot": "shot-9",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 669,
+        "source_time": 22.299674,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-9-end.png",
+        "sha256": "809055d8a1335a5f9cba13fbea4790da3735410246c889d73dad0c90bc1a3b2e"
+      },
+      {
+        "id": "shot-9-continuous",
+        "shot": "shot-9",
+        "type": "clip",
+        "start_frame": 603,
+        "end_frame": 670,
+        "source_start": 20.099674,
+        "source_end": 22.333008,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-9-continuous.mp4",
+        "sha256": "d48b21e2644dcb08566e739ec9290c350442ada7947067ce41399a6fae1562a7"
+      },
+      {
+        "id": "shot-10-start",
+        "shot": "shot-10",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 670,
+        "source_time": 22.333008,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-10-start.png",
+        "sha256": "4967a489f27aaac3499b635a8b3bb95b9b0942f20fce859abad128050454dec8"
+      },
+      {
+        "id": "shot-10-mid",
+        "shot": "shot-10",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 707,
+        "source_time": 23.566341,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-10-mid.png",
+        "sha256": "a3e7d7f8bdf14d96804002a2f349dbdd660f4410f422536adb01aaea79072fd8"
+      },
+      {
+        "id": "shot-10-end",
+        "shot": "shot-10",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 745,
+        "source_time": 24.833008,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-10-end.png",
+        "sha256": "3a75097ce21d125869734dbe5e40e8e80b44f8e4497112b4d0dcbe3aaa44dcb6"
+      },
+      {
+        "id": "shot-10-continuous",
+        "shot": "shot-10",
+        "type": "clip",
+        "start_frame": 670,
+        "end_frame": 746,
+        "source_start": 22.333008,
+        "source_end": 24.866341,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-10-continuous.mp4",
+        "sha256": "db5d1891e86c5313a17140da59a13ca5d614cd7966257f8ca8f818ecbb4502c7"
+      },
+      {
+        "id": "shot-11-start",
+        "shot": "shot-11",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 746,
+        "source_time": 24.866341,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-11-start.png",
+        "sha256": "d8ac9233db796ae60f5fd02e9e0f3287a9c9943b6aaeb4d1a642c90482c9fc63"
+      },
+      {
+        "id": "shot-11-mid",
+        "shot": "shot-11",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 800,
+        "source_time": 26.666341,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-11-mid.png",
+        "sha256": "19525ee176d09dcfde163614900e553d3978cfafe99e52fe01e2755795295cf0"
+      },
+      {
+        "id": "shot-11-end",
+        "shot": "shot-11",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 854,
+        "source_time": 28.466341,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-11-end.png",
+        "sha256": "867600982612a7bf7a0a4e9ff730097a707cdbe248315c2cf99affa39e68b12b"
+      },
+      {
+        "id": "shot-11-continuous",
+        "shot": "shot-11",
+        "type": "clip",
+        "start_frame": 746,
+        "end_frame": 855,
+        "source_start": 24.866341,
+        "source_end": 28.499674,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-11-continuous.mp4",
+        "sha256": "141a044c3c651b1d5abf2e831c156cecf062e810a956c8e8b8ac51e618543ce2"
+      },
+      {
+        "id": "shot-12-start",
+        "shot": "shot-12",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 855,
+        "source_time": 28.499674,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-12-start.png",
+        "sha256": "3b6394a69cab53d0f622ea2abc778152793dd630cfbe626184fe05477062251f"
+      },
+      {
+        "id": "shot-12-mid",
+        "shot": "shot-12",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 878,
+        "source_time": 29.266341,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-12-mid.png",
+        "sha256": "2818f895029506007d65793344bc9345760a6c49ea8dafb93bc624e85c5c6eb0"
+      },
+      {
+        "id": "shot-12-end",
+        "shot": "shot-12",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 902,
+        "source_time": 30.06569,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-12-end.png",
+        "sha256": "8551d8bf03209a09d6a44596e085d0f664866c511930e3a5d7db873296a77ec9"
+      },
+      {
+        "id": "shot-12-continuous",
+        "shot": "shot-12",
+        "type": "clip",
+        "start_frame": 855,
+        "end_frame": 903,
+        "source_start": 28.499674,
+        "source_end": 30.099023,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-12-continuous.mp4",
+        "sha256": "40b94d1f1135784203cfb92826be63efa7284410558fd6c0b63ffe59af07ca22"
+      },
+      {
+        "id": "shot-13-start",
+        "shot": "shot-13",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 903,
+        "source_time": 30.099023,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-13-start.png",
+        "sha256": "8084e64db75c7507e4550f023cdea510af45b5c08c89acb6a320281f8190d5d3"
+      },
+      {
+        "id": "shot-13-mid",
+        "shot": "shot-13",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 947,
+        "source_time": 31.56569,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-13-mid.png",
+        "sha256": "ef09c29c42963ad23ec08452820ca934e8e41063892136ad230a901d1910001b"
+      },
+      {
+        "id": "shot-13-end",
+        "shot": "shot-13",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 991,
+        "source_time": 33.032357,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-13-end.png",
+        "sha256": "ca1f7103d04c75ec79b5ae73b7731d8c6ea3892ebc97ff754e5f16383c66c130"
+      },
+      {
+        "id": "shot-13-continuous",
+        "shot": "shot-13",
+        "type": "clip",
+        "start_frame": 903,
+        "end_frame": 992,
+        "source_start": 30.099023,
+        "source_end": 33.06569,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-13-continuous.mp4",
+        "sha256": "01f2f2b13f5a787f16d051e3bd38b43563ed6a0879228aeda66e595c543d6d59"
+      },
+      {
+        "id": "shot-14-start",
+        "shot": "shot-14",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 992,
+        "source_time": 33.06569,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-14-start.png",
+        "sha256": "434eee6fdaa2c96409f02fb5df32281df6de463a24729ff910dd3d1f8b930663"
+      },
+      {
+        "id": "shot-14-mid",
+        "shot": "shot-14",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 1014,
+        "source_time": 33.799023,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-14-mid.png",
+        "sha256": "2c952b483f614e62d5362e02a3f8ce7480cdef707bae46c326e4e5c5585ccb33"
+      },
+      {
+        "id": "shot-14-end",
+        "shot": "shot-14",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 1036,
+        "source_time": 34.532357,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-14-end.png",
+        "sha256": "b0481114fa0de16c7b8dfc4fff2ad00d3e552be8218f9c90f623cd558a84c630"
+      },
+      {
+        "id": "shot-14-continuous",
+        "shot": "shot-14",
+        "type": "clip",
+        "start_frame": 992,
+        "end_frame": 1037,
+        "source_start": 33.06569,
+        "source_end": 34.56569,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-14-continuous.mp4",
+        "sha256": "029cc7f1ce00d8bde286e01dc6de2e62f70bb4f29d1d7e702c36f6b259c1320e"
+      },
+      {
+        "id": "shot-15-start",
+        "shot": "shot-15",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 1037,
+        "source_time": 34.56569,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-15-start.png",
+        "sha256": "45ee7edc136de18dfcd25b04046efe886a9b89155861aca9828bb9de7a8d9f10"
+      },
+      {
+        "id": "shot-15-mid",
+        "shot": "shot-15",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 1060,
+        "source_time": 35.332357,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-15-mid.png",
+        "sha256": "6150c401c5da5360c8d73a26ad157923ccb600e9adf5a243a572782bda65b7c8"
+      },
+      {
+        "id": "shot-15-end",
+        "shot": "shot-15",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 1084,
+        "source_time": 36.132357,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-15-end.png",
+        "sha256": "41c1b4402a653bd2b202d37796cc58bb81ec34c204b363b33720c59dcbd34924"
+      },
+      {
+        "id": "shot-15-continuous",
+        "shot": "shot-15",
+        "type": "clip",
+        "start_frame": 1037,
+        "end_frame": 1085,
+        "source_start": 34.56569,
+        "source_end": 36.16569,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-15-continuous.mp4",
+        "sha256": "a6f4a7c80c67a465160c7f6b4716c4278dbaf9e1552b0d26d8436bf8d73fc440"
+      },
+      {
+        "id": "shot-16-start",
+        "shot": "shot-16",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 1085,
+        "source_time": 36.16569,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-16-start.png",
+        "sha256": "d35a86cdc4e19693dda814afe61c4310dd5667eee549ff26c9d76cad2bed6861"
+      },
+      {
+        "id": "shot-16-mid",
+        "shot": "shot-16",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 1132,
+        "source_time": 37.732357,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-16-mid.png",
+        "sha256": "856ba7b23b698bd3e84945380f69e5b4804da461820fc6c1cd421fee1ef525ca"
+      },
+      {
+        "id": "shot-16-end",
+        "shot": "shot-16",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 1179,
+        "source_time": 39.299023,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-16-end.png",
+        "sha256": "976b9c39b330200fc753315288d092936bdf06556140dab4e0a990b9326132d9"
+      },
+      {
+        "id": "shot-16-continuous",
+        "shot": "shot-16",
+        "type": "clip",
+        "start_frame": 1085,
+        "end_frame": 1180,
+        "source_start": 36.16569,
+        "source_end": 39.332357,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-16-continuous.mp4",
+        "sha256": "85bf678668aacdc2c31ee0cfc2fc2baadee17f757d956ddb726bea78cfc19cc0"
+      },
+      {
+        "id": "shot-17-start",
+        "shot": "shot-17",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 1180,
+        "source_time": 39.332357,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-17-start.png",
+        "sha256": "e1c33ece9280b6c7058c1e76412f434c7e77f44766ddde93d7bb430102270e78"
+      },
+      {
+        "id": "shot-17-mid",
+        "shot": "shot-17",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 1238,
+        "source_time": 41.26569,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-17-mid.png",
+        "sha256": "66ef4fb9eeb025cff03be82814b95777d3a2942fd97b82f1e9e24625bf1cbaa5"
+      },
+      {
+        "id": "shot-17-end",
+        "shot": "shot-17",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 1297,
+        "source_time": 43.232357,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-17-end.png",
+        "sha256": "5ff111493567c3b5b8f8e45b8c43233dd9b1a0c01b99c59fd2bf88b7d3037b25"
+      },
+      {
+        "id": "shot-17-continuous",
+        "shot": "shot-17",
+        "type": "clip",
+        "start_frame": 1180,
+        "end_frame": 1298,
+        "source_start": 39.332357,
+        "source_end": 43.26569,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-17-continuous.mp4",
+        "sha256": "4e57695142fa648962cee8db4a8df19d55e4a0100f8e07b8bd0afba58c49ad6d"
+      }
+    ],
+    "evidence_dir": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/output/preview-reference",
+    "ledger_file": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/output/preview-reference/evidence.json",
+    "template_file": "/Users/nino/Projects/FIRE10.DEV/REPO/stickman-ab/b1-v3/MIX/output/preview-reference/review-template.json",
+    "limits": [
+      "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+      "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+      "Independent agent review does not imply human approval or user acceptance.",
+      "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+      "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+    ]
+  },
+  "visual_acceptance": "pending_independent_review",
+  "delivery_ready": false
+}

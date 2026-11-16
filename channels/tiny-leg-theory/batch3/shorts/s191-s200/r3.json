@@ -1,0 +1,928 @@
+[
+ {
+  "id": "s191",
+  "mascot": "pen",
+  "title": "Why You Forget What You Came to Get",
+  "mechanism": "Doorway effect",
+  "lines": [
+   {
+    "vo": "You walk into the kitchen and freeze. What did you want?",
+    "text": "WHY DID I COME HERE",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Walking through a doorway signals your brain to reset.",
+    "text": "DOORWAY RESET",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "A physical boundary often creates a mental boundary.",
+    "text": "NEW ROOM NEW FILE",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Old priorities get tucked away in the last room.",
+    "text": "OLD THOUGHTS FADE",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Say your single goal aloud before stepping through.",
+    "text": "SAY IT OUT LOUD",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "A spoken word travels with you into the next space.",
+    "text": "CARRY THE WORD",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s191vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vua qua cua phong da quen sach viec",
+  "title_vi": "Vừa qua cửa phòng đã quên sạch việc",
+  "mechanism": "Doorway effect",
+  "lines": [
+   {
+    "vo": "Vừa bước ra khỏi phòng trọ, bạn đứng hình vì quên.",
+    "text": "DUNG HINH QUEN SACH",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cánh cửa phòng tạo ra một vạch ngăn trong tâm trí.",
+    "text": "VACH NGAN CANH CUA",
+    "actor": "think"
+   },
+   {
+    "vo": "Não tưởng bạn vừa chuyển sang một bối cảnh mới toanh.",
+    "text": "BOI CANH MOI",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Những ý định ở góc phòng cũ liền bị xếp lại.",
+    "text": "Y DINH BI XEP LAI",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Trước khi bước sang phòng khác, hãy nói to việc cần làm.",
+    "text": "NOI TO TRUOC KHI DI",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Một câu nói thành tiếng sẽ bước qua cửa cùng bạn.",
+    "text": "GIU TIENG NOI THEO",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s192",
+  "mascot": "buff",
+  "title": "Pictures Can Make Facts Stick",
+  "mechanism": "Picture superiority effect",
+  "lines": [
+   {
+    "vo": "Staring at a wall of text. Good luck remembering that.",
+    "text": "WALL OF TEXT",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Words are heavy lifting. Your brain prefers pictures.",
+    "text": "BRAINS LOVE IMAGES",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "A visual cue gives your memory double the grip.",
+    "text": "DOUBLE THE GRIP",
+    "actor": "think",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Turn your main point into a rough doodle.",
+    "text": "SKETCH THE POINT",
+    "color": "green",
+    "actor": "writing",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Slap on a three-word label. Done.",
+    "text": "LABEL IN 3 WORDS",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Draw the rep. Lock the fact down.",
+    "text": "LOCK IT DOWN",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s192vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Doc chu mau quen, ve hinh nho dai",
+  "title_vi": "Đọc chữ mau quên, vẽ hình nhớ dai",
+  "mechanism": "Picture superiority effect",
+  "lines": [
+   {
+    "vo": "Đọc cả trang hướng dẫn đăng ký môn học rồi lại quên sạch.",
+    "text": "DOC XONG LA QUEN",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Đọc chữ vừa nặng đầu vừa trôi. Não khoái hình ảnh hơn.",
+    "text": "NAO KHOAI HINH ANH",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Một hình vẽ thô tạo thêm điểm tựa cho trí nhớ.",
+    "text": "DIEM TUA TRI NHO",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Vẽ ba ô vuông nối mũi tên các bước lên giấy nháp.",
+    "text": "VE SO DO BA BUOC",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Viết thêm từ khóa bên cạnh. Không cần vẽ đẹp.",
+    "text": "THEM TU KHOA GON",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Vẽ một hình, bớt mười lần đọc lại. Làm ngay.",
+    "text": "LAM NGAY TREN GIAY",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s193",
+  "mascot": "pen",
+  "title": "Why Lists Have Strong Starts and Ends",
+  "mechanism": "Serial position effect",
+  "lines": [
+   {
+    "vo": "You wrote an eight-item checklist, but only remember two.",
+    "text": "THE LOST MIDDLE",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "First items get fresh focus. Last items stay warm in memory.",
+    "text": "FIRST AND LAST",
+    "actor": "reading"
+   },
+   {
+    "vo": "The middle tasks quietly drown in the noise.",
+    "text": "DROWNED IN NOISE",
+    "actor": "bored_yawn",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Our working memory gets crowded midway through.",
+    "text": "CROWDED MEMORY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Put your two key tasks at the top and bottom.",
+    "text": "ANCHOR BOTH ENDS",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Or split a long list into two smaller ones.",
+    "text": "SPLIT THE LIST",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "What task are you hiding in the foggy middle today?",
+    "text": "WHAT IS HIDDEN?",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s193vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Tai sao de quen viec o giua danh sach",
+  "title_vi": "Tại sao dễ quên việc ở giữa danh sách",
+  "mechanism": "Serial position effect",
+  "lines": [
+   {
+    "vo": "Lập danh sách việc trong ngày, nhưng toàn quên mấy việc ở giữa.",
+    "text": "QUEN VIEC O GIUA",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Việc đầu danh sách được não ưu tiên nạp đầu tiên.",
+    "text": "UU TIEN BAN DAU",
+    "actor": "reading"
+   },
+   {
+    "vo": "Mục cuối vừa đọc xong nên còn đọng lại rõ ràng.",
+    "text": "CON DONG MUC CUOI",
+    "actor": "think"
+   },
+   {
+    "vo": "Còn khúc giữa dễ bị chìm nghỉm giữa hai đầu.",
+    "text": "KHUC GIUA BI CHIM",
+    "actor": "bored_yawn",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Hãy đưa hai việc quan trọng nhất lên đầu và xuống cuối.",
+    "text": "DAT DAU VA CUOI",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Hoặc tách danh sách dài thành hai phần nhỏ.",
+    "text": "TACH THANH HAI PHAN",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Việc quan trọng nhất hôm nay đang nằm ở đâu?",
+    "text": "VIEC DO NAM DAU?",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s194",
+  "mascot": "buff",
+  "title": "Why an Old Idea Feels Brand New",
+  "mechanism": "Cryptomnesia",
+  "lines": [
+   {
+    "vo": "Thought you invented that genius idea? Sure, buddy.",
+    "text": "GENIUS IDEA? SURE",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Your brain often saves old info and strips off the label.",
+    "text": "LABEL FELL OFF",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "You retrieve a memory, but it feels like brand new inspiration.",
+    "text": "BORROWED MEMORY",
+    "actor": "think"
+   },
+   {
+    "vo": "Search your saved bookmarks before claiming the credit.",
+    "text": "CHECK SAVED POSTS",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Check your receipts. Tag the real source or bench the idea.",
+    "text": "TAG IT OR BENCH IT",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s194vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Tuong y tuong moi hoa ra vay muon",
+  "title_vi": "Tưởng ý tưởng mới hóa ra vay mượn",
+  "mechanism": "Cryptomnesia",
+  "lines": [
+   {
+    "vo": "Tưởng mình vừa nghĩ ra ý tưởng thuyết trình đỉnh chóp. Ừ, tin.",
+    "text": "TUONG MINH SANG TAO",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Bạn từng lướt thấy trên mạng rồi vô tình làm rơi nhãn gốc.",
+    "text": "ROI MAT NHAN GOC",
+    "actor": "confused_shrug",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Lúc kéo ra dùng, bạn đinh ninh mình là người đầu tiên.",
+    "text": "KY UC NUP BONG",
+    "actor": "think"
+   },
+   {
+    "vo": "Lục lại mục đã lưu trước khi đem ra trình bày.",
+    "text": "KIEM TRA MUC LUU",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Ghi tên tác giả hoặc dẹp luôn ý tưởng. Quyết định ngay.",
+    "text": "DAP HOAC GHI TEN",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s195",
+  "mascot": "pen",
+  "title": "Why Your Memory Crops the Scene",
+  "mechanism": "Boundary extension",
+  "lines": [
+   {
+    "vo": "You swore the photo showed the whole room. It did not.",
+    "text": "DID YOU SEE IT?",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "When you recall an image, your brain widens the frame.",
+    "text": "WIDENING THE FRAME",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "It paints in expected surroundings to make the scene complete.",
+    "text": "PAINTING BORDERS",
+    "actor": "think"
+   },
+   {
+    "vo": "You end up remembering details that were never actually there.",
+    "text": "PHANTOM DETAILS",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Reopen the original screenshot before arguing with someone.",
+    "text": "CHECK ORIGINAL PIC",
+    "color": "green",
+    "actor": "reading",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "The camera catches edges. The mind tends to erase them.",
+    "text": "MIND ERASES EDGES",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s195vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Tri nho tu ve them chi tiet khong co",
+  "title_vi": "Trí nhớ tự vẽ thêm chi tiết không có",
+  "mechanism": "Boundary extension",
+  "lines": [
+   {
+    "vo": "Đinh ninh ảnh có ghi hạn nộp, mở ra thấy trắng trơn.",
+    "text": "ANH KHONG CO HAN",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Não bạn không chỉ nhớ ảnh, nó tự động mở rộng khung hình.",
+    "text": "MO RONG KHUNG HINH",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nó tự vẽ thêm khung cảnh viền xung quanh mà bạn chưa từng thấy.",
+    "text": "VE THEM VIEN ANH",
+    "actor": "think"
+   },
+   {
+    "vo": "Mở lại ảnh gốc kiểm tra trước khi tranh luận trong nhóm lớp.",
+    "text": "MO ANH GOC RA XEM",
+    "color": "green",
+    "actor": "reading",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Bức ảnh có giới hạn, chỉ có trí nhớ là thích tô vẽ thêm.",
+    "text": "TRI NHO HAY TO VE",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s196",
+  "mascot": "buff",
+  "title": "Why a Partial List Can Block Recall",
+  "mechanism": "Part-list cueing effect",
+  "lines": [
+   {
+    "vo": "Someone gives you half a clue, and your brain completely blanks.",
+    "text": "HINT BLOCKS MEMORY",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "You would think partial hints help. Often, they do the opposite.",
+    "text": "THE HINT TRAP",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Those sample items hog attention and jam the rest of your recall.",
+    "text": "HINT BLOCKS REST",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Take a blank sheet before opening the study guide.",
+    "text": "BLANK PAGE FIRST",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Write down every single fact your brain can lift alone.",
+    "text": "LIFT IT ALONE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Test your raw memory first. Check the guide after.",
+    "text": "RECALL THEN CHECK",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s196vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Goi y nua voi chi lam ban nhanh quen",
+  "title_vi": "Gợi ý nửa vời chỉ làm bạn nhanh quên",
+  "mechanism": "Part-list cueing effect",
+  "lines": [
+   {
+    "vo": "Đang ôn thi, vừa ngó mấy từ gợi ý là tịt ngòi phần còn lại.",
+    "text": "NGO GOI Y LA QUEN",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Tưởng xem gợi ý là đỡ tốn sức. Nhầm to.",
+    "text": "GOI Y GAY NGHEM",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Vài từ gợi ý chiếm sóng, chặn đứng toàn bộ ký ức còn lại.",
+    "text": "CHAN DUONG TRI NHO",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Úp tài liệu xuống, lấy tờ giấy trắng ra.",
+    "text": "UP TAI LIEU XUONG",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Tự viết hết những từ bạn nhớ được bằng nội lực.",
+    "text": "TU VIET HET RA",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Tự vắt óc nhớ trước rồi mới dò bài. Lấy giấy làm luôn.",
+    "text": "LAM NGAY TREN GIAY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s197",
+  "mascot": "pen",
+  "title": "The Tip-of-the-Tongue Moment",
+  "mechanism": "Tip-of-the-tongue phenomenon",
+  "lines": [
+   {
+    "vo": "The word is on your lips, yet nothing comes out.",
+    "text": "ON TIP OF TONGUE",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "You feel the syllable count and first letter, yet cannot say it.",
+    "text": "ALMOST THERE",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "The meaning is fully awake, but the sound won't load.",
+    "text": "SOUND WONT LOAD",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Forcing guesses only reinforces the wrong pathways.",
+    "text": "WRONG ROADS STICK",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Step away. Let your background mind untangle the thread.",
+    "text": "LET MIND REST",
+    "color": "green",
+    "actor": "meditating",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Notice how easily it floats up once you stop chasing it?",
+    "text": "IT FLOATS BACK",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s197vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ten o ngay dau luoi ma khong nho ra",
+  "title_vi": "Tên ở ngay đầu lưỡi mà không nhớ ra",
+  "mechanism": "Tip-of-the-tongue phenomenon",
+  "lines": [
+   {
+    "vo": "Tên quán quen ở Sài Gòn nằm ngay đầu lưỡi mà không thốt ra nổi.",
+    "text": "NAM NGAY DAU LUOI",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Bạn nhớ rõ vị trí, không gian, chỉ thiếu mỗi cái tên.",
+    "text": "NHO VI TRI THIEU TEN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Ý niệm thì rõ mồn một, nhưng cách phát âm lại tắc nghẽn.",
+    "text": "AM THANH BI TAC",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Càng vắt óc đoán bừa, não càng đi lạc vào ngõ cụt.",
+    "text": "DOAN BUA DI LAC",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Đổi chủ đề nói chuyện, để tâm trí tự lắng lại.",
+    "text": "DOI CHU DE KHAC",
+    "color": "green",
+    "actor": "meditating",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Có phải cứ buông tay là cái tên lại tự trồi lên không?",
+    "text": "TU NHIEN NHO LAI",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s198",
+  "mascot": "buff",
+  "title": "Remember the Source, Not Just the Claim",
+  "mechanism": "Source monitoring",
+  "lines": [
+   {
+    "vo": "You swore that hot tip was legit. Where's the proof? Gone.",
+    "text": "WHERE IS PROOF?",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Your brain tracks content on one track and source on another.",
+    "text": "TWO SEPARATE TRACKS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Source tags dissolve fast, leaving raw claims looking like truth.",
+    "text": "SOURCE DISAPPEARS",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Pin the direct link into your note before saving.",
+    "text": "PIN LINK FIRST",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "No source link, no credit. Drop the web link beside the note now.",
+    "text": "DROP LINK RIGHT NOW",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s198vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Nho tin tuyen dung nhung quen mat nguon",
+  "title_vi": "Nhớ tin tuyển dụng nhưng quên mất nguồn",
+  "mechanism": "Source monitoring",
+  "lines": [
+   {
+    "vo": "Khoe tin tuyển dụng lương khủng cực hăng, hỏi nguồn ở đâu thì tịt ngòi.",
+    "text": "HOI NGUON LA TIT",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Não lưu nội dung một ngăn, nhưng vứt nhãn nguồn sang ngăn khác.",
+    "text": "NGAN CHUA RIENG RE",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Chụp mỗi cái ảnh màn hình thì vài ngày sau là vô giá trị.",
+    "text": "ANH CHUP MAT NGUON",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Chụp xong, đính kèm luôn đường dẫn bài viết vào ghi chú.",
+    "text": "DINH KEM DUONG DAN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Không có nguồn thì đừng khoe. Dán đường dẫn vào ghi chú ngay.",
+    "text": "DAN NGUON VAO NGAY",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s199",
+  "mascot": "pen",
+  "title": "Why Details Blur Together",
+  "mechanism": "Memory conformity",
+  "lines": [
+   {
+    "vo": "You were sure about what happened, until someone told their story.",
+    "text": "WHOSE MEMORY IS IT",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Hearing a confident version can quietly overwrite your own.",
+    "text": "QUIET OVERWRITE",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Our memory often yields when the group sounds certain.",
+    "text": "YIELDING TO GROUP",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Foreign details slip into your personal recollection unnoticed.",
+    "text": "FOREIGN PIECES SLIP",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Record a thirty-second voice memo immediately after an event.",
+    "text": "VOICE MEMO FIRST",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Lock your own view before opening the group chat.",
+    "text": "LOCK YOUR VIEW",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Your first impression deserves its own quiet record.",
+    "text": "HOLD YOUR RECORD",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s199vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "De nho sai khi nghe nguoi khac ke lai",
+  "title_vi": "Dễ nhớ sai khi nghe người khác kể lại",
+  "mechanism": "Memory conformity",
+  "lines": [
+   {
+    "vo": "Vừa họp xong, đọc chat nhóm là thấy mình nhớ sai bét.",
+    "text": "NGO MINH NHO SAI",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Nghe người khác khẳng định chắc nịch, não bạn tự động lung lay.",
+    "text": "DE DANG LUNG LAY",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Tâm trí thích chiều theo số đông hơn là bảo vệ ký ức.",
+    "text": "HOA THEO SO DONG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Chi tiết của người khác dễ lấn át ký ức của bạn.",
+    "text": "KY UC BI LAN AT",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Ghi âm ba mươi giây điều bạn nhớ ngay sau cuộc họp.",
+    "text": "GHI AM BA MUOI GIAY",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Khóa chặt góc nhìn của mình trước khi đọc lại bình luận.",
+    "text": "KHOA GOC NHIN TRUOC",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Ký ức của bạn xứng đáng có một chỗ đứng độc lập.",
+    "text": "GIU TRON KY UC",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s200",
+  "mascot": "buff",
+  "title": "Remember the Three Things You Need",
+  "mechanism": "Method of loci",
+  "lines": [
+   {
+    "vo": "Repeating three chores in your head is a rookie mistake.",
+    "text": "STOP REPEATING",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Waste of reps. Words slide right off.",
+    "text": "WORDS SLIDE OFF",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Your spatial navigation system is built like an iron vault.",
+    "text": "SPATIAL VAULT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Use a route you walk every day.",
+    "text": "PICK A ROUTE",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Place task one on your shoe rack.",
+    "text": "ITEM ON SHOE RACK",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Drop task two on the door handle.",
+    "text": "ITEM ON DOOR HANDLE",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Hang task three right on the lock.",
+    "text": "ITEM ON THE LOCK",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "target"
+   },
+   {
+    "vo": "Walk the path in your head. Three stops, zero blanks. Done.",
+    "text": "ZERO BLANKS DONE",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s200vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Gan viec vao goc phong de nho lau",
+  "title_vi": "Gắn việc vào góc phòng để nhớ lâu",
+  "mechanism": "Method of loci",
+  "lines": [
+   {
+    "vo": "Cứ lẩm nhẩm ba món đồ trong miệng thì bước ra ngõ là quên.",
+    "text": "LAM NHAM VAN QUEN",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Não không giỏi nhớ từ suông, nhưng nhớ bản đồ cực đỉnh.",
+    "text": "NHO BAN DO CUC DINH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hãy tận dụng lối đi quen thuộc trong phòng trọ.",
+    "text": "LOI DI PHONG TRO",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Món thứ nhất, tưởng tượng treo ngay kệ giày dép.",
+    "text": "MON MOT O KE GIAY",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Món thứ hai, gắn lên ổ khóa cửa chính.",
+    "text": "MON HAI O KHOA CUA",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Món thứ ba, vứt lên yên xe máy.",
+    "text": "MON BA TREN YEN XE",
+    "color": "green",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Đi một vòng trong đầu là xong ba điểm. Khởi động ngay.",
+    "text": "CHOT BA DIEM DUNG",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "checkbox_tick"
+   }
+  ]
+ }
+]

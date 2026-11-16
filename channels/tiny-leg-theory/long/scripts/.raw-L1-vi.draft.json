@@ -1,0 +1,860 @@
+{
+  "id": "L1vi",
+  "lang": "vi",
+  "title": "Vì sao bạn cứ trì hoãn và cách bắt đầu",
+  "description": "Trì hoãn thường bắt đầu từ cảm giác khi làm một việc, chứ không phải do lười. Pen và Buff cùng bóc tách chín lý do quen thuộc khiến ta để việc lại, rồi tìm một bước nhỏ để bắt đầu.",
+  "chapters": [
+    {
+      "title": "intro",
+      "sources": [
+        "s01",
+        "s02",
+        "s13"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Bạn ngồi xuống định trả lời một tin nhắn, rồi lại dọn màn hình điện thoại.",
+          "text": "TIN NHẮN ĐỂ SAU",
+          "color": "red",
+          "actor": "typing_focused",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Rồi bạn tự chê mình lười. Nghe có vẻ giải thích được nhiều ghê.",
+          "text": "ĐỔ LỖI THÌ DỄ",
+          "color": "ink",
+          "actor": "arms_crossed_no"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Việc vẫn còn đó, giờ mình còn thấy áy náy vì đã né nó.",
+          "text": "ÁY NÁY KÉO ĐẾN",
+          "color": "red",
+          "actor": "worried_heart"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Hôm nay mình gỡ chín lý do trì hoãn, rồi tìm cách bắt đầu.",
+          "text": "CHÍN CÁCH BẮT ĐẦU",
+          "color": "gold",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Không cần biến thành người khác. Chỉ cần đổi vài điều nhỏ mỗi ngày.",
+          "text": "ĐỔI NHỎ MỖI NGÀY",
+          "color": "green",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đầu tiên, xem bạn đang né cảm giác nào.",
+          "text": "NHÌN VÀO CẢM GIÁC",
+          "color": "ink",
+          "actor": "think"
+        }
+      ]
+    },
+    {
+      "title": "Cảm giác phía sau sự trì hoãn",
+      "sources": [
+        "s01",
+        "s03"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình cần điền đơn, mà cứ kiếm việc khác làm trước.",
+          "text": "2. CẢM GIÁC",
+          "color": "ink",
+          "actor": "confused_shrug",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Chỉ vài ô thôi, nhưng có một ô bắt mình quyết định hơi khó.",
+          "text": "MỘT PHẦN THẬT NẶNG",
+          "color": "red",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Một phần khó chịu làm cả việc trông to hơn. Thế là ngại làm.",
+          "text": "NGẠI MỘT PHẦN",
+          "color": "gold",
+          "actor": "arms_crossed_no",
+          "prop": "brain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Trì hoãn giúp dịu tâm trạng chốc lát. Đổi sang việc khác là thấy nhẹ ngay.",
+          "text": "DỊU ĐI CHÚT CHÚT",
+          "color": "gold",
+          "actor": "phone_grin"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình thấy nhẹ thật, nhưng lá đơn vẫn mở trong đầu.",
+          "text": "NHẸ ĐÂU XONG VIỆC",
+          "color": "red",
+          "actor": "sofa_scroll",
+          "prop": "hourglass"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Cảm giác ngay lúc này thường át mất điều quan trọng về sau.",
+          "text": "BÂY GIỜ LẤN ÁT",
+          "color": "ink",
+          "actor": "think"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình thử hỏi: chính xác là phần nào mình đang muốn né?",
+          "text": "GỌI TÊN PHẦN KHÓ",
+          "color": "ink",
+          "actor": "confused_shrug"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Ừ. Viết rõ phần khó chịu, như chọn ngày hay trả lời thật lòng.",
+          "text": "NÓI CHO CỤ THỂ",
+          "color": "green",
+          "actor": "writing",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Rồi mình làm phần đó trước, hoặc thu nhỏ bước đầu của nó.",
+          "text": "LÀM MỘT PHẦN NHỎ",
+          "color": "green",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Không cần thích việc đó. Chỉ cần bước kế tiếp vừa sức.",
+          "text": "VỪA SỨC LÀ ĐƯỢC",
+          "color": "gold",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nhưng nếu cả bước đầu cũng nặng quá thì sao?",
+          "text": "HẠ THẤP BƯỚC ĐẦU",
+          "color": "ink",
+          "actor": "worried_heart"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Thì thôi tính cả buổi tập. Mình khởi động trước đã.",
+          "text": "KHỞI ĐỘNG TRƯỚC",
+          "color": "gold",
+          "actor": "dumbbell"
+        }
+      ]
+    },
+    {
+      "title": "Hiệp đầu tiên thường khó nhất",
+      "sources": [
+        "s02",
+        "s13",
+        "s62"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Nghĩ tới cả bài báo cáo, mình thấy sẽ mất hàng giờ mà chưa biết bắt đầu đâu.",
+          "text": "3. HIỆP ĐẦU TIÊN",
+          "color": "ink",
+          "actor": "future_tired",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đó là cảm giác về công sức. Chưa chạm tạ đã thấy cả hiệp nặng rồi.",
+          "text": "CẢ HIỆP TRÔNG NẶNG",
+          "color": "red",
+          "actor": "arms_crossed_no"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Khởi động hai phút thôi. Mở tài liệu, đặt tên, viết một câu nháp.",
+          "text": "CHỈ HAI PHÚT",
+          "color": "green",
+          "actor": "typing_focused",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Hai phút nhỏ tới mức mình không cần hứa sẽ ngồi cả tối.",
+          "text": "LỜI HỨA NHỎ THÔI",
+          "color": "green",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Chuẩn. Bắt đầu là rút ngắn khoảng cách từ nghĩ tới làm.",
+          "text": "BẮT ĐẦU LÀ GẦN HƠN",
+          "color": "gold",
+          "actor": "sprint_start"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình cứ chờ có hứng, như thể phải có hứng mới làm được.",
+          "text": "CHỜ CÓ HỨNG",
+          "color": "red",
+          "actor": "sofa_scroll"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Nhiều khi làm một chút rồi mới có hứng. Hứng đâu phải lúc nào cũng dẫn đầu.",
+          "text": "LÀM TRƯỚC CŨNG ĐƯỢC",
+          "color": "gold",
+          "actor": "jogging"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nếu làm hai phút rồi dừng, vẫn tính là đã bắt đầu chứ?",
+          "text": "BẮT ĐẦU VẪN TÍNH",
+          "color": "ink",
+          "actor": "confused_shrug"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Bạn đã có mặt rồi. Ngày kín lịch thì mức sàn là một câu, chưa cần cả bài.",
+          "text": "ĐẶT MỨC SÀN NHỎ",
+          "color": "green",
+          "actor": "small_step",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình chọn bản thật nhỏ ngay giờ, trước khi đầu óc mặc cả cả việc.",
+          "text": "CHỌN HIỆP ĐẦU",
+          "color": "green",
+          "actor": "writing"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Hứa vừa sức để còn lặp lại. Khởi động cũng là một hiệp thật.",
+          "text": "LẶP LẠI ĐƯỢC",
+          "color": "gold",
+          "actor": "celebrate"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nhưng có lúc mình chỉ làm khi hạn chót dí sát bên.",
+          "text": "ÁP LỰC MỚI ĐẨY MÌNH",
+          "color": "ink",
+          "actor": "nervous_wave"
+        }
+      ]
+    },
+    {
+      "title": "Hạn chót làm tương lai rõ hơn",
+      "sources": [
+        "s04"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Còn ba tuần mới thuyết trình, nên hôm nay mình thấy cứ để sau cũng được.",
+          "text": "4. PHẦN THƯỞNG XA",
+          "color": "ink",
+          "actor": "calendar_today",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Phần thưởng ở xa thường kém cấp bách hơn thứ đang ở ngay trước mắt.",
+          "text": "XA THÌ BỚT GẤP",
+          "color": "gold",
+          "actor": "think",
+          "prop": "hourglass"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Làm xong sau này có ích, nhưng điện thoại trước mặt hấp dẫn hơn.",
+          "text": "SAU NÀY CÒN XA",
+          "color": "red",
+          "actor": "phone_grin"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Hạn chót đẩy bạn làm vì hậu quả bỗng hiện ra ngay trước mắt.",
+          "text": "CÀNG GẦN CÀNG RÕ",
+          "color": "gold",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Vậy là hiểu màn chạy nước rút phút chót. Nhưng mình không muốn chỉ nhờ hoảng.",
+          "text": "HOẢNG KHÔNG PHẢI KẾ HOẠCH",
+          "color": "red",
+          "actor": "panic"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đặt mốc ngày mai: chọn dàn ý và ghi tên ba phần.",
+          "text": "MỐC NGÀY MAI",
+          "color": "green",
+          "actor": "writing",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Giờ mình có vạch đích gần hơn, trước khi hạn cuối tới.",
+          "text": "VẠCH ĐÍCH GẦN HƠN",
+          "color": "green",
+          "actor": "target",
+          "prop": "target"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Ghi mốc đó vào lịch. Cho ngày mai một thời điểm và một việc nhỏ.",
+          "text": "GHI VÀO LỊCH",
+          "color": "green",
+          "actor": "typing_focused",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Một mốc nhỏ có vẻ dễ chịu hơn dồn hết vào màn nước rút cuối.",
+          "text": "BỚT NƯỚC RÚT",
+          "color": "gold",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Coi áp lực là tín hiệu để lên lịch, đừng để nó là động lực duy nhất.",
+          "text": "LÊN LỊCH TRƯỚC",
+          "color": "ink",
+          "actor": "think"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình còn hay chần chừ vì sợ bản đầu tiên chưa đủ tốt.",
+          "text": "NHỠ LÀM DỞ THÌ SAO",
+          "color": "ink",
+          "actor": "worried_heart"
+        }
+      ]
+    },
+    {
+      "title": "Trang giấy trắng có vẻ an toàn hơn",
+      "sources": [
+        "s05"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình sửa câu đầu mãi vì muốn nó nghe thật chỉn chu ngay.",
+          "text": "5. BẢN NHÁP HOÀN HẢO",
+          "color": "ink",
+          "actor": "typing_focused",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Cầu toàn biến nỗi sợ làm chưa tốt thành cái cớ để trì hoãn.",
+          "text": "CẦU TOÀN LÀM CHẬM",
+          "color": "gold",
+          "actor": "arms_crossed_no"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Trang giấy trắng chưa bị chê, nên không bắt đầu lại thấy an toàn lạ.",
+          "text": "TRANG TRẮNG AN TOÀN",
+          "color": "red",
+          "actor": "worried_heart"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Nhưng trang trắng chẳng có gì để sửa. Bạn tập cùng trang giấy à?",
+          "text": "CHẲNG CÓ GÌ ĐỂ SỬA",
+          "color": "ink",
+          "actor": "arms_crossed_no"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình có thể cố tình viết nháp thật thô, chưa cần coi là bản cuối.",
+          "text": "CỐ TÌNH VIẾT THÔ",
+          "color": "green",
+          "actor": "writing"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Giao việc cho bản nháp: ghi ý chính xuống, câu chữ vụng cũng được.",
+          "text": "GHI Ý CHÍNH XUỐNG",
+          "color": "green",
+          "actor": "typing_focused",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Rồi mình quay lại sửa khi đã có thứ cụ thể để làm tiếp.",
+          "text": "SỬA THỨ ĐÃ CÓ",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Làm lượt đầu ngắn thôi. Đừng tô chữ, chọn phông, hay bày thêm hiệp.",
+          "text": "LƯỢT ĐẦU ĐỪNG SỬA",
+          "color": "green",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình tách việc làm ra khỏi việc đánh giá nó có tốt không.",
+          "text": "LÀM TRƯỚC, XEM SAU",
+          "color": "gold",
+          "actor": "writing"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Hôm nay viết bản nháp thô. Sửa là hiệp kế, đâu cần xin phép mới làm.",
+          "text": "NHÁP LÀ BƯỚC ĐẦU",
+          "color": "green",
+          "actor": "celebrate"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình cũng thấy sự chú ý trôi đi khi chưa biết tiếp theo phải làm gì.",
+          "text": "KHI TÂM TRÍ TRÔI",
+          "color": "ink",
+          "actor": "confused_shrug"
+        }
+      ]
+    },
+    {
+      "title": "Cho sự chú ý một việc rõ ràng",
+      "sources": [
+        "s31"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình mở bài nhóm, rồi xem tin nhắn, lịch học, cả ngăn đồ ăn vặt.",
+          "text": "6. SỰ CHÚ Ý TRÔI",
+          "color": "ink",
+          "actor": "sofa_scroll",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Giữ mắt vào việc còn mơ hồ rất tốn sức. Mấy việc dễ cứ vẫy tay bên lề.",
+          "text": "VIỆC DỄ VẪY TAY",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Bài nhóm ghi tìm tài liệu, nhưng có cả trăm thứ có thể làm.",
+          "text": "MƠ HỒ KHÓ TẬP TRUNG",
+          "color": "red",
+          "actor": "confused_shrug",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đích mơ hồ làm bạn khó hướng sự chú ý. Cho đầu óc một tín hiệu rõ.",
+          "text": "CHO MẮT MỘT TÍN HIỆU",
+          "color": "gold",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình ghi bước tiếp theo: tìm ghi chú mới nhất của nhóm.",
+          "text": "GHI BƯỚC KẾ TIẾP",
+          "color": "green",
+          "actor": "writing",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Để dòng đó cạnh màn hình. Lỡ trôi đi thì quay về đọc lại.",
+          "text": "CÓ DÒNG ĐỂ QUAY VỀ",
+          "color": "green",
+          "actor": "typing_focused"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Vậy mình không cần mắng mình hay lập lại cả kế hoạch mỗi lần?",
+          "text": "QUAY VỀ, ĐỪNG MẮNG",
+          "color": "ink",
+          "actor": "confused_shrug"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đúng. Nhận ra mình trôi, đọc tín hiệu, làm bước nhỏ. Thế là xong hiệp.",
+          "text": "NHẬN RA. QUAY VỀ. LÀM.",
+          "color": "green",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Trước khi làm, mình cũng có thể dẹp bớt thứ gây xao nhãng.",
+          "text": "DỄ TẬP TRUNG HƠN",
+          "color": "ink",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Để điện thoại ngoài tầm với, mở sẵn ghi chú. Sắp chỗ ngồi cho hợp việc.",
+          "text": "SẮP LẠI GÓC LÀM",
+          "color": "green",
+          "actor": "arms_crossed_no",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nhưng biết rõ việc rồi, mình vẫn khó bắt đầu nếu đồ cần dùng đang giấu đâu đó.",
+          "text": "DẸP BỚT VƯỚNG VÍU",
+          "color": "ink",
+          "actor": "think"
+        }
+      ]
+    },
+    {
+      "title": "Sắp sẵn bước đầu tiên",
+      "sources": [
+        "s14",
+        "s36"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình ngồi xuống làm, rồi mất mười phút tìm đúng tài liệu.",
+          "text": "7. SẴN SÀNG BƯỚC ĐẦU",
+          "color": "ink",
+          "actor": "typing_focused",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Cách sắp xếp cũng âm thầm đẩy bạn làm theo một hướng.",
+          "text": "SẮP XẾP TẠO ĐÀ",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Tài liệu bị chôn sâu, điện thoại lại sáng. Thế là mình chọn việc dễ.",
+          "text": "VIỆC DỄ THẮNG TRƯỚC",
+          "color": "red",
+          "actor": "phone_grin",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đừng biến chuyện này thành buổi thi ý chí. Cất điện thoại, mở đúng tệp từ tối nay.",
+          "text": "SẮP TẠ ĐI",
+          "color": "green",
+          "actor": "typing_focused",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình có thể mở sẵn trang, ghi chú và công cụ cần dùng.",
+          "text": "ĐỂ SẴN ĐỒ CẦN DÙNG",
+          "color": "green",
+          "actor": "writing",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Để việc có ích thật dễ thấy, còn đường vòng phải thêm vài bước.",
+          "text": "LÀM BƯỚC KẾ TIẾP DỄ",
+          "color": "gold",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Ngày mai mình có thể bắt tay làm ngay, khỏi tìm rồi mới chọn.",
+          "text": "MAI ĐỠ MẤT CÔNG TÌM",
+          "color": "green",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Như lắp tạ trước hiệp. Bước đầu đã nằm chờ sẵn.",
+          "text": "LẮP TẠ TỪ TRƯỚC",
+          "color": "gold",
+          "actor": "dumbbell"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình cũng muốn biết làm tới đâu thì được tính là xong.",
+          "text": "BIẾT KHI NÀO XONG",
+          "color": "ink",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Sắp xếp tốt sẽ dẫn tới vạch đích rõ. Mình chọn một cái nhé.",
+          "text": "CHỌN VẠCH ĐÍCH",
+          "color": "gold",
+          "actor": "target",
+          "prop": "target"
+        }
+      ]
+    },
+    {
+      "title": "Định nghĩa thế nào là xong",
+      "sources": [
+        "s34"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Kế hoạch ghi làm bài thuyết trình, nhưng mình chẳng biết tiến triển tính sao.",
+          "text": "8. ĐỊNH NGHĨA XONG",
+          "color": "ink",
+          "actor": "confused_shrug",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Mục tiêu mơ hồ thì dễ trôi. Không có đích, hiệp dài vô tận hoặc hết lúc nào không hay.",
+          "text": "MỤC TIÊU MƠ HỒ",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình cứ đổi qua lại giữa trang chiếu, tìm tài liệu, chọn màu mà chẳng xong phần nào.",
+          "text": "BẬN KHÔNG CÓ NGHĨA XONG",
+          "color": "red",
+          "actor": "typing_focused"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đặt mục tiêu tốt hơn khi nó gọi tên kết quả nhìn thấy được.",
+          "text": "GỌI TÊN KẾT QUẢ",
+          "color": "gold",
+          "actor": "target",
+          "prop": "target"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Buổi này, mình có thể xong trang mở đầu nháp và tên ba mục.",
+          "text": "MỘT BUỔI, MỘT KẾT QUẢ",
+          "color": "green",
+          "actor": "writing"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Tốt. Ghi xuống đi. Nó tạo ranh giới cho công sức và tín hiệu cho đầu óc.",
+          "text": "GHI VẠCH ĐÍCH RA",
+          "color": "green",
+          "actor": "writing",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Có kết quả đó rồi thì mình dừng, khỏi đoán cảm giác làm đủ là sao.",
+          "text": "CÓ RỒI THÌ DỪNG",
+          "color": "gold",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Cụ thể tốt hơn anh hùng. Chọn việc vừa thời gian và sức hôm nay.",
+          "text": "VỪA VỚI NGÀY HÔM NAY",
+          "color": "ink",
+          "actor": "think"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nếu việc vẫn lởn vởn sau khi nghỉ, mình có thể đặt nó xuống đâu đó không?",
+          "text": "ĐỂ VIỆC NGHỈ MỘT CHÚT",
+          "color": "ink",
+          "actor": "worried_heart"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Được. Ghi bước kế và giờ làm ra, để đầu óc tạm đóng ngăn đó.",
+          "text": "GHI RA RỒI ĐÓNG LẠI",
+          "color": "green",
+          "actor": "writing",
+          "prop": "checkbox_tick"
+        }
+      ]
+    },
+    {
+      "title": "Đóng ngăn việc trong đầu",
+      "sources": [
+        "s33",
+        "s35"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình gửi tin cho sếp rồi lại mở mục đã gửi vì chưa chắc đã đúng.",
+          "text": "9. ĐÓNG NGĂN LẠI",
+          "color": "ink",
+          "actor": "typing_focused",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Kiểm tra lại giúp dịu lo một chút, rồi nghi ngờ quay về đòi xem nữa.",
+          "text": "NHẸ ĐI RỒI LẠI LO",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Tin nhắn chưa trả lời cũng cứ gõ vào đầu mình lúc đang ăn tối.",
+          "text": "VIỆC ĐI THEO MÌNH",
+          "color": "red",
+          "actor": "sofa_scroll",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Việc chưa xong hay đọng lại trong đầu. Có kế hoạch rõ thì dễ gác nó sang bên.",
+          "text": "VIỆC DỞ CỨ LỞN VỞN",
+          "color": "gold",
+          "actor": "think",
+          "prop": "brain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Trước khi kiểm, mình có thể hứa đọc kỹ một lần rồi thôi.",
+          "text": "XEM KỸ MỘT LẦN",
+          "color": "green",
+          "actor": "reading"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Với tin nhắn, ghi bước tiếp theo và lúc làm. Đưa nó ra khỏi đầu đi.",
+          "text": "BƯỚC KẾ, HẸN GIỜ",
+          "color": "green",
+          "actor": "writing",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Tối nay chưa cần làm xong, mình vẫn biết mai sẽ tiếp tục từ đâu.",
+          "text": "CỨ ĐỂ KẾ HOẠCH ĐÓ",
+          "color": "gold",
+          "actor": "sleeping",
+          "prop": "moon_stars"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đúng. Kế hoạch như kẹp đánh dấu. Khỏi phải ôm cả cuốn sách đi khắp nơi.",
+          "text": "ĐÁNH DẤU RỒI ĐỂ ĐÓ",
+          "color": "ink",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Có người biết mình đã hứa làm gì, mình thấy bắt đầu dễ hơn.",
+          "text": "CÓ NGƯỜI NHẮC",
+          "color": "ink",
+          "actor": "nervous_wave"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Vậy mình làm lời hứa cụ thể, nhỏ vừa sức trong tuần thật.",
+          "text": "HỨA CHO RÕ RÀNG",
+          "color": "gold",
+          "actor": "point_viewer"
+        }
+      ]
+    },
+    {
+      "title": "Một người nhắc và bảy ngày bắt đầu",
+      "sources": [
+        "s32",
+        "s02",
+        "s13",
+        "s14",
+        "s34",
+        "s35",
+        "s62"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình tự hứa thứ hai bắt đầu, nhưng chẳng ai biết bắt đầu cái gì.",
+          "text": "10. LÀM CHO THẬT",
+          "color": "ink",
+          "actor": "confused_shrug"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Nói với một người bạn sẽ xong việc gì, lúc nào. Nhờ bạn hỏi đúng hôm đó.",
+          "text": "MỘT NGƯỜI, MỘT LẦN HỎI",
+          "color": "green",
+          "actor": "phone_grin",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình không cần khán giả. Chỉ cần lời hứa rõ để người ta hiểu.",
+          "text": "HỨA CHO RÕ RÀNG",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Tóm lại nhé. Gọi tên cảm giác, thu nhỏ hiệp đầu tới mức vừa sức.",
+          "text": "GỌI TÊN. THU NHỎ.",
+          "color": "gold",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Tiếp theo, sắp chỗ làm và sự chú ý, rồi định nghĩa kết quả cần xong.",
+          "text": "SẮP CHỖ. CHỐT ĐÍCH.",
+          "color": "gold",
+          "actor": "writing",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Cuối cùng, đặt mốc gần, ghi bước tới, nhờ một người hỏi thăm.",
+          "text": "LÊN LỊCH. GHI. CHIA SẺ.",
+          "color": "gold",
+          "actor": "point_viewer",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Trong bảy ngày, mỗi ngày chọn một việc, ghi bước đầu nhỏ nhất có ích.",
+          "text": "BẢY NGÀY, MỘT BƯỚC",
+          "color": "green",
+          "actor": "writing",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Làm bước đó đi, dù chỉ khởi động. Đánh dấu lại, giữ mức sàn thấp.",
+          "text": "LÀM HIỆP NHỎ ĐI",
+          "color": "green",
+          "actor": "small_step",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Cuối tuần, để ý cách sắp xếp nào giúp mình bắt đầu nhẹ hơn.",
+          "text": "ĐỂ Ý ĐIỀU CÓ ÍCH",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Lý Thuyết Chân Que có thêm tâm lý học dễ hiểu, dễ áp dụng. Hợp thì đăng ký nhé.",
+          "text": "THÊM LÝ THUYẾT CHÂN QUE",
+          "color": "green",
+          "actor": "point_viewer"
+        }
+      ]
+    }
+  ]
+}

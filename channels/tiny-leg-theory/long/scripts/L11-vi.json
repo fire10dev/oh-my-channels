@@ -1,0 +1,796 @@
+{
+ "id": "L11vi",
+ "lang": "vi",
+ "title": "Đề xuất tăng lương sao cho tự tin và thuyết phục?",
+ "description": "Đề xuất tăng lương dễ khiến bạn run rẩy nếu coi đó là cuộc đối đầu cảm xúc. Khám phá tám cú xoay tâm lý từ hiệu ứng điểm neo đến bẫy hiện trạng để đàm phán rành mạch và tự tin.",
+ "chapters": [
+  {
+   "title": "Buổi bàn chuyện lương",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi lẩm nhẩm kịch bản suốt cả tuần, nhưng đứng trước cửa phòng sếp thì tay vẫn toát mồ hôi.",
+     "text": "BUỔI BÀN CHUYỆN LƯƠNG",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đang bàn việc sòng phẳng mà Pen làm như chuẩn bị lên võ đài vậy.",
+     "text": "KHÔNG PHẢI VÕ ĐÀI",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như tôi đang đi xin xỏ một ân huệ, thay vì trao đổi giá trị công việc.",
+     "text": "NHƯ ĐI XIN XỎ",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lệch góc nhìn rồi Pen. Đi tập tạ ai lại đi xin xỏ cục tạ thuộc về mình bao giờ.",
+     "text": "LỆCH GÓC NHÌN",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để đề xuất tăng lương xứng đáng mà không bị run hay phòng thủ?",
+     "text": "NÓI SAO CHO ĐÚNG?",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tám cú xoay tâm lý sẽ biến nỗi sợ thành lợi thế. Khởi động vào bài thôi.",
+     "text": "TÁM CÚ XOAY TÂM LÝ",
+     "color": "green",
+     "actor": "front",
+     "prop": "brain"
+    }
+   ]
+  },
+  {
+   "title": "1. Điểm neo",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vào phòng rồi, tôi chỉ biết ngồi im và mong sếp sẽ là người mở lời ra giá trước.",
+     "text": "1. ĐIỂM NEO",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là Pen vừa buông tạ khi chưa đẩy xong hiệp đầu rồi.",
+     "text": "ĐỪNG CHỜ ĐỢI",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người nào nói ra con số đầu tiên thì có gì khác biệt sao Buff?",
+     "text": "AI NÓI TRƯỚC?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là hiệu ứng điểm neo. Con số xuất hiện trước sẽ hút toàn bộ cuộc bàn luận về nó.",
+     "text": "HIỆU ỨNG ĐIỂM NEO",
+     "color": "gold",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là nếu sếp đưa ra mức thấp trước, đầu tôi sẽ bị kẹt quanh con số đó?",
+     "text": "BỊ KẸT MỨC THẤP",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Não bộ bám chặt vào mốc đầu tiên như quả tạ nặng, dù nó vô lý.",
+     "text": "QUẢ TẠ NẶNG TRỊCH",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng nếu tôi tự đưa ra một con số quá cao, liệu có bị coi là đòi hỏi không?",
+     "text": "SỢ BỊ COI THAM LAM",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế nên phải tung một khoảng lương. Lấy mức mong muốn làm mức sàn luôn.",
+     "text": "DÙNG MỘT KHOẢNG",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là đặt mức tôi muốn làm mức sàn, rồi đẩy mức trần nhỉnh hơn một chút?",
+     "text": "MỤC TIÊU LÀM SÀN",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Cách này vừa lịch sự, vừa cắm cọc mục tiêu chắc nịch trước hiệp tiếp theo.",
+     "text": "CẮM CỌC MỤC TIÊU",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "2. Điểm tham chiếu",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sếp bảo tăng vài phần trăm là quy định chung, tự nhiên tôi thấy mình như phải hàm ơn.",
+     "text": "2. ĐIỂM THAM CHIẾU",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người ta vừa chỉnh lại thước đo của Pen đấy. Đúng chất bẫy điểm tham chiếu.",
+     "text": "CHỈNH LẠI THƯỚC ĐO",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao mức tăng nhỏ giọt đó lại làm tôi thấy biết ơn, dù tiền trọ với vật giá tăng vọt?",
+     "text": "CÓ PHẢI MÓN QUÀ?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não hay bám vào mốc gần nhất thay vì thực tế. Họ vừa đổi mốc sàn của Pen đấy.",
+     "text": "MỐC GẦN NHẤT",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là mốc của tôi bị đóng đinh theo quy định tăng lương định kỳ cuối năm?",
+     "text": "QUY ĐỊNH CÔNG TY",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn đét. Chấp nhận cái mốc dựng sẵn đó là Pen đang đấu trên sân nhà của họ rồi.",
+     "text": "SÂN NHÀ CỦA HỌ",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao dời mốc so sánh mà không mang tiếng là đòi hỏi hay vô ơn với chỗ làm?",
+     "text": "DỜI MỐC SO SÁNH",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuyển điểm tham chiếu từ mức lương cũ sang giá trị thị trường của việc Pen đang gánh.",
+     "text": "GIÁ TRỊ THỊ TRƯỜNG",
+     "color": "green",
+     "actor": "front",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bằng cách so khối lượng công việc hiện tại với chi phí tuyển người mới về thay thế à?",
+     "text": "CHI PHÍ THAY THẾ",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế. Tăng mức tạ thực tế lên, khỏi bị vướng vào thang đo tùy tiện của công ty.",
+     "text": "TĂNG MỨC TẠ THỰC TẾ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "3. Bẫy đồng nghiệp",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vô tình biết lương đồng nghiệp mới vào nửa năm lại cao hơn hẳn tôi.",
+     "text": "3. BẪY ĐỒNG NGHIỆP",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là máu nóng dồn lên não. Bẫy so sánh xã hội vừa nhập cuộc rồi đấy.",
+     "text": "MÁU NÓNG BỐC LÊN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cay chứ, vì việc như nhau, nhưng lôi tên đồng nghiệp ra nói với sếp thấy kỳ lắm.",
+     "text": "LÔI TÊN THẤY KỲ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kỳ là đúng. Não thích so bì vị thế, nhưng lôi người khác vào là tự bẻ gãy đòn bẩy.",
+     "text": "TỰ BẺ GÃY ĐÒN BẨY",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao nhắc tên người ta lại làm hỏng buổi nói chuyện khi khoảng chênh lệch là có thật?",
+     "text": "SAO LẠI HỎNG VIỆC?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì nó biến chuyện năng lực thành buôn dưa lê và màn kịch tị nạnh nơi công sở.",
+     "text": "KỊCH TỊ NẠNH CÔNG SỞ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy tôi dùng thông tin đó thế nào mà không đẩy đồng nghiệp vào thế khó?",
+     "text": "BẢO VỆ ĐỒNG NGHIỆP",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lấy con số đó làm mức sàn, rồi đối chiếu với mặt bằng chung toàn ngành.",
+     "text": "MẶT BẰNG THỊ TRƯỜNG",
+     "color": "green",
+     "actor": "front",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là dẫn chứng số liệu của ngành thay vì chỉ tay sang bàn làm việc bên cạnh?",
+     "text": "DẪN CHỨNG NGÀNH",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn động tác. Không dính thị phi, giờ là lúc sửa lại cách vào đề cho chuẩn.",
+     "text": "CHUẨN ĐỘNG TÁC",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "4. Đóng khung vấn đề",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi kể khổ chuyện bão giá làm tiền trọ tăng vọt, sếp chỉ gật gù an ủi cho qua.",
+     "text": "4. ĐÓNG KHUNG VẤN ĐỀ",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tất nhiên rồi. Pen đang đóng khung nó thành gánh nặng cá nhân thay vì khoản đầu tư.",
+     "text": "GÁNH NẶNG CÁ NHÂN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nêu hoàn cảnh sống thực tế không phải là lý do chân thật để xin tăng lương sao?",
+     "text": "LÝ DO CHÂN THẬT?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não phản ứng theo cách đóng khung. Công ty sợ thâm hụt, chứ tiền trọ của Pen họ không bận tâm.",
+     "text": "CÁCH ĐÓNG KHUNG",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kể lể chi phí cá nhân chỉ làm sếp thấy như gánh nặng ngân sách bị đội lên?",
+     "text": "GÁNH NẶNG NGÂN SÁCH",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế. Cách đóng khung quyết định việc người ta đón nhận cơ hội hay né tránh mất mát.",
+     "text": "CƠ HỘI HAY MẤT MÁT",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Phải nói thế nào để sếp thấy tăng lương cho tôi là một khoản đầu tư khôn ngoan?",
+     "text": "ĐẦU TƯ KHÔN NGOAN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gắn nó với giá trị tương lai. Cho thấy Pen đang giữ chân khách hàng và đem về doanh thu.",
+     "text": "GIÁ TRỊ TƯƠNG LAI",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biến mức lương thành khoản đầu tư cần thiết để giữ vững các dự án then chốt à?",
+     "text": "GIỮ DỰ ÁN THEN CHỐT",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Chứng minh phong độ đỉnh cao để chuẩn bị kích hoạt tâm lý đáp lễ.",
+     "text": "PHONG ĐỘ ĐỈNH CAO",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "5. Tâm lý đáp lễ",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi đợi đến kỳ đánh giá giữa năm lúc việc đang chững, sếp gạt phắt đi luôn.",
+     "text": "5. TÂM LÝ ĐÁP LỄ",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn sai điểm rơi là mất đòn bẩy. Đề xuất ngay sau khi lập công mới kích hoạt tâm lý đáp lễ.",
+     "text": "TÂM LÝ ĐÁP LỄ",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có phải mọi đóng góp trong công việc đều ngầm kèm theo một tờ hóa đơn vô hình?",
+     "text": "HÓA ĐƠN VÔ HÌNH?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý con người luôn muốn trả nợ ân nghĩa. Nhận được lợi ích sẽ tạo áp lực phải đền đáp.",
+     "text": "ÁP LỰC ĐỀN ĐÁP",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mở lời lúc dự án đình trệ hay khi vừa làm hỏng việc sẽ khiến hiệu ứng này phản tác dụng?",
+     "text": "SAI THỜI ĐIỂM",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chắc chắn rồi. Chưa đẩy xong hiệp tạ nặng thì đừng hòng đòi cốc nước phục hồi.",
+     "text": "CHƯA XONG HIỆP TẠ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm thế nào để vận dụng điều đó mà không bị xem là kẻ cơ hội?",
+     "text": "VẬN DỤNG THẾ NÀO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lập công xong, ghi lại số liệu rõ ràng, rồi hẹn sếp ngay khi chiến tích còn nóng hổi.",
+     "text": "KHI CÒN NÓNG HỔI",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tận dụng lúc giá trị mình vừa tạo ra vẫn còn in đậm trong đầu ban giám đốc?",
+     "text": "GIÁ TRỊ CÒN MỚI",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Áp lực đền đáp lúc đó cao nhất, nhưng vẫn phải có giấy trắng mực đen làm bằng chứng.",
+     "text": "CẦN BẰNG CHỨNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "coin_stack"
+    }
+   ]
+  },
+  {
+   "title": "6. Tính chính danh",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi thao thao bất tuyệt về sự tận tụy của mình, còn sếp thì nhìn lơ đãng như muốn ngáp.",
+     "text": "6. TÍNH CHÍNH DANH",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lời nói gió bay. Pen quên mất nguyên tắc tính chính danh trên bàn đàm phán rồi.",
+     "text": "LỜI NÓI GIÓ BAY",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao cấp trên lại trọng một tờ giấy in hơn lòng nhiệt huyết chân thành của tôi?",
+     "text": "NHIỆT HUYẾT HAY GIẤY?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giấy trắng mực đen tạo cảm giác có căn cứ xác thực, chứ không phải nói mồm.",
+     "text": "CĂN CỨ XÁC THỰC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giống như người ta luôn răm rắp nghe theo một tấm biển nội quy dán trước cửa?",
+     "text": "TẤM BIỂN THÔNG BÁO",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Vật chứng sờ thấy được luôn có sức nặng tâm lý vượt trội.",
+     "text": "SỨC NẶNG VẬT CHỨNG",
+     "color": "ink",
+     "actor": "34",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy tôi cần chuẩn bị tài liệu gì để biến lời thỉnh cầu thành bản đề xuất bài bản?",
+     "text": "TÀI LIỆU BÀI BẢN",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dù công ty nội hay ngoại, sếp đều cần số liệu. Tóm gọn ba chiến tích lớn nhất lên một trang.",
+     "text": "BẢN TÓM TẮT MỘT TRANG",
+     "color": "green",
+     "actor": "think",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đưa ra tờ giấy gọn gàng giúp cuộc nói chuyện thành buổi đánh giá công việc chứ không phải xin xỏ?",
+     "text": "ĐÁNH GIÁ CÔNG VIỆC",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Giấy đó giúp sếp mang đi giải trình với cấp cao hơn và chặn đứng bài hoãn binh.",
+     "text": "CHẶN BÀI HOÃN BINH",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "7. Bẫy hiện trạng",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sếp khen tôi làm tốt lắm, nhưng lại bảo để nửa năm nữa rồi hẵng bàn lại.",
+     "text": "7. BẪY HIỆN TRẠNG",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chiêu bài né tránh kinh điển chốn công sở. Đúng kiểu thiên kiến giữ nguyên hiện trạng.",
+     "text": "CHIÊU NÉ TRÁNH CŨ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao việc giữ nguyên mọi thứ luôn là lựa chọn mặc định của những người quản lý?",
+     "text": "LỰA CHỌN MẶC ĐỊNH?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não thích giữ nguyên trạng thái cũ vì bất kỳ thay đổi nào cũng tốn sức và tiềm ẩn rủi ro.",
+     "text": "NGẠI SỰ THAY ĐỔI",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói để quý sau xem xét nghe an toàn hơn nhiều so với việc ký duyệt tăng lương ngay à?",
+     "text": "ĐỂ QUÝ SAU TÍNH?",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không làm gì thì nhẹ đầu. Trì hoãn thấy êm ái hơn việc phải làm thêm thủ tục xét duyệt.",
+     "text": "TRÌ HOÃN CHO ÊM",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao phá bài hoãn binh đó mà không biến mình thành kẻ hiếu chiến hay ra tối hậu thư?",
+     "text": "PHÁ BÀI HOÃN BINH",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đặt kèo có điều kiện: nếu quý tới đạt đủ ba chỉ tiêu, mức lương sẽ tự động điều chỉnh.",
+     "text": "CAM KẾT ĐIỀU KIỆN",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chốt luôn tiêu chí cụ thể ngay hôm nay và điền ngày đánh giá thẳng vào lịch làm việc?",
+     "text": "CHỐT LỊCH ĐÁNH GIÁ",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn xác. Dẹp sự trì hoãn bằng chỉ số cụ thể, giờ chỉ còn nỗi lo trong đầu Pen thôi.",
+     "text": "DẸP SỰ TRÌ HOÃN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "8. Ảo giác minh bạch",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Lúc trình bày, cổ họng tôi khô khốc và tôi đinh ninh là sếp đã thấy tay mình run rẩy.",
+     "text": "8. ẢO GIÁC MINH BẠCH",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chẳng ai nhận ra đâu. Pen đang dính phải ảo giác minh bạch đấy thôi.",
+     "text": "CHẲNG AI THẤY ĐÂU",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao sếp lại không nhận ra khi tim tôi đập thình thịch như trống dồn trong lồng ngực?",
+     "text": "TIM ĐẬP NHƯ TRỐNG",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì Pen nghe thấy cơ thể gào thét âm lượng tối đa, nên tưởng người ngoài cũng thấy rõ mồn một.",
+     "text": "ÂM LƯỢNG TỐI ĐA",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cơn hoảng loạn bên trong tôi thực chất vô hình với người ngồi đối diện sao?",
+     "text": "NỖI SỢ VÔ HÌNH?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người đối diện chỉ thấy một phần rất nhỏ nỗi run rẩy trong lòng Pen thôi.",
+     "text": "BẠN TRÔNG VẪN ỔN",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biết vậy cũng đỡ, nhưng có mẹo tư thế nào giúp tôi ngồi vững vàng trên ghế không?",
+     "text": "TƯ THẾ VỮNG VÀNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ chắc hai chân, thở sâu, dừng đúng ba nhịp để con số neo ngấm sâu.",
+     "text": "DỪNG BA GIÂY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dừng lại giúp tôi trông điềm tĩnh và chủ động thay vì vẻ hấp tấp, sợ hãi.",
+     "text": "TRÔNG ĐIỀM TĨNH",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sự im lặng kéo đòn bẩy về phía Pen. Giờ gom tám hiệp này thành giáo án cụ thể thôi.",
+     "text": "CHIẾN THUẬT RÕ RÀNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "Chiến lược hành động",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đề xuất tăng lương không cần làm liều, mà là thấu hiểu cơ chế tâm lý đàm phán.",
+     "text": "CHIẾN LƯỢC HÀNH ĐỘNG",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba bài học: neo bằng khoảng lương, gắn lợi ích với công ty, dẹp trì hoãn bằng số liệu.",
+     "text": "BA NGUYÊN TẮC VÀNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trong bảy ngày tới, tôi nên làm những bước cụ thể nào để triển khai kế hoạch?",
+     "text": "KẾ HOẠCH BẢY NGÀY?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách một tuần: soạn bản tóm tắt, chốt mức lương sàn, và tập dừng ba nhịp.",
+     "text": "KẾ HOẠCH BẢY NGÀY",
+     "color": "green",
+     "actor": "34",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lập bảng chứng cứ, chốt con số thị trường, và tập dượt điềm tĩnh không bồn chồn.",
+     "text": "LUYỆN TẬP BÀI BẢN",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Luyện tập kỹ như tập trong phòng tạ, rồi tự tin nhận lấy những gì xứng đáng với công sức.",
+     "text": "NHẬN ĐÚNG CÔNG SỨC",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu góc nhìn này giúp bạn tự tin hơn, hãy đăng ký kênh để cùng tìm hiểu tâm lý ứng dụng nhé.",
+     "text": "ĐĂNG KÝ KÊNH NHÉ",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

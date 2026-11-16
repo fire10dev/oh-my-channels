@@ -1,0 +1,959 @@
+{
+ "id": "L10",
+ "lang": "en",
+ "title": "Why Work Messages Keep Taking Over Your Day",
+ "description": "Constant notifications are ruining your deep work. Discover the 8 psychological traps behind message overload and learn simple, practical drills to protect your focus.",
+ "chapters": [
+  {
+   "title": "The Ping Trap",
+   "sources": [
+    "s01",
+    "s02",
+    "s03",
+    "s04",
+    "s05",
+    "s06",
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You open an empty document, type exactly one sentence, and a red notification badge blows your focus apart.",
+     "text": "THE PING TRAP",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "You reply, return to your screen, and another alert drops in immediately.",
+     "text": "NOT AGAIN",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Just like that, your morning focus is wrecked before you finish your warm-up.",
+     "text": "WARM-UP WRECKED",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does this keep happening no matter how hard we try to focus?",
+     "text": "WHY DOES THIS HAPPEN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "There are eight psychological traps with work messages that hijack your attention.",
+     "text": "EIGHT HIDDEN TRAPS",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spot the traps, fix your reps, and take your working day back.",
+     "text": "TAKE YOUR DAY BACK",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Urgency Bias",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I sit down to write, and my phone buzzes before I finish a paragraph.",
+     "text": "1. URGENCY BIAS",
+     "color": "ink",
+     "actor": "front",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My chest tightens because I feel like someone needs an answer right now.",
+     "text": "NEED IT RIGHT NOW",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. That is urgency bias. You treat every ping like a one-rep max.",
+     "text": "ONE-REP MAX PING",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even when someone is just asking which lunch spot we should pick?",
+     "text": "JUST PICKING LUNCH?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Especially then. Incoming pings feel urgent even when the task is completely trivial.",
+     "text": "FEELS URGENT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does my mind panic over tiny questions that can easily wait?",
+     "text": "WHY THE PANIC?",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain craves fast wins. Ticking an immediate box gives instant satisfaction.",
+     "text": "INSTANT COMPLETION",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So I jump on small requests just to feel like I am making progress?",
+     "text": "FAKE PROGRESS",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Here is your drill. Before answering, ask if this is due in two hours.",
+     "text": "DUE IN TWO HOURS?",
+     "color": "green",
+     "actor": "34",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "If not, drop the weight and leave it for your afternoon block.",
+     "text": "DROP THE WEIGHT",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What happens if a real crisis hits while I ignore team chat?",
+     "text": "WHAT IF CRISIS HITS?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Real emergencies come with phone calls, but you keep watching chat anyway.",
+     "text": "ALWAYS WATCHING",
+     "color": "gold",
+     "actor": "facepalm",
+     "prop": "laptop_file"
+    }
+   ]
+  },
+  {
+   "title": "2. Partial Attention",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I keep my document on half my screen and team chat on the other.",
+     "text": "2. PARTIAL ATTENTION",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I tell myself I am responsive, but my concentration feels completely fragmented.",
+     "text": "SPLIT CONCENTRATION",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is continuous partial attention. You are lifting two barbells at once and dropping both.",
+     "text": "DROPPING BOTH",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It feels like multitasking, so why am I exhausted without finishing anything?",
+     "text": "WHY SO TIRED?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain stays on alert, scanning peripheral channels instead of engaging deeply.",
+     "text": "CONSTANT SCANNING",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I convinced myself keeping that chat open was making me a faster teammate.",
+     "text": "FALSE EFFICIENCY",
+     "color": "red",
+     "actor": "nervous_wave",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Not even close. You drain your mental battery switching your gaze back and forth.",
+     "text": "DRAINING BATTERY",
+     "color": "red",
+     "actor": "front",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I build enough discipline to look away from incoming messages?",
+     "text": "HOW TO LOOK AWAY?",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Treat it like a timed set. Minimize chat for thirty minutes of single-tasking.",
+     "text": "THIRTY MINUTE SET",
+     "color": "green",
+     "actor": "34",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "No split screens, no peeking. Just one exercise until the timer rings.",
+     "text": "FULL INTENSITY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That sounds simple, but what happens when I finally check messages again?",
+     "text": "WHEN I CHECK...",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here is the catch. Even after sending, that conversation keeps spinning in your head.",
+     "text": "IT KEEPS SPINNING",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    }
+   ]
+  },
+  {
+   "title": "3. Attentional Residue",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I answered a tricky message fifteen minutes ago, and my head is still running replays.",
+     "text": "3. ATTENTIONAL RESIDUE",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I stare at my spreadsheet, but thoughts drift back to that conversation.",
+     "text": "DRIFTING THOUGHTS",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is attentional residue, buddy. You left a heavy bar on your shoulders instead of racking it.",
+     "text": "BAR ON YOUR BACK",
+     "color": "gold",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It feels like mental static coating everything I try to do next.",
+     "text": "MENTAL STATIC",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests when you switch from an open question, part of your attention stays stuck.",
+     "text": "ATTENTION STUCK",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So a short two-line reply can sabotage my focus for half an hour?",
+     "text": "SABOTAGED FOCUS",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That residue lingers in the background, sabotaging whatever you try to do next.",
+     "text": "RESIDUE LINGERS",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I force my brain to let go and get back to work?",
+     "text": "HOW TO LET GO?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rack your weights. Grab a notepad and write down the single next step for that thread.",
+     "text": "RACK YOUR WEIGHTS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Once the thought is on paper, your brain can shut down that background loop.",
+     "text": "CLEAR THE SYSTEM",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Writing it down acts like an official bookmark for my thoughts?",
+     "text": "MENTAL BOOKMARK",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. When an unexpected interruption shatters your set, rebuilding context is brutally expensive.",
+     "text": "BRUTALLY EXPENSIVE",
+     "color": "gold",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "4. Interruption Cost",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I was in a good flow state when an urgent pop-up broke my train of thought.",
+     "text": "4. INTERRUPTION COST",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "After answering it, I stared blankly at my screen, unable to remember what I was doing.",
+     "text": "TRAIN OF THOUGHT GONE",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is interruption cost. You dropped the bar mid-rep and must lift from a dead stop.",
+     "text": "LIFT FROM DEAD STOP",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It feels like my brain lost its draft and had to reload everything from memory.",
+     "text": "RELOAD FROM SCRATCH",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rebuilding that mental scaffolding burns massive energy and eats up chunks of your workday.",
+     "text": "REBUILDING SCAFFOLD",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "By two in the afternoon, my head hurts and I accomplished nothing.",
+     "text": "AFTERNOON GONE",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure does. The real damage is resumption lag, not the brief interruption itself.",
+     "text": "RESUMPTION LAG",
+     "color": "gold",
+     "actor": "34",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What can I do when an interruption is genuinely unavoidable?",
+     "text": "WHEN UNAVOIDABLE?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When a ping tempts you to click, pause. Type one sentence finishing your current thought first.",
+     "text": "LEAVE A BREADCRUMB",
+     "color": "green",
+     "actor": "writing",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Leave that quick breadcrumb on your screen so you re-enter with zero hesitation.",
+     "text": "ZERO HESITATION",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So that tiny note acts like a spotter helping me resume the lift?",
+     "text": "LIKE A SPOTTER",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spot on, buddy. But personal form fails when team communication is fundamentally broken.",
+     "text": "TEAM IS BROKEN",
+     "color": "gold",
+     "actor": "nervous_wave",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "5. Coordination Trap",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Our team split a launch into twenty pieces in chat, and everything fell apart.",
+     "text": "5. COORDINATION TRAP",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Everyone finished their slice, but nobody knew how to stitch the project together.",
+     "text": "PIECES DON'T FIT",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Classic coordination neglect. You divided the reps but forgot the group handover.",
+     "text": "UNPLANNED HANDOFF",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "We assumed chatting about updates meant the work would automatically align.",
+     "text": "ASSUMED ALIGNMENT",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Big mistake. People divide work easily, but underestimate integration friction.",
+     "text": "INTEGRATION BLIND SPOT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So everyone pings endlessly, trying to assemble a puzzle without a box picture?",
+     "text": "PUZZLE WITHOUT PICTURE",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. Group chat feels easy, so teams neglect to designate an integration lead.",
+     "text": "NEGLECTING HANDOFFS",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do we stop project threads from becoming endless debates about ownership?",
+     "text": "WHO DOES WHAT?",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Before accepting split tasks, agree on handoffs. Ask who owns the final assembly.",
+     "text": "AGREE ON HANDOFF",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Knowing who merges the parts eliminates dozens of frantic status messages.",
+     "text": "ELIMINATE STATUS PINGS",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That clarifies ownership, but what about the unspoken pressure to answer pings instantly?",
+     "text": "PRESSURE TO ANSWER",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That invisible pressure is a different beast, and your team feeds it daily.",
+     "text": "FEEDING THE BEAST",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "6. Response Expectancy",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "My colleagues reply to messages instantly, and I feel guilty waiting even five minutes.",
+     "text": "6. RESPONSE EXPECTANCY",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I hover over my keyboard, desperate to prove that I am at my desk working.",
+     "text": "HOVERING OVER KEYS",
+     "color": "red",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is response expectancy. You are ego-lifting on response speed because someone else did.",
+     "text": "SPEED EGO-LIFTING",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Did anyone actually establish a company rule saying we must reply instantly?",
+     "text": "WAS IT EVER A RULE?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Never. But groups create silent baselines, and unspoken speed standards only ratchet faster.",
+     "text": "SILENT SPEED RACE",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "We trapped ourselves in an invisible race where typing back fastest looks most productive.",
+     "text": "INVISIBLE SPEED RACE",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Everyone assumes others want instant replies, so everyone stays glued to chat.",
+     "text": "ASSUMED PRESSURE",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do we step off this treadmill without looking like bad teammates?",
+     "text": "HOW TO STEP OFF?",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Set an explicit status tag during focus blocks to manage team expectations.",
+     "text": "SET STATUS TAG",
+     "color": "green",
+     "actor": "34",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Post that you check pings at eleven and three, so coworkers know when to expect replies.",
+     "text": "SCHEDULED CHECK-INS",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Naming the window out loud gives everyone permission to do real work?",
+     "text": "PERMISSION TO FOCUS",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You bet, but response windows fail when massive message floods overwhelm your day.",
+     "text": "MESSAGE FLOODS",
+     "color": "gold",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    }
+   ]
+  },
+  {
+   "title": "7. Message Overload",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I open my inbox in the morning and face eighty unread messages demanding answers.",
+     "text": "7. MESSAGE OVERLOAD",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "By the time I clear twenty urgent pings, thirty new questions land.",
+     "text": "ENDLESS INFLUX",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is communication overload, buddy. You try lifting every weight in the gym at once.",
+     "text": "FOUR GYM PASSES",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does our team communicate twice as much but decide half as fast?",
+     "text": "TWICE AS MUCH CHAT",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your working memory has a hard ceiling, and continuous message volume completely crushes it.",
+     "text": "BANDWIDTH CRUSHED",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Important decisions get buried in chatter, so finding key answers takes forever.",
+     "text": "BURIED CONTEXT",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Processing hundreds of small questions exhausts your brain before you touch high-value work.",
+     "text": "MENTAL EXHAUSTION",
+     "color": "red",
+     "actor": "think",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do we simplify this when our team uses so many channels?",
+     "text": "HOW TO SIMPLIFY?",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Audit your notifications today. Mute all secondary project threads and turn off mobile badges.",
+     "text": "AUDIT NOTIFICATIONS",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Check feeds on your schedule instead of letting every random ping demand attention.",
+     "text": "CHECK ON YOUR TERMS",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Consolidating attention helps, but work messages still manage to follow me home after hours.",
+     "text": "FOLLOWS ME HOME",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "They follow you home because you never built a barrier between desk and home.",
+     "text": "NO BARRIER",
+     "color": "gold",
+     "actor": "future_tired",
+     "prop": "moon_stars"
+    }
+   ]
+  },
+  {
+   "title": "8. Boundary Blur",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I caught myself scrolling project updates on my phone during family dinner.",
+     "text": "8. BOUNDARY BLUR",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nobody even pinged me, but I felt a compulsive urge to check anyway.",
+     "text": "COMPULSIVE CHECKING",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is boundary management failure, buddy. You overtrain your nervous system with zero rest days.",
+     "text": "BOUNDARY FAILURE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I tell myself a quick thirty-second check prevents surprises tomorrow morning.",
+     "text": "JUST A QUICK PEEK",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy, but that quick peek restarts alertness and prevents your brain from powering down.",
+     "text": "PREVENTS RECOVERY",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does my brain stay tethered to work when I am physically sitting at home?",
+     "text": "TETHERED TO WORK",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Without clear physical or temporal borders, your brain treats the entire evening as work time.",
+     "text": "NO TEMPORAL BORDER",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So what concrete step gives my brain permission to truly clock out?",
+     "text": "CLOCK OUT PERMISSION",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Create a shutdown ritual. At six in the evening, close your laptop and mute notifications.",
+     "text": "SHUTDOWN RITUAL",
+     "color": "green",
+     "actor": "34",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Put work devices away. Muscle does not grow while lifting, it grows during deep rest.",
+     "text": "REST BUILDS STRENGTH",
+     "color": "green",
+     "actor": "front",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So protecting my evenings actually lets me bring maximum intensity back to work tomorrow?",
+     "text": "INTENSITY TOMORROW",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. But rest only works if you turn these principles into a training plan.",
+     "text": "THE TRAINING PLAN",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "The Game Plan",
+   "sources": [
+    "s01",
+    "s02",
+    "s03",
+    "s04",
+    "s05",
+    "s06",
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "We covered a lot today, so how do we pull everything into one cohesive system?",
+     "text": "THE GAME PLAN",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Time for your post-workout breakdown. Group all eight mechanisms into three core principles.",
+     "text": "THREE PRINCIPLES",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pillar one: stop mental leaks. Batch routine checks and leave breadcrumbs so context switching never wrecks your focus.",
+     "text": "STOP MENTAL LEAKS",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pillar two: cut team friction. Define clear handoffs and set explicit response windows instead of chasing instant replies.",
+     "text": "CUT TEAM FRICTION",
+     "color": "gold",
+     "actor": "34",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pillar three: build hard boundaries. Use shutdown rituals to stop work chat from contaminating your evening recovery.",
+     "text": "GUARD RECOVERY",
+     "color": "green",
+     "actor": "think",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Where should someone start if their work inbox feels out of control right now?",
+     "text": "WHERE TO START?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here is your seven-day challenge. Establish one single response window for routine messages every afternoon.",
+     "text": "SEVEN DAY CHALLENGE",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So I test one quiet afternoon window to prove to my team that nothing breaks?",
+     "text": "TEST ONE WINDOW",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Small weights, clean reps, daily consistency. That is how real focus gets rebuilt.",
+     "text": "CLEAN REPS DAILY",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If this breakdown helped you rethink your workday, subscribe to Tiny Leg Theory for more practical psychology.",
+     "text": "SUBSCRIBE FOR MORE",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}

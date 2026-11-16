@@ -1,0 +1,984 @@
+[
+ {
+  "id": "s31",
+  "mascot": "pen",
+  "title": "The Task You Keep Dodging",
+  "mechanism": "Attentional control",
+  "lines": [
+   {
+    "vo": "Your eyes keep sliding off the hard part of the page.",
+    "text": "EYES SLIDE AWAY",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Inbox. Calendar. Snack drawer. Anywhere but here.",
+    "text": "ANYWHERE BUT HERE",
+    "actor": "phone_grin",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Holding attention on something unclear takes real effort.",
+    "text": "FOCUS COSTS EFFORT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "So the mind drifts toward whatever is easier to look at.",
+    "text": "DRIFT TO EASY",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Write the next tiny action on paper, in plain words.",
+    "text": "WRITE THE NEXT STEP",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "When you drift, just return to that one line. Nothing more.",
+    "text": "RETURN TO ONE LINE",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s31vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Viec kho ma mat cu ne",
+  "title_vi": "Việc khó mà mắt cứ né",
+  "mechanism": "Attentional control",
+  "lines": [
+   {
+    "vo": "Đang làm bài nhóm, bạn lại chuyển sang xem lịch nộp.",
+    "text": "LẠI CHUYỂN TAB",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Rồi mở Zalo, rồi xem luôn hạn nộp môn khác.",
+    "text": "XEM HẠN MÔN KHÁC",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Giữ sự chú ý vào phần khó, phần mơ hồ rất tốn sức.",
+    "text": "TẬP TRUNG TỐN SỨC",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nên mắt cứ trôi sang chỗ nào dễ nhìn hơn.",
+    "text": "MẮT TRÔI CHỖ DỄ",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Lấy tờ giấy, ghi một bước tiếp theo thật nhỏ.",
+    "text": "GHI 1 BƯỚC NHỎ",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Lỡ trôi đi, cứ quay về đúng dòng đó là được.",
+    "text": "QUAY VỀ DÒNG ĐÓ",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s32",
+  "mascot": "buff",
+  "title": "Say Your Goal to One Person",
+  "mechanism": "Social accountability (public commitment to a specific person)",
+  "lines": [
+   {
+    "vo": "Starting Monday, you said. Sure, buddy.",
+    "text": "STARTING MONDAY. SURE.",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "A promise only you know about is easy to skip.",
+    "text": "EASY TO SKIP",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Tell one person. Not the whole internet. One.",
+    "text": "TELL ONE PERSON",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Be specific. What, and by when.",
+    "text": "WHAT, BY WHEN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Ask them to check in on that exact day.",
+    "text": "ASK THEM TO CHECK",
+    "actor": "phone_grin",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Knowing someone will ask tends to keep you moving.",
+    "text": "SOMEONE WILL ASK",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Text your spotter now. One sentence. Go.",
+    "text": "TEXT YOUR SPOTTER",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "smartphone_glow"
+   }
+  ]
+ },
+ {
+  "id": "s32vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Noi muc tieu voi dung mot nguoi",
+  "title_vi": "Nói mục tiêu với đúng một người",
+  "mechanism": "Social accountability (public commitment to a specific person)",
+  "lines": [
+   {
+    "vo": "Thứ hai tuần sau bắt đầu. Ừ, tin.",
+    "text": "THỨ HAI SẼ LÀM. Ừ, TIN.",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Lời hứa chỉ mình bạn biết, bỏ cũng chẳng ai hay.",
+    "text": "BỎ CŨNG CHẲNG AI HAY",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Đừng đăng lên mạng. Nhắn đúng một người thôi.",
+    "text": "NHẮN ĐÚNG 1 NGƯỜI",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Kiểu: chủ nhật này mình gửi xong ba bộ hồ sơ.",
+    "text": "CHỦ NHẬT: 3 BỘ HỒ SƠ",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Nhờ nó hỏi lại đúng hôm đó.",
+    "text": "NHỜ HỎI LẠI",
+    "actor": "phone_grin",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Biết sẽ có người hỏi, bạn thường khó lười hơn.",
+    "text": "CÓ NGƯỜI SẼ HỎI",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Mở Zalo, nhắn ngay một câu. Hiệp này bắt đầu.",
+    "text": "NHẮN NGAY 1 CÂU",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "smartphone_glow"
+   }
+  ]
+ },
+ {
+  "id": "s33",
+  "mascot": "pen",
+  "title": "Why You Keep Rechecking the Same Thing",
+  "mechanism": "Uncertainty reduction",
+  "lines": [
+   {
+    "vo": "You sent the email. Then opened Sent to check. Twice.",
+    "text": "CHECKED IT. TWICE.",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Each check brings a small, warm wave of relief.",
+    "text": "A LITTLE RELIEF",
+    "actor": "think"
+   },
+   {
+    "vo": "But the relief fades quickly, and the doubt asks again.",
+    "text": "THE DOUBT RETURNS",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Before you check, decide: one careful look, then done.",
+    "text": "ONE LOOK, THEN DONE",
+    "color": "green",
+    "actor": "reading",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "The fifth look rarely finds what the first one missed.",
+    "text": "LOOK 5 RARELY HELPS",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s33vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao cu kiem tra di kiem tra lai",
+  "title_vi": "Sao cứ kiểm tra đi kiểm tra lại",
+  "mechanism": "Uncertainty reduction",
+  "lines": [
+   {
+    "vo": "Gửi tài liệu cho sếp xong, bạn mở lại xem đúng chưa.",
+    "text": "MỞ LẠI XEM LẦN NỮA",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Thấy đúng tên rồi, thở phào. Được năm phút.",
+    "text": "THỞ PHÀO 5 PHÚT",
+    "actor": "think"
+   },
+   {
+    "vo": "Rồi nghi ngờ quay lại, và bạn lại bấm mở.",
+    "text": "NGHI NGỜ QUAY LẠI",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Trước khi kiểm, tự hứa: xem kỹ một lần, rồi thôi.",
+    "text": "KỸ 1 LẦN RỒI THÔI",
+    "color": "green",
+    "actor": "reading",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Lần mở thứ năm hiếm khi cho thêm điều gì mới.",
+    "text": "LẦN 5 CHẲNG THÊM GÌ",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s34",
+  "mascot": "buff",
+  "title": "Pick a Finish Line, Not a Vibe",
+  "mechanism": "Goal-setting theory",
+  "lines": [
+   {
+    "vo": "Today's plan: work on it. Work on what, exactly?",
+    "text": "PLAN: WORK ON IT",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "That's not a goal. That's a vibe.",
+    "text": "THAT'S A VIBE",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "No finish line, no way to know the set is done.",
+    "text": "NO FINISH LINE",
+    "color": "red",
+    "prop": "target"
+   },
+   {
+    "vo": "So you quit early, or grind all night.",
+    "text": "QUIT OR GRIND",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Specific goals tend to beat 'just do your best'.",
+    "text": "SPECIFIC BEATS VAGUE",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Name one result you can see when it's done.",
+    "text": "ONE VISIBLE RESULT",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "target"
+   },
+   {
+    "vo": "Not 'study'. Ten flashcards. Not 'write'. The intro.",
+    "text": "10 CARDS. 1 INTRO.",
+    "actor": "writing"
+   },
+   {
+    "vo": "Write the finish line down. Then lift.",
+    "text": "WRITE IT. THEN LIFT.",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s34vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Chon vach dich, dung chon cam hung",
+  "title_vi": "Chọn vạch đích, đừng chọn cảm hứng",
+  "mechanism": "Goal-setting theory",
+  "lines": [
+   {
+    "vo": "Kế hoạch hôm nay: học tiếng Anh. Học cái gì?",
+    "text": "HỌC TIẾNG ANH. HỌC GÌ?",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Đó không phải mục tiêu. Đó là cảm hứng.",
+    "text": "ĐÓ LÀ CẢM HỨNG",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Không có vạch đích thì chẳng biết khi nào xong hiệp.",
+    "text": "KHÔNG CÓ VẠCH ĐÍCH",
+    "color": "red",
+    "prop": "target"
+   },
+   {
+    "vo": "Thế là lướt hai trang rồi nghỉ, hoặc ngồi lì cả tối.",
+    "text": "NGHỈ SỚM HOẶC NGỒI LÌ",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Mục tiêu rõ thường kéo bạn đi xa hơn câu cố hết sức.",
+    "text": "RÕ RÀNG THẮNG MƠ HỒ",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Chọn một kết quả nhìn thấy được.",
+    "text": "1 KẾT QUẢ NHÌN THẤY",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "target"
+   },
+   {
+    "vo": "Ví dụ: xong bài nghe số ba, chép hai mươi từ mới.",
+    "text": "BÀI 3, 20 TỪ MỚI",
+    "actor": "writing"
+   },
+   {
+    "vo": "Ghi vạch đích ra giấy. Rồi vào tạ.",
+    "text": "GHI RA. RỒI VÀO TẠ",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s35",
+  "mascot": "pen",
+  "title": "The Open Tab in Your Head",
+  "mechanism": "Zeigarnik effect",
+  "lines": [
+   {
+    "vo": "You're on the sofa with a movie, but part of you is still at work.",
+    "text": "STILL AT WORK",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "sofa"
+   },
+   {
+    "vo": "That unanswered email keeps tapping you on the shoulder.",
+    "text": "TAP. TAP. TAP.",
+    "actor": "nervous_wave",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Unfinished tasks tend to stay half-open in the mind.",
+    "text": "HALF-OPEN TASKS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Like a browser tab you can't quite close.",
+    "text": "AN OPEN TAB",
+    "actor": "worried_heart",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "You don't have to finish it to quiet it.",
+    "text": "NO NEED TO FINISH",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Write down the next step, and when you'll do it.",
+    "text": "NEXT STEP. WHEN.",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "With a plan on paper, the mind often lets the tab rest.",
+    "text": "THE TAB CAN REST",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s35vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Cua so chua dong trong dau",
+  "title_vi": "Cửa sổ chưa đóng trong đầu",
+  "mechanism": "Zeigarnik effect",
+  "lines": [
+   {
+    "vo": "Nằm lướt điện thoại mà vẫn nhớ tin nhóm lớp chưa trả lời.",
+    "text": "VẪN NHỚ TIN NHÓM LỚP",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Nó cứ lởn vởn, như ai gõ nhẹ vào vai.",
+    "text": "CỨ LỞN VỞN",
+    "actor": "nervous_wave",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Việc dở dang thường cứ treo lơ lửng trong đầu.",
+    "text": "VIỆC DỞ CỨ TREO",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Giống cửa sổ chưa đóng, lâu lâu lại nháy.",
+    "text": "CỬA SỔ CHƯA ĐÓNG",
+    "actor": "worried_heart",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Không cần làm xong ngay mới được yên.",
+    "text": "CHƯA CẦN LÀM XONG",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Ghi ra: chín giờ tối nay trả lời nhóm.",
+    "text": "9 GIỜ TỐI: TRẢ LỜI",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Có chỗ ghi rồi, đầu mình có nhẹ đi chút nào không?",
+    "text": "ĐẦU NHẸ HƠN CHƯA?",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s36",
+  "mascot": "buff",
+  "title": "Make the First Move Obvious",
+  "mechanism": "Choice architecture",
+  "lines": [
+   {
+    "vo": "Laptop open. Ten minutes later, still hunting for the file.",
+    "text": "STILL HUNTING",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Hidden first step? Easy to stall.",
+    "text": "HIDDEN STEP = STALL",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Lifters load the bar before the set. Do the same.",
+    "text": "LOAD THE BAR FIRST",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Tonight, open the exact file, page, and tool. Leave them up.",
+    "text": "OPEN IT TONIGHT",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Tomorrow you sit down, and the first rep is waiting. Go.",
+    "text": "FIRST REP READY",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s36vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "De buoc dau tien nam san do",
+  "title_vi": "Để bước đầu tiên nằm sẵn đó",
+  "mechanism": "Choice architecture",
+  "lines": [
+   {
+    "vo": "Mở máy lên, mười phút sau vẫn đang lục tìm bài tập.",
+    "text": "VẪN ĐANG LỤC TÌM",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Thư mục lồng thư mục, bản nào cũng tên là bản cuối.",
+    "text": "BẢN CUỐI, CUỐI CÙNG",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Bước đầu bị giấu thì rất dễ chần chừ.",
+    "text": "BƯỚC ĐẦU BỊ GIẤU",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Tối nay mở sẵn đúng tài liệu, đúng trang, để nguyên đó.",
+    "text": "MỞ SẴN TỪ TỐI",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Như lắp tạ sẵn trước hiệp. Mai ngồi xuống là đẩy.",
+    "text": "TẠ LẮP SẴN. ĐẨY!",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s37",
+  "mascot": "pen",
+  "title": "Why Your Brain Hates a Messy Desk",
+  "mechanism": "Visual competition",
+  "lines": [
+   {
+    "vo": "You sit down to read, and the receipts start talking.",
+    "text": "THE PILE TALKS",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Mugs, wrappers, an old to-do list, all in view.",
+    "text": "ALL IN VIEW",
+    "actor": "facepalm",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Everything in sight quietly competes for your attention.",
+    "text": "EVERYTHING COMPETES",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "So focusing takes a little more effort than it should.",
+    "text": "FOCUS COSTS MORE",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "You don't need a clean room. Just a clear patch.",
+    "text": "JUST A CLEAR PATCH",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "What if the only thing in front of you was the page?",
+    "text": "ONLY THE PAGE?",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s37vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ban bua lam mat bi keo di",
+  "title_vi": "Bàn bừa làm mắt bị kéo đi",
+  "mechanism": "Visual competition",
+  "lines": [
+   {
+    "vo": "Ngồi vào học, mắt đã chạm chồng hoá đơn với gói bim bim.",
+    "text": "HOÁ ĐƠN, BIM BIM",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Thêm cốc trà sữa uống dở, mấy quyển vở chưa cất.",
+    "text": "TRÀ SỮA UỐNG DỞ",
+    "actor": "facepalm",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Món nào trong tầm mắt cũng âm thầm giành sự chú ý.",
+    "text": "MÓN NÀO CŨNG GIÀNH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nên tập trung tốn sức hơn một chút.",
+    "text": "TỐN SỨC HƠN",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Không cần dọn cả phòng. Gạt ra một khoảng vừa quyển sách.",
+    "text": "1 KHOẢNG TRỐNG",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Nếu trước mặt chỉ còn trang sách, bạn ngồi được bao lâu?",
+    "text": "CHỈ CÒN TRANG SÁCH?",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s38",
+  "mascot": "buff",
+  "title": "Train Next to Someone Who Trains",
+  "mechanism": "Social facilitation (works best for simple, well-practiced tasks)",
+  "lines": [
+   {
+    "vo": "Funny how you run faster when someone's on the next treadmill.",
+    "text": "THE NEXT TREADMILL",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Just having people around tends to rev you up.",
+    "text": "PEOPLE REV YOU UP",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "It's called social facilitation.",
+    "text": "SOCIAL FACILITATION",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Catch: it helps easy, practiced stuff. Reps you know.",
+    "text": "EASY STUFF ONLY",
+    "color": "red",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "New, hard skill? An audience can make you sloppier.",
+    "text": "HARD SKILL? SLOPPIER",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "So bring a buddy for the boring, simple work.",
+    "text": "BUDDY FOR BORING",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Inbox, flashcards, laundry. Side by side, no chatting.",
+    "text": "SIDE BY SIDE",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "Hard new stuff? Solo set first. Then bring the crowd.",
+    "text": "SOLO FIRST, THEN CROWD",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s38vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Lam canh nguoi dang lam",
+  "title_vi": "Làm cạnh người đang làm",
+  "mechanism": "Social facilitation (works best for simple, well-practiced tasks)",
+  "lines": [
+   {
+    "vo": "Chạy một mình thì lết, có người chạy cạnh là tự nhanh.",
+    "text": "CÓ NGƯỜI CẠNH LÀ NHANH",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Có người xung quanh thường làm mình hăng hơn.",
+    "text": "CÓ NGƯỜI LÀ HĂNG",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Tâm lý học gọi là hiệu ứng tạo thuận lợi xã hội.",
+    "text": "TẠO THUẬN LỢI XÃ HỘI",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nhưng chỉ đúng với việc dễ, việc đã quen tay.",
+    "text": "CHỈ VIỆC QUEN TAY",
+    "color": "red",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Việc mới, việc khó mà có người nhìn thì dễ luống cuống.",
+    "text": "VIỆC KHÓ: LUỐNG CUỐNG",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Rủ bạn ra quán, mỗi đứa ôm một việc nhàm.",
+    "text": "RỦ BẠN NGỒI CÙNG",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Chép bài, trả lời thư, xếp ảnh. Ngồi cạnh, không tám.",
+    "text": "NGỒI CẠNH, KHÔNG TÁM",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "Việc khó thì tập một mình trước. Quen rồi hẵng rủ hội.",
+    "text": "KHÓ: TẬP 1 MÌNH TRƯỚC",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s39",
+  "mascot": "pen",
+  "title": "Why a Head Start Keeps You Going",
+  "mechanism": "Endowed progress effect",
+  "lines": [
+   {
+    "vo": "A coffee card that comes with two free stamps already on it.",
+    "text": "TWO FREE STAMPS",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Oddly, you're more likely to fill that one.",
+    "text": "MORE LIKELY TO FINISH",
+    "actor": "think"
+   },
+   {
+    "vo": "Feeling already started tends to pull you forward.",
+    "text": "ALREADY STARTED",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "A blank checklist, though, feels like standing at zero.",
+    "text": "STANDING AT ZERO",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "So count what you've already done toward the goal.",
+    "text": "COUNT WHAT'S DONE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "The notes you took, the articles you read. Tick them.",
+    "text": "TICK THEM OFF",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "How far along are you already, without having noticed?",
+    "text": "NOT AT ZERO?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s39vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao co da san thi de di tiep",
+  "title_vi": "Vì sao có đà sẵn thì dễ đi tiếp",
+  "mechanism": "Endowed progress effect",
+  "lines": [
+   {
+    "vo": "Thẻ tích điểm trà sữa, quán tặng sẵn hai dấu.",
+    "text": "TẶNG SẴN 2 DẤU",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Lạ là bạn dễ uống cho đủ thẻ hơn hẳn.",
+    "text": "DỄ ĐỦ THẺ HƠN",
+    "actor": "think"
+   },
+   {
+    "vo": "Cảm giác đã bắt đầu rồi thường kéo mình đi tiếp.",
+    "text": "ĐÃ BẮT ĐẦU RỒI",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Còn tờ danh sách trắng tinh thì như đứng ở vạch xuất phát.",
+    "text": "TRẮNG TINH",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Làm khoá luận? Bạn đã đọc tài liệu, đã có đề cương.",
+    "text": "ĐÃ CÓ ĐỀ CƯƠNG",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Ghi hết những thứ đó vào, đánh dấu là xong.",
+    "text": "ĐÁNH DẤU XONG",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Hoá ra bạn chưa bao giờ đứng ở số không.",
+    "text": "CHƯA TỪNG LÀ SỐ 0",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s40",
+  "mascot": "buff",
+  "title": "Don't Let Email Pick Your Day",
+  "mechanism": "Attention capture",
+  "lines": [
+   {
+    "vo": "Inbox first thing? Congrats, everyone else just wrote your to-do list.",
+    "text": "INBOX FIRST?",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "New messages grab attention whether they matter or not.",
+    "text": "PINGS GRAB YOU",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "An hour later, ten people answered. Your thing? Untouched.",
+    "text": "YOUR THING: UNTOUCHED",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Warm-up rule: pick your top task before opening anything.",
+    "text": "TOP TASK FIRST",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "target"
+   },
+   {
+    "vo": "One rep on it. Then the inbox can have you.",
+    "text": "ONE REP, THEN INBOX",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Your list or theirs. Pick before you tap.",
+    "text": "YOUR LIST OR THEIRS",
+    "color": "gold",
+    "actor": "arms_crossed_no"
+   }
+  ]
+ },
+ {
+  "id": "s40vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung de tin nhan chon ngay cua ban",
+  "title_vi": "Đừng để tin nhắn chọn ngày của bạn",
+  "mechanism": "Attention capture",
+  "lines": [
+   {
+    "vo": "Vừa tới công ty đã mở Zalo. Thế là hết ngày của bạn.",
+    "text": "VỪA TỚI ĐÃ MỞ ZALO",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Tin mới cứ giật sự chú ý, quan trọng hay không cũng thế.",
+    "text": "TIN MỚI GIẬT MẮT",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Trưa ngẩng lên: trả lời đủ cả nhóm, việc chính chưa đụng.",
+    "text": "VIỆC CHÍNH CHƯA ĐỤNG",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Khởi động kiểu khác: chọn việc quan trọng nhất trước khi đọc tin.",
+    "text": "CHỌN VIỆC CHÍNH TRƯỚC",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "target"
+   },
+   {
+    "vo": "Làm một hiệp ba mươi phút. Rồi mới tới lượt tin nhắn.",
+    "text": "1 HIỆP RỒI MỚI ĐỌC TIN",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Việc của bạn, hay việc người khác giao qua Zalo. Chọn đi.",
+    "text": "VIỆC MÌNH HAY VIỆC HỌ",
+    "color": "gold",
+    "actor": "arms_crossed_no"
+   }
+  ]
+ }
+]

@@ -1,0 +1,914 @@
+{
+  "id": "L6vi",
+  "lang": "vi",
+  "title": "Vì sao người khác khó hiểu: tám cái bẫy xã hội",
+  "description": "Một cuộc trò chuyện yên ắng, tin nhắn trả lời muộn hay khoảng ngừng ngượng ngập có thể khiến tương tác bình thường trở nên nặng nề. Pen và Buff bóc tách tám cơ chế xã hội, cùng vài cách nhỏ giúp trò chuyện rõ ràng và dễ dàng hơn.",
+  "chapters": [
+    {
+      "title": "intro",
+      "sources": [],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Một. Mở đầu",
+          "text": "1. MỞ ĐẦU",
+          "color": "ink",
+          "actor": "front"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Bạn gửi một tin nhắn hơi kỳ, rồi tối đó đọc lại mãi.",
+          "text": "ĐỌC LẠI TIN NHẮN",
+          "color": "red",
+          "actor": "phone_grin",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Não xã hội biến khoảng lặng, câu hỏi hay lời hẹn thành chướng ngại vật.",
+          "text": "CHƯỚNG NGẠI XÃ HỘI",
+          "color": "ink",
+          "actor": "think",
+          "prop": "brain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Đôi khi tôi nghĩ người ta đang đánh giá mình, dù chẳng có mấy thông tin.",
+          "text": "TỰ ĐIỀN CHỖ TRỐNG",
+          "color": "red",
+          "actor": "confused_shrug"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Ta sẽ gỡ tám cái bẫy xã hội, rồi tìm một bước thử cho mỗi cái.",
+          "text": "TÁM BƯỚC DỄ HƠN",
+          "color": "gold",
+          "actor": "point_viewer",
+          "prop": "target"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Ta xem chuyện trong đầu, giữa bạn bè, và trong những nhóm đang chờ người khác lên tiếng.",
+          "text": "TỪ MÌNH ĐẾN CHÚNG TA",
+          "color": "ink",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Không cần đọc suy nghĩ ai. Chỉ cần tập vài hiệp tốt hơn khi cuộc trò chuyện bắt đầu lạ.",
+          "text": "TẬP HIỆP XÃ HỘI",
+          "color": "green",
+          "actor": "jogging",
+          "prop": "dumbbell"
+        }
+      ]
+    },
+    {
+      "title": "2. The Spotlight Effect",
+      "sources": [
+        "s19",
+        "s115"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Hai. Hiệu ứng ánh đèn sân khấu",
+          "text": "2. CHẤM ĐỎ NHỎ XÍU",
+          "color": "ink",
+          "actor": "front"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Bạn vấp tên ai đó lúc ăn trưa, rồi nghĩ cả bàn đều nhớ mãi.",
+          "text": "TUA LẠI BỮA TRƯA",
+          "color": "red",
+          "actor": "facepalm",
+          "prop": "coffee_mug"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đó là hiệu ứng ánh đèn sân khấu. Ta hay nghĩ người khác để ý lỗi nhỏ của mình nhiều hơn thực tế.",
+          "text": "CHIẾU ĐÈN QUÁ MẠNH",
+          "color": "gold",
+          "actor": "point_viewer",
+          "prop": "lightbulb"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Tôi vẫn nghe rõ câu mình nói, nên tưởng ai cũng nghe rõ như vậy.",
+          "text": "VỚI TÔI VẪN ỒN",
+          "color": "ink",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Nhưng họ còn bữa trưa của họ, nỗi lo riêng, và câu lỡ lời hôm qua.",
+          "text": "AI CŨNG CÓ CHUYỆN",
+          "color": "ink",
+          "actor": "sofa_scroll",
+          "prop": "snack"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Sau buổi trò chuyện đầu khá vui, tôi nhớ câu vụng về hơn nụ cười của người kia.",
+          "text": "MẮC KẸT MỘT CÂU",
+          "color": "red",
+          "actor": "worried_heart"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Thử tua lại cân bằng. Nhớ một lần vấp, rồi hai điều ổn, như tiếng cười hay câu hỏi thật lòng.",
+          "text": "NHỚ HAI ĐIỀU ỔN",
+          "color": "green",
+          "actor": "writing",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Cách đó không chứng minh họ thích cuộc trò chuyện, chỉ giúp ký ức công bằng hơn.",
+          "text": "NHÌN CHO CÔNG BẰNG",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Rồi chú ý lại căn phòng. Đèn pin đâu phải lúc nào cũng chiếu vào bạn.",
+          "text": "CHIẾU RA NGOÀI",
+          "color": "green",
+          "actor": "point_viewer",
+          "prop": "lightbulb"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nhưng khi căn phòng im, đầu tôi có thể biến thiếu thông tin thành một câu chuyện cụ thể.",
+          "text": "IM LẶNG THÀNH CÂU CHUYỆN",
+          "color": "ink",
+          "actor": "confused_shrug"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Bẫy tiếp theo là phiên tòa trong đầu khi tin nhắn đến muộn.",
+          "text": "TIẾP: PHIÊN TÒA",
+          "color": "gold",
+          "actor": "small_step"
+        }
+      ]
+    },
+    {
+      "title": "3. The Missing Context Trap",
+      "sources": [
+        "s21",
+        "s111",
+        "s114"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Ba. Cái bẫy thiếu bối cảnh",
+          "text": "3. KHUNG CHAT TRỐNG",
+          "color": "ink",
+          "actor": "front"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Bạn hỏi đồng nghiệp một câu đơn giản, ba tiếng sau Zalo vẫn im re.",
+          "text": "BA TIẾNG IM LẶNG",
+          "color": "red",
+          "actor": "typing_focused",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Có khi họ chỉ trả lời một chữ. Tôi đọc chữ ừ thành khó chịu khi mình đang căng.",
+          "text": "TỰ NGHE RA GIỌNG",
+          "color": "red",
+          "actor": "worried_heart",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Thiên kiến diễn giải là tự lấp chỗ mờ bằng một câu chuyện, đôi khi là chuyện tệ nhất.",
+          "text": "ĐOÁN MÀ NHƯ THẬT",
+          "color": "gold",
+          "actor": "think",
+          "prop": "brain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Tôi biết lý do mình trả lời chậm: đang họp, kẹt xe buýt, hay quên điện thoại.",
+          "text": "TÔI BIẾT LÝ DO",
+          "color": "ink",
+          "actor": "reading"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Còn với người khác, tôi chỉ thấy sự im lặng, rồi tưởng họ đang phán xét mình.",
+          "text": "CHỈ THẤY IM LẶNG",
+          "color": "red",
+          "actor": "phone_grin",
+          "prop": "notification_bell"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Lỗi quy kết cơ bản là đổ cho tính cách mà bỏ qua hoàn cảnh của người ta.",
+          "text": "NHÌN LẠI HOÀN CẢNH",
+          "color": "gold",
+          "actor": "point_viewer",
+          "prop": "storm_cloud"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Trước khi kết luận, kể ba khả năng thường thôi: công việc, đường đi, hoặc đang ngủ.",
+          "text": "THÊM BA LÝ DO",
+          "color": "green",
+          "actor": "writing",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Việc gấp thì nhắn thêm một câu ngắn, nói rõ bạn cần gì. Bỏ qua màn cãi nhau tưởng tượng.",
+          "text": "NHẮN RÕ MỘT CÂU",
+          "color": "green",
+          "actor": "typing_focused",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Hỏi thăm có thể cho tôi thêm thông tin, nhưng không nói lên người kia nghĩ gì mãi mãi.",
+          "text": "MỘT LÚC CHƯA NÓI HẾT",
+          "color": "ink",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Khi tự chấm điểm giữa câu, chuyện xã giao dễ giống bài kiểm tra bất ngờ.",
+          "text": "TIẾP: KIỂM TRA MIỆNG",
+          "color": "gold",
+          "actor": "nervous_wave"
+        }
+      ]
+    },
+    {
+      "title": "4. Small Talk and Social Threat",
+      "sources": [
+        "s20"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Bốn. Chuyện xã giao và nỗi sợ bị đánh giá",
+          "text": "4. KIỂM TRA MIỆNG",
+          "color": "ink",
+          "actor": "front"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Ai đó hỏi dạo này sao rồi, tự nhiên tôi tìm câu trả lời hoàn hảo.",
+          "text": "SĂN CÂU TRẢ LỜI HAY",
+          "color": "red",
+          "actor": "confused_shrug"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Tôi vừa nói vừa nghe câu của mình, như thể sắp bị chấm điểm.",
+          "text": "VỪA NÓI VỪA CHẤM",
+          "color": "red",
+          "actor": "panic",
+          "prop": "brain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Nỗi sợ bị đánh giá là cảm giác người khác có thể đang chấm điểm bạn.",
+          "text": "SỢ BỊ CHẤM ĐIỂM",
+          "color": "gold",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Não cảnh giác hơn khi mình thấy cần được chấp nhận, kể cả lúc nói chuyện ngoài hành lang.",
+          "text": "CẢNH GIÁC Ở HÀNH LANG",
+          "color": "ink",
+          "actor": "worried_heart",
+          "prop": "storm_cloud"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Tập một hiệp đơn giản: hỏi thêm một câu thật lòng về điều họ vừa kể.",
+          "text": "HỎI THÊM MỘT CÂU",
+          "color": "green",
+          "actor": "small_step",
+          "prop": "target"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nếu họ kể đi làm xa, tôi có thể hỏi đoạn nào trên đường là mệt nhất.",
+          "text": "THEO TIẾP CÂU CHUYỆN",
+          "color": "ink",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Giờ bạn có chỗ để hướng sự chú ý, còn người kia có khoảng trống để trả lời.",
+          "text": "NHƯỜNG CHỖ ĐỂ NÓI",
+          "color": "green",
+          "actor": "hand_off"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Tôi có thể kể về tuần của mình mà không cần diễn một bài nói hoàn hảo.",
+          "text": "KHÔNG CẦN DIỄN HAY",
+          "color": "gold",
+          "actor": "coffee"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Trò chuyện là chuyền bóng, không phải độc thoại. Nói một ý rồi nghe ý kế tiếp.",
+          "text": "CHUYỀN BÓNG QUA LẠI",
+          "color": "ink",
+          "actor": "jogging",
+          "prop": "dumbbell"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Áp lực đó có thể khiến tôi đồng ý trước khi biết mình có giúp được không.",
+          "text": "TIẾP: GẬT ĐẦU QUÁ NHANH",
+          "color": "gold",
+          "actor": "think"
+        }
+      ]
+    },
+    {
+      "title": "5. The Automatic Yes",
+      "sources": [
+        "s29",
+        "s117"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Năm. Cái gật đầu tự động",
+          "text": "5. LỊCH LÊN TIẾNG",
+          "color": "ink",
+          "actor": "front"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Bạn rủ cuối tuần đi cà phê, tôi nói được trước khi mở lịch.",
+          "text": "GẬT TRƯỚC KHI XEM",
+          "color": "red",
+          "actor": "hand_off",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Sau đó tôi mới thấy lịch có hẹn, rồi ngại rút lại lời hứa quá nhanh.",
+          "text": "BẤT NGỜ MUỘN MÀNG",
+          "color": "red",
+          "actor": "facepalm"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Phản hồi tự động là khi trả lời nhanh có vẻ dễ hơn dừng lại để chọn.",
+          "text": "THÓI QUEN TRẢ LỜI NHANH",
+          "color": "gold",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nói trực tiếp, một nhịp ngừng có thể thấy như từ chối, nên tôi gật trước khi xem lịch.",
+          "text": "NGỪNG LẠI THẤY NGẠI",
+          "color": "ink",
+          "actor": "confused_shrug",
+          "prop": "hourglass"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Dùng câu hoãn: để mình xem lịch rồi tối nay báo bạn nhé.",
+          "text": "MƯỢN MỘT NHỊP DỪNG",
+          "color": "green",
+          "actor": "writing",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Rồi tối đó trả lời thật. Hẹn giờ cụ thể khiến việc chờ đỡ mơ hồ.",
+          "text": "TRẢ LỜI ĐÚNG HẸN",
+          "color": "green",
+          "actor": "small_step",
+          "prop": "alarm_clock"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Bạn của ngày mai cũng có quyền lên tiếng. Gật sau khi xem lịch dễ giữ lời hơn.",
+          "text": "ĐỂ NGÀY MAI LÊN TIẾNG",
+          "color": "gold",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nếu tôi đã nhận giúp một việc nhỏ, tôi vẫn có thể cân nhắc riêng lời nhờ lớn hơn.",
+          "text": "LỜI NHỜ MỚI, LỰA CHỌN MỚI",
+          "color": "ink",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Một lần đồng ý có thể khiến lần sau ta muốn giữ nhất quán, nhưng không trói bạn vào mọi lời nhờ.",
+          "text": "GẬT CŨ, QUYẾT ĐỊNH MỚI",
+          "color": "gold",
+          "actor": "arms_crossed_no",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Ranh giới đó có ích khi lời nhờ tăng dần, hoặc món quà khiến tôi thấy mắc nợ.",
+          "text": "TIẾP: ÁP LỰC VÔ HÌNH",
+          "color": "gold",
+          "actor": "small_step"
+        }
+      ]
+    },
+    {
+      "title": "6. Small Yeses and Social Debt",
+      "sources": [
+        "s106",
+        "s109"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Sáu. Gật đầu nhỏ và món nợ xã hội",
+          "text": "6. BẬC THANG GẬT ĐẦU",
+          "color": "ink",
+          "actor": "front"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Đồng nghiệp nhờ tôi sửa một đoạn, rồi sau đó nhờ làm cả báo cáo.",
+          "text": "VIỆC NHỎ THÀNH VIỆC LỚN",
+          "color": "red",
+          "actor": "typing_focused",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đó có thể là chiêu chân trong cửa. Gật đầu nhỏ rồi, lời nhờ sau dễ có vẻ hợp lý hơn.",
+          "text": "CHÂN ĐÃ TRONG CỬA",
+          "color": "gold",
+          "actor": "small_step",
+          "prop": "target"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Muốn nhất quán giúp giữ quan hệ, nhưng cũng khiến tôi xem câu trả lời đầu như hợp đồng.",
+          "text": "NHẤT QUÁN CŨNG GÂY KÉO",
+          "color": "ink",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Xét lời nhờ lớn riêng ra. Hỏi cần làm gì, mất bao lâu, và có vừa sức không.",
+          "text": "XEM KỸ LỜI NHỜ",
+          "color": "green",
+          "actor": "reading",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Một áp lực khác xuất hiện khi ăn thử miễn phí khiến tôi ngại không mua.",
+          "text": "QUÀ TẶNG THẤY NẶNG",
+          "color": "red",
+          "actor": "worried_heart",
+          "prop": "snack"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Chuẩn mực có qua có lại là muốn đáp lại món quà hay sự giúp đỡ. Nó có thể giúp người ta quan tâm nhau.",
+          "text": "CẢM GIÁC MUỐN ĐÁP LẠI",
+          "color": "gold",
+          "actor": "hand_off",
+          "prop": "coin_stack"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Biết ơn và mua hàng là hai lựa chọn riêng. Tôi có thể cảm ơn rồi tính sau.",
+          "text": "CẢM ƠN RỒI HẴNG CHỌN",
+          "color": "green",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Tự hỏi: nếu chưa được tặng món đó, mình có muốn mua không? Rồi quyết định.",
+          "text": "TỰ NÓ CÓ ĐÁNG KHÔNG",
+          "color": "green",
+          "actor": "think",
+          "prop": "lightbulb"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Những áp lực này nghe có vẻ riêng tư, nhưng đôi khi rối vì luật chung chẳng ai nói ra.",
+          "text": "LUẬT NGẦM KHÔNG LỜI",
+          "color": "ink",
+          "actor": "confused_shrug"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Tiền bạc, việc nhà, và kèo nhóm dễ hơn khi mọi người nói rõ luật trước.",
+          "text": "TIẾP: NÓI RÕ LUẬT",
+          "color": "gold",
+          "actor": "point_viewer"
+        }
+      ]
+    },
+    {
+      "title": "7. Friendship Rules and Clear Requests",
+      "sources": [
+        "s107",
+        "s112"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Bảy. Luật bạn bè và lời nhờ rõ ràng",
+          "text": "7. NÓI RÕ LUẬT",
+          "color": "ink",
+          "actor": "front"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Ăn lẩu xong, bạn mở máy tính chia tiền, cả tối vui bỗng thành buổi tính toán.",
+          "text": "BỮA ĂN THÀNH BÀI TOÁN",
+          "color": "red",
+          "actor": "confused_shrug",
+          "prop": "coin_stack"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Với bạn bè, người ta thường cho nhận thoải mái. Với quán ăn, ta mong giá rõ ràng.",
+          "text": "HAI KIỂU LUẬT",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đó là va chạm giữa luật sẻ chia và luật trao đổi. Khó xử vì mong đợi chưa rõ.",
+          "text": "LUẬT VA VÀO NHAU",
+          "color": "gold",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Chốt trước khi gọi món: chia đều hay ai gọi món nấy trả.",
+          "text": "CHỐT SỚM CHO DỄ",
+          "color": "green",
+          "actor": "writing",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Ở nhà, tôi thở dài nhìn bát đĩa, mong bạn cùng phòng hiểu ý bên trong.",
+          "text": "THỞ DÀI ĐỂ NHẮC",
+          "color": "red",
+          "actor": "sofa_scroll",
+          "prop": "snack"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Nói bóng gió bắt người ta đoán. Tiếng thở dài không nói cái nồi nào, ai rửa, lúc nào.",
+          "text": "BÓNG GIÓ GIẤU LỜI NHỜ",
+          "color": "ink",
+          "actor": "arms_crossed_no"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Nói rõ việc và giờ: tối nay trước tám giờ, bạn rửa giúp mình mấy cái nồi nhé?",
+          "text": "NÓI ĐIỀU BẠN CẦN",
+          "color": "green",
+          "actor": "point_viewer",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Bạn cùng phòng có thể đồng ý, từ chối, hoặc hẹn giờ khác. Ta có một cuộc nói chuyện thật.",
+          "text": "CÂU TRẢ LỜI THẬT",
+          "color": "gold",
+          "actor": "hand_off"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Luật rõ giúp hai người, còn kế hoạch cụ thể giúp cả nhóm cùng làm.",
+          "text": "TỪ HAI ĐẾN NHIỀU",
+          "color": "ink",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Nhóm Zalo có bốn mươi người mà chưa ai đặt phòng. Đây là lý do.",
+          "text": "TIẾP: NHÓM IM LẶNG",
+          "color": "gold",
+          "actor": "typing_focused",
+          "prop": "smartphone_glow"
+        }
+      ]
+    },
+    {
+      "title": "8. Groups, Credit, and Confidence",
+      "sources": [
+        "s110",
+        "s116",
+        "s118",
+        "s120"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Tám. Nhóm, công sức, và sự tự tin",
+          "text": "8. AI LÊN TIẾNG TRƯỚC?",
+          "color": "ink",
+          "actor": "front"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Cả nhóm thấy tin nhắn hỏi ai đặt phòng, vậy mà khung chat vẫn im.",
+          "text": "AI CŨNG ĐÃ XEM",
+          "color": "red",
+          "actor": "phone_grin",
+          "prop": "notification_bell"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Trong nhóm, mỗi người có thể thấy mình ít trách nhiệm hơn. Đó là hiệu ứng bàng quan.",
+          "text": "TRÁCH NHIỆM BỊ CHIA NHỎ",
+          "color": "gold",
+          "actor": "point_viewer",
+          "prop": "brain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Việc cứ lơ lửng, vì ai cũng nghĩ người khác sẽ nhận.",
+          "text": "VIỆC CỨ LƠ LỬNG",
+          "color": "ink",
+          "actor": "confused_shrug"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Làm rõ đi. Nhận một bước nhỏ tiếp theo, hoặc giao việc rõ cho một người.",
+          "text": "GỌI TÊN BƯỚC KẾ",
+          "color": "green",
+          "actor": "typing_focused",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Kèo nhóm cũng trôi như vậy. Ai cũng nói hôm nào đó, chẳng ai chọn ngày.",
+          "text": "HÔM NÀO ĐÓ KHÔNG CÓ NGÀY",
+          "color": "red",
+          "actor": "think",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đưa ra giờ và chỗ: thứ bảy lúc bốn giờ, ăn bún. Nhờ mọi người xác nhận rồi cùng chỉnh.",
+          "text": "CHỐT GIỜ CỤ THỂ",
+          "color": "green",
+          "actor": "writing",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Làm xong việc, người nói to nhất có thể được nhớ hơn người làm phần khó.",
+          "text": "CÔNG SỨC DỄ BIẾN MẤT",
+          "color": "ink",
+          "actor": "reading",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Nêu tên người và phần họ làm. Ghi công rõ cho thấy đóng góp ấy giúp được gì.",
+          "text": "NÊU RÕ ĐÓNG GÓP",
+          "color": "green",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Khi ai đó nói chắc nịch trong cuộc họp, tôi có thể hỏi họ dựa vào đâu.",
+          "text": "HỎI CĂN CỨ Ở ĐÂU",
+          "color": "gold",
+          "actor": "nervous_wave"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Giọng nói tự tin không tự nó thành bằng chứng. Hỏi căn cứ rồi xem xét ý tưởng.",
+          "text": "NÓI CHẮC CHƯA LÀ ĐÚNG",
+          "color": "gold",
+          "actor": "think",
+          "prop": "lightbulb"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Khi góp ý nhắm vào thứ tôi làm, hỏi rõ phần nào khiến nó bớt giống một lời kết tội.",
+          "text": "TIẾP: NHÌN VÀO SẢN PHẨM",
+          "color": "gold",
+          "actor": "small_step"
+        }
+      ]
+    },
+    {
+      "title": "9. Feedback, Repair, and Trust",
+      "sources": [
+        "s113",
+        "s119"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Chín. Góp ý, sửa sai, và lòng tin",
+          "text": "9. SỬA PHẦN VIỆC",
+          "color": "ink",
+          "actor": "front"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Sếp bảo trang trình bày thứ ba khó hiểu, tôi nghe thành mình làm việc kém.",
+          "text": "MỘT TRANG THÀNH CẢ CON NGƯỜI",
+          "color": "red",
+          "actor": "worried_heart",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Khi việc mình làm dính chặt với con người mình, lời góp ý dễ đau như chê chính mình.",
+          "text": "CÔNG VIỆC THÀNH CHUYỆN RIÊNG",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Rồi tôi bênh từng lựa chọn, dù góp ý có thể chỉ nhắm vào tiêu đề hay bước bị thiếu.",
+          "text": "TỰ VỆ QUÁ LỚN",
+          "color": "red",
+          "actor": "arms_crossed_no"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Kéo góc nhìn về sản phẩm: chính xác thì phần nào cần sửa?",
+          "text": "HỎI RÕ PHẦN NÀO",
+          "color": "green",
+          "actor": "point_viewer",
+          "prop": "lightbulb"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Câu trả lời cụ thể cho tôi thứ để sửa. Nỗi sợ ban đầu lại nhắm vào cả năng lực.",
+          "text": "BƯỚC KẾ NHỎ HƠN",
+          "color": "gold",
+          "actor": "writing",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Tôi mượn sách rồi làm mất. Tôi xin lỗi, nhưng bạn vẫn buồn.",
+          "text": "XIN LỖI CHƯA ĐỦ",
+          "color": "red",
+          "actor": "worried_heart",
+          "prop": "reading"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Xin lỗi có thể nói rõ ảnh hưởng, rồi đề nghị cách sửa cụ thể. Hỏi điều gì giúp ổn hơn.",
+          "text": "NÓI RÕ RỒI SỬA",
+          "color": "green",
+          "actor": "hand_off",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Có thể mua cuốn khác hoặc tìm cách khác mà cả hai cùng đồng ý.",
+          "text": "SỬA CHO RA SỬA",
+          "color": "green",
+          "actor": "small_step",
+          "prop": "coin_stack"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Sửa sai không ép người kia tin lại ngay. Nó cho thấy bạn hiểu tổn thất và đang làm điều hữu ích.",
+          "text": "CHO THẤY BƯỚC TIẾP",
+          "color": "gold",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Ta đã nói về suy nghĩ, ranh giới, và cách nhóm hoạt động. Giờ thử tập trong một tuần.",
+          "text": "MỘT TUẦN TẬP LUYỆN",
+          "color": "gold",
+          "actor": "jogging",
+          "prop": "calendar_today"
+        }
+      ]
+    },
+    {
+      "title": "recap",
+      "sources": [
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s29",
+        "s106",
+        "s107",
+        "s108",
+        "s109",
+        "s110",
+        "s111",
+        "s112",
+        "s113",
+        "s114",
+        "s115",
+        "s116",
+        "s117",
+        "s118",
+        "s119",
+        "s120"
+      ],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mười. Nhắc lại",
+          "text": "10. NHẮC LẠI",
+          "color": "ink",
+          "actor": "front"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Cảm giác xã hội là thật, nhưng câu chuyện đi kèm vẫn có thể chỉ là phỏng đoán.",
+          "text": "CẢM GIÁC CHƯA LÀ CẢ CHUYỆN",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Xem bối cảnh, bớt soi mình, và hỏi thật một câu khi thấy mình đang bị chấm điểm.",
+          "text": "NHÌN, HỎI, KIỂM TRA",
+          "color": "green",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Cho lựa chọn một nhịp dừng. Xem lịch, xét từng lời nhờ riêng, rồi quyết khi áp lực qua.",
+          "text": "DỪNG TRƯỚC KHI GẬT",
+          "color": "gold",
+          "actor": "small_step",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Biết ơn không cần mua hàng. Gật một lần không nợ lần sau. Lời nhờ rõ hơn bóng gió.",
+          "text": "CHỌN RÕ, NHỜ RÕ",
+          "color": "green",
+          "actor": "writing",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nhóm làm tốt hơn khi có người gọi tên bước kế, thời gian, và người đã làm việc.",
+          "text": "LÀM RÕ BƯỚC TIẾP",
+          "color": "gold",
+          "actor": "think",
+          "prop": "target"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Trong bảy ngày, tập một hiệp mỗi ngày: dừng lại, xét cách hiểu khác, hoặc nhờ cho rõ.",
+          "text": "BẢY NGÀY, MỖI NGÀY MỘT HIỆP",
+          "color": "green",
+          "actor": "jogging",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Ghi ngắn điều bạn thử và chuyện xảy ra. Bạn đang gom trải nghiệm, không chấm điểm mình.",
+          "text": "ĐỂ Ý CHUYỆN XẢY RA",
+          "color": "ink",
+          "actor": "writing",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đôi khi người khác vẫn khó hiểu. Câu hỏi tốt, lựa chọn rõ, và bước kế cụ thể giúp tập dễ hơn.",
+          "text": "CỨ TẬP TIẾP",
+          "color": "gold",
+          "actor": "celebrate",
+          "prop": "dumbbell"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Muốn xem thêm giải thích của Lý Thuyết Chân Que, hãy đăng ký kênh. Ta sẽ tập cho chuyện xã hội dễ hơn.",
+          "text": "LÝ THUYẾT CHÂN QUE",
+          "color": "green",
+          "actor": "celebrate",
+          "prop": "lightbulb"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1495 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1280,
+ "height": 720,
+ "fps": 30,
+ "voice": {
+  "path": "narration.wav",
+  "lead": 0.15,
+  "tail": 0.6
+ },
+ "font": "chalkboard-1.ttf",
+ "music": {
+  "path": "music.mp3",
+  "gain": 0.12
+ },
+ "captions": [
+  {
+   "start": 0.17,
+   "end": 2.371,
+   "text": "You know exactly what you should be doing."
+  },
+  {
+   "start": 2.711,
+   "end": 5.093,
+   "text": "So why are you scrolling your phone instead?"
+  },
+  {
+   "start": 5.613,
+   "end": 7.457,
+   "text": "Most people call it laziness,"
+  },
+  {
+   "start": 7.657,
+   "end": 9.314,
+   "text": "or bad time management."
+  },
+  {
+   "start": 9.654,
+   "end": 11.447,
+   "text": "Researchers say it is neither."
+  },
+  {
+   "start": 11.967,
+   "end": 14.334,
+   "text": "Procrastination is about feelings."
+  },
+  {
+   "start": 14.674,
+   "end": 16.564,
+   "text": "A task feels boring, scary,"
+  },
+  {
+   "start": 16.764,
+   "end": 17.991,
+   "text": "or just too big,"
+  },
+  {
+   "start": 18.191,
+   "end": 19.849,
+   "text": "so your brain grabs something"
+  },
+  {
+   "start": 20.189,
+   "end": 21.897,
+   "text": "that feels better right now."
+  },
+  {
+   "start": 22.417,
+   "end": 24.502,
+   "text": "And the bill goes to your future self."
+  },
+  {
+   "start": 24.842,
+   "end": 27.759,
+   "text": "A person your brain treats almost like a stranger."
+  },
+  {
+   "start": 28.279,
+   "end": 29.924,
+   "text": "So don't wait to feel ready."
+  },
+  {
+   "start": 30.264,
+   "end": 33.132,
+   "text": "Shrink the first step until it's too small to fear."
+  },
+  {
+   "start": 33.472,
+   "end": 34.626,
+   "text": "Open the file."
+  },
+  {
+   "start": 34.966,
+   "end": 36.056,
+   "text": "Write one line."
+  },
+  {
+   "start": 36.576,
+   "end": 39.138,
+   "text": "The bad feeling usually fades once you start."
+  },
+  {
+   "start": 39.478,
+   "end": 42.342,
+   "text": "So, what's the smallest first step you could take today?"
+  }
+ ],
+ "shots": [
+  {
+   "start": 0.0,
+   "end": 2.691,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE THING YOU SHOULD DO.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop1",
+     "motion": {
+      "role": "prop",
+      "reason": "The pile of work looms"
+     },
+     "path": "../art-J/q01_paper_mountain.png",
+     "x": 110,
+     "y": 235,
+     "h": 355,
+     "w": 345,
+     "keys": [
+      {
+       "t": 0,
+       "y": 265,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 235,
+       "alpha": 1
+      },
+      {
+       "t": 1.345,
+       "y": 229,
+       "angle": 0.012
+      },
+      {
+       "t": 2.591,
+       "y": 235,
+       "angle": -0.01
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "actor2",
+     "motion": {
+      "role": "actor",
+      "reason": "The hero eyes the pile"
+     },
+     "path": "../art-J/buff_34.png",
+     "x": 760,
+     "y": 70,
+     "h": 520,
+     "w": 382,
+     "keys": [
+      {
+       "t": 0,
+       "y": 100,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 70,
+       "alpha": 1
+      },
+      {
+       "t": 1.345,
+       "y": 64,
+       "angle": 0.012
+      },
+      {
+       "t": 2.591,
+       "y": 70,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 2.691,
+   "end": 5.593,
+   "layers": [
+    {
+     "type": "text",
+     "text": "...SO WHY THE PHONE?",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "actor3",
+     "motion": {
+      "role": "actor",
+      "reason": "He turns away to scroll his phone"
+     },
+     "path": "../art-J/t01_phone_grin.png",
+     "x": 380,
+     "y": 120,
+     "h": 470,
+     "w": 581,
+     "keys": [
+      {
+       "t": 0,
+       "x": 300,
+       "y": 120,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "x": 380,
+       "y": 120,
+       "alpha": 1
+      },
+      {
+       "t": 1.451,
+       "y": 114,
+       "angle": 0.012
+      },
+      {
+       "t": 2.802,
+       "y": 120,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 5.593,
+   "end": 7.637,
+   "layers": [
+    {
+     "type": "text",
+     "text": "LAZY?",
+     "x": 95,
+     "y": 110,
+     "size": 72,
+     "bold": true,
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop4",
+     "motion": {
+      "role": "prop",
+      "reason": "The comfy sofa calls"
+     },
+     "path": "../art-J/q02_sofa.png",
+     "x": 80,
+     "y": 260,
+     "h": 300,
+     "w": 446,
+     "keys": [
+      {
+       "t": 0,
+       "y": 290,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 260,
+       "alpha": 1
+      },
+      {
+       "t": 1.022,
+       "y": 254,
+       "angle": 0.012
+      },
+      {
+       "t": 1.944,
+       "y": 260,
+       "angle": -0.01
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "actor5",
+     "motion": {
+      "role": "actor",
+      "reason": "The hero shrugs off the label"
+     },
+     "path": "../art-J/buff_front.png",
+     "x": 760,
+     "y": 70,
+     "h": 520,
+     "w": 394,
+     "keys": [
+      {
+       "t": 0,
+       "y": 100,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 70,
+       "alpha": 1
+      },
+      {
+       "t": 1.022,
+       "y": 64,
+       "angle": 0.012
+      },
+      {
+       "t": 1.944,
+       "y": 70,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 7.637,
+   "end": 9.634,
+   "layers": [
+    {
+     "type": "text",
+     "text": "LAZY?",
+     "x": 95,
+     "y": 110,
+     "size": 72,
+     "bold": true,
+     "w": 560
+    },
+    {
+     "type": "text",
+     "text": "BAD PLANNER?",
+     "x": 95,
+     "y": 190,
+     "size": 64,
+     "bold": true,
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop6",
+     "motion": {
+      "role": "prop",
+      "reason": "The planner page appears"
+     },
+     "path": "../art-J/q08_calendar_today.png",
+     "x": 120,
+     "y": 300,
+     "h": 230,
+     "w": 223,
+     "keys": [
+      {
+       "t": 0,
+       "y": 330,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 300,
+       "alpha": 1
+      },
+      {
+       "t": 0.999,
+       "y": 294,
+       "angle": 0.012
+      },
+      {
+       "t": 1.897,
+       "y": 300,
+       "angle": -0.01
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "actor7",
+     "motion": {
+      "role": "actor",
+      "reason": "He shrugs, confused"
+     },
+     "path": "../art-J/t05_confused_shrug.png",
+     "x": 547,
+     "y": 90,
+     "h": 500,
+     "w": 703,
+     "keys": [
+      {
+       "t": 0,
+       "y": 120,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 90,
+       "alpha": 1
+      },
+      {
+       "t": 0.999,
+       "y": 84,
+       "angle": 0.012
+      },
+      {
+       "t": 1.897,
+       "y": 90,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 9.634,
+   "end": 11.947,
+   "layers": [
+    {
+     "type": "text",
+     "text": "NEITHER.",
+     "x": 95,
+     "y": 110,
+     "size": 80,
+     "bold": true,
+     "color": "#3E9B57",
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "actor8",
+     "motion": {
+      "role": "actor",
+      "reason": "He crosses his arms: no"
+     },
+     "path": "../art-J/t06_arms_crossed_no.png",
+     "x": 700,
+     "y": 90,
+     "h": 500,
+     "w": 371,
+     "keys": [
+      {
+       "t": 0,
+       "y": 120,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 90,
+       "alpha": 1
+      },
+      {
+       "t": 1.157,
+       "y": 84,
+       "angle": 0.012
+      },
+      {
+       "t": 2.213,
+       "y": 90,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 11.947,
+   "end": 14.654,
+   "layers": [
+    {
+     "type": "text",
+     "text": "IT'S ABOUT FEELINGS.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#D9962B",
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "actor9",
+     "motion": {
+      "role": "actor",
+      "reason": "Hand on heart, worried"
+     },
+     "path": "../art-J/t07_worried_heart.png",
+     "x": 700,
+     "y": 70,
+     "h": 520,
+     "w": 329,
+     "keys": [
+      {
+       "t": 0,
+       "y": 100,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 70,
+       "alpha": 1
+      },
+      {
+       "t": 1.353,
+       "y": 64,
+       "angle": 0.012
+      },
+      {
+       "t": 2.607,
+       "y": 70,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 14.654,
+   "end": 16.744,
+   "layers": [
+    {
+     "type": "text",
+     "text": "BORING. SCARY.",
+     "x": 95,
+     "y": 110,
+     "size": 64,
+     "bold": true,
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop10",
+     "motion": {
+      "role": "prop",
+      "reason": "A storm cloud of dread"
+     },
+     "path": "../art-J/q04_storm_cloud.png",
+     "x": 140,
+     "y": 260,
+     "h": 220,
+     "w": 247,
+     "keys": [
+      {
+       "t": 0,
+       "y": 290,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 260,
+       "alpha": 1
+      },
+      {
+       "t": 1.045,
+       "y": 254,
+       "angle": 0.012
+      },
+      {
+       "t": 1.99,
+       "y": 260,
+       "angle": -0.01
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "actor11",
+     "motion": {
+      "role": "actor",
+      "reason": "He yawns at the boring task"
+     },
+     "path": "../art-J/t08_bored_yawn.png",
+     "x": 700,
+     "y": 90,
+     "h": 500,
+     "w": 379,
+     "keys": [
+      {
+       "t": 0,
+       "y": 120,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 90,
+       "alpha": 1
+      },
+      {
+       "t": 1.045,
+       "y": 84,
+       "angle": 0.012
+      },
+      {
+       "t": 1.99,
+       "y": 90,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 16.744,
+   "end": 18.171,
+   "layers": [
+    {
+     "type": "text",
+     "text": "TOO BIG.",
+     "x": 95,
+     "y": 110,
+     "size": 80,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop12",
+     "motion": {
+      "role": "prop",
+      "reason": "The task towers over everything"
+     },
+     "path": "../art-J/q01_paper_mountain.png",
+     "x": 90,
+     "y": 200,
+     "h": 400,
+     "w": 389,
+     "keys": [
+      {
+       "t": 0,
+       "y": 230,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 200,
+       "alpha": 1
+      },
+      {
+       "t": 0.8,
+       "y": 194,
+       "angle": 0.012
+      },
+      {
+       "t": 1.327,
+       "y": 200,
+       "angle": -0.01
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "actor13",
+     "motion": {
+      "role": "actor",
+      "reason": "He panics at the size"
+     },
+     "path": "../art-J/t02_panic.png",
+     "x": 720,
+     "y": 90,
+     "h": 500,
+     "w": 519,
+     "keys": [
+      {
+       "t": 0,
+       "y": 120,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 90,
+       "alpha": 1
+      },
+      {
+       "t": 0.8,
+       "y": 84,
+       "angle": 0.012
+      },
+      {
+       "t": 1.327,
+       "y": 90,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 18.171,
+   "end": 20.169,
+   "layers": [
+    {
+     "type": "text",
+     "text": "GRAB SOMETHING ELSE...",
+     "x": 95,
+     "y": 110,
+     "size": 58,
+     "bold": true,
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop14",
+     "motion": {
+      "role": "prop",
+      "reason": "The glowing phone slides in"
+     },
+     "path": "../art-J/q03_smartphone_glow.png",
+     "x": 480,
+     "y": 180,
+     "h": 400,
+     "w": 218,
+     "keys": [
+      {
+       "t": 0,
+       "x": 400,
+       "y": 180,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "x": 480,
+       "y": 180,
+       "alpha": 1
+      },
+      {
+       "t": 0.999,
+       "y": 174,
+       "angle": 0.012
+      },
+      {
+       "t": 1.898,
+       "y": 180,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 20.169,
+   "end": 22.397,
+   "layers": [
+    {
+     "type": "text",
+     "text": "...THAT FEELS BETTER NOW.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#3E9B57",
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "actor15",
+     "motion": {
+      "role": "actor",
+      "reason": "He sinks into the sofa with the phone"
+     },
+     "path": "../art-J/t09_sofa_scroll.png",
+     "x": 406,
+     "y": 160,
+     "h": 440,
+     "w": 844,
+     "keys": [
+      {
+       "t": 0,
+       "y": 190,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 160,
+       "alpha": 1
+      },
+      {
+       "t": 1.114,
+       "y": 154,
+       "angle": 0.012
+      },
+      {
+       "t": 2.128,
+       "y": 160,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 22.397,
+   "end": 24.822,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE BILL GOES TO FUTURE YOU.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop16",
+     "motion": {
+      "role": "prop",
+      "reason": "The deadline day is circled"
+     },
+     "path": "../art-J/q08_calendar_today.png",
+     "x": 120,
+     "y": 330,
+     "h": 220,
+     "w": 214,
+     "keys": [
+      {
+       "t": 0,
+       "y": 360,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 330,
+       "alpha": 1
+      },
+      {
+       "t": 1.212,
+       "y": 324,
+       "angle": 0.012
+      },
+      {
+       "t": 2.325,
+       "y": 330,
+       "angle": -0.01
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "actor17",
+     "motion": {
+      "role": "actor",
+      "reason": "He hands the pile onward"
+     },
+     "path": "../art-J/t03_hand_off.png",
+     "x": 720,
+     "y": 90,
+     "h": 500,
+     "w": 417,
+     "keys": [
+      {
+       "t": 0,
+       "y": 120,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 90,
+       "alpha": 1
+      },
+      {
+       "t": 1.212,
+       "y": 84,
+       "angle": 0.012
+      },
+      {
+       "t": 2.325,
+       "y": 90,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 24.822,
+   "end": 28.259,
+   "layers": [
+    {
+     "type": "text",
+     "text": "ALMOST A STRANGER.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop18",
+     "motion": {
+      "role": "prop",
+      "reason": "Time runs out"
+     },
+     "path": "../art-J/q05_hourglass.png",
+     "x": 160,
+     "y": 290,
+     "h": 260,
+     "w": 145,
+     "keys": [
+      {
+       "t": 0,
+       "y": 320,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 290,
+       "alpha": 1
+      },
+      {
+       "t": 1.718,
+       "y": 284,
+       "angle": 0.012
+      },
+      {
+       "t": 3.337,
+       "y": 290,
+       "angle": -0.01
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "actor19",
+     "motion": {
+      "role": "actor",
+      "reason": "Future him, exhausted"
+     },
+     "path": "../art-J/t10_future_tired.png",
+     "x": 700,
+     "y": 90,
+     "h": 500,
+     "w": 463,
+     "keys": [
+      {
+       "t": 0,
+       "y": 120,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 90,
+       "alpha": 1
+      },
+      {
+       "t": 1.718,
+       "y": 84,
+       "angle": 0.012
+      },
+      {
+       "t": 3.337,
+       "y": 90,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 28.259,
+   "end": 30.244,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DON'T WAIT TO FEEL READY.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#3E9B57",
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "actor20",
+     "motion": {
+      "role": "actor",
+      "reason": "He crouches to start"
+     },
+     "path": "../art-J/t11_sprint_start.png",
+     "x": 640,
+     "y": 200,
+     "h": 380,
+     "w": 566,
+     "keys": [
+      {
+       "t": 0,
+       "x": 560,
+       "y": 200,
+       "alpha": 0
+      },
+      {
+       "t": 0.4,
+       "x": 640,
+       "y": 200,
+       "alpha": 1
+      },
+      {
+       "t": 0.993,
+       "y": 194,
+       "angle": 0.012
+      },
+      {
+       "t": 1.885,
+       "y": 200,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 30.244,
+   "end": 33.452,
+   "layers": [
+    {
+     "type": "text",
+     "text": "SHRINK THE FIRST STEP.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#3E9B57",
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop21",
+     "motion": {
+      "role": "prop",
+      "reason": "The big pile fades away"
+     },
+     "path": "../art-J/q01_paper_mountain.png",
+     "x": 120,
+     "y": 230,
+     "h": 360,
+     "w": 350,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 1
+      },
+      {
+       "t": 1.123,
+       "alpha": 1
+      },
+      {
+       "t": 1.925,
+       "alpha": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "prop22",
+     "motion": {
+      "role": "prop",
+      "reason": "A tiny first step remains"
+     },
+     "path": "../art-J/q01_paper_mountain.png",
+     "x": 210,
+     "y": 380,
+     "h": 130,
+     "w": 126,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0
+      },
+      {
+       "t": 1.604,
+       "alpha": 0,
+       "y": 400
+      },
+      {
+       "t": 2.406,
+       "alpha": 1,
+       "y": 380
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "actor23",
+     "motion": {
+      "role": "actor",
+      "reason": "He thinks it through"
+     },
+     "path": "../art-J/t12_think.png",
+     "x": 720,
+     "y": 90,
+     "h": 500,
+     "w": 372,
+     "keys": [
+      {
+       "t": 0,
+       "y": 120,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 90,
+       "alpha": 1
+      },
+      {
+       "t": 1.604,
+       "y": 84,
+       "angle": 0.012
+      },
+      {
+       "t": 3.108,
+       "y": 90,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 33.452,
+   "end": 34.946,
+   "layers": [
+    {
+     "type": "text",
+     "text": "1. OPEN THE FILE.",
+     "x": 95,
+     "y": 110,
+     "size": 48,
+     "bold": true,
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop24",
+     "motion": {
+      "role": "prop",
+      "reason": "The file opens"
+     },
+     "path": "../art-J/q06_laptop_file.png",
+     "x": 520,
+     "y": 170,
+     "h": 400,
+     "w": 455,
+     "keys": [
+      {
+       "t": 0,
+       "y": 200,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 170,
+       "alpha": 1
+      },
+      {
+       "t": 0.8,
+       "y": 164,
+       "angle": 0.012
+      },
+      {
+       "t": 1.394,
+       "y": 170,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 34.946,
+   "end": 36.556,
+   "layers": [
+    {
+     "type": "text",
+     "text": "1. OPEN THE FILE.",
+     "x": 95,
+     "y": 110,
+     "size": 48,
+     "bold": true,
+     "w": 560
+    },
+    {
+     "type": "text",
+     "text": "2. WRITE ONE LINE.",
+     "x": 95,
+     "y": 180,
+     "size": 48,
+     "bold": true,
+     "color": "#3E9B57",
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop25",
+     "motion": {
+      "role": "prop",
+      "reason": "The first line is ticked"
+     },
+     "path": "../art-J/q07_checkbox_tick.png",
+     "x": 150,
+     "y": 300,
+     "h": 200,
+     "w": 197,
+     "keys": [
+      {
+       "t": 0,
+       "y": 330,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 300,
+       "alpha": 1
+      },
+      {
+       "t": 0.805,
+       "y": 294,
+       "angle": 0.012
+      },
+      {
+       "t": 1.51,
+       "y": 300,
+       "angle": -0.01
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "actor26",
+     "motion": {
+      "role": "actor",
+      "reason": "He types, focused"
+     },
+     "path": "../art-J/t13_typing_focused.png",
+     "x": 520,
+     "y": 150,
+     "h": 450,
+     "w": 552,
+     "keys": [
+      {
+       "t": 0,
+       "y": 180,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 150,
+       "alpha": 1
+      },
+      {
+       "t": 0.805,
+       "y": 144,
+       "angle": 0.012
+      },
+      {
+       "t": 1.51,
+       "y": 150,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 36.556,
+   "end": 39.458,
+   "layers": [
+    {
+     "type": "text",
+     "text": "START. THE FEELING FADES.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#3E9B57",
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop27",
+     "motion": {
+      "role": "prop",
+      "reason": "The dread cloud fades"
+     },
+     "path": "../art-J/q04_storm_cloud.png",
+     "x": 160,
+     "y": 230,
+     "h": 200,
+     "w": 225,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 1,
+       "y": 230
+      },
+      {
+       "t": 2.322,
+       "alpha": 0,
+       "y": 180
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "actor28",
+     "motion": {
+      "role": "actor",
+      "reason": "He steps up and flexes"
+     },
+     "path": "../art-J/t04_small_step.png",
+     "x": 700,
+     "y": 90,
+     "h": 500,
+     "w": 504,
+     "keys": [
+      {
+       "t": 0,
+       "y": 120,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 90,
+       "alpha": 1
+      },
+      {
+       "t": 1.451,
+       "y": 84,
+       "angle": 0.012
+      },
+      {
+       "t": 2.802,
+       "y": 90,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 39.458,
+   "end": 42.943,
+   "layers": [
+    {
+     "type": "text",
+     "text": "YOUR SMALLEST FIRST STEP?",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#D9962B",
+     "w": 560
+    },
+    {
+     "type": "image",
+     "id": "prop29",
+     "motion": {
+      "role": "prop",
+      "reason": "Today is circled"
+     },
+     "path": "../art-J/q08_calendar_today.png",
+     "x": 150,
+     "y": 300,
+     "h": 230,
+     "w": 223,
+     "keys": [
+      {
+       "t": 0,
+       "y": 330,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 300,
+       "alpha": 1
+      },
+      {
+       "t": 1.742,
+       "y": 294,
+       "angle": 0.012
+      },
+      {
+       "t": 3.385,
+       "y": 300,
+       "angle": -0.01
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "actor30",
+     "motion": {
+      "role": "actor",
+      "reason": "He points at the viewer"
+     },
+     "path": "../art-J/t14_point_viewer.png",
+     "x": 700,
+     "y": 80,
+     "h": 510,
+     "w": 403,
+     "keys": [
+      {
+       "t": 0,
+       "y": 110,
+       "alpha": 0
+      },
+      {
+       "t": 0.35,
+       "y": 80,
+       "alpha": 1
+      },
+      {
+       "t": 1.742,
+       "y": 74,
+       "angle": 0.012
+      },
+      {
+       "t": 3.385,
+       "y": 80,
+       "angle": -0.01
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": [
+  {
+   "time": 2.55,
+   "kind": "tap",
+   "gain": 0.05
+  },
+  {
+   "time": 9.693,
+   "kind": "paper",
+   "gain": 0.05
+  },
+  {
+   "time": 12.047,
+   "kind": "pop",
+   "gain": 0.05
+  },
+  {
+   "time": 17.347,
+   "kind": "pop",
+   "gain": 0.05
+  },
+  {
+   "time": 22.797,
+   "kind": "paper",
+   "gain": 0.05
+  },
+  {
+   "time": 28.459,
+   "kind": "tap",
+   "gain": 0.05
+  },
+  {
+   "time": 32.859,
+   "kind": "paper",
+   "gain": 0.05
+  },
+  {
+   "time": 39.756,
+   "kind": "chime",
+   "gain": 0.05
+  }
+ ],
+ "ambience": [
+  {
+   "path": "room-tone.wav",
+   "start": 0,
+   "end": 42.942,
+   "gain": 0.04,
+   "fadeIn": 0.5,
+   "fadeOut": 0.8
+  }
+ ]
+}

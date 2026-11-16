@@ -1,0 +1,1010 @@
+{
+ "id": "L14vi",
+ "lang": "vi",
+ "title": "Làm sao học tiếp khi môn học khiến bạn thấy chán?",
+ "description": "Vật lộn với giáo trình khô khan, môn đại cương hay tự học đổi nghề? Tám cơ chế tâm lý giúp bạn biến giờ học uể oải thành đà tiến bộ vững chắc.",
+ "chapters": [
+  {
+   "title": "Mở đầu: Trang sách nặng nề",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tối mở giáo trình ra, đọc một câu bốn lần mà chẳng vào đầu.",
+     "text": "TRANG SÁCH NẶNG NỀ",
+     "color": "red",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Học môn đại cương hay tự học đổi nghề, cảm giác đều ngột ngạt.",
+     "text": "NỖI SỢ ĐỔI NGHỀ",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rõ rồi Pen. Cậu đang đòi nâng tạ nặng khi chưa thèm khởi động.",
+     "text": "CHƯA KỊP KHỞI ĐỘNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khoa học chỉ ra tám cơ chế tâm lý giúp chuyển đà ì ạch thành tiến bộ vững chắc.",
+     "text": "TÁM CƠ CHẾ TÂM LÝ",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Liệu có thể rèn não tập trung vào môn học khô khốc không Buff?",
+     "text": "RÈN NÃO TẬP TRUNG",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tối nào vừa ngồi vào bàn học là mình đã thấy sập nguồn rồi.",
+     "text": "SẬP NGUỒN BUỔI TỐI",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp nào cũng tính điểm. Đứng dậy khởi động đi, ta ráp cỗ máy học tập ngay bây giờ.",
+     "text": "KHỞI ĐỘNG CỖ MÁY",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Tia lửa đầu tiên",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình cứ ngồi chờ cảm hứng mới mở tài liệu, nhưng chẳng thấy đâu.",
+     "text": "1. TIA LỬA ĐẦU TIÊN",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chờ đam mê thì khác gì nằm lười mà đòi cơ bắp cuồn cuộn.",
+     "text": "ĐAM MÊ PHẢI RÈN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là quá trình tạo hứng thú. Hứng thú không tự đến, phải tự xây.",
+     "text": "NUÔI DƯỠNG HỨNG THÚ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng lẽ không ai tự nhiên bật dậy để cày luật thuế hay quy chuẩn kỹ thuật à?",
+     "text": "KHÔNG CÓ ĐAM MÊ SẴN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không một ai. Não bạn chỉ bắt đầu chú ý từ những tò mò rất nhỏ.",
+     "text": "GIAI ĐOẠN KÍCH HOẠT",
+     "color": "ink",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đi làm về mệt mỏi, nhìn tập tài liệu ba trăm trang là ngợp ngay.",
+     "text": "MỆT MỎI SAU CA LÀM",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì cậu đòi lửa trại to trong khi que diêm còn chưa thèm quẹt.",
+     "text": "QUẸT MỘT QUE DIÊM",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mẹo đây: lướt tóm tắt, tìm một chi tiết ngược hẳn suy nghĩ của bạn.",
+     "text": "TÌM ĐIỂM BẤT NGỜ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ một điểm mâu thuẫn là đủ kéo não thoát khỏi trạng thái ì ạch sao?",
+     "text": "MỘT ĐIỂM MÂU THUẪN?",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Điểm mâu thuẫn đó nhóm lên tia lửa, giữ mắt không rời trang sách.",
+     "text": "MỞ KHÓA TÒ MÒ",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghe được đấy, nhưng gặp bảng số liệu khô cứng dài ngoằng thì sao?",
+     "text": "GẶP BẢNG SỐ LIỆU?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cậu phải tự thả mồi câu để giật lấy sự chú ý của não.",
+     "text": "THẢ MỒI CHÚ Ý",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khởi động xong rồi. Giờ ta tự chế móc câu tò mò ngay lập tức.",
+     "text": "TỰ TẠO MÓC CÂU",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "2. Móc câu gay cấn",
+   "sources": [
+    "s01",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Dù đã dò tìm, mấy đoạn kỹ thuật vẫn làm mình hoa mắt sau hai phút.",
+     "text": "2. MÓC CÂU GAY CẤN",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não tiết kiệm năng lượng, nó sẽ lờ đi những bức tường chữ phẳng lì.",
+     "text": "NÃO TẨY CHAY CHỮ DÀI",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là hứng thú tình huống, tia lửa bùng lên nhờ sự kịch tính mới lạ.",
+     "text": "HỨNG THÚ TÌNH HUỐNG",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giáo trình kế toán hay quy chuẩn kỹ thuật thì lấy đâu ra kịch tính?",
+     "text": "TÀI LIỆU CÓ KỊCH TÍNH?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng đợi sách dâng sẵn. Cậu phải tự tay chế tạo móc câu, Pen.",
+     "text": "TỰ TẠO MỒI NHỬ",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đi làm về mệt phờ, lấy đâu ra sức tự tạo kịch tính cho điều luật?",
+     "text": "LẤY ĐÂU RA HỨNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy biến bài học thành vụ án. Bắt lý thuyết tự chứng minh sự tồn tại.",
+     "text": "HIỆN TRƯỜNG VỤ ÁN",
+     "color": "ink",
+     "actor": "34",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mẹo đây: hãy hỏi nếu quy định này bị phá vỡ, sự cố nào sẽ xảy ra?",
+     "text": "TRUY TÌM THẢM HỌA",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thay vì học vẹt, mình soi xem vi phạm điều này thì dự án sập hay hệ thống toang ra sao?",
+     "text": "GÓC NHÌN SỰ CỐ",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Não sẽ tập trung ngay khi dính tới mất tiền hay gặp sự cố.",
+     "text": "NÃO BẬT TẬP TRUNG",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách này giúp tỉnh táo, nhưng sau một tiếng sự tò mò có nguội đi không?",
+     "text": "KHI SỰ TÒ MÒ HẾT?",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tò mò chỉ giúp mở cửa thôi, sự mới lạ sẽ bay màu rất nhanh.",
+     "text": "BẤT NGỜ NHANH TÀN",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn trụ đường dài, bạn phải nối lý thuyết này với mục tiêu của mình.",
+     "text": "GẮN VỚI MỤC TIÊU",
+     "color": "ink",
+     "actor": "front",
+     "prop": "coin_stack"
+    }
+   ]
+  },
+  {
+   "title": "3. Cây cầu thực tế",
+   "sources": [
+    "s01",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi tối cày chứng chỉ, đầu mình luôn có tiếng nói bảo học rất vô bổ.",
+     "text": "3. CÂY CẦU THỰC TẾ",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiếng nói đó giúp não canh chừng, ngăn lãng phí năng lượng vào việc vô ích.",
+     "text": "BẢO VỆ NĂNG LƯỢNG",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là giá trị hữu dụng, thước đo độ có ích cho tương lai bạn.",
+     "text": "GIÁ TRỊ HỮU DỤNG",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cày mấy môn toán cao cấp hay điều luật này giúp gì cho người muốn đổi nghề sang làm công nghệ?",
+     "text": "GIÁ TRỊ NẰM Ở ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu không trả lời rõ, tiềm thức sẽ thẳng tay ngắt cầu dao tập trung.",
+     "text": "NGẮT CẦU DAO NÃO",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra chán chường là chuông báo mình chưa thấy liên hệ với công việc?",
+     "text": "CHUÔNG BÁO ĐỘNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn xác. Cậu cần khởi động trước khi mở bất kỳ trang tài liệu nào.",
+     "text": "BÀI TẬP BẮC CẦU",
+     "color": "gold",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trước khi mở sách, viết mẩu giấy nối bài học với mục tiêu của bạn.",
+     "text": "VIẾT CÂY CẦU NỐI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như là ghi: học xong phần này để báo cáo thuyết phục sếp tăng lương?",
+     "text": "GẮN VÀO THỰC TẾ",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dán ngay cạnh màn hình. Thấy rõ giá trị thực tế sẽ biến lý thuyết khô cứng thành đòn bẩy sự nghiệp.",
+     "text": "DÁN CẠNH MÀN HÌNH",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn mẩu giấy, mình nhớ lý do phải hy sinh những buổi tối thảnh thơi.",
+     "text": "NHỚ LÝ DO BẮT ĐẦU",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy lợi ích rồi, nhưng sự tự ti vẫn có thể đè bẹp quyết tâm.",
+     "text": "COI CHỪNG NỖI SỢ",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp tới, ta giải mã lý do khiến não đứng hình trước trang sách khó.",
+     "text": "GIẢI MÃ PHƯƠNG TRÌNH",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "4. Bài toán nỗ lực",
+   "sources": [
+    "s01",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Biết bài này rất cần cho việc mới, nhưng thấy công thức là mình hoảng.",
+     "text": "4. BÀI TOÁN NỖ LỰC",
+     "color": "red",
+     "actor": "panic",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đứng hình là do sự tự ti đụng phải cơ chế kỳ vọng và giá trị.",
+     "text": "THUYẾT KỲ VỌNG",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Động lực bằng giá trị mục tiêu nhân với niềm tin rằng bạn làm được.",
+     "text": "GIÁ TRỊ NHÂN NIỀM TIN",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu tin xác suất qua môn bằng không, thì động lực cũng tắt ngúm sao?",
+     "text": "NIỀM TIN BẰNG KHÔNG?",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Số không nhân mấy cũng bằng không. Kêu chán chỉ là sợ hãi đội lốt.",
+     "text": "NỖI SỢ ĐỘI LỐT",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chê môn học chán nghe an toàn hơn thừa nhận mình đang thấy bất lực.",
+     "text": "BẢO VỆ TỰ ÁI",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Cách xử lý là hạ mức tạ để niềm tin tăng vọt trở lại.",
+     "text": "HẠ THẤP MỨC TẠ",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mở tài liệu, chép lại từng bước một bài tập mẫu có lời giải trước.",
+     "text": "CHÉP BÀI GIẢI MẪU",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lần theo bài giải mẫu chứng minh cho não thấy mình hiểu được từng bước.",
+     "text": "HIỂU ĐƯỢC TỪNG BƯỚC",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Niềm tin phục hồi, giá trị giữ vững. Bánh đà bắt đầu quay trơn tru.",
+     "text": "TỰ TIN TRỞ LẠI",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bớt sợ rồi, nhưng nếu môn này bị nhà trường hay sếp ép học?",
+     "text": "MÔN HỌC BẮT BUỘC?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bị ép buộc sẽ kích hoạt kháng cự, não tự nhiên muốn chống lại kiểm soát.",
+     "text": "PHẢN XẠ KHÁNG CỰ",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp sau, ta tìm hiểu vì sao môn bắt buộc khiến não ngột ngạt.",
+     "text": "CẢM GIÁC GIAM CẦM",
+     "color": "ink",
+     "actor": "34",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "5. Não bộ bị ép buộc",
+   "sources": [
+    "s01",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngán nhất là phải nuốt mấy môn đại cương hoặc bài kiểm tra quy trình ở công ty.",
+     "text": "5. NÃO BỊ ÉP BUỘC",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Con người ghét bị ra lệnh. Não sẽ tự động chống lại sự áp đặt.",
+     "text": "CHỐNG LẠI ÁP ĐẶT",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Theo thuyết tự quyết, khi bị ép buộc, động lực nội tại sẽ tắt ngúm.",
+     "text": "TẮT ĐỘNG LỰC NỘI TẠI",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ bị nhồi nhét khung chương trình là tinh thần mình rớt xuống đáy.",
+     "text": "TINH THẦN LAO DỐC",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy như tù nhân lao động khổ sai, tâm trí bèn mơ mộng để trốn.",
+     "text": "MƠ MỘNG ĐỂ TRỐN",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tìm lại động lực khi không thể đổi đề cương hay lịch thi?",
+     "text": "TÌM LẠI HỨNG THÚ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng chịu trận như bị ép nợ. Hãy coi mình đang nhặt công cụ xịn để nâng tầm.",
+     "text": "NHẶT CÔNG CỤ XỊN",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mẹo đây: lùng ngay phần kiến thức giúp giải quyết việc khó nhất trước.",
+     "text": "SĂN MỤC TIÊU ĐẮT GIÁ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là học môn bắt buộc này thành bước đi tự chọn để thăng tiến?",
+     "text": "LỰA CHỌN CHIẾN LƯỢC",
+     "color": "gold",
+     "actor": "typing_focused",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ cậu là chủ nhân, không phải con tin. Đổi góc nhìn thay đổi tất cả.",
+     "text": "LÀM CHỦ BUỔI TẬP",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm chủ rồi, nhưng học theo thứ tự chương cứng nhắc vẫn rất ngột ngạt.",
+     "text": "THỨ TỰ CỨNG NHẮC",
+     "color": "ink",
+     "actor": "think",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn làm chủ thật sự, cậu phải nắm quyền quyết định lộ trình học.",
+     "text": "QUYẾT ĐỊNH LỘ TRÌNH",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp tới, ta đặt tay lên vô lăng để bạn tự lái cỗ xe học.",
+     "text": "TỰ TAY CẦM LÁI",
+     "color": "ink",
+     "actor": "celebrate",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "6. Tự tay cầm lái",
+   "sources": [
+    "s01",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Dù bản thân muốn học, việc cày lần lượt từng chương từ đầu đến cuối vẫn làm mình ngộp.",
+     "text": "6. TỰ TAY CẦM LÁI",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lộ trình cứng nhắc như nhà tù. Đã tự học thì phải tự tay cầm lái.",
+     "text": "TỰ LÁI CỖ XE CỦA BẠN",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là hỗ trợ tự chủ. Nắm quyền tự quyết giúp bạn nhớ lâu hơn.",
+     "text": "HỖ TRỢ TỰ CHỦ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là không cần mở trang một đọc thẳng tới trang cuối sao Buff?",
+     "text": "BỎ QUA CHƯƠNG MỘT?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cậu là chủ bàn học. Thích xử lý phần nào trước thì cứ chọn phần đó.",
+     "text": "TỰ CHỌN THỨ TỰ HỌC",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đổi ra quán cà phê hay đổi cách học khi não cạn pin thì sao?",
+     "text": "ĐỔI MÔI TRƯỜNG HỌC?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mất tự chủ là mệt mỏi ngay. Cậu phải chủ động kiểm soát buổi học.",
+     "text": "CHỦ ĐỘNG KIỂM SOÁT",
+     "color": "ink",
+     "actor": "34",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mẹo đây: tự chọn hình thức học, chọn phần làm trước, và tự hẹn giờ.",
+     "text": "BA QUYỀN TỰ CHỌN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự chọn điểm xuất phát và thời gian giúp xóa tan ngay cảm giác ngột ngạt.",
+     "text": "XÓA TAN CẢM GIÁC NGỘP",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự chủ biến việc ép buộc thành thử thách do bạn tự làm chủ.",
+     "text": "TỰ THỬ THÁCH",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự chủ rồi, nhưng học cả tiếng, sao biết chữ có vào đầu không?",
+     "text": "CÓ ĐỌNG LẠI GÌ KHÔNG?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có tự quyết rồi, cậu cần thấy bằng chứng trí não đang khỏe lên.",
+     "text": "CẦN THẤY TIẾN BỘ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp sau, ta dựng bảng điểm tức thì để thấy rõ tiến bộ mỗi trang.",
+     "text": "BẢNG ĐIỂM TỨC THÌ",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "7. Đếm từng hiệp tập",
+   "sources": [
+    "s01",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn mớ sơ đồ kỹ thuật cả tiếng, nhưng mười phút sau đầu trống rỗng.",
+     "text": "7. ĐẾM TỪNG HIỆP TẬP",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đọc thụ động chỉ là tập rác. Cậu tốn giờ mà não chẳng tính được điểm nào.",
+     "text": "BÀI TẬP RÁC VÔ BỔ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là phản hồi năng lực. Ai cũng cần bằng chứng kỹ năng đang tăng.",
+     "text": "PHẢN HỒI NĂNG LỰC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra chán chường là ức chế vì không biết mình học vào không?",
+     "text": "ỨC CHẾ VÌ MƠ HỒ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Không có bảng điểm, não sẽ nghĩ buổi học vừa rồi công cốc.",
+     "text": "CẦN BẢNG GHI ĐIỂM",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự học đêm một mình, không ai dò bài thì lấy đâu ra bảng điểm?",
+     "text": "TỰ HỌC THÌ AI CHẤM?",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng đợi thi chính thức. Tự kiểm tra nhanh tạo đà tâm lý rất mạnh.",
+     "text": "TẠO ĐÀ TÂM LÝ NHANH",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mẹo đây: gấp sách lại, bấm giờ hai phút để tự ghi ra ba ý cốt lõi rồi chấm điểm.",
+     "text": "HAI PHÚT TỰ KIỂM TRA",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ghi đúng ba ý chứng minh hai mươi phút vừa rồi không hề uổng công.",
+     "text": "BẰNG CHỨNG THỰC TẾ",
+     "color": "gold",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Điểm số biến nỗ lực vô hình thành chiến thắng, tiếp sức hiệp sau.",
+     "text": "TIẾP SỨC HIỆP SAU",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có điểm thì tự tin, nhưng đêm nào cũng cày một mình thấy cô đơn.",
+     "text": "CẢM GIÁC CÔ ĐỘC",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập một mình tạ nặng gấp đôi. Ta không sinh ra để gánh tạ đơn độc.",
+     "text": "TỰ TẬP TẠ CỰC NẶNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp tới, ta kết nối bàn học với bạn bè để không phải tập một mình.",
+     "text": "KẾT NỐI ĐỒNG ĐỘI",
+     "color": "ink",
+     "actor": "front",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "8. Điểm tựa đồng đội",
+   "sources": [
+    "s01",
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cày đêm đổi nghề một mình cảm giác như thụ án trong phòng biệt giam.",
+     "text": "8. ĐIỂM TỰA ĐỒNG ĐỘI",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cô độc nhân đôi mệt mỏi. Con người học hỏi cùng nhau chứ không lẻ loi.",
+     "text": "HỌC CÙNG ĐỒNG ĐỘI",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là nhu cầu gắn kết. Chia sẻ biến bài học khô cứng thành niềm vui.",
+     "text": "NHU CẦU GẮN KẾT",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng nếu bạn bè hay đồng nghiệp không ai học chứng chỉ này thì sao?",
+     "text": "KHÔNG CÓ BẠN HỌC?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đâu cần bạn ngồi cạnh. Cậu chỉ cần người chịu lắng nghe thành quả.",
+     "text": "CẦN NGƯỜI LẮNG NGHE",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giải thích cho người khác thì giúp gì cho sự tập trung của mình?",
+     "text": "VÌ SAO NÓI RA TIẾNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não sẽ sắp xếp lại kiến thức rất mạch lạc khi chuẩn bị giảng lại.",
+     "text": "SẮP XẾP ĐỂ GIẢNG LẠI",
+     "color": "gold",
+     "actor": "34",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thu đoạn ghi âm sáu mươi giây tóm tắt ý chính rồi quăng vào nhóm Zalo hoặc gửi cho bạn bè.",
+     "text": "GHI ÂM SÁU MƯƠI GIÂY",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Gửi tin nhắn thoại làm mớ lý thuyết sách vở sống động hẳn lên.",
+     "text": "LÝ THUYẾT SỐNG ĐỘNG",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sự gắn kết tạo phòng tập chung, nơi bạn không phải nâng tạ một mình.",
+     "text": "KHÔNG NÂNG TẠ MỘT MÌNH",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có người lắng nghe làm đổi hẳn không khí u ám của buổi học tối.",
+     "text": "THAY ĐỔI CẢM XÚC",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cam kết với bạn bè giữ vững kỷ luật khi ý chí đã cạn kiệt.",
+     "text": "CAM KẾT KỶ LUẬT",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ gom cả tám công cụ thành giáo án hoàn chỉnh trên bàn học.",
+     "text": "GIÁO ÁN HOÀN CHỈNH",
+     "color": "ink",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Tổng kết: Cỗ máy học tập",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Môn học chán không phải bức tường để cắm đầu dùng ý chí húc vào.",
+     "text": "CỖ MÁY HỌC TẬP",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ý chí không gánh nổi đâu. Cậu chinh phục môn chán nhờ ba trụ cột.",
+     "text": "BA TRỤ CỘT CHÍNH",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một là khơi lửa tò mò bằng móc câu tình huống để kéo chú ý.",
+     "text": "1. THỔI BÙNG TÒ MÒ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai là tạo mục đích nhờ giá trị thực tế, niềm tin làm được và tinh thần tự quyết.",
+     "text": "2. XÂY DỰNG MỤC ĐÍCH",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba là tối ưu từng hiệp bằng quyền tự chủ, tự chấm điểm nhanh và kết nối bạn bè.",
+     "text": "3. TỐI ƯU HIỆP TẬP",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày: viết mẩu giấy bắc cầu thực tế trước khi mở sách.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi tối một mẩu giấy nhỏ để biến giờ học mệt mỏi thành đà thăng tiến.",
+     "text": "TẠO ĐÀ TIẾN BỘ",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi mỗi buổi học như buổi tập, đếm số hiệp thay vì đếm giờ vô ích.",
+     "text": "ĐẾM TỪNG HIỆP TẬP",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký kênh, tập đều mỗi ngày, đừng để trang sách chán hạ gục.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

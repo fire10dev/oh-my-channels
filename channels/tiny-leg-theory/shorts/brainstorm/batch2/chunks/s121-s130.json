@@ -1,0 +1,974 @@
+[
+ {
+  "id": "s121",
+  "mascot": "pen",
+  "title": "Why Naming a Feeling Can Help",
+  "mechanism": "Affect labeling",
+  "lines": [
+   {
+    "vo": "You say you feel bad. But bad is a big, blurry word.",
+    "text": "I FEEL BAD.",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Blurry feelings tend to feel bigger, and harder to hold.",
+    "text": "BLURRY = BIGGER",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Putting a feeling into words can turn its volume down a little.",
+    "text": "NAME IT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Try one precise word. Nervous. Disappointed. Left out.",
+    "text": "ONE PRECISE WORD",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "A named feeling is easier to pick a next step for.",
+    "text": "THEN, NEXT STEP",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Not bad. Just nervous. That is something you can work with.",
+    "text": "JUST NERVOUS.",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s121vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Goi ten cam xuc de nhe dau hon",
+  "title_vi": "Gọi tên cảm xúc để nhẹ đầu hơn",
+  "mechanism": "Affect labeling",
+  "lines": [
+   {
+    "vo": "Tối trước buổi bảo vệ đồ án, bạn chỉ thấy mọi thứ đều tệ.",
+    "text": "MỌI THỨ ĐỀU TỆ",
+    "color": "red",
+    "actor": "panic",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Chữ tệ rộng quá, nên cảm giác cứ phình ra mãi.",
+    "text": "\"TỆ\" RỘNG QUÁ",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Gọi đúng tên cảm xúc thường giúp nó dịu xuống một chút.",
+    "text": "GỌI ĐÚNG TÊN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Thử hỏi: mình đang bồn chồn, hay đang sợ bị hội đồng hỏi vặn?",
+    "text": "BỒN CHỒN? SỢ?",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Chọn một từ thật sát, viết ra giấy.",
+    "text": "MỘT TỪ THẬT SÁT",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Sợ bị hỏi vặn thì tối nay ôn trước ba câu khó nhất.",
+    "text": "ÔN 3 CÂU KHÓ",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Còn bây giờ, cảm giác của bạn tên là gì?",
+    "text": "NÓ TÊN LÀ GÌ?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s122",
+  "mascot": "buff",
+  "title": "Don't Reply at Peak Heat",
+  "mechanism": "Emotion regulation: response modulation",
+  "lines": [
+   {
+    "vo": "Angry text, thumbs already flying. Hold that send button.",
+    "text": "HOT REPLY?",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "At peak heat, your words land heavier than you mean.",
+    "text": "PEAK HEAT",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Draft it. Don't send it. Park it for a minute.",
+    "text": "DRAFT. DON'T SEND.",
+    "color": "green",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "Cool down. Reread. Cut every line you'd regret.",
+    "text": "REREAD. CUT.",
+    "color": "green",
+    "actor": "think",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "You rest between sets. Same rule before you hit send.",
+    "text": "REST, THEN SEND",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s122vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung tra loi luc dang nong",
+  "title_vi": "Đừng trả lời lúc đang nóng",
+  "mechanism": "Emotion regulation: response modulation",
+  "lines": [
+   {
+    "vo": "Quản lý đổi ca sát giờ. Bạn định xả ngay vào nhóm ca.",
+    "text": "ĐỔI CA SÁT GIỜ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Lúc đang nóng, câu chữ dễ gắt hơn bạn định.",
+    "text": "ĐANG NÓNG",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Cả nhóm đọc rồi thì thu hồi cũng muộn.",
+    "text": "THU HỒI CŨNG MUỘN",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Gõ nháp ra ghi chú trước. Chưa gửi.",
+    "text": "GÕ NHÁP, CHƯA GỬI",
+    "color": "green",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "Đi rót cốc nước, quay lại đọc, gạch câu nào gắt.",
+    "text": "ĐỌC LẠI, GẠCH BỚT",
+    "color": "green",
+    "actor": "think",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Nghỉ giữa hiệp rồi mới ra đòn. Tin nhắn cũng vậy.",
+    "text": "NGHỈ RỒI MỚI GỬI",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s123",
+  "mascot": "pen",
+  "title": "Why a Small Pause Changes the Moment",
+  "mechanism": "Cognitive reappraisal",
+  "lines": [
+   {
+    "vo": "Stuck in a slow line, and suddenly the whole evening feels ruined.",
+    "text": "THIS LINE...",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "The line didn't ruin it. The story 'this is wasted time' did.",
+    "text": "WASTED TIME?",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Feelings tend to follow how you read a moment, not just the moment.",
+    "text": "READ = FEEL",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "That's reappraisal: same event, a different reading that's still honest.",
+    "text": "SAME EVENT",
+    "actor": "front",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "So pause and ask: what else could this moment be?",
+    "text": "WHAT ELSE?",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Five quiet minutes. Time for the call you keep putting off.",
+    "text": "5 QUIET MINUTES",
+    "color": "green",
+    "actor": "meditating"
+   },
+   {
+    "vo": "The line is just as slow. It just weighs a little less.",
+    "text": "SAME LINE, LIGHTER",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s123vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Nghi khac di, thay nhe hon",
+  "title_vi": "Nghĩ khác đi, thấy nhẹ hơn",
+  "mechanism": "Cognitive reappraisal",
+  "lines": [
+   {
+    "vo": "Ngồi xe buýt kẹt cứng giờ tan tầm, bạn thấy cả tối hỏng rồi.",
+    "text": "TỐI NAY HỎNG RỒI",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Thật ra cái làm bạn bực là câu: mình đang phí thời gian.",
+    "text": "\"PHÍ THỜI GIAN\"",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Cảm xúc thường đi theo cách mình hiểu chuyện, không chỉ theo chuyện.",
+    "text": "HIỂU SAO, THẤY VẬY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Đổi cách hiểu, miễn vẫn đúng sự thật, cảm giác dễ đổi theo.",
+    "text": "ĐỔI CÁCH HIỂU",
+    "actor": "front",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Dừng một nhịp, hỏi: quãng thời gian này còn có thể là gì?",
+    "text": "CÒN LÀ GÌ NỮA?",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Hai mươi phút để gọi về cho mẹ.",
+    "text": "GỌI VỀ CHO MẸ",
+    "color": "green",
+    "actor": "phone_grin"
+   },
+   {
+    "vo": "Hoặc chỉ ngồi nhìn phố lên đèn, không phải làm gì.",
+    "text": "NGỒI NHÌN PHỐ",
+    "color": "green",
+    "actor": "meditating"
+   },
+   {
+    "vo": "Xe vẫn kẹt y như cũ. Chỉ là lòng mình bớt nặng.",
+    "text": "XE VẪN KẸT",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s124",
+  "mascot": "buff",
+  "title": "Turn a Vague Worry Into a Next Step",
+  "mechanism": "Problem-focused coping",
+  "lines": [
+   {
+    "vo": "Worried about the presentation. Again. Fifth hour running.",
+    "text": "STILL WORRYING",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Worry feels like work. It's not a rep.",
+    "text": "WORRY IS NOT A REP",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "If you can act on it, name the action.",
+    "text": "NAME THE ACTION",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Not 'fix the presentation.' Too heavy for one set.",
+    "text": "TOO HEAVY",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Smaller. Find two sources. Tonight, after dinner.",
+    "text": "2 SOURCES. TONIGHT.",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Write the step and the time. Tick it when done.",
+    "text": "STEP AND TIME",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Can't act on it yet? Park it on tomorrow's list.",
+    "text": "CAN'T ACT? PARK IT",
+    "actor": "hand_off",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Worry, or one rep. Pick the rep.",
+    "text": "PICK THE REP",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s124vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Lo mo ho thi doi thanh mot buoc",
+  "title_vi": "Lo mơ hồ thì đổi thành một bước",
+  "mechanism": "Problem-focused coping",
+  "lines": [
+   {
+    "vo": "Thứ Hai thuyết trình mà chưa có gì. Lo từ tối thứ Sáu.",
+    "text": "LO TỪ THỨ SÁU",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Lo cả cuối tuần không tính là đã tập hiệp nào.",
+    "text": "LO KHÔNG PHẢI TẬP",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Việc gì làm được thì gọi đúng tên nó, thật nhỏ.",
+    "text": "GỌI TÊN VIỆC",
+    "actor": "think"
+   },
+   {
+    "vo": "Tối nay, ăn cơm xong, tìm ba nguồn tài liệu. Xong thì tích.",
+    "text": "TỐI NAY: 3 NGUỒN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Ngồi lo tiếp, hoặc nhấc tạ hiệp đầu. Chọn đi.",
+    "text": "LO HAY LÀM?",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s125",
+  "mascot": "pen",
+  "title": "Why You Feel Worse After a Long Day",
+  "mechanism": "Mood-congruent memory",
+  "lines": [
+   {
+    "vo": "After a long shift, you decide you got nothing done all week.",
+    "text": "I DID NOTHING.",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Tired moods tend to pull up tired memories first.",
+    "text": "TIRED RECALL",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "So the week gets judged by its worst bits, at your lowest point.",
+    "text": "WORST BITS FIRST",
+    "actor": "think"
+   },
+   {
+    "vo": "Save the big verdict on your week for after you've rested.",
+    "text": "VERDICT: TOMORROW",
+    "color": "green",
+    "actor": "sleeping",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Tonight you're tired. That's the only conclusion tonight gets to make.",
+    "text": "JUST TIRED TONIGHT",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s125vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao cuoi ngay minh thay te hon",
+  "title_vi": "Vì sao cuối ngày mình thấy tệ hơn",
+  "mechanism": "Mood-congruent memory",
+  "lines": [
+   {
+    "vo": "Mười giờ tối tăng ca xong, bạn thấy mình chẳng làm được gì ra hồn.",
+    "text": "CHẲNG RA HỒN",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Lúc mệt, đầu óc dễ lôi ra toàn những chuyện mệt.",
+    "text": "MỆT GỌI MỆT",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Lần sếp nhắc, cái lỗi chính tả, bữa trưa ăn vội.",
+    "text": "TOÀN CHUYỆN DỞ",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Còn chuyện sáng nay bạn gỡ rối giúp đồng nghiệp thì quên mất.",
+    "text": "VIỆC TỐT BỊ QUÊN",
+    "actor": "think"
+   },
+   {
+    "vo": "Đừng chấm điểm cả tuần lúc đang cạn pin. Để sáng mai.",
+    "text": "SÁNG MAI HẴNG CHẤM",
+    "color": "green",
+    "actor": "sleeping",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Ngủ đủ rồi, tuần này trông có còn tệ như bây giờ không?",
+    "text": "CÒN TỆ THẾ KHÔNG?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s126",
+  "mascot": "buff",
+  "title": "Stop Treating Every Mistake Like a Crisis",
+  "mechanism": "Catastrophizing",
+  "lines": [
+   {
+    "vo": "Sent the wrong file to the team. Career over, right?",
+    "text": "WRONG FILE SENT",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Your brain jumps from one mistake straight to the worst ending.",
+    "text": "1 MISTAKE = DOOM?",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Say the real consequence. Plainly. Out loud.",
+    "text": "REAL CONSEQUENCE",
+    "actor": "think"
+   },
+   {
+    "vo": "They saw an old draft for ten minutes. That's it.",
+    "text": "OLD DRAFT. 10 MIN.",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Then find the repair. Send the right one, plus one line of sorry.",
+    "text": "SEND THE RIGHT ONE",
+    "color": "green",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "A missed rep isn't a ruined program. Next rep.",
+    "text": "NEXT REP",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s126vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Mot loi nho khong phai tan the",
+  "title_vi": "Một lỗi nhỏ không phải tận thế",
+  "mechanism": "Catastrophizing",
+  "lines": [
+   {
+    "vo": "Gửi nhầm bản báo cáo cũ vào nhóm công ty. Thôi xong rồi.",
+    "text": "GỬI NHẦM BẢN CŨ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Mười giây sau, bạn đã tưởng tượng tới cảnh bị đuổi việc.",
+    "text": "BỊ ĐUỔI VIỆC?!",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Một lỗi thôi, mà đầu óc nhảy thẳng tới kết cục tệ nhất.",
+    "text": "NHẢY CÓC TỚI TỆ NHẤT",
+    "color": "red",
+    "actor": "think",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Nói thẳng hậu quả thật: mọi người xem nhầm bản cũ vài phút.",
+    "text": "HẬU QUẢ THẬT",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Rồi sửa: thu hồi, gửi bản đúng, xin lỗi một câu.",
+    "text": "THU HỒI, GỬI LẠI",
+    "color": "green",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "Lần sau, đặt tên tệp kèm ngày tháng cho đỡ nhầm.",
+    "text": "TÊN TỆP CÓ NGÀY",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Hụt một hiệp, đâu phải hỏng cả buổi tập. Làm hiệp tiếp.",
+    "text": "LÀM HIỆP TIẾP",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s127",
+  "mascot": "pen",
+  "title": "The Good Moment You Almost Missed",
+  "mechanism": "Attentional bias",
+  "lines": [
+   {
+    "vo": "You walked home tonight. Can you name one thing you saw?",
+    "text": "WHAT DID YOU SEE?",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Most of the walk went to replaying one awkward email.",
+    "text": "REPLAYING EMAIL",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Attention picks which details get noticed, and it leans toward problems.",
+    "text": "ATTENTION PICKS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "The good bits still happened. They just never got recorded.",
+    "text": "NOT RECORDED",
+    "actor": "front",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "So on the way home, pause once.",
+    "text": "PAUSE ONCE",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Name one concrete thing going well. The rain stopped. Warm bread smell.",
+    "text": "NAME ONE GOOD THING",
+    "color": "green",
+    "actor": "meditating",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Small enough to miss. Real enough to count.",
+    "text": "REAL ENOUGH",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s127vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Khoanh khac dep suyt bi bo lo",
+  "title_vi": "Khoảnh khắc đẹp suýt bị bỏ lỡ",
+  "mechanism": "Attentional bias",
+  "lines": [
+   {
+    "vo": "Cả quãng đường về, bạn chỉ nghĩ tới tin nhắn của sếp.",
+    "text": "CHỈ NGHĨ VỀ SẾP",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Sự chú ý tự chọn thứ để thấy, và hay nghiêng về chuyện phiền.",
+    "text": "CHÚ Ý CHỌN LỌC",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nên mưa vừa tạnh, phố vừa lên đèn, bạn đi qua mà chẳng thấy gì.",
+    "text": "ĐI QUA MÀ KHÔNG THẤY",
+    "actor": "front",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Dừng một nhịp, gọi tên một điều cụ thể đang ổn.",
+    "text": "1 ĐIỀU ĐANG ỔN",
+    "color": "green",
+    "actor": "meditating"
+   },
+   {
+    "vo": "Mùi bánh mì nóng ở đầu ngõ chẳng hạn. Nhỏ thôi, nhưng có thật.",
+    "text": "NHỎ, NHƯNG CÓ THẬT",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s128",
+  "mascot": "buff",
+  "title": "Use a Wind-Down Cue, Not Another Scroll",
+  "mechanism": "Conditioned cue",
+  "lines": [
+   {
+    "vo": "Your day ends the same way every night. Lights off, scroll on.",
+    "text": "SCROLL TILL SLEEP",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "So your brain never gets a clear 'day is done' signal.",
+    "text": "NO END SIGNAL",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Cues work when they repeat. Same steps, same order, every night.",
+    "text": "SAME STEPS",
+    "actor": "think"
+   },
+   {
+    "vo": "Build a short offline routine. A cool-down set for your day.",
+    "text": "COOL-DOWN SET",
+    "color": "green",
+    "actor": "meditating"
+   },
+   {
+    "vo": "Shower. Phone on the charger, out of reach. Three pages of a book.",
+    "text": "SHOWER. CHARGE. READ.",
+    "color": "green",
+    "actor": "reading",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Repeat it enough, and the routine itself starts saying 'day's over.'",
+    "text": "REPEAT IT",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Every workout gets a cool-down. Your day gets one too. Starting tonight.",
+    "text": "STARTING TONIGHT",
+    "color": "gold",
+    "actor": "sleeping",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s128vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Co tin hieu het ngay, dung luot tiep",
+  "title_vi": "Có tín hiệu hết ngày, đừng lướt tiếp",
+  "mechanism": "Conditioned cue",
+  "lines": [
+   {
+    "vo": "Mười hai giờ đêm, vẫn nằm lướt video, tự nhủ thêm chút nữa.",
+    "text": "THÊM CHÚT NỮA...",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Ngày của bạn chẳng có điểm kết thúc. Chỉ có lúc hết pin.",
+    "text": "CHỈ CÓ LÚC HẾT PIN",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Đầu óc cần một tín hiệu rõ ràng: hết ngày rồi.",
+    "text": "TÍN HIỆU HẾT NGÀY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tín hiệu có tác dụng khi lặp lại. Cùng việc, cùng thứ tự, mỗi tối.",
+    "text": "LẶP LẠI MỖI TỐI",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Tắm xong thì cắm sạc điện thoại ở phòng khách.",
+    "text": "SẠC Ở PHÒNG KHÁCH",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Lên giường, đọc vài trang sách giấy.",
+    "text": "VÀI TRANG SÁCH",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "Tập xong còn có hiệp giãn cơ. Một ngày cũng cần hiệp giãn.",
+    "text": "HIỆP GIÃN CƠ",
+    "actor": "meditating"
+   },
+   {
+    "vo": "Tối nay làm thử. Lặp đủ lâu, chính nó sẽ báo hết ngày.",
+    "text": "TỐI NAY LÀM THỬ",
+    "color": "gold",
+    "actor": "sleeping",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s129",
+  "mascot": "pen",
+  "title": "Why Your Explanation Only Made Sense to You",
+  "mechanism": "Curse of knowledge",
+  "lines": [
+   {
+    "vo": "You explained it twice. They nodded. Nobody understood.",
+    "text": "EVERYONE NODDED",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Once you know something, it's hard to remember not knowing it.",
+    "text": "CAN'T UNKNOW IT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "That's the curse of knowledge. You skip steps you no longer see.",
+    "text": "SKIPPED STEPS",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Your shorthand sounds obvious to you, and like code to them.",
+    "text": "OBVIOUS TO YOU",
+    "color": "red",
+    "actor": "front"
+   },
+   {
+    "vo": "Explain it to a friend outside your field. Watch where they frown.",
+    "text": "ASK AN OUTSIDER",
+    "color": "green",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Which step did you skip because it felt too obvious to say?",
+    "text": "WHICH STEP?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s129vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Giai thich ma chi minh hieu",
+  "title_vi": "Giải thích mà chỉ mình hiểu",
+  "mechanism": "Curse of knowledge",
+  "lines": [
+   {
+    "vo": "Hướng dẫn mẹ chuyển khoản lần thứ ba, mẹ vẫn bảo khó quá.",
+    "text": "MẸ VẪN BẢO KHÓ",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bạn thấy dễ, vì đã quen tới mức quên mất hồi chưa biết.",
+    "text": "QUEN QUÁ RỒI",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Người ta gọi đó là lời nguyền của sự hiểu biết.",
+    "text": "LỜI NGUYỀN HIỂU BIẾT",
+    "actor": "front"
+   },
+   {
+    "vo": "Bạn nói 'quét mã đi mẹ', nhưng quét ở đâu, bấm nút nào?",
+    "text": "\"QUÉT MÃ ĐI MẸ\"",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Bước bạn bỏ qua, với người mới lại là cả một bức tường.",
+    "text": "BƯỚC BỊ BỎ QUA",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Thử đi chậm từng bước, để mẹ tự bấm, bạn chỉ ngồi nhìn.",
+    "text": "ĐỂ MẸ TỰ BẤM",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Chỗ mẹ ngập ngừng chính là bước bạn đã quên nói.",
+    "text": "CHỖ NGẬP NGỪNG",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s130",
+  "mascot": "buff",
+  "title": "Don't Negotiate With the Snooze Button",
+  "mechanism": "Immediate reward bias",
+  "lines": [
+   {
+    "vo": "Alarm rings. Five more minutes. Sure, buddy.",
+    "text": "5 MORE MINUTES",
+    "color": "red",
+    "actor": "snooze",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Snooze pays you now. Your morning pays the bill.",
+    "text": "PAY NOW, COST LATER",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Half-asleep you wins every negotiation. So don't negotiate.",
+    "text": "DON'T NEGOTIATE",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Put the alarm across the room. To stop it, you stand up.",
+    "text": "ALARM ACROSS ROOM",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Pick your first move the night before. Feet down, lights on.",
+    "text": "FIRST MOVE PICKED",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "First rep of the day: get up. Tomorrow.",
+    "text": "REP ONE: GET UP",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s130vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung mac ca voi nut bao lai",
+  "title_vi": "Đừng mặc cả với nút báo lại",
+  "mechanism": "Immediate reward bias",
+  "lines": [
+   {
+    "vo": "Báo thức để cạnh gối. Năm phút nữa thôi. Ừ, tin.",
+    "text": "HOÃN LẦN THỨ 4",
+    "color": "red",
+    "actor": "snooze",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Năm phút sướng bây giờ, đổi lấy buổi sáng chạy hớt hải trễ chấm công.",
+    "text": "SƯỚNG GIỜ, KHỔ SAU",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Lúc ngái ngủ, cãi gì bạn cũng thua. Đừng cãi.",
+    "text": "ĐỪNG MẶC CẢ",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Để điện thoại báo thức ở góc phòng. Muốn tắt thì phải đứng dậy.",
+    "text": "BÁO THỨC GÓC PHÒNG",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Hiệp đầu tiên trong ngày: đặt chân xuống đất. Sáng mai làm.",
+    "text": "HIỆP 1: ĐỨNG DẬY",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ }
+]

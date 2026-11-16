@@ -1,0 +1,144 @@
+You are the head writer of two faceless YouTube Shorts channels: "Tiny Leg Theory" (EN) and "Lý Thuyết Chân Que" (VI, rewritten for Vietnamese viewers 18-30, not translated). Hand-drawn stickman psychology explainers, 12-20 s, one named psychology mechanism per Short. Two mascots: Pen (odd ids; calm, reflective, may end on a question) and Buff (even ids; blunt gym-coach, never ends on a question).
+
+TASK: brainstorm 100 NEW Short topics, ids s131 to s230.
+- Each = one real, well-established psychology/behavioural-science mechanism with a relatable everyday hook and one practical payoff.
+- Must NOT repeat any mechanism already used (list below), nor a near-synonym of one. All 100 mechanisms distinct.
+- Spread across: work and study, money and shopping, friendships and dating, family (incl. Vietnamese family pressure), social media, sleep and energy (no medical advice), memory, emotions, self-image, decision making, creativity, time perception, motivation, communication, everyday biases. Max 15 topics per area.
+- No medical/clinical/therapy topics, no diagnoses, no diet/weight/drugs. No invented statistics. Hooks must be true, not clickbait.
+- vi_angle = a concrete everyday Vietnamese example (Zalo, nhóm lớp, sếp, họ hàng hỏi lương, Shopee, trà sữa, kẹt xe...).
+- poses = a pose and a prop that fit, from: poses [front 34 phone_grin panic hand_off small_step confused_shrug arms_crossed_no worried_heart bored_yawn sofa_scroll future_tired sprint_start think typing_focused point_viewer celebrate sleeping bed_phone_night snack reading jogging meditating shocked facepalm wallet_worry nervous_wave writing coffee snooze] props [paper_mountain sofa smartphone_glow storm_cloud hourglass laptop_file checkbox_tick calendar_today alarm_clock brain coffee_mug dumbbell coin_stack notification_bell target lightbulb moon_stars low_battery].
+
+OUTPUT: a JSON list of exactly 100 objects, in id order:
+{"id": "s131", "mascot": "pen", "area": "...", "title": "<EN title <= 45 chars>", "mechanism": "<named mechanism>", "hook": "<first line, <= 12 words>", "payoff": "<one practical line>", "vi_angle": "<Vietnamese example>", "poses": "think / laptop_file"}
+
+MECHANISMS ALREADY USED (do not reuse):
+- Affect labeling
+- Anchoring effect
+- Attention capture
+- Attentional bias
+- Attentional control
+- Attentional residue
+- Attribution bias
+- Availability heuristic
+- Bandwagon effect
+- Boundary management
+- Bystander effect (diffusion of responsibility)
+- Catastrophizing
+- Choice architecture
+- Choice overload
+- Clustering illusion
+- Cognitive reappraisal
+- Commitment pressure
+- Communal vs exchange norms
+- Communication clarity
+- Conditioned cue
+- Confidence heuristic
+- Confirmation bias
+- Context disruption (weekday cues disappear)
+- Context stability
+- Context-dependent memory
+- Coordination failure
+- Curse of knowledge
+- Decoy effect
+- Default effect
+- Descriptive social norms
+- Distinctiveness effect
+- Effort heuristic
+- Emotion regulation: response modulation
+- Encoding specificity
+- Endowed progress effect
+- Endowment effect
+- Fear of missing out
+- Feedback control
+- Foot-in-the-door
+- Fresh-start effect
+- Fundamental attribution error
+- Generation effect
+- Goal-directed attention
+- Goal-setting theory
+- Hedonic adaptation
+- Hot-cold empathy gap
+- IKEA effect (valuing what you made)
+- Illusion of explanatory depth
+- Immediate reward bias
+- Interleaving effect
+- Interruption recovery (resumption cue)
+- Levels of processing
+- Liking gap
+- Loss aversion
+- Mastery goal orientation
+- Mental accounting
+- Mental budgeting
+- Mere exposure
+- Minimum viable action (a floor version for hectic days)
+- Missing stopping cues (no natural end point)
+- Mood-congruent memory
+- Negativity bias
+- Object location cue
+- Opportunity cost neglect
+- Ostrich effect (avoiding unwelcome information)
+- Outcome bias
+- Overjustification effect
+- Payment decoupling
+- Peak-end rule
+- Precommitment
+- Pretesting effect
+- Price-quality heuristic
+- Probability neglect
+- Problem-focused coping
+- Projection bias
+- Prospective memory (remembering to act later)
+- Recency effect
+- Reciprocity norm
+- Response cost
+- Response inhibition
+- Salience bias
+- Self-efficacy (repeatable small wins)
+- Self-efficacy through mastery experiences
+- Self-explanation effect
+- Self-licensing
+- Skill acquisition stages
+- Social accountability (public commitment to a specific person)
+- Social facilitation (works best for simple, well-practiced tasks)
+- Social notification pressure
+- Spacing effect
+- Status quo bias
+- Temptation bundling
+- Threat to self-image (defensive response)
+- Transfer appropriate processing
+- Trust repair (acknowledge + make amends)
+- Uncertainty reduction
+- Upward social comparison
+- Visual competition
+- Zeigarnik effect
+- Zero-price effect
+- action before motivation
+- automatic responding
+- avoidance and short-term relief
+- cue-dependent habits
+- cue-triggered checking
+- fear of failure, avoidance
+- fluency illusion
+- future-self continuity
+- habits build with repetition
+- implementation intentions
+- interpretation bias
+- lowering perceived effort to start
+- novelty seeking
+- planning fallacy
+- present bias, bedtime procrastination
+- procrastination as short-term mood repair
+- progress monitoring, goal gradient
+- retrieval practice
+- rumination
+- salience and environmental cues
+- scarcity effect
+- situation beats willpower
+- social-evaluative threat
+- spotlight effect
+- stimulus control
+- sunk-cost fallacy
+- task aversiveness
+- task switching cost
+- temporal discounting
+- variable reward

@@ -1,0 +1,811 @@
+{
+ "id": "L3",
+ "lang": "en",
+ "title": "Habits That Actually Stick: Build Routines for Real Life",
+ "description": "Habits are easier to repeat when they have a clear cue, fit your real environment, and still feel doable on a busy day. Pen and Buff break down practical ways to build routines that can survive missed days, changing schedules, and fading motivation.",
+ "chapters": [
+  {
+   "title": "Intro",
+   "sources": [
+    "s15",
+    "s16",
+    "s62"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You buy a notebook for your new reading habit, then find it untouched under a pile of mail.",
+     "text": "NEW HABIT, GONE?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You do not need a personality transplant. You need a routine designed for the person you are on ordinary days.",
+     "text": "BUILD FOR REAL LIFE",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The exciting version of me makes a big plan. The regular version gets home tired and forgets it.",
+     "text": "THE ORDINARY DAY",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "We will look at nine reasons habits disappear, and the small adjustments that make them easier to repeat.",
+     "text": "NINE USEFUL FIXES",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Maybe consistency is not a personality trait. Maybe it is what happens when the next step is easier to find.",
+     "text": "MAKE THE NEXT STEP",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Let’s give the habit a home, a cue, and a version that still fits when life gets busy.",
+     "text": "START WITH A CUE",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "1. GIVE IT A CUE",
+   "sources": [
+    "s15",
+    "s16",
+    "s61"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "1. GIVE IT A CUE",
+     "text": "1. GIVE IT A CUE",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I decide to read more, but the day fills up before I remember the book exists.",
+     "text": "THE DAY FILLS UP",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is cue-dependent habit building. A habit needs a moment that reminds you to begin.",
+     "text": "CUES START HABITS",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I keep telling myself to remember, as if tomorrow’s busy brain will suddenly become an excellent assistant.",
+     "text": "MEMORY GETS BUSY",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Brains often respond better to a clear signal than a vague promise. Give the action a place in your routine.",
+     "text": "MAKE IT SPECIFIC",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "After my first coffee, I could read one page at the kitchen table. That feels almost too small.",
+     "text": "AFTER MY COFFEE",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Good. That is an if-then plan: if coffee is finished, then book opens. The cue does the deciding.",
+     "text": "IF COFFEE, THEN READ",
+     "color": "gold",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I could also put the book beside the mug, so the plan is visible before the morning gets loud.",
+     "text": "BOOK BY THE MUG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use an event that already happens, not an ideal hour that changes every week. Specific beats inspired.",
+     "text": "ANCHOR TO ROUTINE",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then the question is not whether I will feel motivated. It is what moment will carry the first page.",
+     "text": "FIND YOUR MOMENT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Next, we will make that moment easy to notice, even when the room, schedule, or weekend changes.",
+     "text": "MAKE IT VISIBLE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "2. PUT IT IN SIGHT",
+   "sources": [
+    "s18",
+    "s55",
+    "s59",
+    "s65"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "2. PUT IT IN SIGHT",
+     "text": "2. PUT IT IN SIGHT",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My stretching mat sits in the closet. At home, I forget it. On a trip, the routine vanishes.",
+     "text": "THE MAT DISAPPEARS",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is a context cue at work. The room, object, and usual sequence can all help you remember.",
+     "text": "CONTEXT CAN REMIND",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It is a little humbling to realize the lamp and mat were doing some of the remembering for me.",
+     "text": "THE ROOM HELPS",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Make the useful thing visible. Shoes by the door, book on the pillow, bottle on the desk.",
+     "text": "PUT IT IN SIGHT",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "But if I depend on one room or one exact hour, what happens when the normal routine changes?",
+     "text": "WHEN THE CUE CHANGES",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Choose a cue that travels with you. Brushing your teeth, arriving home, or your first meal may work.",
+     "text": "PICK A TRAVEL CUE",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The clock time shifts on my changing days, but lying down still happens. Two pages could follow that.",
+     "text": "AFTER I LIE DOWN",
+     "color": "green",
+     "actor": "bed_phone_night",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Weekends need their own signals, too. If the weekday alarm disappears, attach reading to weekend coffee.",
+     "text": "WEEKENDS NEED CUES",
+     "color": "gold",
+     "actor": "coffee",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can make the cue obvious and flexible, instead of blaming myself when the old setting is gone.",
+     "text": "FLEX THE ROUTINE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A visible cue helps you start. Next, we will shape the task so starting does not require a heroic mood.",
+     "text": "LOWER THE START COST",
+     "color": "gold",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "3. MAKE STARTING EASY",
+   "sources": [
+    "s56",
+    "s58",
+    "s60",
+    "s66"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "3. MAKE STARTING EASY",
+     "text": "3. MAKE STARTING EASY",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "At night, I plan a perfect morning: a run, a long reading session, and every chore I have avoided.",
+     "text": "THE MIDNIGHT PLAN",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then morning arrives with a different energy. That gap between your excited and tired selves is real.",
+     "text": "MORNING IS DIFFERENT",
+     "color": "gold",
+     "actor": "snooze",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The plan looked easy when I was rested and imagining it. It feels enormous when the alarm rings.",
+     "text": "THE SET FEELS HEAVY",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Plan for the version who has to do it. Cut the list, and make the first step almost laughably clear.",
+     "text": "CUT THE LIST",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I dislike the treadmill, but I love a certain podcast. Maybe I can save it for my walk.",
+     "text": "SAVE THE PODCAST",
+     "color": "ink",
+     "actor": "think",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is temptation bundling: pair a useful task with a treat you already enjoy. One pulls the other along.",
+     "text": "PAIR WORK AND FUN",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And when the task is one tap away, I often start before I have thought it through.",
+     "text": "ONE TAP AWAY",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Add a little friction to unwanted habits. Log out, remove the saved card, or move the app off your home screen.",
+     "text": "ADD A SMALL SPEED BUMP",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "For an urge that still shows up, I could put the phone down and count slowly before choosing.",
+     "text": "PAUSE BEFORE CHOOSING",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Make good actions convenient and impulsive ones less automatic. Next, let’s make progress visible without chasing perfection.",
+     "text": "TRACK THE REPS",
+     "color": "gold",
+     "actor": "dumbbell",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "4. COUNT SMALL REPS",
+   "sources": [
+    "s30",
+    "s63",
+    "s67"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "4. COUNT SMALL REPS",
+     "text": "4. COUNT SMALL REPS",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A finished page feels better than a distant promise to finish a whole book someday.",
+     "text": "ONE PAGE COUNTS",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is progress monitoring. A small record gives your brain proof that effort is moving somewhere.",
+     "text": "MAKE PROGRESS VISIBLE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I could track pages read or walks taken, the things I can actually do today.",
+     "text": "TRACK WHAT YOU DO",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Keep the measure close to your control. The finish line may be far away, but today’s rep is right here.",
+     "text": "TODAY'S REP IS CLOSE",
+     "color": "gold",
+     "actor": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Still, if I score everything, a hobby can start to feel like another assignment.",
+     "text": "WHEN FUN GETS SCORED",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Right. Some people find that outside rewards shift attention away from the enjoyment that began the activity.",
+     "text": "KEEP SOME THINGS PLAYFUL",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Maybe I can keep one part of drawing private, with no posts, likes, or daily tally attached.",
+     "text": "MAKE ROOM FOR PLAY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Also, do not grade a sensible choice only by what happened afterward. Weather and luck get a vote.",
+     "text": "JUDGE THE PROCESS",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If my plan made sense with what I knew, one awkward result does not prove the habit was foolish.",
+     "text": "ONE RESULT ISN'T ALL",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Track the action, keep some joy unscored, and learn from the process. Next, we’ll deal with missed days.",
+     "text": "KEEP THE THREAD",
+     "color": "gold",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "5. RETURN AFTER A MISS",
+   "sources": [
+    "s17",
+    "s62",
+    "s64",
+    "s69"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "5. RETURN AFTER A MISS",
+     "text": "5. RETURN AFTER A MISS",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I miss one workout, see the broken streak, and somehow decide the whole routine is over.",
+     "text": "THE STREAK IS BROKEN",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Habits grow through repeated practice in familiar situations. One missed day does not erase earlier reps.",
+     "text": "ONE MISS DOESN'T ERASE",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The next cue is a better place to restart than waiting for Monday to announce a fresh beginning.",
+     "text": "RETURN AT THE NEXT CUE",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Set a floor for busy days. If the full session is too much, choose the smallest honest version you can do.",
+     "text": "SET A SMALL FLOOR",
+     "color": "green",
+     "actor": "dumbbell",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My full plan might be ten push-ups, but one still keeps the movement in my day.",
+     "text": "ONE REP STILL COUNTS",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "And do not treat a good session like credit to spend on skipping the next one. It is simply one rep.",
+     "text": "A WIN IS ONE REP",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can book the next session while I feel pleased, then let that appointment carry the routine forward.",
+     "text": "BOOK THE NEXT SESSION",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Fresh-start energy can help, but you do not need a new week to take one small step today.",
+     "text": "START BEFORE MONDAY",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The useful question is not whether I slipped. It is whether I can find the next workable cue.",
+     "text": "FIND THE NEXT CUE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Miss, return, repeat. Next we’ll build a routine that feels possible around the people and attention you live with.",
+     "text": "MAKE IT FIT YOUR WORLD",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "6. BORROW GOOD NORMAL",
+   "sources": [
+    "s57",
+    "s54",
+    "s61"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "6. BORROW GOOD NORMAL",
+     "text": "6. BORROW GOOD NORMAL",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My roommate studies most evenings. Without anyone asking, I find myself opening my notes nearby.",
+     "text": "THE ROOM SETS A TONE",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "We often copy what seems normal around us. The people nearby can make a behavior feel easier to begin.",
+     "text": "PEOPLE SHAPE ROUTINES",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That influence runs both ways. If everyone scrolls after dinner, scrolling starts to feel like the default.",
+     "text": "DEFAULTS SPREAD",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Borrow on purpose. Sit beside someone who reads, cook with a friend, or join a group that walks.",
+     "text": "CHOOSE YOUR COMPANY",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My own attention is another environment. I unlock my phone for weather and emerge much later.",
+     "text": "THE PHONE PICKS A JOB",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Before you unlock, name the job. Reply to your friend, check the forecast, then close the app.",
+     "text": "NAME THE JOB FIRST",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The reminder also needs to meet me where I act. A bottle on my desk beats a plan buried in my head.",
+     "text": "PUT IT WHERE YOU ACT",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your surroundings can cue, distract, and normalize. Set up the room and phone to support the action.",
+     "text": "SET UP YOUR SPACE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That makes me wonder how to choose a habit I can trust myself to repeat, even when confidence is low.",
+     "text": "TRUST COMES FROM REPS",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Start with something finishable. Next, we’ll build confidence from repeated evidence, not big promises.",
+     "text": "FINISHABLE REPS FIRST",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "7. BUILD PROOF, NOT HYPE",
+   "sources": [
+    "s68",
+    "s70",
+    "s72",
+    "s71"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "7. BUILD PROOF, NOT HYPE",
+     "text": "7. BUILD PROOF, NOT HYPE",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My first workout is an hour long. It feels amazing, then I avoid the next one for days.",
+     "text": "THE HERO SESSION",
+     "color": "ink",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A heroic session is hard to repeat. Confidence tends to grow from small actions you actually complete again.",
+     "text": "REPEATABLE BUILDS TRUST",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Three easy walks this week might give me more proof than one legendary walk followed by a slump.",
+     "text": "EASY SETS ADD UP",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Choose a challenge just beyond easy, then write down that you did it. Let the evidence accumulate.",
+     "text": "LOG WHAT YOU FINISH",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I could practice one weak part of my presentation instead of demanding that I feel confident first.",
+     "text": "PRACTICE ONE PART",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is a mastery goal: improve a skill with deliberate reps. A score can come later.",
+     "text": "PRACTICE BEFORE SCORE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And if I made a first draft, I can still revise it. The hours I spent do not make every sentence untouchable.",
+     "text": "LET VERSION ONE CHANGE",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Treat the draft as a working object, not a portrait of you. Feedback can help the next rep.",
+     "text": "THE WORK CAN CHANGE",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Small practice sounds less dramatic, but it gives me something real to repeat tomorrow.",
+     "text": "REAL PROOF, REPEATED",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Put the cue, easy start, and next rep on one simple plan. Then use it for seven days.",
+     "text": "MAKE YOUR SEVEN DAY PLAN",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Recap",
+   "sources": [
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s30",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "First, give the habit a cue and a place. Make the signal visible, stable enough, and easy to carry into your real day.",
+     "text": "CUE, PLACE, ROUTINE",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Second, lower the starting cost. Use a small floor, pair a task with a treat, and add friction where impulses rush in.",
+     "text": "MAKE THE REP EASIER",
+     "color": "gold",
+     "actor": "dumbbell",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Third, build proof through repeatable practice. Track what you control, return after a miss, and keep some joy unscored.",
+     "text": "PROOF BUILDS ROUTINES",
+     "color": "gold",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For seven days, choose one habit, one cue, and a floor version you can do on a busy day.",
+     "text": "SEVEN DAY MINI CHALLENGE",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Write the plan as, after this familiar moment, I will do this smallest useful action.",
+     "text": "WRITE YOUR IF THEN",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Put one reminder where the action happens, then mark each rep. A missed day is just a chance to return.",
+     "text": "CUE IT, THEN RETURN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "At the end of the week, notice what helped and adjust one thing. You are learning your own routine.",
+     "text": "NOTICE WHAT WORKS",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiny reps count. If you want more clear psychology for everyday life, subscribe to Tiny Leg Theory.",
+     "text": "SUBSCRIBE FOR MORE",
+     "color": "green",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}

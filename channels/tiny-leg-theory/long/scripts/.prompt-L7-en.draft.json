@@ -1,0 +1,139 @@
+You are the head writer of "Tiny Leg Theory", a faceless YouTube channel of hand-drawn stickman psychology explainers. Write ONE long-form landscape video (10-12 minutes) on the theme below, built from the attached Shorts (each Short = one named psychology mechanism). This is NOT a compilation: write a new, deeper script.
+
+CAST (two stickmen talk to each other, and sometimes to the viewer):
+- Pen: the viewer's stand-in. Calm, reflective, lives the everyday situation, describes how it feels, asks the questions. May end lines with a question.
+- Buff: the blunt coach. Short punchy lines, a bit cheeky ("Sure, buddy."), gym metaphors (reps, warm-up, sets). Names the mechanism and gives the fix. Never ends a chapter with a question.
+
+STRUCTURE (JSON "chapters"):
+1. Chapter 1 "intro": 5-7 lines. Strong hook in the first line (a situation the viewer recognises), then the promise ("N reasons ..."), no clickbait.
+2. Chapters 2..9 or 10: pick the 8 or 9 strongest, clearly different mechanisms from the Shorts (merge near-duplicates). Each chapter 9-13 lines (~60-80 s): concrete everyday scene -> name the mechanism -> why the brain does it (simple, honest) -> one specific practical fix -> one-line bridge into the next chapter.
+3. Last chapter "recap": 7-10 lines. One-line recap per mechanism is too long; group them into 3 ideas, then a 7-day mini challenge, then a soft call to subscribe (one line).
+Total voice-over: 1400-1700 words.
+
+ACCURACY: Do not invent statistics, percentages, years, study details or researcher names. Mechanism names are fine. Hedge ("research suggests", "often", "for many people"). No medical, clinical or therapy advice or diagnoses. No dangerous examples. Re-use at most a few phrases from the Shorts.
+
+TTS: every "vo" line <= 20 words, one or two short sentences, plain spoken English, no abbreviations, no symbols, no emojis, numbers as words.
+
+ON-SCREEN "text": UPPERCASE, <= 22 characters, ASCII letters, digits and . , ! ? ' " > = : - only. It is the visual punchline of the line, not a copy of it. The FIRST line of every chapter is the chapter card: its text is the chapter title (e.g. "3. THE RED DOT").
+"color": one of ink (default), red (problem), green (fix), gold (insight).
+
+VISUALS per line: "actor" = a pose of the speaking mascot, from exactly: front 34 phone_grin panic hand_off small_step confused_shrug arms_crossed_no worried_heart bored_yawn sofa_scroll future_tired sprint_start think typing_focused point_viewer celebrate sleeping bed_phone_night snack reading jogging meditating shocked facepalm wallet_worry nervous_wave writing coffee snooze
+Optional "prop" from exactly: paper_mountain sofa smartphone_glow storm_cloud hourglass laptop_file checkbox_tick calendar_today alarm_clock brain coffee_mug dumbbell coin_stack notification_bell target lightbulb moon_stars low_battery
+Use a prop on about half the lines. Vary poses; do not repeat the same pose on consecutive lines.
+
+OUTPUT ONLY one JSON object, no prose, no code fence:
+{"id": "<ID>", "lang": "en", "title": "<YouTube title, <= 70 chars, no clickbait>", "description": "<2-3 sentence YouTube description>", "chapters": [{"title": "<chapter title, <= 40 chars>", "sources": ["s01", ...], "lines": [{"speaker": "pen|buff", "vo": "...", "text": "...", "color": "ink", "actor": "think", "prop": "laptop_file"}]}]}
+
+This is a non-interactive batch job: never ask questions and ignore any reply-format rules from your config. If unsure, keep the line unchanged (channel names "Tiny Leg Theory" / "Lý Thuyết Chân Que" are fine in voice-over). Your entire answer must be the JSON object, starting with "{".
+
+ID: L7
+THEME: Stress, Worry and Overthinking
+
+# L7 Stress, Worry and Overthinking
+
+### s11 [pen] Why You Replay Awkward Moments at Night — rumination
+- Lights off. Eyes closed.
+- And your brain plays an awkward moment from years ago.
+- Quiet moments give old worries room to loop.
+- Name it: that's just a replay.
+- Then give your brain a small, boring job, like counting back from one hundred.
+- What's your brain's favourite rerun?
+
+### s12 [buff] The 'One More' Bedtime Loop — present bias, bedtime procrastination
+- One more video, then sleep. Sure, buddy.
+- You're spending tomorrow's energy tonight.
+- Fun is right here. Tired is far away. Until morning.
+- Pick a shutdown time.
+- Phone sleeps outside the bedroom. Done.
+- Tomorrow you will say thanks. Probably.
+
+### s25 [pen] Why Future You Feels Like a Stranger — future-self continuity
+- Tomorrow you will totally do it.
+- Your brain thinks about future you almost like another person.
+- So you hand them all the hard stuff.
+- Make it easy for them. Set things up tonight.
+- Clothes out. Bag packed. First step written.
+- What can you do tonight for tomorrow you?
+
+### s121 [pen] Why Naming a Feeling Can Help — Affect labeling
+- You say you feel bad. But bad is a big, blurry word.
+- Blurry feelings tend to feel bigger, and harder to hold.
+- Putting a feeling into words can turn its volume down a little.
+- Try one precise word. Nervous. Disappointed. Left out.
+- A named feeling is easier to pick a next step for.
+- Not bad. Just nervous. That is something you can work with.
+
+### s122 [buff] Don't Reply at Peak Heat — Emotion regulation: response modulation
+- Angry text, thumbs already flying. Hold that send button.
+- At peak heat, your words land heavier than you mean.
+- Draft it. Don't send it. Park it for a minute.
+- Cool down. Reread. Cut every line you'd regret.
+- You rest between sets. Same rule before you hit send.
+
+### s123 [pen] Why a Small Pause Changes the Moment — Cognitive reappraisal
+- Stuck in a slow line, and suddenly the whole evening feels ruined.
+- The line didn't ruin it. The story 'this is wasted time' did.
+- Feelings tend to follow how you read a moment, not just the moment.
+- That's reappraisal: same event, a different reading that's still honest.
+- So pause and ask: what else could this moment be?
+- Five quiet minutes. Time for the call you keep putting off.
+- The line is just as slow. It just weighs a little less.
+
+### s124 [buff] Turn a Vague Worry Into a Next Step — Problem-focused coping
+- Worried about the presentation. Again. Fifth hour running.
+- Worry feels like work. It's not a rep.
+- If you can act on it, name the action.
+- Not 'fix the presentation.' Too heavy for one set.
+- Smaller. Find two sources. Tonight, after dinner.
+- Write the step and the time. Tick it when done.
+- Can't act on it yet? Park it on tomorrow's list.
+- Worry, or one rep. Pick the rep.
+
+### s125 [pen] Why You Feel Worse After a Long Day — Mood-congruent memory
+- After a long shift, you decide you got nothing done all week.
+- Tired moods tend to pull up tired memories first.
+- So the week gets judged by its worst bits, at your lowest point.
+- Save the big verdict on your week for after you've rested.
+- Tonight you're tired. That's the only conclusion tonight gets to make.
+
+### s126 [buff] Stop Treating Every Mistake Like a Crisis — Catastrophizing
+- Sent the wrong file to the team. Career over, right?
+- Your brain jumps from one mistake straight to the worst ending.
+- Say the real consequence. Plainly. Out loud.
+- They saw an old draft for ten minutes. That's it.
+- Then find the repair. Send the right one, plus one line of sorry.
+- A missed rep isn't a ruined program. Next rep.
+
+### s127 [pen] The Good Moment You Almost Missed — Attentional bias
+- You walked home tonight. Can you name one thing you saw?
+- Most of the walk went to replaying one awkward email.
+- Attention picks which details get noticed, and it leans toward problems.
+- The good bits still happened. They just never got recorded.
+- So on the way home, pause once.
+- Name one concrete thing going well. The rain stopped. Warm bread smell.
+- Small enough to miss. Real enough to count.
+
+### s128 [buff] Use a Wind-Down Cue, Not Another Scroll — Conditioned cue
+- Your day ends the same way every night. Lights off, scroll on.
+- So your brain never gets a clear 'day is done' signal.
+- Cues work when they repeat. Same steps, same order, every night.
+- Build a short offline routine. A cool-down set for your day.
+- Shower. Phone on the charger, out of reach. Three pages of a book.
+- Repeat it enough, and the routine itself starts saying 'day's over.'
+- Every workout gets a cool-down. Your day gets one too. Starting tonight.
+
+### s129 [pen] Why Your Explanation Only Made Sense to You — Curse of knowledge
+- You explained it twice. They nodded. Nobody understood.
+- Once you know something, it's hard to remember not knowing it.
+- That's the curse of knowledge. You skip steps you no longer see.
+- Your shorthand sounds obvious to you, and like code to them.
+- Explain it to a friend outside your field. Watch where they frown.
+- Which step did you skip because it felt too obvious to say?
+
+### s130 [buff] Don't Negotiate With the Snooze Button — Immediate reward bias
+- Alarm rings. Five more minutes. Sure, buddy.
+- Snooze pays you now. Your morning pays the bill.
+- Half-asleep you wins every negotiation. So don't negotiate.
+- Put the alarm across the room. To stop it, you stand up.
+- Pick your first move the night before. Feet down, lights on.
+- First rep of the day: get up. Tomorrow.

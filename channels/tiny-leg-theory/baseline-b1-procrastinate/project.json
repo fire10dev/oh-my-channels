@@ -1,0 +1,1651 @@
+{
+ "version": 1,
+ "style": "B1",
+ "width": 1280,
+ "height": 720,
+ "fps": 30,
+ "voice": {
+  "path": "narration.wav",
+  "lead": 0.15,
+  "tail": 0.6
+ },
+ "captions": [
+  {
+   "start": 0.17,
+   "end": 2.13,
+   "text": "You know exactly what you should be doing."
+  },
+  {
+   "start": 2.52,
+   "end": 5.18,
+   "text": "So why are you scrolling your phone instead?"
+  },
+  {
+   "start": 5.705,
+   "end": 7.465,
+   "text": "Most people call it laziness,"
+  },
+  {
+   "start": 7.705,
+   "end": 9.245,
+   "text": "or bad time management."
+  },
+  {
+   "start": 9.795,
+   "end": 11.485,
+   "text": "Researchers say it is neither."
+  },
+  {
+   "start": 12.008,
+   "end": 14.198,
+   "text": "Procrastination is about feelings."
+  },
+  {
+   "start": 14.628,
+   "end": 17.218,
+   "text": "A task feels boring, scary,"
+  },
+  {
+   "start": 17.358,
+   "end": 18.218,
+   "text": "or just too big,"
+  },
+  {
+   "start": 18.638,
+   "end": 20.088,
+   "text": "so your brain grabs something"
+  },
+  {
+   "start": 20.108,
+   "end": 21.818,
+   "text": "that feels better right now."
+  },
+  {
+   "start": 22.343,
+   "end": 24.413,
+   "text": "And the bill goes to your future self."
+  },
+  {
+   "start": 24.883,
+   "end": 27.993,
+   "text": "A person your brain treats almost like a stranger."
+  },
+  {
+   "start": 28.518,
+   "end": 29.738,
+   "text": "So don't wait to feel ready."
+  },
+  {
+   "start": 30.088,
+   "end": 32.838,
+   "text": "Shrink the first step until it's too small to fear."
+  },
+  {
+   "start": 33.058,
+   "end": 34.188,
+   "text": "Open the file."
+  },
+  {
+   "start": 34.578,
+   "end": 35.648,
+   "text": "Write one line."
+  },
+  {
+   "start": 36.165,
+   "end": 38.795,
+   "text": "The bad feeling usually fades once you start."
+  },
+  {
+   "start": 39.325,
+   "end": 42.645,
+   "text": "So, what's the smallest first step you could take today?"
+  }
+ ],
+ "shots": [
+  {
+   "start": 0.0,
+   "end": 2.5,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE THING YOU SHOULD DO.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "id": "prop1",
+     "motion": {
+      "role": "prop",
+      "reason": "The waiting task appears beside the worker"
+     },
+     "path": "@b1/script-page-crayon.png",
+     "x": 140,
+     "y": 270,
+     "w": 220,
+     "keys": [
+      {
+       "t": 0,
+       "y": 300,
+       "alpha": 0,
+       "angle": -0.06
+      },
+      {
+       "t": 0.4,
+       "y": 270,
+       "alpha": 1,
+       "angle": 0.02
+      },
+      {
+       "t": 1.375,
+       "y": 260,
+       "angle": -0.03
+      },
+      {
+       "t": 2.45,
+       "y": 270,
+       "angle": 0.02
+      }
+     ]
+    },
+    {
+     "type": "pose",
+     "id": "actor2",
+     "motion": {
+      "role": "actor",
+      "reason": "The figure leans in to work"
+     },
+     "pose": 0,
+     "x": 700,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 760,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 700,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 1.25,
+       "x": 700,
+       "angle": 0.035
+      },
+      {
+       "t": 2.45,
+       "x": 692,
+       "angle": -0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 2.5,
+   "end": 5.685,
+   "layers": [
+    {
+     "type": "text",
+     "text": "...SO WHY THE PHONE?",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "id": "prop38",
+     "motion": {
+      "role": "prop",
+      "reason": "The scrolling feed slides in and pulls attention"
+     },
+     "path": "@b1/youtube-crayon.png",
+     "x": 150,
+     "y": 300,
+     "w": 260,
+     "keys": [
+      {
+       "t": 0,
+       "x": 60,
+       "alpha": 0
+      },
+      {
+       "t": 0.5,
+       "x": 150,
+       "alpha": 1
+      },
+      {
+       "t": 1.911,
+       "x": 170,
+       "angle": 0.04
+      },
+      {
+       "t": 3.135,
+       "x": 150,
+       "angle": -0.02
+      }
+     ]
+    },
+    {
+     "type": "pose",
+     "id": "actor39",
+     "motion": {
+      "role": "actor",
+      "reason": "The figure turns doubtful, caught scrolling"
+     },
+     "pose": 2,
+     "x": 720,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 780,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 720,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 1.593,
+       "x": 720,
+       "angle": 0.035
+      },
+      {
+       "t": 3.135,
+       "x": 712,
+       "angle": -0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 5.685,
+   "end": 7.685,
+   "layers": [
+    {
+     "type": "text",
+     "text": "LAZY?",
+     "x": 95,
+     "y": 110,
+     "size": 72,
+     "bold": true
+    },
+    {
+     "type": "pose",
+     "id": "actor75",
+     "motion": {
+      "role": "actor",
+      "reason": "The figure shrugs at the label"
+     },
+     "pose": 2,
+     "x": 650,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 710,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 650,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 1.0,
+       "x": 650,
+       "angle": 0.035
+      },
+      {
+       "t": 1.95,
+       "x": 642,
+       "angle": -0.02
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "prop76",
+     "motion": {
+      "role": "prop",
+      "reason": "A sticky label gets slapped on"
+     },
+     "path": "@b1/idea-note-crayon.png",
+     "x": 140,
+     "y": 290,
+     "w": 170,
+     "keys": [
+      {
+       "t": 0,
+       "y": 320,
+       "alpha": 0,
+       "angle": -0.06
+      },
+      {
+       "t": 0.4,
+       "y": 290,
+       "alpha": 1,
+       "angle": 0.02
+      },
+      {
+       "t": 1.1,
+       "y": 280,
+       "angle": -0.03
+      },
+      {
+       "t": 1.95,
+       "y": 290,
+       "angle": 0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 7.685,
+   "end": 9.775,
+   "layers": [
+    {
+     "type": "text",
+     "text": "LAZY?",
+     "x": 95,
+     "y": 110,
+     "size": 72,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "BAD PLANNER?",
+     "x": 95,
+     "y": 190,
+     "size": 64,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "id": "prop112",
+     "motion": {
+      "role": "prop",
+      "reason": "The planner calendar wobbles in"
+     },
+     "path": "@b1/calendar-crayon.png",
+     "x": 150,
+     "y": 300,
+     "w": 190,
+     "keys": [
+      {
+       "t": 0,
+       "y": 330,
+       "alpha": 0,
+       "angle": -0.06
+      },
+      {
+       "t": 0.4,
+       "y": 300,
+       "alpha": 1,
+       "angle": 0.02
+      },
+      {
+       "t": 1.149,
+       "y": 290,
+       "angle": -0.03
+      },
+      {
+       "t": 2.04,
+       "y": 300,
+       "angle": 0.02
+      }
+     ]
+    },
+    {
+     "type": "pose",
+     "id": "actor113",
+     "motion": {
+      "role": "actor",
+      "reason": "The figure keeps doubting"
+     },
+     "pose": 2,
+     "x": 680,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 740,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 680,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 1.045,
+       "x": 680,
+       "angle": 0.035
+      },
+      {
+       "t": 2.04,
+       "x": 672,
+       "angle": -0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 9.775,
+   "end": 11.988,
+   "layers": [
+    {
+     "type": "text",
+     "text": "LAZY?",
+     "x": 95,
+     "y": 110,
+     "size": 72,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "BAD PLANNER?",
+     "x": 95,
+     "y": 190,
+     "size": 64,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "NEITHER.",
+     "x": 700,
+     "y": 300,
+     "size": 72,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "line",
+     "id": "mark149",
+     "motion": {
+      "role": "information",
+      "reason": "Both myths are crossed out"
+     },
+     "points": [
+      [
+       90,
+       150
+      ],
+      [
+       460,
+       245
+      ]
+     ],
+     "color": "#EC4338",
+     "lineWidth": 6,
+     "keys": [
+      {
+       "t": 0.1,
+       "progress": 0
+      },
+      {
+       "t": 0.6,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "prop150",
+     "motion": {
+      "role": "prop",
+      "reason": "The planner fades as the myth is rejected"
+     },
+     "path": "@b1/calendar-crayon.png",
+     "x": 150,
+     "y": 330,
+     "w": 170,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 0.6,
+       "alpha": 0.35,
+       "angle": -0.1
+      },
+      {
+       "t": 2.163,
+       "alpha": 0.35,
+       "angle": -0.04
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 11.988,
+   "end": 14.608,
+   "layers": [
+    {
+     "type": "text",
+     "text": "IT'S ABOUT FEELINGS.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "pose",
+     "id": "actor186",
+     "motion": {
+      "role": "actor",
+      "reason": "The figure grabs his head as feelings take over"
+     },
+     "pose": 1,
+     "x": 640,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 700,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 640,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 1.31,
+       "x": 640,
+       "angle": 0.035
+      },
+      {
+       "t": 2.57,
+       "x": 632,
+       "angle": -0.02
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "prop187",
+     "motion": {
+      "role": "prop",
+      "reason": "The thought lights up"
+     },
+     "path": "@b1/idea-bulb-crayon.png",
+     "x": 180,
+     "y": 290,
+     "w": 150,
+     "keys": [
+      {
+       "t": 0,
+       "y": 320,
+       "alpha": 0,
+       "angle": -0.06
+      },
+      {
+       "t": 0.4,
+       "y": 290,
+       "alpha": 1,
+       "angle": 0.02
+      },
+      {
+       "t": 1.441,
+       "y": 280,
+       "angle": -0.03
+      },
+      {
+       "t": 2.57,
+       "y": 290,
+       "angle": 0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 14.608,
+   "end": 17.338,
+   "layers": [
+    {
+     "type": "text",
+     "text": "BORING. SCARY.",
+     "x": 95,
+     "y": 110,
+     "size": 64,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "id": "prop223",
+     "motion": {
+      "role": "prop",
+      "reason": "The task grows larger"
+     },
+     "path": "@b1/script-page-crayon.png",
+     "x": 150,
+     "y": 260,
+     "w": 200,
+     "keys": [
+      {
+       "t": 0,
+       "w": 150,
+       "alpha": 0
+      },
+      {
+       "t": 0.5,
+       "w": 210,
+       "alpha": 1
+      },
+      {
+       "t": 1.638,
+       "w": 260
+      },
+      {
+       "t": 2.68,
+       "w": 280
+      }
+     ]
+    },
+    {
+     "type": "pose",
+     "id": "actor224",
+     "motion": {
+      "role": "actor",
+      "reason": "The figure panics at the growing task"
+     },
+     "pose": 1,
+     "x": 700,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 760,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 700,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 1.365,
+       "x": 700,
+       "angle": 0.035
+      },
+      {
+       "t": 2.68,
+       "x": 692,
+       "angle": -0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 17.338,
+   "end": 18.618,
+   "layers": [
+    {
+     "type": "text",
+     "text": "TOO BIG.",
+     "x": 95,
+     "y": 110,
+     "size": 80,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "image",
+     "id": "prop260",
+     "motion": {
+      "role": "prop",
+      "reason": "The task swells to fill the frame"
+     },
+     "path": "@b1/script-page-crayon.png",
+     "x": 120,
+     "y": 210,
+     "w": 300,
+     "keys": [
+      {
+       "t": 0,
+       "w": 280
+      },
+      {
+       "t": 0.4,
+       "w": 360,
+       "angle": 0.04
+      },
+      {
+       "t": 1.23,
+       "w": 380,
+       "angle": -0.03
+      }
+     ]
+    },
+    {
+     "type": "pose",
+     "id": "actor261",
+     "motion": {
+      "role": "actor",
+      "reason": "The figure shakes under the size of it"
+     },
+     "pose": 1,
+     "x": 720,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 780,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 720,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 0.9,
+       "x": 720,
+       "angle": 0.035
+      },
+      {
+       "t": 1.23,
+       "x": 712,
+       "angle": -0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 18.618,
+   "end": 20.088,
+   "layers": [
+    {
+     "type": "text",
+     "text": "GRAB SOMETHING ELSE...",
+     "x": 95,
+     "y": 110,
+     "size": 58,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "id": "prop297",
+     "motion": {
+      "role": "prop",
+      "reason": "The easy distraction pops up"
+     },
+     "path": "@b1/youtube-crayon.png",
+     "x": 140,
+     "y": 300,
+     "w": 260,
+     "keys": [
+      {
+       "t": 0,
+       "alpha": 0,
+       "x": 60
+      },
+      {
+       "t": 0.4,
+       "alpha": 1,
+       "x": 140
+      },
+      {
+       "t": 1.42,
+       "x": 160,
+       "angle": 0.03
+      }
+     ]
+    },
+    {
+     "type": "arrow",
+     "id": "mark298",
+     "motion": {
+      "role": "information",
+      "reason": "Attention is pulled toward the feed"
+     },
+     "x": 430,
+     "y": 400,
+     "w": 220,
+     "keys": [
+      {
+       "t": 0,
+       "progress": 0
+      },
+      {
+       "t": 0.5,
+       "progress": 1
+      }
+     ]
+    },
+    {
+     "type": "pose",
+     "id": "actor299",
+     "motion": {
+      "role": "actor",
+      "reason": "The figure leans toward the distraction"
+     },
+     "pose": 0,
+     "x": 700,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 760,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 700,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 0.9,
+       "x": 700,
+       "angle": 0.035
+      },
+      {
+       "t": 1.42,
+       "x": 692,
+       "angle": -0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 20.088,
+   "end": 22.323,
+   "layers": [
+    {
+     "type": "text",
+     "text": "...THAT FEELS BETTER NOW.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#3E9B57"
+    },
+    {
+     "type": "image",
+     "id": "prop335",
+     "motion": {
+      "role": "prop",
+      "reason": "The feed glows as the easy reward"
+     },
+     "path": "@b1/youtube-crayon.png",
+     "x": 160,
+     "y": 300,
+     "w": 280,
+     "keys": [
+      {
+       "t": 0,
+       "y": 330,
+       "alpha": 0,
+       "angle": -0.06
+      },
+      {
+       "t": 0.4,
+       "y": 300,
+       "alpha": 1,
+       "angle": 0.02
+      },
+      {
+       "t": 1.229,
+       "y": 290,
+       "angle": -0.03
+      },
+      {
+       "t": 2.185,
+       "y": 300,
+       "angle": 0.02
+      }
+     ]
+    },
+    {
+     "type": "pose",
+     "id": "actor336",
+     "motion": {
+      "role": "actor",
+      "reason": "The figure sinks into the feed"
+     },
+     "pose": 0,
+     "x": 690,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 750,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 690,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 1.117,
+       "x": 690,
+       "angle": 0.035
+      },
+      {
+       "t": 2.185,
+       "x": 682,
+       "angle": -0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 22.323,
+   "end": 24.863,
+   "layers": [
+    {
+     "type": "text",
+     "text": "THE BILL GOES TO FUTURE YOU.",
+     "x": 95,
+     "y": 110,
+     "size": 52,
+     "bold": true,
+     "w": 1100
+    },
+    {
+     "type": "image",
+     "id": "prop372",
+     "motion": {
+      "role": "prop",
+      "reason": "The unpaid task note is passed on"
+     },
+     "path": "@b1/idea-note-crayon.png",
+     "x": 150,
+     "y": 300,
+     "w": 160,
+     "keys": [
+      {
+       "t": 0,
+       "x": 150,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "x": 150,
+       "alpha": 1
+      },
+      {
+       "t": 1.778,
+       "x": 560,
+       "angle": 0.1
+      },
+      {
+       "t": 2.49,
+       "x": 600,
+       "angle": 0
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "prop373",
+     "motion": {
+      "role": "prop",
+      "reason": "The deadline date sits under it"
+     },
+     "path": "@b1/calendar-crayon.png",
+     "x": 160,
+     "y": 470,
+     "w": 120,
+     "keys": [
+      {
+       "t": 0,
+       "y": 500,
+       "alpha": 0,
+       "angle": -0.06
+      },
+      {
+       "t": 0.4,
+       "y": 470,
+       "alpha": 1,
+       "angle": 0.02
+      },
+      {
+       "t": 1.397,
+       "y": 460,
+       "angle": -0.03
+      },
+      {
+       "t": 2.49,
+       "y": 470,
+       "angle": 0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 24.863,
+   "end": 28.498,
+   "layers": [
+    {
+     "type": "text",
+     "text": "ALMOST A STRANGER.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338"
+    },
+    {
+     "type": "pose",
+     "id": "actor409",
+     "motion": {
+      "role": "actor",
+      "reason": "Future you looks back, unfamiliar"
+     },
+     "pose": 2,
+     "x": 700,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 760,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 700,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 1.817,
+       "x": 700,
+       "angle": 0.035
+      },
+      {
+       "t": 3.585,
+       "x": 692,
+       "angle": -0.02
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "prop410",
+     "motion": {
+      "role": "prop",
+      "reason": "The handed-off task lands on future you"
+     },
+     "path": "@b1/idea-note-crayon.png",
+     "x": 560,
+     "y": 330,
+     "w": 150,
+     "keys": [
+      {
+       "t": 0,
+       "y": 360,
+       "alpha": 0,
+       "angle": -0.06
+      },
+      {
+       "t": 0.4,
+       "y": 330,
+       "alpha": 1,
+       "angle": 0.02
+      },
+      {
+       "t": 1.999,
+       "y": 320,
+       "angle": -0.03
+      },
+      {
+       "t": 3.585,
+       "y": 330,
+       "angle": 0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 28.498,
+   "end": 30.068,
+   "layers": [
+    {
+     "type": "text",
+     "text": "DON'T WAIT TO FEEL READY.",
+     "x": 95,
+     "y": 110,
+     "size": 54,
+     "bold": true,
+     "w": 1100
+    },
+    {
+     "type": "image",
+     "id": "prop446",
+     "motion": {
+      "role": "prop",
+      "reason": "The clapper snaps: action now"
+     },
+     "path": "@b1/clapper-crayon.png",
+     "x": 160,
+     "y": 290,
+     "w": 220,
+     "keys": [
+      {
+       "t": 0,
+       "angle": -0.25,
+       "alpha": 0
+      },
+      {
+       "t": 0.3,
+       "angle": -0.25,
+       "alpha": 1
+      },
+      {
+       "t": 0.55,
+       "angle": 0
+      },
+      {
+       "t": 1.52,
+       "angle": 0.03
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 30.068,
+   "end": 33.038,
+   "layers": [
+    {
+     "type": "text",
+     "text": "SHRINK THE FIRST STEP.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "id": "prop482",
+     "motion": {
+      "role": "prop",
+      "reason": "The big task shrinks to one small step"
+     },
+     "path": "@b1/script-page-crayon.png",
+     "x": 150,
+     "y": 250,
+     "w": 340,
+     "keys": [
+      {
+       "t": 0,
+       "w": 340
+      },
+      {
+       "t": 2.079,
+       "w": 120,
+       "y": 360
+      },
+      {
+       "t": 2.92,
+       "w": 110,
+       "y": 370
+      }
+     ]
+    },
+    {
+     "type": "pose",
+     "id": "actor483",
+     "motion": {
+      "role": "actor",
+      "reason": "The figure eyes the shrinking task"
+     },
+     "pose": 2,
+     "x": 700,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 760,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 700,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 1.485,
+       "x": 700,
+       "angle": 0.035
+      },
+      {
+       "t": 2.92,
+       "x": 692,
+       "angle": -0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 33.038,
+   "end": 34.558,
+   "layers": [
+    {
+     "type": "text",
+     "text": "1. OPEN THE FILE.",
+     "x": 95,
+     "y": 110,
+     "size": 60,
+     "bold": true
+    },
+    {
+     "type": "image",
+     "id": "prop519",
+     "motion": {
+      "role": "prop",
+      "reason": "The file opens"
+     },
+     "path": "@b1/idea-note-crayon.png",
+     "x": 170,
+     "y": 290,
+     "w": 170,
+     "keys": [
+      {
+       "t": 0,
+       "y": 320,
+       "alpha": 0,
+       "angle": -0.06
+      },
+      {
+       "t": 0.4,
+       "y": 290,
+       "alpha": 1,
+       "angle": 0.02
+      },
+      {
+       "t": 0.836,
+       "y": 280,
+       "angle": -0.03
+      },
+      {
+       "t": 1.47,
+       "y": 290,
+       "angle": 0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 34.558,
+   "end": 36.145,
+   "layers": [
+    {
+     "type": "text",
+     "text": "1. OPEN THE FILE.",
+     "x": 95,
+     "y": 110,
+     "size": 60,
+     "bold": true
+    },
+    {
+     "type": "text",
+     "text": "2. WRITE ONE LINE.",
+     "x": 95,
+     "y": 190,
+     "size": 60,
+     "bold": true,
+     "color": "#3E9B57"
+    },
+    {
+     "type": "image",
+     "id": "prop555",
+     "motion": {
+      "role": "prop",
+      "reason": "One line gets written on the page"
+     },
+     "path": "@b1/script-page-crayon.png",
+     "x": 170,
+     "y": 290,
+     "w": 170,
+     "keys": [
+      {
+       "t": 0,
+       "y": 320,
+       "alpha": 0,
+       "angle": -0.06
+      },
+      {
+       "t": 0.4,
+       "y": 290,
+       "alpha": 1,
+       "angle": 0.02
+      },
+      {
+       "t": 0.873,
+       "y": 280,
+       "angle": -0.03
+      },
+      {
+       "t": 1.537,
+       "y": 290,
+       "angle": 0.02
+      }
+     ]
+    },
+    {
+     "type": "pose",
+     "id": "actor556",
+     "motion": {
+      "role": "actor",
+      "reason": "The figure starts working"
+     },
+     "pose": 0,
+     "x": 700,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 760,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 700,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 0.9,
+       "x": 700,
+       "angle": 0.035
+      },
+      {
+       "t": 1.537,
+       "x": 692,
+       "angle": -0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 36.145,
+   "end": 39.305,
+   "layers": [
+    {
+     "type": "text",
+     "text": "START. THE FEELING FADES.",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "w": 1100
+    },
+    {
+     "type": "pose",
+     "id": "actor592",
+     "motion": {
+      "role": "actor",
+      "reason": "The figure keeps working, calmer"
+     },
+     "pose": 0,
+     "x": 690,
+     "y": 35,
+     "w": 445,
+     "keys": [
+      {
+       "t": 0,
+       "x": 750,
+       "alpha": 0,
+       "angle": 0
+      },
+      {
+       "t": 0.45,
+       "x": 690,
+       "alpha": 1,
+       "angle": 0
+      },
+      {
+       "t": 1.58,
+       "x": 690,
+       "angle": 0.035
+      },
+      {
+       "t": 3.11,
+       "x": 682,
+       "angle": -0.02
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "prop593",
+     "motion": {
+      "role": "prop",
+      "reason": "Momentum lights up"
+     },
+     "path": "@b1/idea-bulb-crayon.png",
+     "x": 170,
+     "y": 290,
+     "w": 150,
+     "keys": [
+      {
+       "t": 0,
+       "y": 320,
+       "alpha": 0,
+       "angle": -0.06
+      },
+      {
+       "t": 0.4,
+       "y": 290,
+       "alpha": 1,
+       "angle": 0.02
+      },
+      {
+       "t": 1.738,
+       "y": 280,
+       "angle": -0.03
+      },
+      {
+       "t": 3.11,
+       "y": 290,
+       "angle": 0.02
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 39.305,
+   "end": 43.252,
+   "layers": [
+    {
+     "type": "text",
+     "text": "YOUR SMALLEST FIRST STEP?",
+     "x": 95,
+     "y": 110,
+     "size": 56,
+     "bold": true,
+     "color": "#EC4338",
+     "w": 1100
+    },
+    {
+     "type": "image",
+     "id": "prop629",
+     "motion": {
+      "role": "prop",
+      "reason": "Today's box waits for a tick"
+     },
+     "path": "@b1/calendar-crayon.png",
+     "x": 160,
+     "y": 290,
+     "w": 200,
+     "keys": [
+      {
+       "t": 0,
+       "y": 320,
+       "alpha": 0,
+       "angle": -0.06
+      },
+      {
+       "t": 0.4,
+       "y": 290,
+       "alpha": 1,
+       "angle": 0.02
+      },
+      {
+       "t": 2.171,
+       "y": 280,
+       "angle": -0.03
+      },
+      {
+       "t": 3.897,
+       "y": 290,
+       "angle": 0.02
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "prop630",
+     "motion": {
+      "role": "prop",
+      "reason": "The idea for a first step glows"
+     },
+     "path": "@b1/idea-bulb-crayon.png",
+     "x": 420,
+     "y": 300,
+     "w": 120,
+     "keys": [
+      {
+       "t": 0,
+       "y": 330,
+       "alpha": 0,
+       "angle": -0.06
+      },
+      {
+       "t": 0.4,
+       "y": 300,
+       "alpha": 1,
+       "angle": 0.02
+      },
+      {
+       "t": 2.171,
+       "y": 290,
+       "angle": -0.03
+      },
+      {
+       "t": 3.897,
+       "y": 300,
+       "angle": 0.02
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sfx": [
+  {
+   "time": 2.55,
+   "kind": "tap",
+   "gain": 0.05
+  },
+  {
+   "time": 9.785,
+   "kind": "paper",
+   "gain": 0.05
+  },
+  {
+   "time": 12.088,
+   "kind": "pop",
+   "gain": 0.05
+  },
+  {
+   "time": 17.388,
+   "kind": "pop",
+   "gain": 0.05
+  },
+  {
+   "time": 22.723,
+   "kind": "paper",
+   "gain": 0.05
+  },
+  {
+   "time": 28.698,
+   "kind": "tap",
+   "gain": 0.05
+  },
+  {
+   "time": 33.098,
+   "kind": "paper",
+   "gain": 0.05
+  },
+  {
+   "time": 39.345,
+   "kind": "chime",
+   "gain": 0.05
+  }
+ ],
+ "ambience": [
+  {
+   "path": "room-tone.wav",
+   "start": 0,
+   "end": 43.25,
+   "gain": 0.04,
+   "fadeIn": 0.5,
+   "fadeOut": 0.8
+  }
+ ]
+}

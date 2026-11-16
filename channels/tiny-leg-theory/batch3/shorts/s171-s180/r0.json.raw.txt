@@ -1,0 +1,938 @@
+[
+  {
+    "id": "s171",
+    "mascot": "pen",
+    "title": "Why Comments Can Become an Echo",
+    "mechanism": "Selective exposure",
+    "lines": [
+      {
+        "vo": "You scroll comments until you find someone agreeing with you.",
+        "text": "LOOKING FOR A NOD",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "It feels warm, like the whole room shares your mind.",
+        "text": "WARM ECHO",
+        "actor": "think",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "We naturally seek voices that confirm what we already believe.",
+        "text": "FILTER BUBBLE",
+        "actor": "reading",
+        "prop": "brain"
+      },
+      {
+        "vo": "Dissenting takes get skipped before we even finish the sentence.",
+        "text": "SKIPPING DOUBT",
+        "color": "red",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Try following one calm writer whose worldview tests yours.",
+        "text": "ONE OPPOSING VOICE",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Are you learning, or just checking your own reflection?",
+        "text": "MIRROR OR WINDOW?",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s171vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tai sao phan binh luan toan tieng vong",
+    "title_vi": "Tại sao phần bình luận toàn tiếng vọng",
+    "mechanism": "Selective exposure",
+    "lines": [
+      {
+        "vo": "Lướt bài tranh cãi, bạn tìm đúng bình luận khen để bấm thích.",
+        "text": "CHỈ TÌM ĐỒNG MINH",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Cảm giác an tâm khi thấy ai cũng nghĩ giống hệt mình.",
+        "text": "AN TÂM ẢO",
+        "actor": "think",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Não có xu hướng tự gom những lời khen vừa tai nhất.",
+        "text": "LỰA CHỌN THIÊN VỊ",
+        "actor": "reading",
+        "prop": "brain"
+      },
+      {
+        "vo": "Ý kiến trái chiều vừa đọc lướt qua đã vội gạt đi.",
+        "text": "GẠT Ý NGƯỢC CHIỀU",
+        "color": "red",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Trước khi chia sẻ bài nóng, đọc thử một góc nhìn đối lập.",
+        "text": "ĐỌC THÊM GÓC KHÁC",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Bạn đang mở rộng hiểu biết, hay chỉ tìm đồng minh?",
+        "text": "HIỂU HAY TÌM BÈ?",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s172",
+    "mascot": "buff",
+    "title": "Why Comments Turn Toxic Fast",
+    "mechanism": "Online disinhibition effect",
+    "lines": [
+      {
+        "vo": "Brave behind a keyboard, silent in an elevator. Classic.",
+        "text": "KEYBOARD WARRIOR",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "A screen hides human faces, so your social brakes fail.",
+        "text": "BRAKES OFF",
+        "actor": "shocked",
+        "prop": "brain"
+      },
+      {
+        "vo": "Easy reps in the dark make anyone feel ten feet tall.",
+        "text": "EASY HEAVY BLOWS",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Simple rule: type only what you would say to their face.",
+        "text": "SAY IT TO MY FACE",
+        "color": "green",
+        "actor": "typing_focused"
+      },
+      {
+        "vo": "If you cannot say it standing up, delete the draft.",
+        "text": "DELETE OR STAND UP",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s172vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Tai sao tren mang de buong loi gat",
+    "title_vi": "Tại sao trên mạng dễ buông lời gắt",
+    "mechanism": "Online disinhibition effect",
+    "lines": [
+      {
+        "vo": "Ẩn danh gõ phím thì hăng, gặp ngoài hành lang thì cúi mặt.",
+        "text": "ANH HÙNG BÀN PHÍM",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Khuất sau màn hình, phanh kiềm chế rơi rụng sạch sẽ.",
+        "text": "MẤT PHANH CẢM XÚC",
+        "actor": "shocked",
+        "prop": "brain"
+      },
+      {
+        "vo": "Ném đá sau lưng không tính là hiệp đấu tử tế.",
+        "text": "KHÔNG PHẢI TẠ THẬT",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Nguyên tắc: câu nào dám nói thẳng trước mặt hẵng gửi.",
+        "text": "DÁM NHÌN THẲNG NÓI",
+        "color": "green",
+        "actor": "typing_focused"
+      },
+      {
+        "vo": "Không dám nói trực tiếp thì xóa nháp, cất điện thoại.",
+        "text": "HOẶC NÓI HOẶC XÓA",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s173",
+    "mascot": "pen",
+    "title": "Why We Think Others Are Biased",
+    "mechanism": "Naive realism",
+    "lines": [
+      {
+        "vo": "I see things clearly. Everyone disagreeing must be misled.",
+        "text": "THE SOBER ONE",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "We treat our own perspective as plain, neutral reality.",
+        "text": "CLEAR LENS TRAP",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "When someone clashes with us, we suspect hidden motives first.",
+        "text": "THEY MUST BE BIASED",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Yet our feed quietly feeds us our own reflection daily.",
+        "text": "CURATED FEED",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Step outside the algorithm and read a serious contrasting account.",
+        "text": "SEARCH OUTSIDE",
+        "color": "green",
+        "actor": "reading",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Notice the facts they emphasize that your timeline ignored.",
+        "text": "NEW PERSPECTIVE",
+        "actor": "small_step",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "What if both of you are looking at different puzzle pieces?",
+        "text": "DIFFERENT PIECES?",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s173vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tai sao nghi chi nguoi khac bi dat mui",
+    "title_vi": "Tại sao nghĩ chỉ người khác bị dắt mũi",
+    "mechanism": "Naive realism",
+    "lines": [
+      {
+        "vo": "Mình thấy rất rõ ràng, ai cãi lại chắc chắn bị dắt mũi.",
+        "text": "MỖI MÌNH TỈNH TÁO",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Ai cũng tưởng góc nhìn của bản thân là khách quan nhất.",
+        "text": "NGHĨ MÌNH KHÁCH QUAN",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Hễ gặp ý kiến khác là nghi người ta nhận tiền bình luận.",
+        "text": "NGHI NGỜ ĐỘNG CƠ",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Bảng tin chỉ đang dọn sẵn những bài bạn vốn thích xem.",
+        "text": "BẢNG TIN THIÊN VỊ",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Thử tìm một bài phân tích sâu nằm ngoài luồng thịnh hành.",
+        "text": "TÌM NGOÀI BẢNG TIN",
+        "color": "green",
+        "actor": "reading",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Xem họ dựa trên bằng chứng nào mà bảng tin của bạn giấu.",
+        "text": "NHÌN BẰNG CHỨNG MỚI",
+        "actor": "small_step",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Có khi nào đôi bên chỉ đang cầm hai mảnh ghép khác nhau?",
+        "text": "HAI MẢNH KHÁC NHAU?",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s174",
+    "mascot": "buff",
+    "title": "Keep Your Social Circles Separate",
+    "mechanism": "Audience segregation",
+    "lines": [
+      {
+        "vo": "Ranting about your boss to your grandma and coworkers together. Brilliant.",
+        "text": "ONE BIG MEGAPHONE",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "One careless story blast hits five totally different audiences.",
+        "text": "COLLIDING WORLDS",
+        "actor": "shocked",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "You wouldn't invite your strict manager to your high school reunion.",
+        "text": "MIXED CROWD DANGER",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Do not mix weight classes on the same public feed.",
+        "text": "SEGREGATE CIRCLES",
+        "actor": "phone_grin",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Split custom privacy lists. Work stays work, family stays family.",
+        "text": "SPLIT YOUR LISTS",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Lock your circles down today, or enjoy tomorrow's awkward meetings.",
+        "text": "SEPARATE OR CRINGE",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s174vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Tach nhom tro chuyen truoc khi lo loi",
+    "title_vi": "Tách nhóm trò chuyện trước khi lỡ lời",
+    "mechanism": "Audience segregation",
+    "lines": [
+      {
+        "vo": "Đăng phàn nàn công việc, quên mất sếp và họ hàng cùng xem. Khéo lắm.",
+        "text": "GỬI NHẦM ĐỐI TƯỢNG",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Một trạng thái bộc phát bắn thẳng vào năm mối quan hệ khác nhau.",
+        "text": "VA CHẠM MỐI QUAN HỆ",
+        "actor": "shocked",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Ngoài đời không ai rủ sếp đi họp lớp cấp ba.",
+        "text": "KHÔNG TRỘN SÂN TẬP",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Đừng dồn mọi người vào cùng một sân đấu.",
+        "text": "CHIA RÕ RANH GIỚI",
+        "actor": "phone_grin",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Tách riêng nhóm trao đổi công việc và nhóm thân thiết. Rõ ràng.",
+        "text": "TÁCH NHÓM RÕ RÀNG",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Phân loại người xem ngay, hoặc chuẩn bị lên phòng giải trình.",
+        "text": "CÀI LẠI QUYỀN XEM",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s175",
+    "mascot": "pen",
+    "title": "Why Your Own Post Feels So Important",
+    "mechanism": "Egocentric bias",
+    "lines": [
+      {
+        "vo": "You hit publish and imagine everyone stopping their day to read.",
+        "text": "CENTER OF THE STAGE",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "We feel every word because we wrote it with our own hands.",
+        "text": "INNER WEIGHT",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "To everyone else, your paragraph is just one thumb flick among dozens.",
+        "text": "ONE FAST FLICK",
+        "actor": "sofa_scroll"
+      },
+      {
+        "vo": "Draft your big announcement, step away, and reread it ten minutes later.",
+        "text": "WAIT TEN MINUTES",
+        "color": "green",
+        "actor": "writing",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Most urgent thoughts look remarkably ordinary after a short walk.",
+        "text": "CALM PERSPECTIVE",
+        "color": "gold",
+        "actor": "think",
+        "prop": "coffee_mug"
+      }
+    ]
+  },
+  {
+    "id": "s175vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tai sao bai dang cua minh thay he trong",
+    "title_vi": "Tại sao bài đăng của mình thấy hệ trọng",
+    "mechanism": "Egocentric bias",
+    "lines": [
+      {
+        "vo": "Vừa đăng bài lên nhóm, bạn nơm nớp chờ từng lượt bày tỏ cảm xúc.",
+        "text": "CHỜ TỪNG CẢM XÚC",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Vì tự tay viết nên bạn thấy câu nào cũng sâu sắc và quan trọng.",
+        "text": "TỰ THẤY QUAN TRỌNG",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Với người khác, bài viết ấy chỉ lướt qua trong một giây.",
+        "text": "LƯỚT TRONG MỘT GIÂY",
+        "actor": "sofa_scroll"
+      },
+      {
+        "vo": "Lúc bực dọc, hãy lưu bài nháp rồi đứng dậy uống ngụm nước.",
+        "text": "LƯU NHÁP CHỜ ĐÃ",
+        "color": "green",
+        "actor": "writing",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Mười phút sau đọc lại, cơn bực thường đã nhẹ đi nhiều.",
+        "text": "CƠN GIẬN SẼ NGUỘI",
+        "color": "gold",
+        "actor": "think",
+        "prop": "coffee_mug"
+      }
+    ]
+  },
+  {
+    "id": "s176",
+    "mascot": "buff",
+    "title": "Don't Confuse Viral With Common",
+    "mechanism": "False consensus effect",
+    "lines": [
+      {
+        "vo": "Ten thousand likes on a rant. Everyone agrees with me. Wrong.",
+        "text": "VIRAL IS NOT ALL",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Algorithms round up angry cheerleaders to keep you glued.",
+        "text": "CHEERING SQUAD",
+        "actor": "phone_grin",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Loud engagement does not mean the silent majority backs your stance.",
+        "text": "NOISY MINORITY",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Believing a loud clip speaks for the world is lazy form.",
+        "text": "SLOPPY FORM",
+        "actor": "bored_yawn",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Check broad surveys before declaring you speak for the team.",
+        "text": "CHECK REAL DATA",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "High views mean attention, not consensus. Bench your ego.",
+        "text": "BENCH YOUR EGO",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s176vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung nham bai sot mang voi so dong",
+    "title_vi": "Đừng nhầm bài sốt mạng với số đông",
+    "mechanism": "False consensus effect",
+    "lines": [
+      {
+        "vo": "Bài bóc phốt đạt nghìn lượt chia sẻ, tưởng cả trường cùng phe. Nhầm to.",
+        "text": "NGHÌN CHIA SẺ ẢO",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Thuật toán chỉ gom những người thích khẩu chiến vào một chỗ.",
+        "text": "GOM NGƯỜI CÃI NHAU",
+        "actor": "phone_grin",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Người ồn ào nhất chưa bao giờ là đại diện cho số đông im lặng.",
+        "text": "SỐ ĐÔNG KHÔNG NÓI",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Tưởng clip triệu lượt xem là chân lý thì hỏng form rồi.",
+        "text": "HỎNG FORM SUY NGHĨ",
+        "actor": "bored_yawn",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Muốn biết sự thật, hãy tìm số liệu từ nhiều nguồn đáng tin.",
+        "text": "TÌM SỐ LIỆU ĐỘC LẬP",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Tương tác cao chỉ là tò mò, không phải đồng tình. Hạ tạ xuống.",
+        "text": "HẠ TẠ XUỐNG ĐI",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s177",
+    "mascot": "pen",
+    "title": "Why Both Sides Think the News Is Biased",
+    "mechanism": "Hostile media effect",
+    "lines": [
+      {
+        "vo": "Supporters call the reporter biased. Opponents say the exact same thing.",
+        "text": "BOTH SIDES ANGRY",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "A single neutral report leaves both camps feeling completely betrayed.",
+        "text": "NO ONE IS HAPPY",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "When we care deeply, any nuance feels like hostility.",
+        "text": "NUANCE AS ENEMY",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "We notice every mention of our flaws, but ignore praise.",
+        "text": "SELECTIVE MEMORY",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Next time you read controversial coverage, underline only stated facts.",
+        "text": "LIST PURE FACTS",
+        "color": "green",
+        "actor": "reading",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Separate the raw events from how strongly your team feels.",
+        "text": "FACTS OVER LOYALTY",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Are you defending the truth, or protecting your own uniform?",
+        "text": "TRUTH OR UNIFORM?",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s177vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tai sao hai phe deu keu bi thien vi",
+    "title_vi": "Tại sao hai phe đều kêu bị thiên vị",
+    "mechanism": "Hostile media effect",
+    "lines": [
+      {
+        "vo": "Dưới bài tố cáo, bên bênh hay bên chỉ trích đều mắng tác giả thiên vị.",
+        "text": "HAI PHE CÙNG MẮNG",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Cùng một bài viết mà cả hai bên đều thấy mình bị xử ép.",
+        "text": "AI CŨNG THẤY OAN",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Khi cảm xúc dâng cao, một lời nói trung lập cũng nghe như thù địch.",
+        "text": "TRUNG LẬP THÀNH SAI",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Mắt ta chỉ săm soi chỗ họ nói chạm đến phe mình.",
+        "text": "SĂM SOI TỪNG CHỮ",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Thử gạt cảm xúc phe phái sang bên, chỉ ghi lại chi tiết có kiểm chứng.",
+        "text": "GHI LẠI SỰ THẬT",
+        "color": "green",
+        "actor": "reading",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Tách rời sự việc diễn ra khỏi sự tự ái của hội nhóm.",
+        "text": "TÁCH TỰ ÁI HỘI NHÓM",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Bạn đang bảo vệ lẽ phải, hay chỉ muốn bảo vệ phe mình?",
+        "text": "LẼ PHẢI HAY BÈ PHE?",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s178",
+    "mascot": "buff",
+    "title": "Don't Judge a Creator by One Clip",
+    "mechanism": "Halo effect",
+    "lines": [
+      {
+        "vo": "Nice suit, smooth voice. Must be a financial genius. Sure, buddy.",
+        "text": "CLEAN SUIT TRAP",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "One shiny trait blinds you to everything else they lack.",
+        "text": "THE HALO EFFECT",
+        "actor": "think",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Charisma on camera does not turn bad math into good advice.",
+        "text": "CHARM IS NOT PROOF",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "You wouldn't hire a spotter just because he has nice sneakers.",
+        "text": "NICE SHOES BAD SPOT",
+        "actor": "confused_shrug",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Strip away the confident music and dramatic hand gestures.",
+        "text": "MUTE THE CONFIDENCE",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Demand primary sources for every bold money promise.",
+        "text": "SHOW REAL EVIDENCE",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Good form means testing the bar before loading heavy weight.",
+        "text": "TEST BEFORE LIFTING",
+        "actor": "small_step",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Charm gets attention. Solid evidence protects your cash. Choose.",
+        "text": "CHARM OR EVIDENCE",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s178vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung tin chuyen gia chi vi an noi duyen",
+    "title_vi": "Đừng tin chuyên gia chỉ vì ăn nói duyên",
+    "mechanism": "Halo effect",
+    "lines": [
+      {
+        "vo": "Mặt sáng, giọng ấm, khuyên đầu tư là tin sái cổ. Ừ, dễ thế.",
+        "text": "DUYÊN CHƯA PHẢI TÀI",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Một điểm ưa nhìn làm mờ hết mọi lỗ hổng trong lập luận.",
+        "text": "ẢO TƯỞNG HÀO QUANG",
+        "actor": "think",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Nói cuốn trên video ngắn không biến mẹo làm giàu thành sự thật.",
+        "text": "NÓI HAY CHƯA ĐỦ",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Đi tập không ai nhờ đỡ tạ chỉ vì người ta đi giày đẹp.",
+        "text": "GIÀY ĐẸP KHÔNG ĐỠ",
+        "actor": "confused_shrug",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Tắt nhạc nền kịch tính và những lời hứa hẹn đổi đời đi.",
+        "text": "TẮT NHẠC NỀN ĐI",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Hỏi rõ bảng cân đối và chứng từ kiểm toán trước khi rót tiền.",
+        "text": "ĐÒI BẰNG CHỨNG THẬT",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "coin_stack"
+      },
+      {
+        "vo": "Tập tạ phải thử thanh đòn rỗng trước khi nâng mức tạ nặng.",
+        "text": "THỬ TỪ THANH RỖNG",
+        "actor": "small_step",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Duyên dáng chỉ để giải trí, tiền bạc phải dùng bằng chứng. Tỉnh ra.",
+        "text": "TỈNH TÁO GIỮ TIỀN",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s179",
+    "mascot": "pen",
+    "title": "Why Repeated Claims Feel True",
+    "mechanism": "Illusory truth effect",
+    "lines": [
+      {
+        "vo": "Hear a headline five times, and it begins sounding like solid fact.",
+        "text": "HEARD IT EVERYWHERE",
+        "color": "red",
+        "actor": "reading",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Familiarity is easy for the brain to process quickly.",
+        "text": "EASY FEELS TRUE",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "We easily mistake effortless recall for confirmed accuracy.",
+        "text": "FAMILIARITY TRAP",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Before hitting share on something that feels familiar, pause.",
+        "text": "PAUSE BEFORE SHARE",
+        "actor": "hand_off",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Check the original publishing source with your own eyes.",
+        "text": "FIND FIRST SOURCE",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "A rumor heard a hundred times is still just a rumor.",
+        "text": "STILL JUST A RUMOR",
+        "color": "gold",
+        "actor": "small_step"
+      }
+    ]
+  },
+  {
+    "id": "s179vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tai sao nghe mai mot tin lai thay dung",
+    "title_vi": "Tại sao nghe mãi một tin lại thấy đúng",
+    "mechanism": "Illusory truth effect",
+    "lines": [
+      {
+        "vo": "Thấy tin tuyển dụng xuất hiện khắp nơi, bạn tin ngay đó là tin thật.",
+        "text": "THẤY NHIỀU NÊN TIN",
+        "color": "red",
+        "actor": "reading",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Điều gì lặp lại quen tai thì não xử lý rất nhẹ nhàng.",
+        "text": "QUEN TAI DỄ TIN",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Ta thường nhầm cảm giác quen thuộc với sự chính xác.",
+        "text": "BẪY QUEN MẮT",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Đừng vội gửi vào nhóm lớp chỉ vì thấy nó quen quen.",
+        "text": "DỪNG LẠI MỘT CHÚT",
+        "actor": "hand_off",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Vào thẳng trang chủ chính thức của đơn vị đó để đối chiếu.",
+        "text": "ĐỐI CHIẾU NGUỒN GỐC",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Một tin đồn được chia sẻ trăm lần vẫn chỉ là tin đồn.",
+        "text": "VẪN LÀ TIN ĐỒN",
+        "color": "gold",
+        "actor": "small_step"
+      }
+    ]
+  },
+  {
+    "id": "s180",
+    "mascot": "buff",
+    "title": "What a Comment Section Leaves Out",
+    "mechanism": "Selection bias",
+    "lines": [
+      {
+        "vo": "Reading angry comments and thinking the whole company is doomed. Amateur.",
+        "text": "READING THE ANGRY",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Only the furiously annoyed and the super bored bother leaving comments.",
+        "text": "ONLY EXTREMES POST",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Ten thousand satisfied people just read the post and went to lunch.",
+        "text": "SILENT SATISFIED",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "A comment thread is not a clean survey. Stop counting noisy reps.",
+        "text": "NOISY REPS MISLEAD",
+        "color": "green",
+        "actor": "point_viewer",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Look at retention data or keep arguing with ghosts. Your call.",
+        "text": "DATA OR NOISE",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s180vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Phan binh luan bo quen dieu gi",
+    "title_vi": "Phần bình luận bỏ quên điều gì",
+    "mechanism": "Selection bias",
+    "lines": [
+      {
+        "vo": "Đọc vài bình luận bức xúc rồi kết luận cả công ty bóc lột. Non lắm.",
+        "text": "VỘI VÀNG KẾT LUẬN",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Chỉ người cực kỳ ấm ức hoặc quá rảnh mới ngồi gõ bình luận dạo.",
+        "text": "CHỈ KẺ BỰC MỚI GÕ",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Hàng trăm người làm việc êm ấm đọc xong là tắt máy đi ăn trưa.",
+        "text": "SỐ ĐÔNG YÊN ỔN",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Mục bình luận không phải bảng khảo sát. Đừng đếm tạ ảo.",
+        "text": "ĐỪNG ĐẾM TẠ ẢO",
+        "color": "green",
+        "actor": "point_viewer",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Hỏi người đang làm việc thật, hoặc tiếp tục cãi nhau với nick ảo.",
+        "text": "CHỌN NGUỒN CHUẨN",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  }
+]

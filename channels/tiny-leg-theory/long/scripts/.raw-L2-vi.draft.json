@@ -1,0 +1,936 @@
+{
+  "id": "L2vi",
+  "lang": "vi",
+  "title": "Điện thoại và sự tập trung: Tám cách giành lại chú ý",
+  "description": "Điện thoại có thể kéo sự chú ý của bạn trước cả khi bạn định mở máy. Pen và Buff bóc tách tám cơ chế đời thường khiến ta xao nhãng, rồi gợi ý những thay đổi nhỏ để bạn dễ tập trung hơn.",
+  "chapters": [
+    {
+      "title": "Mở đầu",
+      "sources": ["s06", "s08", "s09"],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Bạn ngồi xuống định làm cho xong một việc, rồi điện thoại đã nằm trong tay.",
+          "text": "1. VIỆC ĐỂ SAU ĐƯỢC KHÔNG?",
+          "color": "ink",
+          "actor": "phone_grin",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Ừ, bạn ơi. Máy đâu cần la hét, chỉ cần nằm ngay bên cạnh.",
+          "text": "CÚ KÉO LẶNG LẼ",
+          "color": "red",
+          "actor": "arms_crossed_no"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Một tiếng rung, chấm sáng, hay phút chán cũng kéo mình đi lúc nào không hay.",
+          "text": "CÚ KÉO NHO NHỎ",
+          "color": "ink",
+          "actor": "confused_shrug",
+          "prop": "notification_bell"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Hôm nay, ta gọi tên tám lý do máy tranh sự chú ý, rồi tìm cách gỡ từng cái.",
+          "text": "TÁM LÝ DO",
+          "color": "gold",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Không cần nếp sống hoàn hảo. Chỉ vài đổi thay nhỏ để lựa chọn kế tiếp dễ hơn.",
+          "text": "ĐỔI THAY NHO NHỎ",
+          "color": "green",
+          "actor": "small_step",
+          "prop": "lightbulb"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Cứ xem như tập chú ý. Bắt đầu bằng cú tay với máy tự động nhất.",
+          "text": "HIỆP ĐẦU TIÊN",
+          "color": "ink",
+          "actor": "jogging",
+          "prop": "dumbbell"
+        }
+      ]
+    },
+    {
+      "title": "Tín hiệu trong tầm mắt",
+      "sources": ["s06"],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình mở máy tính làm bài, thấy điện thoại cạnh bên rồi tự mở màn hình.",
+          "text": "2. TÍN HIỆU TRONG TẦM MẮT",
+          "color": "red",
+          "actor": "typing_focused",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đó là thói quen bị tín hiệu châm ngòi. Thấy máy là tay làm theo trước khi nghĩ.",
+          "text": "THẤY LÀ VÀO VÒNG",
+          "color": "gold",
+          "actor": "point_viewer",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Có khi chẳng có tin gì. Ngón tay vẫn nhớ ứng dụng nằm đâu, việc đang làm thì biến mất.",
+          "text": "NGÓN TAY NHỚ ĐƯỜNG",
+          "color": "ink",
+          "actor": "phone_grin"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Não nối mấy việc nhỏ: thấy máy, cầm lên, kiếm thứ mới. Lặp nhiều thì tay đi càng nhanh.",
+          "text": "THẤY, CẦM, CÓ MỚI",
+          "color": "gold",
+          "actor": "think",
+          "prop": "brain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Đặt máy cạnh bàn phím rồi, mình lại thắc mắc sao cứ muốn liếc thêm lần nữa.",
+          "text": "LẠI MUỐN LIẾC NỮA",
+          "color": "red",
+          "actor": "confused_shrug",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đưa tín hiệu ra khỏi tầm mắt. Trong một hiệp tập trung, để máy ở phòng khác.",
+          "text": "DỜI TÍN HIỆU ĐI",
+          "color": "green",
+          "actor": "small_step",
+          "prop": "hourglass"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nếu cần nghe cuộc gọi, mình vẫn để chuông, chỉ chuyển màn hình ra chỗ khuất.",
+          "text": "GIỮ ĐIỀU CẦN GIỮ",
+          "color": "ink",
+          "actor": "think",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Chỉ cần cách xa chút, bạn có thêm nhịp để chọn. Khởi động cho việc dài hơi.",
+          "text": "THÊM MỘT NHỊP CHỌN",
+          "color": "green",
+          "actor": "jogging",
+          "prop": "dumbbell"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình cũng có thể chọn chỗ cố định cho máy, thay vì đặt đâu cũng được.",
+          "text": "CHỖ RIÊNG ĐỂ ĐỢI",
+          "color": "ink",
+          "actor": "writing",
+          "prop": "target"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Thử trong hiệp tới: máy để xa, mở một việc, rồi nghỉ đúng lúc đã hẹn.",
+          "text": "MỘT HIỆP, MỘT VIỆC",
+          "color": "green",
+          "actor": "point_viewer",
+          "prop": "hourglass"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nhưng một khi đã cầm lên, bảng tin có thể khiến mình khó đặt xuống hơn tưởng.",
+          "text": "CÚ KÉO KẾ TIẾP",
+          "color": "ink",
+          "actor": "sofa_scroll",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Cơ chế kế tiếp là dòng video cứ hứa hẹn một khoảnh khắc hay hơn.",
+          "text": "BIẾT ĐÂU CÁI SAU HAY",
+          "color": "gold",
+          "actor": "think"
+        }
+      ]
+    },
+    {
+      "title": "Vòng lặp biết đâu cái sau hay",
+      "sources": ["s07", "s43", "s48"],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình xem một đoạn lúc chờ cơm nóng. Đoạn sau chạy lên trước khi mình kịp chọn.",
+          "text": "3. VÒNG LẶP BIẾT ĐÂU CÁI SAU HAY",
+          "color": "red",
+          "actor": "sofa_scroll",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Phần thưởng thay đổi là cơ chế ở đây. Mỗi lần vuốt có thể chán, hữu ích, hoặc bất ngờ vui.",
+          "text": "LƯỢT SAU KHÁC LƯỢT TRƯỚC",
+          "color": "gold",
+          "actor": "think",
+          "prop": "brain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Không biết lượt nào thú vị, mình cứ thử tiếp thay vì thấy đã xem đủ.",
+          "text": "BIẾT ĐÂU CÁI NÀY HAY",
+          "color": "ink",
+          "actor": "phone_grin"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Bảng tin vô tận chẳng có trang cuối. Nó không báo lúc nào nên dừng cho vừa.",
+          "text": "CHẲNG CÓ TRANG CUỐI",
+          "color": "red",
+          "actor": "arms_crossed_no",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Đọc sách thì hết chương. Bảng tin cứ hết một đoạn lại như mở đầu đoạn khác.",
+          "text": "LẠI MỞ ĐẦU NỮA",
+          "color": "ink",
+          "actor": "reading",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đừng đợi bị cuốn rồi mới nghĩ cách thoát. Chọn sẵn lúc đầu óc còn tỉnh.",
+          "text": "CHỌN TRƯỚC KHI LƯỚT",
+          "color": "green",
+          "actor": "point_viewer",
+          "prop": "target"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Đi xe buýt, mình có thể dừng lúc tới bến, thay vì đợi xem hết bao nhiêu video.",
+          "text": "ĐIỂM DỪNG THẬT",
+          "color": "green",
+          "actor": "jogging",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Tắt tự chạy trước khi bấm xem. Video hết là có một nhịp rõ ràng để chọn.",
+          "text": "LƯỢT SAU DO BẠN CHỌN",
+          "color": "green",
+          "actor": "typing_focused",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình cũng có thể hẹn giờ, hoặc khoá màn hình sau vài đoạn rồi tự hỏi muốn gì.",
+          "text": "DỪNG LẠI RỒI CHỌN",
+          "color": "green",
+          "actor": "think",
+          "prop": "alarm_clock"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Nhịp dừng ấy như ngắt trang do mình tự tạo. Rõ ràng, gọn gàng, sẵn sàng hiệp sau.",
+          "text": "TỰ NGẮT TRANG",
+          "color": "gold",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Có lúc dừng lướt rồi, mình mới nhận ra ý nghĩ ban đầu đã bay mất.",
+          "text": "MÌNH ĐANG LÀM GÌ?",
+          "color": "red",
+          "actor": "confused_shrug",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Tiếng ting để lại dấu vết lâu hơn tiếng rung. Xem đổi việc bắt bạn trả giá thế nào.",
+          "text": "CÁI GIÁ CỦA ĐỔI VIỆC",
+          "color": "gold",
+          "actor": "think",
+          "prop": "notification_bell"
+        }
+      ]
+    },
+    {
+      "title": "Cái giá khi quay lại việc",
+      "sources": ["s08", "s41"],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình đang viết dở thư cho sếp thì nhóm lớp nhắn. Trả lời xong, câu chữ đứt đoạn.",
+          "text": "4. CÁI GIÁ KHI QUAY LẠI VIỆC",
+          "color": "red",
+          "actor": "typing_focused",
+          "prop": "notification_bell"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đó là đổi việc rồi hồi phục chú ý. Đầu óc phải chuyển hướng, rồi tìm lại đúng chỗ.",
+          "text": "ĐỔI HƯỚNG, DỰNG LẠI",
+          "color": "gold",
+          "actor": "think",
+          "prop": "brain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Tin nhắn trả lời rất nhanh, nhưng ý nghĩ về nó còn theo mình vào việc đang làm.",
+          "text": "Ý NGHĨ CÒN VƯỚNG",
+          "color": "ink",
+          "actor": "worried_heart",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Phần chú ý còn sót ấy vẫn kéo đi. Một lần ngắt có thể chen vào ý nghĩ kế tiếp.",
+          "text": "CHÚ Ý CÒN VƯƠNG LẠI",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nhìn lại trang giấy, mình phải dựng lại câu định viết từ đầu.",
+          "text": "DỰNG LẠI CÂU VIẾT",
+          "color": "red",
+          "actor": "confused_shrug",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Trước tiên, tắt tiếng báo không gấp trong một hiệp. Không cần chat nào cũng chen vào.",
+          "text": "TẮT BỚT TIẾNG ỒN",
+          "color": "green",
+          "actor": "arms_crossed_no",
+          "prop": "notification_bell"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nếu phải rời bàn, mình ghi một dòng nhắc ngay cạnh ý còn dang dở trước khi trả lời.",
+          "text": "ĐỂ LẠI DẤU MỐC",
+          "color": "green",
+          "actor": "writing",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Ghi rõ nhé: thêm ví dụ thứ hai, hay xem lại con số cuối. Đó là dấu để quay về.",
+          "text": "DẤU ĐỂ QUAY LẠI",
+          "color": "green",
+          "actor": "point_viewer",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Thế là lúc lo việc khác, mình không phải giữ mọi chi tiết trong đầu.",
+          "text": "ĐỂ DÒNG GHI NHỚ GIỮ",
+          "color": "ink",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Hiệp tập trung cũng cần hàng rào. Báo mọi người giờ bạn làm việc và giờ bạn rảnh.",
+          "text": "DỰNG HÀNG RÀO",
+          "color": "green",
+          "actor": "arms_crossed_no",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình có thể khép cửa, tắt tiếng nhóm chat, để dấu nhắc ngay chỗ dễ thấy.",
+          "text": "DỄ QUAY LẠI HƠN",
+          "color": "green",
+          "actor": "writing",
+          "prop": "hourglass"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Tốt. Nhưng không có tiếng ting, việc đều đều vẫn có thể khiến tay thèm cái mới.",
+          "text": "TIẾP THEO LÀ CƠN CHÁN",
+          "color": "ink",
+          "actor": "jogging"
+        }
+      ]
+    },
+    {
+      "title": "Cơn sóng chán",
+      "sources": ["s09"],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình đang đọc một trang dài. Mọi thứ yên một chút, điện thoại bỗng thành lựa chọn rõ nhất.",
+          "text": "5. CƠN SÓNG CHÁN",
+          "color": "red",
+          "actor": "reading",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Não tìm cái mới là lực kéo về phía thứ lạ. Việc chán làm lực kéo ấy có vẻ rất gấp.",
+          "text": "CÁI MỚI BỖNG GẤP",
+          "color": "gold",
+          "actor": "think",
+          "prop": "brain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình tự nhủ cần nghỉ, dù mới làm được chút xíu và còn chưa chọn nghỉ kiểu gì.",
+          "text": "NGHỈ HAY TRỐN VIỆC?",
+          "color": "ink",
+          "actor": "confused_shrug"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Có thể bạn cần nghỉ. Nhưng một phút bồn chồn chưa có nghĩa việc này bất khả thi.",
+          "text": "MỘT PHÚT CHỈ LÀ MỘT PHÚT",
+          "color": "gold",
+          "actor": "arms_crossed_no",
+          "prop": "hourglass"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nếu cứ chán là cầm máy, mình chẳng biết cảm giác ấy có tự trôi qua không.",
+          "text": "SÓNG CHÁN SẼ QUA",
+          "color": "ink",
+          "actor": "think",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Thử một lần nhỏ nhé. Để yên điện thoại một phút, ở lại với dòng kế tiếp.",
+          "text": "MỘT PHÚT KHÔNG XEM",
+          "color": "green",
+          "actor": "meditating",
+          "prop": "hourglass"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình nhận ra cơn muốn xem mà không cãi với nó, rồi nhìn lại câu trước mặt.",
+          "text": "NHẬN RA RỒI QUAY VỀ",
+          "color": "green",
+          "actor": "reading",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Hết phút đó thì chọn: làm tiếp, đứng vươn vai, hay đổi việc. Bạn đang cầm lái.",
+          "text": "GIỜ THÌ CHỌN",
+          "color": "green",
+          "actor": "point_viewer",
+          "prop": "target"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Vậy cơn chán thành thông tin, không phải báo động cần màn hình sáng tới cứu.",
+          "text": "KHÔNG PHẢI BÁO ĐỘNG",
+          "color": "gold",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Coi một phút đó là một hiệp, không phải bài thi phẩm chất. Hiệp nhỏ giúp dễ bắt đầu.",
+          "text": "MỘT HIỆP NHO NHỎ",
+          "color": "green",
+          "actor": "jogging",
+          "prop": "dumbbell"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nhưng đôi khi cơn muốn xem tới trước cả lúc việc chán. Vừa mở khoá máy là nó tới.",
+          "text": "MÀN HÌNH ĐẦU TIÊN",
+          "color": "ink",
+          "actor": "phone_grin",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Vậy nhìn vào màn hình đầu tiên nhé. Thứ hiện ra có thể làm vài lựa chọn dễ hơn hẳn.",
+          "text": "ĐỔI THỨ BẠN NHÌN THẤY",
+          "color": "gold",
+          "actor": "think"
+        }
+      ]
+    },
+    {
+      "title": "Sắp xếp màn hình đầu",
+      "sources": ["s10", "s45"],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình mở khoá để xem giờ, ứng dụng video đã nằm ngay dưới ngón tay.",
+          "text": "6. SẮP XẾP MÀN HÌNH ĐẦU",
+          "color": "red",
+          "actor": "phone_grin",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Kiểm soát tín hiệu là đổi dấu hiệu quanh một thói quen. Cách xếp ứng dụng gợi tay bấm gì tiếp.",
+          "text": "CÁCH XẾP GỢI LỰA CHỌN",
+          "color": "gold",
+          "actor": "think",
+          "prop": "brain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Ứng dụng thấy mỗi ngày dần thành quen mắt, dễ với tới, mở ra cũng tự nhiên.",
+          "text": "QUEN MẮT LÀ DỄ BẤM",
+          "color": "ink",
+          "actor": "think",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Vậy nên màn hình chính có ảnh hưởng. Nó lặng lẽ xếp vài thói quen vào hàng đầu.",
+          "text": "THÓI QUEN Ở HÀNG ĐẦU",
+          "color": "gold",
+          "actor": "point_viewer"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Rồi mình thắc mắc sao cứ bấm một ứng dụng, dù mở máy để làm việc.",
+          "text": "MÀN HÌNH CHỈ ĐƯỜNG",
+          "color": "red",
+          "actor": "confused_shrug",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đưa ứng dụng dễ gây xao nhãng khỏi trang đầu. Thay chỗ đó bằng công cụ bạn cần.",
+          "text": "DỜI MỘT ỨNG DỤNG",
+          "color": "green",
+          "actor": "small_step",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình có thể để ghi chú hay lịch ở đó, để màn hình khớp với lý do mình mở máy.",
+          "text": "ĐỂ CÔNG CỤ LÊN TRƯỚC",
+          "color": "green",
+          "actor": "writing",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Tắt chấm đỏ ở ứng dụng không quan trọng. Chấm đỏ dễ hút mắt, làm việc thường thành việc gấp.",
+          "text": "TẮT BỚT CHẤM ĐỎ",
+          "color": "green",
+          "actor": "arms_crossed_no",
+          "prop": "notification_bell"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Thay đổi nhỏ thôi, nhưng việc mình định làm có cơ hội được chọn trước.",
+          "text": "CHO Ý ĐỊNH MỘT CƠ HỘI",
+          "color": "gold",
+          "actor": "small_step"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Sửa một thứ ngay: dời một ứng dụng, tắt một chấm, để cách xếp mới đỡ bạn chút.",
+          "text": "SỬA MỘT MÀN HÌNH",
+          "color": "green",
+          "actor": "typing_focused",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Cách này giúp khi tay tìm máy, nhưng chiếc bàn quanh mình cũng có thể đòi chú ý.",
+          "text": "NHÌN RỘNG HƠN CHIẾC MÁY",
+          "color": "ink",
+          "actor": "think",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Cả khung cảnh đều tác động tới tập trung. Dọn chút chỗ cho việc bạn định làm.",
+          "text": "DỌN MỘT KHOẢNG",
+          "color": "gold",
+          "actor": "point_viewer",
+          "prop": "target"
+        }
+      ]
+    },
+    {
+      "title": "Khoảng bàn thoáng",
+      "sources": ["s37"],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình ngồi xuống đọc, trước mắt là hoá đơn, cái ly và danh sách việc hôm qua.",
+          "text": "7. KHOẢNG BÀN THOÁNG",
+          "color": "red",
+          "actor": "reading",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đó là cạnh tranh thị giác. Thứ nằm trong tầm mắt cứ xin một chút chú ý.",
+          "text": "THỨ GÌ CŨNG TRONG TẦM MẮT",
+          "color": "gold",
+          "actor": "think",
+          "prop": "coffee_mug"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình đâu cố nghĩ về từng món, nhưng mắt cứ tìm chỗ khác để đậu.",
+          "text": "MẮT CỨ ĐẢO QUANH",
+          "color": "ink",
+          "actor": "confused_shrug",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Thế là phải tốn thêm sức mới ở yên với trang sách. Khởi động chật chội quá.",
+          "text": "TẬP TRUNG TỐN SỨC HƠN",
+          "color": "gold",
+          "actor": "bored_yawn",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình không cần phòng sạch bong. Chỉ cần đủ chỗ nhìn trang sách và làm thoải mái.",
+          "text": "THOÁNG MỘT KHOẢNG LÀ ĐỦ",
+          "color": "green",
+          "actor": "think",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Dành một phút dọn ngay khoảng trước mặt. Phần còn lại của phòng cứ để nguyên.",
+          "text": "DỌN MỘT KHOẢNG THÔI",
+          "color": "green",
+          "actor": "small_step",
+          "prop": "hourglass"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình để ly với giấy lẻ sang bên, trước mặt chỉ còn sách và cây bút.",
+          "text": "CHỈ ĐỂ DỤNG CỤ CẦN",
+          "color": "green",
+          "actor": "writing",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Nó không phải công tắc thần kỳ. Chỉ giúp mắt bớt phải lọc thứ linh tinh lúc bắt đầu.",
+          "text": "BỚT THỨ PHẢI LỌC",
+          "color": "gold",
+          "actor": "arms_crossed_no"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Khoảng bàn thoáng giúp mình nhận ra lúc tâm trí đi chỗ khác rồi trở về việc đã chọn.",
+          "text": "NHẬN RA LÚC QUAY VỀ",
+          "color": "ink",
+          "actor": "reading",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Thêm chỗ đỗ điện thoại nữa, chiếc bàn thành vạch xuất phát tốt hơn cho hiệp tập trung.",
+          "text": "ĐẶT VẠCH XUẤT PHÁT",
+          "color": "green",
+          "actor": "jogging",
+          "prop": "target"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Dù bàn gọn, hộp thư vẫn có thể đem ưu tiên của người khác tới trước.",
+          "text": "HỘP THƯ ĐANG ĐỢI",
+          "color": "red",
+          "actor": "typing_focused",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Cú kéo kế tiếp đây: tin mới giật mắt bạn trước khi bạn chọn việc đầu ngày.",
+          "text": "CHỌN VIỆC TRƯỚC",
+          "color": "gold",
+          "actor": "point_viewer",
+          "prop": "notification_bell"
+        }
+      ]
+    },
+    {
+      "title": "Chọn trước khi mở hộp thư",
+      "sources": ["s40", "s49"],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Mình mở Zalo lúc vừa tới công ty, rồi việc người khác thành ý nghĩ đầu tiên trong ngày.",
+          "text": "8. CHỌN TRƯỚC KHI MỞ THƯ",
+          "color": "red",
+          "actor": "typing_focused",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đó là sự chú ý bị kéo đi. Tin mới nổi bật, nên lái bạn trước cả lúc bạn tính.",
+          "text": "TIN MỚI CÓ THỂ LÁI BẠN",
+          "color": "gold",
+          "actor": "think",
+          "prop": "notification_bell"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nhóm chat lớp càng dễ thấy gấp, vì biết người thật đang chờ mình trả lời.",
+          "text": "NGƯỜI THẬT KÉO MẠNH HƠN",
+          "color": "ink",
+          "actor": "worried_heart",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Điện thoại rung không nói tin đó gấp cỡ nào. Nó chỉ báo có thứ vừa tới.",
+          "text": "RUNG KHÔNG PHẢI KẾ HOẠCH",
+          "color": "gold",
+          "actor": "arms_crossed_no",
+          "prop": "notification_bell"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình có thể trả lời tin cả buổi sáng mà việc định làm vẫn chưa động tới.",
+          "text": "VIỆC CỦA MÌNH VẪN ĐỢI",
+          "color": "red",
+          "actor": "future_tired",
+          "prop": "hourglass"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Trước khi mở ứng dụng nào, viết ra một việc bạn muốn đẩy tới hôm nay.",
+          "text": "GHI VIỆC ĐẦU TIÊN",
+          "color": "green",
+          "actor": "writing",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình có thể chọn bước nhỏ đầu tiên, như phác mở bài hay đọc một trang.",
+          "text": "CHỌN MỘT HIỆP NHỎ",
+          "color": "green",
+          "actor": "small_step",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Làm hiệp đầu đó trước khi mở hộp thư. Rồi xem tin vào lúc bạn đã chọn.",
+          "text": "VIỆC CỦA BẠN LÊN TRƯỚC",
+          "color": "green",
+          "actor": "point_viewer",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Với nhóm lớp, mình có thể hẹn giờ xem và báo lúc nào thường đọc tin.",
+          "text": "HẸN GIỜ KIỂM TRA TIN",
+          "color": "green",
+          "actor": "writing",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Tắt tin không gấp. Giữ báo tin cần thiết, còn lại để sau giờ nghỉ.",
+          "text": "CHỈ GIỮ TIN CẦN THIẾT",
+          "color": "green",
+          "actor": "arms_crossed_no",
+          "prop": "notification_bell"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình không phớt lờ ai. Mình chọn lúc có thể chú ý đàng hoàng tới tin của họ.",
+          "text": "CHỌN LÚC TRẢ LỜI",
+          "color": "gold",
+          "actor": "think"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Giờ ta có kế hoạch, khoảng trống và hiệp đầu. Làm sao cho dễ lặp lại đây.",
+          "text": "LÀM SAO ĐỂ LẶP LẠI",
+          "color": "ink",
+          "actor": "jogging"
+        }
+      ]
+    },
+    {
+      "title": "Hiệp tập trung dễ lặp lại",
+      "sources": ["s06", "s07", "s08", "s09", "s10", "s37", "s40", "s50"],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Kế hoạch tốt vẫn dễ vỡ nếu mình mong nhớ hết mọi quy tắc suốt cả ngày.",
+          "text": "9. HIỆP TẬP TRUNG DỄ LẶP",
+          "color": "ink",
+          "actor": "think",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Vậy gom thành hiệp ngắn: để máy xa, dọn một khoảng, chọn việc đầu tiên.",
+          "text": "ĐỂ XA, DỌN, CHỌN",
+          "color": "gold",
+          "actor": "point_viewer",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Trước khi lướt, mình có thể chọn lúc dừng, khi quyết định vẫn còn nhẹ nhàng.",
+          "text": "CHỌN LỐI RA",
+          "color": "green",
+          "actor": "think",
+          "prop": "alarm_clock"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Chọn trước cú vuốt đầu. Xe tới, hết giờ nghỉ, chuông reo. Làm dấu dừng cho rõ.",
+          "text": "DẤU DỪNG THẬT RÕ",
+          "color": "green",
+          "actor": "small_step",
+          "prop": "hourglass"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Lúc quay lại làm, mình ghi bước kế tiếp trước khi trả lời bất cứ tin nào.",
+          "text": "GHI BƯỚC KẾ TIẾP",
+          "color": "green",
+          "actor": "writing",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Tắt báo tin không gấp trong hiệp đó, rồi báo lúc nào bạn quay lại.",
+          "text": "GIỮ VỮNG HIỆP TẬP",
+          "color": "green",
+          "actor": "arms_crossed_no",
+          "prop": "notification_bell"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Nếu thấy chán, mình cho nó một phút rồi mới quyết định có cần nghỉ thật không.",
+          "text": "ĐỂ CƠN MUỐN TRÔI QUA",
+          "color": "green",
+          "actor": "meditating",
+          "prop": "hourglass"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Rồi nghỉ cho đàng hoàng. Vươn vai, uống nước, đứng dậy. Đừng sa vào lướt.",
+          "text": "CHỌN GIỜ NGHỈ THẬT",
+          "color": "green",
+          "actor": "jogging",
+          "prop": "coffee_mug"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Ngày bận, mình thu nhỏ nếp này: cất máy, dọn một chỗ, viết một câu.",
+          "text": "NHỎ CŨNG TÍNH",
+          "color": "gold",
+          "actor": "small_step",
+          "prop": "laptop_file"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Đó là một hiệp. Lặp lại khi có thể, chỉnh phần cứ chắn đường bạn.",
+          "text": "LẶP LẠI VÀ ĐIỀU CHỈNH",
+          "color": "green",
+          "actor": "jogging",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Mình không cần thắng mọi khoảnh khắc. Chỉ cần thấy lựa chọn tốt kế tiếp dễ hơn.",
+          "text": "LÀM LỰA CHỌN DỄ THẤY",
+          "color": "gold",
+          "actor": "think",
+          "prop": "lightbulb"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Gói lại bằng ba ý bạn có thể mang vào hiệp làm việc kế tiếp.",
+          "text": "BA Ý MANG THEO",
+          "color": "ink",
+          "actor": "point_viewer"
+        }
+      ]
+    },
+    {
+      "title": "Tóm tắt",
+      "sources": ["s06", "s07", "s08", "s09", "s10", "s37", "s40", "s50"],
+      "lines": [
+        {
+          "speaker": "pen",
+          "vo": "Một, nhận ra tín hiệu và đổi thứ mắt với tay gặp phải lúc bắt đầu.",
+          "text": "10. NHẬN RA TÍN HIỆU",
+          "color": "gold",
+          "actor": "think",
+          "prop": "smartphone_glow"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Hai, dựng ranh giới cho sự chú ý: tắt báo tin, dọn một chỗ, để lời nhắc quay lại.",
+          "text": "DỰNG HÀNG RÀO",
+          "color": "gold",
+          "actor": "arms_crossed_no",
+          "prop": "checkbox_tick"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Ba, chọn trước: việc đầu tiên, giờ xem tin, và điểm dừng khi lướt.",
+          "text": "CHỌN TỪ TRƯỚC",
+          "color": "gold",
+          "actor": "writing",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Trong bảy ngày, thử mỗi ngày một hiệp tập trung, máy để xa, có hẹn giờ dừng.",
+          "text": "HIỆP TẬP BẢY NGÀY",
+          "color": "green",
+          "actor": "small_step",
+          "prop": "calendar_today"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Xong mỗi hiệp, ghi điều gì kéo bạn đi và thay đổi nhỏ nào giúp bạn quay lại.",
+          "text": "NHẬN RA ĐIỀU CÓ ÍCH",
+          "color": "ink",
+          "actor": "writing",
+          "prop": "paper_mountain"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Giữ thay đổi có ích. Đổi cái chưa ổn. Không cần nếp sống kiểu siêu nhân.",
+          "text": "GIỮ CÁCH THỰC TẾ",
+          "color": "green",
+          "actor": "arms_crossed_no"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Điện thoại vẫn hữu ích. Mình chỉ dành một chỗ trong kế hoạch cho sự chú ý của mình.",
+          "text": "SỰ CHÚ Ý CŨNG CÓ CHỖ",
+          "color": "gold",
+          "actor": "think",
+          "prop": "target"
+        },
+        {
+          "speaker": "buff",
+          "vo": "Hiệp nhỏ cũng tính. Làm hiệp sau dễ hơn, rồi mai quay lại tập tiếp.",
+          "text": "MAI LẠI TẬP TIẾP",
+          "color": "green",
+          "actor": "jogging",
+          "prop": "dumbbell"
+        },
+        {
+          "speaker": "pen",
+          "vo": "Theo dõi Lý Thuyết Chân Que để nghe thêm giải thích nhỏ, giúp chọn lựa hằng ngày nhẹ hơn.",
+          "text": "THEO DÕI ĐỂ XEM THÊM",
+          "color": "ink",
+          "actor": "point_viewer"
+        }
+      ]
+    }
+  ]
+}

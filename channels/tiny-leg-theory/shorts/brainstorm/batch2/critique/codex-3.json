@@ -1,0 +1,20 @@
+**Tóm tắt vừa làm:** Đã rà soát các kịch bản s81–s105 theo từng tiêu chí.
+
+**Giải thích kết quả:** Có 12 dòng cần sửa.
+
+[
+  {"id":"s81vi","line":3,"vo":"Trước khi xem đáp án, gấp vở lại rồi ghi ý chính ra giấy trắng.","why":"VO không khớp text: text nói gấp vở và ghi ra, nhưng VO còn thiếu bước ghi."},
+  {"id":"s82vi","line":3,"vo":"Tập đúng một bài tạ, lên sàn lại gặp bài khác.","why":"“Tập mỗi một bài tạ” nghe gượng; sửa cho tự nhiên hơn."},
+  {"id":"s83vi","line":4,"vo":"Gặp thuật ngữ khô khan, gắn nó với một chuyện cụ thể.","why":"Text nói gắn với chuyện thật của bạn, VO lại không có ý đó."},
+  {"id":"s87vi","line":8,"vo":"Giỏ hàng vẫn ở đó. Giờ bạn tự đặt mỏ neo.","why":"“Mỏ neo do bạn thả” gượng và dễ hiểu sai hình ảnh."},
+  {"id":"s90vi","line":2,"vo":"Cái gì dễ nhớ thì mình dễ tưởng là thường xảy ra.","why":"Bản cũ nói não tưởng điều dễ nhớ là hay xảy ra, khẳng định quá mức."},
+  {"id":"s91vi","line":1,"vo":"Cả lớp đăng ký cùng một đề tài, nên mình cũng nghĩ chắc đề đó dễ ăn điểm.","why":"Câu cũ gượng và chuyển đột ngột sang ngôi “mình”."},
+  {"id":"s96vi","line":6,"vo":"Sợ thì cứ ghi nhận, nhưng quyết định nên xét cả hai điều. Mai thử lại một chuyến.","why":"“Quyết phải qua đủ hai hiệp” nghe như lời khuyên tuyệt đối; cũng thiếu chủ ngữ rõ."},
+  {"id":"s98vi","line":1,"vo":"Bạn cùng phòng nhờ làm hộ bài thuyết trình. Bạn lại gật đầu. Hay thật.","why":"Câu chốt “Ừ, tin là rảnh” thiếu tự nhiên và không đúng giọng Buff."},
+  {"id":"s99vi","line":4,"vo":"Ngăn tiết kiệm thấy đầy lên, còn khoản tiền đã tiêu thì bị lờ đi.","why":"“Ngăn đã tiêu” không tự nhiên; đổi sang khoản tiền đã tiêu."},
+  {"id":"s101vi","line":3,"vo":"Não quen dần với những thứ ở quanh mình. Đó là thích nghi khoái lạc.","why":"“Thứ cứ ở yên đó” gượng và “thích nghi khoái lạc” cần được nối với tên cơ chế."},
+  {"id":"s103vi","line":6,"vo":"Không lấy thì món miễn phí chỉ là cái cớ để mình chi thêm.","why":"Câu cũ dễ bị hiểu là “không lấy thì miễn phí là cái cớ”; sửa cho rõ quan hệ ý."},
+  {"id":"s105vi","line":8,"vo":"Mấy món trong tủ còn đáng giữ chỗ không?","why":"“Đáng chỗ của chúng” nghe dịch sát và gượng."}
+]
+
+**Next steps:** Không có

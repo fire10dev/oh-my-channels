@@ -1,0 +1,933 @@
+{
+ "id": "L9vi",
+ "lang": "vi",
+ "title": "Làm sao lên tiếng ở chỗ làm mà không ngại ngùng?",
+ "description": "Tám cơ chế tâm lý (Pluralistic Ignorance, Evaluation Apprehension, Psychological Safety, Turn-taking Norms, Communication Accommodation, Assertiveness, Message Framing, Impression Management) có thể khiến việc lên tiếng trong cuộc họp nhóm trở nên khó hơn cần thiết. Pen và Buff khám phá những cách nhỏ, lễ phép để góp ý, kèm theo câu mở đầu ba giây bạn có thể thử ngay cuộc họp tới.",
+ "chapters": [
+  {
+   "title": "Nút Bật Tiếng",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngón tay ngập ngừng trước nút bật tiếng, tim đập thình thịch rồi chủ đề trôi qua mất.",
+     "text": "NÚT BẬT TIẾNG",
+     "color": "gold",
+     "actor": "panic",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rồi não bạn chiếu lại cuộc họp như tự tập thêm hiệp phụ mà không ai mượn.",
+     "text": "HIỆP PHỤ THÊM",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có lẽ phòng họp toàn sếp, im lặng quá, hoặc nhanh quá để kịp chen lời.",
+     "text": "ĐỌC KHÔNG KHÍ PHÒNG",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tụi mình sẽ bóc tách tám lý do khiến bạn ngại lên tiếng, kèm bài tập cho từng hiệp.",
+     "text": "TÁM BÀI TẬP NHỎ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mục tiêu không phải trở thành người nói to nhất, mà là được nghe rõ ràng.",
+     "text": "RÕ RÀNG, KHÔNG TO",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mang một ý hữu ích vào cuộc họp tới. Mình sẽ dựng câu mở đầu ba giây.",
+     "text": "CUỘC HỌP KẾ TIẾP",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "2. Phòng Họp Im Lặng",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cuộc họp im bặt sau phần thông báo chung chung, chẳng ai dám hỏi về chỉ tiêu trên trời.",
+     "text": "2. PHÒNG HỌP IM LẶNG",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình nghĩ ai cũng hiểu, chắc mỗi mình chưa theo kịp. Sao không ai lên tiếng?",
+     "text": "CHẮC CHỈ MỖI MÌNH",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là sự ngộ nhận tập thể. Cả nhóm nhầm sự im lặng là dấu hiệu ai cũng đã thông suốt.",
+     "text": "NGỘ NHẬN TẬP THỂ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ai cũng có cùng thắc mắc, nhưng lại chờ đứa khác liều mình gánh tạ trước.",
+     "text": "ĐOÁN NHẦM CẢ NHÓM",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi có sếp trong phòng, chen ngang dễ bị coi là vô lễ hoặc vượt mặt.",
+     "text": "SỢ VƯỢT MẶT CẤP TRÊN",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Im lặng chẳng chứng minh được gì đâu Pen, có khi người ta chỉ đang lơ đễnh.",
+     "text": "IM KHÔNG LÀ ĐỒNG Ý",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lần trước mình im, sau đó mới biết hai đồng nghiệp cũng lo y hệt.",
+     "text": "NGƯỜI KHÁC CŨNG VẬY",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử hỏi nhẹ xem, em chưa rõ phần này, ai sẽ phụ trách bước tiếp theo ạ?",
+     "text": "HỎI MỘT CÂU RÕ RÀNG",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Câu đó chỉ ra một lỗ hổng thực tế và mở đường cho người khác bổ sung.",
+     "text": "LÀM CHO DỄ NÓI",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng một câu hỏi làm hiệp khởi động. Bỏ qua bài diễn văn dài dòng.",
+     "text": "HIỆP KHỞI ĐỘNG",
+     "color": "green",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình thấy bớt sợ khi tập trung vào công việc thay vì ngồi đoán sự im lặng.",
+     "text": "TẬP TRUNG VÀO VIỆC",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phòng im đó còn một lớp nữa, Pen sợ đồng nghiệp đang chấm điểm từng lời.",
+     "text": "BẢNG CHẤM TRONG ĐẦU",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "3. Bảng Điểm Ngầm",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình bắt đầu một câu, rồi sợ sếp thấy nó ngô nghê hoặc thừa thãi.",
+     "text": "3. BẢNG ĐIỂM NGẦM",
+     "color": "gold",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình nắn nót từng chữ, rồi người khác cướp mất lời. Sao cứ tự bịt miệng mình?",
+     "text": "MẤT LƯỢT NÓI",
+     "color": "red",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là sợ bị đánh giá. Não Pen đang biến một câu góp ý thành bài thi.",
+     "text": "SỢ BỊ ĐÁNH GIÁ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ như bị rọi đèn vào mặt, dù mọi người chỉ đang lo theo dõi cuộc họp.",
+     "text": "CẢM GIÁC BỊ SOI",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình muốn nói năng chỉn chu lễ phép, nhất là trước mặt các anh chị lớn.",
+     "text": "CHỈN CHU VÀ LỄ PHÉP",
+     "color": "ink",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chờ câu hoàn hảo thì nặng tạ lắm. Bớt cân xuống, nâng được một cái đã.",
+     "text": "HẠ BỚT MỨC TẠ",
+     "color": "gold",
+     "actor": "bored_yawn",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình sửa một câu hỏi đơn giản lâu đến mức cuộc họp trôi sang phần khác.",
+     "text": "SỬA ĐẾN IM LUÔN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen ghi sẵn một câu ngắn trước giờ họp, dùng từ ngữ đời thường thôi.",
+     "text": "CHUẨN BỊ MỘT CÂU",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng câu mở đầu ba giây, em xin hỏi nhanh một ý trước khi nhóm chuyển phần.",
+     "text": "BA GIÂY RỒI NÓI",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ba giây mớm lời giúp giảm áp lực. Não mình thôi gọt giũa và bắt đầu nói.",
+     "text": "PHÁ BĂNG ÁP LỰC",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là câu mớm lời, không phải phép thần. Chủ trì lướt qua thì chờ nhịp khác.",
+     "text": "MẸO MỚM, KHÔNG PHÉP",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù mở đầu êm, vẫn sợ nếu mọi người gay gắt với sơ sót thật lòng.",
+     "text": "PHÒNG CÓ LẮNG NGHE?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ xem thử lúc phòng họp bắt đầu phản bác thì đỡ đòn thế nào.",
+     "text": "KHI BỊ PHẢN BÁC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "4. Phản Ứng Của Phòng",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cả nhóm chốt hạn giao việc, nhưng mình thấy lịch đề xuất quá gấp gáp.",
+     "text": "4. PHẢN ỨNG CỦA PHÒNG",
+     "color": "gold",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không ai cản, mình sợ cảnh báo rủi ro sẽ bị gán mác là thích bàn lùi.",
+     "text": "SỢ BỊ COI BÀN LÙI",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là an toàn tâm lý. Khi thiếu nó, não Pen đọc rủi ro bị đánh giá như mối nguy thật.",
+     "text": "AN TOÀN TÂM LÝ",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không cần ai vỗ tay đâu Pen, vào phòng tập hay phòng họp chỉ cần đừng bắt bẻ nhau.",
+     "text": "LẮNG NGHE, ĐỪNG ÉP",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một lời phản biện lễ phép sẽ giúp nhóm nhìn rõ giới hạn thực tế.",
+     "text": "PHẢN BIỆN LỄ PHÉP",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sếp tạo ra sân tập đó. Góp ý rõ ràng sẽ giúp những hiệp sau nhẹ thở hơn.",
+     "text": "GÓP Ý CHO RÕ",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình từng thấy nỗi lo bị gạt đi, để rồi vỡ trận khi cận kề ngày nộp.",
+     "text": "RỦI RO QUAY LẠI",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gắn vào việc chung thôi Pen, thử hỏi xem thứ Sáu này nhóm mình kịp những phần nào.",
+     "text": "GẮN VÀO CÔNG VIỆC",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách đó gợi mở giải pháp thực tế thay vì biến thành chuyện công kích cá nhân.",
+     "text": "MỜI GIẢI PHÁP THỰC",
+     "color": "green",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bị gắt thì đứng vững trụ, bám đúng câu hỏi xem cần thêm số liệu gì.",
+     "text": "GIỮ VỮNG CÂU HỎI",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù ý kiến có hay, vẫn khó chen vào khi nhịp họp đang bắn liên thanh.",
+     "text": "NHỊP HỌP QUÁ NHANH",
+     "color": "ink",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phòng an toàn rồi thì phải biết canh nhịp vào hiệp cho chuẩn.",
+     "text": "CANH NHỊP VÀO HIỆP",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "5. Luật Lượt Nói",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Có chỗ cho chen ngang, có chỗ phải đợi mời. Làm sao lên tiếng mà không thất lễ?",
+     "text": "5. LUẬT LƯỢT NÓI",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình đợi một khoảng lặng hoàn hảo, nhưng vừa hé ra đã bị chặn mất.",
+     "text": "KHOẢNG LẶNG VỤT MẤT",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quy tắc lượt nói là những thỏa thuận ngầm lẫn luật lệ rõ ràng để chia lượt.",
+     "text": "QUY TẮC LƯỢT NÓI",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não vừa nghe vừa phải tìm từ, rất dễ quá tải nên khó chộp đúng khoảng lặng.",
+     "text": "QUÁ TẢI ĐỂ CHEN LỜI",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ở nhiều công ty, nhân viên mới thường phải đợi sếp điểm tên mới dám nói.",
+     "text": "CHỜ ĐƯỢC ĐIỂM TÊN",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhịp họp như dây nhảy thôi Pen. Canh đúng nhịp quay rồi hãy lao vào.",
+     "text": "CANH NHỊP NHẢY DÂY",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hôm trước mình vừa mở miệng thì người chủ trì đã chuyển sang mục khác.",
+     "text": "LỠ NHỊP PHÁT BIỂU",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giơ tay nhẹ hoặc xin phép cho em bổ sung một ý ngắn sau phần này.",
+     "text": "XIN LƯỢT PHÁT BIỂU",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họp trực tuyến thì mình bấm nút giơ tay rồi đợi được gọi tên.",
+     "text": "BẤM NÚT GIƠ TAY",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy khoảng lặng thì móc nối người trước, em xin nối tiếp ý vừa rồi về điểm này.",
+     "text": "MÓC NỐI Ý TRƯỚC",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tùy vào ai ngồi trong phòng và tính chất cuộc họp nghiêm túc tới đâu.",
+     "text": "TÙY KHÔNG KHÍ PHÒNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cầm được tạ rồi đó Pen, giờ phải giữ nhịp nâng cho vừa sức phòng họp.",
+     "text": "THEO KỊP TỐC ĐỘ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "6. Hợp Nhịp Phòng",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đồng nghiệp báo cáo gãy gọn, còn mình lại chuẩn bị một sớ dài lòng vòng.",
+     "text": "6. HỢP NHỊP PHÒNG",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình thấy cả phòng bắt đầu đuối sức trước khi mình vào được trọng tâm.",
+     "text": "DÀI DÒNG ĐUỐI SỨC",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Điều chỉnh giao tiếp là nắn lại cách nói cho ăn khớp với cuộc họp.",
+     "text": "ĐIỀU CHỈNH GIAO TIẾP",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉnh độ dài và tốc độ thôi Pen, như bài khởi động chứ ai bắt đổi tính.",
+     "text": "KHỞI ĐỘNG, ĐỔI TÍNH?",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không phải giả tạo, nhại giọng người khác, hay răm rắp đồng tình mọi điều.",
+     "text": "KHÔNG PHẢI GIẢ VỜ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen đang chỉnh cách truyền tải để đồng nghiệp dễ nghe thôi, một hiệp nhẹ nhàng.",
+     "text": "MỘT HIỆP NHẸ NHÀNG",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình muốn phản đối về tiến độ, nhưng vẫn muốn giữ hòa khí lịch sự.",
+     "text": "GIỮ HÒA KHÍ LỊCH SỰ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Họ nói ngắn thì Pen đẩy hiệp ngắn: tiến độ cần thêm ba ngày để thử nghiệm.",
+     "text": "NÓI GỌN ĐÚNG Ý",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sau đó mình nêu thẳng rủi ro và gợi ý một phương án dự phòng.",
+     "text": "NÊU BƯỚC DỰ PHÒNG",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bắt đúng nhịp phòng họp chứ đừng gào to. Một câu điềm đạm vẫn đủ sức nặng.",
+     "text": "ĐIỀM ĐẠM MÀ CÓ UY",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình vừa nắn được cách nói, vừa giữ được sự thẳng thắn cần thiết.",
+     "text": "VỪA KHÉO VỪA THẲNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phòng mở tai rồi đó, vào thẳng bài tập chính cho đúng trọng tâm.",
+     "text": "NÓI ĐIỀU MÌNH CẦN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "7. Thẳng Thắn Và Rõ",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sếp giao việc gấp ngay chiều thứ Sáu, trong khi cả nhóm đã ngập đầu.",
+     "text": "7. THẲNG THẮN VÀ RÕ",
+     "color": "gold",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình bóng gió rồi xin lỗi, rốt cuộc sếp chẳng biết mình cần chốt quyết định nào.",
+     "text": "BÓNG GIÓ CHE Ý CHÍNH",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giao tiếp thẳng thắn là nói rõ điều mình cần mà vẫn tôn trọng người nghe.",
+     "text": "GIAO TIẾP THẲNG THẮN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là kỹ năng nâng tạ lời nói thôi Pen, đâu phải vào phòng tập rồi chiếm hết máy.",
+     "text": "TÔN TRỌNG HAI CHIỀU",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trong cuộc họp với sếp lớn, mình chọn câu hỏi khéo thay vì đòi hỏi cộc lốc.",
+     "text": "HỎI KHÉO THAY VÌ ĐÒI",
+     "color": "ink",
+     "actor": "think",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen thử bài đánh đổi xem, nếu nhóm nhận thêm việc này, đầu việc nào dời lại ạ?",
+     "text": "BÀI TẬP ĐÁNH ĐỔI",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Câu đó đặt thẳng bài toán tải việc mà không chĩa mũi dùi vào ai.",
+     "text": "KHÔNG ĐỔ LỖI CHO AI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cách đó chừa đường cho sếp xếp lại ưu tiên để cứu thể lực cả đội.",
+     "text": "BẢO VỆ THỂ LỰC NHÓM",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vừa giữ được phép lịch sự, vừa phơi bày tình trạng quá tải cho mọi người.",
+     "text": "LỊCH SỰ VÀ RÕ RÀNG",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bớt những câu xin lỗi lòng vòng làm mờ ý chính. Chỉ giữ lịch sự đúng chỗ.",
+     "text": "BỎ XIN LỖI LÒNG VÒNG",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Yêu cầu rõ ràng vẫn rất nhã nhặn, nhất là khi nêu rõ ảnh hưởng chung.",
+     "text": "RÕ RÀNG VÀ NHÃ NHẶN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Yêu cầu thẳng thắn cần một khung đỡ chắc chắn. Đóng khung mọi thứ quanh công việc.",
+     "text": "ĐÓNG KHUNG CÔNG VIỆC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "8. Dẫn Bằng Công Việc",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Thấy rủi ro dự án, mình lại sợ bị coi là bàn lùi. Nói sao cho đúng?",
+     "text": "8. DẪN BẰNG CÔNG VIỆC",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đồng nghiệp chỉ nghe mấy câu rào đón, rồi trôi mất cảnh báo thực tế.",
+     "text": "RÀO TRƯỚC LÀM MỜ Ý",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đóng khung thông điệp là xếp lại thế đứng để người ta thấy rõ tầm quan trọng.",
+     "text": "ĐỊNH HÌNH THÔNG ĐIỆP",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một thế khung chuẩn gồm ba bước, tình huống thực tế, mối lo, và đề xuất giải pháp.",
+     "text": "BA BƯỚC VÀO KHUNG",
+     "color": "gold",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như vậy ý kiến gắn chặt vào quyết định mà cả nhóm có thể cùng chốt.",
+     "text": "HƯỚNG TỚI QUYẾT ĐỊNH",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử vào thế này, tài liệu gửi thứ Năm thì ít giờ duyệt, mình dời sớm hơn được không?",
+     "text": "CHỈ RA ĐIỂM ĐÁNH ĐỔI",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rõ ràng hơn nhiều so với việc chê kế hoạch dở hay trách ai cẩu thả.",
+     "text": "MÔ TẢ, ĐỪNG TRÁCH",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ rõ sự đánh đổi rồi đưa giải pháp để cả đội cùng đỡ tạ.",
+     "text": "CÙNG BÀN PHƯƠNG ÁN",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình nói rõ phần mình đã biết, và rạch ròi phần còn đang kiểm chứng.",
+     "text": "RẠCH RÒI THÔNG TIN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giúp người ta mổ xẻ ý tưởng thay vì ngồi đoán xem Pen có ẩn ý gì.",
+     "text": "ĐÁNH GIÁ ĐÚNG Ý",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù nói gãy gọn, mình vẫn nơm nớp sợ người ta đánh giá hình ảnh của mình.",
+     "text": "MÌNH TRÔNG THẾ NÀO?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khung đẹp đến mấy cũng hỏng nếu Pen cứ mải soi gương diễn vai cả buổi.",
+     "text": "BỎ TẬP SOI GƯƠNG",
+     "color": "gold",
+     "actor": "bored_yawn",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "9. Bỏ Vai Diễn",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình lựa từng chữ, mong mọi người thấy mình thông minh, đĩnh đạc, chuẩn bị kỹ.",
+     "text": "9. BỎ VAI DIỄN",
+     "color": "gold",
+     "actor": "coffee"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Càng mải giữ hình ảnh, mình càng mất tập trung vào diễn biến cuộc họp.",
+     "text": "MẢI DIỄN TRÒN VAI",
+     "color": "red",
+     "actor": "think",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là quản lý ấn tượng. Pen đang tốn sức gồng mình để người khác nhìn vào.",
+     "text": "QUẢN LÝ ẤN TƯỢNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chăm chút cách trình bày là bình thường, nhưng gồng quá sẽ bóp chết nội dung.",
+     "text": "GỒNG QUÁ HỎNG Ý",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Uy tín rất cần, nhưng hỏi khi chưa rõ cũng quan trọng không kém.",
+     "text": "HỎI KHI CHƯA RÕ",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không cần gồng mình tỏ ra biết tuốt. Nói gãy gọn cho người ta hiểu là tròn một hiệp.",
+     "text": "TRÒN MỘT HIỆP GỌN",
+     "color": "gold",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhiều khi mình mải nghe nỗi sợ trong đầu, mà quên lắng nghe cả nhóm.",
+     "text": "LẮNG NGHE CẢ NHÓM",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trước khi mở miệng, tự hỏi xem điều gì giúp cả nhóm ra quyết định.",
+     "text": "HỎI ĐIỀU NHÓM CẦN",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhắm câu nói vào mục tiêu đó, rồi xem mọi người phản hồi ra sao.",
+     "text": "NÓI XONG, LẮNG NGHE",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sau đó, xem ý mình có gỡ được việc không, đừng soi xem mình nói có mượt.",
+     "text": "XEM Ý CÓ ÍCH KHÔNG",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là có bài học cho hiệp sau, khỏi biến cuộc họp thành tòa tuyên án.",
+     "text": "KHỎI THÀNH TÒA ÁN",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ gom tám cơ chế này vào một tuần tập luyện cho gọn gàng.",
+     "text": "LỊCH TẬP MỘT TUẦN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Tổng Kết",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn không cần một bản thân hoàn hảo mới có thể bắt đầu lên tiếng.",
+     "text": "TỔNG KẾT",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một, đọc phòng họp. Im lặng, thứ bậc, và luật chia lượt quyết định ai được nghe.",
+     "text": "QUAN SÁT PHÒNG HỌP",
+     "color": "ink",
+     "actor": "think",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hai, mở đầu nhỏ thôi, chuẩn bị sẵn một câu, yêu cầu rõ và vào đề khéo.",
+     "text": "MỞ ĐẦU THẬT GỌN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba, nhắm vào việc chung. Đóng khung chuẩn, chỉnh nhịp nói, và biết lắng nghe.",
+     "text": "NHẮM VÀO VIỆC CHUNG",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngày một và hai, quan sát nhịp phát biểu và những thắc mắc chưa ai dám hỏi.",
+     "text": "NGÀY MỘT VÀ HAI",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngày ba và bốn, viết sẵn một câu trước giờ họp. Ngắn gọn thôi.",
+     "text": "NGÀY BA VÀ BỐN",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Từ ngày năm đến bảy, thử lên tiếng một lần rồi xem nhóm phản hồi.",
+     "text": "NGÀY 5 ĐẾN 7: MỘT HIỆP",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bảy ngày, ba thói quen, bớt nghĩ nhiều. Lên lịch vào hiệp thôi.",
+     "text": "LÊN LỊCH VÀO HIỆP",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bấm theo dõi Lý Thuyết Chân Que để cùng hiểu tâm lý mỗi ngày.",
+     "text": "THEO DÕI KÊNH NHÉ",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}

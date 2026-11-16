@@ -1,0 +1,902 @@
+[
+ {
+  "id": "L8",
+  "area": "work/career",
+  "title": "Why You Feel Stuck in Your Career",
+  "title_vi": "Vì sao bạn thấy sự nghiệp mãi giậm chân tại chỗ?",
+  "promise": "Understand what makes career progress feel slow and choose a concrete next move.",
+  "mechanisms": [
+   "Career plateau",
+   "Skill atrophy",
+   "Human capital accumulation",
+   "Career construction theory",
+   "Person–job fit",
+   "Job crafting",
+   "Opportunity cost",
+   "Possible selves"
+  ],
+  "vi_angle": "Gần gũi với người trẻ đang cân nhắc đổi việc, thăng tiến hay học thêm giữa áp lực ổn định."
+ },
+ {
+  "id": "L9",
+  "area": "work/career",
+  "title": "How to Speak Up at Work Without Overthinking It",
+  "title_vi": "Làm sao lên tiếng ở chỗ làm mà không ngại ngùng?",
+  "promise": "Learn practical ways to share ideas and questions clearly in everyday work conversations.",
+  "mechanisms": [
+   "Pluralistic ignorance",
+   "Evaluation apprehension",
+   "Psychological safety",
+   "Turn-taking norms",
+   "Communication accommodation",
+   "Assertiveness",
+   "Message framing",
+   "Impression management"
+  ],
+  "vi_angle": "Đặt trong bối cảnh họp nhóm, cấp bậc và cách góp ý lịch sự nơi công sở Việt Nam."
+ },
+ {
+  "id": "L10",
+  "area": "work/career",
+  "title": "Why Your Workday Gets Eaten by Tiny Tasks",
+  "title_vi": "Vì sao việc lặt vặt chiếm hết ngày làm của bạn?",
+  "promise": "Spot how small demands crowd out important work and reclaim room for priorities.",
+  "mechanisms": [
+   "Attention residue",
+   "Task switching costs",
+   "Planning fallacy",
+   "Parkinson’s law",
+   "Time blocking",
+   "Temporal landmarks",
+   "Implementation intentions",
+   "Goal shielding"
+  ],
+  "vi_angle": "Dùng ví dụ tin nhắn công việc, họp đột xuất và việc phát sinh trong ngày."
+ },
+ {
+  "id": "L11",
+  "area": "work/career",
+  "title": "How to Ask for a Raise with More Confidence",
+  "title_vi": "Đề xuất tăng lương sao cho tự tin và thuyết phục?",
+  "promise": "Prepare a grounded case, choose a useful frame, and handle the conversation calmly.",
+  "mechanisms": [
+   "Anchoring effect",
+   "Reference dependence",
+   "Social comparison",
+   "Negotiation framing",
+   "Reciprocity norm",
+   "Legitimacy principle",
+   "Objective criteria",
+   "BATNA"
+  ],
+  "vi_angle": "Lưu ý khác biệt về văn hóa trao đổi lương giữa doanh nghiệp Việt, công ty nước ngoài và ngành nghề."
+ },
+ {
+  "id": "L12",
+  "area": "study",
+  "title": "How to Learn a Difficult Skill Without Getting Lost",
+  "title_vi": "Học kỹ năng khó thế nào để không thấy mình mãi đứng yên?",
+  "promise": "Break a challenging skill into stages that make progress easier to see and sustain.",
+  "mechanisms": [
+   "Deliberate practice",
+   "Scaffolding",
+   "Zone of proximal development",
+   "Cognitive apprenticeship",
+   "Desirable difficulties",
+   "Feedback loops",
+   "Transfer-appropriate processing",
+   "Mastery orientation"
+  ],
+  "vi_angle": "Dùng ví dụ học ngoại ngữ, kỹ năng số và nghề sáng tạo ngoài giờ học."
+ },
+ {
+  "id": "L13",
+  "area": "study",
+  "title": "Why You Freeze When You Have to Take an Exam",
+  "title_vi": "Vì sao vào phòng thi bạn bỗng quên sạch những gì đã học?",
+  "promise": "Understand how test conditions affect recall and learn ways to make retrieval more dependable.",
+  "mechanisms": [
+   "Retrieval cues",
+   "Encoding specificity",
+   "Context-dependent memory",
+   "State-dependent memory",
+   "Testing effect",
+   "Metacognitive calibration",
+   "Overconfidence effect",
+   "Exam wrappers"
+  ],
+  "vi_angle": "Gắn với trải nghiệm thi học kỳ, thi chứng chỉ và các kỳ thi tuyển dụng phổ biến."
+ },
+ {
+  "id": "L14",
+  "area": "study",
+  "title": "How to Keep Going When a Subject Feels Boring",
+  "title_vi": "Làm sao học tiếp khi môn học khiến bạn thấy chán?",
+  "promise": "Find ways to make dull material feel more relevant and easier to engage with.",
+  "mechanisms": [
+   "Interest development",
+   "Utility value",
+   "Situational interest",
+   "Self-determination theory",
+   "Autonomy support",
+   "Competence feedback",
+   "Relatedness",
+   "Expectancy-value theory"
+  ],
+  "vi_angle": "Liên hệ với môn bắt buộc ở trường, học văn bằng hai hoặc tự học để đổi nghề."
+ },
+ {
+  "id": "L15",
+  "area": "money",
+  "title": "Why You Spend More When You Shop with Friends",
+  "title_vi": "Vì sao đi mua sắm cùng bạn bè dễ tiêu quá tay?",
+  "promise": "Notice how company changes spending choices and set a simple personal guardrail.",
+  "mechanisms": [
+   "Conformity",
+   "Social proof",
+   "Normative influence",
+   "Informational influence",
+   "Mere exposure effect",
+   "Decoy effect",
+   "Payment decoupling",
+   "Mental accounting"
+  ],
+  "vi_angle": "Dùng ví dụ đi trung tâm thương mại, săn sale chung và chia hóa đơn sau buổi đi chơi."
+ },
+ {
+  "id": "L16",
+  "area": "money",
+  "title": "How to Stop Feeling Guilty About Spending on Yourself",
+  "title_vi": "Chi cho bản thân sao cho bớt cảm giác có lỗi?",
+  "promise": "Separate thoughtful spending from guilt-driven rules and make room for what matters to you.",
+  "mechanisms": [
+   "Pain of paying",
+   "Mental budgeting",
+   "Endowment effect",
+   "Sunk cost fallacy",
+   "Scarcity mindset",
+   "Self-signaling",
+   "Affect heuristic",
+   "Zero-based budgeting"
+  ],
+  "vi_angle": "Đề cập áp lực phụ giúp gia đình, tiết kiệm và những khoản chi cá nhân của người trẻ."
+ },
+ {
+  "id": "L17",
+  "area": "money",
+  "title": "Why Saving Money Feels So Hard When Friends Go Out",
+  "title_vi": "Muốn tiết kiệm nhưng bạn bè rủ đi chơi thì làm sao?",
+  "promise": "Understand the pull of social spending and make a plan that protects both your budget and friendships.",
+  "mechanisms": [
+   "Present bias",
+   "Hyperbolic discounting",
+   "Commitment devices",
+   "Temptation bundling",
+   "Earmarking",
+   "Social norms marketing",
+   "Reciprocal determinism",
+   "Precommitment"
+  ],
+  "vi_angle": "Đặt trong bối cảnh cà phê, ăn uống, sinh nhật và những chuyến đi cùng nhóm bạn."
+ },
+ {
+  "id": "L18",
+  "area": "relationships/dating",
+  "title": "How to Tell Someone What You Need in a Relationship",
+  "title_vi": "Nói điều mình cần trong tình yêu sao cho dễ được lắng nghe?",
+  "promise": "Turn vague disappointment into a clear, respectful request your partner can respond to.",
+  "mechanisms": [
+   "I-statements",
+   "Nonviolent communication",
+   "Active listening",
+   "Reflective listening",
+   "Attribution error",
+   "Demand–withdraw pattern",
+   "Repair attempts",
+   "Responsiveness"
+  ],
+  "vi_angle": "Dùng tình huống nhắn tin, chia thời gian cho hai bên và giao tiếp khi yêu xa."
+ },
+ {
+  "id": "L19",
+  "area": "relationships/dating",
+  "title": "Why Dating Apps Make Choosing Someone Feel Exhausting",
+  "title_vi": "Vì sao chọn người hẹn hò trên ứng dụng lại mệt đến vậy?",
+  "promise": "Understand choice overload in app-based dating and make your search feel more intentional.",
+  "mechanisms": [
+   "Choice overload",
+   "Maximizing",
+   "Satisficing",
+   "Paradox of choice",
+   "Rejection sensitivity",
+   "Thin-slice judgments",
+   "Similarity attraction",
+   "Optimal distinctiveness"
+  ],
+  "vi_angle": "Gắn với trải nghiệm dùng ứng dụng hẹn hò, khác biệt vùng miền và kỳ vọng về hồ sơ cá nhân."
+ },
+ {
+  "id": "L20",
+  "area": "relationships/dating",
+  "title": "How to Get Through a Breakup Without Losing Your Routine",
+  "title_vi": "Vượt qua chia tay mà không để cuộc sống đảo lộn thế nào?",
+  "promise": "Understand why routines feel disrupted after a breakup and rebuild daily anchors one step at a time.",
+  "mechanisms": [
+   "Role exit",
+   "Identity disruption",
+   "Self-concept clarity",
+   "Narrative identity",
+   "Social support buffering",
+   "Behavioral activation",
+   "Routine formation",
+   "Meaning making"
+  ],
+  "vi_angle": "Tập trung vào nhịp sinh hoạt, bạn chung và những thay đổi trong giao tiếp sau chia tay."
+ },
+ {
+  "id": "L21",
+  "area": "friendship",
+  "title": "How to Make Friends as an Adult When Everyone Is Busy",
+  "title_vi": "Người lớn bận rộn thì kết bạn mới bằng cách nào?",
+  "promise": "Use repeatable ways to meet people and turn familiar faces into real connections.",
+  "mechanisms": [
+   "Propinquity effect",
+   "Mere exposure",
+   "Repeated interaction",
+   "Common ground",
+   "Self-disclosure reciprocity",
+   "Social penetration theory",
+   "Liking gap",
+   "Bridging social capital"
+  ],
+  "vi_angle": "Gợi ý bối cảnh đời thường như lớp học buổi tối, câu lạc bộ, khu dân cư và nhóm sở thích."
+ },
+ {
+  "id": "L22",
+  "area": "friendship",
+  "title": "Why You Feel Left Out of Your Friend Group",
+  "title_vi": "Vì sao bạn thấy mình lạc lõng trong nhóm bạn?",
+  "promise": "Make sense of subtle group dynamics and choose a clear way to reconnect or widen your circle.",
+  "mechanisms": [
+   "Need to belong",
+   "Social exclusion",
+   "Ostracism",
+   "In-group favoritism",
+   "Social identity theory",
+   "Group norms",
+   "Coalition formation",
+   "Sociometric status"
+  ],
+  "vi_angle": "Dùng những tình huống quen thuộc như nhóm chat, bàn ăn trưa và kế hoạch đi chơi."
+ },
+ {
+  "id": "L23",
+  "area": "friendship",
+  "title": "How to Stay Close to Friends After Moving Away",
+  "title_vi": "Làm sao giữ tình bạn khi mỗi người sống một nơi?",
+  "promise": "Find sustainable ways to stay connected even when schedules and distance get in the way.",
+  "mechanisms": [
+   "Relational maintenance",
+   "Social capital",
+   "Communication channel choice",
+   "Media multiplexity",
+   "Rituals of connection",
+   "Reciprocity norm",
+   "Shared memories",
+   "Temporal coordination"
+  ],
+  "vi_angle": "Liên hệ với bạn bè chuyển tỉnh, đi học xa, xuất khẩu lao động hoặc định cư nước ngoài."
+ },
+ {
+  "id": "L24",
+  "area": "family",
+  "title": "How to Set Boundaries with Family Without Starting a Fight",
+  "title_vi": "Đặt giới hạn với gia đình sao cho vẫn giữ được hòa khí?",
+  "promise": "Learn to state a limit clearly and respond steadily when family members push back.",
+  "mechanisms": [
+   "Family systems theory",
+   "Differentiation of self",
+   "Role expectations",
+   "Boundary regulation",
+   "Triangulation",
+   "Emotional cutoff",
+   "Face negotiation",
+   "Conflict de-escalation"
+  ],
+  "vi_angle": "Cân nhắc quan niệm hiếu thảo, sống chung nhiều thế hệ và trao đổi giữa cha mẹ với con đã trưởng thành."
+ },
+ {
+  "id": "L25",
+  "area": "family",
+  "title": "Why You Keep Falling into the Same Role at Family Gatherings",
+  "title_vi": "Vì sao về nhà là bạn lại trở về vai cũ trong gia đình?",
+  "promise": "Recognize familiar family roles and try a different response during the next gathering.",
+  "mechanisms": [
+   "Family homeostasis",
+   "Scapegoating",
+   "Parentification",
+   "Sibling differentiation",
+   "Social scripts",
+   "Role engulfment",
+   "Generational transmission",
+   "Interaction ritual"
+  ],
+  "vi_angle": "Dùng ví dụ họp mặt gia đình, giỗ Tết và kỳ vọng khác nhau dành cho con trưởng, con út."
+ },
+ {
+  "id": "L26",
+  "area": "family",
+  "title": "How to Talk to Your Parents About a Different Life Path",
+  "title_vi": "Nói với bố mẹ về lựa chọn khác kỳ vọng mà không mất kết nối",
+  "promise": "Prepare a conversation that explains your choice while leaving room for your parents’ concerns.",
+  "mechanisms": [
+   "Motivated reasoning",
+   "Perspective taking",
+   "Cognitive empathy",
+   "Motivational interviewing",
+   "Autonomy-supportive language",
+   "Common ground",
+   "Face-saving",
+   "Reciprocal concession"
+  ],
+  "vi_angle": "Tập trung vào chuyện chọn ngành, đổi nghề, sống độc lập hoặc quyết định kết hôn theo cách riêng."
+ },
+ {
+  "id": "L27",
+  "area": "social media",
+  "title": "Why You Keep Posting Even When Likes Don’t Make You Happy",
+  "title_vi": "Vì sao lượt thích ít vui mà bạn vẫn muốn đăng bài?",
+  "promise": "Understand the rewards and social signals behind posting, then choose what you want from it.",
+  "mechanisms": [
+   "Variable ratio reinforcement",
+   "Social reward learning",
+   "Self-presentation",
+   "Audience design",
+   "Quantified self",
+   "Impression management",
+   "Self-discrepancy theory",
+   "Social validation"
+  ],
+  "vi_angle": "Dùng ví dụ story, lượt xem và sự khác nhau giữa tài khoản riêng với tài khoản công khai."
+ },
+ {
+  "id": "L28",
+  "area": "social media",
+  "title": "How to Stop Letting Other People’s Posts Set Your Mood",
+  "title_vi": "Lướt bài của người khác sao cho không bị tụt tâm trạng?",
+  "promise": "Understand how curated posts shape comparisons and develop a more deliberate way to browse.",
+  "mechanisms": [
+   "Upward comparison",
+   "Contrast effect",
+   "Social comparison orientation",
+   "Curated self-presentation",
+   "Availability cascade",
+   "Negativity bias",
+   "Selective exposure",
+   "Source monitoring"
+  ],
+  "vi_angle": "Gắn với hình ảnh du lịch, công việc và cột mốc cuộc sống thường thấy trên mạng xã hội Việt Nam."
+ },
+ {
+  "id": "L29",
+  "area": "social media",
+  "title": "Why Online Arguments Escalate So Fast",
+  "title_vi": "Vì sao tranh cãi trên mạng leo thang chỉ sau vài câu?",
+  "promise": "Spot the conditions that intensify online conflict and choose when and how to respond.",
+  "mechanisms": [
+   "Online disinhibition effect",
+   "Deindividuation",
+   "Fundamental attribution error",
+   "Hostile attribution bias",
+   "Moral outrage",
+   "Group polarization",
+   "Negativity bias",
+   "Audience effects"
+  ],
+  "vi_angle": "Đề cập bình luận công khai, hội nhóm đông người và cách giữ thể diện khi bất đồng trên mạng."
+ },
+ {
+  "id": "L30",
+  "area": "self-esteem",
+  "title": "How to Stop Letting Your Job Title Define Your Worth",
+  "title_vi": "Đừng để chức danh quyết định giá trị của bạn",
+  "promise": "Build a broader sense of self that can hold both work achievements and the rest of your life.",
+  "mechanisms": [
+   "Contingent self-worth",
+   "Identity foreclosure",
+   "Self-complexity",
+   "Identity centrality",
+   "Self-affirmation theory",
+   "Reflected appraisal",
+   "Role engulfment",
+   "Values clarification"
+  ],
+  "vi_angle": "Liên hệ với áp lực chức danh, trường học danh tiếng và thành tích nghề nghiệp trong mắt gia đình."
+ },
+ {
+  "id": "L31",
+  "area": "self-esteem",
+  "title": "Why You Take Criticism So Personally",
+  "title_vi": "Vì sao một lời góp ý nhỏ cũng khiến bạn nghĩ mãi?",
+  "promise": "Separate feedback about a specific action from sweeping conclusions about yourself.",
+  "mechanisms": [
+   "Self-referential processing",
+   "Ego threat",
+   "Attributional style",
+   "Naïve realism",
+   "Self-serving bias",
+   "Feedback orientation",
+   "Cognitive reappraisal",
+   "Ego depletion"
+  ],
+  "vi_angle": "Dùng tình huống nhận nhận xét từ sếp, giảng viên hoặc người thân và cách hỏi lại cho rõ."
+ },
+ {
+  "id": "L32",
+  "area": "self-esteem",
+  "title": "How to Stop Waiting Until You Feel Good Enough",
+  "title_vi": "Làm sao bắt đầu khi bạn cứ thấy mình chưa đủ giỏi?",
+  "promise": "Understand why self-doubt delays action and take a manageable step before confidence arrives.",
+  "mechanisms": [
+   "Impostor phenomenon",
+   "Self-efficacy",
+   "Bandura’s mastery experiences",
+   "Self-handicapping",
+   "Learned industriousness",
+   "Growth mindset",
+   "Behavioral experiment",
+   "Self-compassion"
+  ],
+  "vi_angle": "Gắn với lần đầu nhận việc mới, trình bày ý tưởng và chia sẻ sản phẩm sáng tạo."
+ },
+ {
+  "id": "L33",
+  "area": "decision making",
+  "title": "How to Make a Big Decision When Neither Option Feels Safe",
+  "title_vi": "Chọn hướng đi lớn khi phương án nào cũng khiến bạn lo",
+  "promise": "Compare options against your priorities and choose a next step without waiting for certainty.",
+  "mechanisms": [
+   "Regret aversion",
+   "Ambiguity aversion",
+   "Maximization tendency",
+   "Counterfactual thinking",
+   "Reversibility",
+   "Decision matrix",
+   "Pre-mortem",
+   "Satisficing"
+  ],
+  "vi_angle": "Dùng ví dụ chọn ngành, chuyển thành phố hoặc nhận một công việc mới."
+ },
+ {
+  "id": "L34",
+  "area": "decision making",
+  "title": "Why You Keep Delaying Decisions Until Someone Chooses for You",
+  "title_vi": "Vì sao bạn cứ chần chừ đến khi người khác chọn hộ?",
+  "promise": "See what indecision protects you from and use a small process to take ownership of a choice.",
+  "mechanisms": [
+   "Decision avoidance",
+   "Responsibility diffusion",
+   "Default effect",
+   "Status quo bias",
+   "Ambivalence",
+   "Omission bias",
+   "Choice deferral",
+   "Agency"
+  ],
+  "vi_angle": "Liên hệ với chọn chỗ ăn, kế hoạch nhóm và những quyết định cá nhân dễ bị nhường cho người khác."
+ },
+ {
+  "id": "L35",
+  "area": "emotions",
+  "title": "How to Stay Composed When Someone Annoys You",
+  "title_vi": "Giữ bình tĩnh thế nào khi ai đó làm bạn bực mình?",
+  "promise": "Notice the escalation early and use a pause that gives you more control over your response.",
+  "mechanisms": [
+   "Emotional appraisal",
+   "Affect labeling",
+   "Response modulation",
+   "Attentional deployment",
+   "Cognitive reappraisal",
+   "Arousal misattribution",
+   "Emotional granularity",
+   "Broaden-and-build theory"
+  ],
+  "vi_angle": "Dùng va chạm thường ngày ở nơi làm việc, giao thông và giao tiếp trong gia đình."
+ },
+ {
+  "id": "L36",
+  "area": "emotions",
+  "title": "Why You Feel Awkward Saying You’re Proud of Yourself",
+  "title_vi": "Vì sao nói mình tự hào về bản thân lại thấy ngượng?",
+  "promise": "Understand the social rules around pride and practice recognizing progress without bragging.",
+  "mechanisms": [
+   "Self-conscious emotions",
+   "Modesty norm",
+   "Impression management",
+   "Self-enhancement",
+   "Internalized standards",
+   "Attribution theory",
+   "Positive affect labeling",
+   "Personal achievement narratives"
+  ],
+  "vi_angle": "Cân nhắc cách thể hiện thành tích khiêm tốn, chân thành trong gia đình và môi trường làm việc Việt."
+ },
+ {
+  "id": "L37",
+  "area": "sleep habits",
+  "title": "Why You Keep Pushing Bedtime Later and Later",
+  "title_vi": "Vì sao bạn cứ kéo giờ đi ngủ muộn thêm mỗi tối?",
+  "promise": "Understand what makes bedtime drift and shape an evening routine that fits your real day.",
+  "mechanisms": [
+   "Bedtime procrastination",
+   "Present bias",
+   "Evening chronotype",
+   "Temporal self-regulation",
+   "Stimulus control",
+   "Routine cues",
+   "Environmental design",
+   "Implementation intentions"
+  ],
+  "vi_angle": "Dùng ví dụ làm thêm, giải trí sau giờ làm và thói quen dùng thiết bị trước khi ngủ; không đưa lời khuyên y khoa."
+ },
+ {
+  "id": "L38",
+  "area": "sleep habits",
+  "title": "How to Make Mornings Less Rushed When You Wake Up",
+  "title_vi": "Buổi sáng đỡ cuống hơn nếu bạn chuẩn bị từ tối hôm trước",
+  "promise": "Reduce morning friction with a few decisions and preparations moved to the night before.",
+  "mechanisms": [
+   "Decision fatigue",
+   "Choice architecture",
+   "Nudge theory",
+   "Prospective memory",
+   "Action planning",
+   "Cue utilization",
+   "Friction costs",
+   "Behavioral momentum"
+  ],
+  "vi_angle": "Gắn với giờ đi làm, đi học, chuẩn bị đồ cá nhân và nhịp sống tại thành phố đông đúc."
+ },
+ {
+  "id": "L39",
+  "area": "creativity",
+  "title": "How to Come Up with Better Ideas When You Feel Stuck",
+  "title_vi": "Bí ý tưởng thì làm gì để nghĩ ra hướng mới?",
+  "promise": "Use distinct stages of idea generation to move past the first obvious answers.",
+  "mechanisms": [
+   "Divergent thinking",
+   "Convergent thinking",
+   "Associative thinking",
+   "Incubation effect",
+   "Functional fixedness",
+   "Analogical transfer",
+   "Constraint-based creativity",
+   "Remote associates"
+  ],
+  "vi_angle": "Minh họa bằng viết nội dung, thiết kế và các bài tập sáng tạo quen thuộc với người trẻ."
+ },
+ {
+  "id": "L40",
+  "area": "creativity",
+  "title": "Why You Keep Editing Your Creative Work Instead of Sharing It",
+  "title_vi": "Vì sao bạn cứ sửa mãi mà không dám đăng tác phẩm?",
+  "promise": "Understand the forces behind endless polishing and set a useful point to release your work.",
+  "mechanisms": [
+   "Perfectionism",
+   "Evaluation apprehension",
+   "Loss aversion",
+   "Exposure effect",
+   "Progress principle",
+   "Goal gradient effect",
+   "Public commitment",
+   "Good-enough threshold"
+  ],
+  "vi_angle": "Dùng ví dụ đăng tranh, video, bài viết hoặc sản phẩm cá nhân lên mạng."
+ },
+ {
+  "id": "L41",
+  "area": "communication",
+  "title": "How to Disagree with a Coworker Without Making It Personal",
+  "title_vi": "Bất đồng với đồng nghiệp sao cho không biến thành công kích?",
+  "promise": "Keep a disagreement focused on the issue while making space for the other person’s point of view.",
+  "mechanisms": [
+   "Principled negotiation",
+   "Separating people from problems",
+   "Perspective taking",
+   "Steelman technique",
+   "Common ingroup identity",
+   "Conversational repair",
+   "Disconfirming evidence",
+   "Task conflict"
+  ],
+  "vi_angle": "Lồng vào góp ý trong nhóm, trao đổi với cấp trên và giữ sự tôn trọng khi khác quan điểm."
+ },
+ {
+  "id": "L42",
+  "area": "communication",
+  "title": "How to Explain What You Mean When People Misread Your Texts",
+  "title_vi": "Nhắn thế nào để người khác không hiểu lầm ý bạn?",
+  "promise": "Make everyday messages clearer by accounting for what text leaves unsaid.",
+  "mechanisms": [
+   "Media richness theory",
+   "Common ground",
+   "Pragmatic inference",
+   "Tone ambiguity",
+   "Speech act theory",
+   "Audience design",
+   "Context collapse",
+   "Confirmation bias"
+  ],
+  "vi_angle": "Dùng các tình huống nhắn tin cho đồng nghiệp, bạn bè và người yêu qua ứng dụng phổ biến."
+ },
+ {
+  "id": "L43",
+  "area": "motivation",
+  "title": "How to Keep Going on a Goal That Takes Months",
+  "title_vi": "Theo đuổi mục tiêu dài hạn thế nào khi kết quả còn xa?",
+  "promise": "Break a distant goal into visible progress and stay connected to the reason you started.",
+  "mechanisms": [
+   "Goal-setting theory",
+   "Goal hierarchy",
+   "Subgoal sequencing",
+   "Feedback intervention",
+   "Self-concordance",
+   "Progress monitoring",
+   "Goal gradient",
+   "Commitment escalation"
+  ],
+  "vi_angle": "Dùng mục tiêu học ngoại ngữ, chứng chỉ nghề và dự án cá nhân kéo dài nhiều tháng."
+ },
+ {
+  "id": "L44",
+  "area": "motivation",
+  "title": "Why You Lose Motivation After the First Few Weeks",
+  "title_vi": "Vì sao quyết tâm ban đầu thường nguội đi sau vài tuần?",
+  "promise": "Recognize what changes after the novelty wears off and build support for the middle stretch.",
+  "mechanisms": [
+   "Novelty effect",
+   "Hedonic adaptation",
+   "Motivational crowding",
+   "Goal disengagement",
+   "Goal reengagement",
+   "Self-determination theory",
+   "Expectancy-value theory",
+   "Reward substitution"
+  ],
+  "vi_angle": "Gắn với kế hoạch đầu năm, khóa học mới và mục tiêu đã qua giai đoạn hứng khởi."
+ },
+ {
+  "id": "L45",
+  "area": "time",
+  "title": "How to Make Time for Yourself Without Feeling Selfish",
+  "title_vi": "Dành thời gian cho mình sao cho không thấy ích kỷ?",
+  "promise": "See how social expectations shape your free time and make a realistic space for personal needs.",
+  "mechanisms": [
+   "Role overload",
+   "Role conflict",
+   "Boundary management",
+   "Time affluence",
+   "Psychological detachment",
+   "Leisure guilt",
+   "Time affluence framing",
+   "Need satisfaction"
+  ],
+  "vi_angle": "Lưu ý áp lực dành thời gian cho gia đình, bạn bè và công việc ngoài giờ."
+ },
+ {
+  "id": "L46",
+  "area": "time",
+  "title": "Why Your Weekends Disappear Without Feeling Restful",
+  "title_vi": "Vì sao cuối tuần trôi qua mà bạn vẫn chưa thấy được nghỉ?",
+  "promise": "Understand what makes free time feel thin and plan a weekend with more satisfying moments.",
+  "mechanisms": [
+   "Time perception",
+   "Event segmentation",
+   "Peak-end rule",
+   "Variety seeking",
+   "Leisure planning",
+   "Restorative experience",
+   "Attentional restoration",
+   "Savoring"
+  ],
+  "vi_angle": "Dùng ví dụ cuối tuần ở nhà, gặp bạn, đi chợ và tranh thủ xử lý việc tồn."
+ },
+ {
+  "id": "L47",
+  "area": "persuasion/marketing",
+  "title": "How Ads Make a Product Feel Like It Was Made for You",
+  "title_vi": "Quảng cáo khiến món hàng trông như sinh ra dành riêng cho bạn thế nào?",
+  "promise": "Spot the cues marketers use to make a product feel personally relevant before you buy.",
+  "mechanisms": [
+   "Personalization effect",
+   "Self-reference effect",
+   "Mere exposure",
+   "Fluency heuristic",
+   "Affective conditioning",
+   "Priming",
+   "Endowment effect",
+   "Choice architecture"
+  ],
+  "vi_angle": "Dùng ví dụ quảng cáo cá nhân hóa, livestream bán hàng và đề xuất sản phẩm trên sàn Việt."
+ },
+ {
+  "id": "L48",
+  "area": "persuasion/marketing",
+  "title": "Why Limited-Time Offers Make You Want to Buy Now",
+  "title_vi": "Vì sao ưu đãi sắp hết hạn khiến bạn muốn mua ngay?",
+  "promise": "Recognize urgency cues and make space for a quick check before committing money.",
+  "mechanisms": [
+   "Scarcity principle",
+   "Reactance",
+   "FOMO",
+   "Anticipated regret",
+   "Urgency effect",
+   "Deadline effect",
+   "Price anchoring",
+   "Omission bias"
+  ],
+  "vi_angle": "Gắn với flash sale, voucher giới hạn thời gian và những phiên bán hàng trực tiếp."
+ },
+ {
+  "id": "L49",
+  "area": "group behaviour",
+  "title": "Why Group Projects End Up With One Person Doing Everything",
+  "title_vi": "Vì sao làm nhóm thường thành một người gánh hết việc?",
+  "promise": "Understand the group dynamics that hide unequal effort and make responsibility more visible.",
+  "mechanisms": [
+   "Social loafing",
+   "Diffusion of responsibility",
+   "Free-rider problem",
+   "Ringelmann effect",
+   "Collective efficacy",
+   "Accountability cues",
+   "Task interdependence",
+   "Coordination loss"
+  ],
+  "vi_angle": "Dùng ví dụ bài tập nhóm ở đại học và dự án chung tại nơi làm việc."
+ },
+ {
+  "id": "L50",
+  "area": "group behaviour",
+  "title": "How to Stop Agreeing with a Group Just to Keep the Peace",
+  "title_vi": "Nói ý kiến khác số đông mà vẫn giữ được hòa khí thế nào?",
+  "promise": "Learn how to voice a genuine view without turning a group discussion into a showdown.",
+  "mechanisms": [
+   "Asch conformity effect",
+   "Normative conformity",
+   "Informational conformity",
+   "Minority influence",
+   "Moscovici conversion theory",
+   "Groupthink",
+   "Devil’s advocate",
+   "Consensus decision making"
+  ],
+  "vi_angle": "Đặt trong bối cảnh họp nhóm, bàn chuyện gia đình và quyết định chung với bạn bè."
+ },
+ {
+  "id": "L51",
+  "area": "group behaviour",
+  "title": "Why You Act Differently When You’re Part of a Crowd",
+  "title_vi": "Vì sao ở trong đám đông bạn hành xử khác lúc một mình?",
+  "promise": "Understand how crowds shape attention and action, then keep your own judgment in view.",
+  "mechanisms": [
+   "Deindividuation",
+   "Social facilitation",
+   "Social inhibition",
+   "Audience effect",
+   "Evaluation apprehension",
+   "Collective effervescence",
+   "Emergent norms theory",
+   "Bystander effect"
+  ],
+  "vi_angle": "Dùng ví dụ cổ vũ thể thao, sự kiện đông người và bình luận tập thể trên mạng."
+ },
+ {
+  "id": "L52",
+  "area": "memory",
+  "title": "Why You Forget What You Went Into a Room to Do",
+  "title_vi": "Vì sao vừa bước sang phòng khác bạn đã quên mình định làm gì?",
+  "promise": "Understand how changes in context disrupt intentions and use simple cues to carry them through.",
+  "mechanisms": [
+   "Event boundary effect",
+   "Prospective memory",
+   "Context shift",
+   "Goal activation",
+   "Encoding specificity",
+   "Interference theory",
+   "Environmental cueing",
+   "Action slips"
+  ],
+  "vi_angle": "Minh họa bằng những việc nhỏ ở nhà, lúc đi làm và khi đang bận nhiều việc."
+ },
+ {
+  "id": "L53",
+  "area": "memory",
+  "title": "How to Remember People’s Names After Meeting Them",
+  "title_vi": "Làm sao nhớ tên người mới gặp mà không ngại hỏi lại?",
+  "promise": "Use a few natural steps at the first introduction to make names easier to remember and recall.",
+  "mechanisms": [
+   "Levels of processing",
+   "Elaborative encoding",
+   "Self-generation effect",
+   "Distinctiveness effect",
+   "Retrieval practice",
+   "Spacing effect",
+   "Associative encoding",
+   "Tip-of-the-tongue phenomenon"
+  ],
+  "vi_angle": "Dùng tình huống gặp khách hàng, bạn của bạn bè và buổi kết nối nghề nghiệp."
+ },
+ {
+  "id": "L54",
+  "area": "work/career",
+  "title": "How to Handle a Career Setback Without Calling It Failure",
+  "title_vi": "Đối diện bước lùi nghề nghiệp mà không vội xem mình thất bại",
+  "promise": "Turn a rejection or missed opportunity into useful information for your next career move.",
+  "mechanisms": [
+   "Attribution retraining",
+   "Explanatory style",
+   "Learned optimism",
+   "Resilience framing",
+   "Causal analysis",
+   "Feedback seeking",
+   "Coping flexibility",
+   "Post-adversity growth"
+  ],
+  "vi_angle": "Gắn với trượt phỏng vấn, không được thăng chức hoặc bị từ chối cơ hội thực tập."
+ },
+ {
+  "id": "L55",
+  "area": "study",
+  "title": "How to Turn Notes into Knowledge You Can Use",
+  "title_vi": "Biến ghi chép thành kiến thức dùng được như thế nào?",
+  "promise": "Move beyond copying notes by organizing information so it is easier to retrieve and apply.",
+  "mechanisms": [
+   "Generative learning",
+   "Elaboration",
+   "Organization effect",
+   "Dual coding",
+   "Concept mapping",
+   "Self-explanation",
+   "Interleaving",
+   "Analogical reasoning"
+  ],
+  "vi_angle": "Dùng ví dụ ghi bài trên lớp, học từ video và tự ôn bằng tài liệu tiếng Việt."
+ },
+ {
+  "id": "L56",
+  "area": "relationships/dating",
+  "title": "How to Rebuild Trust After a Broken Promise",
+  "title_vi": "Làm sao gây dựng lại lòng tin sau một lời hứa bị phá vỡ?",
+  "promise": "Understand the small, observable behaviors that help make trust more dependable over time.",
+  "mechanisms": [
+   "Trust repair",
+   "Benevolence-based trust",
+   "Integrity-based trust",
+   "Competence-based trust",
+   "Consistency signaling",
+   "Apology effectiveness",
+   "Restitution",
+   "Psychological contract"
+  ],
+  "vi_angle": "Dùng tình huống lời hứa về thời gian, tiền bạc và trách nhiệm trong mối quan hệ."
+ },
+ {
+  "id": "L57",
+  "area": "friendship",
+  "title": "How to Bring Up a Problem with a Friend Before It Builds Up",
+  "title_vi": "Nói chuyện với bạn về điều không vui trước khi chuyện nhỏ thành lớn",
+  "promise": "Raise a friendship concern early with a clear example and a practical invitation to talk.",
+  "mechanisms": [
+   "Voice behavior",
+   "Constructive confrontation",
+   "Interest-based communication",
+   "Attribution retraining",
+   "Facework",
+   "Benign interpretation",
+   "Conflict spirals",
+   "Reconciliation scripts"
+  ],
+  "vi_angle": "Gắn với chuyện hủy hẹn, chia tiền và hiểu lầm trong nhóm bạn thân."
+ }
+]

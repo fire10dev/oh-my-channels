@@ -1,0 +1,844 @@
+You are a strict editor. Below is a long-form YouTube script as JSON (a stickman psychology explainer; Pen = reflective viewer stand-in, Buff = blunt coach with gym metaphors who never ends a chapter on a question). Fix ONLY real problems, then output the full corrected JSON:
+1. Accuracy: wrong, overstated or absolute claims; invented statistics/percentages/years/researcher names; medical, clinical or therapy advice or labels.
+2. Flow: chapters that repeat the same idea; missing practical fix; weak or clickbait hook; abrupt transitions.
+3. Language: (EN) stiff phrasing; (VI) lines that sound translated, English words, abbreviations, or digits in "vo".
+4. Format: "vo" <= 20 words (EN) / <= 25 syllables (VI); "text" UPPERCASE <= 22 chars, first line of each chapter = numbered chapter card; "actor"/"prop" only from the values already used in the allowed lists (front 34 phone_grin panic hand_off small_step confused_shrug arms_crossed_no worried_heart bored_yawn sofa_scroll future_tired sprint_start think typing_focused point_viewer celebrate sleeping bed_phone_night snack reading jogging meditating shocked facepalm wallet_worry nervous_wave writing coffee snooze / paper_mountain sofa smartphone_glow storm_cloud hourglass laptop_file checkbox_tick calendar_today alarm_clock brain coffee_mug dumbbell coin_stack notification_bell target lightbulb moon_stars low_battery).
+Keep everything that is fine unchanged. OUTPUT ONLY the corrected JSON object, no prose, no code fence.
+
+This is a non-interactive batch job: never ask questions and ignore any reply-format rules from your config. If unsure, keep the line unchanged (channel names "Tiny Leg Theory" / "Lý Thuyết Chân Que" are fine in voice-over). Your entire answer must be the JSON object, starting with "{".
+
+{
+ "id": "L5",
+ "lang": "en",
+ "title": "The Money and Decision Traps Your Brain Falls For",
+ "description": "A sale timer, a crowded menu, or one vivid story can quietly steer a choice. Pen and Buff unpack eight common decision traps and offer simple ways to slow down and choose on purpose.",
+ "chapters": [
+  {
+   "title": "1. THE QUIET SALES PITCH",
+   "sources": [],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You open your phone to check one price, and somehow you are defending a purchase you never planned.",
+     "text": "JUST CHECKING",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The brain is quick, social, and allergic to effort. Handy equipment, until it starts spending your money.",
+     "text": "FAST IS NOT ALWAYS WISE",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A number appears, a timer starts, and suddenly the ordinary choice feels like a test I could fail.",
+     "text": "THE PRESSURE ARRIVES",
+     "color": "red",
+     "actor": "nervous_wave",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Today, we will name eight decision traps and give each one a practical counter-move. No magic, just reps.",
+     "text": "EIGHT TRAPS, EIGHT REPS",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "We will look at prices, plans, reviews, and defaults, the small moments where a choice gets nudged.",
+     "text": "SMALL MOMENTS MATTER",
+     "color": "ink",
+     "actor": "think",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "First up, that countdown clock. It makes waiting feel like losing, even when nothing was yours yet.",
+     "text": "THE CLOCK STARTS",
+     "color": "red",
+     "actor": "panic",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "2. THE COUNTDOWN",
+   "sources": [
+    "s23",
+    "s100"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "A jacket catches my eye, then the page says the offer ends in ten minutes. I feel my attention tighten.",
+     "text": "2. THE COUNTDOWN",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I was browsing casually. Now I am calculating how much I might miss by closing the tab.",
+     "text": "A DEAL FEELS URGENT",
+     "color": "red",
+     "actor": "wallet_worry"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is scarcity effect. When something seems limited, the brain can treat it as more valuable.",
+     "text": "SCARCITY EFFECT",
+     "color": "gold",
+     "actor": "front 34",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It is a quick signal: act before the chance disappears. Sometimes useful, sometimes a sales timer doing push-ups.",
+     "text": "URGENCY IS A SIGNAL",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The countdown also changes the question. I stop asking whether I want the jacket and start fearing the missed deal.",
+     "text": "THE QUESTION CHANGES",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Loss aversion can add extra sting to skipping an offer. But an unused coupon is not money leaving your pocket.",
+     "text": "A COUPON IS NOT CASH",
+     "color": "gold",
+     "actor": "coin_stack",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A useful pause is to ask whether I wanted this before seeing the timer or crossed-out price.",
+     "text": "BEFORE THE TIMER?",
+     "color": "green",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Close the page for a minute, write the item and full price, then decide without the clock in your face.",
+     "text": "TAKE THE CLOCK AWAY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If I still want it tomorrow and it fits my budget, the choice can wait for a calmer version of me.",
+     "text": "CALM CAN CHOOSE",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That pause works on a deal. Next, we meet the money already spent that keeps dragging you forward.",
+     "text": "PAUSE, THEN MOVE",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can almost hear the page insisting this is my last chance, even though I did not need it yesterday.",
+     "text": "YESTERDAY COUNTS",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Make the next choice from what you know now, not from a timer trying to do your thinking.",
+     "text": "YOUR CHOICE, YOUR PACE",
+     "color": "green",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "3. THE MONEY ALREADY SPENT",
+   "sources": [
+    "s24",
+    "s105"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I joined a gym months ago. I dislike the plan, but quitting feels like admitting the fee was wasted.",
+     "text": "3. THE MONEY ALREADY SPENT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Or I keep old headphones in a drawer because selling them cheaply somehow feels like taking a loss.",
+     "text": "OWNERSHIP ADDS A MARKUP",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That first tug is the sunk-cost fallacy. Past spending feels like a reason to keep spending time.",
+     "text": "SUNK-COST FALLACY",
+     "color": "gold",
+     "actor": "front 34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The fee is gone either way. Staying does not refund it, and leaving does not make the old payment larger.",
+     "text": "PAST MONEY IS GONE",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ownership adds another tug. Once something is mine, letting go can feel like losing more than I paid.",
+     "text": "THE OWNER MARKUP",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is the endowment effect. Your stuff can get a little imaginary price boost just because it is yours.",
+     "text": "ENDOWMENT EFFECT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Try asking: if I had not bought this or signed up, would I choose it today at this price?",
+     "text": "CHOOSE IT TODAY?",
+     "color": "green",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For the gym, compare the next month of this plan with the next month of a plan you would actually do.",
+     "text": "COMPARE FROM NOW",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "For the headphones, imagine the cash and the headphones on a table. Which one would I choose right now?",
+     "text": "CASH OR HEADPHONES?",
+     "color": "green",
+     "actor": "think",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Keep it if the future value earns its spot. Switch or sell if it does not. That is a clean set.",
+     "text": "THE NEXT SET COUNTS",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The past can explain how I got here without deciding where I go next.",
+     "text": "LOOK FORWARD",
+     "color": "gold",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now let us look at the first price we see, and why later numbers keep orbiting it.",
+     "text": "FIRST, THE PRICE",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "4. THE FIRST NUMBER",
+   "sources": [
+    "s87",
+    "s92"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I see a chair listed for a thousand dollars, then a second chair for six hundred. The second looks reasonable.",
+     "text": "4. THE FIRST NUMBER",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Maybe it is reasonable. Maybe the first price has quietly become the ruler I am using.",
+     "text": "A HIDDEN RULER",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That pull is anchoring. An early number can tug later estimates, even when it is a poor reference.",
+     "text": "ANCHORING",
+     "color": "gold",
+     "actor": "front 34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Stores know a high starting price can make a smaller price look like a win. The math still needs checking.",
+     "text": "CHECK THE MATH",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Price can also masquerade as quality. An expensive course feels more trustworthy before I know what it teaches.",
+     "text": "PRICE IS NOT PROOF",
+     "color": "red",
+     "actor": "laptop_file",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That shortcut can save time when details are missing. It can also sell you a costly vibe.",
+     "text": "A SHORTCUT, NOT A REVIEW",
+     "color": "gold",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Before comparing listings, I can write my own fair range from what I need and what similar options offer.",
+     "text": "WRITE YOUR RANGE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For a course, list three must-haves. Check lessons, workload, and support against those, not the shiny price tag.",
+     "text": "THREE MUST-HAVES",
+     "color": "green",
+     "actor": "checkbox_tick",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then I can compare the options on the same features and ask whether the difference is worth paying for.",
+     "text": "COMPARE THE FEATURES",
+     "color": "green",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That turns a price into one piece of evidence, instead of the whole judge and jury.",
+     "text": "ONE PIECE OF EVIDENCE",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "But even a fair comparison can wobble when one dramatic review is the only story I remember.",
+     "text": "ONE STORY STICKS",
+     "color": "red",
+     "actor": "reading",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Let us give that story a proper sample size before it gets to run the meeting.",
+     "text": "READ THE WHOLE SET",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "5. THE LOUDEST STORY",
+   "sources": [
+    "s88",
+    "s90"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I am choosing a café. Twelve reviews are pleased, but one furious post is so vivid I nearly turn around.",
+     "text": "5. THE LOUDEST STORY",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Later, a dramatic story about a rare problem appears in my feed, and suddenly it seems common.",
+     "text": "VIVID FEELS COMMON",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Negativity bias means bad information can grab attention more strongly than good information for many people.",
+     "text": "NEGATIVITY BIAS",
+     "color": "gold",
+     "actor": "front 34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Availability heuristic is nearby: easy-to-recall examples can feel more likely than they are.",
+     "text": "AVAILABILITY HEURISTIC",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Both can help me react to a real warning. But a single loud account is not a dependable forecast.",
+     "text": "ONE STORY IS LIMITED",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Treat a review like one rep. Look for the same complaint across several recent, independent sources.",
+     "text": "LOOK FOR REPEATS",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "For a claim about risk, I can check how often it happens in a reliable source, not just replay the story.",
+     "text": "CHECK HOW OFTEN",
+     "color": "green",
+     "actor": "laptop_file",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ask whether the issue matters to you, whether it repeats, and whether the source gives useful detail.",
+     "text": "THREE CHECKS",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That does not mean ignoring a warning. It means giving repeated evidence more weight than one memorable scene.",
+     "text": "WEIGH THE EVIDENCE",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Strong feelings can flag a question. They cannot answer every question for you. Do the next check.",
+     "text": "FEELING, THEN CHECK",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The crowd can make a choice feel just as obvious, even when I have not checked why everyone chose it.",
+     "text": "THE CROWD LOOKS SURE",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Let us find out whether popularity is useful evidence or just a row of people copying the row ahead.",
+     "text": "ASK WHY THEY CHOSE",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "6. THE CROWD'S REASON",
+   "sources": [
+    "s91",
+    "s89"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "My friends all pick the same phone plan. I assume there must be a good reason, even though I have not asked.",
+     "text": "6. THE CROWD'S REASON",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A popular choice can feel like a shortcut to safety: surely somebody else has done the homework.",
+     "text": "POPULAR FEELS SAFE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is the bandwagon effect. We can lean toward what seems popular, especially when the choice feels uncertain.",
+     "text": "BANDWAGON EFFECT",
+     "color": "gold",
+     "actor": "front 34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sometimes the crowd has useful experience. Sometimes people are following the same first recommendation.",
+     "text": "THE CROWD MAY ECHO",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My feed can also repeat views I already agree with, making one side feel like the whole picture.",
+     "text": "A FEED CAN ECHO",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Confirmation bias is the tendency to notice or trust evidence that fits what we already think.",
+     "text": "CONFIRMATION BIAS",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "To check a choice, I can ask what reason supports it besides popularity, and what a thoughtful critic would say.",
+     "text": "ASK FOR A REASON",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Search for the strongest fair case against your view. Not a silly post that makes your side look brilliant.",
+     "text": "FIND THE STRONG CASE",
+     "color": "green",
+     "actor": "laptop_file",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If the choice still holds up, I can join the crowd knowing why. If not, I can keep comparing.",
+     "text": "KNOW WHY YOU CHOOSE",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Popularity is a clue, not a substitute for your own reasons. Keep your hands on the steering wheel.",
+     "text": "YOU HOLD THE WHEEL",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And sometimes I do not follow the crowd. I just keep whatever option is already set by default.",
+     "text": "THE DEFAULT STAYS",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That quiet choice deserves a look too. Doing nothing can renew the same decision another month.",
+     "text": "LOOK AT THE DEFAULT",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "7. THE DEFAULT BUTTON",
+   "sources": [
+    "s93",
+    "s104"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "A subscription renews again. I did not decide to keep it this month; I simply never opened the settings.",
+     "text": "7. THE DEFAULT BUTTON",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Changing it takes a few steps, and the current option feels safer because it is already familiar.",
+     "text": "FAMILIAR FEELS SAFER",
+     "color": "ink",
+     "actor": "sofa_scroll"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is status quo bias. The brain can favor the present arrangement because change asks for effort.",
+     "text": "STATUS QUO BIAS",
+     "color": "gold",
+     "actor": "front 34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A payment plan can hide inside a similar shortcut. The monthly amount feels small when the total stays off screen.",
+     "text": "MONTHLY HIDES TOTAL",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then the payment and the purchase feel separate, although they are parts of the same bill.",
+     "text": "THE PRICE GETS SPLIT",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Write the total for the full term, including fees. Compare that amount with the money you would spend today.",
+     "text": "ADD UP THE TOTAL",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "For recurring services, set one monthly reminder. Ask whether I would choose each one from scratch today.",
+     "text": "CHOOSE IT AGAIN",
+     "color": "green",
+     "actor": "calendar_today",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cancel, keep, or change it deliberately. If the plan is worth it, the answer can stay yes.",
+     "text": "MAKE IT A CHOICE",
+     "color": "green",
+     "actor": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The point is not to cancel everything. It is to notice when yesterday's decision is spending today's money.",
+     "text": "TODAY DESERVES A SAY",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A default is a setting, not a command. Read the terms and choose the plan that works for you.",
+     "text": "SETTINGS ARE NOT ORDERS",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "There is one more way a choice can stall: too many options, each asking me to imagine every possible mistake.",
+     "text": "TOO MANY OPTIONS",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Time to trim the menu before your brain starts running comparison laps.",
+     "text": "TRIM THE MENU",
+     "color": "ink",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "8. THE ENDLESS MENU",
+   "sources": [
+    "s94",
+    "s28"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I compare laptops for two hours. Every model seems to have one feature I might regret not getting.",
+     "text": "8. THE ENDLESS MENU",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My list grows faster than my confidence. I keep searching for a perfect option that removes all doubt.",
+     "text": "THE PERFECT PICK?",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is choice overload. With many options, comparing can feel hard, and the decision can get delayed.",
+     "text": "CHOICE OVERLOAD",
+     "color": "gold",
+     "actor": "front 34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A crowded to-do list has a cousin of this problem: planning fallacy. We imagine the smoothest version of the day.",
+     "text": "THE SMOOTH-DAY PLAN",
+     "color": "gold",
+     "actor": "paper_mountain",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I write twelve tasks because I picture no interruptions, no slow errands, and no surprise request from anyone.",
+     "text": "REAL LIFE INTERRUPTS",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Check a similar past day. Plan fewer tasks, and leave room for the stuff you cannot schedule neatly.",
+     "text": "PLAN WITH REAL DAYS",
+     "color": "green",
+     "actor": "calendar_today",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "For the laptop, I can choose three must-haves before I scroll, such as weight, battery, and price.",
+     "text": "PICK THREE NEEDS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Remove any option that misses a must-have. Keep three finalists, then compare those on the same facts.",
+     "text": "CUT TO THREE",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "For today's list, I can name the few tasks that matter and delete the hopeful extras before the day starts.",
+     "text": "LEAVE ROOM TO BREATHE",
+     "color": "green",
+     "actor": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Set a time to choose, use the evidence you have, and move on. A decision is a set, not a whole lifetime.",
+     "text": "DECIDE AND MOVE",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The choices in this video fit into a few simple habits I can bring to ordinary decisions.",
+     "text": "THE HABITS ADD UP",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Let us recap the habits, then put them into a seven-day challenge you can actually finish.",
+     "text": "ONE WEEK OF REPS",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "9. THREE IDEAS TO KEEP",
+   "sources": [
+    "s23",
+    "s24",
+    "s87",
+    "s88",
+    "s90",
+    "s91",
+    "s89",
+    "s93",
+    "s104",
+    "s94",
+    "s28"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "First idea: slow the pressure. A timer, a first price, or a monthly payment can change what a choice feels like.",
+     "text": "9. THREE IDEAS TO KEEP",
+     "color": "gold",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pause, write your own reference, and look at the full cost. Make the decision with the sales noise turned down.",
+     "text": "SLOW THE PRESSURE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Second idea: check the evidence. One review, one vivid story, or one popular pick is only one piece.",
+     "text": "CHECK THE EVIDENCE",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Look for repeated details, reliable context, and reasons that stand up when you inspect the other side.",
+     "text": "LOOK FOR WHAT REPEATS",
+     "color": "green",
+     "actor": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Third idea: choose from today forward. Past spending, familiar defaults, and giant menus do not get the final vote.",
+     "text": "CHOOSE FROM TODAY",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use what the next month will cost, what the next month will give you, and what your real day can hold.",
+     "text": "NEXT MONTH, REAL LIFE",
+     "color": "green",
+     "actor": "calendar_today",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "For seven days, notice one decision a day. Write the nudge, name the trap, and try one small counter-move.",
+     "text": "SEVEN DAYS, ONE NOTE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "No perfect score needed. Just one rep of noticing before you click, renew, agree, or keep scrolling.",
+     "text": "NOTICE BEFORE YOU CHOOSE",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If these small experiments help you understand your own choices, subscribe to Tiny Leg Theory for more.",
+     "text": "MORE TINY LEG THEORY",
+     "color": "ink",
+     "actor": "celebrate"
+    }
+   ]
+  }
+ ]
+}

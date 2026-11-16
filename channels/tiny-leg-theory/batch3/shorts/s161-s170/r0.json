@@ -1,0 +1,914 @@
+[
+ {
+  "id": "s161",
+  "mascot": "pen",
+  "title": "Why Family Advice Can Feel Like Pressure",
+  "mechanism": "Psychological reactance",
+  "lines": [
+   {
+    "vo": "You should really apply for that stable job.",
+    "text": "UNWANTED ADVICE",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Suddenly, you want to do the exact opposite.",
+    "text": "PUSH BACK",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "When advice feels heavy, your mind fights to keep control.",
+    "text": "REACTANCE",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Arguing usually turns their gentle push into a wall.",
+    "text": "NO NEED TO FIGHT",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Try nodding politely to acknowledge their care.",
+    "text": "NOD WITH A SMILE",
+    "color": "green",
+    "actor": "front"
+   },
+   {
+    "vo": "Then quietly steer the talk to something lighter.",
+    "text": "SHIFT THE TOPIC",
+    "color": "gold",
+    "actor": "hand_off"
+   }
+  ]
+ },
+ {
+  "id": "s161vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Khi loi khuyen gia dinh gay ap luc",
+  "title_vi": "Khi lời khuyên gia đình gây áp lực",
+  "mechanism": "Psychological reactance",
+  "lines": [
+   {
+    "vo": "Bác họ vừa hỏi: Tháng này kiếm được bao nhiêu tiền?",
+    "text": "CAU HOI QUEN THUOC",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Tự dưng cổ họng nghẹn lại, chỉ muốn đứng dậy đi về.",
+    "text": "MUON TRANH MAT",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Khi cảm giác tự do bị chạm vào, tâm trí lập tức phòng thủ.",
+    "text": "TU DONG PHONG THU",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Càng giải thích dông dài, người lớn càng lo lắng thêm.",
+    "text": "TRANH CAI CHI MET",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Cười xòa cảm ơn bác đã quan tâm.",
+    "text": "CUOI XOA CAM ON",
+    "color": "green",
+    "actor": "front"
+   },
+   {
+    "vo": "Rồi khéo léo hỏi thăm lại chuyện sức khỏe của hai bác.",
+    "text": "HOI THAM SUC KHOE",
+    "color": "gold",
+    "actor": "hand_off"
+   }
+  ]
+ },
+ {
+  "id": "s162",
+  "mascot": "buff",
+  "title": "Stop the Family Argument From Spreading",
+  "mechanism": "Emotional contagion",
+  "lines": [
+   {
+    "vo": "One raised voice at dinner. Now everyone is furious.",
+    "text": "TABLE EXPLODING",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Anger spreads faster than bad form on squats.",
+    "text": "EMOTION CATCHES",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Do not match their volume.",
+    "text": "DROP THE VOLUME",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Lower your voice two notches. Take a breath.",
+    "text": "SLOW YOUR PACE",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Break the cycle or eat the drama. Your choice.",
+    "text": "BE THE BRAKE",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s162vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dap tat cang thang tren mam com",
+  "title_vi": "Dập tắt căng thẳng trên mâm cơm",
+  "mechanism": "Emotional contagion",
+  "lines": [
+   {
+    "vo": "Bữa cơm đang yên, tự nhiên bố gắt chuyện chọn ngành.",
+    "text": "BAP NGO BUA COM",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Cơn bực lây nhanh hơn dịch cúm.",
+    "text": "CON NONG LAY NHANH",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Bạn mà gào lên đáp trả là hỏng cả bữa.",
+    "text": "DUNG GAO LEN",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Hạ giọng xuống một tông. Ngừng hai giây rồi nói.",
+    "text": "HA GIONG NOI CHAM",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Làm chủ âm lượng trước khi đòi làm chủ tình huống.",
+    "text": "LAM CHU CUOC CHOI",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s163",
+  "mascot": "pen",
+  "title": "Why Old Family Roles Return Fast",
+  "mechanism": "Role expectations",
+  "lines": [
+   {
+    "vo": "You manage a whole team at work every day.",
+    "text": "GROWN UP AT WORK",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Yet walking into your parents house makes you feel twelve.",
+    "text": "TWELVE YEARS OLD",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Old rooms bring back old family roles instantly.",
+    "text": "OLD ROLES RETURN",
+    "color": "red",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "They still treat you like the child who forgets chores.",
+    "text": "STUCK IN THE PAST",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "You do not have to slip into the old sulking reaction.",
+    "text": "DROP OLD SCRIPTS",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Speak calmly as the adult you are today.",
+    "text": "SPEAK AS AN ADULT",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Which version of yourself will you bring home?",
+    "text": "WHO ARE YOU TODAY?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s163vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao ve que lai hoa tre con",
+  "title_vi": "Vì sao về quê lại hóa trẻ con",
+  "mechanism": "Role expectations",
+  "lines": [
+   {
+    "vo": "Đi làm ở phố, bạn quản lý bao nhiêu dự án lớn.",
+    "text": "NGUOI LON O PHO",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Vừa bước chân về quê, mẹ vẫn nhắc từng thìa cơm.",
+    "text": "VAN LA DUA NHO",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Không gian cũ kích hoạt những vai trò quen thuộc ngày xưa.",
+    "text": "VAI DIEN CU",
+    "color": "red",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Nếu dỗi hờn, bạn lại vô tình cư xử đúng như đứa trẻ.",
+    "text": "DE CAU GAT",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Chủ động phụ giúp việc nhà bằng sự tự lập hôm nay.",
+    "text": "CHU DONG DO DAN",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Đáp lời bằng sự điềm đạm của một người trưởng thành.",
+    "text": "DIEM DAM TRA LOI",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Bạn có nhận ra mình đã lớn hơn kịch bản cũ?",
+    "text": "DA QUA TUOI XUA?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s164",
+  "mascot": "buff",
+  "title": "Say the Hard News Directly",
+  "mechanism": "MUM effect",
+  "lines": [
+   {
+    "vo": "Hiding bad news from your family? Classic rookie move.",
+    "text": "HIDING BAD NEWS",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "You think waiting makes the pain go away. It does not.",
+    "text": "WAITING EXPANDS IT",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Delaying bad news only builds interest on the fallout.",
+    "text": "COMPOUND DRAMA",
+    "color": "red",
+    "actor": "panic",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Rip the bandaid off. State the facts in one breath.",
+    "text": "RIP THE BANDAID",
+    "color": "green",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "No excuses. Just what happened and your next fix.",
+    "text": "FACTS PLUS FIX",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Short pain today beats massive disaster next month.",
+    "text": "DROP IT NOW",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s164vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Noi thang tin xau voi gia dinh",
+  "title_vi": "Nói thẳng tin xấu với gia đình",
+  "mechanism": "MUM effect",
+  "lines": [
+   {
+    "vo": "Bị nợ môn mà giấu nhẹm định kỳ sau học bù. Quen quen.",
+    "text": "NO MON GIAU GIA DINH",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Bạn tưởng ỉm đi là sóng gió tự tan.",
+    "text": "TU CHOI SU THAT",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Càng giấu, quả tạ áp lực càng nặng gấp mười lần.",
+    "text": "TA AP LUC TANG",
+    "color": "red",
+    "actor": "panic",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Nói thẳng một câu với bố mẹ tối nay.",
+    "text": "NOI THANG TOI NAY",
+    "color": "green",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Nêu rõ sự việc kèm luôn kế hoạch học cải thiện.",
+    "text": "KE HOACH KHAC PHUC",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Một lần chịu mắng rồi tập trung giải quyết. Xong.",
+    "text": "XONG MOT LAN",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s165",
+  "mascot": "pen",
+  "title": "Why Questions Can Feel Like Criticism",
+  "mechanism": "Face threat",
+  "lines": [
+   {
+    "vo": "When are you finally getting that promotion?",
+    "text": "AWKWARD QUESTION",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "In front of a crowd, a simple question feels like an attack.",
+    "text": "FEELS LIKE CRITICISM",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "People protect their dignity when onlookers are watching.",
+    "text": "FACE THREAT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "If you truly care, pull them aside for a private chat.",
+    "text": "TALK PRIVATELY",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Share your concern gently without an audience listening.",
+    "text": "NO SPECTATORS",
+    "color": "green",
+    "actor": "front"
+   },
+   {
+    "vo": "Warmth travels best when there is no stage.",
+    "text": "SAFE CONVERSATION",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s165vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Dung hoi chuyen rieng truoc dam dong",
+  "title_vi": "Đừng hỏi chuyện riêng trước đám đông",
+  "mechanism": "Face threat",
+  "lines": [
+   {
+    "vo": "Dạo này học hành thế nào, sao nghe bảo thi trượt?",
+    "text": "HOI TRUOC HO HANG",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Giữa mâm cỗ đầy họ hàng, câu hỏi biến thành bản án.",
+    "text": "XAU HO MAT MAT",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Bị chạm vào sĩ diện trước đám đông, ai cũng co cụm lại.",
+    "text": "CO CUM PHONG THU",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Muốn giúp em họ, hãy kéo ra một góc nói riêng.",
+    "text": "KEU RA NOI RIENG",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Lắng nghe xem em gặp khó khăn gì ở trường.",
+    "text": "LANG NGHE KHO KHAN",
+    "color": "green",
+    "actor": "front"
+   },
+   {
+    "vo": "Sự thấu hiểu cần không gian riêng tư hơn là khán giả.",
+    "text": "KHONG GIAN RIENG TU",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s166",
+  "mascot": "buff",
+  "title": "Put a Face on Your Family Request",
+  "mechanism": "Identifiable victim effect",
+  "lines": [
+   {
+    "vo": "Vague family group chats get zero results.",
+    "text": "VAGUE TEXTS FAIL",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Saying we all need help moves nobody.",
+    "text": "NOBODY MOVES",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Brains ignore broad stats but jump to save one person.",
+    "text": "ONE SPECIFIC NEED",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "Say exactly who needs what and by when.",
+    "text": "NAME WHO AND WHAT",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Target the rep clearly. Watch people step up.",
+    "text": "CLEAR TARGET WINS",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s166vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Xin giup do dung than tho chung chung",
+  "title_vi": "Xin giúp đỡ đừng than thở chung chung",
+  "mechanism": "Identifiable victim effect",
+  "lines": [
+   {
+    "vo": "Nhắn vào nhóm nhà: Dạo này sinh viên khổ quá mẹ ơi.",
+    "text": "THAN KHO CHUNG CHUNG",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Than vu vơ thế chỉ nhận lại lời nhắc tiết kiệm.",
+    "text": "KHONG AI GIUP",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Người ta chỉ sẵn lòng giúp khi biết rõ lý do.",
+    "text": "CAN MOT NGUYEN DO",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "Nói thẳng: Con đang thiếu tiền mua bộ giáo trình tháng này.",
+    "text": "NEU RO GIAO TRINH",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Rõ việc rõ số. Đừng bắt người nhà đoán mò.",
+    "text": "RO RANG LA XONG",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s167",
+  "mascot": "pen",
+  "title": "Why Family Stories Shape Your Choices",
+  "mechanism": "Narrative identity",
+  "lines": [
+   {
+    "vo": "Your parents keep pushing for that traditional career path.",
+    "text": "CAREER DISPUTE",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "You want something creative and modern.",
+    "text": "MODERN PATH",
+    "actor": "front"
+   },
+   {
+    "vo": "Family advice often repeats an old story of survival.",
+    "text": "THE SURVIVAL STORY",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Beneath the rigid job title lies a wish for your security.",
+    "text": "WISH FOR SECURITY",
+    "actor": "reading"
+   },
+   {
+    "vo": "Do not battle the specific role they mention.",
+    "text": "LOOK AT THE VALUE",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Show them how your chosen route provides safety too.",
+    "text": "PROVE YOUR SAFETY",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Can you hear the care behind their outdated script?",
+    "text": "CARE BENEATH WORDS?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s167vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Hieu noi lo dang sau loi giuc cua bo me",
+  "title_vi": "Hiểu nỗi lo đằng sau lời giục của bố mẹ",
+  "mechanism": "Narrative identity",
+  "lines": [
+   {
+    "vo": "Mẹ cứ một mực giục bạn nộp hồ sơ thi công chức ngân hàng.",
+    "text": "BAT THI NGAN HANG",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Trong khi bạn đang thích công việc sáng tạo tự do.",
+    "text": "THICH SU TU DO",
+    "actor": "front"
+   },
+   {
+    "vo": "Thế hệ trước trải qua khó khăn nên ám ảnh sự ổn định.",
+    "text": "AM ANH ON DINH",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cái bố mẹ cần là sự an toàn, không phải cái danh xưng.",
+    "text": "CAN SU AN TOAN",
+    "actor": "reading"
+   },
+   {
+    "vo": "Đừng cãi tay đôi về ngành nghề.",
+    "text": "DUNG TRANH CAI NGHE",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Hãy chứng minh thu nhập và kế hoạch bảo hiểm rõ ràng.",
+    "text": "CHUNG MINH THU NHAP",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Khi thấy bạn an toàn, bố mẹ sẽ nhẹ lòng.",
+    "text": "BO ME SE YEN TAM",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s168",
+  "mascot": "buff",
+  "title": "Don't Assume Silence Means Agreement",
+  "mechanism": "Acquiescence",
+  "lines": [
+   {
+    "vo": "They nodded at the family meeting. So they agree, right?",
+    "text": "THEY SAID YES?",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Wrong. Silence is often just fear of an awkward fight.",
+    "text": "SILENCE IS NOT YES",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "People nod to end the meeting early.",
+    "text": "EASY NODS",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Do not let polite silence fool you.",
+    "text": "CHECK THE WEIGHT",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Ask straight: What is one flaw with this plan?",
+    "text": "INVITE THE PUSHBACK",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Flush out doubts now or fix disasters later.",
+    "text": "TEST THE REAL LIFT",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s168vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung tuong im lang la dong y",
+  "title_vi": "Đừng tưởng im lặng là đồng ý",
+  "mechanism": "Acquiescence",
+  "lines": [
+   {
+    "vo": "Cả nhà bàn chọn ngành, thấy em gật đầu lia lịa.",
+    "text": "CHUA CHAC DA DONG Y",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Tưởng êm rồi? Nhầm to.",
+    "text": "NHAM TO ROI",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Nhiều khi gật cho xong chuyện để khỏi bị mắng thêm.",
+    "text": "GAT CHO XONG CHUYEN",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Đừng để cái gật đầu giả tạo qua mặt.",
+    "text": "DUNG BI LUA",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Hỏi riêng nó: Em có lấn cấn điểm nào không, nói thật xem?",
+    "text": "HOI THANG NOI LONG",
+    "color": "green",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Tìm ra điểm nghẽn sớm trước khi mất bốn năm oan uổng.",
+    "text": "GIAI QUYET TU DAU",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s169",
+  "mascot": "pen",
+  "title": "Why Family Expectations Feel So Heavy",
+  "mechanism": "Intergenerational transmission of values",
+  "lines": [
+   {
+    "vo": "Their hopes for your life feel heavier than your own.",
+    "text": "HEAVY BURDEN",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Generations pass down fears and desires without words.",
+    "text": "PASSED DOWN DREAMS",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "You end up carrying goals that were never yours to begin with.",
+    "text": "NOT YOUR GOAL",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Take a quiet moment to sort through the pile.",
+    "text": "SORT THE PILE",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "Keep the values that strengthen you, and gently release the rest.",
+    "text": "KEEP WHAT FITS",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Which dream belongs truly to you?",
+    "text": "WHICH IS YOURS?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s169vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Go bot ky vong cua gia dinh",
+  "title_vi": "Gỡ bớt kỳ vọng của gia đình",
+  "mechanism": "Intergenerational transmission of values",
+  "lines": [
+   {
+    "vo": "Kỳ vọng của bố mẹ đôi khi đè nặng hơn cả công việc.",
+    "text": "KY VONG DE NANG",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Ước mơ của thế hệ trước vô tình truyền sang bạn.",
+    "text": "GIA TRI TRUYEN DOI",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn cứ mải miết chạy theo mục tiêu không phải của mình.",
+    "text": "MUC TIEU CUA AI",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Trân trọng mong muốn bình an của gia đình.",
+    "text": "TRAN TRONG GIA DINH",
+    "color": "green",
+    "actor": "front"
+   },
+   {
+    "vo": "Nhưng dũng cảm chọn con đường phù hợp với năng lực ở thành phố.",
+    "text": "TU CHON CON DUONG",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Bạn sống cho kỳ vọng hay cho cuộc đời của chính mình?",
+    "text": "CUOC DOI CUA AI?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s170",
+  "mascot": "buff",
+  "title": "Make a Family Plan Everyone Remembers",
+  "mechanism": "Shared mental model",
+  "lines": [
+   {
+    "vo": "Family outing starts in ten minutes. Total chaos.",
+    "text": "OUTING CHAOS",
+    "color": "red",
+    "actor": "panic",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Everyone assumed someone else was handling the car.",
+    "text": "ASSUMPTIONS FAIL",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Unspoken plans are just wishes.",
+    "text": "WISHES NOT PLANS",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Before you pack, lock the lineup: who drives, who packs, what time.",
+    "text": "ASSIGN THE ROLES",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Confirm the assignments out loud. Smooth rep, zero drama.",
+    "text": "LOCK THE PLAYBOOK",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s170vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Len ke hoach ca nha khong quen",
+  "title_vi": "Lên kế hoạch cả nhà không quên",
+  "mechanism": "Shared mental model",
+  "lines": [
+   {
+    "vo": "Mười lăm phút nữa đi đám cưới mà cả nhà nháo nhào.",
+    "text": "DI DAM CUOI HON LOAN",
+    "color": "red",
+    "actor": "panic",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Người tưởng gọi xe rồi, người chưa thay đồ.",
+    "text": "TUONG NHAU GOI XE",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Kế hoạch không chốt rõ chỉ là trò may rủi.",
+    "text": "KE HOACH MO HO",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Phân vai dứt khoát: ai đặt xe, ai đón bà, mấy giờ xuất phát.",
+    "text": "CHOT RO NGUOI VIEC",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Đọc lại một lượt cho cả nhà cùng nghe. Vào việc.",
+    "text": "VAO VIEC THOI",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ }
+]

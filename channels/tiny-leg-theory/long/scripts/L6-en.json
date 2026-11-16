@@ -1,0 +1,914 @@
+{
+ "id": "L6",
+ "lang": "en",
+ "title": "Why People Are So Hard to Read: Eight Social Brain Traps",
+ "description": "A quiet chat, a late reply, or an awkward pause can make ordinary interactions feel loaded. Pen and Buff unpack eight social brain mechanisms and share small ways to make conversations clearer and easier.",
+ "chapters": [
+  {
+   "title": "intro",
+   "sources": [],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "1. INTRO",
+     "text": "1. INTRO",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "You send one awkward message, then spend the evening rereading it like it changed your whole reputation.",
+     "text": "THE MESSAGE REPLAY",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your social brain can turn a pause, a question, or a calendar request into an obstacle course.",
+     "text": "SOCIAL OBSTACLES",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sometimes I assume people are judging me, even when I have almost no information.",
+     "text": "FILLING IN BLANKS",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "We will unpack eight reasons people can feel confusing, and give each one a practical next move.",
+     "text": "EIGHT CLEARER MOVES",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "We will look at what happens in our heads, between friends, and inside groups that wait for someone else.",
+     "text": "FROM ME TO US",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "No mind-reading superpower required. Just a few better reps when the social gym gets weird.",
+     "text": "BETTER SOCIAL REPS",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "2. The Spotlight Effect",
+   "sources": [
+    "s19",
+    "s115"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "2. THE SPOTLIGHT EFFECT",
+     "text": "2. THE RED DOT",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "You stumble over a name at lunch, then replay it as if the whole table took notes.",
+     "text": "THE LUNCH REPLAY",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is the spotlight effect: we often overestimate how much others notice our little stumbles.",
+     "text": "TOO MUCH SPOTLIGHT",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It feels obvious because I can still hear my words, so I imagine everyone else can too.",
+     "text": "STILL LOUD TO ME",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "But they have their own lunch to remember, their own worries, and their own weird sentence from yesterday.",
+     "text": "THEIR OWN SCENE",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "snack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "After a good first chat, I remember my awkward line more than the other person's smile.",
+     "text": "ONE LINE STICKS",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Try a balanced replay: name one stumble, then two things that went fine, like a laugh or a real question.",
+     "text": "TWO THINGS WENT FINE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That does not prove the other person loved the chat; it gives the memory a fairer frame.",
+     "text": "A FAIRER FRAME",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then return your attention to the room. The spotlight is a flashlight, and you can point it elsewhere.",
+     "text": "POINT IT OUTWARD",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Still, when the room goes quiet, my mind can turn missing information into a specific story.",
+     "text": "QUIET BECOMES A STORY",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is our next trap: the brain's courtroom when a reply is late.",
+     "text": "NEXT: THE COURTROOM",
+     "color": "gold",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "3. The Missing Context Trap",
+   "sources": [
+    "s21",
+    "s111",
+    "s114"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "3. THE MISSING CONTEXT TRAP",
+     "text": "3. THE BLANK CHAT",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "You ask a teammate a simple question, and three hours later, the chat is still quiet.",
+     "text": "THREE QUIET HOURS",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "One-word replies, too: I can read a flat okay as annoyance when I am already stressed.",
+     "text": "TONE FROM THIN AIR",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Interpretation bias means filling unclear gaps with a story, sometimes the scariest one.",
+     "text": "A GUESS FEELS TRUE",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I know my own reasons for a delay: the meeting, the bus, or the forgotten phone.",
+     "text": "I KNOW MY REASONS",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "pen",
+     "vo": "With someone else, I see only the delay, so it can feel like a judgment about me.",
+     "text": "I SEE ONLY SILENCE",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is the fundamental attribution error: we may blame character and overlook someone's situation.",
+     "text": "CHECK THE SITUATION",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Before deciding what silence means, list three ordinary possibilities: work, travel, or sleep.",
+     "text": "THREE OTHER REASONS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "If it is urgent, send one short nudge with the specific thing you need. Skip the imagined argument.",
+     "text": "ONE CLEAR NUDGE",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A check-in can give me useful information, but it cannot tell me what someone thinks of me forever.",
+     "text": "ONE MOMENT IS SMALL",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Uncertainty can make small talk feel like a test when you grade yourself mid-sentence.",
+     "text": "NEXT: THE POP QUIZ",
+     "color": "gold",
+     "actor": "nervous_wave"
+    }
+   ]
+  },
+  {
+   "title": "4. Small Talk and Social Threat",
+   "sources": [
+    "s20"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "4. SMALL TALK AND SOCIAL THREAT",
+     "text": "4. THE POP QUIZ",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Someone asks how your week is going, and suddenly I am searching for the perfect answer.",
+     "text": "PERFECT ANSWER HUNT",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I listen to my own sentence while still saying it, as though there is a grade coming.",
+     "text": "GRADING WHILE TALKING",
+     "color": "red",
+     "actor": "panic",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Social evaluative threat is the sense that other people might be assessing you.",
+     "text": "FEAR OF A GRADE",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The brain may get watchful when belonging or approval seems at stake, even in a hallway chat.",
+     "text": "WATCHFUL IN THE HALL",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here is one simple rep: ask a genuine follow-up about what they just told you.",
+     "text": "ASK ONE FOLLOW UP",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If they mention a long commute, I can ask what part of the trip is hardest.",
+     "text": "FOLLOW THE THREAD",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now your attention has somewhere useful to go, and the other person has room to answer.",
+     "text": "MAKE SPACE TO TALK",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I can share my week without performing a polished speech to earn the conversation.",
+     "text": "NO PERFECT PERFORMANCE",
+     "color": "gold",
+     "actor": "coffee"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A conversation is a rally, not a solo speech. Trade a thought, then listen for the next one.",
+     "text": "TRADE THE BALL",
+     "color": "ink",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That pressure can make me agree before I check whether I can actually help.",
+     "text": "NEXT: THE QUICK YES",
+     "color": "gold",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "5. The Automatic Yes",
+   "sources": [
+    "s29",
+    "s117"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "5. THE AUTOMATIC YES",
+     "text": "5. THE CALENDAR VOTE",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A friend asks if I am free next Saturday, and yes comes out before I check my calendar.",
+     "text": "YES BEFORE CHECKING",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Later I see the appointment, and feel awkward taking back a promise I made too quickly.",
+     "text": "THE LATE SURPRISE",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Automatic responding is when a fast answer feels easier than pausing to choose.",
+     "text": "FAST ANSWER HABIT",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Face to face, a pause can feel like rejection, so I agree before checking my week.",
+     "text": "PAUSE FEELS AWKWARD",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use a pause line: let me check my week and get back to you tonight.",
+     "text": "BORROW A PAUSE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then actually answer tonight. A named time makes the pause considerate instead of vague.",
+     "text": "REPLY WHEN YOU SAID",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your future self gets a vote. A yes after checking is easier to keep than a reflex yes.",
+     "text": "LET FUTURE YOU VOTE",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If I said yes to one small favor, I can still decide separately about a bigger request.",
+     "text": "A NEW ASK, A NEW CHOICE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "One yes can make another feel consistent, but it does not commit you to every later ask.",
+     "text": "OLD YES, NEW DECISION",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That boundary matters when a request grows in steps, or a friendly gesture leaves me feeling indebted.",
+     "text": "NEXT: HIDDEN PRESSURE",
+     "color": "gold",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "6. Small Yeses and Social Debt",
+   "sources": [
+    "s106",
+    "s109"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "6. SMALL YESES AND SOCIAL DEBT",
+     "text": "6. THE YES LADDER",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A coworker asks me to review one paragraph, then later asks me to take on the whole report.",
+     "text": "ONE STEP GROWS",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That can be a foot in the door: after a small yes, another may feel more consistent.",
+     "text": "THE FOOT IN THE DOOR",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Consistency can help relationships, yet it can make me treat my first answer like a contract.",
+     "text": "CONSISTENCY CAN PULL",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Judge the bigger request on its own. Ask what it needs, how long it takes, and whether it fits.",
+     "text": "CHECK THE FULL ASK",
+     "color": "green",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A different pressure arrives when a free sample makes me feel rude for leaving.",
+     "text": "A GIFT FEELS HEAVY",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "snack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Reciprocity is the pull to return a favor or gift; it helps people care for one another.",
+     "text": "THE RETURNING PULL",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Gratitude and purchase are separate choices. I can thank someone and decide later whether I want it.",
+     "text": "THANK, THEN DECIDE",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ask yourself: would I still want it if the gift had not come first? Then choose.",
+     "text": "WANT IT ON ITS OWN",
+     "color": "green",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "These pressures feel personal, but some confusion comes from shared rules nobody said out loud.",
+     "text": "UNSPOKEN RULES",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Money, chores, and group plans get easier when people state the rules before guessing.",
+     "text": "NEXT: SAY THE RULES",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "7. Friendship Rules and Clear Requests",
+   "sources": [
+    "s107",
+    "s112"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "7. FRIENDSHIP RULES AND CLEAR REQUESTS",
+     "text": "7. SAY THE RULES",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "At dinner, my friend opens a calculator to split the bill, and a warm evening feels like accounting.",
+     "text": "DINNER TURNS TO MATH",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "With friends, people may give and take loosely; with a shop, we expect a clear price.",
+     "text": "TWO SETS OF RULES",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is a clash between communal and exchange norms. The awkward part may be unclear expectations.",
+     "text": "RULES COLLIDE",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Agree before ordering: split evenly or have each person pay for their own meal.",
+     "text": "SETTLE IT EARLY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "At home, I sigh at the dishes and hope my roommate hears the request inside it.",
+     "text": "THE SIGHING HINT",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "snack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hints make people guess. A sigh does not say which pan, who should wash it, or when.",
+     "text": "HINTS HIDE THE ASK",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "State the request and time: could you wash the pans before eight tonight?",
+     "text": "SAY WHAT YOU NEED",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Now my roommate can say yes, no, or suggest another time. We have an actual conversation.",
+     "text": "A REAL ANSWER",
+     "color": "gold",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Clear rules help two people, and concrete plans help a whole group move together.",
+     "text": "FROM TWO TO MANY",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A group chat can have forty people and still nobody booking the room. Here's why.",
+     "text": "NEXT: GROUP SILENCE",
+     "color": "gold",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    }
+   ]
+  },
+  {
+   "title": "8. Groups, Credit, and Confidence",
+   "sources": [
+    "s110",
+    "s116",
+    "s118",
+    "s120"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "8. GROUPS, CREDIT, AND CONFIDENCE",
+     "text": "8. WHO GOES FIRST?",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Forty people see the message asking who will book the room, and the chat stays silent.",
+     "text": "EVERYONE SEES IT",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "In a group, each person may feel less responsible. That is the bystander effect.",
+     "text": "RESPONSIBILITY SPREADS",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The job seems to float around, because everyone can imagine someone else picking it up.",
+     "text": "THE JOB FLOATS",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Break the fog. Claim one small next step, or tag one person with a clear task.",
+     "text": "NAME ONE NEXT STEP",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Group plans drift for the same reason: everyone agrees to someday, but no one picks a day.",
+     "text": "SOMEDAY HAS NO DATE",
+     "color": "red",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Offer a place and time: Saturday at four, noodles. Ask people to confirm, then adjust together.",
+     "text": "GIVE IT A TIME",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When the work is done, the loudest voice may be remembered more than the person who did careful work.",
+     "text": "THE WORK CAN DISAPPEAR",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Name the person and the part they handled. Clear credit shows what each contribution made possible.",
+     "text": "NAME THE CONTRIBUTION",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When someone sounds certain in a meeting, I can ask what their claim rests on before I copy it.",
+     "text": "ASK FOR THE BASIS",
+     "color": "gold",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A confident voice is not evidence by itself. Ask for the basis, then examine the idea.",
+     "text": "VOICE IS NOT PROOF",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When feedback lands on something I made, asking about the exact part can make it feel less like a verdict.",
+     "text": "NEXT: THE WORK ITSELF",
+     "color": "gold",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "9. Feedback, Repair, and Trust",
+   "sources": [
+    "s113",
+    "s119"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "9. FEEDBACK, REPAIR, AND TRUST",
+     "text": "9. FIX THE WORK",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Someone says the third slide is confusing, and I hear that I am bad at the whole job.",
+     "text": "ONE SLIDE, WHOLE SELF",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When our work feels tied to who we are, a comment on it can sting like a comment on us.",
+     "text": "WORK FEELS PERSONAL",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then I defend every choice, though the note may be about one heading or missing step.",
+     "text": "DEFENSE GETS BIG",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pull the camera back to the work: which part, exactly, should change?",
+     "text": "ASK FOR THE PART",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A specific answer gives me something to edit; my fear was about my whole ability.",
+     "text": "A SMALLER NEXT STEP",
+     "color": "gold",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I borrowed a book, lost it, and apologized, but my friend is still hurt.",
+     "text": "SORRY MAY NOT REPLACE IT",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "An apology can name the impact, then offer a concrete repair. Ask what might help make things right.",
+     "text": "NAME IT, THEN REPAIR",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That could mean replacing the book or finding another solution you both agree on.",
+     "text": "MAKE THE REPAIR REAL",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A repair cannot demand instant trust. It shows you understood the cost and are taking a useful step.",
+     "text": "SHOW THE NEXT STEP",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "We have covered thoughts, boundaries, and group behavior. Now let's turn them into a week of practice.",
+     "text": "A WEEK OF REPS",
+     "color": "gold",
+     "actor": "jogging",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "recap",
+   "sources": [
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s29",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "10. RECAP",
+     "text": "10. RECAP",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A social feeling is real, but the story attached to it may still be a guess.",
+     "text": "FEELING IS NOT THE WHOLE STORY",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Check the context, share the spotlight, and ask one honest question when you feel under review.",
+     "text": "LOOK, ASK, CHECK",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Give your choices a pause. Check your week, judge each request fresh, and decide after pressure fades.",
+     "text": "PAUSE BEFORE YES",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gratitude needs no purchase; one small yes does not own the next; a clear request beats a hint.",
+     "text": "CLEAR CHOICES, CLEAR ASKS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Groups work better when someone names the next step, the time, and the person who did the work.",
+     "text": "MAKE THE NEXT STEP VISIBLE",
+     "color": "gold",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For seven days, try one rep each day: pause, check another explanation, or make a clear ask.",
+     "text": "SEVEN DAYS, ONE REP",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Keep a short note of what you tried and what happened. You are collecting experience, not grading yourself.",
+     "text": "NOTICE WHAT HAPPENS",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "People stay confusing sometimes. Better questions, clearer choices, and concrete next steps make practice easier.",
+     "text": "KEEP THE REPS GOING",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "For more Tiny Leg Theory explainers, subscribe, and we will keep making the social gym easier to navigate.",
+     "text": "TINY LEG THEORY",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    }
+   ]
+  }
+ ]
+}
