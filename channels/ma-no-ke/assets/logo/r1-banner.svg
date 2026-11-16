@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440" role="img" aria-labelledby="title desc">
+  <title id="title">Ma Nó Kể — Người làm chuyện xằng, ma ngồi kể lại</title>
+  <desc id="desc">Banner khắc gỗ làng Việt trong đêm, bóng ma nhìn từ mái đình, tên kênh và slogan nằm giữa vùng an toàn.</desc>
+  <defs>
+    <linearGradient id="night" x2="0" y2="1"><stop stop-color="#0C0E10"/><stop offset=".55" stop-color="#162219"/><stop offset="1" stop-color="#0C0E10"/></linearGradient>
+    <radialGradient id="lamp"><stop stop-color="#C49A45" stop-opacity=".36"/><stop offset="1" stop-color="#C49A45" stop-opacity="0"/></radialGradient>
+    <pattern id="wood" width="54" height="54" patternUnits="userSpaceOnUse" patternTransform="rotate(-22)"><path d="M4 0v54m11-54v54m26-54v54" stroke="#E8DCC0" stroke-width="3" opacity=".075"/><path d="M31 0v54" stroke="#0C0E10" stroke-width="8" opacity=".5"/></pattern>
+    <pattern id="hatch" width="22" height="22" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0 0v22" stroke="#E8DCC0" stroke-width="3" opacity=".14"/></pattern>
+  </defs>
+  <rect width="2560" height="1440" fill="url(#night)"/>
+  <ellipse cx="1280" cy="720" rx="1050" ry="570" fill="url(#lamp)"/>
+  <!-- distant wooded ridgeline -->
+  <path d="M0 665L95 548l48 94 90-176 96 183 93-132 81 155 110-214 102 202 84-115 77 124 115-210 102 183 116-111 97 137 109-191 105 169 92-117 83 131 122-206 96 166 100-130 112 168 112-202 91 161 94-121 87 150V1000H0Z" fill="#101713" stroke="#1d2b20" stroke-width="9"/>
+  <!-- moon veiled by clouds -->
+  <circle cx="2100" cy="365" r="166" fill="#C49A45" opacity=".16"/>
+  <circle cx="2100" cy="365" r="115" fill="#E8DCC0" opacity=".5"/>
+  <path d="M1870 375q110-90 245-36t245-17M1930 425q131-44 252 4t214-25" fill="none" stroke="#0C0E10" stroke-width="32" opacity=".8"/>
+  <!-- village houses left -->
+  <g fill="#0C0E10" stroke="#C49A45" stroke-width="7" opacity=".95">
+    <path d="M0 807l153-144 176 144v183H0Z"/><path d="M-25 801l178-175 210 175-25 17-185-144L4 820Z"/>
+    <path d="M83 845h83v145H83Zm120 0h55v72h-55Z" fill="#162219"/>
+    <path d="M347 896l108-98 133 98v125H347Z"/><path d="M322 896l132-123 155 123-18 14-136-103-119 104Z"/>
+    <path d="M391 926h48v95h-48Zm76 0h65v45h-65Z" fill="#162219"/>
+  </g>
+  <!-- village houses right -->
+  <g fill="#0C0E10" stroke="#C49A45" stroke-width="7" opacity=".95">
+    <path d="M2080 862l150-136 168 136v176h-318Z"/><path d="M2050 858l181-171 197 171-24 17-174-140-155 142Z"/>
+    <path d="M2185 901h64v137h-64Zm97 0h73v57h-73Z" fill="#162219"/>
+    <path d="M2340 925l103-93 117 93v112h-220Z"/><path d="M2314 925l128-119 148 119-18 15-130-102-110 104Z"/>
+  </g>
+  <!-- bamboo silhouettes frame the scene -->
+  <g fill="none" stroke="#26352a" stroke-width="18">
+    <path d="M76 0q44 317 4 597t42 480M182 0q-18 290 38 525t-5 485M2470 0q-52 287-5 552t-26 480M2376 0q40 276-21 531t32 489"/>
+  </g>
+  <g fill="none" stroke="#52603d" stroke-width="7" opacity=".8">
+    <path d="M83 160Q232 80 355 124M93 259Q-4 183-90 195M114 390q142-98 260-68M207 173q-113 90-179 83M2415 160q-141-82-271-36m258 160q120-80 204-67m-260 182q-133-96-252-60m157-181q102 92 162 79"/>
+  </g>
+  <!-- river in the lower foreground -->
+  <path d="M0 1098Q361 1058 680 1108T1280 1090t640 12 640-20v358H0Z" fill="#0C0E10" stroke="#26352a" stroke-width="8"/>
+  <g fill="none" stroke="#C49A45" stroke-width="5" opacity=".3"><path d="M0 1160q260-42 520 0t520 0 520 0 520 0 480-4M0 1240q300-35 600 0t600 0 600 0 760-8M1550 1320q250-24 500 4t510-5"/></g>
+  <!-- central pavilion and reversed cast shadow -->
+  <g stroke="#C49A45" stroke-width="8">
+    <path d="M1124 654l156-125 156 125-17 18-139-106-139 106Z" fill="#0C0E10"/>
+    <path d="M1154 672h252v192h-252Z" fill="#101713"/>
+    <path d="M1190 672v192m74-192v192m74-192v192" fill="none"/>
+    <path d="M1138 864h284l-31 29h-221Z" fill="#6B1218"/>
+    <path d="M1069 895q212 26 422-4l-147 55-74 82-70-89Z" fill="#6B1218" stroke="#6B1218"/>
+  </g>
+  <!-- eye watching from the pavilion darkness -->
+  <path d="M1192 752q88-78 180-3-88 79-180 3Z" fill="#E8DCC0" stroke="#C49A45" stroke-width="6"/>
+  <ellipse cx="1298" cy="751" rx="18" ry="31" fill="#0C0E10" transform="rotate(27 1298 751)"/>
+  <circle cx="1292" cy="739" r="6" fill="#E8DCC0"/>
+  <!-- frame carries a worn woodcut edge -->
+  <rect x="40" y="40" width="2480" height="1360" fill="none" stroke="#C49A45" stroke-width="5" opacity=".5"/>
+  <rect x="57" y="57" width="2446" height="1326" fill="none" stroke="#E8DCC0" stroke-width="2" opacity=".18"/>
+  <!-- safe-area title plaque: x 507–2053, y 508–931 -->
+  <path d="M546 561l36-31h1396l36 31v302l-36 31H582l-36-31Z" fill="#0C0E10" fill-opacity=".91" stroke="#C49A45" stroke-width="8"/>
+  <path d="M570 582h1420v260H570Z" fill="none" stroke="#E8DCC0" stroke-width="2" opacity=".32"/>
+  <path d="M620 614h182m956 0h182M620 809h182m956 0h182" stroke="#6B1218" stroke-width="7"/>
+  <path d="M1264 600l16-19 16 19-16 19Zm0 224 16-19 16 19-16 19Z" fill="#C49A45"/>
+  <text x="1280" y="728" text-anchor="middle" fill="#E8DCC0" font-family="Times New Roman, Georgia, serif" font-size="104" font-weight="bold" letter-spacing="15">MA NÓ KỂ</text>
+  <path d="M871 759h818" stroke="#C49A45" stroke-width="4"/>
+  <text x="1280" y="818" text-anchor="middle" fill="#C49A45" font-family="Times New Roman, Georgia, serif" font-size="39" letter-spacing="1">Người làm chuyện xằng, ma ngồi kể lại.</text>
+  <!-- hatch marks unify foreground and distant woodcut -->
+  <rect width="2560" height="1440" fill="url(#wood)" pointer-events="none"/>
+  <path d="M0 1030q300-75 600-12t600 0 600 12 760-29v160q-350 50-700 5t-660 0-500 0-700 15Z" fill="url(#hatch)" opacity=".6"/>
+</svg>

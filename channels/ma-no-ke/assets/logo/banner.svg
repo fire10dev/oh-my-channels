@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440" role="img" aria-labelledby="title desc">
+  <title id="title">Ma Nó Kể — Người làm chuyện xằng, ma ngồi kể lại</title>
+  <desc id="desc">Làng Bắc Bộ khắc gỗ trong đêm, bóng ma ẩn sau rặng tre, cùng tên kênh và slogan trong vùng an toàn.</desc>
+  <defs>
+    <linearGradient id="night" x2="0" y2="1"><stop stop-color="#0C0E10"/><stop offset=".58" stop-color="#162219"/><stop offset="1" stop-color="#0C0E10"/></linearGradient>
+    <radialGradient id="mist"><stop stop-color="#C49A45" stop-opacity=".25"/><stop offset="1" stop-color="#C49A45" stop-opacity="0"/></radialGradient>
+    <pattern id="distantCut" width="64" height="64" patternUnits="userSpaceOnUse" patternTransform="rotate(-18)">
+      <path d="M7 0v64m21-64v64m23-64v64" stroke="#E8DCC0" stroke-width="3" opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="2560" height="1440" fill="url(#night)"/>
+  <ellipse cx="1280" cy="610" rx="1250" ry="720" fill="url(#mist)"/>
+  <!-- Far hill and village silhouette. -->
+  <path d="M0 648q189-124 380-43 169-111 345-20 213-127 425-12 220-121 430-18 211-118 404-8 207-109 576 72v381H0Z" fill="#101713" stroke="#26352A" stroke-width="12"/>
+  <!-- Straight, jointed bamboo trunks with pointed leaf clusters. -->
+  <g fill="none" stroke="#26352A" stroke-width="27" stroke-linecap="round">
+    <path d="M76-40v370m0 28v384m0 29v360M205-40v365m0 29v385m0 28v372M350-40v371m0 28v390m0 28v360"/>
+    <path d="M2220-40v376m0 27v386m0 29v359M2365-40v371m0 28v390m0 28v360M2495-40v365m0 29v385m0 28v372"/>
+  </g>
+  <g fill="none" stroke="#52603D" stroke-width="7" opacity=".86">
+    <path d="M58 155h36m-36 365h36m-36 390h36M187 150h36m-36 365h36m-36 390h36M332 157h36m-36 365h36m-36 390h36"/>
+    <path d="M2202 155h36m-36 365h36m-36 390h36m93-760h36m-36 365h36m-36 390h36m94-755h36m-36 365h36m-36 390h36"/>
+  </g>
+  <g fill="#52603D" opacity=".9">
+    <path d="M76 216 18 126l72 68 84-112-63 126 130-54-123 78 130 16-146-1-46 102 23-112-98 67 81-90-91-18Z"/>
+    <path d="M205 352 135 257l86 74 69-130-46 145 139-43-132 69 140 34-154-19-28 107 5-116-91 79 68-102-96-29Z"/>
+    <path d="M350 205 286 111l79 72 80-122-57 139 138-47-131 72 143 28-155-13-36 105 14-116-97 84 75-105-94-25Z"/>
+    <path d="M2220 225 2150 130l86 74 69-130-46 145 139-43-132 69 140 34-154-19-28 107 5-116-91 79 68-102-96-29Z"/>
+    <path d="M2365 357 2301 263l79 72 80-122-57 139 138-47-131 72 143 28-155-13-36 105 14-116-97 84 75-105-94-25Z"/>
+    <path d="M2495 200 2437 110l72 68 84-112-63 126 130-54-123 78 130 16-146-1-46 102 23-112-98 67 81-90-91-18Z"/>
+  </g>
+  <!-- Distant banyan and a dark communal-house roof with raised blade ends. -->
+  <g opacity=".9">
+    <path d="M260 708q12-166 150-210 118-39 215 28 105 71 92 183-81-75-171-43-61 22-112 8-85-24-174 34Z" fill="#0C0E10"/>
+    <path d="M405 699q-20 131-17 239m69-234q6 133 31 240m-129-149q-60 54-93 125m214-137q84 58 120 126" fill="none" stroke="#26352A" stroke-width="22"/>
+    <path d="M992 727 1094 654q186-179 373 0l101 73-26 18-80-48-20 24q-161-138-324 0l-19-24-81 48Z" fill="#070909"/>
+    <path d="M1022 738 1097 688m437 50-76-50" fill="none" stroke="#26352A" stroke-width="10" opacity=".8"/>
+    <path d="M1058 951h445l-49 31h-347Z" fill="#101713"/>
+  </g>
+  <!-- Low village roofs are only silhouettes, without outlines or windows. -->
+  <g fill="#070909" opacity=".98">
+    <path d="M-80 880 10 809q83-79 166 0l88 71-19 16-70-43-16 19q-67-56-133 0l-14-19-74 43Z"/>
+    <path d="M2285 883 2378 807q87-77 172 1l88 75-20 16-72-45-15 20q-68-59-137 0l-16-20-75 45Z"/>
+    <path d="M-40 896h275v104H-40Zm2330 0h310v104h-310Z"/>
+  </g>
+  <!-- River and the wrong-way shadow: the seated figure is implied, reflection rises. -->
+  <path d="M0 1054q298-42 592 0t594 0 594 0 780-6v392H0Z" fill="#0C0E10" stroke="#26352A" stroke-width="10"/>
+  <g fill="none" stroke="#C49A45" stroke-width="6" opacity=".24"><path d="M0 1134q266-36 532 0t532 0 532 0 532 0 432-5M0 1232q310-33 620 0t620 0 620 0 700-8M807 1332q230-25 460 0t460 0 460-5"/></g>
+  <!-- Upside-down face in the river: the dead look back from below. -->
+  <path d="M1190 1071q91-57 181 0 66 49 59 133-7 78-68 111-78 43-158-3-68-40-69-119-1-77 55-122Z" fill="#E8DCC0" opacity=".13"/>
+  <path d="M1199 1104q87 57 166 3-60 75-160 47Z" fill="#0C0E10" opacity=".78"/>
+  <path d="M1216 1115q66 39 128 5-56 47-113 29Z" fill="#162219"/>
+  <ellipse cx="1292" cy="1122" rx="12" ry="27" transform="rotate(-18 1292 1122)" fill="#0C0E10"/>
+  <path d="M1210 1191q77-47 147 8-81-27-132 29Z" fill="#0C0E10" opacity=".88"/>
+  <path d="M1236 1208q48-21 89-2" fill="none" stroke="#6B1218" stroke-width="10" stroke-linecap="round" opacity=".8"/>
+  <g fill="none" stroke="#52603D" stroke-width="12" opacity=".72"><path d="M1162 1080q-89-22-157 5m389 0q88-28 157-4M1104 1160q-96-8-153 16m501-4q86 9 144 28M1190 1291q-105 22-159 9m362-12q94 24 160 14"/></g>
+  <g fill="none" stroke="#C49A45" stroke-width="5" opacity=".3"><path d="M1137 1064q-80-17-137 2m424-7q83-15 136 5M1084 1262q-67 14-118 4m541-5q68 12 121 5"/></g>
+  <!-- Enlarged half-face in the darkness; plaque hides the crooked mouth. -->
+  <path d="M921 458q9-191 160-296 104-92 264-66 160 26 236 159 61 107 44 231-12 88-74 144-45 40-118 29-35-5-82-14-121-21-220-9-87 11-142 62-23-99 45-166-57-27-113 5 30-52 113-79-60-25-113 0Z" fill="#050708" opacity=".96"/>
+  <path d="M1095 467q161-142 350-38-127 126-303 83Z" fill="#E8DCC0" stroke="#B18A41" stroke-width="12"/>
+  <path d="M1116 478q143-94 293-46-126 101-260 87Z" fill="#0C0E10"/>
+  <ellipse cx="1279" cy="469" rx="18" ry="43" transform="rotate(20 1279 469)" fill="#050708"/>
+  <path d="M1072 461q165-157 389-52" fill="none" stroke="#6B1218" stroke-width="28" stroke-linecap="round"/>
+  <path d="M1150 533q94 39 183 7 45-17 83-50" fill="none" stroke="#6B1218" stroke-width="18" stroke-linecap="round" opacity=".86"/>
+  <path d="M1171 554q102 35 181-14-59 72-150 52Z" fill="#0C0E10"/>
+  <!-- Border and central safe-area plaque: x 507–2053, y 508–931. -->
+  <rect x="36" y="36" width="2488" height="1368" fill="none" stroke="#C49A45" stroke-width="5" opacity=".46"/>
+  <rect x="52" y="52" width="2456" height="1336" fill="none" stroke="#E8DCC0" stroke-width="2" opacity=".13"/>
+  <path d="M550 552q18-23 43-23h1374q25 0 43 23v336q-18 23-43 23H593q-25 0-43-23Z" fill="#0C0E10" fill-opacity=".96" stroke="#C49A45" stroke-width="9"/>
+  <path d="M574 576h1412v288H574Z" fill="none" stroke="#E8DCC0" stroke-width="2" opacity=".32"/>
+  <!-- worn carved accents, without the former unexplained diamond -->
+  <path d="M628 613h197m-197 214h197m810-214h197m-197 214h197" stroke="#6B1218" stroke-width="9"/>
+  <path d="M849 760h862" stroke="#C49A45" stroke-width="5"/>
+  <text x="1280" y="727" text-anchor="middle" fill="#E8DCC0" stroke="#6B1218" stroke-width="2" paint-order="stroke" font-family="Times New Roman, Georgia, serif" font-size="116" font-weight="bold" letter-spacing="15">MA NÓ KỂ</text>
+  <text x="1280" y="818" text-anchor="middle" fill="#C49A45" font-family="Times New Roman, Georgia, serif" font-size="48" letter-spacing=".5">Người làm chuyện xằng, ma ngồi kể lại.</text>
+  <!-- Woodcut grain only in the far background, masked away from the plaque. -->
+  <rect width="2560" height="1440" fill="url(#distantCut)" opacity=".75"/>
+</svg>

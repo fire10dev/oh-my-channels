@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-labelledby="title desc">
+  <title id="title">Ma Nó Kể — mắt ma sau tấm phản</title>
+  <desc id="desc">Biểu tượng tròn khắc gỗ u tối, một con mắt nhìn nghiêng từ sau ván gỗ và nén nhang đỏ.</desc>
+  <defs>
+    <clipPath id="round"><circle cx="400" cy="400" r="394"/></clipPath>
+    <pattern id="grain" width="34" height="34" patternUnits="userSpaceOnUse" patternTransform="rotate(-18)">
+      <path d="M2 0v34M9 0v34M26 0v34" stroke="#E8DCC0" stroke-width="2" opacity=".10"/>
+      <path d="M17 0v34" stroke="#0C0E10" stroke-width="4" opacity=".7"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#round)">
+    <circle cx="400" cy="400" r="398" fill="#0C0E10"/>
+    <circle cx="400" cy="400" r="365" fill="#162219" stroke="#C49A45" stroke-width="8"/>
+    <circle cx="400" cy="400" r="344" fill="none" stroke="#E8DCC0" stroke-width="2" opacity=".35"/>
+    <!-- carved night -->
+    <path d="M41 245Q173 137 311 157Q484 111 759 245V714H41Z" fill="#0C0E10"/>
+    <path d="M61 222l157-68m-111 91 181-84m-159 113 173-76m-130 110 131-58m399-36-176-72m211 120-195-79m192 132-193-80" fill="none" stroke="#E8DCC0" stroke-width="5" opacity=".18"/>
+    <!-- backward shadow of the spirit -->
+    <path d="M571 218Q488 167 389 213Q313 249 297 329Q276 435 344 508Q391 560 451 578Q363 510 393 435Q415 379 493 358Q575 337 622 288Q614 246 571 218Z" fill="#6B1218" opacity=".8"/>
+    <!-- wood plank, heavy and simple -->
+    <path d="M132 306Q244 273 351 297L351 533Q239 514 132 552Z" fill="#6B1218" stroke="#C49A45" stroke-width="9"/>
+    <path d="M151 329Q246 305 329 319M151 518Q246 491 329 510" fill="none" stroke="#E8DCC0" stroke-width="5" opacity=".48"/>
+    <path d="M190 302v228m118-226v224" stroke="#0C0E10" stroke-width="5" opacity=".6"/>
+    <circle cx="173" cy="421" r="8" fill="#C49A45"/><circle cx="311" cy="422" r="8" fill="#C49A45"/>
+    <!-- slanted ghost eye -->
+    <path d="M340 354Q414 281 516 326Q465 409 365 393Z" fill="#E8DCC0" stroke="#C49A45" stroke-width="8"/>
+    <path d="M363 369Q413 321 487 340Q449 383 379 385Z" fill="#C49A45"/>
+    <ellipse cx="430" cy="357" rx="19" ry="31" transform="rotate(22 430 357)" fill="#0C0E10"/>
+    <circle cx="423" cy="347" r="6" fill="#E8DCC0"/>
+    <path d="M352 345Q418 276 521 317" fill="none" stroke="#E8DCC0" stroke-width="10" stroke-linecap="round"/>
+    <!-- reversed falling shadow -->
+    <path d="M524 408Q583 450 623 427Q606 496 550 518Q523 480 524 408Z" fill="#162219" stroke="#C49A45" stroke-width="5"/>
+    <path d="M565 453q-19 31-8 61m28-63q-8 27 4 42" fill="none" stroke="#E8DCC0" stroke-width="4" opacity=".5"/>
+    <!-- incense ember -->
+    <path d="M657 476Q644 512 650 573" fill="none" stroke="#E8DCC0" stroke-width="7"/>
+    <path d="M650 473Q626 453 649 429Q671 453 650 473Z" fill="#6B1218" stroke="#C49A45" stroke-width="4"/>
+    <path d="M645 449q-20-31 2-53m9 50q20-30 6-48" fill="none" stroke="#E8DCC0" stroke-width="4" opacity=".45"/>
+    <path d="M611 585h81l-12 18h-57Z" fill="#C49A45"/>
+    <path d="M40 640Q220 609 400 635T760 625V800H40Z" fill="#0C0E10"/>
+    <text x="400" y="694" text-anchor="middle" fill="#E8DCC0" font-family="Times New Roman, Georgia, serif" font-size="59" font-weight="bold" letter-spacing="5">MA NÓ KỂ</text>
+    <path d="M218 721h364" stroke="#C49A45" stroke-width="4"/>
+    <rect x="0" y="0" width="800" height="800" fill="url(#grain)"/>
+  </g>
+</svg>

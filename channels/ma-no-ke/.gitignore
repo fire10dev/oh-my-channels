@@ -1,0 +1,14 @@
+# whitelist: text/code only — images, audio, renders stay local (paths in YT Hub)
+*
+!*/
+!.gitignore
+!*.md
+!*.json
+!*.py
+!*.sh
+!*.mjs
+!*.ts
+!*.tsx
+!*.txt
+!*.svg
+!*.csv

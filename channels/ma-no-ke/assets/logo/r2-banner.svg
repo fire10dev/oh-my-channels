@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440" role="img" aria-labelledby="title desc">
+  <title id="title">Ma Nó Kể — Người làm chuyện xằng, ma ngồi kể lại</title>
+  <desc id="desc">Làng Bắc Bộ khắc gỗ trong đêm, bóng ma ẩn sau rặng tre, cùng tên kênh và slogan trong vùng an toàn.</desc>
+  <defs>
+    <linearGradient id="night" x2="0" y2="1"><stop stop-color="#0C0E10"/><stop offset=".58" stop-color="#162219"/><stop offset="1" stop-color="#0C0E10"/></linearGradient>
+    <radialGradient id="mist"><stop stop-color="#C49A45" stop-opacity=".25"/><stop offset="1" stop-color="#C49A45" stop-opacity="0"/></radialGradient>
+    <pattern id="distantCut" width="64" height="64" patternUnits="userSpaceOnUse" patternTransform="rotate(-18)">
+      <path d="M7 0v64m21-64v64m23-64v64" stroke="#E8DCC0" stroke-width="3" opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="2560" height="1440" fill="url(#night)"/>
+  <ellipse cx="1280" cy="610" rx="1250" ry="720" fill="url(#mist)"/>
+  <!-- Far hill and village silhouette. -->
+  <path d="M0 648q189-124 380-43 169-111 345-20 213-127 425-12 220-121 430-18 211-118 404-8 207-109 576 72v381H0Z" fill="#101713" stroke="#26352A" stroke-width="12"/>
+  <!-- Bamboo on both edges, hand-bent and segmented. -->
+  <g fill="none" stroke="#26352A" stroke-width="25" stroke-linecap="round">
+    <path d="M99-40q78 229 10 457t45 440q46 188-4 384M240-45q-28 254 45 451t-2 421q-29 150 23 300M391-50q-77 230-23 434t-47 384"/>
+    <path d="M2460-60q-71 236-8 463t-13 408q-24 178 30 352M2315-55q46 257-32 455t6 409q32 155-20 301M2167-45q82 233 24 425t44 388"/>
+  </g>
+  <g fill="none" stroke="#52603D" stroke-width="8" opacity=".85">
+    <path d="M54 127q144-108 274-57M73 242Q-23 159-94 183m198 170q135-112 263-81M284 106q-105 103-191 113"/>
+    <path d="M2504 129q-148-104-274-48m246 177q108-88 186-75m-220 173q-145-111-267-70m145-181q108 101 191 107"/>
+  </g>
+  <!-- Distant banyan and communal house with sweeping Vietnamese rooflines. -->
+  <g fill="#0C0E10" stroke="#6E7650" stroke-width="9" opacity=".9">
+    <path d="M260 708q12-166 150-210 118-39 215 28 105 71 92 183-81-75-171-43-61 22-112 8-85-24-174 34Z"/>
+    <path d="M405 699q-20 131-17 239m69-234q6 133 31 240m-129-149q-60 54-93 125m214-137q84 58 120 126" fill="none" stroke="#26352A" stroke-width="22"/>
+    <path d="M1011 727q269-257 539 0l-29 22q-238-191-480 0Z" fill="#0C0E10" stroke="#C49A45" stroke-width="9"/>
+    <path d="M1068 750h424v194h-424Z" fill="#0C0E10" stroke="#C49A45" stroke-width="7"/>
+    <path d="M1115 750v194m80-194v194m80-194v194m80-194v194" fill="none" stroke="#52603D" stroke-width="7"/>
+    <path d="M1046 944h468l-49 31h-371Z" fill="#6B1218" stroke="#C49A45" stroke-width="7"/>
+  </g>
+  <!-- Curved tiled riverbank homes, kept low and peripheral. -->
+  <g fill="#0C0E10" stroke="#C49A45" stroke-width="8" opacity=".95">
+    <path d="M-51 822q128-123 267-2v177H-51Z"/><path d="M-78 824q155-165 320-1l-22 22q-139-125-278 0Z"/>
+    <path d="M49 873h63v124H49Zm94 0h55v56h-55Z" fill="#162219"/>
+    <path d="M2322 829q117-121 258 0v180h-258Z"/><path d="M2296 830q147-164 310-2l-24 24q-139-124-264 0Z"/>
+    <path d="M2380 874h59v134h-59Zm91 0h64v56h-64Z" fill="#162219"/>
+  </g>
+  <!-- River and the wrong-way shadow: the seated figure is implied, reflection rises. -->
+  <path d="M0 1054q298-42 592 0t594 0 594 0 780-6v392H0Z" fill="#0C0E10" stroke="#26352A" stroke-width="10"/>
+  <g fill="none" stroke="#C49A45" stroke-width="6" opacity=".24"><path d="M0 1134q266-36 532 0t532 0 532 0 532 0 432-5M0 1232q310-33 620 0t620 0 620 0 700-8M807 1332q230-25 460 0t460 0 460-5"/></g>
+  <path d="M1279 1019q-86-79-75-151 8-61 69-77 62 16 70 77 11 72-64 151 3-93-8-162 0 72 8 162Z" fill="#6B1218" opacity=".72"/>
+  <path d="M1248 963q-112 61-210 28m279-1q106 62 216 15" fill="none" stroke="#52603D" stroke-width="12" opacity=".72"/>
+  <!-- Ghost face veiled in the bamboo shadows, behind the title plaque. -->
+  <path d="M996 408q33-169 219-208 172-36 290 86 85 88 76 207-9 124-106 185-69 44-166 25-80-16-143-79-86-86-170-72-58 9-106 54 16-85 106-127-54-24-102 9 30-52 102-80Z" fill="#0C0E10" opacity=".78"/>
+  <path d="M1158 482q133-126 282-25-112 108-254 67Z" fill="#E8DCC0" stroke="#C49A45" stroke-width="10" opacity=".88"/>
+  <ellipse cx="1302" cy="478" rx="29" ry="47" transform="rotate(24 1302 478)" fill="#0C0E10"/>
+  <circle cx="1290" cy="462" r="9" fill="#E8DCC0"/>
+  <path d="M1139 475q135-145 321-45" fill="none" stroke="#6B1218" stroke-width="23" stroke-linecap="round" opacity=".85"/>
+  <!-- Border and central safe-area plaque: x 507–2053, y 508–931. -->
+  <rect x="36" y="36" width="2488" height="1368" fill="none" stroke="#C49A45" stroke-width="5" opacity=".46"/>
+  <rect x="52" y="52" width="2456" height="1336" fill="none" stroke="#E8DCC0" stroke-width="2" opacity=".13"/>
+  <path d="M550 552q18-23 43-23h1374q25 0 43 23v336q-18 23-43 23H593q-25 0-43-23Z" fill="#0C0E10" fill-opacity=".96" stroke="#C49A45" stroke-width="9"/>
+  <path d="M574 576h1412v288H574Z" fill="none" stroke="#E8DCC0" stroke-width="2" opacity=".32"/>
+  <!-- worn carved accents, without the former unexplained diamond -->
+  <path d="M628 613h197m-197 214h197m810-214h197m-197 214h197" stroke="#6B1218" stroke-width="9"/>
+  <path d="M849 760h862" stroke="#C49A45" stroke-width="5"/>
+  <text x="1280" y="727" text-anchor="middle" fill="#E8DCC0" stroke="#6B1218" stroke-width="2" paint-order="stroke" font-family="Times New Roman, Georgia, serif" font-size="116" font-weight="bold" letter-spacing="15">MA NÓ KỂ</text>
+  <text x="1280" y="818" text-anchor="middle" fill="#C49A45" font-family="Times New Roman, Georgia, serif" font-size="48" letter-spacing=".5">Người làm chuyện xằng, ma ngồi kể lại.</text>
+  <!-- Woodcut grain only in the far background, masked away from the plaque. -->
+  <rect width="2560" height="1440" fill="url(#distantCut)" opacity=".75"/>
+  <path d="M507 508h1546v423H507Z" fill="#0C0E10" fill-opacity=".001"/>
+</svg>

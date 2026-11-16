@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Ma Nó Kể — con ma nhìn nghiêng</title>
+  <desc id="desc">Nửa mặt ma ngà nhợt ló khỏi bóng tối, tóc đen rủ che trán, một mắt không ánh sáng và nụ cười nhếch.</desc>
+  <defs>
+    <clipPath id="disc"><circle cx="400" cy="400" r="400"/></clipPath>
+    <pattern id="grain" width="34" height="34" patternUnits="userSpaceOnUse" patternTransform="rotate(-17)">
+      <path d="M4 0v34m14-34v34m12-34v34" stroke="#E8DCC0" stroke-width="3" opacity=".11"/>
+      <path d="M24 0v34" stroke="#0C0E10" stroke-width="6" opacity=".7"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#disc)">
+    <rect width="800" height="800" fill="#162219"/>
+    <circle cx="400" cy="400" r="389" fill="#0C0E10" stroke="#C49A45" stroke-width="7"/>
+    <!-- One broad shadow swallows the left half of the face. -->
+    <path d="M0 0h533q-85 106-92 244-4 102 35 188 39 87 2 167-43 93-28 201H0Z" fill="#050708"/>
+    <path d="M0 0h533q-85 106-92 244-4 102 35 188 39 87 2 167-43 93-28 201H0Z" fill="url(#grain)"/>
+    <!-- A single pallid half-face, its edge lost in darkness. -->
+    <path d="M464 145q154-34 231 76 72 104 47 234-21 109-109 174-69 52-148 28-72-23-105-105-30-74-18-166 16-124 102-241Z" fill="#E8DCC0"/>
+    <path d="M466 148q118-29 190 46-107 5-172 68-45 43-80 114 1-144 62-228Z" fill="#0C0E10"/>
+    <!-- Strands of black hair cut across the brow and cheek. -->
+    <path d="M398 88q83 13 151 50-61 36-95 100-30 55-51 114 3-105-30-179 48 16 80 4-48-38-55-89Z" fill="#050708"/>
+    <path d="M450 117q36 63 17 148m26-116q44 53 23 128m-88-94q3 65-20 128" fill="none" stroke="#29302A" stroke-width="9" opacity=".65"/>
+    <!-- Sidelong eye: no catchlight, narrow pupil, bruised lower lid. -->
+    <path d="M451 351q103-96 213-29-69 96-185 75Z" fill="#0C0E10"/>
+    <path d="M465 365q88-71 177-37-70 67-158 63Z" fill="#E8DCC0"/>
+    <ellipse cx="566" cy="357" rx="13" ry="35" transform="rotate(20 566 357)" fill="#050708"/>
+    <path d="M443 344q103-111 231-29" fill="none" stroke="#6B1218" stroke-width="21" stroke-linecap="round"/>
+    <path d="M474 390q78 21 147-15" fill="none" stroke="#6B1218" stroke-width="16" opacity=".78"/>
+    <!-- A few broad carved cracks remain legible at small size. -->
+    <path d="M466 424l-17 29 19 12-10 25m43-54 13 16-7 20m84 42-24 16 7 18-18 17" fill="none" stroke="#8A7553" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity=".82"/>
+    <!-- Lopsided whisper-smile, with one corner raised. -->
+    <path d="M477 524q91 37 182-39-28 82-117 103-49 11-83-21Z" fill="#050708"/>
+    <path d="M487 543q72 20 140-24-52 54-122 57Z" fill="#6B1218"/>
+    <path d="M509 564q45 7 81-10" fill="none" stroke="#C49A45" stroke-width="7" stroke-linecap="round" opacity=".78"/>
+    <path d="M456 579q-12 49 3 81m34-75-7 31" fill="none" stroke="#8A7553" stroke-width="5" stroke-linecap="round" opacity=".72"/>
+    <path d="M0 0h800v800H0Z" fill="none" stroke="#C49A45" stroke-width="1" opacity=".12"/>
+  </g>
+</svg>
