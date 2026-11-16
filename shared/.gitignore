@@ -1,0 +1,6 @@
+# TTS engines shared by every channel: code only, models/venvs/samples stay local
+tts*/.venv/
+tts*/samples/
+*.onnx
+*.bin
+*.m4a
