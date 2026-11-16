@@ -316,7 +316,7 @@ def main(argv=None):
     sub = p.add_subparsers(dest="cmd", required=True)
 
     c = sub.add_parser("channel"); c.add_argument("name")
-    for k in ("handle", "url", "lang", "notes", "repo"):
+    for k in ("handle", "url", "lang", "notes", "repo", "yt-id"):
         c.add_argument(f"--{k}")
     i = sub.add_parser("import-csv"); i.add_argument("csv"); i.add_argument("--channel", required=True)
     i.add_argument("--kind", choices=["long", "short"], required=True)
@@ -355,7 +355,8 @@ def main(argv=None):
     code = lambda c: None if c == "-" else c
     try:
         if a_.cmd == "channel":
-            print(channel_id(con, a_.name, handle=a_.handle, url=a_.url, lang=a_.lang, notes=a_.notes, repo_path=a_.repo))
+            print(channel_id(con, a_.name, handle=a_.handle, url=a_.url, lang=a_.lang, notes=a_.notes, repo_path=a_.repo,
+                             yt_channel_id=a_.yt_id))
         elif a_.cmd == "import-csv":
             ins, upd = import_csv(con, a_.csv, a_.channel, a_.kind)
             print(f"{a_.channel}: +{ins} mới, {upd} cập nhật")
