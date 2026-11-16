@@ -1,0 +1,16 @@
+# Media never goes in git — it lives next to the code (ignored) and is registered in the YT Hub DB.
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.zip
+node_modules/
+.venv/
+__pycache__/
+.DS_Store
+.build/
+.buildtmp/
+*.log
