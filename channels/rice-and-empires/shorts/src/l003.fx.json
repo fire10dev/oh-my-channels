@@ -1,0 +1,35 @@
+{
+ "41": {
+  
+  "sfx": [
+   {"src": "sfxlib/waves.mp3", "at": 0, "dur": 7.1, "vol": 0.32, "from": 10},
+   {"src": "sfxlib/braam.mp3", "at": 0, "dur": 6.5, "vol": 0.45, "fadeOut": 1.5},
+   {"src": "sfxlib/boom.mp3", "at": 0.15, "dur": 2.5, "vol": 0.4}
+  ]
+ },
+ "42": {
+  
+  "sfx": [
+   {"src": "sfxlib/lap.mp3", "at": 0, "dur": 7.7, "vol": 0.3, "from": 5},
+   {"src": "sfxlib/woodhit.mp3", "at": 0.5, "dur": 3.4, "vol": 0.55},
+   {"src": "sfxlib/stake.mp3", "at": 4.0, "dur": 3.5, "vol": 0.5, "from": 2}
+  ]
+ },
+ "43": {
+  "fx": ["embers", "shake"],
+  "shakeAt": [1.0, 4.3],
+  "sfx": [
+   {"src": "sfxlib/fire.mp3", "at": 0, "dur": 8.6, "vol": 0.35},
+   {"src": "sfxlib/crackle.mp3", "at": 0, "dur": 8.6, "vol": 0.4, "from": 20},
+   {"src": "sfxlib/debris.mp3", "at": 0.85, "dur": 2.3, "vol": 0.6},
+   {"src": "sfxlib/shiphit.mp3", "at": 1.0, "dur": 2.1, "vol": 0.55},
+   {"src": "sfxlib/boom.mp3", "at": 4.2, "dur": 3, "vol": 0.45, "from": 4}
+  ]
+ },
+ "44": {
+  "sfx": [
+   {"src": "sfxlib/waves.mp3", "at": 0, "dur": 5.8, "vol": 0.15, "from": 60},
+   {"src": "sfxlib/pages.mp3", "at": 0.4, "dur": 4.5, "vol": 0.45}
+  ]
+ }
+}

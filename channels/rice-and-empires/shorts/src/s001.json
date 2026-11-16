@@ -1,0 +1,14 @@
+[
+ {"id": "hook", "say": "First time in Vietnam? Ten things to know.", "title": "10 THINGS", "sub": "to know on your first trip to Vietnam", "img": "s001/img-00.jpg"},
+ {"id": "t1", "say": "Crossing the street? Walk slow and steady. The bikes flow around you.", "title": "Cross slow & steady", "img": "s001/img-01.jpg"},
+ {"id": "t2", "say": "Carry cash. Street vendors rarely take cards.", "title": "Carry cash", "img": "s001/img-02.jpg"},
+ {"id": "t3", "say": "Lots of zeros: a hundred thousand dong is under five dollars.", "title": "100,000₫ < $5", "img": "s001/img-03.jpg"},
+ {"id": "t4", "say": "Get the Grab app for rides and food.", "title": "Get the Grab app", "img": "s001/img-04.jpg"},
+ {"id": "t5", "say": "Eat where the locals line up.", "title": "Eat where locals eat", "img": "s001/img-05.jpg"},
+ {"id": "t6", "say": "Don't drink the tap water.", "title": "No tap water", "img": "s001/img-06.jpg"},
+ {"id": "t7", "say": "Bargain at markets, with a smile.", "title": "Bargain with a smile", "img": "s001/img-07.jpg"},
+ {"id": "t8", "say": "Cover shoulders and knees at temples.", "title": "Cover up at temples", "img": "s001/img-08.jpg"},
+ {"id": "t9", "say": "Never stand chopsticks upright in rice.", "title": "Chopsticks: never upright", "img": "s001/img-09.jpg"},
+ {"id": "t10", "say": "Say, sin chow, for hello. And, gahm un, for thank you.", "title": "Xin chào · Cảm ơn", "sub": "hello · thank you", "img": "s001/img-10.jpg"},
+ {"id": "outro", "say": "Follow for more Vietnam.", "title": "Follow for more", "img": "s001/img-11.jpg"}
+]
