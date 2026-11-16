@@ -1,0 +1,165 @@
+{
+ "title": "Submarine Sailors Share One Warm Bed",
+ "hook": "HOT RACKING",
+ "asof": "Figures as of 2026 · full video on the channel",
+ "world": "sub",
+ "long": "IX001",
+ "chapters": [
+  {
+   "id": "rack",
+   "hud": "DAY 1",
+   "chip": "22:00",
+   "tod": "day",
+   "shots": [
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "On some submarines, your bed is still warm when you climb in."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "Because someone else just climbed out."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Your bed is called a rack."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "It's a narrow shelf, stacked three high,"
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      4.2
+     ],
+     "s": "with a curtain and a thin mattress."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Under it, a small locker."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      600,
+      1.8
+     ],
+     "s": "That's your entire personal space."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      960,
+      550,
+      1.0
+     ],
+     "st": [
+      "77 days",
+      "average patrol · US Navy, 2025"
+     ],
+     "s": "For eleven weeks."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      960,
+      560,
+      1.12
+     ],
+     "s": "And on the smaller attack submarines,"
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "there aren't always enough racks."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "So the newest sailors may share one bed,"
+    },
+    {
+     "d": {
+      "type": "compare",
+      "left": [
+       "SAILOR A",
+       "IN THE RACK",
+       "while B works"
+      ],
+      "right": [
+       "SAILOR B",
+       "IN THE RACK",
+       "while A works"
+      ],
+      "note": "one bed · two sailors"
+     },
+     "s": "in shifts."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "When you crawl in, the mattress is still warm from the last person."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "q": "HOT RACKING",
+     "s": "That's why it's called hot racking."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.2
+     ],
+     "s": "Could you sleep in a stranger's warm bed?"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "title": "Where Cruise Ship Crews Actually Sleep",
+ "hook": "BELOW THE POOL",
+ "asof": "Figures as of 2026 · full video on the channel",
+ "world": "cruise",
+ "long": "IX003",
+ "chapters": [
+  {
+   "id": "cabin",
+   "hud": "DAY 1",
+   "chip": "23:00",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "pool",
+     "s": "Right above you, thousands of people are on vacation."
+    },
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "And this is where you sleep."
+    },
+    {
+     "v": "stairs",
+     "s": "Below the passengers,"
+    },
+    {
+     "v": "i95",
+     "s": "past the doors marked crew only."
+    },
+    {
+     "v": "cabin",
+     "st": [
+      "NO WINDOW",
+      "most crew cabins"
+     ],
+     "s": "Most crew cabins have no window."
+    },
+    {
+     "v": "bunk",
+     "s": "So you can't tell if it's day or night."
+    },
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "You share it with one, two, or even three people."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "You get a bunk."
+    },
+    {
+     "v": "bunk",
+     "s": "A narrow mattress."
+    },
+    {
+     "v": "bunk",
+     "s": "A couple of drawers."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "And a curtain."
+    },
+    {
+     "v": "cabin",
+     "s": "That curtain is most of your privacy."
+    },
+    {
+     "v": "cabin2",
+     "s": "Your roommate might work nights."
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "You might work days."
+    },
+    {
+     "v": "engine",
+     "s": "And the ship is never quiet."
+    },
+    {
+     "v": "engine",
+     "s": "Engines hum. The floor vibrates."
+    },
+    {
+     "v": "corridor",
+     "s": "Doors slam. Footsteps pass."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Could you sleep down here for six months?"
+    }
+   ]
+  }
+ ]
+}

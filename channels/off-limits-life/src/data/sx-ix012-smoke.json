@@ -1,0 +1,77 @@
+{
+ "title": "Why the Vatican Burns Ballots to Announce a New Pope",
+ "hook": "BLACK OR WHITE?",
+ "asof": "Rules from Universi Dominici Gregis (1996) · May 2025 conclave · full video on the channel",
+ "world": "conclave",
+ "long": "IX012",
+ "chapters": [
+  {
+   "id": "smoke",
+   "hud": "DAY 1",
+   "chip": "MAY 7, 2025",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "The whole world watches one little chimney.",
+     "v": "chimney",
+     "plane": "smoke:black"
+    },
+    {
+     "s": "Inside the Sistine Chapel, cardinals are choosing a pope.",
+     "v": "chapel",
+     "you": "chapel"
+    },
+    {
+     "s": "Each one writes a name on a paper ballot.",
+     "v": "ballot"
+    },
+    {
+     "s": "They're told to disguise their handwriting.",
+     "v": "ballot"
+    },
+    {
+     "s": "To win, someone needs two thirds of the votes.",
+     "v": "urn",
+     "you": "urn",
+     "st": [
+      "⅔",
+      "votes to win"
+     ]
+    },
+    {
+     "s": "After the votes, the ballots go into a stove.",
+     "v": "stove",
+     "plane": "fire"
+    },
+    {
+     "s": "Black smoke means no pope yet.",
+     "v": "chimney",
+     "plane": "smoke:black"
+    },
+    {
+     "s": "In May 2025, the first night's smoke was black.",
+     "v": "square"
+    },
+    {
+     "s": "The next afternoon, on the fourth vote, it turned white.",
+     "v": "chimney",
+     "plane": "smoke:white"
+    },
+    {
+     "s": "The new pope was Leo the Fourteenth, the first from the United States.",
+     "v": "balcony",
+     "plane": "crowd",
+     "st": [
+      "LEO XIV",
+      "May 8, 2025"
+     ]
+    },
+    {
+     "s": "Would you wait in the square for the smoke?",
+     "v": "square",
+     "plane": "crowd"
+    }
+   ]
+  }
+ ]
+}

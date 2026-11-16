@@ -1,0 +1,75 @@
+{
+ "title": "Inside the Round Bedroom of a Rock Lighthouse",
+ "hook": "3 MEN, 1 ROUND ROOM",
+ "asof": "History from National Records of Scotland · full video on the channel",
+ "world": "lighthouse",
+ "long": "IX015",
+ "chapters": [
+  {
+   "id": "sleep",
+   "hud": "DAY 2",
+   "chip": "02:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Three men slept in this round room, in the middle of the sea.",
+     "v": "bedroom",
+     "you": "bunk"
+    },
+    {
+     "s": "This is the Bell Rock Lighthouse, off Scotland, finished in 1810.",
+     "v": "wide",
+     "st": [
+      "1810",
+      "Bell Rock lit"
+     ]
+    },
+    {
+     "s": "The bedroom is about thirteen feet across.",
+     "v": "bedroom",
+     "st": [
+      "13 FT",
+      "round bedroom"
+     ]
+    },
+    {
+     "s": "Three bunks, curved to fit the wall.",
+     "v": "bunk"
+    },
+    {
+     "s": "A curtain for privacy.",
+     "v": "bunk",
+     "plane": "curtain",
+     "you": "bunk"
+    },
+    {
+     "s": "They slept between night watches, winding the lamp's clockwork every thirty minutes.",
+     "v": "clock"
+    },
+    {
+     "s": "Fresh water was rationed, so there was no shower or bath.",
+     "v": "store",
+     "you": "store"
+    },
+    {
+     "s": "The rock didn't get a toilet until 1964.",
+     "v": "store",
+     "st": [
+      "1964",
+      "first toilet"
+     ]
+    },
+    {
+     "s": "And outside, the sea hammered the tower.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "Could you sleep there for a month?",
+     "v": "bunk",
+     "you": "bunk"
+    }
+   ]
+  }
+ ]
+}

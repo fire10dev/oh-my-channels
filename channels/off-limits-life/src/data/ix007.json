@@ -1,0 +1,699 @@
+{
+ "title": "How Inmates Eat, Shower & Sleep in America's Only Federal Supermax",
+ "asof": "Figures from the 2018 DC CIC inspection (visit 2017) · sources in description",
+ "world": "supermax",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "06:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "There's a prison in Colorado built so you never see another prisoner.",
+     "v": "wide"
+    },
+    {
+     "s": "Your room is seven feet by twelve.",
+     "v": "cell",
+     "you": "cell",
+     "st": [
+      "7×12 FT",
+      "your whole world · CIC 2018"
+     ]
+    },
+    {
+     "s": "The bed is concrete.",
+     "v": "bed"
+    },
+    {
+     "s": "The desk is concrete.",
+     "v": "desk",
+     "you": "desk"
+    },
+    {
+     "s": "Your window is four inches wide.",
+     "v": "window",
+     "you": "window"
+    },
+    {
+     "s": "And all it shows you is the sky.",
+     "v": "sky"
+    },
+    {
+     "s": "You'll spend at least twenty-two hours a day in here.",
+     "v": "cell",
+     "you": "cell",
+     "plane": "dark"
+    },
+    {
+     "s": "So how do you eat,",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "shower,",
+     "v": "shower",
+     "plane": "shower:on",
+     "you": "shower"
+    },
+    {
+     "s": "and sleep,",
+     "v": "bed",
+     "you": "bed",
+     "plane": "dark"
+    },
+    {
+     "s": "in America's only federal supermax?",
+     "v": "wide"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "arrive",
+   "hud": "DAY 1",
+   "chip": "09:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "This is ADX Florence.",
+     "v": "wide"
+    },
+    {
+     "s": "It opened in 1994, in the high desert south of Colorado Springs.",
+     "v": "mountains",
+     "st": [
+      "1994",
+      "ADX Florence opens"
+     ]
+    },
+    {
+     "s": "It's the only federal prison of its kind.",
+     "v": "fence"
+    },
+    {
+     "s": "Its official name is Administrative Maximum.",
+     "v": "tower"
+    },
+    {
+     "s": "Reporters call the people inside the worst of the worst.",
+     "v": "block"
+    },
+    {
+     "s": "It was built for four hundred and ninety men.",
+     "v": "block",
+     "st": [
+      "490",
+      "beds · rated capacity"
+     ]
+    },
+    {
+     "s": "In 2017, it held four hundred and twenty-seven.",
+     "v": "block",
+     "st": [
+      "427",
+      "men inside · 2017"
+     ]
+    },
+    {
+     "s": "Most aren't here for the crime they committed.",
+     "v": "bus",
+     "you": "bus"
+    },
+    {
+     "s": "They're here for how they behaved in other prisons.",
+     "v": "bus"
+    },
+    {
+     "s": "You arrive in chains.",
+     "v": "range",
+     "you": "range",
+     "plane": "cuffs"
+    },
+    {
+     "s": "Every trip out of a cell takes an escort of guards.",
+     "v": "range",
+     "you": "range"
+    },
+    {
+     "s": "Cells sit in a line down one side of the hallway.",
+     "v": "range"
+    },
+    {
+     "s": "It's built that way so no prisoner can see another.",
+     "v": "block"
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "THE ALCATRAZ OF THE ROCKIES"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "cell",
+   "hud": "DAY 1",
+   "chip": "11:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Here's everything you own now.",
+     "v": "cell",
+     "you": "cell"
+    },
+    {
+     "s": "A bed, poured from concrete.",
+     "v": "bed"
+    },
+    {
+     "s": "A concrete desk.",
+     "v": "desk"
+    },
+    {
+     "s": "A concrete stool.",
+     "v": "desk",
+     "you": "desk"
+    },
+    {
+     "s": "None of it moves.",
+     "v": "cell"
+    },
+    {
+     "s": "A steel sink and toilet, in one piece.",
+     "v": "toilet"
+    },
+    {
+     "s": "The bed has handles built into it.",
+     "v": "bed"
+    },
+    {
+     "s": "They're for strapping a prisoner down.",
+     "v": "bed",
+     "st": [
+      "4-POINT",
+      "restraint handles · CIC 2018"
+     ]
+    },
+    {
+     "s": "Then there's the door.",
+     "v": "door"
+    },
+    {
+     "s": "Actually, two doors.",
+     "v": "door"
+    },
+    {
+     "s": "A barred door on the inside.",
+     "v": "door",
+     "you": "cell"
+    },
+    {
+     "s": "A solid steel door on the outside.",
+     "v": "door"
+    },
+    {
+     "s": "The window is about forty-two inches tall.",
+     "v": "window",
+     "you": "window"
+    },
+    {
+     "s": "And four inches wide.",
+     "v": "window",
+     "st": [
+      "4 INCHES",
+      "window width · CIC 2018"
+     ]
+    },
+    {
+     "s": "It's angled so you can only see the sky.",
+     "v": "sky"
+    },
+    {
+     "s": "No ground.",
+     "v": "window"
+    },
+    {
+     "s": "No trees.",
+     "v": "window"
+    },
+    {
+     "s": "No mountains.",
+     "v": "mountains"
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "THE ROOM"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "food",
+   "hud": "DAY 2",
+   "chip": "06:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "There's no dining hall.",
+     "v": "range"
+    },
+    {
+     "s": "Meals are carried from the kitchen to your door.",
+     "v": "cart"
+    },
+    {
+     "s": "The door has a slot.",
+     "v": "slot"
+    },
+    {
+     "s": "Your tray comes through it.",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "You eat alone, at your concrete desk.",
+     "v": "desk",
+     "you": "desk",
+     "plane": "tray"
+    },
+    {
+     "s": "Three meals a day, every day.",
+     "v": "clock"
+    },
+    {
+     "s": "The budget?",
+     "v": "cart"
+    },
+    {
+     "s": "About three dollars and fifty cents a day per prisoner.",
+     "v": "cart",
+     "st": [
+      "$3.50",
+      "food per day · 2017"
+     ]
+    },
+    {
+     "s": "The cooks are prisoners too, from the camp next door.",
+     "v": "cart"
+    },
+    {
+     "s": "In a survey, about a third complained about the food.",
+     "v": "desk",
+     "you": "desk"
+    },
+    {
+     "s": "One man said the portions are terrible.",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "Another said they never change the menu.",
+     "v": "desk",
+     "you": "desk"
+    },
+    {
+     "s": "For many men, the trays are the main time they see anyone.",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "One put it this way:",
+     "v": "cell",
+     "you": "cell"
+    },
+    {
+     "s": "we only see staff when they feed us,",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "pick up the trays,",
+     "v": "slot"
+    },
+    {
+     "s": "and at recreation.",
+     "v": "rec",
+     "you": "rec"
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "FOOD"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "shower",
+   "hud": "DAY 2",
+   "chip": "19:00",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "In most units, the shower is inside your cell.",
+     "v": "shower",
+     "you": "shower"
+    },
+    {
+     "s": "That way, you never have to leave to wash.",
+     "v": "shower",
+     "plane": "shower:on",
+     "you": "shower"
+    },
+    {
+     "s": "It shuts off on its own.",
+     "v": "shower",
+     "plane": "shower:on",
+     "you": "shower"
+    },
+    {
+     "s": "The water can't run forever,",
+     "v": "shower"
+    },
+    {
+     "s": "so nobody floods the range.",
+     "v": "range",
+     "plane": "lockdown"
+    },
+    {
+     "s": "In the step-down units, it's different.",
+     "v": "block"
+    },
+    {
+     "s": "There, the showers sit in a shared room.",
+     "v": "gym"
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "SHOWER"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "sleep",
+   "hud": "DAY 2",
+   "chip": "23:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "At night, you sleep on that concrete slab.",
+     "v": "bed",
+     "you": "bed",
+     "plane": "dark"
+    },
+    {
+     "s": "There's a thin mattress on top.",
+     "v": "bed",
+     "you": "bed",
+     "plane": "dark"
+    },
+    {
+     "s": "Nobody shares the cell.",
+     "v": "cell",
+     "plane": "dark"
+    },
+    {
+     "s": "You might get a radio or a small TV.",
+     "v": "tv",
+     "plane": "tv:on"
+    },
+    {
+     "s": "It's your main window to the world.",
+     "v": "tv",
+     "plane": "tv:on",
+     "you": "bed"
+    },
+    {
+     "s": "Books come from the library, one request at a time.",
+     "v": "slot"
+    },
+    {
+     "s": "And then it's six AM again.",
+     "v": "clock"
+    }
+   ],
+   "card": [
+    "PROBLEM 4",
+    "SLEEP"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "out",
+   "hud": "DAY 3",
+   "chip": "10:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Out-of-cell time is about two hours each weekday.",
+     "v": "clock"
+    },
+    {
+     "s": "That's ten hours a week.",
+     "v": "clock",
+     "st": [
+      "10 HRS",
+      "out of cell per week · 2017"
+     ]
+    },
+    {
+     "s": "Three to five officers escort you there.",
+     "v": "range",
+     "you": "range",
+     "plane": "cuffs"
+    },
+    {
+     "s": "While you're out, they search your cell.",
+     "v": "cell"
+    },
+    {
+     "s": "Some days you go indoors, to an almost empty room.",
+     "v": "gym",
+     "you": "gym"
+    },
+    {
+     "s": "Other days you go outside.",
+     "v": "rec",
+     "you": "rec"
+    },
+    {
+     "s": "Outside means a cage, in a deep concrete pit.",
+     "v": "rec",
+     "you": "rec"
+    },
+    {
+     "s": "There's a mesh roof over your head.",
+     "v": "sky"
+    },
+    {
+     "s": "You can shout to a few other men in their cages.",
+     "v": "rec",
+     "you": "rec"
+    },
+    {
+     "s": "In the Control Unit, even that's gone.",
+     "v": "rec"
+    },
+    {
+     "s": "There, men stay inside twenty-three to twenty-four hours a day.",
+     "v": "cell",
+     "plane": "dark",
+     "st": [
+      "23–24 HRS",
+      "in cell · Control Unit"
+     ]
+    }
+   ],
+   "card": [
+    "PROBLEM 5",
+    "TWO HOURS"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "family",
+   "hud": "DAY 30",
+   "chip": "13:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "In general population, you get up to three phone calls a month.",
+     "v": "visit",
+     "you": "visit"
+    },
+    {
+     "s": "Fifteen minutes each.",
+     "v": "visit",
+     "st": [
+      "3 × 15 MIN",
+      "phone calls per month"
+     ]
+    },
+    {
+     "s": "Each long-distance call costs three dollars and forty-five cents.",
+     "v": "visit"
+    },
+    {
+     "s": "There's no email.",
+     "v": "desk",
+     "you": "desk"
+    },
+    {
+     "s": "Visits are never contact visits.",
+     "v": "visit",
+     "you": "visit"
+    },
+    {
+     "s": "You sit behind glass and talk on a phone.",
+     "v": "visit",
+     "you": "visit"
+    },
+    {
+     "s": "Thirty-four days a year, no visits are allowed at all.",
+     "v": "visit",
+     "st": [
+      "34 DAYS",
+      "no visits · 2017"
+     ]
+    },
+    {
+     "s": "And Colorado is far from most families.",
+     "v": "mountains"
+    },
+    {
+     "s": "One man hadn't seen his family since 2003.",
+     "v": "window",
+     "you": "window"
+    },
+    {
+     "s": "Another man can't shop at the commissary until the year twenty-one hundred.",
+     "v": "cell",
+     "you": "cell",
+     "st": [
+      "2100",
+      "commissary ban ends"
+     ]
+    }
+   ],
+   "card": [
+    "PROBLEM 6",
+    "THE OUTSIDE"
+   ],
+   "gain": 0.84
+  },
+  {
+   "id": "harm",
+   "hud": "DAY 365",
+   "chip": "14:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "A government report quoted a psychologist who worked there.",
+     "v": "control"
+    },
+    {
+     "s": "On the most isolated range, they said, you have no contact.",
+     "v": "range"
+    },
+    {
+     "s": "You don't speak to anybody.",
+     "v": "cell",
+     "you": "cell",
+     "plane": "dark"
+    },
+    {
+     "s": "They called it a form of torture on some level.",
+     "v": "window",
+     "you": "window"
+    },
+    {
+     "s": "In 2012, prisoners with mental illness sued the prison system.",
+     "v": "control"
+    },
+    {
+     "s": "The case was settled in 2016.",
+     "v": "block",
+     "st": [
+      "2016",
+      "Cunningham v. BOP settles"
+     ]
+    },
+    {
+     "s": "A former warden once called ADX a clean version of hell.",
+     "v": "wide"
+    }
+   ],
+   "card": [
+    "THE COST",
+    "WHAT IT DOES TO PEOPLE"
+   ],
+   "gain": -2.1
+  },
+  {
+   "id": "stepdown",
+   "hud": "DAY 730",
+   "chip": "08:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "Many men here can work their way out.",
+     "v": "block"
+    },
+    {
+     "s": "First, a full year with no trouble.",
+     "v": "clock",
+     "st": [
+      "1 YEAR",
+      "clean conduct first"
+     ]
+    },
+    {
+     "s": "Then a step-down unit, with a shared room and other people.",
+     "v": "gym",
+     "you": "gym"
+    },
+    {
+     "s": "After about six months, a transfer next door.",
+     "v": "fence"
+    },
+    {
+     "s": "There, you get a cellmate for the first time in years.",
+     "v": "bus",
+     "you": "bus"
+    },
+    {
+     "s": "Then another prison.",
+     "v": "bus"
+    },
+    {
+     "s": "Staff say it's designed as a two-year process.",
+     "v": "block",
+     "st": [
+      "2 YEARS",
+      "step-down, by design"
+     ]
+    },
+    {
+     "s": "For the men who never finish it,",
+     "v": "window",
+     "you": "window"
+    },
+    {
+     "s": "the sky through that four-inch window is the view for years.",
+     "v": "sky"
+    },
+    {
+     "s": "Could you last a week in that room?",
+     "v": "cell",
+     "you": "cell"
+    }
+   ],
+   "card": [
+    "THE WAY OUT",
+    "STEP-DOWN"
+   ],
+   "gain": 1.12
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "total": 36.739,
+ "segs": [
+  {
+   "type": "shot",
+   "ch": 0,
+   "i": 0,
+   "start": 0.0,
+   "speech": 2.979,
+   "dur": 3.299
+  },
+  {
+   "type": "shot",
+   "ch": 0,
+   "i": 1,
+   "start": 3.299,
+   "speech": 3.006,
+   "dur": 3.326
+  },
+  {
+   "type": "shot",
+   "ch": 0,
+   "i": 2,
+   "start": 6.625,
+   "speech": 3.215,
+   "dur": 3.535
+  },
+  {
+   "type": "shot",
+   "ch": 0,
+   "i": 3,
+   "start": 10.16,
+   "speech": 2.874,
+   "dur": 3.014
+  },
+  {
+   "type": "shot",
+   "ch": 0,
+   "i": 4,
+   "start": 13.174,
+   "speech": 1.722,
+   "dur": 1.862
+  },
+  {
+   "type": "shot",
+   "ch": 0,
+   "i": 5,
+   "start": 15.036,
+   "speech": 1.999,
+   "dur": 2.319
+  },
+  {
+   "type": "shot",
+   "ch": 0,
+   "i": 6,
+   "start": 17.355,
+   "speech": 3.854,
+   "dur": 4.174
+  },
+  {
+   "type": "shot",
+   "ch": 0,
+   "i": 7,
+   "start": 21.529,
+   "speech": 4.545,
+   "dur": 4.865
+  },
+  {
+   "type": "shot",
+   "ch": 0,
+   "i": 8,
+   "start": 26.395,
+   "speech": 2.213,
+   "dur": 2.533
+  },
+  {
+   "type": "shot",
+   "ch": 0,
+   "i": 9,
+   "start": 28.928,
+   "speech": 3.334,
+   "dur": 3.654
+  },
+  {
+   "type": "shot",
+   "ch": 0,
+   "i": 10,
+   "start": 32.582,
+   "speech": 1.659,
+   "dur": 1.979
+  },
+  {
+   "type": "shot",
+   "ch": 0,
+   "i": 11,
+   "start": 34.56,
+   "speech": 1.829,
+   "dur": 2.179
+  }
+ ]
+}

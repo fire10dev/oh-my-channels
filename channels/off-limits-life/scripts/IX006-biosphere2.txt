@@ -1,0 +1,147 @@
+!title How You Eat, Breathe & Sleep Sealed Inside Biosphere 2 for 2 Years
+!asof Figures from 1991–1994 records · sources in description
+## hook | | DAY 1 | SEP 26, 1991 | day | 1.12
+Eight people just walked into a glass box. :: v=wide
+Then the door was sealed behind them. :: v=airlock plane=shut
+The plan? Stay inside for two years. :: v=glass st=2_YEARS;sealed_in_·_1991–1993
+No food from outside. :: v=farm
+No water delivered. :: v=ocean
+Not even fresh air. :: v=lung
+You're one of the eight. :: v=airlock you=airlock
+Within months, you'll be hungry. :: v=kitchen you=kitchen
+And the air itself starts to run out. :: v=gauge plane=o2:14.5
+So how do you eat, :: v=crops you=crops
+breathe, :: v=lung you=lung
+and sleep, :: v=berth you=berth
+inside a sealed world? :: v=wide
+## sealed | DAY 1 / THE DOOR CLOSES | DAY 1 | SEP 26, 1991 | day | 0.0
+This is Biosphere 2. :: v=wide
+It sits in the Arizona desert, north of Tucson. :: v=sky
+It covers about three acres. :: v=glass st=~3_acres;under_glass_·_1991
+There are around sixty-five hundred windows. :: v=glass
+Under the glass, there's a rainforest, :: v=rainforest
+an ocean with a coral reef, :: v=coral
+a marsh, a savanna, and a desert. :: v=savanna
+About thirty-eight hundred species went in with you. :: v=desert st=3,800;species_·_History.com
+It cost about a hundred and fifty million dollars. :: v=glass st=$150M;to_build_·_1991
+Under the floor, a steel liner seals it from the ground. :: v=concrete
+Below that is a basement full of machines. :: v=tech
+Pumps, fans and pipes keep it all alive. :: v=tech
+If the power fails on a sunny day, :: v=sky
+it can overheat within about twenty minutes. :: v=glass st=~20_min;to_dangerous_heat_·_Biosphere_2
+On each side sits a giant lung. :: v=lung
+When the air heats up, it expands. :: v=lung
+The lung's roof rises, so the glass doesn't burst. :: v=lungw
+Then there's the farm. :: v=farm
+And the little tower where you live. :: v=habitat
+The record for living sealed like this? :: v=airlock
+Six months, in Siberia. :: d={"type":"big","big":"6 MONTHS","small":"previous sealed-system record · Siberia"}
+You're going for two years. :: v=airlock you=airlock plane=shut
+## crack | DAY 12 / THE FIRST CRACK | DAY 12 | OCT 1991 | day | 0.56
+Two weeks in, something goes wrong. :: v=farm
+A crew member is running a rice machine. :: v=crops
+It cuts off the tip of her finger. :: v=crops st=DAY_~14;fingertip_injury_·_1991
+The crew's doctor tries to fix it inside. :: v=lab
+It's not enough. :: v=lab you=lab
+So the door opens. :: v=airlock plane=open
+She leaves for surgery. :: v=sky
+A few hours later, she walks back in. :: v=airlock plane=open
+And she carries a bag with her. :: v=airlock plane=shut
+She later said it held a plant and a computer part. :: v=comms
+Reporters only find out months later. :: v=comms you=comms
+And it's not the only time the door opens. :: v=airlock plane=open
+Seeds, vitamins, even mousetraps come in. :: d={"type":"note","title":"WHAT CAME IN","lines":["seeds","vitamins","mousetraps"],"stamp":"History.com"}
+So how sealed is it, really? :: v=glass
+## food | PROBLEM 1 / FOOD | DAY 60 | NOV 1991 | day | 0.0
+Rule number one: you eat what you grow. :: v=farm
+The farm is about half an acre. :: v=farm st=½_acre;to_feed_8_people
+Eight people live off it. :: v=crops
+You work it every single day. :: v=crops you=crops
+There are goats for milk, :: v=goats
+chickens and pigs, :: v=goats you=goats
+and tilapia fish in tanks. :: v=fish
+But mostly, you eat plants. :: v=crops
+Sweet potatoes. A lot of sweet potatoes. :: v=kitchen you=kitchen
+One crew member eats so many, :: v=kitchen
+her skin turns orange. :: v=kitchen st=ORANGE;skin_from_sweet_potatoes
+Coffee grows in the rainforest. :: v=coffee
+There's enough for one cup every few weeks. :: v=coffee you=coffee
+In the first six months, you average about seventeen hundred and eighty calories a day. :: d={"type":"big","big":"1,780","small":"calories a day, average · PNAS, 1992"}
+That's while doing hard farm work. :: v=crops you=crops
+So you're hungry. All the time. :: v=berth you=berth
+Plates get licked clean. :: v=kitchen
+The men drop from about seventy-four kilos to sixty-two. :: d={"type":"compare","left":["BEFORE","74 kg","men, average"],"right":["6 MONTHS IN","62 kg","men, average"],"note":"PNAS, 1992"}
+The women, from sixty-one to fifty-four. :: v=kitchen st=61→54_kg;women,_average_·_PNAS_1992
+The crew's doctor sees an upside. :: v=lab
+He studies diets that cut calories. :: v=lab
+Cholesterol drops by about a third. :: v=lab you=lab st=−36%;cholesterol_·_PNAS_1992
+Blood pressure drops too. :: v=lab
+Over two years, the crew loses about seventeen percent of their weight. :: d={"type":"big","big":"−17%","small":"body weight over 2 years · J Gerontol, 2002"}
+Most of it in the first eight months. :: v=farm
+## bugs | PROBLEM 2 / THE BUGS WIN | DAY 300 | JUL 1992 | day | -1.4
+The glass was meant to hold a balanced world. :: v=glass
+It doesn't stay balanced. :: v=rainforest
+The hummingbirds die. :: v=birds
+The honeybees die. :: v=farm
+Most of the pollinating insects are gone. :: v=crops
+Algae creeps over the coral reef. :: v=coral
+But two things thrive. :: v=savanna plane=bugs
+Ants. :: v=ants plane=bugs
+And cockroaches. :: v=kitchen plane=bugs
+Soon they're everywhere. :: v=farm plane=bugs
+## air | PROBLEM 3 / AIR | DAY 480 | JAN 1993 | day | -2.1
+Outside, air is about twenty-one percent oxygen. :: v=gauge plane=o2:20.9
+Inside, that number starts falling. :: v=gauge plane=o2:18.0
+Slowly. Month after month. :: d={"type":"flow","steps":["SEP 1991: 20.9%","16 MONTHS","~14.5%"],"note":"oxygen inside Biosphere 2"}
+In 1992, a solar eclipse dims the sun. :: v=sky plane=eclipse
+The plants slow down, and the oxygen dips even faster. :: v=gauge plane=o2:16.5 tod=dusk
+By early 1993, it's down to about fourteen and a half. :: v=gauge plane=o2:14.5
+That's like living high on a mountain. :: v=sky
+Around fourteen or fifteen thousand feet up. :: v=sky st=~15,000_ft;how_the_air_felt
+But you're in a desert, at under four thousand feet. :: v=wide
+You're tired all the time. :: v=berth you=berth
+Climbing stairs leaves you out of breath. :: v=habitat
+For months, some of you can't sleep properly. :: v=berth
+Your breathing keeps stopping at night. :: v=berth you=berth st=SLEEP_APNEA;Mental_Floss,_2016
+Safety rules call anything under nineteen and a half percent oxygen-deficient. :: d={"type":"big","big":"19.5%","small":"below this = oxygen-deficient (OSHA)"}
+You're far below that. :: v=gauge plane=o2:14.5 you=gauge
+## mystery | MYSTERY / WHERE DID THE AIR GO? | DAY 480 | JAN 1993 | day | 0.56
+So where is the oxygen going? :: v=gauge plane=o2:14.5
+If something's using it up, :: v=tech
+carbon dioxide should pile up. :: v=tech
+It doesn't. :: v=concrete
+Scientists later find two culprits. :: v=lab
+First, the rich farm soil. :: v=farm
+Microbes in the soil eat oxygen, :: v=crops
+and breathe out carbon dioxide. :: v=crops
+Second, the concrete. :: v=concrete
+Bare concrete soaks up that carbon dioxide. :: v=concrete
+So the evidence vanishes into the walls. :: d={"type":"flow","steps":["SOIL MICROBES","EAT OXYGEN","MAKE CO2","CONCRETE SOAKS IT UP"],"note":"Severinghaus et al., 1994"}
+In 1993, oxygen is pumped in from outside. :: v=truck plane=pump
+You can breathe easy again. :: v=kitchen you=kitchen
+Critics say that breaks the whole idea of a sealed world. :: v=glass
+## people | PROBLEM 4 / EACH OTHER | DAY 600 | MAY 1993 | day | -1.4
+Hungry. Tired. Low on air. :: v=habitat
+Eight people, one small tower. :: v=habitat you=kitchen
+And no way out. :: v=airlock plane=shut
+The crew splits into two groups. :: v=comms
+Some barely talk to each other. :: v=kitchen
+But the work still gets done. :: v=lab you=lab
+You keep farming. :: v=crops you=crops
+You keep measuring. :: v=lab
+One crew member later said the split never stopped the research. :: v=comms
+You can email the outside world. :: v=comms you=comms
+But nobody can come in to help. :: v=airlock
+## out | DAY 732 / THE DOOR OPENS | DAY 732 | SEP 26, 1993 | dawn | 1.12
+September twenty-sixth, 1993. :: v=airlock plane=open
+Two years and twenty minutes after it closed, :: v=airlock plane=open you=airlock
+the door opens. :: v=wide plane=open
+You walk out thinner, :: v=farm
+but alive, and all eight of you made it. :: v=glass st=8_OF_8;crew_finish_·_1993
+Was it a failure? :: v=wide
+It showed how hard it is to build a world that works. :: v=rainforest
+A second crew goes in, in 1994. :: v=glass st=1994;second_mission,_7_people
+It ends after about six months, amid lawsuits. :: v=airlock
+Since 2011, the University of Arizona has owned Biosphere 2. :: v=wide st=2011;University_of_Arizona_takes_over
+As of 2026, it's still used for research. :: v=lab
+So, could you have lasted two years in there? :: v=airlock you=airlock

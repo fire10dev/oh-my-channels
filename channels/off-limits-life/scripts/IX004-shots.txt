@@ -1,0 +1,111 @@
+!title How Oil Rig Workers Eat, Shower & Sleep in the North Sea
+!asof Figures as of 2026 · sources in description
+## hook | | DAY 1 | 06:40 | dawn | 1.12
+You're about to fly to a steel island in the North Sea. :: v=heli plane=fly
+No roads. :: v=sea
+No shops. :: v=rig
+For the next two weeks, :: v=helideck plane=land you=helideck
+you'll work twelve hours a day. :: v=drill you=drill
+Every day. :: d={"type":"big","big":"12 h","small":"a typical offshore shift · HSE, 2025"}
+You'll sleep in a cabin you may share. :: v=cabin you=cabin
+And the only way home is a helicopter. :: v=helideck plane=land
+So how do you eat, :: v=galley you=galley
+shower, :: v=shower you=shower
+and sleep, :: v=bunk you=bunk
+on an oil rig? :: v=wide
+## flight | DAY 1 / THE FLIGHT OUT | DAY 1 | 07:00 | dawn | 0.0
+First, you have to get there. :: v=sky plane=fly
+Almost everyone flies out by helicopter. :: v=heli plane=fly
+Before you're allowed on board, :: v=heli
+you train for the worst. :: v=pool you=pool
+It's called HUET. :: v=pool st=HUET;helicopter_underwater_escape_training
+A mock helicopter cabin is dropped into a pool, :: v=pool you=pool
+and rolled upside down. :: v=pool plane=flip
+You practice getting out, :: v=pool plane=flip you=pool
+underwater, in the dark. :: v=pool plane=flip
+OPITO says it's required for everyone flying offshore by helicopter. :: v=heli st=REQUIRED;OPITO,_2024
+Then there's your size. :: v=heli
+Since 2014, wide-shouldered passengers get a label. :: v=heli
+Shoulders twenty-two inches or more? Extra-broad. :: d={"type":"big","big":"22 in","small":"shoulder width = extra-broad (XBR) · since 2014"}
+They have to sit next to the bigger windows, :: v=heli plane=fly
+so they can still squeeze out in a survival suit. :: v=heli you=heli
+## sleep | PROBLEM 1 / SLEEP | DAY 1 | 19:00 | night | -1.4
+Your cabin. :: v=cabin
+Two bunks, a desk, lockers. :: v=cabin
+Bathroom shared with the cabin next door. :: v=shower
+On many rigs, you share the cabin. :: v=cabin you=cabin
+Often with someone on the opposite shift. :: v=bunk
+You work days. Your cabin mate works nights. :: v=cabin2 plane=night
+So one of you is usually at work. :: v=bunk you=bunk
+Britain's regulator updated its guidance in May 2026. :: v=office st=ON82;HSE_guidance,_May_2026
+A cabin smaller than nine square meters normally isn't big enough for two. :: d={"type":"big","big":"9 m²","small":"minimum for a two-person cabin · HSE, 2026"}
+Some rigs squeeze a third person into a cabin over twenty-four hours. :: v=cabin2
+The rule: never more than two in it at once. :: v=cabin you=cabin
+And each of them gets their own bed. :: v=bunk
+In Norway, Ekofisk went further. :: v=rig
+Since 2008, every cabin there is single. :: v=cabin st=2008;Ekofisk:_single_cabins
+## water | PROBLEM 2 / WATER | DAY 3 | 06:00 | day | 0.0
+You're surrounded by seawater. :: v=sea
+You can't drink a drop of it. :: v=shower
+So many rigs make their own. :: v=water
+Machines push seawater through filters, :: v=water plane=pump
+and strip out the salt. :: v=water plane=pump
+That's your drinking water, and your shower. :: v=shower you=shower
+Other rigs get their water by boat. :: v=boat plane=supply
+A supply vessel pumps it into the tanks. :: v=boat plane=supply
+## food | PROBLEM 3 / FOOD | DAY 4 | 18:00 | day | 0.56
+Then there's the galley. :: v=galley
+A rig never stops, so neither does the kitchen. :: v=galley you=galley
+There's a cook for days, :: v=galley
+and a night cook who makes breakfast. :: v=galley plane=night
+Your meals are made for you. :: v=mess you=mess
+Your cabin is cleaned for you. :: v=cabin
+Your work clothes are washed overnight. :: v=laundry plane=night
+The food is a famous problem. :: v=mess
+From 1985 to 2014, :: v=mess
+the average offshore man got about twenty percent heavier. :: d={"type":"big","big":"+20%","small":"average weight, offshore men · 1985–2014"}
+So most big rigs have a gym. :: v=gym you=gym
+## work | PROBLEM 4 / THE SHIFT | DAY 7 | 03:00 | night | -2.1
+Now, the work. :: v=drill
+Twelve hours on. :: v=drill you=drill
+Twelve hours off. :: v=bunk you=bunk
+Day after day, in wind and rain. :: v=deck you=deck plane=storm
+In 2025, Britain's offshore crews logged about four million days. :: d={"type":"big","big":"4.0 M","small":"days offshore in 2025 · HSE"}
+That's about twenty-four thousand full-time workers. :: v=rig st=~24,000;full-time_workers_·_HSE_2025
+Many work two weeks on, :: v=drill you=drill
+then two or three weeks at home. :: d={"type":"compare","left":["ON THE RIG","2 weeks","12-hour shifts"],"right":["AT HOME","2–3 weeks","off"],"note":"common North Sea rotas"}
+Some drill crews do three on, three off. :: v=derrick
+## life | OFF SHIFT / LIFE ON BOARD | DAY 9 | 20:00 | night | 0.84
+So what do you do with twelve hours off? :: v=cinema
+Sleep, mostly. :: v=bunk you=bunk
+Modern rigs often have a gym, a games room, even a cinema. :: v=cinema you=cinema
+Most have Wi-Fi now. :: v=office you=office
+But mobile phones are often banned. :: v=deck
+On Norwegian platforms, alcohol has always been banned. :: v=mess st=NO_ALCOHOL;Norwegian_platforms
+## weather | PROBLEM 5 / THE WEATHER | DAY 14 | 07:00 | day | -1.4
+Day fourteen. Your helicopter is due. :: v=helideck
+But the North Sea gets a vote. :: v=sea plane=storm
+In January 2014, gales blew for about three weeks. :: v=rig plane=storm
+Seas reached twelve meters. :: v=sea plane=storm st=12_m;waves,_Jan_2014
+Hundreds of workers were trapped offshore. :: v=mess plane=storm
+Even the boats couldn't come. :: v=boat plane=storm
+So you wait. :: v=bunk you=bunk
+## danger | PROBLEM 6 / DANGER | DAY 14 | 21:55 | night | -1.4
+Everyone out here knows one date. :: v=rig plane=night
+July sixth, 1988. :: v=flare plane=night
+The Piper Alpha platform exploded and burned. :: v=flare plane=fire
+A hundred and sixty-seven men died. :: d={"type":"big","big":"167","small":"died · Piper Alpha, 6 July 1988"}
+Sixty-one survived. :: v=sea plane=night
+The inquiry made a hundred and six recommendations. :: v=office st=106;Cullen_recommendations
+Since then, every UK platform needs a safety case accepted by the regulator. :: v=office you=office
+That's why you train. :: v=muster you=muster
+That's why there are lifeboats. :: v=lifeboat
+## home | DAY 15 / GOING HOME | DAY 15 | 09:00 | day | 0.84
+Then the wind drops. :: v=sky
+You hear rotors. :: v=heli plane=land
+Your relief steps off. :: v=helideck plane=land you=helideck
+You step on. :: v=heli plane=fly you=heli
+Two weeks at home. :: v=wide
+Then you fly back out. :: v=heli plane=fly
+So, could you live on a steel island in the North Sea? :: v=rig
+Off Limits Life. :: d={"type":"brand","tag":"How people live where you can't go"}

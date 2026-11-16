@@ -1,0 +1,442 @@
+{
+ "title": "How Crews Eat, Work & Hide Inside America's Nuclear Mountain Bunker",
+ "asof": "Figures from US Air Force, Space Force & NORAD articles · sources in description",
+ "world": "mountain",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "06:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "There's a town inside this mountain.",
+     "v": "wide"
+    },
+    {
+     "s": "Fifteen buildings, hidden under granite.",
+     "v": "cave"
+    },
+    {
+     "s": "Every one of them sits on giant steel springs.",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "The front door weighs twenty-five tons.",
+     "v": "door",
+     "st": [
+      "25 TONS",
+      "blast door"
+     ]
+    },
+    {
+     "s": "It was built to survive a nuclear war.",
+     "v": "mountain"
+    },
+    {
+     "s": "So how do the people inside eat,",
+     "v": "dining",
+     "you": "dining"
+    },
+    {
+     "s": "work,",
+     "v": "command",
+     "you": "command"
+    },
+    {
+     "s": "and stay sane,",
+     "v": "tunnel",
+     "you": "tunnel"
+    },
+    {
+     "s": "inside Cheyenne Mountain?",
+     "v": "wide"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "mountain",
+   "hud": "DAY 1",
+   "chip": "07:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "This is Cheyenne Mountain, outside Colorado Springs.",
+     "v": "mountain"
+    },
+    {
+     "s": "In the 1960s, the US blasted a complex into the rock.",
+     "v": "cave"
+    },
+    {
+     "s": "It opened in 1966.",
+     "v": "cave",
+     "st": [
+      "1966",
+      "operations begin"
+     ]
+    },
+    {
+     "s": "NORAD's command center was fully running by early 1967.",
+     "v": "command"
+    },
+    {
+     "s": "NORAD is run by the United States and Canada together.",
+     "v": "command"
+    },
+    {
+     "s": "So Canadian troops stand watch in here too.",
+     "v": "command",
+     "you": "command"
+    },
+    {
+     "s": "The job: spot bombers and missiles heading for North America.",
+     "v": "radar"
+    },
+    {
+     "s": "In the Cold War, this was the place that would sound the alarm first.",
+     "v": "command",
+     "plane": "alarm"
+    },
+    {
+     "s": "The complex covers about five acres.",
+     "v": "wide",
+     "st": [
+      "5.1 ACRES",
+      "under 1,800 ft of rock"
+     ]
+    },
+    {
+     "s": "On top: about eighteen hundred feet of granite.",
+     "v": "mountain"
+    },
+    {
+     "s": "Today it's a Space Force station.",
+     "v": "gate"
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "THE MOUNTAIN"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "in",
+   "hud": "DAY 1",
+   "chip": "07:30",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "You drive up the mountain road to a tunnel entrance.",
+     "v": "gate",
+     "you": "gate"
+    },
+    {
+     "s": "Then you walk into the tunnel.",
+     "v": "tunnel",
+     "you": "tunnel"
+    },
+    {
+     "s": "A long way into the rock, you reach the blast doors.",
+     "v": "door"
+    },
+    {
+     "s": "One Air Force article puts them at three and a half feet thick,",
+     "v": "door",
+     "plane": "door:open"
+    },
+    {
+     "s": "and twenty-five tons each.",
+     "v": "door",
+     "plane": "door:open",
+     "st": [
+      "25 TONS",
+      "each door"
+     ]
+    },
+    {
+     "s": "Hydraulics can close them in under a minute.",
+     "v": "door",
+     "plane": "door:shut"
+    },
+    {
+     "s": "Behind them: a cave with buildings inside.",
+     "v": "cave"
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "GOING IN"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "springs",
+   "hud": "DAY 1",
+   "chip": "09:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Here's the strange part.",
+     "v": "springs"
+    },
+    {
+     "s": "The buildings don't touch the rock.",
+     "v": "springs"
+    },
+    {
+     "s": "They stand about eighteen inches from the cave walls.",
+     "v": "gap",
+     "st": [
+      "18 IN",
+      "from the rock"
+     ]
+    },
+    {
+     "s": "And they sit on more than thirteen hundred steel springs.",
+     "v": "springs",
+     "st": [
+      "1,300+",
+      "springs"
+     ]
+    },
+    {
+     "s": "Each spring weighs over a thousand pounds.",
+     "v": "spring"
+    },
+    {
+     "s": "If a blast or an earthquake shakes the mountain,",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "the buildings bounce, instead of breaking.",
+     "v": "springs",
+     "plane": "shake"
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "THE SHAKE"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "work",
+   "hud": "DAY 1",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Inside, crews watch the skies over North America.",
+     "v": "command",
+     "you": "command"
+    },
+    {
+     "s": "Watch crews work twelve-hour shifts.",
+     "v": "command",
+     "st": [
+      "12 HRS",
+      "per shift"
+     ]
+    },
+    {
+     "s": "There are no windows.",
+     "v": "hall"
+    },
+    {
+     "s": "One guard described working a whole shift without seeing the sun.",
+     "v": "tunnel",
+     "you": "tunnel"
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "THE WATCH"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "food",
+   "hud": "DAY 1",
+   "chip": "13:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "So the mountain has what a small town needs.",
+     "v": "cave"
+    },
+    {
+     "s": "A dining facility.",
+     "v": "dining",
+     "you": "dining"
+    },
+    {
+     "s": "A medical clinic.",
+     "v": "clinic"
+    },
+    {
+     "s": "Fitness centers.",
+     "v": "gym",
+     "you": "gym"
+    },
+    {
+     "s": "A small store, a chapel, and a barber shop.",
+     "v": "hall"
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "FOOD"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "water",
+   "hud": "DAY 1",
+   "chip": "15:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "If the doors close for real, the mountain runs on its own.",
+     "v": "door",
+     "plane": "door:shut"
+    },
+    {
+     "s": "Underground reservoirs are carved into the rock.",
+     "v": "reservoir"
+    },
+    {
+     "s": "One for drinking water.",
+     "v": "reservoir"
+    },
+    {
+     "s": "One for industrial water.",
+     "v": "reservoir"
+    },
+    {
+     "s": "One for diesel fuel.",
+     "v": "power"
+    },
+    {
+     "s": "Together, more than four and a half million gallons.",
+     "v": "reservoir",
+     "st": [
+      "4.5M GAL",
+      "stored in the rock"
+     ]
+    },
+    {
+     "s": "Diesel generators can power the whole complex.",
+     "v": "power"
+    },
+    {
+     "s": "The Air Force practices this. It calls it a button-up.",
+     "v": "door",
+     "plane": "door:shut"
+    }
+   ],
+   "card": [
+    "PROBLEM 4",
+    "WATER & POWER"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "covid",
+   "hud": "DAY 30",
+   "chip": "MAR 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Most days, nobody sleeps here.",
+     "v": "hall"
+    },
+    {
+     "s": "Crews go home after their shift.",
+     "v": "gate"
+    },
+    {
+     "s": "But in 2020, COVID changed that.",
+     "v": "gate"
+    },
+    {
+     "s": "NORAD and Northern Command moved critical crews into the mountain.",
+     "v": "tunnel",
+     "you": "tunnel"
+    },
+    {
+     "s": "They isolated first, then got tested,",
+     "v": "clinic"
+    },
+    {
+     "s": "then worked inside for weeks.",
+     "v": "command",
+     "you": "command"
+    },
+    {
+     "s": "About a hundred and thirty people stood twelve-hour watches.",
+     "v": "command",
+     "st": [
+      "~130",
+      "people on watch · 2020"
+     ]
+    },
+    {
+     "s": "Between shifts, they lived apart from everyone else.",
+     "v": "dining",
+     "you": "dining"
+    }
+   ],
+   "card": [
+    "PROBLEM 5",
+    "SEALED IN"
+   ],
+   "gain": -2.1
+  },
+  {
+   "id": "today",
+   "hud": "DAY 60",
+   "chip": "09:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "The main command center later moved to a base nearby.",
+     "v": "mountain"
+    },
+    {
+     "s": "But Cheyenne Mountain still stands by as the backup.",
+     "v": "command"
+    },
+    {
+     "s": "The springs are still there.",
+     "v": "springs"
+    },
+    {
+     "s": "So are the twenty-five-ton doors.",
+     "v": "door",
+     "plane": "door:shut"
+    },
+    {
+     "s": "Waiting for a day nobody wants.",
+     "v": "mountain",
+     "tod": "dusk"
+    },
+    {
+     "s": "Could you work a whole shift without seeing the sun?",
+     "v": "tunnel",
+     "you": "tunnel"
+    }
+   ],
+   "card": [
+    "TODAY",
+    "STILL ON WATCH"
+   ],
+   "gain": 1.12
+  }
+ ],
+ "gain_scale": "1.2"
+}

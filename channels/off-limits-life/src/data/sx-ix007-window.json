@@ -1,0 +1,84 @@
+{
+ "title": "The 4-Inch Window at America's Only Federal Supermax",
+ "hook": "A 4-INCH WINDOW",
+ "asof": "Figures from the 2018 DC CIC inspection · full video on the channel",
+ "world": "supermax",
+ "long": "IX007",
+ "chapters": [
+  {
+   "id": "window",
+   "hud": "DAY 1",
+   "chip": "11:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "This is the only window you get for years.",
+     "v": "window",
+     "you": "window"
+    },
+    {
+     "s": "It's in a cell at ADX Florence, in Colorado.",
+     "v": "wide"
+    },
+    {
+     "s": "America's only federal supermax.",
+     "v": "fence"
+    },
+    {
+     "s": "The window is about forty-two inches tall,",
+     "v": "window"
+    },
+    {
+     "s": "and four inches wide.",
+     "v": "window",
+     "st": [
+      "4 INCHES",
+      "wide · CIC 2018"
+     ]
+    },
+    {
+     "s": "It's angled on purpose.",
+     "v": "window",
+     "you": "window"
+    },
+    {
+     "s": "You can only see the sky.",
+     "v": "sky"
+    },
+    {
+     "s": "Not the ground. Not the mountains outside.",
+     "v": "mountains"
+    },
+    {
+     "s": "The cell is seven by twelve feet.",
+     "v": "cell",
+     "you": "cell",
+     "st": [
+      "7×12 FT",
+      "the whole cell"
+     ]
+    },
+    {
+     "s": "The bed, desk and stool are poured concrete.",
+     "v": "desk",
+     "you": "desk"
+    },
+    {
+     "s": "Most men spend at least twenty-two hours a day inside.",
+     "v": "cell",
+     "you": "cell",
+     "plane": "dark"
+    },
+    {
+     "s": "So that strip of sky is the outside world.",
+     "v": "sky"
+    },
+    {
+     "s": "Could you live with a four-inch view?",
+     "v": "window",
+     "you": "window"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,545 @@
+{
+ "title": "How B-2 Pilots Eat, Sleep & Go to the Bathroom on a 44-Hour Mission",
+ "asof": "Figures from the 2001 and 2025 missions · sources in description",
+ "world": "bomber",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "HOUR 0",
+   "chip": "18:00",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "Two pilots. One seat each.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "And no one to take over for forty-four hours.",
+     "v": "sky",
+     "st": [
+      "44.3 HRS",
+      "nonstop · Oct 2001"
+     ]
+    },
+    {
+     "s": "The cabin is about the size of a closet.",
+     "v": "cockpit",
+     "you": "seats"
+    },
+    {
+     "s": "There's a tiny toilet in the back.",
+     "v": "toilet"
+    },
+    {
+     "s": "A cot on the floor.",
+     "v": "cot",
+     "plane": "sleep"
+    },
+    {
+     "s": "And you're flying halfway around the world, and back.",
+     "v": "sky"
+    },
+    {
+     "s": "So how do you eat,",
+     "v": "food",
+     "you": "food"
+    },
+    {
+     "s": "sleep,",
+     "v": "cot",
+     "you": "cot"
+    },
+    {
+     "s": "and go to the bathroom,",
+     "v": "packs",
+     "plane": "packs:12"
+    },
+    {
+     "s": "inside a B-2 bomber?",
+     "v": "wide"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "jet",
+   "hud": "HOUR 0",
+   "chip": "18:00",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "This is the B-2 Spirit.",
+     "v": "sky"
+    },
+    {
+     "s": "It's a flying wing, about fifty-two meters across.",
+     "v": "wide",
+     "st": [
+      "52 M",
+      "wingspan"
+     ]
+    },
+    {
+     "s": "It was built to slip past radar.",
+     "v": "ocean"
+    },
+    {
+     "s": "Only twenty-one were ever built.",
+     "v": "hangar",
+     "st": [
+      "21",
+      "built · ~$2B each"
+     ]
+    },
+    {
+     "s": "They all fly from one base, Whiteman, in Missouri.",
+     "v": "base",
+     "you": "base"
+    },
+    {
+     "s": "The jet was designed for a crew of up to three.",
+     "v": "cockpit"
+    },
+    {
+     "s": "It flies with two pilots.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "One of them is also the mission commander.",
+     "v": "seats"
+    },
+    {
+     "s": "With air refueling, the jet can keep going.",
+     "v": "tanker",
+     "plane": "refuel"
+    },
+    {
+     "s": "The limit isn't fuel.",
+     "v": "boom",
+     "plane": "refuel"
+    },
+    {
+     "s": "The limit is the two people inside.",
+     "v": "seats",
+     "you": "seats"
+    }
+   ],
+   "card": [
+    "THE JET",
+    "A FLYING WING"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "record",
+   "hud": "HOUR 0",
+   "chip": "OCT 7, 2001",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "October 2001.",
+     "v": "runway"
+    },
+    {
+     "s": "Two pilots, Mel Deaile and Brian Neal, take off from Missouri.",
+     "v": "hangar",
+     "you": "base"
+    },
+    {
+     "s": "Their target is in Afghanistan.",
+     "v": "ocean"
+    },
+    {
+     "s": "They fly west, across the Pacific.",
+     "v": "ocean"
+    },
+    {
+     "s": "Their mission lasts forty-four point three hours.",
+     "v": "clock",
+     "st": [
+      "44.3 HRS",
+      "longest B-2 combat sortie"
+     ]
+    },
+    {
+     "s": "One of them later said:",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "there is no preparation, no simulator, for a forty-four-hour mission.",
+     "v": "ocean"
+    }
+   ],
+   "card": [
+    "THE RECORD",
+    "OCTOBER 7, 2001"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "sleep",
+   "hud": "HOUR 9",
+   "chip": "03:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "The only bed is behind the seats.",
+     "v": "cot"
+    },
+    {
+     "s": "On that 2001 flight, it was a modified Army cot.",
+     "v": "cockpit",
+     "plane": "sleep"
+    },
+    {
+     "s": "And a sleeping bag.",
+     "v": "cot",
+     "you": "cot"
+    },
+    {
+     "s": "Today, the Air Force says, pilots can nap on a metal surface back there.",
+     "v": "window"
+    },
+    {
+     "s": "And it isn't comfortable.",
+     "v": "cot",
+     "you": "cot",
+     "plane": "sleep"
+    },
+    {
+     "s": "One pilot sleeps while the other flies.",
+     "v": "seats",
+     "you": "seats",
+     "plane": "sleep"
+    },
+    {
+     "s": "But both must be in their seats for the hard parts.",
+     "v": "tanker",
+     "tod": "night"
+    },
+    {
+     "s": "Deaile said it wasn't high-quality sleep.",
+     "v": "sky",
+     "tod": "night"
+    },
+    {
+     "s": "But at that point, any sleep is good sleep.",
+     "v": "cot",
+     "you": "cot",
+     "plane": "sleep"
+    },
+    {
+     "s": "Before a mission, pilots work with an aerospace physiologist.",
+     "v": "physio",
+     "you": "physio"
+    },
+    {
+     "s": "For days, they shift their sleep to match the flight.",
+     "v": "physio",
+     "you": "physio"
+    },
+    {
+     "s": "On earlier missions, pilots also took go pills, to stay awake.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "Deaile said they speed up your heart.",
+     "v": "clock"
+    },
+    {
+     "s": "It is not a fun feeling.",
+     "v": "seats",
+     "you": "seats"
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "SLEEP"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "fuel",
+   "hud": "HOUR 12",
+   "chip": "06:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "The B-2 can't land to refuel.",
+     "v": "sky"
+    },
+    {
+     "s": "So it meets tankers in the air.",
+     "v": "ocean"
+    },
+    {
+     "s": "A boom reaches down from the tanker,",
+     "v": "boom"
+    },
+    {
+     "s": "and plugs into the top of the jet.",
+     "v": "boom",
+     "plane": "refuel"
+    },
+    {
+     "s": "Each connection takes about thirty minutes of total focus.",
+     "v": "window",
+     "plane": "refuel",
+     "st": [
+      "~30 MIN",
+      "per refueling"
+     ]
+    },
+    {
+     "s": "Pilots describe finishing drenched in sweat.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "In the dark, in clouds or turbulence, it's even harder.",
+     "v": "tanker",
+     "plane": "storm",
+     "tod": "night"
+    },
+    {
+     "s": "Deaile said the mission wasn't about Afghanistan.",
+     "v": "panel"
+    },
+    {
+     "s": "It was about reaching the next tanker on time.",
+     "v": "tanker",
+     "plane": "refuel"
+    },
+    {
+     "s": "Miss one, and the mission is over.",
+     "v": "ocean"
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "THE GAS STATION IN THE SKY"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "food",
+   "hud": "HOUR 18",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "There's no galley.",
+     "v": "cockpit"
+    },
+    {
+     "s": "There is a microwave.",
+     "v": "microwave",
+     "plane": "microwave:on"
+    },
+    {
+     "s": "Pilots bring whatever food they want.",
+     "v": "food",
+     "you": "food"
+    },
+    {
+     "s": "On the 2001 flight: coffee,",
+     "v": "food"
+    },
+    {
+     "s": "sandwiches,",
+     "v": "food",
+     "you": "food"
+    },
+    {
+     "s": "pretzels,",
+     "v": "food"
+    },
+    {
+     "s": "and pre-packed meals made for eating in flight.",
+     "v": "microwave",
+     "plane": "microwave:on"
+    },
+    {
+     "s": "But sitting for that long, nobody gets very hungry.",
+     "v": "window"
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "FOOD"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "water",
+   "hud": "HOUR 24",
+   "chip": "18:00",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "The air up there is extremely dry.",
+     "v": "window"
+    },
+    {
+     "s": "The jet makes its own oxygen from outside air.",
+     "v": "panel"
+    },
+    {
+     "s": "That leaves almost no moisture in the cabin.",
+     "v": "sky"
+    },
+    {
+     "s": "So pilots drink, and drink.",
+     "v": "water",
+     "you": "seats"
+    },
+    {
+     "s": "The Air Force says even so, skin dries out and cracks.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "And all that water has to go somewhere.",
+     "v": "toilet"
+    }
+   ],
+   "card": [
+    "PROBLEM 4",
+    "WATER"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "toilet",
+   "hud": "HOUR 30",
+   "chip": "00:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "The B-2 has one small chemical toilet.",
+     "v": "toilet",
+     "you": "toilet"
+    },
+    {
+     "s": "It couldn't hold forty-four hours' worth.",
+     "v": "toilet"
+    },
+    {
+     "s": "So the crew used piddle packs.",
+     "v": "packs",
+     "plane": "packs:6"
+    },
+    {
+     "s": "Plastic bags with a powder that turns urine into gel.",
+     "v": "packs",
+     "plane": "packs:6"
+    },
+    {
+     "s": "Deaile said they filled about two an hour.",
+     "v": "packs",
+     "plane": "packs:20",
+     "st": [
+      "2 PER HOUR",
+      "piddle packs, 2001"
+     ]
+    },
+    {
+     "s": "Then they did the math.",
+     "v": "packs",
+     "plane": "packs:30"
+    },
+    {
+     "s": "How many pounds of gel would they have to unload?",
+     "v": "packs",
+     "plane": "packs:40"
+    },
+    {
+     "s": "There's no shower.",
+     "v": "ocean",
+     "tod": "night"
+    },
+    {
+     "s": "No change of clothes, either.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "Over the flight suit go a harness, a life vest and a survival vest.",
+     "v": "base",
+     "you": "base"
+    },
+    {
+     "s": "Changing would take too long.",
+     "v": "sky",
+     "tod": "night"
+    }
+   ],
+   "card": [
+    "PROBLEM 5",
+    "THE BATHROOM"
+   ],
+   "gain": -2.1
+  },
+  {
+   "id": "home",
+   "hud": "HOUR 44",
+   "chip": "OCT 9, 2001",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "The 2001 mission ran long.",
+     "v": "clock"
+    },
+    {
+     "s": "Controllers asked them to go back over Afghanistan.",
+     "v": "ocean"
+    },
+    {
+     "s": "Then a plane ahead had an emergency, so they circled.",
+     "v": "island"
+    },
+    {
+     "s": "Finally, they land on Diego Garcia, an island in the Indian Ocean.",
+     "v": "island",
+     "plane": "land"
+    },
+    {
+     "s": "Deaile said they were just glad to be back on solid ground.",
+     "v": "island",
+     "plane": "land"
+    },
+    {
+     "s": "In June 2025, seven B-2s flew about thirty-seven hours to strike Iran.",
+     "v": "sky",
+     "st": [
+      "37 HRS",
+      "June 2025 · 7 jets"
+     ]
+    },
+    {
+     "s": "The second-longest B-2 mission ever.",
+     "v": "hangar"
+    },
+    {
+     "s": "Same two seats. Same tiny toilet.",
+     "v": "cockpit",
+     "you": "seats"
+    },
+    {
+     "s": "Could you stay awake for forty-four hours in a closet?",
+     "v": "seats",
+     "you": "seats"
+    }
+   ],
+   "card": [
+    "HOUR 44",
+    "LANDING"
+   ],
+   "gain": 1.12
+  }
+ ]
+}

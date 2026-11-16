@@ -1,0 +1,91 @@
+!title How Nuclear Missile Officers Eat & Sleep 60 Feet Underground
+!asof Figures from US Air Force & National Park Service, as of 2026 · sources in description
+!world capsule
+!gain_scale 1.2
+## hook | | DAY 1 | 07:00 | dawn | 1.12
+Two officers ride an elevator sixty feet down. :: v=elevator you=elevator
+At the bottom, a blast door weighing eight tons. :: v=door st=8_TONS;blast_door_·_NPS
+Behind it, a capsule the size of a bedroom. :: v=capsule you=capsule
+For the next twenty-four hours, this is their whole world. :: v=capsule plane=door:shut
+Their job: watch over ten nuclear missiles. :: v=console you=console
+So how do you eat, :: v=meal plane=meal
+sleep, :: v=bunk you=bunk
+and stay sane, :: v=wall
+sixty feet underground? :: v=wide
+## field | DAY 1 / THE MISSILE FIELD | DAY 1 | 06:00 | dawn | 0.0
+This is Montana. :: v=prairie
+Open prairie, as far as you can see. :: v=prairie
+Hidden in it, there are Minuteman Three missiles in silos. :: v=silo
+Each one can reach targets more than six thousand miles away. :: v=silo st=6,000+_MI;range_·_US_Air_Force
+The US keeps them on alert at three bases, :: v=prairie
+in Montana, North Dakota and Wyoming. :: v=prairie
+For every ten missiles, :: v=silo
+there's one underground control center. :: v=wide st=10;missiles_per_capsule_·_NPS
+Above it sits a building that looks like a ranch house. :: v=house
+That's the missile alert facility. :: v=house you=house
+## down | DAY 1 / GOING DOWN | DAY 1 | 08:00 | day | 0.56
+You drive out across the prairie. :: v=prairie you=truck
+Before you go, :: v=truck you=truck
+you pick up a cooler of food for the site's kitchen. :: v=house you=house
+Then a small elevator takes you down. :: v=elevator you=elevator
+Sixty feet. :: v=shaft st=60_FT;below_ground_·_Malmstrom
+At the bottom, a steel blast door. :: v=door
+It can only be opened from inside. :: v=door plane=door:shut
+A voice inside shouts "clear." :: v=door
+You shout back, and the door swings open. :: v=door plane=door:open you=door
+Nobody can be in here alone. :: v=capsule
+The Air Force calls it a no-lone zone. :: v=capsule st=NO-LONE_ZONE;always_2_people
+The old crew briefs you face to face. :: v=capsule you=capsule
+Then they leave, and the capsule is yours. :: v=capsule plane=door:shut you=capsule
+## work | THE JOB / 24 HOURS ON ALERT | HOUR 2 | 10:00 | day | 0.0
+The shift is twenty-four hours. :: v=clock st=24_HRS;one_alert
+Checks, logs, verifications, over and over. :: v=console you=console
+You watch the status of your missiles. :: v=console
+You check messages, :: v=console you=console
+and track maintenance teams at the silos. :: v=silo
+If a motion sensor trips at a silo, you send security. :: v=silo plane=alarm
+One officer called it a very repetitive job. :: v=console you=console
+That's the point, he said. :: v=console
+If a launch order ever came, :: v=console plane=alarm
+two people would have to turn two keys. :: v=keys
+They're placed so far apart that one person can't turn both. :: v=keys st=2_KEYS;too_far_for_one_person
+A former missileer described the job :: v=capsule
+as hours and hours of sheer boredom, :: v=clock
+punctuated by seconds of panic. :: v=console plane=alarm
+## food | PROBLEM 1 / FOOD | HOUR 6 | 12:00 | day | -1.4
+There's no kitchen down here. :: v=capsule
+Upstairs, a missile chef cooks for everyone on site. :: v=kitchen
+Security forces, the facility manager, and you. :: v=kitchen
+One chef, working alone, :: v=kitchen you=chef
+for ten to twenty people at a site. :: v=kitchen st=1_CHEF;10–20_people_·_Minot
+You order from a menu before going down. :: v=meal
+Then the chef brings it to you at set times. :: v=meal plane=meal you=capsule
+For a lot of crews, :: v=capsule
+that's the only face they see all day. :: v=meal plane=meal
+## sleep | PROBLEM 2 / SLEEP | HOUR 16 | 02:00 | night | -2.1
+There's one bed. :: v=bunk
+Two people. :: v=capsule
+So you take turns. :: v=bunk you=bunk
+One sleeps, the other stays awake at the console. :: v=console you=console plane=sleep
+There's always someone watching. :: v=console plane=sleep
+A small sleeping area, and the hum of machines. :: v=bunk you=bunk
+And there's a toilet, in a capsule built for two. :: v=toilet
+## alone | PROBLEM 3 / CUT OFF | HOUR 20 | 05:00 | night | 0.0
+No phones. :: v=capsule
+No personal computers. :: v=capsule
+One officer's niece was born while he was on alert. :: v=wall you=capsule
+He didn't find out until later. :: v=wall
+The walls are covered in notes and drawings, :: v=wall
+from crews going back to the 1990s. :: v=wall st=1990s;notes_on_the_walls
+Generations of missileers, :: v=console
+telling the next crew they're not alone. :: v=wall you=capsule
+Some officers pull this shift eight times a month. :: v=clock st=~8×;alerts_a_month_·_2014
+## up | HOUR 24 / BACK TO THE SURFACE | HOUR 24 | 08:00 | day | 1.12
+Morning. The new crew rides down. :: v=elevator
+Face-to-face handover. :: v=capsule you=capsule
+Then the door, the elevator, :: v=door plane=door:open
+and sixty feet up to the prairie. :: v=prairie you=house
+Since 1962, crews have stood this watch. :: v=wide
+The goal isn't to use the missiles, one officer said. :: v=silo
+It's to be so ready that they never have to be tested. :: v=prairie
+Could you spend twenty-four hours in that room? :: v=capsule you=capsule

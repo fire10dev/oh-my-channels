@@ -1,0 +1,119 @@
+{
+ "title": "The South Pole's Drinking Well Becomes Its Toilet",
+ "hook": "YOUR WELL BECOMES YOUR TOILET",
+ "asof": "Figures as of 2026 · full video on the channel",
+ "world": "pole",
+ "long": "IX002",
+ "chapters": [
+  {
+   "id": "well",
+   "hud": "DAY 40",
+   "chip": "MAR 26",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "rodwell",
+     "s": "At the South Pole, your drinking water comes from a hole in the ice."
+    },
+    {
+     "v": "sewer",
+     "fx": "bubbles",
+     "s": "And one day, that hole becomes your toilet."
+    },
+    {
+     "v": "ice",
+     "s": "There's no river."
+    },
+    {
+     "v": "ice",
+     "s": "No lake."
+    },
+    {
+     "v": "sky",
+     "s": "And barely any snow falls."
+    },
+    {
+     "v": "wide",
+     "st": [
+      "1 in",
+      "precipitation / year · NSF"
+     ],
+     "s": "About an inch a year."
+    },
+    {
+     "v": "underground",
+     "s": "So the station makes its own lake."
+    },
+    {
+     "v": "rodwell",
+     "s": "It's called a Rodwell."
+    },
+    {
+     "v": "rodwell",
+     "fx": "bubbles",
+     "s": "Hot water is pumped down a hole in the ice."
+    },
+    {
+     "v": "bulb",
+     "s": "It melts a pool several hundred feet down."
+    },
+    {
+     "v": "bulb",
+     "s": "Then pumps pull that water back up."
+    },
+    {
+     "v": "power",
+     "s": "The heat comes from the generators."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "GENERATORS",
+       "WASTE HEAT",
+       "MELT ICE",
+       "YOUR TAP"
+      ]
+     },
+     "s": "Heat that would otherwise be lost."
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "Every drop you drink was melted with it."
+    },
+    {
+     "v": "bulb",
+     "s": "But after a few years,"
+    },
+    {
+     "v": "underground",
+     "s": "when a Rodwell gets too big,"
+    },
+    {
+     "v": "sewer",
+     "s": "it gets a new job."
+    },
+    {
+     "v": "sewer",
+     "fx": "bubbles",
+     "s": "It becomes the sewage tank."
+    },
+    {
+     "v": "bath",
+     "you": "bath",
+     "s": "Yes."
+    },
+    {
+     "v": "underground",
+     "s": "Your old water well becomes your toilet."
+    },
+    {
+     "v": "bath",
+     "you": "bath",
+     "s": "Would you still drink the water?"
+    }
+   ]
+  }
+ ]
+}

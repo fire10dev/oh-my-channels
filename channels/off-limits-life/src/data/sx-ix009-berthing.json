@@ -1,0 +1,78 @@
+{
+ "title": "Sleeping With 100 People on an Aircraft Carrier",
+ "hook": "1 ROOM, 100 SAILORS",
+ "asof": "Figures from US Navy reports 2006–2025 · full video on the channel",
+ "world": "carrier",
+ "long": "IX009",
+ "chapters": [
+  {
+   "id": "sleep",
+   "hud": "DAY 1",
+   "chip": "23:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Imagine sharing your bedroom with a hundred people.",
+     "v": "berthing",
+     "you": "rack"
+    },
+    {
+     "s": "On an aircraft carrier, that's normal.",
+     "v": "wide"
+    },
+    {
+     "s": "Sailors sleep in berthings, with racks stacked three high.",
+     "v": "berthing",
+     "st": [
+      "100",
+      "sailors per berthing · 2006"
+     ]
+    },
+    {
+     "s": "So close that rolling over could wake the guy above you.",
+     "v": "rack",
+     "you": "rack"
+    },
+    {
+     "s": "Each rack has a curtain.",
+     "v": "rack",
+     "you": "rack",
+     "plane": "curtain"
+    },
+    {
+     "s": "It blocks the light,",
+     "v": "rack",
+     "plane": "curtain",
+     "you": "rack"
+    },
+    {
+     "s": "but not the sound.",
+     "v": "rack",
+     "plane": "curtain"
+    },
+    {
+     "s": "Day or night, jets slam down on the deck above.",
+     "v": "deck",
+     "plane": "trap",
+     "tod": "night"
+    },
+    {
+     "s": "The catapults fire, and the bang rings through the steel.",
+     "v": "catapult",
+     "plane": "launch",
+     "tod": "night"
+    },
+    {
+     "s": "And someone is always getting up for their shift.",
+     "v": "clock"
+    },
+    {
+     "s": "Could you sleep through that?",
+     "v": "rack",
+     "you": "rack",
+     "plane": "curtain"
+    }
+   ]
+  }
+ ]
+}

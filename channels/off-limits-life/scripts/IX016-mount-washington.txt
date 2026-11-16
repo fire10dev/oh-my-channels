@@ -1,0 +1,82 @@
+!title How People Live a Week at a Time on the Mountain With the "World's Worst Weather"
+!asof Figures from Mount Washington Observatory, CBS News & FOX Weather, as of 2026 · sources in description
+!world summit
+## hook | | DAY 1 | 08:00 | day | 1.12
+Every hour, someone walks out into this. :: v=deck plane=wind you=deck
+Winds of a hundred miles an hour. :: v=deck plane=wind st=100+_MPH;and_they_still_go_out
+Ice that freezes on everything it touches. :: v=rime plane=rime
+They live up here a week at a time. :: v=building
+On the mountain known for the world's worst weather. :: v=wide
+So how do you eat, :: v=kitchen you=kitchen
+sleep, :: v=bunk you=bunk
+and work, :: v=office you=office
+on top of Mount Washington? :: v=wide plane=wind
+## mountain | DAY 1 / THE ROCKPILE | DAY 1 | 07:00 | day | 0.0
+Mount Washington is in New Hampshire. :: v=mountain
+At about sixty-three hundred feet, :: v=mountain
+it's the highest peak in the northeastern US. :: v=mountain st=6,288_FT;highest_in_the_Northeast
+It's in fog about sixty percent of the year. :: v=sky plane=fog st=60%;of_the_year_in_fog
+On the summit sits a weather station that never closes. :: v=building
+The Mount Washington Observatory. :: v=building
+Its records go back to 1932. :: v=office st=1932;records_begin
+Four men started it, :: v=mountain
+in October 1932. :: v=building
+They wanted to know what the weather was really like up here. :: v=tower
+## record | THE RECORD / APRIL 1934 | APR 12, 1934 | 13:00 | day | 0.56
+In April 1934, :: v=sky plane=wind
+a huge storm hit the summit. :: v=sky plane=wind
+Three men were on duty: Sal Pagliuca, :: v=office you=office
+Alex McKenzie and Wendell Stephenson. :: v=office you=office
+Their anemometer had a heater built in, :: v=tower plane=rime
+so ice couldn't jam it. :: v=tower plane=rime
+Then they measured a gust of two hundred :: v=tower plane=wind
+and thirty-one miles an hour. :: v=tower plane=wind st=231_MPH;April_12,_1934
+For decades, it was the fastest wind ever measured on Earth's surface. :: v=tower plane=wind
+It's still the fastest recorded by a person on land, :: v=deck plane=wind
+CBS reported. :: v=deck plane=wind
+And in February 2023, :: v=sky
+the wind chill up here hit minus one hundred and eight Fahrenheit. :: v=deck plane=wind st=−108°F;wind_chill_·_Feb_2023
+A US record. :: v=rime plane=rime
+## up | DAY 1 / SHIFT CHANGE | DAY 1 | 08:00 | day | 0.0
+You start your week on a Wednesday. :: v=road
+In winter, a snowcat drives you up the Auto Road. :: v=snowcat plane=snow you=snowcat
+Three observers per shift. :: v=building st=3;observers_per_shift
+The shift you're replacing rides back down. :: v=snowcat plane=snow
+For the next week, the summit is yours. :: v=building plane=wind
+## work | PROBLEM 1 / THE HOURLY WALK | DAY 2 | 05:00 | night | -1.4
+The station isn't automated. :: v=office
+Ice and wind wreck automatic instruments. :: v=rime plane=rime
+So every hour, day and night, :: v=office tod=night
+an observer goes outside. :: v=deck plane=wind you=deck tod=night
+Snow, ice, a hundred-mile-an-hour wind. :: v=deck plane=wind tod=night
+One observer said the only time they don't go out is lightning. :: v=sky plane=lightning tod=night
+Then they climb the tower, about a hundred feet up. :: v=tower plane=wind you=tower
+And knock the ice off the instruments with a rubber mallet or a crowbar. :: v=tower plane=rime you=tower
+Their data goes to the National Weather Service. :: v=office you=office
+## food | PROBLEM 2 / FOOD | DAY 3 | 18:00 | dusk | 0.0
+In a typical year, :: v=kitchen you=kitchen
+volunteers join shifts to cook and clean. :: v=kitchen you=kitchen
+Without volunteers, :: v=kitchen you=kitchen
+the observers cook and clean themselves. :: v=kitchen you=kitchen
+On top of watching the weather. :: v=office you=office
+Dinner is the time everyone's in the same room. :: v=kitchen you=kitchen
+Outside the window, it's a blizzard. :: v=window plane=snow
+## sleep | PROBLEM 3 / SLEEP | DAY 4 | 23:00 | night | -1.4
+The crew sleeps right there on the summit. :: v=bunk you=bunk
+And the wind never stops. :: v=building plane=wind tod=night
+Twelve-hour shifts. :: v=clock st=12_HRS;per_shift
+One observer covers the night, :: v=bunk tod=night
+alone with the instruments. :: v=office tod=night you=office
+Because the weather never takes a night off. :: v=deck plane=wind tod=night
+## snow | PROBLEM 4 / SNOW IN JUNE | DAY 5 | 12:00 | day | 0.0
+It snows up here nearly every month of the year. :: v=deck plane=snow
+In June 2023, the summit got eight point four inches of snow. :: v=deck plane=snow st=8.4_IN;June_2023_snow_record
+About seven inches more than a usual whole summer. :: v=rime plane=snow
+## down | DAY 8 / HEADING DOWN | DAY 8 | 08:00 | day | 1.12
+Wednesday again. :: v=snowcat plane=snow
+The next crew rides up. :: v=road
+You hand over the summit, :: v=road
+and ride down into a world where the wind is normal. :: v=road
+Then a week off, and back up again. :: v=mountain
+Could you walk into a hundred-mile-an-hour wind, :: v=snowcat
+every hour? :: v=deck plane=wind you=deck

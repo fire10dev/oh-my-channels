@@ -1,0 +1,116 @@
+{
+ "title": "Biosphere 2's Crew Was Hungry for Two Years",
+ "hook": "HUNGRY FOR 2 YEARS",
+ "asof": "Figures from 1991–1994 records · full video on the channel",
+ "world": "bio",
+ "long": "IX006",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "DAY 60",
+   "chip": "NOV 1991",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "kitchen",
+     "you": "kitchen",
+     "s": "Imagine eating only what you grow, for two years."
+    },
+    {
+     "v": "wide",
+     "s": "In 1991, eight people were sealed inside Biosphere 2."
+    },
+    {
+     "v": "farm",
+     "st": [
+      "½ acre",
+      "to feed 8 people"
+     ],
+     "s": "Their farm was about half an acre."
+    },
+    {
+     "v": "goats",
+     "s": "Goats for milk,"
+    },
+    {
+     "v": "goats",
+     "you": "goats",
+     "s": "chickens and pigs,"
+    },
+    {
+     "v": "fish",
+     "s": "and tilapia in tanks."
+    },
+    {
+     "v": "crops",
+     "s": "But mostly, plants."
+    },
+    {
+     "v": "kitchen",
+     "s": "Sweet potatoes. A lot of sweet potatoes."
+    },
+    {
+     "v": "kitchen",
+     "st": [
+      "ORANGE",
+      "skin from sweet potatoes"
+     ],
+     "s": "One crew member's skin turned orange."
+    },
+    {
+     "v": "coffee",
+     "you": "coffee",
+     "s": "Coffee? About one cup every few weeks."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "1,780",
+      "small": "calories a day, first 6 months · PNAS, 1992"
+     },
+     "s": "In the first six months, they averaged about seventeen hundred and eighty calories a day."
+    },
+    {
+     "v": "crops",
+     "you": "crops",
+     "s": "While doing hard farm work."
+    },
+    {
+     "v": "kitchen",
+     "s": "Plates got licked clean."
+    },
+    {
+     "d": {
+      "type": "compare",
+      "left": [
+       "BEFORE",
+       "74 kg",
+       "men, average"
+      ],
+      "right": [
+       "6 MONTHS IN",
+       "62 kg",
+       "men, average"
+      ],
+      "note": "PNAS, 1992"
+     },
+     "s": "The men dropped from about seventy-four kilos to sixty-two."
+    },
+    {
+     "v": "lab",
+     "you": "lab",
+     "st": [
+      "−36%",
+      "cholesterol · PNAS 1992"
+     ],
+     "s": "Their cholesterol fell by about a third."
+    },
+    {
+     "v": "berth",
+     "you": "berth",
+     "s": "Could you live on that for two years?"
+    }
+   ]
+  }
+ ]
+}

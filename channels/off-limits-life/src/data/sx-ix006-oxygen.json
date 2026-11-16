@@ -1,0 +1,105 @@
+{
+ "title": "The Oxygen Was Disappearing Inside Biosphere 2",
+ "hook": "THE AIR RAN OUT",
+ "asof": "Figures from 1991–1994 records · full video on the channel",
+ "world": "bio",
+ "long": "IX006",
+ "chapters": [
+  {
+   "id": "air",
+   "hud": "DAY 480",
+   "chip": "JAN 1993",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "gauge",
+     "plane": "o2:14.5",
+     "s": "Eight people were sealed inside, and the oxygen started vanishing."
+    },
+    {
+     "v": "wide",
+     "s": "This is Biosphere 2, in Arizona, in the early nineteen-nineties."
+    },
+    {
+     "v": "gauge",
+     "plane": "o2:20.9",
+     "s": "Outside, air is about twenty-one percent oxygen."
+    },
+    {
+     "v": "gauge",
+     "plane": "o2:18.0",
+     "s": "Inside, that number kept falling."
+    },
+    {
+     "v": "gauge",
+     "plane": "o2:14.5",
+     "s": "By early 1993, it was down to about fourteen and a half."
+    },
+    {
+     "v": "sky",
+     "st": [
+      "~15,000 ft",
+      "how the air felt"
+     ],
+     "s": "Like living fourteen or fifteen thousand feet up a mountain."
+    },
+    {
+     "v": "berth",
+     "you": "berth",
+     "s": "The crew was tired all the time."
+    },
+    {
+     "v": "berth",
+     "s": "Some kept stopping breathing in their sleep."
+    },
+    {
+     "v": "tech",
+     "s": "But if something was using up the oxygen,"
+    },
+    {
+     "v": "tech",
+     "s": "carbon dioxide should have piled up."
+    },
+    {
+     "v": "concrete",
+     "s": "It didn't."
+    },
+    {
+     "v": "farm",
+     "s": "First culprit: the rich farm soil."
+    },
+    {
+     "v": "crops",
+     "s": "Microbes in it ate the oxygen and made carbon dioxide."
+    },
+    {
+     "v": "concrete",
+     "s": "Second culprit: the bare concrete."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "SOIL MICROBES",
+       "EAT OXYGEN",
+       "MAKE CO2",
+       "CONCRETE SOAKS IT UP"
+      ],
+      "note": "Severinghaus et al., 1994"
+     },
+     "s": "It soaked up the carbon dioxide, and hid the evidence."
+    },
+    {
+     "v": "truck",
+     "plane": "pump",
+     "s": "In 1993, oxygen was pumped in from outside."
+    },
+    {
+     "v": "airlock",
+     "you": "airlock",
+     "s": "Would you have stayed inside?"
+    }
+   ]
+  }
+ ]
+}

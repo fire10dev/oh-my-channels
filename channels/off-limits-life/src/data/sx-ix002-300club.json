@@ -1,0 +1,107 @@
+{
+ "title": "The South Pole's 300 Club",
+ "hook": "THE 300 CLUB",
+ "asof": "Figures as of 2026 · full video on the channel",
+ "world": "pole",
+ "long": "IX002",
+ "chapters": [
+  {
+   "id": "club",
+   "hud": "DAY 150",
+   "chip": "-100°F",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "thermo",
+     "fx": "wind",
+     "st": [
+      "-100°F",
+      "the magic number"
+     ],
+     "s": "To join this club, you need minus one hundred degrees."
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "And almost no clothes."
+    },
+    {
+     "v": "wide",
+     "s": "This is the South Pole, in winter."
+    },
+    {
+     "v": "thermo",
+     "s": "Some days, it drops below minus one hundred Fahrenheit."
+    },
+    {
+     "v": "station",
+     "s": "That's when some of the crew try something wild."
+    },
+    {
+     "v": "sauna",
+     "you": "sauna",
+     "s": "They sit in a sauna heated to two hundred degrees."
+    },
+    {
+     "v": "hall",
+     "s": "Then they step outside."
+    },
+    {
+     "v": "thermo",
+     "fx": "wind",
+     "s": "Into minus one hundred."
+    },
+    {
+     "d": {
+      "type": "compare",
+      "left": [
+       "SAUNA",
+       "+200°F",
+       "for minutes"
+      ],
+      "right": [
+       "OUTSIDE",
+       "-100°F",
+       "for seconds"
+      ],
+      "note": "300 DEGREES"
+     },
+     "s": "A three-hundred-degree swing."
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "Wearing boots,"
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "and not much else,"
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "they run out to the South Pole marker."
+    },
+    {
+     "v": "hall",
+     "s": "And back."
+    },
+    {
+     "v": "sauna",
+     "you": "sauna",
+     "s": "That's the 300 Club."
+    },
+    {
+     "v": "thermo",
+     "s": "Some winters, it never gets cold enough to try."
+    },
+    {
+     "v": "pole",
+     "you": "pole",
+     "s": "Would you run it?"
+    }
+   ]
+  }
+ ]
+}

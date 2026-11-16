@@ -1,0 +1,85 @@
+!title How Container Ship Crews Eat, Shower & Sleep for Months at Sea
+!asof Rules from MLC 2006 · survey data as of 2025 · sources in description
+!world boxship
+## hook | | DAY 1 | 06:00 | dawn | 1.12
+This ship is about as long as four football fields. :: v=wide
+It carries thousands of containers. :: v=stack
+And only about twenty-five people. :: v=bridge you=bridge
+They stay on board for months. :: v=sea
+Sometimes they don't step ashore for weeks. :: v=port
+So how do you eat, :: v=mess you=mess
+shower, :: v=shower you=shower plane=shower:on
+and sleep, :: v=cabin you=cabin
+on a container ship? :: v=wide
+## ship | DAY 1 / A STEEL TOWN WITH 25 PEOPLE | DAY 1 | 08:00 | day | 0.0
+The biggest container ships are about four hundred meters long. :: v=wide st=~400_M;biggest_ships
+When the Ever Given got stuck in the Suez Canal in 2021, :: v=canal
+it had a crew of twenty-five. :: v=canal st=25;crew_·_Ever_Given_2021
+Almost everything you buy has been on a ship like this. :: v=stack
+Up front: containers, stacked high. :: v=stack
+At the back: the engine room, :: v=engine
+and a tall white tower called the accommodation. :: v=tower
+That's where the crew lives. :: v=tower you=bridge
+Bridge on top. :: v=bridge
+Cabins, galley, mess room and gym below. :: v=tower
+## work | PROBLEM 1 / THE CLOCK | DAY 2 | 04:00 | night | 0.56
+A ship never stops. :: v=sea tod=night
+So the crew works in watches, around the clock. :: v=bridge tod=night you=bridge
+There's a rule for rest. :: v=clock
+The Maritime Labour Convention says: :: v=clock
+at least ten hours of rest in any twenty-four. :: v=clock st=10_HRS;minimum_rest_per_day
+At least seventy-seven hours in any seven days. :: v=clock st=77_HRS;minimum_rest_per_week
+In port, everyone works harder. :: v=port plane=crane
+Cranes load and unload day and night. :: v=port plane=crane tod=night
+## food | PROBLEM 2 / FOOD | DAY 5 | 12:00 | day | -1.4
+A cook feeds the whole crew. :: v=galley you=galley
+Food comes aboard in port, :: v=port plane=crane
+and has to last until the next one. :: v=store
+Each ship gets a set food budget per person. :: v=galley
+In 2025, a seafarers' survey found that food quality was falling. :: v=mess st=FOOD_↓;Seafarers_Happiness_Index_Q3_2025
+Food prices rose, but budgets didn't. :: v=store
+One crew member described the food as too much, but not tasty. :: v=mess you=mess
+Meals matter a lot out here. :: v=mess you=mess
+The survey called them one of the few daily pleasures on board. :: v=mess you=mess
+## home | PROBLEM 3 / SHOWER & SLEEP | DAY 10 | 22:00 | night | 0.0
+Most crew get their own cabin. :: v=cabin you=cabin
+A bed, a desk, a small bathroom. :: v=cabin you=cabin
+The shower is fresh water, made on board from seawater. :: v=shower plane=shower:on you=shower
+In rough seas, the whole ship rolls. :: v=sea plane=storm tod=night
+You wedge yourself into your bed to sleep. :: v=cabin you=cabin plane=roll
+And the engine hums through the steel, all day, all night. :: v=engine
+## lonely | PROBLEM 4 / CUT OFF | DAY 60 | 20:00 | night | -2.1
+Weeks at sea, with the same faces. :: v=sea tod=night
+Shore leave used to be the escape. :: v=port
+In the 2025 survey, shore leave scored lowest of everything. :: v=port st=LAST;shore_leave_score_·_2025
+Port stays are short. :: v=port plane=crane
+There are inspections and audits. :: v=bridge
+And transport into town can cost a lot. :: v=port
+Many crew stay on board for the whole port call. :: v=tower
+Internet is the lifeline. :: v=cabin you=cabin plane=phone
+Some ships have good connections. :: v=cabin plane=phone
+Others have tiny data allowances. :: v=cabin you=cabin
+For a seafarer, calling home means everything. :: v=cabin you=cabin plane=phone
+## pirates | PROBLEM 5 / PIRATES | DAY 75 | 03:00 | night | -2.1
+Some routes pass through pirate waters. :: v=sea tod=night
+So many ships have a citadel. :: v=citadel
+A locked safe room the crew can retreat to. :: v=citadel you=citadel
+Guidance says it should hold food and water for at least three days. :: v=citadel st=3_DAYS;food_&_water_in_the_citadel
+In November 2025, pirates boarded a tanker off Somalia. :: v=sea plane=skiff tod=night
+All twenty-four crew locked themselves in the citadel. :: v=citadel you=citadel
+The pirates gave up and left. :: v=sea plane=skiff
+Everyone was safe. :: v=citadel you=citadel
+## change | PROBLEM 6 / GETTING HOME | DAY 270 | 09:00 | day | 0.56
+Contracts often run six to nine months. :: v=clock
+The rules say no more than eleven months on board without leave. :: v=clock st=11_MONTHS;max_without_leave_·_MLC
+In 2020, COVID broke that system. :: v=port
+Borders closed, and crews couldn't be swapped. :: v=port
+By December 2020, the UN shipping agency said over four hundred thousand seafarers were stuck at sea. :: v=sea st=400,000+;stranded_at_sea_·_IMO_2020
+Many past the end of their contracts. :: v=cabin you=cabin
+## off | DAY 270 / SIGNING OFF | DAY 270 | 10:00 | day | 1.12
+Then one day, your replacement walks up the gangway. :: v=gangway you=gangway
+You hand over your job. :: v=bridge
+And you go home. :: v=port
+Someone else takes your cabin. :: v=cabin
+And the ship sails on. :: v=wide
+Could you spend nine months on a ship with twenty-five people? :: v=mess you=mess

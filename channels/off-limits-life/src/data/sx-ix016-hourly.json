@@ -1,0 +1,70 @@
+{
+ "title": "Every Hour, They Walk Into 100 MPH Winds",
+ "hook": "OUTSIDE, EVERY HOUR",
+ "asof": "Figures from Mount Washington Observatory & FOX Weather · full video on the channel",
+ "world": "summit",
+ "long": "IX016",
+ "chapters": [
+  {
+   "id": "work",
+   "hud": "DAY 2",
+   "chip": "05:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Every hour, someone walks out into this.",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    },
+    {
+     "s": "The top of Mount Washington, in New Hampshire.",
+     "v": "mountain"
+    },
+    {
+     "s": "The weather station here isn't automated. Ice and wind wreck the instruments.",
+     "v": "rime",
+     "plane": "rime"
+    },
+    {
+     "s": "So every hour, day and night, an observer goes outside.",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    },
+    {
+     "s": "One said the only time they don't go out is lightning.",
+     "v": "sky",
+     "plane": "lightning"
+    },
+    {
+     "s": "They climb the tower, about a hundred feet up,",
+     "v": "tower",
+     "plane": "wind",
+     "you": "tower"
+    },
+    {
+     "s": "and knock the ice off with a rubber mallet or a crowbar.",
+     "v": "tower",
+     "plane": "rime",
+     "you": "tower"
+    },
+    {
+     "s": "In 1934, observers here measured a gust of two hundred thirty-one miles an hour.",
+     "v": "tower",
+     "plane": "wind",
+     "st": [
+      "231 MPH",
+      "April 1934"
+     ]
+    },
+    {
+     "s": "Could you go out there every hour?",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    }
+   ]
+  }
+ ]
+}

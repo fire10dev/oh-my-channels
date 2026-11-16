@@ -1,0 +1,77 @@
+{
+ "title": "The 8-Ton Door Nuclear Missile Officers Live Behind",
+ "hook": "8-TON BLAST DOOR",
+ "asof": "Figures from US Air Force & National Park Service · full video on the channel",
+ "world": "capsule",
+ "long": "IX010",
+ "chapters": [
+  {
+   "id": "down",
+   "hud": "DAY 1",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Two officers ride an elevator sixty feet under the prairie.",
+     "v": "elevator",
+     "you": "elevator"
+    },
+    {
+     "s": "At the bottom: a blast door weighing eight tons.",
+     "v": "door",
+     "plane": "door:shut",
+     "st": [
+      "8 TONS",
+      "blast door · NPS"
+     ]
+    },
+    {
+     "s": "It can only be opened from inside.",
+     "v": "door",
+     "plane": "door:shut"
+    },
+    {
+     "s": "A voice shouts clear. You shout back.",
+     "v": "door"
+    },
+    {
+     "s": "The door swings open.",
+     "v": "door",
+     "plane": "door:open",
+     "you": "door"
+    },
+    {
+     "s": "Behind it, a capsule the size of a bedroom.",
+     "v": "capsule",
+     "you": "capsule"
+    },
+    {
+     "s": "This is where crews watch over ten Minuteman Three missiles.",
+     "v": "console",
+     "you": "console"
+    },
+    {
+     "s": "Nobody can be in here alone. It's a no-lone zone.",
+     "v": "capsule"
+    },
+    {
+     "s": "The shift lasts twenty-four hours.",
+     "v": "clock",
+     "st": [
+      "24 HRS",
+      "one alert"
+     ]
+    },
+    {
+     "s": "No phones. No personal computers.",
+     "v": "wall"
+    },
+    {
+     "s": "Could you spend a day behind that door?",
+     "v": "door",
+     "plane": "door:shut"
+    }
+   ]
+  }
+ ]
+}

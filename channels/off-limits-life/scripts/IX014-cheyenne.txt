@@ -1,0 +1,78 @@
+!title How Crews Eat, Work & Hide Inside America's Nuclear Mountain Bunker
+!asof Figures from US Air Force, Space Force & NORAD articles · sources in description
+!world mountain
+!gain_scale 1.2
+## hook | | DAY 1 | 06:00 | dawn | 1.12
+There's a town inside this mountain. :: v=wide
+Fifteen buildings, hidden under granite. :: v=cave
+Every one of them sits on giant steel springs. :: v=springs plane=shake
+The front door weighs twenty-five tons. :: v=door st=25_TONS;blast_door
+It was built to survive a nuclear war. :: v=mountain
+So how do the people inside eat, :: v=dining you=dining
+work, :: v=command you=command
+and stay sane, :: v=tunnel you=tunnel
+inside Cheyenne Mountain? :: v=wide
+## mountain | DAY 1 / THE MOUNTAIN | DAY 1 | 07:00 | day | 0.0
+This is Cheyenne Mountain, outside Colorado Springs. :: v=mountain
+In the 1960s, the US blasted a complex into the rock. :: v=cave
+It opened in 1966. :: v=cave st=1966;operations_begin
+NORAD's command center was fully running by early 1967. :: v=command
+NORAD is run by the United States and Canada together. :: v=command
+So Canadian troops stand watch in here too. :: v=command you=command
+The job: spot bombers and missiles heading for North America. :: v=radar
+In the Cold War, this was the place that would sound the alarm first. :: v=command plane=alarm
+The complex covers about five acres. :: v=wide st=5.1_ACRES;under_1,800_ft_of_rock
+On top: about eighteen hundred feet of granite. :: v=mountain
+Today it's a Space Force station. :: v=gate
+## in | DAY 1 / GOING IN | DAY 1 | 07:30 | day | 0.56
+You drive up the mountain road to a tunnel entrance. :: v=gate you=gate
+Then you walk into the tunnel. :: v=tunnel you=tunnel
+A long way into the rock, you reach the blast doors. :: v=door
+One Air Force article puts them at three and a half feet thick, :: v=door plane=door:open
+and twenty-five tons each. :: v=door plane=door:open st=25_TONS;each_door
+Hydraulics can close them in under a minute. :: v=door plane=door:shut
+Behind them: a cave with buildings inside. :: v=cave
+## springs | PROBLEM 1 / THE SHAKE | DAY 1 | 09:00 | day | 0.0
+Here's the strange part. :: v=springs
+The buildings don't touch the rock. :: v=springs
+They stand about eighteen inches from the cave walls. :: v=gap st=18_IN;from_the_rock
+And they sit on more than thirteen hundred steel springs. :: v=springs st=1,300+;springs
+Each spring weighs over a thousand pounds. :: v=spring
+If a blast or an earthquake shakes the mountain, :: v=springs plane=shake
+the buildings bounce, instead of breaking. :: v=springs plane=shake
+## work | PROBLEM 2 / THE WATCH | DAY 1 | 12:00 | day | -1.4
+Inside, crews watch the skies over North America. :: v=command you=command
+Watch crews work twelve-hour shifts. :: v=command st=12_HRS;per_shift
+There are no windows. :: v=hall
+One guard described working a whole shift without seeing the sun. :: v=tunnel you=tunnel
+## food | PROBLEM 3 / FOOD | DAY 1 | 13:00 | day | 0.0
+So the mountain has what a small town needs. :: v=cave
+A dining facility. :: v=dining you=dining
+A medical clinic. :: v=clinic
+Fitness centers. :: v=gym you=gym
+A small store, a chapel, and a barber shop. :: v=hall
+## water | PROBLEM 4 / WATER & POWER | DAY 1 | 15:00 | day | 0.0
+If the doors close for real, the mountain runs on its own. :: v=door plane=door:shut
+Underground reservoirs are carved into the rock. :: v=reservoir
+One for drinking water. :: v=reservoir
+One for industrial water. :: v=reservoir
+One for diesel fuel. :: v=power
+Together, more than four and a half million gallons. :: v=reservoir st=4.5M_GAL;stored_in_the_rock
+Diesel generators can power the whole complex. :: v=power
+The Air Force practices this. It calls it a button-up. :: v=door plane=door:shut
+## covid | PROBLEM 5 / SEALED IN | DAY 30 | MAR 2020 | night | -2.1
+Most days, nobody sleeps here. :: v=hall
+Crews go home after their shift. :: v=gate
+But in 2020, COVID changed that. :: v=gate
+NORAD and Northern Command moved critical crews into the mountain. :: v=tunnel you=tunnel
+They isolated first, then got tested, :: v=clinic
+then worked inside for weeks. :: v=command you=command
+About a hundred and thirty people stood twelve-hour watches. :: v=command st=~130;people_on_watch_·_2020
+Between shifts, they lived apart from everyone else. :: v=dining you=dining
+## today | TODAY / STILL ON WATCH | DAY 60 | 09:00 | day | 1.12
+The main command center later moved to a base nearby. :: v=mountain
+But Cheyenne Mountain still stands by as the backup. :: v=command
+The springs are still there. :: v=springs
+So are the twenty-five-ton doors. :: v=door plane=door:shut
+Waiting for a day nobody wants. :: v=mountain tod=dusk
+Could you work a whole shift without seeing the sun? :: v=tunnel you=tunnel

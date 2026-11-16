@@ -1,0 +1,108 @@
+!title How Scientists Lived Frozen Into the Arctic Ice for a Whole Year
+!asof Figures from the MOSAiC expedition 2019–2020 · sources in description
+!world polar
+!gain_scale 0.85
+## hook | | DAY 1 | SEP 20, 2019 | dusk | 1.12
+In 2019, a ship sailed into the Arctic :: v=map
+and let the ice freeze around it. :: v=wide
+On purpose. :: v=ship
+For a year, it drifted with the ice, :: v=wide
+past the North Pole. :: v=map st=389_DAYS;MOSAiC_expedition
+For months, the sun never rose. :: v=ice tod=night
+It got down to minus forty-two degrees. :: v=camp tod=night st=−42.3°C;coldest_reading
+And polar bears came to visit. :: v=bear plane=bear tod=night
+So how do you eat, :: v=mess you=mess
+sleep, :: v=cabin you=cabin
+and work, :: v=camp you=camp
+frozen into the ice? :: v=wide tod=night
+## ship | DAY 1 / THE SHIP | DAY 1 | SEP 2019 | day | 0.0
+This is Polarstern, :: v=map
+a German research icebreaker. :: v=ship
+The mission was called MOSAiC. :: v=wide
+The biggest Arctic research expedition ever. :: v=wide
+The idea was over a hundred years old. :: v=map
+In the 1890s, the explorer Fridtjof Nansen froze his ship Fram into the ice on purpose. :: v=map
+MOSAiC did the same, :: v=ship
+with modern labs. :: v=lab you=lab
+The ship found a floe about two :: v=wide
+and a half by three and a half kilometers. :: v=ice st=2.5×3.5_KM;the_first_floe
+Then it let the ice close in around it. :: v=ship tod=dusk
+## home | DAY 30 / A SMALL CITY | DAY 30 | OCT 2019 | day | 0.56
+The ship was home for everyone. :: v=ship
+It carries cooks, a baker, :: v=cabin
+a doctor, and even a post office. :: v=mess
+All the labs, workshops and offices are on board. :: v=lab
+Polarstern has space for up to forty-four crew :: v=ship
+and fifty-five scientists. :: v=cabin st=44_+_55;crew_+_scientists
+Over the year, :: v=ship
+three hundred and thirty-seven scientists and experts took part. :: v=mess st=337;scientists_·_AWI_2020
+They came in shifts of about two months. :: v=heli
+From thirty-seven nationalities. :: v=mess you=mess
+In their downtime, :: v=ship
+people exercise or hang out in the lounges. :: v=lounge you=lounge
+## camp | PROBLEM 1 / WORKING ON THE ICE | DAY 40 | NOV 2019 | night | 0.0
+Next to the ship, they built a town on the ice. :: v=camp tod=night
+They called it the Ice Camp. :: v=camp tod=night
+Neighborhoods for each science team. :: v=camp tod=night
+One was called ROV City, :: v=dark tod=night
+for the underwater robots. :: v=rov tod=night
+One was called Ocean City. :: v=hole tod=night
+Five kilometers of power cable, :: v=rov tod=night
+laid across the ice. :: v=camp st=5,000_M;power_cables_on_the_ice tod=night
+Lights can disturb the ice ecosystem. :: v=camp tod=night
+So part of the camp was a dark zone, :: v=rov tod=night
+with infrared light only. :: v=dark tod=night
+## bears | PROBLEM 2 / POLAR BEARS | DAY 60 | DEC 2019 | night | -1.4
+Out here, you're not at the top of the food chain. :: v=bear plane=bear tod=night
+A big male polar bear can weigh around six hundred kilos. :: v=bear plane=bear tod=night
+So nobody walks onto the ice without a bear guard. :: v=guard you=camp tod=night
+Six to eight guards on each leg of the trip. :: v=guard tod=night st=6–8;bear_guards_per_leg
+They watch the horizon from the ship, :: v=crow tod=night
+or patrol a tripwire fence around the camp. :: v=fence tod=night
+If a bear crosses the wire, :: v=guard tod=night
+a flare goes off to scare it away. :: v=fence plane=flare tod=night
+More than sixty polar bears were spotted near the ship. :: v=bear plane=bear st=60+;polar_bears_sighted
+Not a single one was shot. :: v=bear plane=bear
+## dark | PROBLEM 3 / THE POLAR NIGHT | DAY 90 | JAN 2020 | night | -3.0
+In winter, the sun didn't rise for about a hundred :: v=camp tod=night
+and fifty days. :: v=ice tod=night st=~150_DAYS;no_sunrise
+Only the moon and stars light the ice. :: v=sky tod=night
+The coldest reading was minus forty-two point three. :: v=camp tod=night
+With the wind, it felt like minus sixty-five. :: v=guard tod=night st=−65°C;with_wind_chill
+The ice moves. :: v=ice tod=night
+Cracks open up right through the camp. :: v=crack plane=crack tod=night
+And the ship is up :: v=ice
+to fifteen hundred kilometers from the nearest town. :: v=map st=1,500_KM;to_nearest_settlement
+## supply | PROBLEM 4 / GETTING SUPPLIES | DAY 150 | FEB 2020 | night | 0.0
+You can't drive to the store. :: v=ship tod=night
+So other icebreakers break through to resupply you. :: v=supply plane=supply tod=night
+In early 2020, :: v=ship tod=night
+the Russian icebreaker Kapitan Dranitsyn arrived. :: v=supply plane=supply tod=night
+It brought new people :: v=ship tod=night
+and forty-three tons of supplies. :: v=supply plane=supply st=43_TONS;delivered tod=night
+The ice was so thick that it ran low on fuel itself. :: v=supply tod=night
+Another icebreaker had to come to refuel it. :: v=supply tod=night
+Then, in spring, COVID hit. :: v=map
+Borders closed. :: v=map
+Planned crew-swap flights were called off. :: v=heli
+Polarstern left the floe for a few weeks :: v=supply
+to meet two other German research ships. :: v=ship
+Then it went back to the ice. :: v=ice
+## sun | PROBLEM 5 / THE NEVER-ENDING DAY | DAY 220 | MAY 2020 | day | 0.56
+Then the sun came back. :: v=sky
+And in summer, it never set. :: v=ice
+The ice started melting. :: v=melt
+Pools of water formed on top. :: v=melt you=camp
+After three hundred days, :: v=sky
+the first floe broke apart. :: v=crack plane=crack st=300_DAYS;on_the_first_floe
+The team found a second floe near the North Pole. :: v=ship
+They worked there for another thirty days. :: v=camp
+## home | DAY 389 / HOME | DAY 389 | OCT 12, 2020 | day | 1.8
+In October 2020, :: v=lab
+Polarstern returned to Germany. :: v=ship
+It had drifted three thousand four hundred kilometers. :: v=map st=3,400_KM;zigzag_drift
+It got within a hundred :: v=ship
+and fifty-six kilometers of the North Pole. :: v=map
+Over a thousand ice cores came home with it. :: v=lab
+And more than a thousand weather balloons had been launched. :: v=camp
+Could you live a year frozen into the ice? :: v=wide tod=night

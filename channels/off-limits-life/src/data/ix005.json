@@ -1,0 +1,637 @@
+{
+ "title": "How Saturation Divers Eat, Shower & Sleep Under Pressure for 28 Days",
+ "asof": "Figures as of 2026 · sources in description",
+ "world": "southpole",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "You're about to move into a steel tube on the deck of a ship.",
+     "v": "chamber",
+     "you": "chamber"
+    },
+    {
+     "s": "Once the door seals, you can't come out.",
+     "v": "door"
+    },
+    {
+     "s": "Not for a day.",
+     "v": "chamber"
+    },
+    {
+     "s": "Not for a week.",
+     "v": "ship"
+    },
+    {
+     "s": "For up to twenty-eight days.",
+     "d": {
+      "type": "big",
+      "big": "28 DAYS",
+      "small": "normal max in saturation · DMAC 21"
+     }
+    },
+    {
+     "s": "Every day, you'll ride a metal bell to the bottom of the sea.",
+     "v": "bell",
+     "plane": "down"
+    },
+    {
+     "s": "And the trip back home takes days.",
+     "v": "gauge",
+     "plane": "deco"
+    },
+    {
+     "s": "So how do you eat,",
+     "v": "table",
+     "you": "table"
+    },
+    {
+     "s": "shower,",
+     "v": "shower",
+     "you": "shower"
+    },
+    {
+     "s": "and sleep,",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "under pressure?",
+     "v": "wide"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "why",
+   "hud": "DAY 1",
+   "chip": "08:30",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "The job is down there.",
+     "v": "seabed"
+    },
+    {
+     "s": "Pipelines and oil wells, sometimes a hundred meters deep or more.",
+     "v": "pipe",
+     "you": "pipe"
+    },
+    {
+     "s": "At that depth, your body soaks up gas.",
+     "v": "diver"
+    },
+    {
+     "s": "Coming up too fast could kill you.",
+     "v": "gauge"
+    },
+    {
+     "s": "So instead of coming up after every dive,",
+     "v": "bell",
+     "plane": "up"
+    },
+    {
+     "s": "you just stay at depth pressure.",
+     "v": "chamber"
+    },
+    {
+     "s": "On deck, in a sealed chamber.",
+     "v": "ship"
+    },
+    {
+     "s": "Your body fills up with gas once.",
+     "v": "chamber",
+     "you": "chamber"
+    },
+    {
+     "s": "After that, a longer stay doesn't make the trip home longer.",
+     "v": "gauge"
+    },
+    {
+     "s": "That's saturation.",
+     "v": "chamber",
+     "st": [
+      "SATURATION",
+      "stay at depth pressure"
+     ]
+    },
+    {
+     "s": "Most saturation diving happens between about sixty-five and a thousand feet.",
+     "d": {
+      "type": "big",
+      "big": "65–1,000 ft",
+      "small": "typical saturation depths · DAN, 2017"
+     }
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "WHY LIVE IN A TUBE?"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "helium",
+   "hud": "DAY 2",
+   "chip": "07:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "You don't breathe normal air down here.",
+     "v": "chamber"
+    },
+    {
+     "s": "You breathe helium mixed with oxygen.",
+     "v": "chamber",
+     "st": [
+      "HELIOX",
+      "helium + oxygen"
+     ]
+    },
+    {
+     "s": "Helium is easy to breathe.",
+     "v": "table",
+     "you": "table"
+    },
+    {
+     "s": "But it does strange things.",
+     "v": "chamber"
+    },
+    {
+     "s": "Your voice goes high and squeaky.",
+     "v": "chamber",
+     "plane": "voice",
+     "you": "chamber"
+    },
+    {
+     "s": "So high the crew outside can barely understand you.",
+     "v": "control"
+    },
+    {
+     "s": "They use a machine to unscramble it.",
+     "v": "control",
+     "plane": "voice"
+    },
+    {
+     "s": "And helium steals your body heat,",
+     "v": "chamber"
+    },
+    {
+     "s": "with every breath you breathe out.",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "So the chamber is kept hot.",
+     "v": "gauge",
+     "plane": "temp"
+    },
+    {
+     "s": "Often around ninety degrees Fahrenheit.",
+     "v": "chamber",
+     "st": [
+      "85–93°F",
+      "chamber temperature · DAN"
+     ]
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "THE AIR"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "food",
+   "hud": "DAY 3",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Your food is cooked in the ship's galley.",
+     "v": "galley"
+    },
+    {
+     "s": "Then it's carried to the chamber.",
+     "v": "lock"
+    },
+    {
+     "s": "It goes in through a tiny airlock.",
+     "v": "lock",
+     "plane": "lock"
+    },
+    {
+     "s": "The lock seals,",
+     "v": "lock",
+     "plane": "lock"
+    },
+    {
+     "s": "the pressure matches yours,",
+     "v": "lock",
+     "plane": "lock"
+    },
+    {
+     "s": "and you open the inner door.",
+     "v": "table",
+     "you": "table"
+    },
+    {
+     "s": "Medicine, clean clothes and bedding come in the same way.",
+     "v": "lock",
+     "plane": "lock"
+    },
+    {
+     "s": "You eat at a little table,",
+     "v": "table",
+     "you": "table"
+    },
+    {
+     "s": "inches from your bunk.",
+     "v": "bunk"
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "FOOD"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "shower",
+   "hud": "DAY 4",
+   "chip": "21:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Your chamber has a shower.",
+     "v": "shower",
+     "you": "shower"
+    },
+    {
+     "s": "And a toilet.",
+     "v": "toilet"
+    },
+    {
+     "s": "The waste is dumped outside the chamber.",
+     "v": "toilet"
+    },
+    {
+     "s": "Toilets have a valve lock.",
+     "v": "toilet",
+     "st": [
+      "INTERLOCK",
+      "toilet valve"
+     ]
+    },
+    {
+     "s": "It stops the dump from running while someone is sitting on it.",
+     "v": "toilet"
+    },
+    {
+     "s": "It's warm, damp, and shared.",
+     "v": "chamber"
+    },
+    {
+     "s": "That's perfect for germs.",
+     "v": "bunk"
+    },
+    {
+     "s": "In the 1970s,",
+     "v": "chamber"
+    },
+    {
+     "s": "two North Sea saturation dives were stopped by ear infections.",
+     "d": {
+      "type": "big",
+      "big": "2 DIVES",
+      "small": "stopped by ear infections · North Sea, 1974–75"
+     }
+    },
+    {
+     "s": "So you keep your ears clean and dry.",
+     "v": "shower",
+     "you": "shower"
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "SHOWER & TOILET"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "work",
+   "hud": "DAY 5",
+   "chip": "06:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Now, the work.",
+     "v": "bell"
+    },
+    {
+     "s": "The bell locks onto the chamber.",
+     "v": "moonpool",
+     "plane": "dock"
+    },
+    {
+     "s": "You climb in.",
+     "v": "bellin",
+     "you": "bellin"
+    },
+    {
+     "s": "The bell is lowered through a hole in the ship.",
+     "v": "moonpool",
+     "plane": "down"
+    },
+    {
+     "s": "Down to the seabed.",
+     "v": "bell",
+     "plane": "down"
+    },
+    {
+     "s": "You leave the bell,",
+     "v": "diver",
+     "you": "diver"
+    },
+    {
+     "s": "tied to it by a hose called an umbilical.",
+     "v": "diver"
+    },
+    {
+     "s": "It brings your gas, your light, and hot water for your suit.",
+     "v": "diver",
+     "st": [
+      "UMBILICAL",
+      "gas · hot water · comms"
+     ]
+    },
+    {
+     "s": "A British rule sets the limits.",
+     "v": "control"
+    },
+    {
+     "s": "A whole bell run, no more than eight hours.",
+     "d": {
+      "type": "big",
+      "big": "8 h",
+      "small": "max bell run · HSE DVIS 7"
+     }
+    },
+    {
+     "s": "In the water, usually no more than four.",
+     "v": "diver",
+     "st": [
+      "4 h",
+      "max in the water, two-man bell"
+     ]
+    },
+    {
+     "s": "Then back up, back into the chamber.",
+     "v": "bell",
+     "plane": "up"
+    },
+    {
+     "s": "Eat. Sleep. Repeat.",
+     "v": "bunk",
+     "you": "bunk"
+    }
+   ],
+   "card": [
+    "PROBLEM 4",
+    "THE BELL"
+   ],
+   "gain": -2.1
+  },
+  {
+   "id": "lemons",
+   "hud": "DAY 5",
+   "chip": "21:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Things can go wrong.",
+     "v": "seabed",
+     "tod": "night"
+    },
+    {
+     "s": "In September 2012,",
+     "v": "seabed",
+     "tod": "night"
+    },
+    {
+     "s": "diver Chris Lemons was a hundred meters down in the North Sea.",
+     "v": "diver",
+     "you": "diver"
+    },
+    {
+     "s": "His ship's positioning system failed.",
+     "v": "ship",
+     "plane": "storm"
+    },
+    {
+     "s": "The ship drifted away.",
+     "v": "ship",
+     "plane": "storm"
+    },
+    {
+     "s": "His umbilical snagged,",
+     "v": "diver",
+     "plane": "cut"
+    },
+    {
+     "s": "and snapped.",
+     "v": "diver",
+     "plane": "cut",
+     "you": "diver"
+    },
+    {
+     "s": "He had a few minutes of emergency gas on his back.",
+     "v": "diver",
+     "st": [
+      "MINUTES",
+      "emergency gas"
+     ]
+    },
+    {
+     "s": "It took the ship about half an hour to get back.",
+     "d": {
+      "type": "big",
+      "big": "~30 MIN",
+      "small": "until the ship returned · 2012"
+     }
+    },
+    {
+     "s": "They found him on the seabed, unconscious.",
+     "v": "seabed",
+     "tod": "night"
+    },
+    {
+     "s": "A colleague got him into the bell,",
+     "v": "bellin"
+    },
+    {
+     "s": "and gave him two breaths.",
+     "v": "bellin",
+     "you": "bellin"
+    },
+    {
+     "s": "He came around.",
+     "v": "bellin"
+    },
+    {
+     "s": "He survived, and went back to diving.",
+     "v": "chamber",
+     "you": "chamber"
+    }
+   ],
+   "card": [
+    "THE CLOSE CALL",
+    "2012"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "escape",
+   "hud": "DAY 20",
+   "chip": "14:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "So what if the ship catches fire?",
+     "v": "ship",
+     "plane": "alarm"
+    },
+    {
+     "s": "You can't just jump overboard.",
+     "v": "sea"
+    },
+    {
+     "s": "Your body is still at depth pressure.",
+     "v": "chamber"
+    },
+    {
+     "s": "So the chamber has its own lifeboat.",
+     "v": "lifeboat"
+    },
+    {
+     "s": "A pressurized one.",
+     "v": "lifeboat",
+     "st": [
+      "HYPERBARIC",
+      "lifeboat · IMCA"
+     ]
+    },
+    {
+     "s": "You climb into it, still under pressure.",
+     "v": "lifeboat",
+     "you": "lifeboat"
+    },
+    {
+     "s": "It's sealed, and dropped into the sea.",
+     "v": "lifeboat",
+     "plane": "launch"
+    }
+   ],
+   "card": [
+    "PROBLEM 5",
+    "NO WAY OUT"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "home",
+   "hud": "DAY 24",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Finally, it's time to go home.",
+     "v": "chamber"
+    },
+    {
+     "s": "But you can't just open the door.",
+     "v": "door"
+    },
+    {
+     "s": "The pressure comes down slowly.",
+     "v": "gauge",
+     "plane": "deco"
+    },
+    {
+     "s": "One rule of thumb: a day for every hundred feet, plus a day.",
+     "d": {
+      "type": "big",
+      "big": "1 DAY",
+      "small": "per 100 ft of depth, plus 1 · DAN"
+     }
+    },
+    {
+     "s": "From a hundred and twenty meters, that's about five days.",
+     "v": "gauge",
+     "plane": "deco",
+     "st": [
+      "~5 DAYS",
+      "from 120 m · 2024 review"
+     ]
+    },
+    {
+     "s": "You sit. You sleep. You wait.",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "And then, the door opens.",
+     "v": "door",
+     "plane": "open"
+    },
+    {
+     "s": "Your first breath of normal air in weeks.",
+     "v": "deck",
+     "you": "deck"
+    },
+    {
+     "s": "And then the rules say: rest on land.",
+     "v": "wide"
+    },
+    {
+     "s": "Usually as long as you were inside.",
+     "d": {
+      "type": "compare",
+      "left": [
+       "INSIDE",
+       "28 days",
+       "saturation"
+      ],
+      "right": [
+       "ON LAND",
+       "28 days",
+       "surface interval"
+      ],
+      "note": "DMAC 21 guidance"
+     }
+    },
+    {
+     "s": "So, could you live in a steel tube for twenty-eight days?",
+     "v": "chamber"
+    },
+    {
+     "s": "Off Limits Life.",
+     "d": {
+      "type": "brand",
+      "tag": "How people live where you can't go"
+     }
+    }
+   ],
+   "card": [
+    "DAY 24",
+    "COMING HOME"
+   ],
+   "gain": 0.84
+  }
+ ]
+}

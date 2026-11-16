@@ -1,0 +1,67 @@
+{
+ "title": "400,000 Sailors Got Stuck at Sea in 2020",
+ "hook": "STUCK AT SEA",
+ "asof": "Rules from MLC 2006 · data as of 2025 · full video on the channel",
+ "world": "boxship",
+ "long": "IX013",
+ "chapters": [
+  {
+   "id": "change",
+   "hud": "DAY 270",
+   "chip": "DEC 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Imagine finishing your job, and not being allowed to go home.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "Container ship crews usually sign on for six to nine months.",
+     "v": "wide"
+    },
+    {
+     "s": "The rules say no more than eleven months on board without leave.",
+     "v": "clock",
+     "st": [
+      "11 MONTHS",
+      "max · MLC"
+     ]
+    },
+    {
+     "s": "Then in 2020, COVID closed the borders.",
+     "v": "port"
+    },
+    {
+     "s": "Crews couldn't fly home, and replacements couldn't fly in.",
+     "v": "gangway"
+    },
+    {
+     "s": "By December 2020, the UN shipping agency said over four hundred thousand seafarers were stuck at sea.",
+     "v": "sea",
+     "st": [
+      "400,000+",
+      "stranded · IMO"
+     ]
+    },
+    {
+     "s": "Many were past the end of their contracts.",
+     "v": "cabin",
+     "you": "cabin",
+     "plane": "phone"
+    },
+    {
+     "s": "Calling home was all they had.",
+     "v": "cabin",
+     "you": "cabin",
+     "plane": "phone"
+    },
+    {
+     "s": "Could you stay on board an extra six months?",
+     "v": "mess",
+     "you": "mess"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,654 @@
+{
+ "title": "How Cruise Ship Crews Eat, Shower & Sleep",
+ "asof": "Figures as of 2026 · sources in description",
+ "world": "cruise",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "SIGN-ON",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Above you, thousands of people are on vacation.",
+     "v": "ship"
+    },
+    {
+     "s": "Pools. Waterslides. Endless buffets.",
+     "v": "slide"
+    },
+    {
+     "s": "Now go down.",
+     "v": "stairs"
+    },
+    {
+     "s": "Below the passengers,",
+     "v": "corridor"
+    },
+    {
+     "s": "past the doors marked crew only,",
+     "v": "i95"
+    },
+    {
+     "s": "is where you live.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "No window.",
+     "v": "bunk"
+    },
+    {
+     "s": "A bunk bed, and up to three roommates.",
+     "v": "cabin2",
+     "you": "cabin2"
+    },
+    {
+     "s": "Twelve-hour days are not unusual.",
+     "v": "galley",
+     "you": "galley"
+    },
+    {
+     "s": "And no real day off, for months.",
+     "d": {
+      "type": "months",
+      "label": "NO DAYS OFF",
+      "from": 0,
+      "to": 5
+     }
+    },
+    {
+     "s": "So how do you eat,",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "shower,",
+     "v": "shower",
+     "you": "shower"
+    },
+    {
+     "s": "and sleep,",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "on a cruise ship?",
+     "v": "wide"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "signon",
+   "hud": "DAY 1",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Day one. You walk up the gangway.",
+     "v": "port",
+     "plane": "port",
+     "you": "port"
+    },
+    {
+     "s": "Your new home is huge.",
+     "v": "wide",
+     "plane": "port"
+    },
+    {
+     "s": "Take Royal Caribbean's Icon of the Seas.",
+     "v": "ship",
+     "plane": "port",
+     "st": [
+      "ICON OF THE SEAS",
+      "Royal Caribbean · launched 2024"
+     ]
+    },
+    {
+     "s": "Twenty decks.",
+     "v": "ship"
+    },
+    {
+     "s": "About fifty-six hundred guests, two to a cabin.",
+     "v": "balcony",
+     "st": [
+      "5,610",
+      "guests at double occupancy"
+     ]
+    },
+    {
+     "s": "Up to seventy-six hundred when it's packed.",
+     "v": "pool"
+    },
+    {
+     "s": "And about twenty-three hundred and fifty crew.",
+     "v": "corridor",
+     "st": [
+      "~2,350",
+      "crew · ship fact sheet"
+     ]
+    },
+    {
+     "s": "That's one of you for every two or three guests.",
+     "d": {
+      "type": "big",
+      "big": "1 : 2.4",
+      "small": "crew to guests · Icon of the Seas"
+     }
+    },
+    {
+     "s": "Two worlds share one hull.",
+     "v": "ship"
+    },
+    {
+     "s": "Guests get the top.",
+     "v": "pool"
+    },
+    {
+     "s": "You get the bottom.",
+     "v": "engine"
+    },
+    {
+     "s": "Crew areas sit on the lower decks,",
+     "v": "corridor"
+    },
+    {
+     "s": "behind doors guests can't open.",
+     "v": "stairs"
+    },
+    {
+     "s": "The main crew hallway runs from the front of the ship to the back.",
+     "v": "i95"
+    },
+    {
+     "s": "Crews call it I-95, like the highway.",
+     "v": "i95",
+     "you": "i95"
+    },
+    {
+     "s": "Your cabin, the crew mess and the laundry all branch off it.",
+     "v": "corridor"
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "SIGN-ON"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "sleep",
+   "hud": "DAY 1",
+   "chip": "23:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Your cabin.",
+     "v": "cabin"
+    },
+    {
+     "s": "Most crew cabins have no window.",
+     "v": "cabin",
+     "st": [
+      "NO WINDOW",
+      "most crew cabins"
+     ]
+    },
+    {
+     "s": "So you can't tell if it's day or night outside.",
+     "v": "bunk"
+    },
+    {
+     "s": "You share it with one, two, or even three people.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "Senior crew may get a cabin to themselves.",
+     "v": "cabin2"
+    },
+    {
+     "s": "You get a bunk.",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "A narrow mattress.",
+     "v": "bunk"
+    },
+    {
+     "s": "A couple of drawers underneath.",
+     "v": "bunk"
+    },
+    {
+     "s": "And a curtain.",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "That curtain is most of your privacy.",
+     "v": "cabin"
+    },
+    {
+     "s": "Your roommate might work nights.",
+     "v": "cabin2"
+    },
+    {
+     "s": "You might work days.",
+     "v": "galley",
+     "you": "galley"
+    },
+    {
+     "s": "And the ship is never quiet.",
+     "v": "engine"
+    },
+    {
+     "s": "Engines hum. The floor vibrates.",
+     "v": "engine"
+    },
+    {
+     "s": "Doors slam. Footsteps pass.",
+     "v": "corridor"
+    },
+    {
+     "s": "Alarms go off.",
+     "v": "office",
+     "plane": "alarm"
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "SLEEP"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "shower",
+   "hud": "DAY 2",
+   "chip": "06:10",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Your bathroom is part of the cabin.",
+     "v": "shower"
+    },
+    {
+     "s": "Shower, toilet and sink.",
+     "v": "shower"
+    },
+    {
+     "s": "You can almost reach all three without moving.",
+     "v": "shower",
+     "you": "shower"
+    },
+    {
+     "s": "A curtain keeps the rest of the room dry.",
+     "v": "shower"
+    },
+    {
+     "s": "Up to four people may share it.",
+     "v": "cabin",
+     "st": [
+      "4",
+      "people, one bathroom"
+     ]
+    },
+    {
+     "s": "So you learn to be quick.",
+     "v": "shower",
+     "you": "shower"
+    },
+    {
+     "s": "On many ships, a central laundry washes your uniform.",
+     "v": "laundry"
+    },
+    {
+     "s": "Your own clothes?",
+     "v": "laundry"
+    },
+    {
+     "s": "Self-service crew laundry rooms.",
+     "v": "laundry",
+     "you": "laundry"
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "SHOWER"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "food",
+   "hud": "DAY 3",
+   "chip": "16:30",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Upstairs, guests have restaurants, cafés and a buffet.",
+     "v": "buffet"
+    },
+    {
+     "s": "Down here, you have the crew mess.",
+     "v": "mess"
+    },
+    {
+     "s": "It's a canteen. Rows of tables. Serving lines.",
+     "v": "mess"
+    },
+    {
+     "s": "Meals run at set times,",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "with different times for different shifts.",
+     "v": "mess",
+     "st": [
+      "SET TIMES",
+      "meals follow your shift"
+     ]
+    },
+    {
+     "s": "The crew comes from all over the world.",
+     "v": "corridor"
+    },
+    {
+     "s": "On some ships, the menu leans toward the crew's biggest nationalities.",
+     "v": "galley"
+    },
+    {
+     "s": "Officers eat in their own, quieter mess.",
+     "v": "mess"
+    },
+    {
+     "s": "And under maritime law, your food is free.",
+     "d": {
+      "type": "big",
+      "big": "FREE",
+      "small": "crew meals · Maritime Labour Convention, 2006"
+     }
+    },
+    {
+     "s": "Want a drink after your shift?",
+     "v": "bar",
+     "plane": "party"
+    },
+    {
+     "s": "The crew bar opens in the evening.",
+     "v": "bar",
+     "plane": "party"
+    },
+    {
+     "s": "There's a little crew shop too.",
+     "v": "bar"
+    },
+    {
+     "s": "No cash. It goes on your crew card.",
+     "v": "bar",
+     "you": "bar"
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "FOOD"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "work",
+   "hud": "DAY 40",
+   "chip": "05:30",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "Now the hard part.",
+     "v": "galley"
+    },
+    {
+     "s": "You work every single day.",
+     "d": {
+      "type": "months",
+      "label": "EVERY DAY",
+      "from": 0,
+      "to": 5
+     }
+    },
+    {
+     "s": "Your contract has no real days off.",
+     "v": "office"
+    },
+    {
+     "s": "Twelve-hour days are not unusual.",
+     "v": "galley",
+     "you": "galley"
+    },
+    {
+     "s": "Some jobs run split shifts.",
+     "v": "buffet",
+     "you": "buffet"
+    },
+    {
+     "s": "A few hours on, a break, then back on at night.",
+     "d": {
+      "type": "flow",
+      "steps": [
+       "ON: MORNING",
+       "BREAK",
+       "ON: EVENING"
+      ],
+      "note": "a split shift"
+     }
+    },
+    {
+     "s": "Galley crews can start before breakfast,",
+     "v": "galley"
+    },
+    {
+     "s": "and finish after the late-night cleanup.",
+     "v": "galley",
+     "you": "galley"
+    },
+    {
+     "s": "A deck officer might work four hours on, eight hours off.",
+     "v": "bridge",
+     "you": "bridge"
+    },
+    {
+     "s": "So is there any limit?",
+     "v": "office"
+    },
+    {
+     "s": "Yes. The Maritime Labour Convention sets one.",
+     "v": "office",
+     "you": "office"
+    },
+    {
+     "s": "At least ten hours of rest in any twenty-four.",
+     "d": {
+      "type": "big",
+      "big": "10 h",
+      "small": "minimum rest in any 24 hours · MLC 2006"
+     }
+    },
+    {
+     "s": "At least seventy-seven hours in any week.",
+     "v": "office",
+     "st": [
+      "77 h",
+      "minimum rest in any 7 days"
+     ]
+    },
+    {
+     "s": "Or, depending on the flag, no more than fourteen hours of work a day.",
+     "v": "office",
+     "st": [
+      "14 h",
+      "maximum work in any 24 hours"
+     ]
+    },
+    {
+     "s": "Rest can be split in two,",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "but one block has to be at least six hours.",
+     "d": {
+      "type": "flow",
+      "steps": [
+       "REST: 6 h+",
+       "WORK",
+       "REST"
+      ],
+      "note": "MLC 2006 · Standard A2.3"
+     }
+    },
+    {
+     "s": "And safety drills?",
+     "v": "lifeboat",
+     "plane": "alarm"
+    },
+    {
+     "s": "They're mandatory.",
+     "v": "lifeboat",
+     "you": "lifeboat",
+     "plane": "alarm"
+    },
+    {
+     "s": "They often land in your rest time, or your port time.",
+     "v": "office",
+     "plane": "alarm"
+    }
+   ],
+   "card": [
+    "PROBLEM 4",
+    "NO DAY OFF"
+   ],
+   "gain": -2.1
+  },
+  {
+   "id": "life",
+   "hud": "DAY 90",
+   "chip": "22:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "So what do you do with a few free hours?",
+     "v": "cabin"
+    },
+    {
+     "s": "There's a crew gym.",
+     "v": "gym",
+     "you": "gym"
+    },
+    {
+     "s": "There's a crew deck outside, often up near the bow.",
+     "v": "helipad",
+     "you": "helipad"
+    },
+    {
+     "s": "There are crew parties at the bar.",
+     "v": "bar",
+     "plane": "party"
+    },
+    {
+     "s": "Internet is often limited.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "Newer ships are trying to do better.",
+     "v": "ship"
+    },
+    {
+     "s": "For Icon of the Seas,",
+     "v": "ship"
+    },
+    {
+     "s": "over a thousand crew members reviewed mockups of their spaces.",
+     "v": "gym",
+     "st": [
+      "1,000+",
+      "crew reviewed the designs"
+     ]
+    },
+    {
+     "s": "Their top requests?",
+     "v": "cabin"
+    },
+    {
+     "s": "More storage.",
+     "v": "cabin2"
+    },
+    {
+     "s": "And more privacy.",
+     "v": "bunk"
+    }
+   ],
+   "card": [
+    "OFF DUTY",
+    "CREW LIFE"
+   ],
+   "gain": 0.84
+  },
+  {
+   "id": "signoff",
+   "hud": "DAY 180",
+   "chip": "SIGN-OFF",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Most contracts run somewhere between three and ten months.",
+     "d": {
+      "type": "big",
+      "big": "3 to 10",
+      "small": "months per contract, typical"
+     }
+    },
+    {
+     "s": "Then you get one or two months at home.",
+     "v": "port",
+     "plane": "port"
+    },
+    {
+     "s": "Then you sign on again.",
+     "v": "port",
+     "plane": "port",
+     "you": "port"
+    },
+    {
+     "s": "Same hallway. Maybe a new roommate.",
+     "v": "i95",
+     "you": "i95"
+    },
+    {
+     "s": "Above you, thousands of new guests start their vacation.",
+     "v": "pool"
+    },
+    {
+     "s": "Below them, you start day one again.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "So, could you do six months below deck?",
+     "v": "wide"
+    },
+    {
+     "s": "Off Limits Life.",
+     "d": {
+      "type": "brand",
+      "tag": "How people live where you can't go"
+     }
+    }
+   ],
+   "card": [
+    "SIGN-OFF",
+    "GOING HOME"
+   ],
+   "gain": 0.84
+  }
+ ]
+}

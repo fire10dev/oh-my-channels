@@ -1,0 +1,91 @@
+{
+ "title": "Oil Rig Workers Train Upside Down Underwater",
+ "hook": "FLIPPED UNDERWATER",
+ "asof": "Figures as of 2026 · full video on the channel",
+ "world": "rig",
+ "long": "IX004",
+ "chapters": [
+  {
+   "id": "huet",
+   "hud": "DAY 0",
+   "chip": "TRAINING",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "pool",
+     "plane": "flip",
+     "s": "Before you can work on a North Sea oil rig, you have to escape this."
+    },
+    {
+     "v": "heli",
+     "plane": "fly",
+     "s": "Almost everyone flies out to the rigs by helicopter."
+    },
+    {
+     "v": "heli",
+     "s": "So you train for the worst."
+    },
+    {
+     "v": "pool",
+     "you": "pool",
+     "st": [
+      "HUET",
+      "helicopter underwater escape training"
+     ],
+     "s": "It's called HUET."
+    },
+    {
+     "v": "pool",
+     "you": "pool",
+     "s": "A mock helicopter cabin is dropped into a pool,"
+    },
+    {
+     "v": "pool",
+     "plane": "flip",
+     "s": "and rolled upside down."
+    },
+    {
+     "v": "pool",
+     "plane": "flip",
+     "you": "pool",
+     "s": "You practice getting out, underwater, in the dark."
+    },
+    {
+     "v": "heli",
+     "st": [
+      "REQUIRED",
+      "OPITO, 2024"
+     ],
+     "s": "It's required for everyone flying offshore by helicopter."
+    },
+    {
+     "v": "heli",
+     "s": "And then there's your size."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "22 in",
+      "small": "shoulder width = extra-broad (XBR) · since 2014"
+     },
+     "s": "Shoulders twenty-two inches or more? Extra-broad."
+    },
+    {
+     "v": "heli",
+     "plane": "fly",
+     "s": "You sit next to the bigger windows,"
+    },
+    {
+     "v": "heli",
+     "you": "heli",
+     "s": "so you can still squeeze out in a survival suit."
+    },
+    {
+     "v": "pool",
+     "plane": "flip",
+     "s": "Could you get out?"
+    }
+   ]
+  }
+ ]
+}

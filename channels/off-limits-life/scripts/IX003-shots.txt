@@ -1,0 +1,117 @@
+!title How Cruise Ship Crews Eat, Shower & Sleep
+!asof Figures as of 2026 · sources in description
+!world cruise
+## hook | | DAY 1 | SIGN-ON | day | 1.12
+Above you, thousands of people are on vacation. :: v=ship
+Pools. Waterslides. Endless buffets. :: v=slide
+Now go down. :: v=stairs
+Below the passengers, :: v=corridor
+past the doors marked crew only, :: v=i95
+is where you live. :: v=cabin you=cabin
+No window. :: v=bunk
+A bunk bed, and up to three roommates. :: v=cabin2 you=cabin2
+Twelve-hour days are not unusual. :: v=galley you=galley
+And no real day off, for months. :: d={"type":"months","label":"NO DAYS OFF","from":0,"to":5}
+So how do you eat, :: v=mess you=mess
+shower, :: v=shower you=shower
+and sleep, :: v=bunk you=bunk
+on a cruise ship? :: v=wide
+## signon | DAY 1 / SIGN-ON | DAY 1 | 08:00 | day | 0.0
+Day one. You walk up the gangway. :: v=port plane=port you=port
+Your new home is huge. :: v=wide plane=port
+Take Royal Caribbean's Icon of the Seas. :: v=ship plane=port st=ICON_OF_THE_SEAS;Royal_Caribbean_·_launched_2024
+Twenty decks. :: v=ship
+About fifty-six hundred guests, two to a cabin. :: v=balcony st=5,610;guests_at_double_occupancy
+Up to seventy-six hundred when it's packed. :: v=pool
+And about twenty-three hundred and fifty crew. :: v=corridor st=~2,350;crew_·_ship_fact_sheet
+That's one of you for every two or three guests. :: d={"type":"big","big":"1 : 2.4","small":"crew to guests · Icon of the Seas"}
+Two worlds share one hull. :: v=ship
+Guests get the top. :: v=pool
+You get the bottom. :: v=engine
+Crew areas sit on the lower decks, :: v=corridor
+behind doors guests can't open. :: v=stairs
+The main crew hallway runs from the front of the ship to the back. :: v=i95
+Crews call it I-95, like the highway. :: v=i95 you=i95
+Your cabin, the crew mess and the laundry all branch off it. :: v=corridor
+## sleep | PROBLEM 1 / SLEEP | DAY 1 | 23:00 | night | -1.4
+Your cabin. :: v=cabin
+Most crew cabins have no window. :: v=cabin st=NO_WINDOW;most_crew_cabins
+So you can't tell if it's day or night outside. :: v=bunk
+You share it with one, two, or even three people. :: v=cabin you=cabin
+Senior crew may get a cabin to themselves. :: v=cabin2
+You get a bunk. :: v=bunk you=bunk
+A narrow mattress. :: v=bunk
+A couple of drawers underneath. :: v=bunk
+And a curtain. :: v=bunk you=bunk
+That curtain is most of your privacy. :: v=cabin
+Your roommate might work nights. :: v=cabin2
+You might work days. :: v=galley you=galley
+And the ship is never quiet. :: v=engine
+Engines hum. The floor vibrates. :: v=engine
+Doors slam. Footsteps pass. :: v=corridor
+Alarms go off. :: v=office plane=alarm
+## shower | PROBLEM 2 / SHOWER | DAY 2 | 06:10 | day | 0.0
+Your bathroom is part of the cabin. :: v=shower
+Shower, toilet and sink. :: v=shower
+You can almost reach all three without moving. :: v=shower you=shower
+A curtain keeps the rest of the room dry. :: v=shower
+Up to four people may share it. :: v=cabin st=4;people,_one_bathroom
+So you learn to be quick. :: v=shower you=shower
+On many ships, a central laundry washes your uniform. :: v=laundry
+Your own clothes? :: v=laundry
+Self-service crew laundry rooms. :: v=laundry you=laundry
+## food | PROBLEM 3 / FOOD | DAY 3 | 16:30 | day | 0.56
+Upstairs, guests have restaurants, cafés and a buffet. :: v=buffet
+Down here, you have the crew mess. :: v=mess
+It's a canteen. Rows of tables. Serving lines. :: v=mess
+Meals run at set times, :: v=mess you=mess
+with different times for different shifts. :: v=mess st=SET_TIMES;meals_follow_your_shift
+The crew comes from all over the world. :: v=corridor
+On some ships, the menu leans toward the crew's biggest nationalities. :: v=galley
+Officers eat in their own, quieter mess. :: v=mess
+And under maritime law, your food is free. :: d={"type":"big","big":"FREE","small":"crew meals · Maritime Labour Convention, 2006"}
+Want a drink after your shift? :: v=bar plane=party
+The crew bar opens in the evening. :: v=bar plane=party
+There's a little crew shop too. :: v=bar
+No cash. It goes on your crew card. :: v=bar you=bar
+## work | PROBLEM 4 / NO DAY OFF | DAY 40 | 05:30 | dawn | -2.1
+Now the hard part. :: v=galley
+You work every single day. :: d={"type":"months","label":"EVERY DAY","from":0,"to":5}
+Your contract has no real days off. :: v=office
+Twelve-hour days are not unusual. :: v=galley you=galley
+Some jobs run split shifts. :: v=buffet you=buffet
+A few hours on, a break, then back on at night. :: d={"type":"flow","steps":["ON: MORNING","BREAK","ON: EVENING"],"note":"a split shift"}
+Galley crews can start before breakfast, :: v=galley
+and finish after the late-night cleanup. :: v=galley you=galley
+A deck officer might work four hours on, eight hours off. :: v=bridge you=bridge
+So is there any limit? :: v=office
+Yes. The Maritime Labour Convention sets one. :: v=office you=office
+At least ten hours of rest in any twenty-four. :: d={"type":"big","big":"10 h","small":"minimum rest in any 24 hours · MLC 2006"}
+At least seventy-seven hours in any week. :: v=office st=77_h;minimum_rest_in_any_7_days
+Or, depending on the flag, no more than fourteen hours of work a day. :: v=office st=14_h;maximum_work_in_any_24_hours
+Rest can be split in two, :: v=bunk you=bunk
+but one block has to be at least six hours. :: d={"type":"flow","steps":["REST: 6 h+","WORK","REST"],"note":"MLC 2006 · Standard A2.3"}
+And safety drills? :: v=lifeboat plane=alarm
+They're mandatory. :: v=lifeboat you=lifeboat plane=alarm
+They often land in your rest time, or your port time. :: v=office plane=alarm
+## life | OFF DUTY / CREW LIFE | DAY 90 | 22:00 | night | 0.84
+So what do you do with a few free hours? :: v=cabin
+There's a crew gym. :: v=gym you=gym
+There's a crew deck outside, often up near the bow. :: v=helipad you=helipad
+There are crew parties at the bar. :: v=bar plane=party
+Internet is often limited. :: v=cabin you=cabin
+Newer ships are trying to do better. :: v=ship
+For Icon of the Seas, :: v=ship
+over a thousand crew members reviewed mockups of their spaces. :: v=gym st=1,000+;crew_reviewed_the_designs
+Their top requests? :: v=cabin
+More storage. :: v=cabin2
+And more privacy. :: v=bunk
+## signoff | SIGN-OFF / GOING HOME | DAY 180 | SIGN-OFF | day | 0.84
+Most contracts run somewhere between three and ten months. :: d={"type":"big","big":"3 to 10","small":"months per contract, typical"}
+Then you get one or two months at home. :: v=port plane=port
+Then you sign on again. :: v=port plane=port you=port
+Same hallway. Maybe a new roommate. :: v=i95 you=i95
+Above you, thousands of new guests start their vacation. :: v=pool
+Below them, you start day one again. :: v=cabin you=cabin
+So, could you do six months below deck? :: v=wide
+Off Limits Life. :: d={"type":"brand","tag":"How people live where you can't go"}

@@ -1,0 +1,89 @@
+{
+ "title": "Why Saturation Divers Sound Like Cartoons",
+ "hook": "HELIUM VOICE",
+ "asof": "Figures as of 2026 · full video on the channel",
+ "world": "sat",
+ "long": "IX005",
+ "chapters": [
+  {
+   "id": "voice",
+   "hud": "DAY 2",
+   "chip": "07:00",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "chamber",
+     "plane": "voice",
+     "you": "chamber",
+     "s": "These divers live for weeks breathing helium."
+    },
+    {
+     "v": "ship",
+     "s": "In a sealed chamber on the deck of a ship,"
+    },
+    {
+     "v": "chamber",
+     "s": "kept at the pressure of the seabed."
+    },
+    {
+     "v": "chamber",
+     "st": [
+      "HELIOX",
+      "helium + oxygen"
+     ],
+     "s": "They breathe helium mixed with oxygen."
+    },
+    {
+     "v": "chamber",
+     "plane": "voice",
+     "you": "chamber",
+     "s": "So their voices go high and squeaky."
+    },
+    {
+     "v": "control",
+     "s": "So high the crew outside can barely understand them."
+    },
+    {
+     "v": "control",
+     "plane": "voice",
+     "s": "A machine unscrambles their speech."
+    },
+    {
+     "v": "chamber",
+     "s": "And helium steals body heat,"
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "with every breath out."
+    },
+    {
+     "v": "gauge",
+     "plane": "temp",
+     "s": "So the chamber is kept hot."
+    },
+    {
+     "v": "chamber",
+     "st": [
+      "85–93°F",
+      "chamber temperature · DAN"
+     ],
+     "s": "Often around ninety degrees Fahrenheit."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "28 DAYS",
+      "small": "normal max in saturation · DMAC 21"
+     },
+     "s": "For up to twenty-eight days."
+    },
+    {
+     "v": "table",
+     "you": "table",
+     "s": "Could you live like that?"
+    }
+   ]
+  }
+ ]
+}

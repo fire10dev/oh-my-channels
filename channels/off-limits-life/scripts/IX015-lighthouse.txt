@@ -1,0 +1,97 @@
+!title How Lighthouse Keepers Ate, Washed & Slept on a Rock in the Sea
+!asof History from National Records of Scotland & a UK pay report (c. 1971) · sources in description
+!world lighthouse
+## hook | | DAY 1 | 1900 | dusk | 1.12
+Three men live inside this tower. :: v=wide
+It stands on a rock, eleven miles out to sea. :: v=sea
+At high tide, the waves cover the rock completely. :: v=rock plane=waves
+Their bedroom is round. :: v=bedroom you=bunk
+There's no shower. :: v=kitchen
+For a long time, there wasn't even a toilet. :: v=store
+So how did lighthouse keepers eat, :: v=kitchen you=kitchen
+wash, :: v=store you=store
+and sleep, :: v=bunk you=bunk
+on a rock in the sea? :: v=wide tod=night plane=light
+## tower | DAY 1 / THE BELL ROCK | DAY 1 | 1900 | day | 0.0
+This is the Bell Rock Lighthouse, :: v=wide
+off the east coast of Scotland. :: v=wide
+It was finished in 1810. :: v=tower st=1810;Bell_Rock_lit
+It's the oldest working sea-washed lighthouse in the world. :: v=tower st=OLDEST;sea-washed_lighthouse
+The tower is built of stone, from the rock up. :: v=tower
+Inside, rooms are stacked on top of each other, :: v=section
+like a tube of coins. :: v=section
+At the bottom, stores. :: v=store
+Then the kitchen. :: v=kitchen
+Then the bedroom. :: v=bedroom
+And at the top, the light. :: v=lamp plane=light tod=night
+## shift | PROBLEM 1 / THE NIGHT WATCH | DAY 1 | 22:00 | night | 0.56
+Three keepers were on duty at a time. :: v=section
+Their main job: keep the light burning, :: v=lamp plane=light tod=night you=lamp
+all night, every night. :: v=lamp plane=light tod=night you=lamp
+A clockwork machine turned the lamp :: v=section tod=night
+and rang the fog bell. :: v=clock tod=night
+It had to be wound up every thirty minutes. :: v=clock tod=night st=30_MIN;wind_the_clockwork
+So keepers split the night into watches of three or four hours. :: v=lamp tod=night you=lamp
+Watches changed every night, :: v=clock tod=night
+so nobody got the same watch twice in a row. :: v=clock tod=night
+## sleep | PROBLEM 2 / SLEEP | DAY 2 | 02:00 | night | -1.4
+Between watches, you sleep in the bedroom. :: v=bedroom tod=night
+It's a circle, about thirteen feet across. :: v=bedroom st=13_FT;round_bedroom
+Three bunks, curved to fit the wall. :: v=bunk tod=night
+A curtain for privacy. :: v=bunk you=bunk plane=curtain tod=night
+And outside, the sea hammers the tower. :: v=rock plane=waves tod=night
+## food | PROBLEM 3 / FOOD | DAY 2 | 07:00 | dawn | -1.4
+In the morning, :: v=kitchen you=kitchen
+the keeper who had the last night watch made breakfast for everyone. :: v=kitchen you=kitchen
+Food came out by boat. :: v=boat
+But the sea decided when. :: v=boat plane=waves
+A UK government report in the early 1970s described rock station food: :: v=kitchen
+meager and monotonous. :: v=kitchen you=kitchen
+Sometimes supplies were ruined, :: v=boat plane=waves
+soaked by seawater on the way out. :: v=boat plane=waves
+Every day, the keepers measured the oil, :: v=store you=store
+paraffin and water left. :: v=store you=store
+Because nobody knew when the next boat could land. :: v=sea plane=waves
+## wash | PROBLEM 4 / WASHING | DAY 10 | 11:00 | day | -2.1
+Fresh water had to be rationed. :: v=store
+So for the whole stay on the rock, :: v=kitchen
+there was no shower or bath. :: v=store you=store
+And the toilet? :: v=section
+Bell Rock didn't get one until 1964. :: v=store st=1964;first_toilet_on_the_rock
+A saltwater unit. :: v=store
+The report said sanitary conditions were sometimes primitive. :: v=kitchen
+## time | PROBLEM 5 / THE WAIT | DAY 30 | 14:00 | day | 0.0
+At first, keepers stayed on the rock for six weeks, :: v=calendar
+then two weeks ashore. :: v=calendar st=6_WEEKS;on_the_rock
+Later it became two months on, one month off. :: v=calendar
+By the 1970s, one month on, :: v=calendar
+one month off. :: v=calendar
+But in bad weather, the relief boat couldn't land. :: v=boat plane=waves
+So you waited. :: v=window you=window
+Families lived ashore, :: v=calendar
+at the signal tower in Arbroath. :: v=signal
+The two sides talked with flags :: v=calendar
+and a big copper ball. :: v=signal plane=flags
+It's said that when a keeper's baby was born, :: v=signal plane=trousers
+they'd fly trousers for a boy, :: v=signal plane=trousers
+or a dress for a girl. :: v=signal plane=dress
+## flannan | THE MYSTERY / FLANNAN ISLES, 1900 | DAY 0 | DEC 26, 1900 | dusk | -2.1
+Sometimes the sea won. :: v=sea plane=waves
+In December 1900, on the Flannan Isles, :: v=kitchen
+far to the west, :: v=flannan
+a passing steamer noticed the light was out. :: v=flannan tod=night
+On the twenty-sixth, :: v=sea
+a relief keeper named Joseph Moore landed. :: v=flannan you=flannan
+The station was empty. :: v=kitchen
+Lamps cleaned and ready. The kitchen tidy. :: v=kitchen
+Two sets of outdoor gear were missing. :: v=store
+Three keepers were never found. :: v=flannan st=3;keepers_never_found
+The inquiry found storm damage at the landing. :: v=rock plane=waves
+It concluded a huge wave probably swept them into the sea. :: v=rock plane=waves
+## end | THE END / THE LAST KEEPERS | DAY 0 | 1998 | dawn | 1.12
+Over time, machines took over. :: v=lamp plane=light
+In 1998, the last lighthouse in Scotland was automated. :: v=tower st=1998;last_Scottish_light_automated
+The keepers came ashore for good. :: v=boat
+The lights still flash every night, :: v=lamp tod=night
+with nobody inside. :: v=wide tod=night plane=light
+Could you live a month in a stone tube in the sea? :: v=bunk you=bunk

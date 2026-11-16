@@ -1,0 +1,968 @@
+{
+ "title": "How You Eat, Shower & Sleep Through a South Pole Winter",
+ "asof": "Figures as of 2026 · sources in description",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "FEB 15",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "The last plane just left.",
+     "v": "sky",
+     "fx": "plane",
+     "plane": "leave"
+    },
+    {
+     "s": "About forty people stayed behind.",
+     "v": "station"
+    },
+    {
+     "s": "You're one of them.",
+     "v": "pole",
+     "you": "pole"
+    },
+    {
+     "s": "The next flight comes in around eight months.",
+     "d": {
+      "type": "months",
+      "label": "NO FLIGHTS",
+      "from": 1,
+      "to": 9
+     }
+    },
+    {
+     "s": "Soon, the sun goes down.",
+     "v": "sun"
+    },
+    {
+     "s": "And it stays down for six months.",
+     "v": "wide",
+     "tod": "night"
+    },
+    {
+     "s": "Outside, it can drop below minus eighty.",
+     "v": "thermo",
+     "fx": "wind"
+    },
+    {
+     "s": "Even your water comes from a hole in the ice.",
+     "v": "rodwell"
+    },
+    {
+     "s": "So how do you eat,",
+     "v": "galley",
+     "you": "galley"
+    },
+    {
+     "s": "shower,",
+     "v": "bath",
+     "you": "bath"
+    },
+    {
+     "s": "and sleep,",
+     "v": "berth",
+     "you": "berth"
+    },
+    {
+     "s": "at the bottom of the world?",
+     "v": "wide"
+    }
+   ]
+  },
+  {
+   "id": "flight",
+   "card": [
+    "DAY 1",
+    "LAST FLIGHT OUT"
+   ],
+   "hud": "DAY 1",
+   "chip": "FEB 15",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "This is the Amundsen-Scott South Pole Station.",
+     "v": "station"
+    },
+    {
+     "s": "It's run by the U.S. National Science Foundation.",
+     "v": "flag"
+    },
+    {
+     "s": "It sits almost three kilometers above sea level.",
+     "v": "wide",
+     "st": [
+      "2,835 m",
+      "elevation · NSF, 2026"
+     ]
+    },
+    {
+     "s": "In summer, up to about a hundred and fifty people live here.",
+     "v": "station"
+    },
+    {
+     "s": "Planes land on skis.",
+     "v": "skiway",
+     "plane": "parked"
+    },
+    {
+     "s": "Tractor trains haul fuel across the ice.",
+     "v": "traverse"
+    },
+    {
+     "s": "Hundreds of thousands of gallons of it,",
+     "v": "tanks"
+    },
+    {
+     "s": "every summer.",
+     "v": "tanks"
+    },
+    {
+     "s": "Because once February ends,",
+     "v": "skiway"
+    },
+    {
+     "s": "planes normally stop coming.",
+     "v": "skiway"
+    },
+    {
+     "s": "As of 2026, the winter crew is only about forty people.",
+     "v": "station",
+     "st": [
+      "~40",
+      "winter crew · NSF, 2026"
+     ]
+    },
+    {
+     "s": "Scientists.",
+     "v": "comms",
+     "you": "comms"
+    },
+    {
+     "s": "Cooks.",
+     "v": "galley"
+    },
+    {
+     "s": "And the people who keep the lights on.",
+     "v": "power"
+    },
+    {
+     "s": "Most of the science here happens in winter.",
+     "v": "telescope"
+    },
+    {
+     "s": "Telescopes love the long, dark night.",
+     "v": "telescope"
+    },
+    {
+     "s": "Around mid-February, the last plane takes off.",
+     "v": "sky",
+     "fx": "plane",
+     "plane": "leave"
+    },
+    {
+     "s": "Now it's just you,",
+     "v": "pole",
+     "you": "pole"
+    },
+    {
+     "s": "about forty strangers,",
+     "v": "pole",
+     "you": "pole"
+    },
+    {
+     "s": "and the ice.",
+     "v": "wide",
+     "fx": "wind"
+    }
+   ]
+  },
+  {
+   "id": "sunset",
+   "card": [
+    "DAY 36",
+    "THE LAST SUNSET"
+   ],
+   "hud": "DAY 36",
+   "chip": "MAR 22",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "Here, the sun doesn't rise and set every day.",
+     "v": "sun"
+    },
+    {
+     "s": "It rises once a year,",
+     "v": "sun"
+    },
+    {
+     "s": "and sets once a year.",
+     "v": "sun"
+    },
+    {
+     "s": "Around late March,",
+     "v": "wide"
+    },
+    {
+     "s": "you watch it slide along the horizon.",
+     "v": "sun"
+    },
+    {
+     "s": "Lower and lower,",
+     "v": "sun"
+    },
+    {
+     "s": "for days.",
+     "v": "sun"
+    },
+    {
+     "s": "Then it's gone.",
+     "v": "wide",
+     "tod": "night",
+     "fx": "wind"
+    },
+    {
+     "s": "It won't come back until late September.",
+     "d": {
+      "type": "months",
+      "label": "NO SUN",
+      "from": 3,
+      "to": 9
+     }
+    },
+    {
+     "s": "That's six months of night.",
+     "v": "sky",
+     "tod": "night"
+    },
+    {
+     "s": "Out here, it's moonlight and stars.",
+     "v": "sky",
+     "tod": "night"
+    },
+    {
+     "s": "In here, it's routine.",
+     "v": "station",
+     "tod": "night"
+    }
+   ]
+  },
+  {
+   "id": "water",
+   "card": [
+    "PROBLEM 1",
+    "WATER"
+   ],
+   "hud": "DAY 40",
+   "chip": "MAR 26",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "You're standing on top of a continent of ice.",
+     "v": "wide"
+    },
+    {
+     "s": "And water is still the hardest thing to get.",
+     "v": "bath",
+     "you": "bath"
+    },
+    {
+     "s": "There's no river.",
+     "v": "ice"
+    },
+    {
+     "s": "No lake.",
+     "v": "ice"
+    },
+    {
+     "s": "And barely any snow falls.",
+     "v": "ice"
+    },
+    {
+     "s": "About an inch a year.",
+     "st": [
+      "1 in",
+      "precipitation / year · NSF"
+     ],
+     "v": "wide"
+    },
+    {
+     "s": "So the station makes its own lake.",
+     "v": "underground"
+    },
+    {
+     "s": "It's called a Rodwell.",
+     "v": "rodwell"
+    },
+    {
+     "s": "Hot water is pumped down a hole in the ice.",
+     "v": "rodwell",
+     "fx": "bubbles"
+    },
+    {
+     "s": "It melts a pool several hundred feet down.",
+     "v": "bulb"
+    },
+    {
+     "s": "Then pumps pull that water back up.",
+     "v": "bulb"
+    },
+    {
+     "s": "The heat comes from the power plant.",
+     "v": "power"
+    },
+    {
+     "s": "Waste heat from the generators.",
+     "v": "power"
+    },
+    {
+     "s": "Heat that would otherwise be lost.",
+     "d": {
+      "type": "flow",
+      "steps": [
+       "GENERATORS",
+       "WASTE HEAT",
+       "MELT ICE",
+       "YOUR TAP"
+      ]
+     }
+    },
+    {
+     "s": "Every drop you drink was melted with it.",
+     "v": "galley",
+     "you": "galley"
+    },
+    {
+     "s": "And after a few years,",
+     "v": "bulb"
+    },
+    {
+     "s": "when a Rodwell gets too big,",
+     "v": "bulb"
+    },
+    {
+     "s": "it gets a new job.",
+     "v": "sewer"
+    },
+    {
+     "s": "It becomes the sewage tank.",
+     "v": "sewer",
+     "fx": "bubbles"
+    },
+    {
+     "s": "Yes.",
+     "v": "bath",
+     "you": "bath"
+    },
+    {
+     "s": "Your old water well becomes your toilet.",
+     "v": "underground"
+    },
+    {
+     "s": "So water is precious.",
+     "v": "bath",
+     "you": "bath"
+    },
+    {
+     "s": "In summer, the station's rule",
+     "v": "bath",
+     "you": "bath"
+    },
+    {
+     "s": "is two showers a week,",
+     "d": {
+      "type": "big",
+      "big": "2 × 2",
+      "small": "showers a week × minutes (summer rule)"
+     }
+    },
+    {
+     "s": "two minutes each.",
+     "v": "bath",
+     "you": "bath"
+    },
+    {
+     "s": "One resident did the math.",
+     "v": "comms",
+     "you": "comms"
+    },
+    {
+     "s": "That's about thirty-four seconds of shower a day.",
+     "st": [
+      "34 s",
+      "of shower per day"
+     ],
+     "v": "bath"
+    },
+    {
+     "s": "Winter has fewer people.",
+     "v": "station"
+    },
+    {
+     "s": "But every gallon still costs heat.",
+     "v": "power"
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "card": [
+    "PROBLEM 2",
+    "FOOD"
+   ],
+   "hud": "DAY 112",
+   "chip": "JUN 6",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "The galley serves over twenty-four thousand meals a year.",
+     "v": "galley",
+     "st": [
+      "24,354",
+      "meals a year · NSF"
+     ]
+    },
+    {
+     "s": "But nothing new arrives until spring.",
+     "v": "skiway"
+    },
+    {
+     "s": "Most of the food was ordered years in advance.",
+     "v": "freezer"
+    },
+    {
+     "s": "It's shipped in bulk,",
+     "v": "freezer",
+     "you": "freezer"
+    },
+    {
+     "s": "and kept deep-frozen.",
+     "v": "freezer",
+     "you": "freezer"
+    },
+    {
+     "s": "Some of it is stored outside.",
+     "v": "cache"
+    },
+    {
+     "s": "Here, the freezer is the planet.",
+     "v": "wide"
+    },
+    {
+     "s": "Ice cream sits out there at around minus seventy Fahrenheit.",
+     "v": "cache",
+     "st": [
+      "-70°F",
+      "outdoor ice cream storage"
+     ]
+    },
+    {
+     "s": "Before you can eat it,",
+     "v": "galley",
+     "you": "galley"
+    },
+    {
+     "s": "the cooks warm it up for days.",
+     "v": "galley",
+     "you": "galley"
+    },
+    {
+     "s": "Fresh food is the real problem.",
+     "v": "galley"
+    },
+    {
+     "s": "Eggs.",
+     "v": "egg"
+    },
+    {
+     "s": "Fruit.",
+     "v": "freezer"
+    },
+    {
+     "s": "Vegetables.",
+     "v": "greenhouse"
+    },
+    {
+     "s": "The cooks order just enough to last,",
+     "v": "galley"
+    },
+    {
+     "s": "but they run out.",
+     "v": "freezer"
+    },
+    {
+     "s": "In 2023, the crew fried their last fresh egg on June sixth.",
+     "d": {
+      "type": "months",
+      "label": "LAST FRESH EGG · JUN 6, 2023",
+      "from": 1,
+      "to": 4
+     }
+    },
+    {
+     "s": "Over medium.",
+     "v": "egg"
+    },
+    {
+     "s": "Salt and pepper.",
+     "v": "egg"
+    },
+    {
+     "s": "After that, one place has anything green.",
+     "v": "station"
+    },
+    {
+     "s": "The greenhouse.",
+     "v": "greenhouse",
+     "you": "greenhouse"
+    },
+    {
+     "s": "Volunteers grow herbs under bright lamps.",
+     "v": "greenhouse",
+     "you": "greenhouse"
+    },
+    {
+     "s": "And, now and then,",
+     "v": "greenhouse",
+     "you": "greenhouse"
+    },
+    {
+     "s": "a salad.",
+     "v": "greenhouse",
+     "you": "greenhouse"
+    },
+    {
+     "s": "It's also the only humid room on the station.",
+     "v": "greenhouse",
+     "you": "greenhouse"
+    },
+    {
+     "s": "So people don't just go there to eat.",
+     "v": "greenhouse",
+     "you": "greenhouse"
+    },
+    {
+     "s": "They go there to feel human.",
+     "v": "greenhouse",
+     "you": "greenhouse"
+    }
+   ]
+  },
+  {
+   "id": "dark",
+   "card": [
+    "PROBLEM 3",
+    "THE DARK"
+   ],
+   "hud": "DAY 127",
+   "chip": "JUN 21",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "By midwinter,",
+     "v": "wide"
+    },
+    {
+     "s": "the hardest part isn't the cold.",
+     "v": "thermo"
+    },
+    {
+     "s": "It's your own head.",
+     "v": "berth",
+     "you": "berth"
+    },
+    {
+     "s": "With no sunrise,",
+     "v": "sky"
+    },
+    {
+     "s": "your body clock has nothing to follow.",
+     "v": "berth",
+     "you": "berth"
+    },
+    {
+     "s": "Sleep gets strange.",
+     "v": "berth",
+     "you": "berth"
+    },
+    {
+     "s": "In 1989, at McMurdo, a coastal U.S. station,",
+     "v": "wide"
+    },
+    {
+     "s": "sixty-four percent of the winter crew who were asked",
+     "d": {
+      "type": "big",
+      "big": "64%",
+      "small": "reported sleep problems · McMurdo winter, 1989"
+     }
+    },
+    {
+     "s": "reported problems with sleep.",
+     "v": "berth",
+     "you": "berth"
+    },
+    {
+     "s": "Researchers even found winter changes in the thyroid.",
+     "v": "medical"
+    },
+    {
+     "s": "They call it polar T3 syndrome.",
+     "v": "medical",
+     "st": [
+      "T3",
+      "polar T3 syndrome"
+     ]
+    },
+    {
+     "s": "It's been linked to changes in mood and memory.",
+     "v": "comms",
+     "you": "comms"
+    },
+    {
+     "s": "And then there's the internet.",
+     "v": "comms",
+     "you": "comms"
+    },
+    {
+     "s": "You only get it a few hours a day,",
+     "v": "comms",
+     "you": "comms"
+    },
+    {
+     "s": "when satellites rise above the horizon.",
+     "v": "sky"
+    },
+    {
+     "s": "And those hours slide about four minutes earlier every day.",
+     "d": {
+      "type": "flow",
+      "steps": [
+       "MON 9:00",
+       "TUE 8:56",
+       "WED 8:52",
+       "THU 8:48"
+      ]
+     }
+    },
+    {
+     "s": "Speeds can drop to a couple of kilobits per second.",
+     "v": "comms"
+    },
+    {
+     "s": "Slower than dial-up.",
+     "st": [
+      "2 kbps",
+      "on a bad day"
+     ],
+     "v": "comms"
+    },
+    {
+     "s": "Video calls home?",
+     "v": "comms",
+     "you": "comms"
+    },
+    {
+     "s": "Good luck.",
+     "v": "berth",
+     "you": "berth"
+    }
+   ]
+  },
+  {
+   "id": "club",
+   "card": [
+    "TRADITION",
+    "THE 300 CLUB"
+   ],
+   "hud": "DAY 150",
+   "chip": "-100°F",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Some winter days,",
+     "v": "wide"
+    },
+    {
+     "s": "it drops below minus one hundred Fahrenheit.",
+     "v": "thermo",
+     "st": [
+      "-100°F",
+      "the magic number"
+     ],
+     "fx": "wind"
+    },
+    {
+     "s": "That's when some of the crew try something wild.",
+     "v": "station"
+    },
+    {
+     "s": "They sit in a sauna heated to two hundred degrees.",
+     "v": "sauna",
+     "you": "sauna"
+    },
+    {
+     "s": "Then they step outside.",
+     "v": "hall"
+    },
+    {
+     "s": "Into minus one hundred.",
+     "v": "thermo",
+     "fx": "wind"
+    },
+    {
+     "s": "A three-hundred-degree swing.",
+     "d": {
+      "type": "compare",
+      "left": [
+       "SAUNA",
+       "+200°F",
+       "for minutes"
+      ],
+      "right": [
+       "OUTSIDE",
+       "-100°F",
+       "for seconds"
+      ],
+      "note": "300 DEGREES"
+     }
+    },
+    {
+     "s": "Wearing boots,",
+     "v": "pole",
+     "you": "run"
+    },
+    {
+     "s": "and not much else,",
+     "v": "pole",
+     "you": "run"
+    },
+    {
+     "s": "they run out to the South Pole marker.",
+     "v": "pole",
+     "you": "run"
+    },
+    {
+     "s": "And back.",
+     "v": "hall"
+    },
+    {
+     "s": "That's the 300 Club.",
+     "v": "sauna",
+     "you": "sauna"
+    },
+    {
+     "s": "Some winters, it never gets cold enough to try.",
+     "v": "thermo"
+    }
+   ]
+  },
+  {
+   "id": "sick",
+   "card": [
+    "PROBLEM 4",
+    "NO WAY OUT"
+   ],
+   "hud": "DAY 160",
+   "chip": "JUL",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Here's the scariest part of winter.",
+     "v": "medical"
+    },
+    {
+     "s": "If you get badly hurt,",
+     "v": "medical",
+     "you": "medical"
+    },
+    {
+     "s": "a plane can't just come and get you.",
+     "v": "skiway"
+    },
+    {
+     "s": "It's dark.",
+     "v": "sky"
+    },
+    {
+     "s": "It's brutally cold.",
+     "v": "thermo",
+     "fx": "wind"
+    },
+    {
+     "s": "And the closest base a plane can wait at is well over a thousand miles away.",
+     "d": {
+      "type": "flow",
+      "steps": [
+       "CANADA",
+       "ROTHERA BASE",
+       "SOUTH POLE",
+       "CHILE"
+      ],
+      "note": "June 2016"
+     }
+    },
+    {
+     "s": "In June 2016,",
+     "v": "station"
+    },
+    {
+     "s": "two workers at the Pole got seriously ill.",
+     "v": "medical",
+     "you": "medical"
+    },
+    {
+     "s": "Two small Twin Otter planes flew from Canada,",
+     "v": "sky",
+     "plane": "arrive"
+    },
+    {
+     "s": "down to a British base on the Antarctic coast.",
+     "v": "sky"
+    },
+    {
+     "s": "One waited there as backup.",
+     "v": "skiway"
+    },
+    {
+     "s": "The other flew to the Pole in the dark,",
+     "v": "sky",
+     "fx": "plane",
+     "plane": "arrive"
+    },
+    {
+     "s": "and brought both patients out.",
+     "v": "skiway",
+     "plane": "parked"
+    },
+    {
+     "s": "It made headlines because it almost never happens.",
+     "v": "comms"
+    },
+    {
+     "s": "So down here,",
+     "v": "station"
+    },
+    {
+     "s": "you're careful.",
+     "v": "hall",
+     "you": "hall"
+    },
+    {
+     "s": "Very careful.",
+     "v": "hall",
+     "you": "hall"
+    }
+   ]
+  },
+  {
+   "id": "sunrise",
+   "card": [
+    "DAY 219",
+    "SUNRISE"
+   ],
+   "hud": "DAY 219",
+   "chip": "SEP 21",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "Then, around late September,",
+     "v": "wide"
+    },
+    {
+     "s": "a glow appears on the horizon.",
+     "v": "sun"
+    },
+    {
+     "s": "The sun comes back.",
+     "v": "sun",
+     "tod": "day"
+    },
+    {
+     "s": "It circles the sky,",
+     "v": "sky",
+     "tod": "day"
+    },
+    {
+     "s": "a little higher every day.",
+     "v": "sky",
+     "tod": "day"
+    },
+    {
+     "s": "A few weeks later,",
+     "v": "pole",
+     "you": "pole",
+     "tod": "day"
+    },
+    {
+     "s": "you hear an engine.",
+     "v": "sky",
+     "tod": "day",
+     "fx": "plane",
+     "plane": "arrive"
+    },
+    {
+     "s": "The first plane of the season.",
+     "v": "skiway",
+     "tod": "day",
+     "plane": "parked"
+    },
+    {
+     "s": "Fresh faces.",
+     "v": "skiway",
+     "tod": "day",
+     "plane": "parked"
+    },
+    {
+     "s": "And fresh food.",
+     "v": "galley",
+     "you": "galley",
+     "tod": "day"
+    },
+    {
+     "s": "Your first fresh egg in about five months.",
+     "v": "egg",
+     "tod": "day"
+    },
+    {
+     "s": "You made it through a South Pole winter.",
+     "v": "station",
+     "tod": "day"
+    },
+    {
+     "s": "Eight months without flights.",
+     "v": "skiway",
+     "tod": "day"
+    },
+    {
+     "s": "Six months of night.",
+     "v": "sky",
+     "tod": "night"
+    },
+    {
+     "s": "One lake under the ice.",
+     "v": "rodwell",
+     "tod": "day"
+    },
+    {
+     "s": "And about forty people who know you better than anyone.",
+     "v": "station",
+     "tod": "day"
+    },
+    {
+     "s": "Next time, we're going somewhere else you'll never get a ticket to.",
+     "v": "wide",
+     "tod": "day"
+    },
+    {
+     "s": "Subscribe, so you don't miss it.",
+     "d": {
+      "type": "brand",
+      "tag": "How people live where you can't go"
+     }
+    }
+   ]
+  }
+ ]
+}

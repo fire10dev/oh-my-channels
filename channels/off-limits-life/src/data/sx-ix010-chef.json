@@ -1,0 +1,67 @@
+{
+ "title": "Who Cooks for Nuclear Missile Officers 60 Feet Underground",
+ "hook": "LUNCH, 60 FT DOWN",
+ "asof": "Figures from US Air Force & National Park Service · full video on the channel",
+ "world": "capsule",
+ "long": "IX010",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "HOUR 6",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Sixty feet underground, there's no kitchen.",
+     "v": "capsule"
+    },
+    {
+     "s": "These officers guard nuclear missiles for twenty-four hours straight.",
+     "v": "console",
+     "you": "console"
+    },
+    {
+     "s": "So who feeds them?",
+     "v": "meal"
+    },
+    {
+     "s": "Upstairs, in a building that looks like a ranch house,",
+     "v": "house"
+    },
+    {
+     "s": "a missile chef cooks for everyone on site.",
+     "v": "kitchen",
+     "you": "chef"
+    },
+    {
+     "s": "One chef, working alone, for ten to twenty people.",
+     "v": "kitchen",
+     "st": [
+      "1 CHEF",
+      "10–20 people · Minot"
+     ]
+    },
+    {
+     "s": "The crew picks from a menu before going down.",
+     "v": "meal"
+    },
+    {
+     "s": "Then the chef brings the food down at set times.",
+     "v": "meal",
+     "plane": "meal"
+    },
+    {
+     "s": "For many crews, that's the only face they see all day.",
+     "v": "meal",
+     "plane": "meal",
+     "you": "capsule"
+    },
+    {
+     "s": "Would you take that job?",
+     "v": "kitchen",
+     "you": "chef"
+    }
+   ]
+  }
+ ]
+}

@@ -35,6 +35,17 @@ TASKS = [
     (TLT, None, "user", "Nghe duyệt bằng tai các Short trước khi đăng tiếp; kiểm license nhạc"),
     (LTCQ, None, "user", "Nghe duyệt bằng tai các Short trước khi đăng tiếp; kiểm license nhạc"),
     (TLT, None, "user", "Duyệt 14 video dài L1–L7 (EN) trước khi đăng — chưa nghe bằng tai"),
+    (OLL, None, "user", "Đăng long theo thứ tự (không để 2 video biển liền nhau): IX006 → IX007 → IX008 → IX010 → IX009 → IX012 → IX011 → IX014 → IX013 → IX016 → IX015. "
+                        "Form: AI/altered = Không, Made for kids = Không. Shorts đăng sau khi long public + gắn Related video"),
+    (OLL, "sx-ix001-hotrack", "user", "Đăng ngay (IX001 đã public) + Related video = IX001"),
+    (OLL, "sx-ix001-noflush", "user", "Đăng ngay (IX001 đã public) + Related video = IX001"),
+    (OLL, "sx-ix002-300club", "user", "Đăng ngay (IX002 đã public) + Related video = IX002"),
+    (OLL, "sx-ix002-well", "user", "Đăng ngay (IX002 đã public) + Related video = IX002"),
+    (OLL, "IX001", "user", "Tải thumbnail A lên Studio; thêm tag (lần trước Studio chưa nhận)"),
+    (OLL, "IX001", "agent", "Bình luận ghim: viết + đăng (owner ghim)"),
+    (OLL, "IX003", "agent", "Bình luận ghim: viết + đăng (owner ghim)"),
+    (OLL, "IX004", "agent", "Bình luận ghim: viết + đăng (owner ghim)"),
+    (OLL, "IX005", "agent", "Bình luận ghim: viết + đăng (owner ghim)"),
 ]
 
 FACTS = [
@@ -44,7 +55,14 @@ FACTS = [
     (RAE, "L007", "duration", "8:49"), (RAE, "L007", "lufs", "-14.3"),
     (RAE, "L006", "images", "0/55 (placeholder)"), (RAE, "L006", "tts", "488 s"),
     (RAE, "L001", "duration", "9:30"),
-]
+    (OLL, "IX001", "duration", "8:25"), (OLL, "IX002", "duration", "5:49"), (OLL, "IX002", "gate", "9/9"),
+    (OLL, "IX003", "duration", "4:05"), (OLL, "IX003", "gate", "8/9"), (OLL, "IX004", "duration", "3:57"), (OLL, "IX004", "gate", "8/9"),
+    (OLL, "IX005", "duration", "3:44"), (OLL, "IX005", "gate", "6/9"), (OLL, "IX006", "duration", "5:22"), (OLL, "IX006", "gate", "6/9"),
+    (OLL, "IX007", "duration", "4:33"), (OLL, "IX008", "duration", "3:46"), (OLL, "IX009", "duration", "3:12"),
+    (OLL, "IX010", "duration", "3:08"), (OLL, "IX011", "duration", "3:38"), (OLL, "IX012", "duration", "3:08"),
+    (OLL, "IX013", "duration", "3:12"), (OLL, "IX014", "duration", "2:58"), (OLL, "IX015", "duration", "3:14"),
+    (OLL, "IX016", "duration", "2:51"),
+] + [(OLL, f"IX{n:03d}", "gate", "8/8") for n in range(7, 17)]
 
 
 def main():
@@ -67,7 +85,7 @@ def main():
         if not a.channel or ch == a.channel:
             ythub.fact(con, code, k, v, channel=ch)
     # one migration event per video of the channels whose HANDOFF was archived
-    for ch in {t[0] for t in TASKS} | {RAE, VMM}:
+    for ch in {t[0] for t in TASKS}:
         if a.channel and ch != a.channel:
             continue
         for v in con.execute("SELECT v.code FROM video v JOIN channel c ON c.id=v.channel_id WHERE c.name=?", (ch,)).fetchall():

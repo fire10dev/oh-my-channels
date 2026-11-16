@@ -1,0 +1,75 @@
+{
+ "title": "How Cardinals Get Their Rooms for a Papal Conclave",
+ "hook": "ROOMS BY LOTTERY",
+ "asof": "Rules from Universi Dominici Gregis (1996) · May 2025 conclave · full video on the channel",
+ "world": "conclave",
+ "long": "IX012",
+ "chapters": [
+  {
+   "id": "home",
+   "hud": "DAY 0",
+   "chip": "MAY 3, 2025",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "To choose a pope, cardinals move into a Vatican guesthouse.",
+     "v": "house"
+    },
+    {
+     "s": "It's called Casa Santa Marta, and it has a hundred and thirty-one rooms.",
+     "v": "house",
+     "st": [
+      "131",
+      "rooms"
+     ]
+    },
+    {
+     "s": "In 2025, Pope Francis's old rooms were sealed.",
+     "v": "house",
+     "plane": "sealed"
+    },
+    {
+     "s": "That left about a hundred and twenty-five rooms for a hundred and thirty-three cardinals.",
+     "v": "house",
+     "st": [
+      "~125",
+      "rooms for 133"
+     ]
+    },
+    {
+     "s": "So who gets which room?",
+     "v": "lots"
+    },
+    {
+     "s": "They draw lots. Even when there's room for everyone.",
+     "v": "lots",
+     "plane": "lots"
+    },
+    {
+     "s": "A bed, a dresser, and a private bathroom with a shower.",
+     "v": "room",
+     "you": "room"
+    },
+    {
+     "s": "The phones work, but nobody may call outside.",
+     "v": "room",
+     "you": "room"
+    },
+    {
+     "s": "Internet and satellite TV are cut off.",
+     "v": "room"
+    },
+    {
+     "s": "Every room is swept for hidden bugs.",
+     "v": "sweep",
+     "plane": "sweep"
+    },
+    {
+     "s": "Could you live like that until a pope is chosen?",
+     "v": "room",
+     "you": "room"
+    }
+   ]
+  }
+ ]
+}

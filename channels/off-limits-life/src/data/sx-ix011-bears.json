@@ -1,0 +1,75 @@
+{
+ "title": "The Polar Bear Guards of the Biggest Arctic Expedition",
+ "hook": "BEAR GUARD ON DUTY",
+ "asof": "Figures from the MOSAiC expedition 2019–2020 · full video on the channel",
+ "world": "polar",
+ "long": "IX011",
+ "chapters": [
+  {
+   "id": "bears",
+   "hud": "DAY 60",
+   "chip": "DEC 2019",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "On this expedition, someone's job was to watch for polar bears.",
+     "v": "guard",
+     "you": "guard"
+    },
+    {
+     "s": "In 2019, the ship Polarstern froze itself into the Arctic ice for a year.",
+     "v": "ship"
+    },
+    {
+     "s": "Hundreds of scientists worked on the ice beside it.",
+     "v": "camp"
+    },
+    {
+     "s": "So nobody went out without a bear guard.",
+     "v": "guard",
+     "you": "camp"
+    },
+    {
+     "s": "Six to eight guards on each leg of the trip.",
+     "v": "guard",
+     "st": [
+      "6–8",
+      "guards per leg"
+     ]
+    },
+    {
+     "s": "They scanned the horizon from the ship,",
+     "v": "crow"
+    },
+    {
+     "s": "or patrolled a tripwire fence around the camp.",
+     "v": "fence"
+    },
+    {
+     "s": "Cross the wire, and a flare goes off.",
+     "v": "fence",
+     "plane": "flare"
+    },
+    {
+     "s": "More than sixty polar bears were spotted near the ship.",
+     "v": "bear",
+     "plane": "bear",
+     "st": [
+      "60+",
+      "bears sighted"
+     ]
+    },
+    {
+     "s": "Not a single one was shot.",
+     "v": "bear",
+     "plane": "bear"
+    },
+    {
+     "s": "Would you stand guard in the dark?",
+     "v": "guard",
+     "you": "guard"
+    }
+   ]
+  }
+ ]
+}

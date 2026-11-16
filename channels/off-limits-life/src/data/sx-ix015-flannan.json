@@ -1,0 +1,70 @@
+{
+ "title": "The Three Lighthouse Keepers Who Vanished in 1900",
+ "hook": "THE LIGHT WENT OUT",
+ "asof": "History from National Records of Scotland · full video on the channel",
+ "world": "lighthouse",
+ "long": "IX015",
+ "chapters": [
+  {
+   "id": "flannan",
+   "hud": "DEC 1900",
+   "chip": "DEC 26, 1900",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "In December 1900, a lighthouse in Scotland went dark.",
+     "v": "flannan",
+     "tod": "night"
+    },
+    {
+     "s": "The Flannan Isles, far out in the Atlantic.",
+     "v": "flannan"
+    },
+    {
+     "s": "A passing steamer noticed the light was out.",
+     "v": "flannan",
+     "tod": "night"
+    },
+    {
+     "s": "On December twenty-sixth, a relief keeper named Joseph Moore landed.",
+     "v": "flannan",
+     "you": "flannan"
+    },
+    {
+     "s": "The station was empty.",
+     "v": "kitchen"
+    },
+    {
+     "s": "Lamps cleaned and ready. The kitchen tidy.",
+     "v": "kitchen"
+    },
+    {
+     "s": "Two sets of outdoor gear were missing.",
+     "v": "store"
+    },
+    {
+     "s": "Three keepers were never found.",
+     "v": "flannan",
+     "st": [
+      "3",
+      "keepers never found"
+     ]
+    },
+    {
+     "s": "The inquiry found storm damage at the landing.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "It concluded a huge wave probably swept them away.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "What do you think happened?",
+     "v": "flannan"
+    }
+   ]
+  }
+ ]
+}

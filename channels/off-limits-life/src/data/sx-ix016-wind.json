@@ -1,0 +1,69 @@
+{
+ "title": "The 231 MPH Gust Measured on Mount Washington",
+ "hook": "231 MPH",
+ "asof": "Figures from Mount Washington Observatory & FOX Weather · full video on the channel",
+ "world": "summit",
+ "long": "IX016",
+ "chapters": [
+  {
+   "id": "record",
+   "hud": "APR 12, 1934",
+   "chip": "13:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "April 1934. Three men on a mountaintop measure something nobody had ever seen.",
+     "v": "tower",
+     "plane": "wind"
+    },
+    {
+     "s": "The Mount Washington Observatory, in New Hampshire.",
+     "v": "building"
+    },
+    {
+     "s": "Sal Pagliuca, Alex McKenzie and Wendell Stephenson were on duty.",
+     "v": "office",
+     "you": "office"
+    },
+    {
+     "s": "Their anemometer had a heater built in, so ice couldn't jam it.",
+     "v": "tower",
+     "plane": "rime"
+    },
+    {
+     "s": "Then a gust hit two hundred thirty-one miles an hour.",
+     "v": "tower",
+     "plane": "wind",
+     "st": [
+      "231 MPH",
+      "April 12, 1934"
+     ]
+    },
+    {
+     "s": "For decades, it was the fastest wind ever measured on Earth's surface.",
+     "v": "deck",
+     "plane": "wind"
+    },
+    {
+     "s": "CBS reported it's still the fastest recorded by a person on land.",
+     "v": "mountain"
+    },
+    {
+     "s": "And in 2023, the wind chill up here hit minus one hundred eight Fahrenheit.",
+     "v": "rime",
+     "plane": "rime",
+     "st": [
+      "−108°F",
+      "wind chill · 2023"
+     ]
+    },
+    {
+     "s": "Would you stand on that deck?",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    }
+   ]
+  }
+ ]
+}

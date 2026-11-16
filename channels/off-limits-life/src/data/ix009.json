@@ -1,0 +1,501 @@
+{
+ "title": "How 5,000 Sailors Eat, Shower & Sleep on an Aircraft Carrier",
+ "asof": "Figures from US Navy reports 2006–2025 · sources in description",
+ "world": "carrier",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "06:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "More than five thousand people live on this ship.",
+     "v": "wide"
+    },
+    {
+     "s": "For months, they don't step on land.",
+     "v": "sea"
+    },
+    {
+     "s": "Jets land on the roof all night.",
+     "v": "deck",
+     "plane": "trap",
+     "tod": "night"
+    },
+    {
+     "s": "The bedroom sleeps a hundred.",
+     "v": "berthing",
+     "you": "rack"
+    },
+    {
+     "s": "The kitchen never closes.",
+     "v": "galley"
+    },
+    {
+     "s": "So how do you eat,",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "shower,",
+     "v": "shower",
+     "plane": "shower:on",
+     "you": "shower"
+    },
+    {
+     "s": "and sleep,",
+     "v": "rack",
+     "you": "rack",
+     "plane": "curtain"
+    },
+    {
+     "s": "on an aircraft carrier?",
+     "v": "wide"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "ship",
+   "hud": "DAY 1",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "This is a Nimitz-class aircraft carrier.",
+     "v": "wide"
+    },
+    {
+     "s": "It's one thousand and ninety-two feet long.",
+     "v": "wide",
+     "st": [
+      "1,092 FT",
+      "long · US Navy"
+     ]
+    },
+    {
+     "s": "Two nuclear reactors drive it.",
+     "v": "reactor"
+    },
+    {
+     "s": "On top: the flight deck.",
+     "v": "deck"
+    },
+    {
+     "s": "Below it: the hangar, full of jets.",
+     "v": "hangar"
+    },
+    {
+     "s": "And below that, decks and decks of people.",
+     "v": "berthing"
+    },
+    {
+     "s": "The crew of a carrier like USS Ronald Reagan: about fifty-three hundred, with its air wing.",
+     "v": "wide",
+     "st": [
+      "~5,300",
+      "crew + air wing · 2006"
+     ]
+    },
+    {
+     "s": "For a lot of them, it's their first deployment.",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "On one Reagan deployment, about sixty percent had never deployed before.",
+     "v": "mess",
+     "st": [
+      "60%",
+      "first deployment · 2006"
+     ]
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "A CITY AT SEA"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "sleep",
+   "hud": "DAY 1",
+   "chip": "23:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Your bedroom is called a berthing.",
+     "v": "berthing",
+     "you": "rack"
+    },
+    {
+     "s": "Racks stacked three high.",
+     "v": "berthing"
+    },
+    {
+     "s": "Up to a hundred sailors can share one space.",
+     "v": "berthing",
+     "st": [
+      "100",
+      "sailors per berthing · 2006"
+     ]
+    },
+    {
+     "s": "You're so close that rolling over could wake the guy above you.",
+     "v": "rack",
+     "you": "rack"
+    },
+    {
+     "s": "Your rack has a curtain.",
+     "v": "rack",
+     "plane": "curtain",
+     "you": "rack"
+    },
+    {
+     "s": "It blocks the light.",
+     "v": "rack",
+     "plane": "curtain",
+     "you": "rack"
+    },
+    {
+     "s": "It doesn't block the sound.",
+     "v": "rack",
+     "plane": "curtain"
+    },
+    {
+     "s": "Day or night, you hear jets slamming down on deck.",
+     "v": "deck",
+     "plane": "trap",
+     "tod": "night"
+    },
+    {
+     "s": "The catapults fire,",
+     "v": "catapult",
+     "plane": "launch",
+     "tod": "night"
+    },
+    {
+     "s": "and the slam rings through the steel.",
+     "v": "hangar"
+    },
+    {
+     "s": "People work every hour of the day here.",
+     "v": "clock"
+    },
+    {
+     "s": "So someone is always sleeping, and someone is always waking up.",
+     "v": "berthing",
+     "you": "rack"
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "SLEEP"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "food",
+   "hud": "DAY 3",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "The galley on Reagan runs twenty-four hours a day.",
+     "v": "galley"
+    },
+    {
+     "s": "It serves more than fifteen thousand meals a day.",
+     "v": "mess",
+     "st": [
+      "15,000+",
+      "meals a day · Reagan, 2020"
+     ]
+    },
+    {
+     "s": "Every month, about fourteen hundred gallons of milk.",
+     "v": "storeroom",
+     "st": [
+      "1,400 GAL",
+      "milk per month"
+     ]
+    },
+    {
+     "s": "Seven thousand pounds of lettuce.",
+     "v": "storeroom"
+    },
+    {
+     "s": "And over thirty thousand pounds of chicken.",
+     "v": "storeroom",
+     "st": [
+      "30,000 LB",
+      "chicken per month"
+     ]
+    },
+    {
+     "s": "Not everyone can make it to mealtime.",
+     "v": "clock"
+    },
+    {
+     "s": "So cooks make plates to go, for people on watch.",
+     "v": "galley",
+     "you": "mess"
+    },
+    {
+     "s": "Before the USS Carl Vinson deployed in 2024,",
+     "v": "truck"
+    },
+    {
+     "s": "eighteen semi-trucks lined up to fill its storerooms and freezers.",
+     "v": "truck",
+     "plane": "trucks",
+     "st": [
+      "18",
+      "semi-trucks of food · Vinson"
+     ]
+    },
+    {
+     "s": "Food runs out.",
+     "v": "storeroom"
+    },
+    {
+     "s": "So supply ships pull up alongside, at sea.",
+     "v": "ras",
+     "plane": "ras"
+    },
+    {
+     "s": "That's called a replenishment at sea.",
+     "v": "ras",
+     "plane": "ras"
+    },
+    {
+     "s": "Pallets swing across on cables.",
+     "v": "ras",
+     "plane": "ras"
+    },
+    {
+     "s": "Then everyone carries boxes down below.",
+     "v": "hangar"
+    },
+    {
+     "s": "On Vinson, even master chiefs carry boxes.",
+     "v": "storeroom",
+     "you": "storeroom"
+    },
+    {
+     "s": "Then the cooks start all over again.",
+     "v": "galley"
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "FOOD"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "water",
+   "hud": "DAY 10",
+   "chip": "18:00",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "In the middle of the ocean, fresh water doesn't come from a pipe.",
+     "v": "sea"
+    },
+    {
+     "s": "The ship makes it from seawater.",
+     "v": "still"
+    },
+    {
+     "s": "Its plants can make about four hundred thousand gallons a day.",
+     "v": "still",
+     "st": [
+      "400,000 GAL",
+      "fresh water a day"
+     ]
+    },
+    {
+     "s": "The reactors need some of it.",
+     "v": "reactor"
+    },
+    {
+     "s": "So do jet washes, cooking and laundry.",
+     "v": "laundry"
+    },
+    {
+     "s": "And everyone wants a shower after work.",
+     "v": "shower",
+     "plane": "shower:on",
+     "you": "shower"
+    },
+    {
+     "s": "So sailors learn the navy shower.",
+     "v": "shower",
+     "you": "shower"
+    },
+    {
+     "s": "Get wet. Water off.",
+     "v": "shower",
+     "plane": "shower:on",
+     "you": "shower"
+    },
+    {
+     "s": "Soap up.",
+     "v": "shower",
+     "you": "shower"
+    },
+    {
+     "s": "Water on, rinse. Done.",
+     "v": "shower",
+     "plane": "shower:on",
+     "you": "shower"
+    },
+    {
+     "s": "When the plants break down, things shut off in order.",
+     "v": "still",
+     "plane": "water:low"
+    },
+    {
+     "s": "On USS George Washington, laundry closed first.",
+     "v": "laundry",
+     "plane": "water:low"
+    },
+    {
+     "s": "Then the dishwashing room.",
+     "v": "galley",
+     "plane": "water:low"
+    },
+    {
+     "s": "Then showers get cut back.",
+     "v": "shower",
+     "plane": "water:low"
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "WATER"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "noise",
+   "hud": "DAY 20",
+   "chip": "02:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "The flight deck is right above some living spaces.",
+     "v": "deck",
+     "tod": "night"
+    },
+    {
+     "s": "A Navy study put noise meters on a carrier for twenty-four hours.",
+     "v": "hangar"
+    },
+    {
+     "s": "During flight operations, living spaces below deck were very loud.",
+     "v": "berthing",
+     "plane": "launch"
+    },
+    {
+     "s": "Each catapult launch ends with a hard slam.",
+     "v": "catapult",
+     "plane": "launch",
+     "tod": "night"
+    },
+    {
+     "s": "That bang travels through the whole ship.",
+     "v": "hangar"
+    },
+    {
+     "s": "Sailors learn to sleep through it, or don't.",
+     "v": "rack",
+     "you": "rack",
+     "plane": "curtain"
+    }
+   ],
+   "card": [
+    "PROBLEM 4",
+    "THE NOISE"
+   ],
+   "gain": -2.1
+  },
+  {
+   "id": "life",
+   "hud": "DAY 45",
+   "chip": "20:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "You never leave, so the ship has everything.",
+     "v": "wide"
+    },
+    {
+     "s": "A gym.",
+     "v": "gym",
+     "you": "gym"
+    },
+    {
+     "s": "A laundry.",
+     "v": "laundry"
+    },
+    {
+     "s": "A store.",
+     "v": "store",
+     "you": "store"
+    },
+    {
+     "s": "And the sea, all the way to the horizon.",
+     "v": "sea",
+     "you": "deck"
+    }
+   ],
+   "card": [
+    "OFF DUTY",
+    "LIFE ON BOARD"
+   ],
+   "gain": 0.84
+  },
+  {
+   "id": "home",
+   "hud": "DAY 200",
+   "chip": "10:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "A deployment usually lasts months.",
+     "v": "sea"
+    },
+    {
+     "s": "Then the carrier turns for home.",
+     "v": "wide"
+    },
+    {
+     "s": "Families wait on the pier.",
+     "v": "truck",
+     "you": "deck"
+    },
+    {
+     "s": "Thousands of sailors walk off the ship.",
+     "v": "wide"
+    },
+    {
+     "s": "Your rack goes to the next crew.",
+     "v": "rack"
+    },
+    {
+     "s": "Could you share a bedroom with a hundred people for months?",
+     "v": "berthing",
+     "you": "rack"
+    }
+   ],
+   "card": [
+    "DAY 200",
+    "HOMECOMING"
+   ],
+   "gain": 1.12
+  }
+ ]
+}

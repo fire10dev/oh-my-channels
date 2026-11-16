@@ -1,0 +1,88 @@
+{
+ "title": "Oil Rig Workers Share a Cabin With a Stranger",
+ "hook": "YOUR CABIN MATE",
+ "asof": "Figures as of 2026 · full video on the channel",
+ "world": "rig",
+ "long": "IX004",
+ "chapters": [
+  {
+   "id": "cabin",
+   "hud": "DAY 1",
+   "chip": "19:00",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "On a North Sea oil rig, you might share your cabin with someone you barely see."
+    },
+    {
+     "v": "cabin",
+     "s": "Two bunks, a desk, lockers."
+    },
+    {
+     "v": "shower",
+     "s": "A bathroom shared with the cabin next door."
+    },
+    {
+     "v": "cabin2",
+     "plane": "night",
+     "s": "You work days. Your cabin mate works nights."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "So one of you is usually at work."
+    },
+    {
+     "v": "drill",
+     "you": "drill",
+     "s": "Twelve hours on."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Twelve hours off."
+    },
+    {
+     "v": "office",
+     "st": [
+      "ON82",
+      "HSE guidance, May 2026"
+     ],
+     "s": "Britain's regulator updated its rules in May 2026."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "9 m²",
+      "small": "minimum for a two-person cabin · HSE, 2026"
+     },
+     "s": "Under nine square meters? Normally too small for two."
+    },
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "Never more than two people in it at once."
+    },
+    {
+     "v": "rig",
+     "s": "In Norway, Ekofisk went further."
+    },
+    {
+     "v": "cabin",
+     "st": [
+      "2008",
+      "Ekofisk: single cabins"
+     ],
+     "s": "Since 2008, every cabin there is single."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Could you share a room for two weeks?"
+    }
+   ]
+  }
+ ]
+}

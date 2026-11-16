@@ -1,0 +1,547 @@
+{
+ "title": "How Lighthouse Keepers Ate, Washed & Slept on a Rock in the Sea",
+ "asof": "History from National Records of Scotland & a UK pay report (c. 1971) · sources in description",
+ "world": "lighthouse",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "1900",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "Three men live inside this tower.",
+     "v": "wide"
+    },
+    {
+     "s": "It stands on a rock, eleven miles out to sea.",
+     "v": "sea"
+    },
+    {
+     "s": "At high tide, the waves cover the rock completely.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "Their bedroom is round.",
+     "v": "bedroom",
+     "you": "bunk"
+    },
+    {
+     "s": "There's no shower.",
+     "v": "kitchen"
+    },
+    {
+     "s": "For a long time, there wasn't even a toilet.",
+     "v": "store"
+    },
+    {
+     "s": "So how did lighthouse keepers eat,",
+     "v": "kitchen",
+     "you": "kitchen"
+    },
+    {
+     "s": "wash,",
+     "v": "store",
+     "you": "store"
+    },
+    {
+     "s": "and sleep,",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "on a rock in the sea?",
+     "v": "wide",
+     "tod": "night",
+     "plane": "light"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "tower",
+   "hud": "DAY 1",
+   "chip": "1900",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "This is the Bell Rock Lighthouse,",
+     "v": "wide"
+    },
+    {
+     "s": "off the east coast of Scotland.",
+     "v": "wide"
+    },
+    {
+     "s": "It was finished in 1810.",
+     "v": "tower",
+     "st": [
+      "1810",
+      "Bell Rock lit"
+     ]
+    },
+    {
+     "s": "It's the oldest working sea-washed lighthouse in the world.",
+     "v": "tower",
+     "st": [
+      "OLDEST",
+      "sea-washed lighthouse"
+     ]
+    },
+    {
+     "s": "The tower is built of stone, from the rock up.",
+     "v": "tower"
+    },
+    {
+     "s": "Inside, rooms are stacked on top of each other,",
+     "v": "section"
+    },
+    {
+     "s": "like a tube of coins.",
+     "v": "section"
+    },
+    {
+     "s": "At the bottom, stores.",
+     "v": "store"
+    },
+    {
+     "s": "Then the kitchen.",
+     "v": "kitchen"
+    },
+    {
+     "s": "Then the bedroom.",
+     "v": "bedroom"
+    },
+    {
+     "s": "And at the top, the light.",
+     "v": "lamp",
+     "plane": "light",
+     "tod": "night"
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "THE BELL ROCK"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "shift",
+   "hud": "DAY 1",
+   "chip": "22:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Three keepers were on duty at a time.",
+     "v": "section"
+    },
+    {
+     "s": "Their main job: keep the light burning,",
+     "v": "lamp",
+     "plane": "light",
+     "tod": "night",
+     "you": "lamp"
+    },
+    {
+     "s": "all night, every night.",
+     "v": "lamp",
+     "plane": "light",
+     "tod": "night",
+     "you": "lamp"
+    },
+    {
+     "s": "A clockwork machine turned the lamp",
+     "v": "section",
+     "tod": "night"
+    },
+    {
+     "s": "and rang the fog bell.",
+     "v": "clock",
+     "tod": "night"
+    },
+    {
+     "s": "It had to be wound up every thirty minutes.",
+     "v": "clock",
+     "tod": "night",
+     "st": [
+      "30 MIN",
+      "wind the clockwork"
+     ]
+    },
+    {
+     "s": "So keepers split the night into watches of three or four hours.",
+     "v": "lamp",
+     "tod": "night",
+     "you": "lamp"
+    },
+    {
+     "s": "Watches changed every night,",
+     "v": "clock",
+     "tod": "night"
+    },
+    {
+     "s": "so nobody got the same watch twice in a row.",
+     "v": "clock",
+     "tod": "night"
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "THE NIGHT WATCH"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "sleep",
+   "hud": "DAY 2",
+   "chip": "02:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Between watches, you sleep in the bedroom.",
+     "v": "bedroom",
+     "tod": "night"
+    },
+    {
+     "s": "It's a circle, about thirteen feet across.",
+     "v": "bedroom",
+     "st": [
+      "13 FT",
+      "round bedroom"
+     ]
+    },
+    {
+     "s": "Three bunks, curved to fit the wall.",
+     "v": "bunk",
+     "tod": "night"
+    },
+    {
+     "s": "A curtain for privacy.",
+     "v": "bunk",
+     "you": "bunk",
+     "plane": "curtain",
+     "tod": "night"
+    },
+    {
+     "s": "And outside, the sea hammers the tower.",
+     "v": "rock",
+     "plane": "waves",
+     "tod": "night"
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "SLEEP"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "food",
+   "hud": "DAY 2",
+   "chip": "07:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "In the morning,",
+     "v": "kitchen",
+     "you": "kitchen"
+    },
+    {
+     "s": "the keeper who had the last night watch made breakfast for everyone.",
+     "v": "kitchen",
+     "you": "kitchen"
+    },
+    {
+     "s": "Food came out by boat.",
+     "v": "boat"
+    },
+    {
+     "s": "But the sea decided when.",
+     "v": "boat",
+     "plane": "waves"
+    },
+    {
+     "s": "A UK government report in the early 1970s described rock station food:",
+     "v": "kitchen"
+    },
+    {
+     "s": "meager and monotonous.",
+     "v": "kitchen",
+     "you": "kitchen"
+    },
+    {
+     "s": "Sometimes supplies were ruined,",
+     "v": "boat",
+     "plane": "waves"
+    },
+    {
+     "s": "soaked by seawater on the way out.",
+     "v": "boat",
+     "plane": "waves"
+    },
+    {
+     "s": "Every day, the keepers measured the oil,",
+     "v": "store",
+     "you": "store"
+    },
+    {
+     "s": "paraffin and water left.",
+     "v": "store",
+     "you": "store"
+    },
+    {
+     "s": "Because nobody knew when the next boat could land.",
+     "v": "sea",
+     "plane": "waves"
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "FOOD"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "wash",
+   "hud": "DAY 10",
+   "chip": "11:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Fresh water had to be rationed.",
+     "v": "store"
+    },
+    {
+     "s": "So for the whole stay on the rock,",
+     "v": "kitchen"
+    },
+    {
+     "s": "there was no shower or bath.",
+     "v": "store",
+     "you": "store"
+    },
+    {
+     "s": "And the toilet?",
+     "v": "section"
+    },
+    {
+     "s": "Bell Rock didn't get one until 1964.",
+     "v": "store",
+     "st": [
+      "1964",
+      "first toilet on the rock"
+     ]
+    },
+    {
+     "s": "A saltwater unit.",
+     "v": "store"
+    },
+    {
+     "s": "The report said sanitary conditions were sometimes primitive.",
+     "v": "kitchen"
+    }
+   ],
+   "card": [
+    "PROBLEM 4",
+    "WASHING"
+   ],
+   "gain": -2.1
+  },
+  {
+   "id": "time",
+   "hud": "DAY 30",
+   "chip": "14:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "At first, keepers stayed on the rock for six weeks,",
+     "v": "calendar"
+    },
+    {
+     "s": "then two weeks ashore.",
+     "v": "calendar",
+     "st": [
+      "6 WEEKS",
+      "on the rock"
+     ]
+    },
+    {
+     "s": "Later it became two months on, one month off.",
+     "v": "calendar"
+    },
+    {
+     "s": "By the 1970s, one month on,",
+     "v": "calendar"
+    },
+    {
+     "s": "one month off.",
+     "v": "calendar"
+    },
+    {
+     "s": "But in bad weather, the relief boat couldn't land.",
+     "v": "boat",
+     "plane": "waves"
+    },
+    {
+     "s": "So you waited.",
+     "v": "window",
+     "you": "window"
+    },
+    {
+     "s": "Families lived ashore,",
+     "v": "calendar"
+    },
+    {
+     "s": "at the signal tower in Arbroath.",
+     "v": "signal"
+    },
+    {
+     "s": "The two sides talked with flags",
+     "v": "calendar"
+    },
+    {
+     "s": "and a big copper ball.",
+     "v": "signal",
+     "plane": "flags"
+    },
+    {
+     "s": "It's said that when a keeper's baby was born,",
+     "v": "signal",
+     "plane": "trousers"
+    },
+    {
+     "s": "they'd fly trousers for a boy,",
+     "v": "signal",
+     "plane": "trousers"
+    },
+    {
+     "s": "or a dress for a girl.",
+     "v": "signal",
+     "plane": "dress"
+    }
+   ],
+   "card": [
+    "PROBLEM 5",
+    "THE WAIT"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "flannan",
+   "hud": "DAY 0",
+   "chip": "DEC 26, 1900",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "Sometimes the sea won.",
+     "v": "sea",
+     "plane": "waves"
+    },
+    {
+     "s": "In December 1900, on the Flannan Isles,",
+     "v": "kitchen"
+    },
+    {
+     "s": "far to the west,",
+     "v": "flannan"
+    },
+    {
+     "s": "a passing steamer noticed the light was out.",
+     "v": "flannan",
+     "tod": "night"
+    },
+    {
+     "s": "On the twenty-sixth,",
+     "v": "sea"
+    },
+    {
+     "s": "a relief keeper named Joseph Moore landed.",
+     "v": "flannan",
+     "you": "flannan"
+    },
+    {
+     "s": "The station was empty.",
+     "v": "kitchen"
+    },
+    {
+     "s": "Lamps cleaned and ready. The kitchen tidy.",
+     "v": "kitchen"
+    },
+    {
+     "s": "Two sets of outdoor gear were missing.",
+     "v": "store"
+    },
+    {
+     "s": "Three keepers were never found.",
+     "v": "flannan",
+     "st": [
+      "3",
+      "keepers never found"
+     ]
+    },
+    {
+     "s": "The inquiry found storm damage at the landing.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "It concluded a huge wave probably swept them into the sea.",
+     "v": "rock",
+     "plane": "waves"
+    }
+   ],
+   "card": [
+    "THE MYSTERY",
+    "FLANNAN ISLES, 1900"
+   ],
+   "gain": -2.1
+  },
+  {
+   "id": "end",
+   "hud": "DAY 0",
+   "chip": "1998",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "Over time, machines took over.",
+     "v": "lamp",
+     "plane": "light"
+    },
+    {
+     "s": "In 1998, the last lighthouse in Scotland was automated.",
+     "v": "tower",
+     "st": [
+      "1998",
+      "last Scottish light automated"
+     ]
+    },
+    {
+     "s": "The keepers came ashore for good.",
+     "v": "boat"
+    },
+    {
+     "s": "The lights still flash every night,",
+     "v": "lamp",
+     "tod": "night"
+    },
+    {
+     "s": "with nobody inside.",
+     "v": "wide",
+     "tod": "night",
+     "plane": "light"
+    },
+    {
+     "s": "Could you live a month in a stone tube in the sea?",
+     "v": "bunk",
+     "you": "bunk"
+    }
+   ],
+   "card": [
+    "THE END",
+    "THE LAST KEEPERS"
+   ],
+   "gain": 1.12
+  }
+ ]
+}

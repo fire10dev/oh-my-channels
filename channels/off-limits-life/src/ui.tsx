@@ -185,18 +185,19 @@ export const Caption: React.FC<{text: string; seconds: number}> = ({text, second
 };
 
 /** Chapter card shown at the start of a problem scene. */
-export const ChapterCard: React.FC<{kicker: string; title: string; frames: number}> = ({kicker, title, frames}) => {
+export const ChapterCard: React.FC<{kicker: string; title: string; frames: number; still?: boolean}> = ({kicker, title, frames, still}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   if (frame >= frames) return null;
-  const pop = spring({frame, fps, config: {damping: 14, stiffness: 180}});
+  const pop = still ? 1 : spring({frame, fps, config: {damping: 14, stiffness: 180}});
   return (
     <AbsoluteFill style={{background: '#1b1b26', alignItems: 'center', justifyContent: 'center'}}>
       <div style={{fontFamily: HAND, fontSize: 54, color: C.orange, letterSpacing: 6}}>{kicker}</div>
       <div
         style={{
           fontFamily: MARKER,
-          fontSize: 170,
+          // marker glyphs are ~0.62 em wide: shrink long titles to stay inside 1700 px
+          fontSize: Math.min(170, 1700 / (0.62 * title.length)),
           color: C.cream,
           transform: `scale(${0.6 + 0.4 * pop}) rotate(${-2 + 2 * pop}deg)`,
         }}
@@ -205,6 +206,12 @@ export const ChapterCard: React.FC<{kicker: string; title: string; frames: numbe
       </div>
     </AbsoluteFill>
   );
+};
+
+/** Big stat text inside a 460 px wide card: longest word must fit one line, long phrases wrap to ~2 lines. */
+const statSize = (big: string) => {
+  const longest = Math.max(...big.split(/\s+/).map((w) => w.length));
+  return Math.min(150, 460 / (0.66 * longest), big.length > 8 ? 900 / (0.66 * big.length) : 150);
 };
 
 export const StatCard: React.FC<{big: string; small: string}> = ({big, small}) => {
@@ -227,7 +234,7 @@ export const StatCard: React.FC<{big: string; small: string}> = ({big, small}) =
         textAlign: 'center',
       }}
     >
-      <div style={{fontFamily: MARKER, fontSize: 150, color: C.red, lineHeight: 1}}>{big}</div>
+      <div style={{fontFamily: MARKER, fontSize: statSize(big), color: C.red, lineHeight: 1}}>{big}</div>
       <div style={{fontFamily: HAND, fontSize: 44, color: C.navy}}>{small}</div>
     </div>
   );

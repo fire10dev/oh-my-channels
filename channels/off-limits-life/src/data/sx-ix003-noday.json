@@ -1,0 +1,106 @@
+{
+ "title": "Cruise Ship Crews Don't Get Days Off",
+ "hook": "NO DAYS OFF",
+ "asof": "Figures as of 2026 · full video on the channel",
+ "world": "cruise",
+ "long": "IX003",
+ "chapters": [
+  {
+   "id": "work",
+   "hud": "DAY 40",
+   "chip": "05:30",
+   "tod": "dawn",
+   "shots": [
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "On a cruise ship, the crew works every single day."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "EVERY DAY",
+      "small": "for months · no real day off"
+     },
+     "s": "For months."
+    },
+    {
+     "v": "office",
+     "s": "Most contracts have no real days off."
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "Twelve-hour days are not unusual."
+    },
+    {
+     "v": "buffet",
+     "you": "buffet",
+     "s": "Some jobs run split shifts."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "ON: MORNING",
+       "BREAK",
+       "ON: EVENING"
+      ],
+      "note": "a split shift"
+     },
+     "s": "A few hours on, a break, then back on at night."
+    },
+    {
+     "v": "galley",
+     "s": "Galley crews can start before breakfast,"
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "and finish after the late-night cleanup."
+    },
+    {
+     "v": "office",
+     "s": "So is there any limit?"
+    },
+    {
+     "v": "office",
+     "you": "office",
+     "s": "Yes. The Maritime Labour Convention sets one."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "10 h",
+      "small": "minimum rest in any 24 hours · MLC 2006"
+     },
+     "s": "At least ten hours of rest in any twenty-four."
+    },
+    {
+     "v": "office",
+     "st": [
+      "77 h",
+      "minimum rest in any 7 days"
+     ],
+     "s": "At least seventy-seven hours in any week."
+    },
+    {
+     "v": "lifeboat",
+     "plane": "alarm",
+     "s": "And safety drills?"
+    },
+    {
+     "v": "lifeboat",
+     "you": "lifeboat",
+     "plane": "alarm",
+     "s": "They often land in your rest time."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Could you work every day for six months?"
+    }
+   ]
+  }
+ ]
+}

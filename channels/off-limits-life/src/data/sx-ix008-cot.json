@@ -1,0 +1,82 @@
+{
+ "title": "Where B-2 Pilots Sleep on a 44-Hour Mission",
+ "hook": "NAP BEHIND THE SEATS",
+ "asof": "Figures from the 2001 and 2025 missions · full video on the channel",
+ "world": "bomber",
+ "long": "IX008",
+ "chapters": [
+  {
+   "id": "sleep",
+   "hud": "HOUR 9",
+   "chip": "03:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "This is the bed on a forty-four-hour bomber mission.",
+     "v": "cot",
+     "plane": "sleep"
+    },
+    {
+     "s": "The B-2 flies with just two pilots.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "No backup crew. Nobody to swap in.",
+     "v": "cockpit"
+    },
+    {
+     "s": "In 2001, two pilots flew one for forty-four point three hours.",
+     "v": "clock",
+     "st": [
+      "44.3 HRS",
+      "nonstop · Oct 2001"
+     ]
+    },
+    {
+     "s": "Behind their seats: a modified Army cot and a sleeping bag.",
+     "v": "cot",
+     "you": "cot"
+    },
+    {
+     "s": "One sleeps while the other flies.",
+     "v": "seats",
+     "you": "seats",
+     "plane": "sleep"
+    },
+    {
+     "s": "Today, the Air Force says pilots nap on a metal surface back there.",
+     "v": "cot",
+     "you": "cot"
+    },
+    {
+     "s": "And it's not comfortable.",
+     "v": "cot",
+     "you": "cot",
+     "plane": "sleep"
+    },
+    {
+     "s": "Both must be awake for every air refueling.",
+     "v": "tanker",
+     "plane": "refuel"
+    },
+    {
+     "s": "The pilot said it wasn't high-quality sleep.",
+     "v": "cot",
+     "you": "cot"
+    },
+    {
+     "s": "But at that point, any sleep is good sleep.",
+     "v": "cot",
+     "you": "cot",
+     "plane": "sleep"
+    },
+    {
+     "s": "Could you sleep behind the pilot's seat?",
+     "v": "seats",
+     "you": "seats"
+    }
+   ]
+  }
+ ]
+}

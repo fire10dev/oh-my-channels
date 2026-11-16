@@ -1,0 +1,502 @@
+{
+ "title": "How Nuclear Missile Officers Eat & Sleep 60 Feet Underground",
+ "asof": "Figures from US Air Force & National Park Service, as of 2026 · sources in description",
+ "world": "capsule",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "07:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "Two officers ride an elevator sixty feet down.",
+     "v": "elevator",
+     "you": "elevator"
+    },
+    {
+     "s": "At the bottom, a blast door weighing eight tons.",
+     "v": "door",
+     "st": [
+      "8 TONS",
+      "blast door · NPS"
+     ]
+    },
+    {
+     "s": "Behind it, a capsule the size of a bedroom.",
+     "v": "capsule",
+     "you": "capsule"
+    },
+    {
+     "s": "For the next twenty-four hours, this is their whole world.",
+     "v": "capsule",
+     "plane": "door:shut"
+    },
+    {
+     "s": "Their job: watch over ten nuclear missiles.",
+     "v": "console",
+     "you": "console"
+    },
+    {
+     "s": "So how do you eat,",
+     "v": "meal",
+     "plane": "meal"
+    },
+    {
+     "s": "sleep,",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "and stay sane,",
+     "v": "wall"
+    },
+    {
+     "s": "sixty feet underground?",
+     "v": "wide"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "field",
+   "hud": "DAY 1",
+   "chip": "06:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "This is Montana.",
+     "v": "prairie"
+    },
+    {
+     "s": "Open prairie, as far as you can see.",
+     "v": "prairie"
+    },
+    {
+     "s": "Hidden in it, there are Minuteman Three missiles in silos.",
+     "v": "silo"
+    },
+    {
+     "s": "Each one can reach targets more than six thousand miles away.",
+     "v": "silo",
+     "st": [
+      "6,000+ MI",
+      "range · US Air Force"
+     ]
+    },
+    {
+     "s": "The US keeps them on alert at three bases,",
+     "v": "prairie"
+    },
+    {
+     "s": "in Montana, North Dakota and Wyoming.",
+     "v": "prairie"
+    },
+    {
+     "s": "For every ten missiles,",
+     "v": "silo"
+    },
+    {
+     "s": "there's one underground control center.",
+     "v": "wide",
+     "st": [
+      "10",
+      "missiles per capsule · NPS"
+     ]
+    },
+    {
+     "s": "Above it sits a building that looks like a ranch house.",
+     "v": "house"
+    },
+    {
+     "s": "That's the missile alert facility.",
+     "v": "house",
+     "you": "house"
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "THE MISSILE FIELD"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "down",
+   "hud": "DAY 1",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "You drive out across the prairie.",
+     "v": "prairie",
+     "you": "truck"
+    },
+    {
+     "s": "Before you go,",
+     "v": "truck",
+     "you": "truck"
+    },
+    {
+     "s": "you pick up a cooler of food for the site's kitchen.",
+     "v": "house",
+     "you": "house"
+    },
+    {
+     "s": "Then a small elevator takes you down.",
+     "v": "elevator",
+     "you": "elevator"
+    },
+    {
+     "s": "Sixty feet.",
+     "v": "shaft",
+     "st": [
+      "60 FT",
+      "below ground · Malmstrom"
+     ]
+    },
+    {
+     "s": "At the bottom, a steel blast door.",
+     "v": "door"
+    },
+    {
+     "s": "It can only be opened from inside.",
+     "v": "door",
+     "plane": "door:shut"
+    },
+    {
+     "s": "A voice inside shouts \"clear.\"",
+     "v": "door"
+    },
+    {
+     "s": "You shout back, and the door swings open.",
+     "v": "door",
+     "plane": "door:open",
+     "you": "door"
+    },
+    {
+     "s": "Nobody can be in here alone.",
+     "v": "capsule"
+    },
+    {
+     "s": "The Air Force calls it a no-lone zone.",
+     "v": "capsule",
+     "st": [
+      "NO-LONE ZONE",
+      "always 2 people"
+     ]
+    },
+    {
+     "s": "The old crew briefs you face to face.",
+     "v": "capsule",
+     "you": "capsule"
+    },
+    {
+     "s": "Then they leave, and the capsule is yours.",
+     "v": "capsule",
+     "plane": "door:shut",
+     "you": "capsule"
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "GOING DOWN"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "work",
+   "hud": "HOUR 2",
+   "chip": "10:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "The shift is twenty-four hours.",
+     "v": "clock",
+     "st": [
+      "24 HRS",
+      "one alert"
+     ]
+    },
+    {
+     "s": "Checks, logs, verifications, over and over.",
+     "v": "console",
+     "you": "console"
+    },
+    {
+     "s": "You watch the status of your missiles.",
+     "v": "console"
+    },
+    {
+     "s": "You check messages,",
+     "v": "console",
+     "you": "console"
+    },
+    {
+     "s": "and track maintenance teams at the silos.",
+     "v": "silo"
+    },
+    {
+     "s": "If a motion sensor trips at a silo, you send security.",
+     "v": "silo",
+     "plane": "alarm"
+    },
+    {
+     "s": "One officer called it a very repetitive job.",
+     "v": "console",
+     "you": "console"
+    },
+    {
+     "s": "That's the point, he said.",
+     "v": "console"
+    },
+    {
+     "s": "If a launch order ever came,",
+     "v": "console",
+     "plane": "alarm"
+    },
+    {
+     "s": "two people would have to turn two keys.",
+     "v": "keys"
+    },
+    {
+     "s": "They're placed so far apart that one person can't turn both.",
+     "v": "keys",
+     "st": [
+      "2 KEYS",
+      "too far for one person"
+     ]
+    },
+    {
+     "s": "A former missileer described the job",
+     "v": "capsule"
+    },
+    {
+     "s": "as hours and hours of sheer boredom,",
+     "v": "clock"
+    },
+    {
+     "s": "punctuated by seconds of panic.",
+     "v": "console",
+     "plane": "alarm"
+    }
+   ],
+   "card": [
+    "THE JOB",
+    "24 HOURS ON ALERT"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "food",
+   "hud": "HOUR 6",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "There's no kitchen down here.",
+     "v": "capsule"
+    },
+    {
+     "s": "Upstairs, a missile chef cooks for everyone on site.",
+     "v": "kitchen"
+    },
+    {
+     "s": "Security forces, the facility manager, and you.",
+     "v": "kitchen"
+    },
+    {
+     "s": "One chef, working alone,",
+     "v": "kitchen",
+     "you": "chef"
+    },
+    {
+     "s": "for ten to twenty people at a site.",
+     "v": "kitchen",
+     "st": [
+      "1 CHEF",
+      "10–20 people · Minot"
+     ]
+    },
+    {
+     "s": "You order from a menu before going down.",
+     "v": "meal"
+    },
+    {
+     "s": "Then the chef brings it to you at set times.",
+     "v": "meal",
+     "plane": "meal",
+     "you": "capsule"
+    },
+    {
+     "s": "For a lot of crews,",
+     "v": "capsule"
+    },
+    {
+     "s": "that's the only face they see all day.",
+     "v": "meal",
+     "plane": "meal"
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "FOOD"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "sleep",
+   "hud": "HOUR 16",
+   "chip": "02:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "There's one bed.",
+     "v": "bunk"
+    },
+    {
+     "s": "Two people.",
+     "v": "capsule"
+    },
+    {
+     "s": "So you take turns.",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "One sleeps, the other stays awake at the console.",
+     "v": "console",
+     "you": "console",
+     "plane": "sleep"
+    },
+    {
+     "s": "There's always someone watching.",
+     "v": "console",
+     "plane": "sleep"
+    },
+    {
+     "s": "A small sleeping area, and the hum of machines.",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "And there's a toilet, in a capsule built for two.",
+     "v": "toilet"
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "SLEEP"
+   ],
+   "gain": -2.1
+  },
+  {
+   "id": "alone",
+   "hud": "HOUR 20",
+   "chip": "05:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "No phones.",
+     "v": "capsule"
+    },
+    {
+     "s": "No personal computers.",
+     "v": "capsule"
+    },
+    {
+     "s": "One officer's niece was born while he was on alert.",
+     "v": "wall",
+     "you": "capsule"
+    },
+    {
+     "s": "He didn't find out until later.",
+     "v": "wall"
+    },
+    {
+     "s": "The walls are covered in notes and drawings,",
+     "v": "wall"
+    },
+    {
+     "s": "from crews going back to the 1990s.",
+     "v": "wall",
+     "st": [
+      "1990s",
+      "notes on the walls"
+     ]
+    },
+    {
+     "s": "Generations of missileers,",
+     "v": "console"
+    },
+    {
+     "s": "telling the next crew they're not alone.",
+     "v": "wall",
+     "you": "capsule"
+    },
+    {
+     "s": "Some officers pull this shift eight times a month.",
+     "v": "clock",
+     "st": [
+      "~8×",
+      "alerts a month · 2014"
+     ]
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "CUT OFF"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "up",
+   "hud": "HOUR 24",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Morning. The new crew rides down.",
+     "v": "elevator"
+    },
+    {
+     "s": "Face-to-face handover.",
+     "v": "capsule",
+     "you": "capsule"
+    },
+    {
+     "s": "Then the door, the elevator,",
+     "v": "door",
+     "plane": "door:open"
+    },
+    {
+     "s": "and sixty feet up to the prairie.",
+     "v": "prairie",
+     "you": "house"
+    },
+    {
+     "s": "Since 1962, crews have stood this watch.",
+     "v": "wide"
+    },
+    {
+     "s": "The goal isn't to use the missiles, one officer said.",
+     "v": "silo"
+    },
+    {
+     "s": "It's to be so ready that they never have to be tested.",
+     "v": "prairie"
+    },
+    {
+     "s": "Could you spend twenty-four hours in that room?",
+     "v": "capsule",
+     "you": "capsule"
+    }
+   ],
+   "card": [
+    "HOUR 24",
+    "BACK TO THE SURFACE"
+   ],
+   "gain": 1.12
+  }
+ ],
+ "gain_scale": "1.2"
+}

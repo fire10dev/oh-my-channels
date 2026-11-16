@@ -1,0 +1,98 @@
+!title How B-2 Pilots Eat, Sleep & Go to the Bathroom on a 44-Hour Mission
+!asof Figures from the 2001 and 2025 missions · sources in description
+!world bomber
+## hook | | HOUR 0 | 18:00 | dusk | 1.12
+Two pilots. One seat each. :: v=seats you=seats
+And no one to take over for forty-four hours. :: v=sky st=44.3_HRS;nonstop_·_Oct_2001
+The cabin is about the size of a closet. :: v=cockpit you=seats
+There's a tiny toilet in the back. :: v=toilet
+A cot on the floor. :: v=cot plane=sleep
+And you're flying halfway around the world, and back. :: v=sky
+So how do you eat, :: v=food you=food
+sleep, :: v=cot you=cot
+and go to the bathroom, :: v=packs plane=packs:12
+inside a B-2 bomber? :: v=wide
+## jet | THE JET / A FLYING WING | HOUR 0 | 18:00 | dusk | 0.0
+This is the B-2 Spirit. :: v=sky
+It's a flying wing, about fifty-two meters across. :: v=wide st=52_M;wingspan
+It was built to slip past radar. :: v=ocean
+Only twenty-one were ever built. :: v=hangar st=21;built_·_~$2B_each
+They all fly from one base, Whiteman, in Missouri. :: v=base you=base
+The jet was designed for a crew of up to three. :: v=cockpit
+It flies with two pilots. :: v=seats you=seats
+One of them is also the mission commander. :: v=seats
+With air refueling, the jet can keep going. :: v=tanker plane=refuel
+The limit isn't fuel. :: v=boom plane=refuel
+The limit is the two people inside. :: v=seats you=seats
+## record | THE RECORD / OCTOBER 7, 2001 | HOUR 0 | OCT 7, 2001 | night | 0.56
+October 2001. :: v=runway
+Two pilots, Mel Deaile and Brian Neal, take off from Missouri. :: v=hangar you=base
+Their target is in Afghanistan. :: v=ocean
+They fly west, across the Pacific. :: v=ocean
+Their mission lasts forty-four point three hours. :: v=clock st=44.3_HRS;longest_B-2_combat_sortie
+One of them later said: :: v=seats you=seats
+there is no preparation, no simulator, for a forty-four-hour mission. :: v=ocean
+## sleep | PROBLEM 1 / SLEEP | HOUR 9 | 03:00 | night | -1.4
+The only bed is behind the seats. :: v=cot
+On that 2001 flight, it was a modified Army cot. :: v=cockpit plane=sleep
+And a sleeping bag. :: v=cot you=cot
+Today, the Air Force says, pilots can nap on a metal surface back there. :: v=window
+And it isn't comfortable. :: v=cot you=cot plane=sleep
+One pilot sleeps while the other flies. :: v=seats you=seats plane=sleep
+But both must be in their seats for the hard parts. :: v=tanker tod=night
+Deaile said it wasn't high-quality sleep. :: v=sky tod=night
+But at that point, any sleep is good sleep. :: v=cot you=cot plane=sleep
+Before a mission, pilots work with an aerospace physiologist. :: v=physio you=physio
+For days, they shift their sleep to match the flight. :: v=physio you=physio
+On earlier missions, pilots also took go pills, to stay awake. :: v=seats you=seats
+Deaile said they speed up your heart. :: v=clock
+It is not a fun feeling. :: v=seats you=seats
+## fuel | PROBLEM 2 / THE GAS STATION IN THE SKY | HOUR 12 | 06:00 | dawn | 0.0
+The B-2 can't land to refuel. :: v=sky
+So it meets tankers in the air. :: v=ocean
+A boom reaches down from the tanker, :: v=boom
+and plugs into the top of the jet. :: v=boom plane=refuel
+Each connection takes about thirty minutes of total focus. :: v=window plane=refuel st=~30_MIN;per_refueling
+Pilots describe finishing drenched in sweat. :: v=seats you=seats
+In the dark, in clouds or turbulence, it's even harder. :: v=tanker plane=storm tod=night
+Deaile said the mission wasn't about Afghanistan. :: v=panel
+It was about reaching the next tanker on time. :: v=tanker plane=refuel
+Miss one, and the mission is over. :: v=ocean
+## food | PROBLEM 3 / FOOD | HOUR 18 | 12:00 | day | -1.4
+There's no galley. :: v=cockpit
+There is a microwave. :: v=microwave plane=microwave:on
+Pilots bring whatever food they want. :: v=food you=food
+On the 2001 flight: coffee, :: v=food
+sandwiches, :: v=food you=food
+pretzels, :: v=food
+and pre-packed meals made for eating in flight. :: v=microwave plane=microwave:on
+But sitting for that long, nobody gets very hungry. :: v=window
+## water | PROBLEM 4 / WATER | HOUR 24 | 18:00 | dusk | 0.0
+The air up there is extremely dry. :: v=window
+The jet makes its own oxygen from outside air. :: v=panel
+That leaves almost no moisture in the cabin. :: v=sky
+So pilots drink, and drink. :: v=water you=seats
+The Air Force says even so, skin dries out and cracks. :: v=seats you=seats
+And all that water has to go somewhere. :: v=toilet
+## toilet | PROBLEM 5 / THE BATHROOM | HOUR 30 | 00:00 | night | -2.1
+The B-2 has one small chemical toilet. :: v=toilet you=toilet
+It couldn't hold forty-four hours' worth. :: v=toilet
+So the crew used piddle packs. :: v=packs plane=packs:6
+Plastic bags with a powder that turns urine into gel. :: v=packs plane=packs:6
+Deaile said they filled about two an hour. :: v=packs plane=packs:20 st=2_PER_HOUR;piddle_packs,_2001
+Then they did the math. :: v=packs plane=packs:30
+How many pounds of gel would they have to unload? :: v=packs plane=packs:40
+There's no shower. :: v=ocean tod=night
+No change of clothes, either. :: v=seats you=seats
+Over the flight suit go a harness, a life vest and a survival vest. :: v=base you=base
+Changing would take too long. :: v=sky tod=night
+## home | HOUR 44 / LANDING | HOUR 44 | OCT 9, 2001 | day | 1.12
+The 2001 mission ran long. :: v=clock
+Controllers asked them to go back over Afghanistan. :: v=ocean
+Then a plane ahead had an emergency, so they circled. :: v=island
+Finally, they land on Diego Garcia, an island in the Indian Ocean. :: v=island plane=land
+Deaile said they were just glad to be back on solid ground. :: v=island plane=land
+In June 2025, seven B-2s flew about thirty-seven hours to strike Iran. :: v=sky st=37_HRS;June_2025_·_7_jets
+The second-longest B-2 mission ever. :: v=hangar
+Same two seats. Same tiny toilet. :: v=cockpit you=seats
+Could you stay awake for forty-four hours in a closet? :: v=seats you=seats

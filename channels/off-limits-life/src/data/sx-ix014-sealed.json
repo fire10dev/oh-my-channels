@@ -1,0 +1,66 @@
+{
+ "title": "When NORAD Sealed Its Crews Inside Cheyenne Mountain",
+ "hook": "SEALED IN THE MOUNTAIN",
+ "asof": "Figures from US Air Force & Space Force articles · full video on the channel",
+ "world": "mountain",
+ "long": "IX014",
+ "chapters": [
+  {
+   "id": "covid",
+   "hud": "DAY 30",
+   "chip": "MAR 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "In 2020, crews were sealed inside a mountain.",
+     "v": "tunnel",
+     "you": "tunnel"
+    },
+    {
+     "s": "This is Cheyenne Mountain, NORAD's nuclear-proof bunker in Colorado.",
+     "v": "mountain"
+    },
+    {
+     "s": "Normally, nobody sleeps here. Crews go home after their shift.",
+     "v": "gate"
+    },
+    {
+     "s": "But when COVID hit, NORAD and Northern Command moved critical crews inside.",
+     "v": "tunnel",
+     "you": "tunnel"
+    },
+    {
+     "s": "They isolated first and got tested.",
+     "v": "clinic"
+    },
+    {
+     "s": "Then they worked inside for weeks.",
+     "v": "command",
+     "you": "command"
+    },
+    {
+     "s": "About a hundred and thirty people stood twelve-hour watches.",
+     "v": "command",
+     "st": [
+      "~130",
+      "on watch"
+     ]
+    },
+    {
+     "s": "Behind twenty-five-ton blast doors.",
+     "v": "door",
+     "plane": "door:shut"
+    },
+    {
+     "s": "Under about eighteen hundred feet of granite.",
+     "v": "mountain"
+    },
+    {
+     "s": "Could you work a whole shift without seeing the sun?",
+     "v": "tunnel",
+     "you": "tunnel"
+    }
+   ]
+  }
+ ]
+}

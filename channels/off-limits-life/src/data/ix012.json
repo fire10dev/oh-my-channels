@@ -1,0 +1,450 @@
+{
+ "title": "How Cardinals Eat, Sleep & Vote While Locked In to Choose a Pope",
+ "asof": "Rules from Universi Dominici Gregis (1996) · details from the May 2025 conclave · sources in description",
+ "world": "conclave",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "MAY 7, 2025",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "A hundred and thirty-three men walk into a chapel.",
+     "v": "chapel",
+     "you": "chapel"
+    },
+    {
+     "s": "The doors close behind them.",
+     "v": "doors",
+     "plane": "doors:shut"
+    },
+    {
+     "s": "No phones. No news. No TV.",
+     "v": "room",
+     "you": "room"
+    },
+    {
+     "s": "They can't leave until they agree on one name.",
+     "v": "ballot"
+    },
+    {
+     "s": "And the world is watching a chimney.",
+     "v": "chimney",
+     "plane": "smoke:black"
+    },
+    {
+     "s": "So how do you eat,",
+     "v": "dining",
+     "you": "dining"
+    },
+    {
+     "s": "sleep,",
+     "v": "room",
+     "you": "room"
+    },
+    {
+     "s": "and vote,",
+     "v": "urn",
+     "you": "urn"
+    },
+    {
+     "s": "locked inside the Vatican?",
+     "v": "wide"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "rules",
+   "hud": "DAY 0",
+   "chip": "APR 2025",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "When a pope dies, cardinals choose the next one.",
+     "v": "wide"
+    },
+    {
+     "s": "But only cardinals under eighty can vote.",
+     "v": "chapel",
+     "st": [
+      "UNDER 80",
+      "can vote · UDG 1996"
+     ]
+    },
+    {
+     "s": "In 2025, that was a hundred and thirty-three men.",
+     "v": "chapel",
+     "st": [
+      "133",
+      "cardinal electors · 2025"
+     ]
+    },
+    {
+     "s": "They came from all over the world.",
+     "v": "square"
+    },
+    {
+     "s": "The rules come from a 1996 document by Pope John Paul the Second.",
+     "v": "wide"
+    },
+    {
+     "s": "Its name is Universi Dominici Gregis.",
+     "v": "ballot"
+    }
+   ],
+   "card": [
+    "THE RULES",
+    "WHO GETS IN"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "home",
+   "hud": "DAY 0",
+   "chip": "MAY 3, 2025",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Cardinals used to sleep on cots in small, stuffy rooms next to the Sistine Chapel.",
+     "v": "cots"
+    },
+    {
+     "s": "Since 1996, there's a guesthouse inside the Vatican: Casa Santa Marta.",
+     "v": "house"
+    },
+    {
+     "s": "It was built with a conclave in mind.",
+     "v": "house"
+    },
+    {
+     "s": "It has a hundred and thirty-one rooms.",
+     "v": "house",
+     "st": [
+      "131",
+      "rooms · Casa Santa Marta"
+     ]
+    },
+    {
+     "s": "But Pope Francis lived there, and his rooms were sealed when he died.",
+     "v": "house",
+     "plane": "sealed"
+    },
+    {
+     "s": "That left about a hundred and twenty-five rooms, for a hundred and thirty-three cardinals.",
+     "v": "house",
+     "st": [
+      "~125 ROOMS",
+      "for 133 cardinals"
+     ]
+    },
+    {
+     "s": "So some stayed in the old building next door.",
+     "v": "house"
+    },
+    {
+     "s": "Who gets which room?",
+     "v": "lots"
+    },
+    {
+     "s": "They draw lots.",
+     "v": "lots",
+     "plane": "lots"
+    },
+    {
+     "s": "Even when there's room for everyone.",
+     "v": "lots",
+     "plane": "lots"
+    },
+    {
+     "s": "Each bedroom has a bed, a dresser, a night table,",
+     "v": "room",
+     "you": "room"
+    },
+    {
+     "s": "and a private bathroom with a shower.",
+     "v": "bath",
+     "you": "bath"
+    },
+    {
+     "s": "It's comfortable, but it's not a luxury hotel.",
+     "v": "room",
+     "you": "room"
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "WHERE TO SLEEP"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "sealed",
+   "hud": "DAY 1",
+   "chip": "MAY 7, 2025",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "The rooms have telephones.",
+     "v": "room"
+    },
+    {
+     "s": "But no cardinal may call anyone outside.",
+     "v": "room",
+     "you": "room"
+    },
+    {
+     "s": "The internet is disconnected.",
+     "v": "room"
+    },
+    {
+     "s": "So is the satellite TV.",
+     "v": "room"
+    },
+    {
+     "s": "The rules forbid newspapers, radio and television for the whole election.",
+     "v": "ballot",
+     "st": [
+      "NO NEWS",
+      "for the whole election"
+     ]
+    },
+    {
+     "s": "Every room is swept for hidden bugs and transmitters.",
+     "v": "sweep",
+     "plane": "sweep"
+    },
+    {
+     "s": "So is the Sistine Chapel.",
+     "v": "chapel",
+     "plane": "sweep"
+    },
+    {
+     "s": "The staff swear an oath of secrecy too.",
+     "v": "staff"
+    },
+    {
+     "s": "Cooks, cleaners, doctors, even the elevator operators.",
+     "v": "staff"
+    },
+    {
+     "s": "Break it, and the penalty is excommunication.",
+     "v": "staff",
+     "st": [
+      "EXCOMMUNICATION",
+      "for breaking secrecy"
+     ]
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "CUT OFF"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "food",
+   "hud": "DAY 1",
+   "chip": "MAY 7, 2025",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Casa Santa Marta has a dining room.",
+     "v": "dining"
+    },
+    {
+     "s": "The rules say staff must be ready to cook and serve meals.",
+     "v": "kitchen"
+    },
+    {
+     "s": "The cardinals eat there,",
+     "v": "dining",
+     "you": "dining"
+    },
+    {
+     "s": "between voting sessions.",
+     "v": "dining",
+     "you": "dining"
+    },
+    {
+     "s": "Then a short bus ride to the chapel.",
+     "v": "bus",
+     "plane": "bus"
+    },
+    {
+     "s": "On sealed, monitored buses.",
+     "v": "bus",
+     "plane": "bus"
+    },
+    {
+     "s": "Some cardinals in past conclaves insisted on walking instead, under watch.",
+     "v": "garden",
+     "you": "garden"
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "FOOD"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "vote",
+   "hud": "DAY 1",
+   "chip": "MAY 7, 2025",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "The cardinals walk into the Sistine Chapel.",
+     "v": "chapel"
+    },
+    {
+     "s": "Each one swears an oath.",
+     "v": "chapel",
+     "you": "chapel"
+    },
+    {
+     "s": "Then the order: \"Extra omnes.\" Everybody out.",
+     "v": "doors",
+     "plane": "doors:shut"
+    },
+    {
+     "s": "The doors close.",
+     "v": "doors",
+     "plane": "doors:shut"
+    },
+    {
+     "s": "Each cardinal writes a name on a paper ballot.",
+     "v": "ballot",
+     "you": "chapel"
+    },
+    {
+     "s": "The top says, in Latin: I elect as Supreme Pontiff.",
+     "v": "ballot"
+    },
+    {
+     "s": "They're told to disguise their handwriting.",
+     "v": "ballot"
+    },
+    {
+     "s": "Fold it twice, then walk it up to the altar.",
+     "v": "urn",
+     "you": "urn"
+    },
+    {
+     "s": "To win, a candidate needs two thirds of the votes.",
+     "v": "urn",
+     "st": [
+      "⅔",
+      "votes to win"
+     ]
+    },
+    {
+     "s": "Two votes in the morning. Two in the afternoon.",
+     "v": "clock"
+    }
+   ],
+   "card": [
+    "PROBLEM 4",
+    "THE VOTE"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "smoke",
+   "hud": "DAY 1",
+   "chip": "MAY 7, 2025",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "After the votes, the ballots are burned in a stove.",
+     "v": "stove",
+     "plane": "fire"
+    },
+    {
+     "s": "The smoke goes up a chimney on the chapel roof.",
+     "v": "chimney",
+     "plane": "smoke:black"
+    },
+    {
+     "s": "Black smoke means no pope yet.",
+     "v": "chimney",
+     "plane": "smoke:black"
+    },
+    {
+     "s": "Crowds wait outside in Saint Peter's Square.",
+     "v": "square"
+    },
+    {
+     "s": "On the first night, the smoke was black.",
+     "v": "chimney",
+     "plane": "smoke:black",
+     "tod": "night"
+    }
+   ],
+   "card": [
+    "PROBLEM 5",
+    "THE SMOKE"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "white",
+   "hud": "DAY 2",
+   "chip": "MAY 8, 2025",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "The next afternoon, on the fourth vote,",
+     "v": "urn"
+    },
+    {
+     "s": "the smoke was white.",
+     "v": "chimney",
+     "plane": "smoke:white"
+    },
+    {
+     "s": "The bells rang.",
+     "v": "square",
+     "plane": "crowd"
+    },
+    {
+     "s": "Cardinal Robert Prevost of the United States was the new pope.",
+     "v": "balcony",
+     "plane": "crowd"
+    },
+    {
+     "s": "He took the name Leo the Fourteenth.",
+     "v": "balcony",
+     "plane": "crowd",
+     "st": [
+      "LEO XIV",
+      "elected May 8, 2025"
+     ]
+    },
+    {
+     "s": "The first pope from the United States.",
+     "v": "square",
+     "plane": "crowd"
+    },
+    {
+     "s": "Under the rules, what was said inside stays secret, forever.",
+     "v": "doors",
+     "plane": "doors:shut"
+    },
+    {
+     "s": "Could you stay locked in until everyone agreed?",
+     "v": "chapel",
+     "you": "chapel"
+    }
+   ],
+   "card": [
+    "DAY 2",
+    "WHITE SMOKE"
+   ],
+   "gain": 1.12
+  }
+ ],
+ "gain_scale": "1.5"
+}

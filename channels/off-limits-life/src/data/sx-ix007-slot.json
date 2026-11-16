@@ -1,0 +1,77 @@
+{
+ "title": "How Meals Reach a Cell in America's Only Federal Supermax",
+ "hook": "DINNER THROUGH A SLOT",
+ "asof": "Figures from the 2018 DC CIC inspection · full video on the channel",
+ "world": "supermax",
+ "long": "IX007",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "DAY 2",
+   "chip": "06:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "At this prison, dinner comes through a slot in the door.",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "ADX Florence, Colorado. America's only federal supermax.",
+     "v": "wide"
+    },
+    {
+     "s": "There's no dining hall.",
+     "v": "range"
+    },
+    {
+     "s": "Meals are carried from the kitchen to each cell door.",
+     "v": "cart"
+    },
+    {
+     "s": "The tray slides in through the slot.",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "You eat alone, at a concrete desk.",
+     "v": "desk",
+     "you": "desk",
+     "plane": "tray"
+    },
+    {
+     "s": "The food budget was about three dollars fifty a day per man.",
+     "v": "cart",
+     "st": [
+      "$3.50",
+      "per day · 2017"
+     ]
+    },
+    {
+     "s": "The cooks are prisoners from the camp next door.",
+     "v": "cart"
+    },
+    {
+     "s": "About a third of men surveyed complained about the food.",
+     "v": "desk",
+     "you": "desk"
+    },
+    {
+     "s": "One said, we only see staff when they feed us,",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "pick up the trays, and at recreation.",
+     "v": "rec",
+     "you": "rec"
+    },
+    {
+     "s": "Could you eat every meal alone for years?",
+     "v": "desk",
+     "you": "desk"
+    }
+   ]
+  }
+ ]
+}

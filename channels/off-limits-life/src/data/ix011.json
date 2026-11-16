@@ -1,0 +1,616 @@
+{
+ "title": "How Scientists Lived Frozen Into the Arctic Ice for a Whole Year",
+ "asof": "Figures from the MOSAiC expedition 2019–2020 · sources in description",
+ "world": "polar",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "SEP 20, 2019",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "In 2019, a ship sailed into the Arctic",
+     "v": "map"
+    },
+    {
+     "s": "and let the ice freeze around it.",
+     "v": "wide"
+    },
+    {
+     "s": "On purpose.",
+     "v": "ship"
+    },
+    {
+     "s": "For a year, it drifted with the ice,",
+     "v": "wide"
+    },
+    {
+     "s": "past the North Pole.",
+     "v": "map",
+     "st": [
+      "389 DAYS",
+      "MOSAiC expedition"
+     ]
+    },
+    {
+     "s": "For months, the sun never rose.",
+     "v": "ice",
+     "tod": "night"
+    },
+    {
+     "s": "It got down to minus forty-two degrees.",
+     "v": "camp",
+     "tod": "night",
+     "st": [
+      "−42.3°C",
+      "coldest reading"
+     ]
+    },
+    {
+     "s": "And polar bears came to visit.",
+     "v": "bear",
+     "plane": "bear",
+     "tod": "night"
+    },
+    {
+     "s": "So how do you eat,",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "sleep,",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "and work,",
+     "v": "camp",
+     "you": "camp"
+    },
+    {
+     "s": "frozen into the ice?",
+     "v": "wide",
+     "tod": "night"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "ship",
+   "hud": "DAY 1",
+   "chip": "SEP 2019",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "This is Polarstern,",
+     "v": "map"
+    },
+    {
+     "s": "a German research icebreaker.",
+     "v": "ship"
+    },
+    {
+     "s": "The mission was called MOSAiC.",
+     "v": "wide"
+    },
+    {
+     "s": "The biggest Arctic research expedition ever.",
+     "v": "wide"
+    },
+    {
+     "s": "The idea was over a hundred years old.",
+     "v": "map"
+    },
+    {
+     "s": "In the 1890s, the explorer Fridtjof Nansen froze his ship Fram into the ice on purpose.",
+     "v": "map"
+    },
+    {
+     "s": "MOSAiC did the same,",
+     "v": "ship"
+    },
+    {
+     "s": "with modern labs.",
+     "v": "lab",
+     "you": "lab"
+    },
+    {
+     "s": "The ship found a floe about two",
+     "v": "wide"
+    },
+    {
+     "s": "and a half by three and a half kilometers.",
+     "v": "ice",
+     "st": [
+      "2.5×3.5 KM",
+      "the first floe"
+     ]
+    },
+    {
+     "s": "Then it let the ice close in around it.",
+     "v": "ship",
+     "tod": "dusk"
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "THE SHIP"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "home",
+   "hud": "DAY 30",
+   "chip": "OCT 2019",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "The ship was home for everyone.",
+     "v": "ship"
+    },
+    {
+     "s": "It carries cooks, a baker,",
+     "v": "cabin"
+    },
+    {
+     "s": "a doctor, and even a post office.",
+     "v": "mess"
+    },
+    {
+     "s": "All the labs, workshops and offices are on board.",
+     "v": "lab"
+    },
+    {
+     "s": "Polarstern has space for up to forty-four crew",
+     "v": "ship"
+    },
+    {
+     "s": "and fifty-five scientists.",
+     "v": "cabin",
+     "st": [
+      "44 + 55",
+      "crew + scientists"
+     ]
+    },
+    {
+     "s": "Over the year,",
+     "v": "ship"
+    },
+    {
+     "s": "three hundred and thirty-seven scientists and experts took part.",
+     "v": "mess",
+     "st": [
+      "337",
+      "scientists · AWI 2020"
+     ]
+    },
+    {
+     "s": "They came in shifts of about two months.",
+     "v": "heli"
+    },
+    {
+     "s": "From thirty-seven nationalities.",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "In their downtime,",
+     "v": "ship"
+    },
+    {
+     "s": "people exercise or hang out in the lounges.",
+     "v": "lounge",
+     "you": "lounge"
+    }
+   ],
+   "card": [
+    "DAY 30",
+    "A SMALL CITY"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "camp",
+   "hud": "DAY 40",
+   "chip": "NOV 2019",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Next to the ship, they built a town on the ice.",
+     "v": "camp",
+     "tod": "night"
+    },
+    {
+     "s": "They called it the Ice Camp.",
+     "v": "camp",
+     "tod": "night"
+    },
+    {
+     "s": "Neighborhoods for each science team.",
+     "v": "camp",
+     "tod": "night"
+    },
+    {
+     "s": "One was called ROV City,",
+     "v": "dark",
+     "tod": "night"
+    },
+    {
+     "s": "for the underwater robots.",
+     "v": "rov",
+     "tod": "night"
+    },
+    {
+     "s": "One was called Ocean City.",
+     "v": "hole",
+     "tod": "night"
+    },
+    {
+     "s": "Five kilometers of power cable,",
+     "v": "rov",
+     "tod": "night"
+    },
+    {
+     "s": "laid across the ice.",
+     "v": "camp",
+     "st": [
+      "5,000 M",
+      "power cables on the ice"
+     ],
+     "tod": "night"
+    },
+    {
+     "s": "Lights can disturb the ice ecosystem.",
+     "v": "camp",
+     "tod": "night"
+    },
+    {
+     "s": "So part of the camp was a dark zone,",
+     "v": "rov",
+     "tod": "night"
+    },
+    {
+     "s": "with infrared light only.",
+     "v": "dark",
+     "tod": "night"
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "WORKING ON THE ICE"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "bears",
+   "hud": "DAY 60",
+   "chip": "DEC 2019",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Out here, you're not at the top of the food chain.",
+     "v": "bear",
+     "plane": "bear",
+     "tod": "night"
+    },
+    {
+     "s": "A big male polar bear can weigh around six hundred kilos.",
+     "v": "bear",
+     "plane": "bear",
+     "tod": "night"
+    },
+    {
+     "s": "So nobody walks onto the ice without a bear guard.",
+     "v": "guard",
+     "you": "camp",
+     "tod": "night"
+    },
+    {
+     "s": "Six to eight guards on each leg of the trip.",
+     "v": "guard",
+     "tod": "night",
+     "st": [
+      "6–8",
+      "bear guards per leg"
+     ]
+    },
+    {
+     "s": "They watch the horizon from the ship,",
+     "v": "crow",
+     "tod": "night"
+    },
+    {
+     "s": "or patrol a tripwire fence around the camp.",
+     "v": "fence",
+     "tod": "night"
+    },
+    {
+     "s": "If a bear crosses the wire,",
+     "v": "guard",
+     "tod": "night"
+    },
+    {
+     "s": "a flare goes off to scare it away.",
+     "v": "fence",
+     "plane": "flare",
+     "tod": "night"
+    },
+    {
+     "s": "More than sixty polar bears were spotted near the ship.",
+     "v": "bear",
+     "plane": "bear",
+     "st": [
+      "60+",
+      "polar bears sighted"
+     ]
+    },
+    {
+     "s": "Not a single one was shot.",
+     "v": "bear",
+     "plane": "bear"
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "POLAR BEARS"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "dark",
+   "hud": "DAY 90",
+   "chip": "JAN 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "In winter, the sun didn't rise for about a hundred",
+     "v": "camp",
+     "tod": "night"
+    },
+    {
+     "s": "and fifty days.",
+     "v": "ice",
+     "tod": "night",
+     "st": [
+      "~150 DAYS",
+      "no sunrise"
+     ]
+    },
+    {
+     "s": "Only the moon and stars light the ice.",
+     "v": "sky",
+     "tod": "night"
+    },
+    {
+     "s": "The coldest reading was minus forty-two point three.",
+     "v": "camp",
+     "tod": "night"
+    },
+    {
+     "s": "With the wind, it felt like minus sixty-five.",
+     "v": "guard",
+     "tod": "night",
+     "st": [
+      "−65°C",
+      "with wind chill"
+     ]
+    },
+    {
+     "s": "The ice moves.",
+     "v": "ice",
+     "tod": "night"
+    },
+    {
+     "s": "Cracks open up right through the camp.",
+     "v": "crack",
+     "plane": "crack",
+     "tod": "night"
+    },
+    {
+     "s": "And the ship is up",
+     "v": "ice"
+    },
+    {
+     "s": "to fifteen hundred kilometers from the nearest town.",
+     "v": "map",
+     "st": [
+      "1,500 KM",
+      "to nearest settlement"
+     ]
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "THE POLAR NIGHT"
+   ],
+   "gain": -3.0
+  },
+  {
+   "id": "supply",
+   "hud": "DAY 150",
+   "chip": "FEB 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "You can't drive to the store.",
+     "v": "ship",
+     "tod": "night"
+    },
+    {
+     "s": "So other icebreakers break through to resupply you.",
+     "v": "supply",
+     "plane": "supply",
+     "tod": "night"
+    },
+    {
+     "s": "In early 2020,",
+     "v": "ship",
+     "tod": "night"
+    },
+    {
+     "s": "the Russian icebreaker Kapitan Dranitsyn arrived.",
+     "v": "supply",
+     "plane": "supply",
+     "tod": "night"
+    },
+    {
+     "s": "It brought new people",
+     "v": "ship",
+     "tod": "night"
+    },
+    {
+     "s": "and forty-three tons of supplies.",
+     "v": "supply",
+     "plane": "supply",
+     "st": [
+      "43 TONS",
+      "delivered"
+     ],
+     "tod": "night"
+    },
+    {
+     "s": "The ice was so thick that it ran low on fuel itself.",
+     "v": "supply",
+     "tod": "night"
+    },
+    {
+     "s": "Another icebreaker had to come to refuel it.",
+     "v": "supply",
+     "tod": "night"
+    },
+    {
+     "s": "Then, in spring, COVID hit.",
+     "v": "map"
+    },
+    {
+     "s": "Borders closed.",
+     "v": "map"
+    },
+    {
+     "s": "Planned crew-swap flights were called off.",
+     "v": "heli"
+    },
+    {
+     "s": "Polarstern left the floe for a few weeks",
+     "v": "supply"
+    },
+    {
+     "s": "to meet two other German research ships.",
+     "v": "ship"
+    },
+    {
+     "s": "Then it went back to the ice.",
+     "v": "ice"
+    }
+   ],
+   "card": [
+    "PROBLEM 4",
+    "GETTING SUPPLIES"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "sun",
+   "hud": "DAY 220",
+   "chip": "MAY 2020",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Then the sun came back.",
+     "v": "sky"
+    },
+    {
+     "s": "And in summer, it never set.",
+     "v": "ice"
+    },
+    {
+     "s": "The ice started melting.",
+     "v": "melt"
+    },
+    {
+     "s": "Pools of water formed on top.",
+     "v": "melt",
+     "you": "camp"
+    },
+    {
+     "s": "After three hundred days,",
+     "v": "sky"
+    },
+    {
+     "s": "the first floe broke apart.",
+     "v": "crack",
+     "plane": "crack",
+     "st": [
+      "300 DAYS",
+      "on the first floe"
+     ]
+    },
+    {
+     "s": "The team found a second floe near the North Pole.",
+     "v": "ship"
+    },
+    {
+     "s": "They worked there for another thirty days.",
+     "v": "camp"
+    }
+   ],
+   "card": [
+    "PROBLEM 5",
+    "THE NEVER-ENDING DAY"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "home",
+   "hud": "DAY 389",
+   "chip": "OCT 12, 2020",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "In October 2020,",
+     "v": "lab"
+    },
+    {
+     "s": "Polarstern returned to Germany.",
+     "v": "ship"
+    },
+    {
+     "s": "It had drifted three thousand four hundred kilometers.",
+     "v": "map",
+     "st": [
+      "3,400 KM",
+      "zigzag drift"
+     ]
+    },
+    {
+     "s": "It got within a hundred",
+     "v": "ship"
+    },
+    {
+     "s": "and fifty-six kilometers of the North Pole.",
+     "v": "map"
+    },
+    {
+     "s": "Over a thousand ice cores came home with it.",
+     "v": "lab"
+    },
+    {
+     "s": "And more than a thousand weather balloons had been launched.",
+     "v": "camp"
+    },
+    {
+     "s": "Could you live a year frozen into the ice?",
+     "v": "wide",
+     "tod": "night"
+    }
+   ],
+   "card": [
+    "DAY 389",
+    "HOME"
+   ],
+   "gain": 1.8
+  }
+ ],
+ "gain_scale": "0.85"
+}

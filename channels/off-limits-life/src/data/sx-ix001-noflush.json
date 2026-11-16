@@ -1,0 +1,160 @@
+{
+ "title": "Why Submarine Sailors Sometimes Can't Flush",
+ "hook": "DO NOT FLUSH",
+ "asof": "Figures as of 2026 · full video on the channel",
+ "world": "sub",
+ "long": "IX001",
+ "chapters": [
+  {
+   "id": "flush",
+   "hud": "DAY 31",
+   "chip": "09:30",
+   "tod": "day",
+   "shots": [
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "On a submarine, sometimes you're not allowed to flush."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Here's why."
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      960,
+      540,
+      1.0
+     ],
+     "s": "A ballistic missile submarine is built to stay hidden."
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      960,
+      560,
+      1.12
+     ],
+     "s": "So it can't leave a trail of garbage behind it."
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Dry trash is crushed in a compactor,"
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "packed into special metal cans,"
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "and loaded with weights so it sinks."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "COMPACTOR",
+       "METAL CAN",
+       "+ WEIGHTS",
+       "TDU TUBE ↓"
+      ],
+      "note": "the cans sink to the sea floor"
+     },
+     "s": "Then the cans are fired out of a tube in the bottom of the boat,"
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1500,
+      650,
+      1.8
+     ],
+     "s": "straight down to the sea floor."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Human waste goes somewhere else: a sanitary tank."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "Every so often, the crew blows that tank out with compressed air."
+    },
+    {
+     "d": {
+      "type": "note",
+      "title": "WARNING!",
+      "lines": [
+       "BLOWING SANITARIES",
+       "DO NOT FLUSH"
+      ],
+      "stamp": "NO"
+     },
+     "s": "While they do, a sign goes up on every toilet."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      4.2
+     ],
+     "q": "DO NOT FLUSH",
+     "s": "Blowing sanitaries. Do not flush."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Ignore it,"
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "and you'll learn very quickly why that sign exists."
+    }
+   ]
+  }
+ ]
+}

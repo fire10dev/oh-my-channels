@@ -1,0 +1,109 @@
+!title How Saturation Divers Eat, Shower & Sleep Under Pressure for 28 Days
+!asof Figures as of 2026 · sources in description
+## hook | | DAY 1 | 08:00 | day | 1.12
+You're about to move into a steel tube on the deck of a ship. :: v=chamber you=chamber
+Once the door seals, you can't come out. :: v=door
+Not for a day. :: v=chamber
+Not for a week. :: v=ship
+For up to twenty-eight days. :: d={"type":"big","big":"28 DAYS","small":"normal max in saturation · DMAC 21"}
+Every day, you'll ride a metal bell to the bottom of the sea. :: v=bell plane=down
+And the trip back home takes days. :: v=gauge plane=deco
+So how do you eat, :: v=table you=table
+shower, :: v=shower you=shower
+and sleep, :: v=bunk you=bunk
+under pressure? :: v=wide
+## why | DAY 1 / WHY LIVE IN A TUBE? | DAY 1 | 08:30 | day | 0.0
+The job is down there. :: v=seabed
+Pipelines and oil wells, sometimes a hundred meters deep or more. :: v=pipe you=pipe
+At that depth, your body soaks up gas. :: v=diver
+Coming up too fast could kill you. :: v=gauge
+So instead of coming up after every dive, :: v=bell plane=up
+you just stay at depth pressure. :: v=chamber
+On deck, in a sealed chamber. :: v=ship
+Your body fills up with gas once. :: v=chamber you=chamber
+After that, a longer stay doesn't make the trip home longer. :: v=gauge
+That's saturation. :: v=chamber st=SATURATION;stay_at_depth_pressure
+Most saturation diving happens between about sixty-five and a thousand feet. :: d={"type":"big","big":"65–1,000 ft","small":"typical saturation depths · DAN, 2017"}
+## helium | PROBLEM 1 / THE AIR | DAY 2 | 07:00 | day | -1.4
+You don't breathe normal air down here. :: v=chamber
+You breathe helium mixed with oxygen. :: v=chamber st=HELIOX;helium_+_oxygen
+Helium is easy to breathe. :: v=table you=table
+But it does strange things. :: v=chamber
+Your voice goes high and squeaky. :: v=chamber plane=voice you=chamber
+So high the crew outside can barely understand you. :: v=control
+They use a machine to unscramble it. :: v=control plane=voice
+And helium steals your body heat, :: v=chamber
+with every breath you breathe out. :: v=bunk you=bunk
+So the chamber is kept hot. :: v=gauge plane=temp
+Often around ninety degrees Fahrenheit. :: v=chamber st=85–93°F;chamber_temperature_·_DAN
+## food | PROBLEM 2 / FOOD | DAY 3 | 12:00 | day | 0.56
+Your food is cooked in the ship's galley. :: v=galley
+Then it's carried to the chamber. :: v=lock
+It goes in through a tiny airlock. :: v=lock plane=lock
+The lock seals, :: v=lock plane=lock
+the pressure matches yours, :: v=lock plane=lock
+and you open the inner door. :: v=table you=table
+Medicine, clean clothes and bedding come in the same way. :: v=lock plane=lock
+You eat at a little table, :: v=table you=table
+inches from your bunk. :: v=bunk
+## shower | PROBLEM 3 / SHOWER & TOILET | DAY 4 | 21:00 | night | 0.0
+Your chamber has a shower. :: v=shower you=shower
+And a toilet. :: v=toilet
+The waste is dumped outside the chamber. :: v=toilet
+Toilets have a valve lock. :: v=toilet st=INTERLOCK;toilet_valve
+It stops the dump from running while someone is sitting on it. :: v=toilet
+It's warm, damp, and shared. :: v=chamber
+That's perfect for germs. :: v=bunk
+In the 1970s, :: v=chamber
+two North Sea saturation dives were stopped by ear infections. :: d={"type":"big","big":"2 DIVES","small":"stopped by ear infections · North Sea, 1974–75"}
+So you keep your ears clean and dry. :: v=shower you=shower
+## work | PROBLEM 4 / THE BELL | DAY 5 | 06:00 | day | -2.1
+Now, the work. :: v=bell
+The bell locks onto the chamber. :: v=moonpool plane=dock
+You climb in. :: v=bellin you=bellin
+The bell is lowered through a hole in the ship. :: v=moonpool plane=down
+Down to the seabed. :: v=bell plane=down
+You leave the bell, :: v=diver you=diver
+tied to it by a hose called an umbilical. :: v=diver
+It brings your gas, your light, and hot water for your suit. :: v=diver st=UMBILICAL;gas_·_hot_water_·_comms
+A British rule sets the limits. :: v=control
+A whole bell run, no more than eight hours. :: d={"type":"big","big":"8 h","small":"max bell run · HSE DVIS 7"}
+In the water, usually no more than four. :: v=diver st=4_h;max_in_the_water,_two-man_bell
+Then back up, back into the chamber. :: v=bell plane=up
+Eat. Sleep. Repeat. :: v=bunk you=bunk
+## lemons | THE CLOSE CALL / 2012 | DAY 5 | 21:00 | night | 0.0
+Things can go wrong. :: v=seabed tod=night
+In September 2012, :: v=seabed tod=night
+diver Chris Lemons was a hundred meters down in the North Sea. :: v=diver you=diver
+His ship's positioning system failed. :: v=ship plane=storm
+The ship drifted away. :: v=ship plane=storm
+His umbilical snagged, :: v=diver plane=cut
+and snapped. :: v=diver plane=cut you=diver
+He had a few minutes of emergency gas on his back. :: v=diver st=MINUTES;emergency_gas
+It took the ship about half an hour to get back. :: d={"type":"big","big":"~30 MIN","small":"until the ship returned · 2012"}
+They found him on the seabed, unconscious. :: v=seabed tod=night
+A colleague got him into the bell, :: v=bellin
+and gave him two breaths. :: v=bellin you=bellin
+He came around. :: v=bellin
+He survived, and went back to diving. :: v=chamber you=chamber
+## escape | PROBLEM 5 / NO WAY OUT | DAY 20 | 14:00 | day | -1.4
+So what if the ship catches fire? :: v=ship plane=alarm
+You can't just jump overboard. :: v=sea
+Your body is still at depth pressure. :: v=chamber
+So the chamber has its own lifeboat. :: v=lifeboat
+A pressurized one. :: v=lifeboat st=HYPERBARIC;lifeboat_·_IMCA
+You climb into it, still under pressure. :: v=lifeboat you=lifeboat
+It's sealed, and dropped into the sea. :: v=lifeboat plane=launch
+## home | DAY 24 / COMING HOME | DAY 24 | 08:00 | day | 0.84
+Finally, it's time to go home. :: v=chamber
+But you can't just open the door. :: v=door
+The pressure comes down slowly. :: v=gauge plane=deco
+One rule of thumb: a day for every hundred feet, plus a day. :: d={"type":"big","big":"1 DAY","small":"per 100 ft of depth, plus 1 · DAN"}
+From a hundred and twenty meters, that's about five days. :: v=gauge plane=deco st=~5_DAYS;from_120_m_·_2024_review
+You sit. You sleep. You wait. :: v=bunk you=bunk
+And then, the door opens. :: v=door plane=open
+Your first breath of normal air in weeks. :: v=deck you=deck
+And then the rules say: rest on land. :: v=wide
+Usually as long as you were inside. :: d={"type":"compare","left":["INSIDE","28 days","saturation"],"right":["ON LAND","28 days","surface interval"],"note":"DMAC 21 guidance"}
+So, could you live in a steel tube for twenty-eight days? :: v=chamber
+Off Limits Life. :: d={"type":"brand","tag":"How people live where you can't go"}

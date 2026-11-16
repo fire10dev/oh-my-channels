@@ -1,0 +1,69 @@
+{
+ "title": "150 Days Without Sunrise, Frozen Into the Arctic",
+ "hook": "150 DAYS OF NIGHT",
+ "asof": "Figures from the MOSAiC expedition 2019–2020 · full video on the channel",
+ "world": "polar",
+ "long": "IX011",
+ "chapters": [
+  {
+   "id": "dark",
+   "hud": "DAY 90",
+   "chip": "JAN 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Imagine the sun not rising for about a hundred and fifty days.",
+     "v": "ice",
+     "st": [
+      "~150 DAYS",
+      "no sunrise"
+     ]
+    },
+    {
+     "s": "That's what the MOSAiC expedition lived through.",
+     "v": "ship"
+    },
+    {
+     "s": "A ship frozen into the Arctic ice, drifting past the North Pole.",
+     "v": "map"
+    },
+    {
+     "s": "Only the moon and stars light the ice.",
+     "v": "sky"
+    },
+    {
+     "s": "The coldest reading: minus forty-two point three.",
+     "v": "camp",
+     "st": [
+      "−42.3°C",
+      "coldest reading"
+     ]
+    },
+    {
+     "s": "With the wind, it felt like minus sixty-five.",
+     "v": "guard",
+     "you": "guard"
+    },
+    {
+     "s": "The ice moves, and cracks open through the camp.",
+     "v": "crack",
+     "plane": "crack"
+    },
+    {
+     "s": "The nearest town is up to fifteen hundred kilometers away.",
+     "v": "map"
+    },
+    {
+     "s": "And when the sun came back, it didn't set all summer.",
+     "v": "sky",
+     "tod": "day"
+    },
+    {
+     "s": "Could you handle five months of night?",
+     "v": "cabin",
+     "you": "cabin"
+    }
+   ]
+  }
+ ]
+}

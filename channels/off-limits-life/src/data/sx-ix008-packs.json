@@ -1,0 +1,78 @@
+{
+ "title": "How B-2 Pilots Go to the Bathroom on a 44-Hour Mission",
+ "hook": "2 BAGS AN HOUR",
+ "asof": "Figures from the 2001 and 2025 missions · full video on the channel",
+ "world": "bomber",
+ "long": "IX008",
+ "chapters": [
+  {
+   "id": "toilet",
+   "hud": "HOUR 30",
+   "chip": "00:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Forty-four hours in a bomber. Where do you go?",
+     "v": "toilet",
+     "you": "toilet"
+    },
+    {
+     "s": "In 2001, a B-2 crew flew forty-four point three hours nonstop.",
+     "v": "sky",
+     "st": [
+      "44.3 HRS",
+      "Oct 2001"
+     ]
+    },
+    {
+     "s": "The air up there is so dry, pilots drink constantly.",
+     "v": "water",
+     "you": "seats"
+    },
+    {
+     "s": "The jet has one small chemical toilet.",
+     "v": "toilet",
+     "you": "toilet"
+    },
+    {
+     "s": "It couldn't hold forty-four hours' worth.",
+     "v": "toilet"
+    },
+    {
+     "s": "So the crew used piddle packs.",
+     "v": "packs",
+     "plane": "packs:6"
+    },
+    {
+     "s": "Bags with a powder that turns urine into gel.",
+     "v": "packs",
+     "plane": "packs:6"
+    },
+    {
+     "s": "The pilot said they filled about two an hour.",
+     "v": "packs",
+     "plane": "packs:20",
+     "st": [
+      "2 PER HOUR",
+      "piddle packs"
+     ]
+    },
+    {
+     "s": "Then they worked out how many pounds they'd have to unload.",
+     "v": "packs",
+     "plane": "packs:40"
+    },
+    {
+     "s": "No shower. No change of clothes.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "Could you last forty-four hours like that?",
+     "v": "cockpit",
+     "you": "seats"
+    }
+   ]
+  }
+ ]
+}

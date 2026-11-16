@@ -1,0 +1,82 @@
+{
+ "title": "The Buildings Inside Cheyenne Mountain Sit on Giant Springs",
+ "hook": "BUILDINGS ON SPRINGS",
+ "asof": "Figures from US Air Force & Space Force articles · full video on the channel",
+ "world": "mountain",
+ "long": "IX014",
+ "chapters": [
+  {
+   "id": "springs",
+   "hud": "DAY 1",
+   "chip": "09:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "These buildings sit on giant steel springs.",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "They're inside Cheyenne Mountain, in Colorado.",
+     "v": "mountain"
+    },
+    {
+     "s": "A command bunker built to survive a nuclear war.",
+     "v": "cave"
+    },
+    {
+     "s": "There are fifteen buildings in a cave carved into granite.",
+     "v": "cave",
+     "st": [
+      "15",
+      "buildings"
+     ]
+    },
+    {
+     "s": "They don't touch the rock. There's a gap of about eighteen inches.",
+     "v": "gap",
+     "st": [
+      "18 IN",
+      "from the rock"
+     ]
+    },
+    {
+     "s": "Instead, they sit on more than thirteen hundred springs.",
+     "v": "springs",
+     "st": [
+      "1,300+",
+      "springs"
+     ]
+    },
+    {
+     "s": "Each one weighs over a thousand pounds.",
+     "v": "spring"
+    },
+    {
+     "s": "If a blast or an earthquake shakes the mountain,",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "the buildings bounce instead of breaking.",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "The front door weighs twenty-five tons.",
+     "v": "door",
+     "plane": "door:shut",
+     "st": [
+      "25 TONS",
+      "blast door"
+     ]
+    },
+    {
+     "s": "Would you feel safe in there?",
+     "v": "command",
+     "you": "command"
+    }
+   ]
+  }
+ ]
+}

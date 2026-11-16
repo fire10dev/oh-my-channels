@@ -1,0 +1,78 @@
+{
+ "title": "How an Aircraft Carrier Serves 15,000 Meals a Day",
+ "hook": "15,000 MEALS A DAY",
+ "asof": "Figures from US Navy reports 2006–2025 · full video on the channel",
+ "world": "carrier",
+ "long": "IX009",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "DAY 3",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "This kitchen serves more than fifteen thousand meals a day.",
+     "v": "galley"
+    },
+    {
+     "s": "It's on USS Ronald Reagan, an aircraft carrier.",
+     "v": "wide"
+    },
+    {
+     "s": "The galley never closes. The ship runs twenty-four hours.",
+     "v": "clock"
+    },
+    {
+     "s": "Every month: about fourteen hundred gallons of milk,",
+     "v": "storeroom",
+     "st": [
+      "1,400 GAL",
+      "milk a month · 2020"
+     ]
+    },
+    {
+     "s": "seven thousand pounds of lettuce,",
+     "v": "storeroom"
+    },
+    {
+     "s": "and over thirty thousand pounds of chicken.",
+     "v": "storeroom",
+     "st": [
+      "30,000 LB",
+      "chicken a month"
+     ]
+    },
+    {
+     "s": "Sailors on watch can't make mealtime, so cooks pack plates to go.",
+     "v": "galley",
+     "you": "mess"
+    },
+    {
+     "s": "Before USS Carl Vinson deployed, eighteen semi-trucks filled its freezers.",
+     "v": "truck",
+     "plane": "trucks"
+    },
+    {
+     "s": "At sea, supply ships pull alongside.",
+     "v": "ras",
+     "plane": "ras"
+    },
+    {
+     "s": "Then everyone carries boxes below, even master chiefs.",
+     "v": "storeroom",
+     "you": "storeroom"
+    },
+    {
+     "s": "And the cooks start all over again.",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "Could you cook for five thousand people?",
+     "v": "galley"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+!title How 5,000 Sailors Eat, Shower & Sleep on an Aircraft Carrier
+!asof Figures from US Navy reports 2006–2025 · sources in description
+!world carrier
+## hook | | DAY 1 | 06:00 | dawn | 1.12
+More than five thousand people live on this ship. :: v=wide
+For months, they don't step on land. :: v=sea
+Jets land on the roof all night. :: v=deck plane=trap tod=night
+The bedroom sleeps a hundred. :: v=berthing you=rack
+The kitchen never closes. :: v=galley
+So how do you eat, :: v=mess you=mess
+shower, :: v=shower plane=shower:on you=shower
+and sleep, :: v=rack you=rack plane=curtain
+on an aircraft carrier? :: v=wide
+## ship | DAY 1 / A CITY AT SEA | DAY 1 | 08:00 | day | 0.0
+This is a Nimitz-class aircraft carrier. :: v=wide
+It's one thousand and ninety-two feet long. :: v=wide st=1,092_FT;long_·_US_Navy
+Two nuclear reactors drive it. :: v=reactor
+On top: the flight deck. :: v=deck
+Below it: the hangar, full of jets. :: v=hangar
+And below that, decks and decks of people. :: v=berthing
+The crew of a carrier like USS Ronald Reagan: about fifty-three hundred, with its air wing. :: v=wide st=~5,300;crew_+_air_wing_·_2006
+For a lot of them, it's their first deployment. :: v=mess you=mess
+On one Reagan deployment, about sixty percent had never deployed before. :: v=mess st=60%;first_deployment_·_2006
+## sleep | PROBLEM 1 / SLEEP | DAY 1 | 23:00 | night | -1.4
+Your bedroom is called a berthing. :: v=berthing you=rack
+Racks stacked three high. :: v=berthing
+Up to a hundred sailors can share one space. :: v=berthing st=100;sailors_per_berthing_·_2006
+You're so close that rolling over could wake the guy above you. :: v=rack you=rack
+Your rack has a curtain. :: v=rack plane=curtain you=rack
+It blocks the light. :: v=rack plane=curtain you=rack
+It doesn't block the sound. :: v=rack plane=curtain
+Day or night, you hear jets slamming down on deck. :: v=deck plane=trap tod=night
+The catapults fire, :: v=catapult plane=launch tod=night
+and the slam rings through the steel. :: v=hangar
+People work every hour of the day here. :: v=clock
+So someone is always sleeping, and someone is always waking up. :: v=berthing you=rack
+## food | PROBLEM 2 / FOOD | DAY 3 | 12:00 | day | 0.56
+The galley on Reagan runs twenty-four hours a day. :: v=galley
+It serves more than fifteen thousand meals a day. :: v=mess st=15,000+;meals_a_day_·_Reagan,_2020
+Every month, about fourteen hundred gallons of milk. :: v=storeroom st=1,400_GAL;milk_per_month
+Seven thousand pounds of lettuce. :: v=storeroom
+And over thirty thousand pounds of chicken. :: v=storeroom st=30,000_LB;chicken_per_month
+Not everyone can make it to mealtime. :: v=clock
+So cooks make plates to go, for people on watch. :: v=galley you=mess
+Before the USS Carl Vinson deployed in 2024, :: v=truck
+eighteen semi-trucks lined up to fill its storerooms and freezers. :: v=truck plane=trucks st=18;semi-trucks_of_food_·_Vinson
+Food runs out. :: v=storeroom
+So supply ships pull up alongside, at sea. :: v=ras plane=ras
+That's called a replenishment at sea. :: v=ras plane=ras
+Pallets swing across on cables. :: v=ras plane=ras
+Then everyone carries boxes down below. :: v=hangar
+On Vinson, even master chiefs carry boxes. :: v=storeroom you=storeroom
+Then the cooks start all over again. :: v=galley
+## water | PROBLEM 3 / WATER | DAY 10 | 18:00 | dusk | -1.4
+In the middle of the ocean, fresh water doesn't come from a pipe. :: v=sea
+The ship makes it from seawater. :: v=still
+Its plants can make about four hundred thousand gallons a day. :: v=still st=400,000_GAL;fresh_water_a_day
+The reactors need some of it. :: v=reactor
+So do jet washes, cooking and laundry. :: v=laundry
+And everyone wants a shower after work. :: v=shower plane=shower:on you=shower
+So sailors learn the navy shower. :: v=shower you=shower
+Get wet. Water off. :: v=shower plane=shower:on you=shower
+Soap up. :: v=shower you=shower
+Water on, rinse. Done. :: v=shower plane=shower:on you=shower
+When the plants break down, things shut off in order. :: v=still plane=water:low
+On USS George Washington, laundry closed first. :: v=laundry plane=water:low
+Then the dishwashing room. :: v=galley plane=water:low
+Then showers get cut back. :: v=shower plane=water:low
+## noise | PROBLEM 4 / THE NOISE | DAY 20 | 02:00 | night | -2.1
+The flight deck is right above some living spaces. :: v=deck tod=night
+A Navy study put noise meters on a carrier for twenty-four hours. :: v=hangar
+During flight operations, living spaces below deck were very loud. :: v=berthing plane=launch
+Each catapult launch ends with a hard slam. :: v=catapult plane=launch tod=night
+That bang travels through the whole ship. :: v=hangar
+Sailors learn to sleep through it, or don't. :: v=rack you=rack plane=curtain
+## life | OFF DUTY / LIFE ON BOARD | DAY 45 | 20:00 | night | 0.84
+You never leave, so the ship has everything. :: v=wide
+A gym. :: v=gym you=gym
+A laundry. :: v=laundry
+A store. :: v=store you=store
+And the sea, all the way to the horizon. :: v=sea you=deck
+## home | DAY 200 / HOMECOMING | DAY 200 | 10:00 | day | 1.12
+A deployment usually lasts months. :: v=sea
+Then the carrier turns for home. :: v=wide
+Families wait on the pier. :: v=truck you=deck
+Thousands of sailors walk off the ship. :: v=wide
+Your rack goes to the next crew. :: v=rack
+Could you share a bedroom with a hundred people for months? :: v=berthing you=rack

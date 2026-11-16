@@ -1,0 +1,80 @@
+!title How Cardinals Eat, Sleep & Vote While Locked In to Choose a Pope
+!asof Rules from Universi Dominici Gregis (1996) · details from the May 2025 conclave · sources in description
+!world conclave
+!gain_scale 1.5
+## hook | | DAY 1 | MAY 7, 2025 | dusk | 1.12
+A hundred and thirty-three men walk into a chapel. :: v=chapel you=chapel
+The doors close behind them. :: v=doors plane=doors:shut
+No phones. No news. No TV. :: v=room you=room
+They can't leave until they agree on one name. :: v=ballot
+And the world is watching a chimney. :: v=chimney plane=smoke:black
+So how do you eat, :: v=dining you=dining
+sleep, :: v=room you=room
+and vote, :: v=urn you=urn
+locked inside the Vatican? :: v=wide
+## rules | THE RULES / WHO GETS IN | DAY 0 | APR 2025 | day | 0.0
+When a pope dies, cardinals choose the next one. :: v=wide
+But only cardinals under eighty can vote. :: v=chapel st=UNDER_80;can_vote_·_UDG_1996
+In 2025, that was a hundred and thirty-three men. :: v=chapel st=133;cardinal_electors_·_2025
+They came from all over the world. :: v=square
+The rules come from a 1996 document by Pope John Paul the Second. :: v=wide
+Its name is Universi Dominici Gregis. :: v=ballot
+## home | PROBLEM 1 / WHERE TO SLEEP | DAY 0 | MAY 3, 2025 | day | 0.56
+Cardinals used to sleep on cots in small, stuffy rooms next to the Sistine Chapel. :: v=cots
+Since 1996, there's a guesthouse inside the Vatican: Casa Santa Marta. :: v=house
+It was built with a conclave in mind. :: v=house
+It has a hundred and thirty-one rooms. :: v=house st=131;rooms_·_Casa_Santa_Marta
+But Pope Francis lived there, and his rooms were sealed when he died. :: v=house plane=sealed
+That left about a hundred and twenty-five rooms, for a hundred and thirty-three cardinals. :: v=house st=~125_ROOMS;for_133_cardinals
+So some stayed in the old building next door. :: v=house
+Who gets which room? :: v=lots
+They draw lots. :: v=lots plane=lots
+Even when there's room for everyone. :: v=lots plane=lots
+Each bedroom has a bed, a dresser, a night table, :: v=room you=room
+and a private bathroom with a shower. :: v=bath you=bath
+It's comfortable, but it's not a luxury hotel. :: v=room you=room
+## sealed | PROBLEM 2 / CUT OFF | DAY 1 | MAY 7, 2025 | day | 0.0
+The rooms have telephones. :: v=room
+But no cardinal may call anyone outside. :: v=room you=room
+The internet is disconnected. :: v=room
+So is the satellite TV. :: v=room
+The rules forbid newspapers, radio and television for the whole election. :: v=ballot st=NO_NEWS;for_the_whole_election
+Every room is swept for hidden bugs and transmitters. :: v=sweep plane=sweep
+So is the Sistine Chapel. :: v=chapel plane=sweep
+The staff swear an oath of secrecy too. :: v=staff
+Cooks, cleaners, doctors, even the elevator operators. :: v=staff
+Break it, and the penalty is excommunication. :: v=staff st=EXCOMMUNICATION;for_breaking_secrecy
+## food | PROBLEM 3 / FOOD | DAY 1 | MAY 7, 2025 | day | 0.0
+Casa Santa Marta has a dining room. :: v=dining
+The rules say staff must be ready to cook and serve meals. :: v=kitchen
+The cardinals eat there, :: v=dining you=dining
+between voting sessions. :: v=dining you=dining
+Then a short bus ride to the chapel. :: v=bus plane=bus
+On sealed, monitored buses. :: v=bus plane=bus
+Some cardinals in past conclaves insisted on walking instead, under watch. :: v=garden you=garden
+## vote | PROBLEM 4 / THE VOTE | DAY 1 | MAY 7, 2025 | dusk | -1.4
+The cardinals walk into the Sistine Chapel. :: v=chapel
+Each one swears an oath. :: v=chapel you=chapel
+Then the order: "Extra omnes." Everybody out. :: v=doors plane=doors:shut
+The doors close. :: v=doors plane=doors:shut
+Each cardinal writes a name on a paper ballot. :: v=ballot you=chapel
+The top says, in Latin: I elect as Supreme Pontiff. :: v=ballot
+They're told to disguise their handwriting. :: v=ballot
+Fold it twice, then walk it up to the altar. :: v=urn you=urn
+To win, a candidate needs two thirds of the votes. :: v=urn st=⅔;votes_to_win
+Two votes in the morning. Two in the afternoon. :: v=clock
+## smoke | PROBLEM 5 / THE SMOKE | DAY 1 | MAY 7, 2025 | dusk | -1.4
+After the votes, the ballots are burned in a stove. :: v=stove plane=fire
+The smoke goes up a chimney on the chapel roof. :: v=chimney plane=smoke:black
+Black smoke means no pope yet. :: v=chimney plane=smoke:black
+Crowds wait outside in Saint Peter's Square. :: v=square
+On the first night, the smoke was black. :: v=chimney plane=smoke:black tod=night
+## white | DAY 2 / WHITE SMOKE | DAY 2 | MAY 8, 2025 | dusk | 1.12
+The next afternoon, on the fourth vote, :: v=urn
+the smoke was white. :: v=chimney plane=smoke:white
+The bells rang. :: v=square plane=crowd
+Cardinal Robert Prevost of the United States was the new pope. :: v=balcony plane=crowd
+He took the name Leo the Fourteenth. :: v=balcony plane=crowd st=LEO_XIV;elected_May_8,_2025
+The first pope from the United States. :: v=square plane=crowd
+Under the rules, what was said inside stays secret, forever. :: v=doors plane=doors:shut
+Could you stay locked in until everyone agreed? :: v=chapel you=chapel

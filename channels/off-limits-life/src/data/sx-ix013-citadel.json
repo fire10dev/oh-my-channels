@@ -1,0 +1,68 @@
+{
+ "title": "The Safe Room Ship Crews Hide In When Pirates Board",
+ "hook": "LOCK THE CITADEL",
+ "asof": "Rules from MLC 2006 · data as of 2025 · full video on the channel",
+ "world": "boxship",
+ "long": "IX013",
+ "chapters": [
+  {
+   "id": "pirates",
+   "hud": "DAY 75",
+   "chip": "03:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "If pirates board this ship, the crew has one place to go.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "It's called the citadel.",
+     "v": "citadel"
+    },
+    {
+     "s": "A locked safe room deep inside the ship.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Guidance says it should hold food and water for at least three days.",
+     "v": "citadel",
+     "st": [
+      "3 DAYS",
+      "food & water"
+     ]
+    },
+    {
+     "s": "In November 2025, pirates boarded a tanker off Somalia.",
+     "v": "sea",
+     "plane": "skiff"
+    },
+    {
+     "s": "All twenty-four crew locked themselves in.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "The pirates couldn't reach them.",
+     "v": "sea",
+     "plane": "skiff"
+    },
+    {
+     "s": "They gave up and left.",
+     "v": "sea"
+    },
+    {
+     "s": "Everyone was safe.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Would you wait it out in there?",
+     "v": "citadel",
+     "you": "citadel"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,497 @@
+{
+ "title": "How People Live a Week at a Time on the Mountain With the \"World's Worst Weather\"",
+ "asof": "Figures from Mount Washington Observatory, CBS News & FOX Weather, as of 2026 · sources in description",
+ "world": "summit",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Every hour, someone walks out into this.",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    },
+    {
+     "s": "Winds of a hundred miles an hour.",
+     "v": "deck",
+     "plane": "wind",
+     "st": [
+      "100+ MPH",
+      "and they still go out"
+     ]
+    },
+    {
+     "s": "Ice that freezes on everything it touches.",
+     "v": "rime",
+     "plane": "rime"
+    },
+    {
+     "s": "They live up here a week at a time.",
+     "v": "building"
+    },
+    {
+     "s": "On the mountain known for the world's worst weather.",
+     "v": "wide"
+    },
+    {
+     "s": "So how do you eat,",
+     "v": "kitchen",
+     "you": "kitchen"
+    },
+    {
+     "s": "sleep,",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "and work,",
+     "v": "office",
+     "you": "office"
+    },
+    {
+     "s": "on top of Mount Washington?",
+     "v": "wide",
+     "plane": "wind"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "mountain",
+   "hud": "DAY 1",
+   "chip": "07:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Mount Washington is in New Hampshire.",
+     "v": "mountain"
+    },
+    {
+     "s": "At about sixty-three hundred feet,",
+     "v": "mountain"
+    },
+    {
+     "s": "it's the highest peak in the northeastern US.",
+     "v": "mountain",
+     "st": [
+      "6,288 FT",
+      "highest in the Northeast"
+     ]
+    },
+    {
+     "s": "It's in fog about sixty percent of the year.",
+     "v": "sky",
+     "plane": "fog",
+     "st": [
+      "60%",
+      "of the year in fog"
+     ]
+    },
+    {
+     "s": "On the summit sits a weather station that never closes.",
+     "v": "building"
+    },
+    {
+     "s": "The Mount Washington Observatory.",
+     "v": "building"
+    },
+    {
+     "s": "Its records go back to 1932.",
+     "v": "office",
+     "st": [
+      "1932",
+      "records begin"
+     ]
+    },
+    {
+     "s": "Four men started it,",
+     "v": "mountain"
+    },
+    {
+     "s": "in October 1932.",
+     "v": "building"
+    },
+    {
+     "s": "They wanted to know what the weather was really like up here.",
+     "v": "tower"
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "THE ROCKPILE"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "record",
+   "hud": "APR 12, 1934",
+   "chip": "13:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "In April 1934,",
+     "v": "sky",
+     "plane": "wind"
+    },
+    {
+     "s": "a huge storm hit the summit.",
+     "v": "sky",
+     "plane": "wind"
+    },
+    {
+     "s": "Three men were on duty: Sal Pagliuca,",
+     "v": "office",
+     "you": "office"
+    },
+    {
+     "s": "Alex McKenzie and Wendell Stephenson.",
+     "v": "office",
+     "you": "office"
+    },
+    {
+     "s": "Their anemometer had a heater built in,",
+     "v": "tower",
+     "plane": "rime"
+    },
+    {
+     "s": "so ice couldn't jam it.",
+     "v": "tower",
+     "plane": "rime"
+    },
+    {
+     "s": "Then they measured a gust of two hundred",
+     "v": "tower",
+     "plane": "wind"
+    },
+    {
+     "s": "and thirty-one miles an hour.",
+     "v": "tower",
+     "plane": "wind",
+     "st": [
+      "231 MPH",
+      "April 12, 1934"
+     ]
+    },
+    {
+     "s": "For decades, it was the fastest wind ever measured on Earth's surface.",
+     "v": "tower",
+     "plane": "wind"
+    },
+    {
+     "s": "It's still the fastest recorded by a person on land,",
+     "v": "deck",
+     "plane": "wind"
+    },
+    {
+     "s": "CBS reported.",
+     "v": "deck",
+     "plane": "wind"
+    },
+    {
+     "s": "And in February 2023,",
+     "v": "sky"
+    },
+    {
+     "s": "the wind chill up here hit minus one hundred and eight Fahrenheit.",
+     "v": "deck",
+     "plane": "wind",
+     "st": [
+      "−108°F",
+      "wind chill · Feb 2023"
+     ]
+    },
+    {
+     "s": "A US record.",
+     "v": "rime",
+     "plane": "rime"
+    }
+   ],
+   "card": [
+    "THE RECORD",
+    "APRIL 1934"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "up",
+   "hud": "DAY 1",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "You start your week on a Wednesday.",
+     "v": "road"
+    },
+    {
+     "s": "In winter, a snowcat drives you up the Auto Road.",
+     "v": "snowcat",
+     "plane": "snow",
+     "you": "snowcat"
+    },
+    {
+     "s": "Three observers per shift.",
+     "v": "building",
+     "st": [
+      "3",
+      "observers per shift"
+     ]
+    },
+    {
+     "s": "The shift you're replacing rides back down.",
+     "v": "snowcat",
+     "plane": "snow"
+    },
+    {
+     "s": "For the next week, the summit is yours.",
+     "v": "building",
+     "plane": "wind"
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "SHIFT CHANGE"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "work",
+   "hud": "DAY 2",
+   "chip": "05:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "The station isn't automated.",
+     "v": "office"
+    },
+    {
+     "s": "Ice and wind wreck automatic instruments.",
+     "v": "rime",
+     "plane": "rime"
+    },
+    {
+     "s": "So every hour, day and night,",
+     "v": "office",
+     "tod": "night"
+    },
+    {
+     "s": "an observer goes outside.",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck",
+     "tod": "night"
+    },
+    {
+     "s": "Snow, ice, a hundred-mile-an-hour wind.",
+     "v": "deck",
+     "plane": "wind",
+     "tod": "night"
+    },
+    {
+     "s": "One observer said the only time they don't go out is lightning.",
+     "v": "sky",
+     "plane": "lightning",
+     "tod": "night"
+    },
+    {
+     "s": "Then they climb the tower, about a hundred feet up.",
+     "v": "tower",
+     "plane": "wind",
+     "you": "tower"
+    },
+    {
+     "s": "And knock the ice off the instruments with a rubber mallet or a crowbar.",
+     "v": "tower",
+     "plane": "rime",
+     "you": "tower"
+    },
+    {
+     "s": "Their data goes to the National Weather Service.",
+     "v": "office",
+     "you": "office"
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "THE HOURLY WALK"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "food",
+   "hud": "DAY 3",
+   "chip": "18:00",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "In a typical year,",
+     "v": "kitchen",
+     "you": "kitchen"
+    },
+    {
+     "s": "volunteers join shifts to cook and clean.",
+     "v": "kitchen",
+     "you": "kitchen"
+    },
+    {
+     "s": "Without volunteers,",
+     "v": "kitchen",
+     "you": "kitchen"
+    },
+    {
+     "s": "the observers cook and clean themselves.",
+     "v": "kitchen",
+     "you": "kitchen"
+    },
+    {
+     "s": "On top of watching the weather.",
+     "v": "office",
+     "you": "office"
+    },
+    {
+     "s": "Dinner is the time everyone's in the same room.",
+     "v": "kitchen",
+     "you": "kitchen"
+    },
+    {
+     "s": "Outside the window, it's a blizzard.",
+     "v": "window",
+     "plane": "snow"
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "FOOD"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "sleep",
+   "hud": "DAY 4",
+   "chip": "23:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "The crew sleeps right there on the summit.",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "And the wind never stops.",
+     "v": "building",
+     "plane": "wind",
+     "tod": "night"
+    },
+    {
+     "s": "Twelve-hour shifts.",
+     "v": "clock",
+     "st": [
+      "12 HRS",
+      "per shift"
+     ]
+    },
+    {
+     "s": "One observer covers the night,",
+     "v": "bunk",
+     "tod": "night"
+    },
+    {
+     "s": "alone with the instruments.",
+     "v": "office",
+     "tod": "night",
+     "you": "office"
+    },
+    {
+     "s": "Because the weather never takes a night off.",
+     "v": "deck",
+     "plane": "wind",
+     "tod": "night"
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "SLEEP"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "snow",
+   "hud": "DAY 5",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "It snows up here nearly every month of the year.",
+     "v": "deck",
+     "plane": "snow"
+    },
+    {
+     "s": "In June 2023, the summit got eight point four inches of snow.",
+     "v": "deck",
+     "plane": "snow",
+     "st": [
+      "8.4 IN",
+      "June 2023 snow record"
+     ]
+    },
+    {
+     "s": "About seven inches more than a usual whole summer.",
+     "v": "rime",
+     "plane": "snow"
+    }
+   ],
+   "card": [
+    "PROBLEM 4",
+    "SNOW IN JUNE"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "down",
+   "hud": "DAY 8",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Wednesday again.",
+     "v": "snowcat",
+     "plane": "snow"
+    },
+    {
+     "s": "The next crew rides up.",
+     "v": "road"
+    },
+    {
+     "s": "You hand over the summit,",
+     "v": "road"
+    },
+    {
+     "s": "and ride down into a world where the wind is normal.",
+     "v": "road"
+    },
+    {
+     "s": "Then a week off, and back up again.",
+     "v": "mountain"
+    },
+    {
+     "s": "Could you walk into a hundred-mile-an-hour wind,",
+     "v": "snowcat"
+    },
+    {
+     "s": "every hour?",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    }
+   ],
+   "card": [
+    "DAY 8",
+    "HEADING DOWN"
+   ],
+   "gain": 1.12
+  }
+ ]
+}

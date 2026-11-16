@@ -1,0 +1,660 @@
+{
+ "title": "How Oil Rig Workers Eat, Shower & Sleep in the North Sea",
+ "asof": "Figures as of 2026 · sources in description",
+ "world": "southpole",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "06:40",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "You're about to fly to a steel island in the North Sea.",
+     "v": "heli",
+     "plane": "fly"
+    },
+    {
+     "s": "No roads.",
+     "v": "sea"
+    },
+    {
+     "s": "No shops.",
+     "v": "rig"
+    },
+    {
+     "s": "For the next two weeks,",
+     "v": "helideck",
+     "plane": "land",
+     "you": "helideck"
+    },
+    {
+     "s": "you'll work twelve hours a day.",
+     "v": "drill",
+     "you": "drill"
+    },
+    {
+     "s": "Every day.",
+     "d": {
+      "type": "big",
+      "big": "12 h",
+      "small": "a typical offshore shift · HSE, 2025"
+     }
+    },
+    {
+     "s": "You'll sleep in a cabin you may share.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "And the only way home is a helicopter.",
+     "v": "helideck",
+     "plane": "land"
+    },
+    {
+     "s": "So how do you eat,",
+     "v": "galley",
+     "you": "galley"
+    },
+    {
+     "s": "shower,",
+     "v": "shower",
+     "you": "shower"
+    },
+    {
+     "s": "and sleep,",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "on an oil rig?",
+     "v": "wide"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "flight",
+   "hud": "DAY 1",
+   "chip": "07:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "First, you have to get there.",
+     "v": "sky",
+     "plane": "fly"
+    },
+    {
+     "s": "Almost everyone flies out by helicopter.",
+     "v": "heli",
+     "plane": "fly"
+    },
+    {
+     "s": "Before you're allowed on board,",
+     "v": "heli"
+    },
+    {
+     "s": "you train for the worst.",
+     "v": "pool",
+     "you": "pool"
+    },
+    {
+     "s": "It's called HUET.",
+     "v": "pool",
+     "st": [
+      "HUET",
+      "helicopter underwater escape training"
+     ]
+    },
+    {
+     "s": "A mock helicopter cabin is dropped into a pool,",
+     "v": "pool",
+     "you": "pool"
+    },
+    {
+     "s": "and rolled upside down.",
+     "v": "pool",
+     "plane": "flip"
+    },
+    {
+     "s": "You practice getting out,",
+     "v": "pool",
+     "plane": "flip",
+     "you": "pool"
+    },
+    {
+     "s": "underwater, in the dark.",
+     "v": "pool",
+     "plane": "flip"
+    },
+    {
+     "s": "OPITO says it's required for everyone flying offshore by helicopter.",
+     "v": "heli",
+     "st": [
+      "REQUIRED",
+      "OPITO, 2024"
+     ]
+    },
+    {
+     "s": "Then there's your size.",
+     "v": "heli"
+    },
+    {
+     "s": "Since 2014, wide-shouldered passengers get a label.",
+     "v": "heli"
+    },
+    {
+     "s": "Shoulders twenty-two inches or more? Extra-broad.",
+     "d": {
+      "type": "big",
+      "big": "22 in",
+      "small": "shoulder width = extra-broad (XBR) · since 2014"
+     }
+    },
+    {
+     "s": "They have to sit next to the bigger windows,",
+     "v": "heli",
+     "plane": "fly"
+    },
+    {
+     "s": "so they can still squeeze out in a survival suit.",
+     "v": "heli",
+     "you": "heli"
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "THE FLIGHT OUT"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "sleep",
+   "hud": "DAY 1",
+   "chip": "19:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Your cabin.",
+     "v": "cabin"
+    },
+    {
+     "s": "Two bunks, a desk, lockers.",
+     "v": "cabin"
+    },
+    {
+     "s": "Bathroom shared with the cabin next door.",
+     "v": "shower"
+    },
+    {
+     "s": "On many rigs, you share the cabin.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "Often with someone on the opposite shift.",
+     "v": "bunk"
+    },
+    {
+     "s": "You work days. Your cabin mate works nights.",
+     "v": "cabin2",
+     "plane": "night"
+    },
+    {
+     "s": "So one of you is usually at work.",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "Britain's regulator updated its guidance in May 2026.",
+     "v": "office",
+     "st": [
+      "ON82",
+      "HSE guidance, May 2026"
+     ]
+    },
+    {
+     "s": "A cabin smaller than nine square meters normally isn't big enough for two.",
+     "d": {
+      "type": "big",
+      "big": "9 m²",
+      "small": "minimum for a two-person cabin · HSE, 2026"
+     }
+    },
+    {
+     "s": "Some rigs squeeze a third person into a cabin over twenty-four hours.",
+     "v": "cabin2"
+    },
+    {
+     "s": "The rule: never more than two in it at once.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "And each of them gets their own bed.",
+     "v": "bunk"
+    },
+    {
+     "s": "In Norway, Ekofisk went further.",
+     "v": "rig"
+    },
+    {
+     "s": "Since 2008, every cabin there is single.",
+     "v": "cabin",
+     "st": [
+      "2008",
+      "Ekofisk: single cabins"
+     ]
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "SLEEP"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "water",
+   "hud": "DAY 3",
+   "chip": "06:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "You're surrounded by seawater.",
+     "v": "sea"
+    },
+    {
+     "s": "You can't drink a drop of it.",
+     "v": "shower"
+    },
+    {
+     "s": "So many rigs make their own.",
+     "v": "water"
+    },
+    {
+     "s": "Machines push seawater through filters,",
+     "v": "water",
+     "plane": "pump"
+    },
+    {
+     "s": "and strip out the salt.",
+     "v": "water",
+     "plane": "pump"
+    },
+    {
+     "s": "That's your drinking water, and your shower.",
+     "v": "shower",
+     "you": "shower"
+    },
+    {
+     "s": "Other rigs get their water by boat.",
+     "v": "boat",
+     "plane": "supply"
+    },
+    {
+     "s": "A supply vessel pumps it into the tanks.",
+     "v": "boat",
+     "plane": "supply"
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "WATER"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "food",
+   "hud": "DAY 4",
+   "chip": "18:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Then there's the galley.",
+     "v": "galley"
+    },
+    {
+     "s": "A rig never stops, so neither does the kitchen.",
+     "v": "galley",
+     "you": "galley"
+    },
+    {
+     "s": "There's a cook for days,",
+     "v": "galley"
+    },
+    {
+     "s": "and a night cook who makes breakfast.",
+     "v": "galley",
+     "plane": "night"
+    },
+    {
+     "s": "Your meals are made for you.",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "Your cabin is cleaned for you.",
+     "v": "cabin"
+    },
+    {
+     "s": "Your work clothes are washed overnight.",
+     "v": "laundry",
+     "plane": "night"
+    },
+    {
+     "s": "The food is a famous problem.",
+     "v": "mess"
+    },
+    {
+     "s": "From 1985 to 2014,",
+     "v": "mess"
+    },
+    {
+     "s": "the average offshore man got about twenty percent heavier.",
+     "d": {
+      "type": "big",
+      "big": "+20%",
+      "small": "average weight, offshore men · 1985–2014"
+     }
+    },
+    {
+     "s": "So most big rigs have a gym.",
+     "v": "gym",
+     "you": "gym"
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "FOOD"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "work",
+   "hud": "DAY 7",
+   "chip": "03:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Now, the work.",
+     "v": "drill"
+    },
+    {
+     "s": "Twelve hours on.",
+     "v": "drill",
+     "you": "drill"
+    },
+    {
+     "s": "Twelve hours off.",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "Day after day, in wind and rain.",
+     "v": "deck",
+     "you": "deck",
+     "plane": "storm"
+    },
+    {
+     "s": "In 2025, Britain's offshore crews logged about four million days.",
+     "d": {
+      "type": "big",
+      "big": "4.0 M",
+      "small": "days offshore in 2025 · HSE"
+     }
+    },
+    {
+     "s": "That's about twenty-four thousand full-time workers.",
+     "v": "rig",
+     "st": [
+      "~24,000",
+      "full-time workers · HSE 2025"
+     ]
+    },
+    {
+     "s": "Many work two weeks on,",
+     "v": "drill",
+     "you": "drill"
+    },
+    {
+     "s": "then two or three weeks at home.",
+     "d": {
+      "type": "compare",
+      "left": [
+       "ON THE RIG",
+       "2 weeks",
+       "12-hour shifts"
+      ],
+      "right": [
+       "AT HOME",
+       "2–3 weeks",
+       "off"
+      ],
+      "note": "common North Sea rotas"
+     }
+    },
+    {
+     "s": "Some drill crews do three on, three off.",
+     "v": "derrick"
+    }
+   ],
+   "card": [
+    "PROBLEM 4",
+    "THE SHIFT"
+   ],
+   "gain": -2.1
+  },
+  {
+   "id": "life",
+   "hud": "DAY 9",
+   "chip": "20:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "So what do you do with twelve hours off?",
+     "v": "cinema"
+    },
+    {
+     "s": "Sleep, mostly.",
+     "v": "bunk",
+     "you": "bunk"
+    },
+    {
+     "s": "Modern rigs often have a gym, a games room, even a cinema.",
+     "v": "cinema",
+     "you": "cinema"
+    },
+    {
+     "s": "Most have Wi-Fi now.",
+     "v": "office",
+     "you": "office"
+    },
+    {
+     "s": "But mobile phones are often banned.",
+     "v": "deck"
+    },
+    {
+     "s": "On Norwegian platforms, alcohol has always been banned.",
+     "v": "mess",
+     "st": [
+      "NO ALCOHOL",
+      "Norwegian platforms"
+     ]
+    }
+   ],
+   "card": [
+    "OFF SHIFT",
+    "LIFE ON BOARD"
+   ],
+   "gain": 0.84
+  },
+  {
+   "id": "weather",
+   "hud": "DAY 14",
+   "chip": "07:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Day fourteen. Your helicopter is due.",
+     "v": "helideck"
+    },
+    {
+     "s": "But the North Sea gets a vote.",
+     "v": "sea",
+     "plane": "storm"
+    },
+    {
+     "s": "In January 2014, gales blew for about three weeks.",
+     "v": "rig",
+     "plane": "storm"
+    },
+    {
+     "s": "Seas reached twelve meters.",
+     "v": "sea",
+     "plane": "storm",
+     "st": [
+      "12 m",
+      "waves, Jan 2014"
+     ]
+    },
+    {
+     "s": "Hundreds of workers were trapped offshore.",
+     "v": "mess",
+     "plane": "storm"
+    },
+    {
+     "s": "Even the boats couldn't come.",
+     "v": "boat",
+     "plane": "storm"
+    },
+    {
+     "s": "So you wait.",
+     "v": "bunk",
+     "you": "bunk"
+    }
+   ],
+   "card": [
+    "PROBLEM 5",
+    "THE WEATHER"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "danger",
+   "hud": "DAY 14",
+   "chip": "21:55",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Everyone out here knows one date.",
+     "v": "rig",
+     "plane": "night"
+    },
+    {
+     "s": "July sixth, 1988.",
+     "v": "flare",
+     "plane": "night"
+    },
+    {
+     "s": "The Piper Alpha platform exploded and burned.",
+     "v": "flare",
+     "plane": "fire"
+    },
+    {
+     "s": "A hundred and sixty-seven men died.",
+     "d": {
+      "type": "big",
+      "big": "167",
+      "small": "died · Piper Alpha, 6 July 1988"
+     }
+    },
+    {
+     "s": "Sixty-one survived.",
+     "v": "sea",
+     "plane": "night"
+    },
+    {
+     "s": "The inquiry made a hundred and six recommendations.",
+     "v": "office",
+     "st": [
+      "106",
+      "Cullen recommendations"
+     ]
+    },
+    {
+     "s": "Since then, every UK platform needs a safety case accepted by the regulator.",
+     "v": "office",
+     "you": "office"
+    },
+    {
+     "s": "That's why you train.",
+     "v": "muster",
+     "you": "muster"
+    },
+    {
+     "s": "That's why there are lifeboats.",
+     "v": "lifeboat"
+    }
+   ],
+   "card": [
+    "PROBLEM 6",
+    "DANGER"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "home",
+   "hud": "DAY 15",
+   "chip": "09:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Then the wind drops.",
+     "v": "sky"
+    },
+    {
+     "s": "You hear rotors.",
+     "v": "heli",
+     "plane": "land"
+    },
+    {
+     "s": "Your relief steps off.",
+     "v": "helideck",
+     "plane": "land",
+     "you": "helideck"
+    },
+    {
+     "s": "You step on.",
+     "v": "heli",
+     "plane": "fly",
+     "you": "heli"
+    },
+    {
+     "s": "Two weeks at home.",
+     "v": "wide"
+    },
+    {
+     "s": "Then you fly back out.",
+     "v": "heli",
+     "plane": "fly"
+    },
+    {
+     "s": "So, could you live on a steel island in the North Sea?",
+     "v": "rig"
+    },
+    {
+     "s": "Off Limits Life.",
+     "d": {
+      "type": "brand",
+      "tag": "How people live where you can't go"
+     }
+    }
+   ],
+   "card": [
+    "DAY 15",
+    "GOING HOME"
+   ],
+   "gain": 0.84
+  }
+ ]
+}

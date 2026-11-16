@@ -1,0 +1,491 @@
+{
+ "title": "How Container Ship Crews Eat, Shower & Sleep for Months at Sea",
+ "asof": "Rules from MLC 2006 · survey data as of 2025 · sources in description",
+ "world": "boxship",
+ "chapters": [
+  {
+   "id": "hook",
+   "hud": "DAY 1",
+   "chip": "06:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "This ship is about as long as four football fields.",
+     "v": "wide"
+    },
+    {
+     "s": "It carries thousands of containers.",
+     "v": "stack"
+    },
+    {
+     "s": "And only about twenty-five people.",
+     "v": "bridge",
+     "you": "bridge"
+    },
+    {
+     "s": "They stay on board for months.",
+     "v": "sea"
+    },
+    {
+     "s": "Sometimes they don't step ashore for weeks.",
+     "v": "port"
+    },
+    {
+     "s": "So how do you eat,",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "shower,",
+     "v": "shower",
+     "you": "shower",
+     "plane": "shower:on"
+    },
+    {
+     "s": "and sleep,",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "on a container ship?",
+     "v": "wide"
+    }
+   ],
+   "gain": 1.12
+  },
+  {
+   "id": "ship",
+   "hud": "DAY 1",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "The biggest container ships are about four hundred meters long.",
+     "v": "wide",
+     "st": [
+      "~400 M",
+      "biggest ships"
+     ]
+    },
+    {
+     "s": "When the Ever Given got stuck in the Suez Canal in 2021,",
+     "v": "canal"
+    },
+    {
+     "s": "it had a crew of twenty-five.",
+     "v": "canal",
+     "st": [
+      "25",
+      "crew · Ever Given 2021"
+     ]
+    },
+    {
+     "s": "Almost everything you buy has been on a ship like this.",
+     "v": "stack"
+    },
+    {
+     "s": "Up front: containers, stacked high.",
+     "v": "stack"
+    },
+    {
+     "s": "At the back: the engine room,",
+     "v": "engine"
+    },
+    {
+     "s": "and a tall white tower called the accommodation.",
+     "v": "tower"
+    },
+    {
+     "s": "That's where the crew lives.",
+     "v": "tower",
+     "you": "bridge"
+    },
+    {
+     "s": "Bridge on top.",
+     "v": "bridge"
+    },
+    {
+     "s": "Cabins, galley, mess room and gym below.",
+     "v": "tower"
+    }
+   ],
+   "card": [
+    "DAY 1",
+    "A STEEL TOWN WITH 25 PEOPLE"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "work",
+   "hud": "DAY 2",
+   "chip": "04:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "A ship never stops.",
+     "v": "sea",
+     "tod": "night"
+    },
+    {
+     "s": "So the crew works in watches, around the clock.",
+     "v": "bridge",
+     "tod": "night",
+     "you": "bridge"
+    },
+    {
+     "s": "There's a rule for rest.",
+     "v": "clock"
+    },
+    {
+     "s": "The Maritime Labour Convention says:",
+     "v": "clock"
+    },
+    {
+     "s": "at least ten hours of rest in any twenty-four.",
+     "v": "clock",
+     "st": [
+      "10 HRS",
+      "minimum rest per day"
+     ]
+    },
+    {
+     "s": "At least seventy-seven hours in any seven days.",
+     "v": "clock",
+     "st": [
+      "77 HRS",
+      "minimum rest per week"
+     ]
+    },
+    {
+     "s": "In port, everyone works harder.",
+     "v": "port",
+     "plane": "crane"
+    },
+    {
+     "s": "Cranes load and unload day and night.",
+     "v": "port",
+     "plane": "crane",
+     "tod": "night"
+    }
+   ],
+   "card": [
+    "PROBLEM 1",
+    "THE CLOCK"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "food",
+   "hud": "DAY 5",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "A cook feeds the whole crew.",
+     "v": "galley",
+     "you": "galley"
+    },
+    {
+     "s": "Food comes aboard in port,",
+     "v": "port",
+     "plane": "crane"
+    },
+    {
+     "s": "and has to last until the next one.",
+     "v": "store"
+    },
+    {
+     "s": "Each ship gets a set food budget per person.",
+     "v": "galley"
+    },
+    {
+     "s": "In 2025, a seafarers' survey found that food quality was falling.",
+     "v": "mess",
+     "st": [
+      "FOOD ↓",
+      "Seafarers Happiness Index Q3 2025"
+     ]
+    },
+    {
+     "s": "Food prices rose, but budgets didn't.",
+     "v": "store"
+    },
+    {
+     "s": "One crew member described the food as too much, but not tasty.",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "Meals matter a lot out here.",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "The survey called them one of the few daily pleasures on board.",
+     "v": "mess",
+     "you": "mess"
+    }
+   ],
+   "card": [
+    "PROBLEM 2",
+    "FOOD"
+   ],
+   "gain": -1.4
+  },
+  {
+   "id": "home",
+   "hud": "DAY 10",
+   "chip": "22:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Most crew get their own cabin.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "A bed, a desk, a small bathroom.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "The shower is fresh water, made on board from seawater.",
+     "v": "shower",
+     "plane": "shower:on",
+     "you": "shower"
+    },
+    {
+     "s": "In rough seas, the whole ship rolls.",
+     "v": "sea",
+     "plane": "storm",
+     "tod": "night"
+    },
+    {
+     "s": "You wedge yourself into your bed to sleep.",
+     "v": "cabin",
+     "you": "cabin",
+     "plane": "roll"
+    },
+    {
+     "s": "And the engine hums through the steel, all day, all night.",
+     "v": "engine"
+    }
+   ],
+   "card": [
+    "PROBLEM 3",
+    "SHOWER & SLEEP"
+   ],
+   "gain": 0.0
+  },
+  {
+   "id": "lonely",
+   "hud": "DAY 60",
+   "chip": "20:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Weeks at sea, with the same faces.",
+     "v": "sea",
+     "tod": "night"
+    },
+    {
+     "s": "Shore leave used to be the escape.",
+     "v": "port"
+    },
+    {
+     "s": "In the 2025 survey, shore leave scored lowest of everything.",
+     "v": "port",
+     "st": [
+      "LAST",
+      "shore leave score · 2025"
+     ]
+    },
+    {
+     "s": "Port stays are short.",
+     "v": "port",
+     "plane": "crane"
+    },
+    {
+     "s": "There are inspections and audits.",
+     "v": "bridge"
+    },
+    {
+     "s": "And transport into town can cost a lot.",
+     "v": "port"
+    },
+    {
+     "s": "Many crew stay on board for the whole port call.",
+     "v": "tower"
+    },
+    {
+     "s": "Internet is the lifeline.",
+     "v": "cabin",
+     "you": "cabin",
+     "plane": "phone"
+    },
+    {
+     "s": "Some ships have good connections.",
+     "v": "cabin",
+     "plane": "phone"
+    },
+    {
+     "s": "Others have tiny data allowances.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "For a seafarer, calling home means everything.",
+     "v": "cabin",
+     "you": "cabin",
+     "plane": "phone"
+    }
+   ],
+   "card": [
+    "PROBLEM 4",
+    "CUT OFF"
+   ],
+   "gain": -2.1
+  },
+  {
+   "id": "pirates",
+   "hud": "DAY 75",
+   "chip": "03:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Some routes pass through pirate waters.",
+     "v": "sea",
+     "tod": "night"
+    },
+    {
+     "s": "So many ships have a citadel.",
+     "v": "citadel"
+    },
+    {
+     "s": "A locked safe room the crew can retreat to.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Guidance says it should hold food and water for at least three days.",
+     "v": "citadel",
+     "st": [
+      "3 DAYS",
+      "food & water in the citadel"
+     ]
+    },
+    {
+     "s": "In November 2025, pirates boarded a tanker off Somalia.",
+     "v": "sea",
+     "plane": "skiff",
+     "tod": "night"
+    },
+    {
+     "s": "All twenty-four crew locked themselves in the citadel.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "The pirates gave up and left.",
+     "v": "sea",
+     "plane": "skiff"
+    },
+    {
+     "s": "Everyone was safe.",
+     "v": "citadel",
+     "you": "citadel"
+    }
+   ],
+   "card": [
+    "PROBLEM 5",
+    "PIRATES"
+   ],
+   "gain": -2.1
+  },
+  {
+   "id": "change",
+   "hud": "DAY 270",
+   "chip": "09:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Contracts often run six to nine months.",
+     "v": "clock"
+    },
+    {
+     "s": "The rules say no more than eleven months on board without leave.",
+     "v": "clock",
+     "st": [
+      "11 MONTHS",
+      "max without leave · MLC"
+     ]
+    },
+    {
+     "s": "In 2020, COVID broke that system.",
+     "v": "port"
+    },
+    {
+     "s": "Borders closed, and crews couldn't be swapped.",
+     "v": "port"
+    },
+    {
+     "s": "By December 2020, the UN shipping agency said over four hundred thousand seafarers were stuck at sea.",
+     "v": "sea",
+     "st": [
+      "400,000+",
+      "stranded at sea · IMO 2020"
+     ]
+    },
+    {
+     "s": "Many past the end of their contracts.",
+     "v": "cabin",
+     "you": "cabin"
+    }
+   ],
+   "card": [
+    "PROBLEM 6",
+    "GETTING HOME"
+   ],
+   "gain": 0.56
+  },
+  {
+   "id": "off",
+   "hud": "DAY 270",
+   "chip": "10:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Then one day, your replacement walks up the gangway.",
+     "v": "gangway",
+     "you": "gangway"
+    },
+    {
+     "s": "You hand over your job.",
+     "v": "bridge"
+    },
+    {
+     "s": "And you go home.",
+     "v": "port"
+    },
+    {
+     "s": "Someone else takes your cabin.",
+     "v": "cabin"
+    },
+    {
+     "s": "And the ship sails on.",
+     "v": "wide"
+    },
+    {
+     "s": "Could you spend nine months on a ship with twenty-five people?",
+     "v": "mess",
+     "you": "mess"
+    }
+   ],
+   "card": [
+    "DAY 270",
+    "SIGNING OFF"
+   ],
+   "gain": 1.12
+  }
+ ]
+}

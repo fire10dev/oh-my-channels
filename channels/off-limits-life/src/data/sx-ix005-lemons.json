@@ -1,0 +1,95 @@
+{
+ "title": "A Diver's Lifeline Snapped 100 Meters Down",
+ "hook": "HIS LIFELINE SNAPPED",
+ "asof": "Events of 2012 · full video on the channel",
+ "world": "sat",
+ "long": "IX005",
+ "chapters": [
+  {
+   "id": "lemons",
+   "hud": "2012",
+   "chip": "NORTH SEA",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "diver",
+     "plane": "cut",
+     "you": "diver",
+     "s": "A hundred meters down, his lifeline snapped."
+    },
+    {
+     "v": "seabed",
+     "s": "September 2012. The North Sea."
+    },
+    {
+     "v": "diver",
+     "you": "diver",
+     "s": "Saturation diver Chris Lemons was working on the seabed."
+    },
+    {
+     "v": "diver",
+     "st": [
+      "UMBILICAL",
+      "gas · hot water · comms"
+     ],
+     "s": "Tied to his diving bell by an umbilical."
+    },
+    {
+     "v": "ship",
+     "plane": "storm",
+     "s": "Then his ship's positioning system failed."
+    },
+    {
+     "v": "ship",
+     "plane": "storm",
+     "s": "The ship drifted away."
+    },
+    {
+     "v": "diver",
+     "plane": "cut",
+     "s": "His umbilical snagged,"
+    },
+    {
+     "v": "diver",
+     "plane": "cut",
+     "you": "diver",
+     "s": "and snapped."
+    },
+    {
+     "v": "diver",
+     "st": [
+      "MINUTES",
+      "emergency gas"
+     ],
+     "s": "He had a few minutes of emergency gas."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "~30 MIN",
+      "small": "until the ship returned · 2012"
+     },
+     "s": "It took the ship about half an hour to get back."
+    },
+    {
+     "v": "seabed",
+     "s": "They found him on the seabed, unconscious."
+    },
+    {
+     "v": "bellin",
+     "you": "bellin",
+     "s": "A colleague got him into the bell and gave him two breaths."
+    },
+    {
+     "v": "bellin",
+     "s": "He came around."
+    },
+    {
+     "v": "chamber",
+     "you": "chamber",
+     "s": "He survived, and went back to diving."
+    }
+   ]
+  }
+ ]
+}

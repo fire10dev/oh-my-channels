@@ -1,0 +1,124 @@
+!title How Inmates Eat, Shower & Sleep in America's Only Federal Supermax
+!asof Figures from the 2018 DC CIC inspection (visit 2017) · sources in description
+!world supermax
+## hook | | DAY 1 | 06:00 | dawn | 1.12
+There's a prison in Colorado built so you never see another prisoner. :: v=wide
+Your room is seven feet by twelve. :: v=cell you=cell st=7×12_FT;your_whole_world_·_CIC_2018
+The bed is concrete. :: v=bed
+The desk is concrete. :: v=desk you=desk
+Your window is four inches wide. :: v=window you=window
+And all it shows you is the sky. :: v=sky
+You'll spend at least twenty-two hours a day in here. :: v=cell you=cell plane=dark
+So how do you eat, :: v=slot plane=tray
+shower, :: v=shower plane=shower:on you=shower
+and sleep, :: v=bed you=bed plane=dark
+in America's only federal supermax? :: v=wide
+## arrive | DAY 1 / THE ALCATRAZ OF THE ROCKIES | DAY 1 | 09:00 | day | 0.0
+This is ADX Florence. :: v=wide
+It opened in 1994, in the high desert south of Colorado Springs. :: v=mountains st=1994;ADX_Florence_opens
+It's the only federal prison of its kind. :: v=fence
+Its official name is Administrative Maximum. :: v=tower
+Reporters call the people inside the worst of the worst. :: v=block
+It was built for four hundred and ninety men. :: v=block st=490;beds_·_rated_capacity
+In 2017, it held four hundred and twenty-seven. :: v=block st=427;men_inside_·_2017
+Most aren't here for the crime they committed. :: v=bus you=bus
+They're here for how they behaved in other prisons. :: v=bus
+You arrive in chains. :: v=range you=range plane=cuffs
+Every trip out of a cell takes an escort of guards. :: v=range you=range
+Cells sit in a line down one side of the hallway. :: v=range
+It's built that way so no prisoner can see another. :: v=block
+## cell | PROBLEM 1 / THE ROOM | DAY 1 | 11:00 | day | 0.56
+Here's everything you own now. :: v=cell you=cell
+A bed, poured from concrete. :: v=bed
+A concrete desk. :: v=desk
+A concrete stool. :: v=desk you=desk
+None of it moves. :: v=cell
+A steel sink and toilet, in one piece. :: v=toilet
+The bed has handles built into it. :: v=bed
+They're for strapping a prisoner down. :: v=bed st=4-POINT;restraint_handles_·_CIC_2018
+Then there's the door. :: v=door
+Actually, two doors. :: v=door
+A barred door on the inside. :: v=door you=cell
+A solid steel door on the outside. :: v=door
+The window is about forty-two inches tall. :: v=window you=window
+And four inches wide. :: v=window st=4_INCHES;window_width_·_CIC_2018
+It's angled so you can only see the sky. :: v=sky
+No ground. :: v=window
+No trees. :: v=window
+No mountains. :: v=mountains
+## food | PROBLEM 2 / FOOD | DAY 2 | 06:00 | dawn | -1.4
+There's no dining hall. :: v=range
+Meals are carried from the kitchen to your door. :: v=cart
+The door has a slot. :: v=slot
+Your tray comes through it. :: v=slot plane=tray
+You eat alone, at your concrete desk. :: v=desk you=desk plane=tray
+Three meals a day, every day. :: v=clock
+The budget? :: v=cart
+About three dollars and fifty cents a day per prisoner. :: v=cart st=$3.50;food_per_day_·_2017
+The cooks are prisoners too, from the camp next door. :: v=cart
+In a survey, about a third complained about the food. :: v=desk you=desk
+One man said the portions are terrible. :: v=slot plane=tray
+Another said they never change the menu. :: v=desk you=desk
+For many men, the trays are the main time they see anyone. :: v=slot plane=tray
+One put it this way: :: v=cell you=cell
+we only see staff when they feed us, :: v=slot plane=tray
+pick up the trays, :: v=slot
+and at recreation. :: v=rec you=rec
+## shower | PROBLEM 3 / SHOWER | DAY 2 | 19:00 | dusk | 0.0
+In most units, the shower is inside your cell. :: v=shower you=shower
+That way, you never have to leave to wash. :: v=shower plane=shower:on you=shower
+It shuts off on its own. :: v=shower plane=shower:on you=shower
+The water can't run forever, :: v=shower
+so nobody floods the range. :: v=range plane=lockdown
+In the step-down units, it's different. :: v=block
+There, the showers sit in a shared room. :: v=gym
+## sleep | PROBLEM 4 / SLEEP | DAY 2 | 23:00 | night | -1.4
+At night, you sleep on that concrete slab. :: v=bed you=bed plane=dark
+There's a thin mattress on top. :: v=bed you=bed plane=dark
+Nobody shares the cell. :: v=cell plane=dark
+You might get a radio or a small TV. :: v=tv plane=tv:on
+It's your main window to the world. :: v=tv plane=tv:on you=bed
+Books come from the library, one request at a time. :: v=slot
+And then it's six AM again. :: v=clock
+## out | PROBLEM 5 / TWO HOURS | DAY 3 | 10:00 | day | 0.0
+Out-of-cell time is about two hours each weekday. :: v=clock
+That's ten hours a week. :: v=clock st=10_HRS;out_of_cell_per_week_·_2017
+Three to five officers escort you there. :: v=range you=range plane=cuffs
+While you're out, they search your cell. :: v=cell
+Some days you go indoors, to an almost empty room. :: v=gym you=gym
+Other days you go outside. :: v=rec you=rec
+Outside means a cage, in a deep concrete pit. :: v=rec you=rec
+There's a mesh roof over your head. :: v=sky
+You can shout to a few other men in their cages. :: v=rec you=rec
+In the Control Unit, even that's gone. :: v=rec
+There, men stay inside twenty-three to twenty-four hours a day. :: v=cell plane=dark st=23–24_HRS;in_cell_·_Control_Unit
+## family | PROBLEM 6 / THE OUTSIDE | DAY 30 | 13:00 | day | 0.84
+In general population, you get up to three phone calls a month. :: v=visit you=visit
+Fifteen minutes each. :: v=visit st=3_×_15_MIN;phone_calls_per_month
+Each long-distance call costs three dollars and forty-five cents. :: v=visit
+There's no email. :: v=desk you=desk
+Visits are never contact visits. :: v=visit you=visit
+You sit behind glass and talk on a phone. :: v=visit you=visit
+Thirty-four days a year, no visits are allowed at all. :: v=visit st=34_DAYS;no_visits_·_2017
+And Colorado is far from most families. :: v=mountains
+One man hadn't seen his family since 2003. :: v=window you=window
+Another man can't shop at the commissary until the year twenty-one hundred. :: v=cell you=cell st=2100;commissary_ban_ends
+## harm | THE COST / WHAT IT DOES TO PEOPLE | DAY 365 | 14:00 | day | -2.1
+A government report quoted a psychologist who worked there. :: v=control
+On the most isolated range, they said, you have no contact. :: v=range
+You don't speak to anybody. :: v=cell you=cell plane=dark
+They called it a form of torture on some level. :: v=window you=window
+In 2012, prisoners with mental illness sued the prison system. :: v=control
+The case was settled in 2016. :: v=block st=2016;Cunningham_v._BOP_settles
+A former warden once called ADX a clean version of hell. :: v=wide
+## stepdown | THE WAY OUT / STEP-DOWN | DAY 730 | 08:00 | dawn | 1.12
+Many men here can work their way out. :: v=block
+First, a full year with no trouble. :: v=clock st=1_YEAR;clean_conduct_first
+Then a step-down unit, with a shared room and other people. :: v=gym you=gym
+After about six months, a transfer next door. :: v=fence
+There, you get a cellmate for the first time in years. :: v=bus you=bus
+Then another prison. :: v=bus
+Staff say it's designed as a two-year process. :: v=block st=2_YEARS;step-down,_by_design
+For the men who never finish it, :: v=window you=window
+the sky through that four-inch window is the view for years. :: v=sky
+Could you last a week in that room? :: v=cell you=cell
