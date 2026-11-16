@@ -8,14 +8,24 @@ Sources: inside-x/scripts (IX*.md publishing blocks, SHORTS-*.md, meta/*.json),
 stickman-ab upload-metadata CSVs, and the URLs already published (from document/ notes).
 """
 import argparse, json, re
+from datetime import datetime
 from pathlib import Path
 
 import ythub
-from ythub import import_csv, set_video
+from ythub import fact, import_csv, set_video
 
-REPO = Path(__file__).resolve().parents[2]
-IX = REPO / "inside-x"
-STICK = REPO / "stickman-ab"
+ROOT = Path(__file__).resolve().parents[2]          # oh-my-channels
+LEGACY = ROOT.parent                                 # FIRE10.DEV/REPO: old per-channel folders until moved
+DOC = LEGACY / "document"                            # MEGABRAIN notes (symlink)
+
+
+def _where(new, old):
+    """A channel lives in channels/<slug> once moved, in its old folder until then."""
+    return LEGACY / old if (LEGACY / old).exists() else ROOT / "channels" / new
+
+
+IX = _where("off-limits-life", "inside-x")
+STICK = _where("tiny-leg-theory", "stickman-ab")
 
 OLL, TLT, LTCQ, RAE = "Off Limits Life", "Tiny Leg Theory", "Lý Thuyết Chân Que", "Rice and Empires"
 CHANNELS = [
@@ -23,6 +33,7 @@ CHANNELS = [
     (TLT, "@TinyLegTheory", "en"),
     (LTCQ, "@LyThuyetChanQue", "vi"),
     (RAE, "@RiceAndEmpires", "en"),
+    ("VibeMusicMaker", "@Vibe.MusicMaker", "en"),
 ]
 
 # Published so far (document/STATE.md + ai-video research notes, 2026-11-16).
@@ -48,11 +59,12 @@ STICK_URLS = {
         "s07vi": "https://youtube.com/shorts/wMzIjHAt3BU", "s08vi": "https://youtube.com/shorts/5me9ATtaEpo",
     },
 }
-RAE_REPOS = sorted(REPO.glob("yt-channel-asia-history*"))  # main checkout + per-video worktrees
+RAE_REPOS = [ROOT / "channels" / "rice-and-empires"]  # L005/L006 work lives on branches rice/long-L00N
 # Not rendered and no link yet: how far each long got (HANDOFF.md of each checkout, 2026-11-16).
 RAE_STAGE = {"L006": "assets"}
 # Links on lines that don't name the code (HANDOFF.md:22 "PUBLIC https://youtu.be/r3jRw2oJc18" under L007).
-RAE_URLS = {"L007": "https://youtu.be/r3jRw2oJc18"}
+RAE_URLS = {"L007": "https://youtu.be/r3jRw2oJc18",
+            "L001": "https://youtu.be/fZFcYTAF4uA"}  # rice/video-long-001 HANDOFF.md:80
 
 
 def field(text, name):
@@ -133,7 +145,7 @@ def rae_urls():
     """Code → link from every HANDOFF.md and the yt-* research notes (tables and prose)."""
     urls = dict(RAE_URLS)
     pat = re.compile(r"\b([SL]0\d{2})\b[^\n]*?(https://(?:youtu\.be|youtube\.com/shorts)/[\w-]{11})")
-    files = [r / "HANDOFF.md" for r in RAE_REPOS] + sorted((REPO / "document/ai-video/research").glob("yt-*.md"))
+    files = [r / "HANDOFF.md" for r in RAE_REPOS] + sorted((DOC / "ai-video/research").glob("yt-*.md"))
     for f in files:
         if f.exists():
             for code, url in pat.findall(f.read_text()):
@@ -184,8 +196,6 @@ def seed_rice(con):
         file, thumb = rae_render(repo, code)
         if upload and (repo / "shorts/out" / upload).exists():
             file = str(repo / "shorts/out" / upload)
-        if not file and repo.name != "yt-channel-asia-history":
-            file, thumb = rae_render(REPO / "yt-channel-asia-history", code)
         url = urls.get(code, "")
         stage = "published" if url else "ready" if file else RAE_STAGE.get(code, "script")
         status = re.search(r"^Status:\s*(.+)$", text, re.M)
@@ -193,6 +203,77 @@ def seed_rice(con):
                   title=title, description=desc, url=url, file=file, thumbnail=thumb, script=str(md),
                   notes=status.group(1).replace("**", "").strip() if status else "")
     return len(scripts)
+
+
+VIBE = _where("vibe-music", "MusicMaker")
+VMM = "VibeMusicMaker"
+
+
+def _sched(ddmm_hhmm):
+    """'08/11 10:00' (2026, +07) → ('2026-11-08 10:00', passed?)."""
+    m = re.match(r"(\d{2})/(\d{2})\s+~?(\d{1,2}):(\d{2})", ddmm_hhmm.strip())
+    if not m:
+        return "", True
+    d, mo, h, mi = m.groups()
+    at = f"2026-{mo}-{d} {int(h):02d}:{mi}"
+    return at, at <= datetime.now().strftime("%Y-%m-%d %H:%M")
+
+
+def seed_vibe(con):
+    """1-hour videos, Shorts and mixes from batch*/schedule_log.md (the channel's own source of truth)."""
+    n = 0
+    rows = {}  # code -> (title, id, when); later rows win (batch 2 re-uploads after verification)
+    b2 = (VIBE / "batch2/schedule_log.md").read_text()
+    for code, title, vid, rest in re.findall(r"^\|\s*\d+\s*\|\s*([A-C]\d)\s+(.+?)\s*\(youtu\.be/([\w-]{11})\)\s*\|(.*)$", b2, re.M):
+        rows[code] = (title, vid, rest.split("|")[-2] if rest.count("|") >= 2 else rest)
+    b3 = (VIBE / "batch3/schedule_log.md").read_text()
+    for code, title, vid, when in re.findall(r"^\|\s*\d+\s*\|\s*([D-F]\d)\s+(.+?)\s*\|\s*([\w-]{11})\s*\|\s*(.+?)\s*\|", b3, re.M):
+        rows[code] = (title, vid, when)
+    b4 = (VIBE / "batch4/schedule_log.md").read_text()
+    long_part, _, short_part = b4.partition("## Short batch 4")
+    for code, title, vid, when in re.findall(r"^\|\s*(G\d{2}-\d)\s*\|\s*(.+?)\s*\|\s*([\w-]{11})\s*\|\s*(.+?)\s*\|", long_part, re.M):
+        rows[code] = (title, vid, when)
+    urls = {}
+    for code, (title, vid, when) in rows.items():
+        at, passed = _sched(when)
+        urls[code] = f"https://youtu.be/{vid}"
+        set_video(con, VMM, code, kind="long", keep_higher=True, stage="published" if passed else "ready",
+                  title=f"{title} — 1 Hour", url=urls[code], published_at=at if passed else "",
+                  notes="" if passed else f"Đã lên lịch trên Studio: {at} (+07)")
+        if not passed:
+            fact(con, code, "scheduled", at, channel=VMM)
+        n += 1
+    for code, sid, rel in re.findall(r"^\|\s*(G\d{2}-\d)\s*\|\s*([\w-]{11})\s*\|\s*(.+?)\s*\|", short_part, re.M):
+        scode = f"{code}-S"
+        set_video(con, VMM, scode, kind="short", keep_higher=True, stage="published",
+                  title=f"{rows[code][0]} #shorts" if code in rows else "", url=f"https://youtube.com/shorts/{sid}",
+                  linked_url=urls.get(code, ""), notes=f"Related video: {rel}")
+        fact(con, scode, "related_video", "✅" if rel.startswith("✅") else "chưa gắn", channel=VMM)
+        n += 1
+    m = re.search(r"^Mix:(.+)$", short_part, re.M)
+    for code, title, vid in re.findall(r"(P\d{2})\s+(.+?)\s+`([\w-]{11})`", m.group(1) if m else ""):
+        set_video(con, VMM, code, kind="long", keep_higher=True, stage="published",
+                  title=f"{title} — 1 Hour Mix", url=f"https://youtu.be/{vid}")
+        n += 1
+    return n
+
+
+LIBRARY = ROOT / "shared" / "library"
+LIB_KIND = {"music": "music", "sfx": "sfx", "artifact": "image", "map": "map", "vfx": "vfx"}
+
+
+def seed_library(con):
+    """Register the shared media library (shared/library/LICENSES.csv) as assets usable by every channel."""
+    import csv
+    n = 0
+    with open(LIBRARY / "LICENSES.csv", newline="", encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            attribution = (r.get("attribution_line") or "").strip()
+            ythub.asset_add(con, LIBRARY / r["file"], kind=LIB_KIND.get(r["file"].split("/")[0], "other"),
+                            license=r["license"] + (" · ghi công bắt buộc" if r.get("attribution_required") == "yes" else ""),
+                            source=r["source_url"], notes=attribution)
+            n += 1
+    return n
 
 
 def main():
@@ -205,6 +286,8 @@ def main():
     for csv, (ins, upd) in seed_stickman(con):
         print(f"{csv}: +{ins} mới, {upd} cập nhật")
     print(f"{RAE}: {seed_rice(con)} video")
+    print(f"{VMM}: {seed_vibe(con)} video")
+    print(f"shared library: {seed_library(con)} asset")
     for r in con.execute("SELECT c.name, v.stage, count(*) n FROM video v JOIN channel c ON c.id=v.channel_id "
                          "GROUP BY 1, 2 ORDER BY 1, 2"):
         print(f"  {r['name']:<22} {r['stage']:<10} {r['n']}")

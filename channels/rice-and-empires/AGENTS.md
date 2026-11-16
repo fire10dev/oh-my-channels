@@ -1,6 +1,7 @@
 # AGENTS.md — Rice & Empires (yt-channel-asia-history)
 
-Read this file, then `HANDOFF.md` (current state + task queue), then `docs/FACT-CHECK.md` before writing any script.
+Read this file, then run `ythub status --channel "Rice and Empires"` and `ythub show <CODE>` (state + open tasks live in YT Hub,
+not in a HANDOFF.md), then `docs/FACT-CHECK.md` before writing any script. History before 2026-11-16: `docs/archive/`.
 Background research and decisions: `docs/research/` (snapshots from the owner's second brain; dated 2026-11-07).
 
 ## 1. What this is
@@ -96,7 +97,7 @@ names spelled right), loudness ≈ −14 LUFS, description has sources list + AI
 ## 7. Token budget (owner 2026-11-08: one night cost 10% of the weekly quota)
 Measured on the 2026-11-07 night (356 calls, all Opus): average context ~300k tokens per call → ~104M cache-read tokens.
 Browser automation 39%, Bash 37%. Cost scales with context length × number of calls, so:
-- **One video per session.** Start a fresh session per video (state lives in `HANDOFF.md` + script md), not one all-night session.
+- **One video per session.** Start a fresh session per video (state lives in YT Hub — `ythub log/set/fact/task` after every step — + script md), not one all-night session.
 - **Images run outside Claude**: `node tools/imagegen/gen.mjs run <queue.json> $TMPDIR/stage` (AI Studio → Gemini → Flow failover,
   one-time `node tools/imagegen/gen.mjs login`, profile in `~/.cache/rice-imagegen-profile`). Run it in the background; read only its SUMMARY line.
   Do not drive AI Studio by hand in the built-in browser.

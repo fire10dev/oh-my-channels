@@ -19,10 +19,10 @@ python3 -I make_posts_extra.py [pack#]           # nội dung Short + mix (có p
 Upload: user kéo file vào Studio (**tối đa 15 file/lần**); agent điền bằng browser. Gotchas chi tiết: `docs/megabrain/ai-video/research/youtube-loop-music-pipeline-2026-10.md`.
 
 ## Media (không có trong repo)
-Toàn bộ mp3/m4a/wav/mp4/jpg/png + `shorts/public/`, `*/out*/`, `node_modules/` bị `.gitignore` (chỉ ở máy gốc).
-Dọn 07/11/2026 16:25: đã xoá mọi file render đã đăng + wav trung gian (tạo lại bằng script). Máy gốc còn nguyên liệu: mp3/m4a gốc,
+Toàn bộ mp3/m4a/wav/mp4/jpg/png + `shorts/public/`, `*/out*/`, `node_modules/` bị `.gitignore` (nằm cạnh code, không vào git).
+Dọn 07/11/2026 16:25: đã xoá mọi file render đã đăng + wav trung gian (tạo lại bằng script). Còn nguyên liệu: mp3/m4a gốc,
 `batch4/images`, `shorts/public/bg`, `shorts/public/scenes/*.jpg`, thumbnail, `shorts/out/shorts100` (user đang đăng dần).
-Máy mới muốn render lại phải lấy lại media: nhạc từ Flow Music (trang Songs → tải mp3, hoặc
+Thiếu media thì lấy lại: nhạc từ Flow Music (trang Songs → tải mp3, hoặc
 `storage.googleapis.com/producer-app-public/clips/<song id>.m4a`), ảnh từ Google Flow (project link trong `batch*/flow_projects.md`).
 Video đã đăng thì không cần media nữa.
 
