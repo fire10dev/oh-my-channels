@@ -1,0 +1,452 @@
+[
+ {
+  "id": "G01-1",
+  "title": "Root Access",
+  "bpm": 100,
+  "style": "Dark chill synthwave",
+  "pack": "Midnight Terminal",
+  "caption": "POV: 2am, three monitors, zero bugs",
+  "img": "scenes/G01-1.jpg",
+  "accent": "#82a8ff",
+  "waves": [
+   "#99b4f2",
+   "#99b4f2",
+   "#8dadf2",
+   "#75a7f2"
+  ],
+  "pan": 1,
+  "hookStart": 127
+ },
+ {
+  "id": "G01-2",
+  "title": "Kernel Panic Calm",
+  "bpm": 96,
+  "style": "Minimal darksynth",
+  "pack": "Midnight Terminal",
+  "caption": "Root access to deep focus",
+  "img": "scenes/G01-2.jpg",
+  "accent": "#a4edff",
+  "waves": [
+   "#b2e5f2",
+   "#4473f2",
+   "#b2e5f2",
+   "#5593f2"
+  ],
+  "pan": -1,
+  "hookStart": 139
+ },
+ {
+  "id": "G01-3",
+  "title": "Sudo Night",
+  "bpm": 102,
+  "style": "Retro synthwave",
+  "pack": "Midnight Terminal",
+  "caption": "Terminal open. Brain on.",
+  "img": "scenes/G01-3.jpg",
+  "accent": "#278cff",
+  "waves": [
+   "#58a0f2",
+   "#58a0f2",
+   "#80b2f2",
+   "#68a7f2"
+  ],
+  "pan": 1,
+  "hookStart": 128
+ },
+ {
+  "id": "G01-4",
+  "title": "Cursor Blink",
+  "bpm": 92,
+  "style": "Chill synthwave",
+  "pack": "Midnight Terminal",
+  "caption": "Late-night code, neon calm",
+  "img": "scenes/G01-4.jpg",
+  "accent": "#a5d4ff",
+  "waves": [
+   "#b2d4f2",
+   "#b28cf2",
+   "#b2d4f2",
+   "#5d9bf2"
+  ],
+  "pan": -1,
+  "hookStart": 153
+ },
+ {
+  "id": "G01-5",
+  "title": "Merge at Midnight",
+  "bpm": 98,
+  "style": "Midtempo synthwave",
+  "pack": "Midnight Terminal",
+  "caption": "Commit after midnight",
+  "img": "scenes/G01-5.jpg",
+  "accent": "#79c8ff",
+  "waves": [
+   "#93cbf2",
+   "#93cbf2",
+   "#86bef2",
+   "#75b6f2"
+  ],
+  "pan": 1,
+  "hookStart": 96
+ },
+ {
+  "id": "G02-1",
+  "title": "Overdrive Loop",
+  "bpm": 108,
+  "style": "Outrun synthwave",
+  "pack": "Neon Highway",
+  "caption": "POV: driving into a purple sunset",
+  "img": "scenes/G02-1.jpg",
+  "accent": "#ff62fd",
+  "waves": [
+   "#f282f0",
+   "#a083f2",
+   "#f282f0",
+   "#cf75f2"
+  ],
+  "pan": 1,
+  "hookStart": 119
+ },
+ {
+  "id": "G02-2",
+  "title": "Exit 1986",
+  "bpm": 110,
+  "style": "Retro outrun",
+  "pack": "Neon Highway",
+  "caption": "Night drive, code in your head",
+  "img": "scenes/G02-2.jpg",
+  "accent": "#ff6fd1",
+  "waves": [
+   "#f28cd1",
+   "#cf7ef2",
+   "#8874f2",
+   "#f28cd1"
+  ],
+  "pan": -1,
+  "hookStart": 51
+ },
+ {
+  "id": "G02-3",
+  "title": "Tail Lights",
+  "bpm": 100,
+  "style": "Chill outrun",
+  "pack": "Neon Highway",
+  "caption": "Windows down, synths up",
+  "img": "scenes/G02-3.jpg",
+  "accent": "#ff7fdc",
+  "waves": [
+   "#f297d9",
+   "#9f89f2",
+   "#db93f2",
+   "#f297d9"
+  ],
+  "pan": 1,
+  "hookStart": 91
+ },
+ {
+  "id": "G02-4",
+  "title": "Cruise Control",
+  "bpm": 104,
+  "style": "Smooth synthwave",
+  "pack": "Neon Highway",
+  "caption": "Cruise mode for long sessions",
+  "img": "scenes/G02-4.jpg",
+  "accent": "#ff86b6",
+  "waves": [
+   "#f29cbe",
+   "#f2a9f1",
+   "#c89af2",
+   "#f29cbe"
+  ],
+  "pan": -1,
+  "hookStart": 126
+ },
+ {
+  "id": "G02-5",
+  "title": "Horizon Grid",
+  "bpm": 106,
+  "style": "Bright synthwave",
+  "pack": "Neon Highway",
+  "caption": "Chasing the neon horizon",
+  "img": "scenes/G02-5.jpg",
+  "accent": "#ff7ebb",
+  "waves": [
+   "#f296c2",
+   "#e3a6f2",
+   "#f296c2",
+   "#f28bc4"
+  ],
+  "pan": 1,
+  "hookStart": 140
+ },
+ {
+  "id": "G03-1",
+  "title": "Wet Neon",
+  "bpm": 94,
+  "style": "Rainy chill synthwave",
+  "pack": "Cyber Rain",
+  "caption": "POV: rain on the glass, code on the screen",
+  "img": "scenes/G03-1.jpg",
+  "accent": "#67c2ff",
+  "waves": [
+   "#86c6f2",
+   "#bc9ff2",
+   "#86c6f2",
+   "#9dccf2"
+  ],
+  "pan": 1,
+  "hookStart": 35
+ },
+ {
+  "id": "G03-2",
+  "title": "Puddle Reflections",
+  "bpm": 90,
+  "style": "Dreamy synthwave",
+  "pack": "Cyber Rain",
+  "caption": "Neon city, rainy focus",
+  "img": "scenes/G03-2.jpg",
+  "accent": "#7be9ff",
+  "waves": [
+   "#94e2f2",
+   "#a6b0f2",
+   "#94e2f2",
+   "#9ccaf2"
+  ],
+  "pan": -1,
+  "hookStart": 104
+ },
+ {
+  "id": "G03-3",
+  "title": "Acid Drizzle",
+  "bpm": 96,
+  "style": "Midtempo cyberpunk",
+  "pack": "Cyber Rain",
+  "caption": "Rainy night hacking session",
+  "img": "scenes/G03-3.jpg",
+  "accent": "#83eaff",
+  "waves": [
+   "#9ae3f2",
+   "#cca4f2",
+   "#9cb9f2",
+   "#9ae3f2"
+  ],
+  "pan": 1,
+  "hookStart": 124
+ },
+ {
+  "id": "G03-4",
+  "title": "Umbrella Protocol",
+  "bpm": 88,
+  "style": "Chillwave",
+  "pack": "Cyber Rain",
+  "caption": "Storm outside, flow inside",
+  "img": "scenes/G03-4.jpg",
+  "accent": "#54d9ff",
+  "waves": [
+   "#78d7f2",
+   "#78d7f2",
+   "#a1cff2",
+   "#79caf2"
+  ],
+  "pan": -1,
+  "hookStart": 143
+ },
+ {
+  "id": "G03-5",
+  "title": "Storm Compile",
+  "bpm": 100,
+  "style": "Dark synthwave",
+  "pack": "Cyber Rain",
+  "caption": "Rain, synths and a quiet mind",
+  "img": "scenes/G03-5.jpg",
+  "accent": "#4fbcff",
+  "waves": [
+   "#75c2f2",
+   "#f2b2b2",
+   "#75c2f2",
+   "#77b3f2"
+  ],
+  "pan": 1,
+  "hookStart": 149
+ },
+ {
+  "id": "G04-1",
+  "title": "Insert Coin",
+  "bpm": 110,
+  "style": "Chiptune synthwave",
+  "pack": "Retro Arcade",
+  "caption": "POV: one more coin, one more commit",
+  "img": "scenes/G04-1.jpg",
+  "accent": "#589dff",
+  "waves": [
+   "#7bacf2",
+   "#d6b2f2",
+   "#7bacf2",
+   "#73a8f2"
+  ],
+  "pan": 1,
+  "hookStart": 76
+ },
+ {
+  "id": "G04-2",
+  "title": "High Score Mode",
+  "bpm": 112,
+  "style": "Upbeat retro synthwave",
+  "pack": "Retro Arcade",
+  "caption": "High score mode: deep focus",
+  "img": "scenes/G04-2.jpg",
+  "accent": "#608bff",
+  "waves": [
+   "#819ff2",
+   "#c3b2f2",
+   "#819ff2",
+   "#6e94f2"
+  ],
+  "pan": -1,
+  "hookStart": 29
+ },
+ {
+  "id": "G04-3",
+  "title": "Pixel Drift",
+  "bpm": 96,
+  "style": "Chill chipwave",
+  "pack": "Retro Arcade",
+  "caption": "Pixel drift, calm mind",
+  "img": "scenes/G04-3.jpg",
+  "accent": "#4f91ff",
+  "waves": [
+   "#74a3f2",
+   "#b8adf2",
+   "#74a3f2",
+   "#85a6f2"
+  ],
+  "pan": 1,
+  "hookStart": 141
+ },
+ {
+  "id": "G04-4",
+  "title": "Continue Screen",
+  "bpm": 100,
+  "style": "Midtempo synthwave",
+  "pack": "Retro Arcade",
+  "caption": "Continue? Keep coding",
+  "img": "scenes/G04-4.jpg",
+  "accent": "#7699ff",
+  "waves": [
+   "#91a9f2",
+   "#d2b2f2",
+   "#91a9f2",
+   "#7b99f2"
+  ],
+  "pan": -1,
+  "hookStart": 42
+ },
+ {
+  "id": "G04-5",
+  "title": "Level Select",
+  "bpm": 106,
+  "style": "Bright synthwave",
+  "pack": "Retro Arcade",
+  "caption": "Pick your level, start the sprint",
+  "img": "scenes/G04-5.jpg",
+  "accent": "#67a4ff",
+  "waves": [
+   "#86b1f2",
+   "#efb2f2",
+   "#b2f2e9",
+   "#86b1f2"
+  ],
+  "pan": 1,
+  "hookStart": 71
+ },
+ {
+  "id": "G05-1",
+  "title": "Rack Hum",
+  "bpm": 92,
+  "style": "Minimal dark synthwave",
+  "pack": "Server Room",
+  "caption": "POV: 3am in the server room",
+  "img": "scenes/G05-1.jpg",
+  "accent": "#a2cfff",
+  "waves": [
+   "#b0d0f2",
+   "#f2b2b2",
+   "#b0d0f2",
+   "#a6c9f2"
+  ],
+  "pan": 1,
+  "hookStart": 93
+ },
+ {
+  "id": "G05-2",
+  "title": "Cold Boot",
+  "bpm": 98,
+  "style": "Darksynth",
+  "pack": "Server Room",
+  "caption": "Cold boot, warm focus",
+  "img": "scenes/G05-2.jpg",
+  "accent": "#7ec7ff",
+  "waves": [
+   "#96caf2",
+   "#9797f2",
+   "#96caf2",
+   "#aed6f2"
+  ],
+  "pan": -1,
+  "hookStart": 74
+ },
+ {
+  "id": "G05-3",
+  "title": "Fan Noise",
+  "bpm": 84,
+  "style": "Ambient synthwave",
+  "pack": "Server Room",
+  "caption": "Fan noise and flow state",
+  "img": "scenes/G05-3.jpg",
+  "accent": "#8fcbff",
+  "waves": [
+   "#a2cdf2",
+   "#a2cdf2",
+   "#b2d7f2",
+   "#94c6f2"
+  ],
+  "pan": 1,
+  "hookStart": 105
+ },
+ {
+  "id": "G05-4",
+  "title": "Uptime",
+  "bpm": 100,
+  "style": "Steady synthwave",
+  "pack": "Server Room",
+  "caption": "100% uptime focus",
+  "img": "scenes/G05-4.jpg",
+  "accent": "#a5e3ff",
+  "waves": [
+   "#b2def2",
+   "#b2def2",
+   "#a9d6f2",
+   "#9ad0f2"
+  ],
+  "pan": -1,
+  "hookStart": 92
+ },
+ {
+  "id": "G05-5",
+  "title": "Failover",
+  "bpm": 102,
+  "style": "Midtempo darkwave",
+  "pack": "Server Room",
+  "caption": "Failover to deep work",
+  "img": "scenes/G05-5.jpg",
+  "accent": "#92d2ff",
+  "waves": [
+   "#a4d2f2",
+   "#a4d2f2",
+   "#97c7f2",
+   "#8fc3f2"
+  ],
+  "pan": 1,
+  "hookStart": 84
+ }
+]
