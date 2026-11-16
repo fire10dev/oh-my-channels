@@ -1,9 +1,44 @@
-# HANDOFF — state at 2026-11-08 15:15 (+07), merged into `main`
+# HANDOFF — state at 2026-11-08 15:15 (+07), merged into `main` (L007 section: 2026-11-10 07:00)
 
 For a fresh Claude session (other account / other machine) continuing this work. Read `AGENTS.md` first (rules updated 2026-11-07 night).
 
 ## Next: long-video batch L004–L007 (Vietnam × China)
 Plans and the copy-paste session prompts live in `docs/plans/LONG-BATCH-HANDOFF.md`. Run one video per session and one session per night.
+
+## L007 long video "Emperor at home, vassal abroad" — 2026-11-10 morning (branch `long/L007`, NOT rendered)
+State 07:00 (+07), unattended run:
+- ✅ Script `scripts/L007-emperor-at-home-vassal-abroad-long.md` v4: 56 rows, 1,182 words, C1–C27, Codex r1–r3 (`docs/reviews/L007-r1..r3.md`; r3 FAIL 4 🔴 → all hedged/cut with Codex's wording, not re-reviewed). §Publishing draft (title, chapters, sources) done.
+- ✅ Kokoro TTS (`tools/say_l007.json`): 471 s narration → video ≈ 8:48. `shorts/src/l007.json|scenes|timeline.json` built. Composition `L007` + still `L007Thumb` in `Root.tsx`; 30 s test render OK.
+- ✅ Map states (generic, additive) in `LongMap.tsx`: `song_lie` (1075–76 Lý offensive), `asia_tributaries` (Korea/Ryukyu/Vietnam → Chinese court), `tribute_route` (dotted Thăng Long → Lạng Sơn → Nanning → Beijing); new wide East-Asia layer (`WIDE`, `ROUTES`).
+- ✅ Timeline ribbon is now configurable: optional `shorts/src/<vid>.tl.json` (`TLCfg` in `LongVideo.tsx`, read by `long_build.py`); L003 keeps the default. ⚠️ L006 added a similar `<vid>.ribbon.json` on its branch → pick one when merging.
+- ✅ `gen.mjs`: `IMG_AR=16:9` env option (default stays 9:16).
+- ✅ Thumbnail `shorts/out/L007-thumb.jpg` (git-ignored), **temporary bg** = crop of S002 img-02 (envoys). Swap to `img-02` (mirrored king) when it exists: copy to `shorts/public/l007/thumb-bg.jpg`, `npx remotion still src/index.ts L007Thumb out/L007-thumb.jpg`.
+- 🔴 Images: 0/49 new images. gen.mjs ran 06:25–06:58 (+07) twice: AI Studio settings panel never loads (`AR=undefined`, `locator.fill` timeout → likely signed out), Gemini returns FAIL, Flow `New project` button times out → all 3 sources dead (same as L006). Not retried in the built-in browser (token budget, AGENTS §7). Queue `tools/queue_l007.json` (49), prompts `shorts/src/l007.images.json`; placeholders = list in `shorts/public/l007/.placeholders` (git-ignored; same 49 names as the queue).
+- ❌ Flow clips: none (Flow unreachable). Music: reuses `bgm/l003-bed-*.mp3` via `shorts/src/l007.music.json` until the owner picks Audio Library tracks.
+
+- 2026-11-14 14:55 (+07) HYBRID flow (as L008, no browser): tone check OK (1075 / "When It Failed" stay short, no fix). 3 clips wired (`CLIP:1` row 01, `CLIP:2` row 28, `CLIP:3` row 50; fallback = `clip-N.jpg`). Prompts for 49 images + 3 clips: `shorts/public/l007/PROMPTS.md` (import line at top; owner saves to `~/Downloads/l007/`). `long_import.sh` / `codex_image_review.sh` / clip fallback ported from L008. Waiting for the owner's files.
+- 2026-11-15 10:10 (+07): owner zip `~/Downloads/l007-fixed.zip` → `~/Downloads/l007/` → imported 55/55 (0 placeholders). Review Claude + Codex r1 = FAIL: redo img-55, img-60 (must), img-13/57/32 (should), img-45/66 (optional); clip-3 redo (owner). Full prompts: `docs/reviews/L007-img-claude.md`. Music = Scott Buckley ×3 (`l007.music.json`, credit in §Publishing). Thumbnail with real img-02 rendered. Not rendered yet.
+- 2026-11-15 12:20 (+07): redo2 (9 files) imported, review r2 PASS (Codex r2 FAIL overruled, see `docs/reviews/L007-img-claude.md`). Rendered `shorts/out/L007-tribute.mp4` 8:49, −14.3 LUFS, frame sheet OK. §Publishing chapters match. Waiting: owner watch + VI review + upload OK. Nothing committed.
+- 2026-11-15 13:30 (+07): **PUBLIC** https://youtu.be/r3jRw2oJc18 (owner OK "Public ngay"; Chrome profile YT). Content ID claim on 'Shadows And Dust' (no block; CC-BY dispute = owner's call). Category still default 'Travel & Events'. Pinned comment not posted.
+
+### Remaining (in order)
+1. Images: `cd tools/imagegen && IMG_AR=16:9 node gen.mjs run ../queue_l007.json $TMPDIR/stage-l007` (one video at a time; owner re-login with `node gen.mjs login` if signed out) → `tools/long_import.sh l007` → `.placeholders` empty.
+2. Render: `cd shorts && npx remotion render src/index.ts L007 out/L007-raw.mp4` → `ffmpeg -i out/L007-raw.mp4 -af loudnorm=I=-14:TP=-1.5:LRA=11 -c:v copy out/L007-tribute.mp4` + contact sheet.
+3. Thumbnail with the real `img-02`. 4. Owner: VI column review, listen to names (`tools/say_l007.json`), music, upload.
+
+### Owner morning review
+- VI column of the 56 rows + claim table C1–C27. Open points: who coined "nội đế ngoại vương" (not found → attributed to "one recent study", Varnay); Vietnam's tribute frequency not stated (no good source); Song "King of Annam" title year (1164 vs 1174) left out.
+- Title: plan said "900 Years"; draft uses "for Centuries" (tribute was not continuous).
+
+## L003 long video "1,000 years of Chinese rule" — overnight 2026-11-09 → 10 (branch `night/2026-11-09`, NOT rendered)
+State 00:35 (+07), stopped at the usage limit:
+- ✅ Script `scripts/L003-a-thousand-years-of-chinese-rule-long.md` v4: 55 lines, 1,215 words, C1–C27, Codex r1–r3 (r3 FAIL → fixed/hedged, not re-reviewed).
+- ✅ Kokoro TTS: `shorts/public/l003/vo-*.wav` (git-ignored), 491 s of narration → video ≈ 9:08. Chapters: `python3 tools/long_chapters.py l003`.
+- ✅ `LongVideo` 16:9 composition (`shorts/src/LongVideo.tsx`, `LongMap.tsx`), id `L003`: animated map, timeline ribbon, chapter cards, dust/smoke/grain, source lower-thirds, captions ≤ 6 words, ducked music. Test render of the first 30 s is OK.
+- ✅ 3 Flow clips `shorts/public/l003/clip-1..3.mp4`. Credits: 4 generations = 96 credits. The Han-army clip could not be downloaded; clip-2 is a delta map that was generated by mistake in Video mode. Thumbnail: `shorts/out/L003-thumb.jpg`.
+- 🔴 Images: 24/70 in `shorts/public/l003/` (img-01..25, some missing) + img-71. 46 are still **placeholders** (`shorts/public/l003/.placeholders`). AI Studio stalled at ~00:15: the Run button no longer responds to the worker (`ms-run-button`, disabled).
+- 🔴 Music: YouTube Audio Library not downloaded (the built-in browser account has no channel; Claude in Chrome asks which of 2 browsers to use). Placeholder: `tools/make_epic_bed.sh` (synthesized with ffmpeg) → `bgm/l003-bed-*.mp3`.
+- 🟡 img-25 may be a late image belonging to img-24; check it against the prompt.
 
 ## L004 "Mongols vs Đại Việt" — script only (2026-11-10 06:55 +07, branch `long/L004`, not committed)
 - ✅ `scripts/L004-mongols-dai-viet-long.md` v4: 56 rows, 1,107 words, C1–C30, Codex r1–r3 (r3 FAIL → fixed/hedged, not re-reviewed). `tools/say_l004.json`.
