@@ -4,3 +4,5 @@ tts*/samples/
 *.onnx
 *.bin
 *.m4a
+# upstream clone of ace-step/ACE-Step-1.5 (own git, 11 GB model) — local only
+ace-step/
