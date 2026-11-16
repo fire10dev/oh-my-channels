@@ -1,0 +1,12 @@
+{
+  "name": "baby-sensory-style",
+  "private": true,
+  "scripts": { "studio": "remotion studio", "render": "remotion render" },
+  "dependencies": {
+    "@remotion/cli": "4.0.535",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.535"
+  },
+  "devDependencies": { "typescript": "5.9.3", "@types/react": "19.1.0" }
+}

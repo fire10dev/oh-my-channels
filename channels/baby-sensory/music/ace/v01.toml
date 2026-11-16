@@ -1,0 +1,40 @@
+caption = "gentle soft pop children's nursery rhyme for babies, warm clear female vocal, slow articulate singing, celesta, glockenspiel, soft felt piano, warm upright bass, light brushed drums, soft small choir, calm, sweet, bright, smooth high end, no harsh cymbals"
+lyrics = """[Intro]
+
+[Verse 1]
+Are you sleeping, are you sleeping,
+Brother John, Brother John?
+Morning bells are ringing, morning bells are ringing,
+Ding, dang, dong. Ding, dang, dong.
+
+[Verse 2]
+Are you sleeping, are you sleeping,
+Brother John, Brother John?
+Morning bells are ringing, morning bells are ringing,
+Ding, dang, dong. Ding, dang, dong.
+
+[Verse 3]
+Are you sleeping, are you sleeping,
+Brother John, Brother John?
+Morning bells are ringing, morning bells are ringing,
+Ding, dang, dong. Ding, dang, dong.
+
+[Verse 4]
+Are you sleeping, are you sleeping,
+Brother John, Brother John?
+Morning bells are ringing, morning bells are ringing,
+Ding, dang, dong. Ding, dang, dong.
+
+[Instrumental]
+
+[Outro]
+"""
+duration = 165
+bpm = 100
+keyscale = "F major"
+timesignature = "4"
+vocal_language = "en"
+batch_size = 2
+audio_format = "wav"
+backend = "mlx"
+save_dir = "/Users/nino/Projects/FIRE10.DEV/REPO/baby-sensory-style/out/music/ace-v01"
