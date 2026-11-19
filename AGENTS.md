@@ -12,7 +12,7 @@ Mọi kênh YouTube của FIRE10 trong một repo. Dự án cá nhân, một má
 | `research/` | Tư liệu tham khảo (teardown kênh mẫu…) |
 
 Kênh: `off-limits-life` (@OffLimitsLife) · `tiny-leg-theory` (@TinyLegTheory + @LyThuyetChanQue) · `rice-and-empires` (@RiceAndEmpires) ·
-`vibe-music` (@Vibe.MusicMaker) · `baby-sensory` · `so-tang-nam-cu` · `ma-no-ke`.
+`vibe-music` (@Vibe.MusicMaker) · `baby-sensory` · `ma-no-ke`.
 
 ## Trạng thái: YT Hub, không phải markdown
 - **Không viết HANDOFF.md / STATE.md** (hook chặn). Lịch sử cũ: `channels/<kênh>/docs/archive/`.
