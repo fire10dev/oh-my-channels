@@ -1,0 +1,75 @@
+{
+ "title": "Como os cardeais recebem seus quartos no conclave papal",
+ "hook": "QUARTOS POR SORTEIO",
+ "asof": "Regras de Universi Dominici Gregis (1996) · conclave de maio de 2025",
+ "world": "conclave",
+ "long": "IX012",
+ "chapters": [
+  {
+   "id": "home",
+   "hud": "DIA 0",
+   "chip": "3 DE MAIO DE 2025",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Para escolher um papa, os cardeais vão para uma hospedaria do Vaticano.",
+     "v": "house"
+    },
+    {
+     "s": "Ela se chama Casa Santa Marta e tem cento e trinta e um quartos.",
+     "v": "house",
+     "st": [
+      "131",
+      "quartos"
+     ]
+    },
+    {
+     "s": "Em 2025, os antigos aposentos do papa Francisco foram lacrados.",
+     "v": "house",
+     "plane": "sealed"
+    },
+    {
+     "s": "Restaram cerca de cento e vinte e cinco quartos para cento e trinta e três cardeais.",
+     "v": "house",
+     "st": [
+      "~125",
+      "quartos para 133"
+     ]
+    },
+    {
+     "s": "Então, quem fica com cada quarto?",
+     "v": "lots"
+    },
+    {
+     "s": "Eles sorteiam. Mesmo quando há lugar para todos.",
+     "v": "lots",
+     "plane": "lots"
+    },
+    {
+     "s": "Uma cama, uma cômoda e banheiro privativo com chuveiro.",
+     "v": "room",
+     "you": "room"
+    },
+    {
+     "s": "Os telefones funcionam, mas ninguém pode ligar para fora.",
+     "v": "room",
+     "you": "room"
+    },
+    {
+     "s": "Internet e TV via satélite são cortadas.",
+     "v": "room"
+    },
+    {
+     "s": "Todos os quartos são inspecionados em busca de escutas escondidas.",
+     "v": "sweep",
+     "plane": "sweep"
+    },
+    {
+     "s": "Você conseguiria viver assim até escolherem um papa?",
+     "v": "room",
+     "you": "room"
+    }
+   ]
+  }
+ ]
+}

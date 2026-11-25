@@ -1,0 +1,12 @@
+{"id":"w014","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#06b6d4","cover_frame":60,
+ "source":"Volume & depth: UNESCO World Heritage · USGS · Great Lakes: US EPA","music":"shared/library/music/yt-audio-library/Exploring The Crystal Caves - Asher Fulero.mp3",
+ "beats":[
+  {"say":"This one lake holds more water than all five Great Lakes combined.","title":"ONE LAKE > ALL 5 GREAT LAKES","cam":{"lon":107.5,"lat":53.5,"span":14},"hl":[{"a3":"RUS","color":"#334155"}],"pins":[{"lon":108.1,"lat":53.6,"text":"Lake Baikal"}]},
+  {"say":"Lake Baikal, in Siberia. It's long and thin, so on a map it looks small.","cam":{"lon":107.5,"lat":53.5,"span":10},"hl":[{"a3":"RUS","color":"#334155"}],"line":{"pts":[[103.8,51.5],[106,52.2],[107.8,53.5],[109.3,55.3],[109.8,55.8]],"color":"#06b6d4"}},
+  {"say":"But it's the deepest lake on Earth, more than one point six kilometers down.","cam":{"lon":107.5,"lat":53.5,"span":10},"big":{"value":"1,642 m","label":"deepest point"}},
+  {"say":"Baikal holds about twenty three thousand six hundred cubic kilometers of water. All five Great Lakes together, about twenty two thousand seven hundred.","cam":{"lon":-84,"lat":45,"span":22},"hl":[{"a3":"USA","color":"#334155"},{"a3":"CAN","color":"#334155"}],
+   "bars":{"unit":" km³","items":[{"label":"Lake Baikal","value":23600,"color":"#06b6d4"},{"label":"All 5 Great Lakes","value":22700,"color":"#3b82f6"}]}},
+  {"say":"That's roughly a fifth of all the unfrozen fresh water on the planet's surface.","cam":{"lon":107.5,"lat":53.5,"span":14},"big":{"value":"20%","label":"of Earth's surface fresh water"}},
+  {"say":"It's also the oldest lake in the world, around twenty five million years old.","cam":{"lon":107.5,"lat":53.5,"span":12},"big":{"value":"25M","label":"years old"}},
+  {"say":"Small on the map, giant underneath. Follow for more.","title":"SMALL ON THE MAP. GIANT BELOW.","cam":{"lon":107.5,"lat":53.5,"span":14},"pins":[{"lon":108.1,"lat":53.6,"text":"Lake Baikal"}]}
+ ]}

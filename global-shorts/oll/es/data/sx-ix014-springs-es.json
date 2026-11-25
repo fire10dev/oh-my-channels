@@ -1,0 +1,82 @@
+{
+ "title": "Los edificios dentro de Cheyenne Mountain descansan sobre enormes resortes",
+ "hook": "EDIFICIOS SOBRE RESORTES",
+ "asof": "Datos de artículos de la Fuerza Aérea y la Fuerza Espacial de EE. UU.",
+ "world": "mountain",
+ "long": "IX014",
+ "chapters": [
+  {
+   "id": "springs",
+   "hud": "DÍA 1",
+   "chip": "09:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Estos edificios descansan sobre enormes resortes de acero.",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "Están dentro de Cheyenne Mountain, en Colorado.",
+     "v": "mountain"
+    },
+    {
+     "s": "Un búnker de mando diseñado para sobrevivir una guerra nuclear.",
+     "v": "cave"
+    },
+    {
+     "s": "Hay quince edificios en una cueva excavada en granito.",
+     "v": "cave",
+     "st": [
+      "15",
+      "edificios"
+     ]
+    },
+    {
+     "s": "No tocan la roca. Hay un espacio de unos 46 centímetros.",
+     "v": "gap",
+     "st": [
+      "46 CM",
+      "de la roca"
+     ]
+    },
+    {
+     "s": "En su lugar, descansan sobre más de mil trescientos resortes.",
+     "v": "springs",
+     "st": [
+      "1.300+",
+      "resortes"
+     ]
+    },
+    {
+     "s": "Cada uno pesa más de 454 kilos.",
+     "v": "spring"
+    },
+    {
+     "s": "Si una explosión o un terremoto sacude la montaña,",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "los edificios rebotan en vez de romperse.",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "La puerta principal pesa 23 toneladas.",
+     "v": "door",
+     "plane": "door:shut",
+     "st": [
+      "23 TONELADAS",
+      "puerta blindada"
+     ]
+    },
+    {
+     "s": "¿Te sentirías a salvo ahí dentro?",
+     "v": "command",
+     "you": "command"
+    }
+   ]
+  }
+ ]
+}

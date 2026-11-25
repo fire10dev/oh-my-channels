@@ -1,0 +1,847 @@
+{
+ "id": "L32vi",
+ "lang": "vi",
+ "title": "Làm sao bắt đầu khi bạn cứ thấy mình chưa đủ giỏi?",
+ "description": "Chờ đến khi thật sẵn sàng chỉ khiến bạn mãi giấu kín những ý tưởng hay nhất. Đây là tám cái bẫy tâm lý khiến bạn luôn ngờ vực bản thân và cách hành động dứt khoát. Cùng học cách chia sẻ sản phẩm sáng tạo, vượt qua nỗi sợ ngày đầu nhận việc và tiến bước mỗi ngày.",
+ "chapters": [
+  {
+   "title": "CON TRỎ NHẤP NHÁY",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn nhìn con trỏ nhấp nháy trên màn hình trắng trơn bốn mươi phút, xóa ba câu mở đầu rồi thở dài.",
+     "text": "CON TRỎ NHẤP NHÁY",
+     "color": "ink",
+     "actor": "think",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lại chờ tự tin rơi xuống à? Chưa xỏ giày tập mà đòi chạy như vận động viên.",
+     "text": "CHỜ PHÉP MÀU",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vào họp với nhóm mới, mình thấy ai cũng rành rọt, chỉ có mình là giả vờ hiểu.",
+     "text": "AI CŨNG GIỎI GIANG",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chẳng ai vừa bước vào phòng tập đã nâng được tạ nặng. Tự tin là thành quả của rèn luyện.",
+     "text": "TỰ TIN PHẢI RÈN",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao dám giơ tay phát biểu trong cuộc họp hay nhận dự án mới mà không sợ bị lộ tẩy?",
+     "text": "LÀM SAO BẮT ĐẦU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay mổ xẻ tám cái bẫy tâm lý để bạn hành động trước khi nỗi sợ kịp kéo bạn lại.",
+     "text": "TÁM BẪY TÂM LÝ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. NGỜ VỰC BẢN THÂN",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngày đầu ngồi vào bàn làm việc ở chỗ mới, bụng mình cồn cào như sắp có chuyện lớn.",
+     "text": "1. NGỜ VỰC BẢN THÂN",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lại nghĩ người ta tuyển nhầm người rồi đúng không? Tưởng sếp bấm nhầm hồ sơ à?",
+     "text": "TUYỂN NHẦM MÌNH?",
+     "color": "red",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ sợ lát nữa sếp tới vỗ vai bảo nhầm người rồi mời mình dọn đồ đi về.",
+     "text": "SỢ BỊ BÓC MẼ",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiện tượng kẻ giả mạo đấy. Người càng chăm chỉ lại càng hay sợ mình chỉ ăn may.",
+     "text": "BẪY KẺ GIẢ MẠO",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao đầu óc cứ gạt phăng mọi cố gắng, rồi tự bảo thành công trước giờ toàn do may mắn?",
+     "text": "CHỈ DO ĂN MAY?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì não bạn coi thành công là ăn may, còn thất bại mới là bộ mặt thật của mình.",
+     "text": "BỊ LỆCH GÓC NHÌN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác đó thật đến mức mình thấy mấy dự án cũ mình từng hoàn thành chẳng có giá trị gì.",
+     "text": "GẠT BỎ THÀNH QUẢ",
+     "color": "gold",
+     "actor": "confused_shrug",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Bạn đang nhầm giai đoạn làm quen bỡ ngỡ với việc bản thân kém cỏi.",
+     "text": "GIAI ĐOẠN LÀM QUEN",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy mình phải làm gì khi nỗi hoang mang ập đến ngay trong tuần làm việc đầu tiên?",
+     "text": "CÁCH NÀO ĐỂ VƯỢT?",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lập cuốn sổ bằng chứng. Ghi lại ba việc cụ thể bạn từng làm tốt mà may mắn không tạo ra được.",
+     "text": "SỔ TAY BẰNG CHỨNG",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cất kỹ danh sách đó, vì có bằng chứng cũ rồi bạn vẫn sẽ lo không kham nổi việc hôm nay.",
+     "text": "VIỆC NAY VẪN CHỜ",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "2. BẰNG CHỨNG NHỎ XÍU",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình cần trình bày ý tưởng mới cho cả nhóm, nhưng nhìn trang trình chiếu trống trơn là sợ run.",
+     "text": "2. BẰNG CHỨNG NHỎ XÍU",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn đang nhìn thẳng vào vạch đích thay vì làm một hiệp khởi động nhẹ nhàng.",
+     "text": "NHÌN QUÁ XA",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ thấy phải nắm chắc phần thắng một trăm phần trăm thì mới dám đặt tay gõ chữ đầu tiên.",
+     "text": "ĐÒI CHẮC CHẮN",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là khi bạn mất niềm tin vào tay nghề: đầu thì vẽ ra rõ hay, nhưng tay chẳng dám làm.",
+     "text": "NIỀM TIN NĂNG LỰC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đúng rồi. Đầu óc cứ bảo mình còn non tay, chưa đủ trình để thuyết phục mọi người.",
+     "text": "SỢ MÌNH NON TAY",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngồi nghĩ suông không sinh ra tự tin đâu. Não bạn chỉ tin vào hành động thực tế thôi.",
+     "text": "LÀM MỚI TỰ TIN",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chờ hết sợ mới làm thì thấy vô lý, mà vừa sợ vừa làm thì thấy khó quá.",
+     "text": "HẾT SỢ MỚI LÀM?",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý học gọi đây là trải nghiệm làm chủ. Chỉ một hiệp thắng nhỏ cũng đủ nạp đầy tự tin.",
+     "text": "THẮNG LỢI NHỎ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một thắng lợi nhỏ xíu trông như thế nào khi trước mặt là trang trình chiếu trắng tinh?",
+     "text": "BẮT ĐẦU TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gõ vài gạch đầu dòng thô sơ cho một trang duy nhất. Làm xong hiệp đó rồi đứng dậy đi dạo.",
+     "text": "VIẾT MỘT TRANG ĐÃ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một trang đó tạo đà rất tốt, nhưng mắt bạn sẽ lại liếc sang những người trông có vẻ quá giỏi.",
+     "text": "LIẾC SANG NGƯỜI KHÁC",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "3. GƯƠNG SOI ĐỒNG ĐỘI",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hôm qua nghe anh trưởng nhóm trình bày lưu loát quá, tự nhiên mình thấy muốn bỏ cuộc.",
+     "text": "3. GƯƠNG SOI ĐỒNG ĐỘI",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lại lấy bài khởi động của lính mới đi so với vận động viên đoạt huy chương vàng rồi.",
+     "text": "SO SÁNH KHẬP KHIỄNG",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Anh ấy nói chuyện tự nhiên như thể sinh ra là để đứng trên sân khấu lớn vậy.",
+     "text": "SINH RA ĐÃ GIỎI?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng soi gương đồng đội. Nhìn người khác làm được, não mới tin mình cũng làm được.",
+     "text": "HỌC TỪ HÌNH MẪU",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng sao nhìn người ta làm hoàn hảo thì mình chỉ muốn chui vào một góc trốn đi?",
+     "text": "CHỈ MUỐN TRỐN",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì khoảng cách quá xa khiến não phát chuông báo động, coi sự xuất sắc đó là mối đe dọa.",
+     "text": "KHOẢNG CÁCH QUÁ XA",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Xem những bậc cao thủ chỉ làm mình mất hết tinh thần chứ chẳng thấy có chút động lực nào.",
+     "text": "CÀNG XEM CÀNG NẢN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn rồi. Lửa chỉ bùng lên khi bạn quan sát những người có điểm xuất phát gần giống mình.",
+     "text": "GƯƠNG SOI VỪA TẦM",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy mình nên nhìn vào đâu để tìm cảm hứng thật sự cho công việc?",
+     "text": "NÊN NHÌN VÀO ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tìm đồng nghiệp cùng vào đợt này xem bản thảo của họ, hoặc tự xem lại bản nháp cũ của mình.",
+     "text": "XEM BẢN NHÁP CŨ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đồng nghiệp cùng xuất phát điểm cho ta niềm tin, nhưng đầu óc bạn vẫn rất giỏi bịa cớ để trốn.",
+     "text": "LẠI BỊA CỚ TRỐN",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "4. BUÔNG KHIÊN TỰ VỆ",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tối qua mình định đăng mấy bài viết sáng tạo lên mạng, rốt cuộc lại ngồi dọn bàn học.",
+     "text": "4. BUÔNG KHIÊN TỰ VỆ",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi năm mươi kiểu phông chữ suốt ba tiếng thay vì viết lấy một dòng. Quá quen luôn.",
+     "text": "CHỈNH PHÔNG CẢ BUỔI",
+     "color": "red",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình thức đến nửa đêm chỉnh từng chút một, đến lúc mệt lả thì tắt máy đi ngủ.",
+     "text": "MỆT LẢ TỰ NHIÊN",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là bẫy tự tạo trở ngại. Bạn cố tình tạo ra khó khăn ngay trước bài kiểm tra thật.",
+     "text": "TỰ TẠO TRỞ NGẠI",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao mình lại tự phá đám công việc khi bản thân thật lòng muốn làm nó thật tốt?",
+     "text": "SAO TỰ PHÁ ĐÁM?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để giữ thể diện thôi. Nếu làm dở khi đang kiệt sức, bạn có thể đổ lỗi cho việc thiếu ngủ.",
+     "text": "LÁ CHẮN BẢO VỆ",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cái cớ đó bảo vệ lòng tự ái, nhưng cũng khiến tác phẩm của mình không bao giờ được ra đời.",
+     "text": "MÃI KHÔNG RA ĐỜI",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ khiên đỡ đòn thì an toàn, nhưng hai tay bạn cũng chẳng thể vung nắm đấm phản công.",
+     "text": "KHIÊN TỰ VỆ TRÓI TAY",
+     "color": "red",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao buông được tấm khiên này khi nỗi sợ cứ thôi thúc mình chần chừ?",
+     "text": "BUÔNG KHIÊN THẾ NÀO?",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng mẫu đơn giản nhất, hẹn giờ hai mươi phút rồi xuất ra một bản nháp thô cho riêng mình.",
+     "text": "XUẤT BẢN NHÁP THÔ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Buông khiên sẽ thấy chới với, nhất là khi bạn bắt đầu phải vắt kiệt sức lực tư duy.",
+     "text": "ĐỐI MẶT SỨC LỰC",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "5. GIÁ TRỊ CỦA MỒ HÔI",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần ngồi viết đề xuất công việc, viết được câu nào là thấy trầy trật câu đó.",
+     "text": "5. GIÁ TRỊ MỒ HÔI",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tốt. Thấy nặng tức là thanh tạ của bạn đang được lắp bánh tạ thật.",
+     "text": "TẠ NẶNG MỚI LÊN CƠ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng mình cứ tưởng vì mình thấy chật vật nên chứng tỏ mình không hợp với nghề này.",
+     "text": "TƯỞNG MÌNH KHÔNG HỢP",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý học gọi là thói quen rèn luyện kiên trì: khi nỗ lực đi kèm phần thưởng, vất vả sẽ hóa hưng phấn.",
+     "text": "NỖ LỰC LÀ PHẦN THƯỞNG",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ý Buff là não bộ vốn dĩ rất lười, trừ khi ta chủ động rèn luyện cho nó?",
+     "text": "NÃO VỐN NGẠI KHÓ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não luôn né tránh sự mệt mỏi, trừ khi bạn coi cảm giác mỏi mệt là tín hiệu đang tiến bộ.",
+     "text": "NÉ TRÁNH MỎI MỆT",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy cảm giác khó nhằn chỉ là chi phí tự nhiên, chứ không phải bằng chứng là mình kém.",
+     "text": "KHÓ KHÔNG PHẢI KÉM",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Cơ bắp tư duy có căng thẳng thì mới phá vỡ được giới hạn cũ.",
+     "text": "PHÁ VỠ GIỚI HẠN",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tập cho tâm trí chịu được sự khó chịu trong mỗi lần ngồi làm việc khó?",
+     "text": "RÈN SỨC CHỊU ĐỰNG",
+     "color": "ink",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Làm việc nghiêm túc trong mười phút, rồi tự thưởng bằng một dấu tích hoàn thành vào sổ.",
+     "text": "TÍCH DẤU HOÀN THÀNH",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Yêu cảm giác đổ mồ hôi giúp bạn bền bỉ, nhưng với điều kiện bạn tin kỹ năng có thể lớn lên.",
+     "text": "KỸ NĂNG CÓ THỂ LỚN",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "6. NUÔI DƯỠNG CƠ BẮP",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sáng nay sếp gửi lại bản kế hoạch của mình với chi chít nhận xét và gạch đỏ.",
+     "text": "6. NUÔI DƯỠNG CƠ BẮP",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cảm giác như lòng tự trọng vừa bị ném thẳng vào máy hủy tài liệu đúng không?",
+     "text": "LÒNG TỰ TRỌNG BẸP DÍ",
+     "color": "red",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tim mình thắt lại. Cứ như thể sếp vừa tuyên bố mình không có chút năng khiếu nào.",
+     "text": "KHÔNG CÓ NĂNG KHIẾU",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là bẫy tư duy cố định. Nó coi lời góp ý thẳng thắn là bản án chung thân cho năng lực.",
+     "text": "BẪY TƯ DUY CỐ ĐỊNH",
+     "color": "red",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để tách rời giá trị bản thân khỏi sản phẩm mình đã bỏ bao công sức tạo ra?",
+     "text": "TÁCH RỜI BẢN THÂN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuyển sang tư duy phát triển. Coi kỹ năng là sợi cơ có thể nở to, chứ không phải tượng đá.",
+     "text": "CƠ BẮP KHÔNG PHẢI ĐÁ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Coi lời chê là số liệu để sửa mình thay vì đòn tấn công quả là một bước ngoặt lớn.",
+     "text": "LỜI CHÊ LÀ DỮ LIỆU",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vết mực đỏ không phải dấu chấm hết, nó là mức tạ cho hiệp tập tiếp theo của bạn.",
+     "text": "BÀI TẬP HIỆP TIẾP",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có tín hiệu nào giúp mình bình tĩnh lại khi những lời chê bai làm tổn thương lòng kiêu hãnh?",
+     "text": "LẤY LẠI BÌNH TĨNH",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thêm từ chưa vào lời chê, rồi chọn đúng một điểm cụ thể để cải thiện trong bản sửa đổi.",
+     "text": "THÊM CHỮ CHƯA VÀO",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi cách nghĩ rất tốt, nhưng thói quen nghĩ ngợi quá nhiều vẫn có thể làm bạn tê liệt.",
+     "text": "NGHĨ NHIỀU BỊ LIỆT",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "7. LÀM KHI CHƯA SẴN SÀNG",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bản đề xuất viết xong cả buổi sáng mà mình cứ ngồi ngắm nút gửi, chẳng dám bấm.",
+     "text": "7. LÀM KHI CHƯA SẴN",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lại ngồi tưởng tượng ra đủ thứ thảm họa trong khi cốc cà phê nguội ngắt rồi hả?",
+     "text": "CÀ PHÊ NGUỘI NGẮT",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình sợ sếp hỏi vặn lại những chỗ chưa tính tới, rồi người ta đánh giá mình làm ẩu.",
+     "text": "SỢ BỊ ĐÁNH GIÁ ẨU",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn đang mắc kẹt trong cảm xúc: chỉ mải ngồi lo lắng thay vì bắt tay vào xử lý việc.",
+     "text": "KẸT TRONG CHẦN CHỪ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao đầu óc thích suy nghĩ vòng vo hơn là chỉ việc nhấp một cú chuột?",
+     "text": "SUY NGHĨ VÒNG VO",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì ngồi toan tính cho cảm giác như đang bận rộn, nhưng lại không sợ bị ai từ chối.",
+     "text": "BẬN RỘN GIẢ TẠO",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra phân tích mãi chỉ là nỗi sợ đội lốt sự cẩn thận chu đáo.",
+     "text": "NỖI SỢ ĐỘI LỐT",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập trung vào hành động nghĩa là mặc kệ cảm xúc, chỉ nhìn đúng vào bước đi trước mắt.",
+     "text": "NHÌN VÀO BƯỚC ĐI",
+     "color": "gold",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm thế nào để cắt đứt vòng luẩn quẩn khi sự do dự chiếm hết cả buổi làm việc?",
+     "text": "CẮT VÒNG LUẨN QUẨN",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cài lệnh nếu thì: hễ chuông reo sau mười phút rà soát, ngón tay tự động bấm gửi.",
+     "text": "QUY TẮC NẾU THÌ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hành động dứt khoát giúp bạn tiến lên, nhưng vẫn cần tắt tiếng nói tự phán xét trong đầu.",
+     "text": "XỬ LÝ GIỌNG PHÁN XÉT",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "8. LỜI NÓI TỬ TẾ",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sáng nay nói vấp một câu trong cuộc họp, mà giọng nói trong đầu cứ chì chiết mình suốt từ trưa đến giờ.",
+     "text": "8. TỬ TẾ VỚI MÌNH",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Toàn tự chửi mình bằng những từ mà không bao giờ bạn dám nói với đồng nghiệp.",
+     "text": "TỰ CHỬI CHÍNH MÌNH",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nó bảo mình vừa làm một trò cười bẽ bàng và chứng minh mình không xứng đáng với vị trí này.",
+     "text": "THẤY MÌNH KÉM CỎI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự hành hạ bản thân chỉ khiến não coi chính bạn là mối nguy, làm bạn luôn căng cứng phòng thủ.",
+     "text": "TỰ COI MÌNH LÀ NGUY",
+     "color": "red",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình cứ ngỡ phải thật khắt khe với bản thân thì mới giữ được tiêu chuẩn cao trong công việc.",
+     "text": "KHẮT KHE ĐỂ GIỎI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhầm to. Lòng trắc ẩn với chính mình tạo ra sự kiên cường, còn tự sỉ vả chỉ khiến bạn trốn tránh.",
+     "text": "TỬ TẾ TẠO BỀN BỈ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kiên nhẫn với bản thân một chút sẽ không biến mình thành kẻ lười biếng hay yếu đuối chứ?",
+     "text": "CÓ BỊ YẾU ĐUỐI?",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một huấn luyện viên giỏi sẽ chỉnh thế tập cho bạn chứ không đấm vào sườn bạn. Hãy là người đó.",
+     "text": "HUẤN LUYỆN VIÊN TỐT",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy mình nên nói gì với chính mình khi lỡ nói hớ trong một buổi thuyết trình?",
+     "text": "NÓI GÌ KHI LỠ LỜI?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự gọi tên mình: Pen, chỉ nói vấp một câu thôi. Thở sâu một hơi rồi bấm sang trang tiếp.",
+     "text": "NHẮC MÌNH NHẸ NHÀNG",
+     "color": "green",
+     "actor": "meditating",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi giọng nói bên trong chịu đồng hành cùng bạn, mọi công cụ hôm nay sẽ phát huy trọn vẹn sức mạnh.",
+     "text": "ĂN KHỚP MỌI CÔNG CỤ",
+     "color": "gold",
+     "actor": "celebrate"
+    }
+   ]
+  },
+  {
+   "title": "KẾT NỐI BA TRỤ CỘT",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra chờ đợi tự tin mới là nguyên nhân trì hoãn, tự tin chỉ xuất hiện sau khi mình bắt đầu.",
+     "text": "KẾT NỐI BA TRỤ CỘT",
+     "color": "ink",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Giờ gom tám bài học hôm nay vào ba trụ cột chính để bạn dễ dàng áp dụng.",
+     "text": "BA TRỤ CỘT CHÍNH",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thứ nhất, dập tắt bẫy tâm lý. Ghi nhận bằng chứng thật, buông khiên tự vệ và nói chuyện như huấn luyện viên.",
+     "text": "DẬP TẮT BẪY TÂM LÝ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thứ hai, tạo đà bằng những hiệp tập nhỏ xíu, đặt quy tắc nếu thì và quan sát đồng đội cùng trang lứa?",
+     "text": "TẠO ĐÀ HÀNH ĐỘNG",
+     "color": "green",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Thứ ba, coi nỗ lực như rèn cơ bắp và luôn thêm từ chưa khi bị nhận xét gắt gao.",
+     "text": "RÈN LUYỆN KỸ NĂNG",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để áp dụng ba trụ cột này vào thực tế ngay trong tuần này?",
+     "text": "BẮT ĐẦU TUẦN NÀY",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhận thử thách bảy ngày. Chọn một việc đang tắc và làm đúng một hiệp hai phút mỗi ngày.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đăng ký kênh Lý Thuyết Chân Que để cùng chúng mình rèn luyện bản lĩnh qua từng hiệp nhỏ.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "title": "La tripulación de cruceros no descansa",
+ "hook": "SIN DESCANSO",
+ "asof": "Cifras de 2026",
+ "world": "cruise",
+ "long": "IX003",
+ "chapters": [
+  {
+   "id": "work",
+   "hud": "DÍA 40",
+   "chip": "05:30",
+   "tod": "dawn",
+   "shots": [
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "En un crucero, la tripulación trabaja todos los días."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "TODOS LOS DÍAS",
+      "small": "durante meses · sin un día libre de verdad"
+     },
+     "s": "Durante meses."
+    },
+    {
+     "v": "office",
+     "s": "La mayoría de los contratos no dan días libres de verdad."
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "No es raro trabajar doce horas al día."
+    },
+    {
+     "v": "buffet",
+     "you": "buffet",
+     "s": "Algunos puestos tienen turnos partidos."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "TURNO: MAÑANA",
+       "PAUSA",
+       "TURNO: NOCHE"
+      ],
+      "note": "un turno partido"
+     },
+     "s": "Trabajas unas horas, descansas y vuelves por la noche."
+    },
+    {
+     "v": "galley",
+     "s": "En cocina, puedes empezar antes del desayuno,"
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "y terminar después de la limpieza nocturna."
+    },
+    {
+     "v": "office",
+     "s": "Entonces, ¿hay algún límite?"
+    },
+    {
+     "v": "office",
+     "you": "office",
+     "s": "Sí. Lo establece el Convenio sobre el Trabajo Marítimo."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "10 h",
+      "small": "de descanso mínimo cada 24 horas · MLC 2006"
+     },
+     "s": "Al menos diez horas de descanso cada veinticuatro."
+    },
+    {
+     "v": "office",
+     "st": [
+      "77 h",
+      "descanso mínimo cada 7 días"
+     ],
+     "s": "Al menos setenta y siete horas por semana."
+    },
+    {
+     "v": "lifeboat",
+     "plane": "alarm",
+     "s": "¿Y los simulacros de seguridad?"
+    },
+    {
+     "v": "lifeboat",
+     "you": "lifeboat",
+     "plane": "alarm",
+     "s": "A menudo te quitan horas de descanso."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "¿Podrías trabajar todos los días durante seis meses?"
+    }
+   ]
+  }
+ ]
+}

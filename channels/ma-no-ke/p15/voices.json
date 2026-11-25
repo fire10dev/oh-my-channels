@@ -1,0 +1,22 @@
+{
+ "MN": {
+  "preset": "Thiện Minh",
+  "fx": "atempo=0.92,asetrate=48000*0.97,aresample=48000,aecho=0.8:0.6:60:0.25"
+ },
+ "VUONG": {
+  "preset": "Thiền Tâm Đức",
+  "fx": "atempo=1.05"
+ },
+ "TU": {
+  "preset": "Adam bựa",
+  "fx": "aecho=0.8:0.5:40:0.25"
+ },
+ "CH": {
+  "preset": "Trúc Ly",
+  "fx": "aecho=0.8:0.5:40:0.25"
+ },
+ "BAN": {
+  "preset": "Ngọc Huyền",
+  "fx": "anull"
+ }
+}

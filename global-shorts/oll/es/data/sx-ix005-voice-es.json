@@ -1,0 +1,89 @@
+{
+ "title": "Por qué los buzos de saturación suenan como caricaturas",
+ "hook": "VOZ DE HELIO",
+ "asof": "Datos de 2026",
+ "world": "sat",
+ "long": "IX005",
+ "chapters": [
+  {
+   "id": "voice",
+   "hud": "DÍA 2",
+   "chip": "07:00",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "chamber",
+     "plane": "voice",
+     "you": "chamber",
+     "s": "Estos buzos pasan semanas respirando helio."
+    },
+    {
+     "v": "ship",
+     "s": "En una cámara sellada sobre la cubierta de un barco,"
+    },
+    {
+     "v": "chamber",
+     "s": "a la presión del fondo marino."
+    },
+    {
+     "v": "chamber",
+     "st": [
+      "HELIOX",
+      "helio + oxígeno"
+     ],
+     "s": "Respiran helio mezclado con oxígeno."
+    },
+    {
+     "v": "chamber",
+     "plane": "voice",
+     "you": "chamber",
+     "s": "Por eso su voz se vuelve aguda y chillona."
+    },
+    {
+     "v": "control",
+     "s": "Tan aguda que afuera casi no los entienden."
+    },
+    {
+     "v": "control",
+     "plane": "voice",
+     "s": "Una máquina descifra lo que dicen."
+    },
+    {
+     "v": "chamber",
+     "s": "Y el helio les roba el calor corporal,"
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "con cada exhalación."
+    },
+    {
+     "v": "gauge",
+     "plane": "temp",
+     "s": "Por eso mantienen caliente la cámara."
+    },
+    {
+     "v": "chamber",
+     "st": [
+      "29–34 °C",
+      "temperatura de la cámara · DAN"
+     ],
+     "s": "A menudo, a unos treinta y dos grados."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "28 DÍAS",
+      "small": "máximo habitual en saturación · DMAC 21"
+     },
+     "s": "Hasta veintiocho días."
+    },
+    {
+     "v": "table",
+     "you": "table",
+     "s": "¿Podrías vivir así?"
+    }
+   ]
+  }
+ ]
+}

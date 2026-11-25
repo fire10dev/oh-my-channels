@@ -25,6 +25,31 @@ if mode == "shorts":
         mk(B / "shorts" / f"{ch[0]['id']}-{ch[-1]['id']}",
            brief + f"\n\nOUTPUT ONLY the JSON list of {2 * len(ch)} objects (for each topic the EN object, then the VI object), no prose.\n\n## Chủ đề\n{rows}\n",
            "list", "check_chunk.py")
+elif mode == "shorts-long":
+    # 6-month plan (user 2026-11-21): 7 Shorts per long, one per mechanism chapter, ids s231 + 7*(n-8) -> batch3/shorts/sA-sB
+    L = sys.argv[2]; n = int(L[1:]); first = 231 + 7 * (n - 8)
+    t = {x["id"]: x for x in json.load(open(B / "topics-longs/final.json"))}[L]
+    s = json.load(open(B / "longs" / f"{L}-en" / "final.json"))
+    chs = [c for c in s["chapters"] if c["title"][:1].isdigit()][:7]
+    if not chs:
+        chs = s["chapters"][1:8]
+    brief = (AB / "shorts/brainstorm/batch2/writer-brief.md").read_text().split("## Kiểm trước khi trả")[0]
+    brief = brief.replace("batch 2 (s31–s130, EN + VI)", f"Shorts cho video dài {L} (s{first}–s{first + 6}, EN + VI)").replace(
+        "Đọc chủ đề ở `topics.md` (bảng Codex, cùng thư mục). Output: 1 file JSON `chunks/<từ id>-<đến id>.json` = list object",
+        "Chủ đề ở cuối prompt. Output: 1 JSON list").replace("Không sửa file nào khác.", "")
+    rows = []
+    for i, c in enumerate(chs):
+        sid = first + i
+        mech = c["title"].split(".", 1)[1].strip() if "." in c["title"] else c["title"].strip()
+        rows.append(json.dumps({"id": f"s{sid}", "mascot": "pen" if sid % 2 else "buff", "area": t["area"], "mechanism": mech,
+                                "hook": c["lines"][0]["vo"], "payoff": c["lines"][-1]["vo"], "vi_angle": t.get("vi_angle", ""),
+                                "chapter": " / ".join(l["vo"] for l in c["lines"])}, ensure_ascii=False))
+    mk(B / "shorts" / f"s{first}-s{first + 6}",
+       brief + f"\n\nEach Short is a stand-alone teaser of one chapter of the long video \"{t['title']}\" (VI: \"{t['title_vi']}\"): "
+       "same mechanism and the same everyday situation as the chapter text given in the topic, retold by ONE mascot in 5-8 lines "
+       "with a fresh short title (no number prefix)."
+       f"\n\nOUTPUT ONLY the JSON list of {2 * len(rows)} objects (for each topic the EN object, then the VI object), no prose.\n\n## Chủ đề\n"
+       + "\n".join(rows) + "\n", "list", "check_chunk.py")
 elif mode == "long-en":
     L = sys.argv[2]; t = {x["id"]: x for x in json.load(open(B / "topics-longs/final.json"))}[L]
     p = (AB / "long/prompt-write-en.md").read_text().split("This is a non-interactive")[0]

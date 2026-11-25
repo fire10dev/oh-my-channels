@@ -1,0 +1,328 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 48.049,
+"shots": [
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 4.485,
+"a": [
+800,
+700,
+460
+],
+"b": [
+800,
+700,
+340
+],
+"flash": 1
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.485,
+"t1": 12.821,
+"a": [
+1000,
+576,
+648
+],
+"b": [
+1000,
+540,
+460
+]
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 12.821,
+"t1": 16.454,
+"a": [
+1500,
+460,
+460
+],
+"b": [
+1500,
+440,
+340
+]
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.454,
+"t1": 20.016,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1024,
+600,
+460
+]
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 20.016,
+"t1": 22.071,
+"a": [
+800,
+700,
+460
+],
+"b": [
+800,
+700,
+340
+]
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 22.071,
+"t1": 24.521,
+"a": [
+800,
+700,
+340
+],
+"b": [
+800,
+700,
+300
+]
+},
+{
+"img": "p01/img/S33.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 24.521,
+"t1": 30.041,
+"a": [
+1300,
+576,
+648
+],
+"b": [
+1300,
+520,
+460
+]
+},
+{
+"img": "p01/img/S34.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 30.041,
+"t1": 35.455,
+"a": [
+880,
+576,
+648
+],
+"b": [
+880,
+330,
+460
+]
+},
+{
+"img": "p01/img/B04.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 35.455,
+"t1": 42.746,
+"a": [
+672,
+760,
+1008
+],
+"b": [
+672,
+700,
+760
+]
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 42.746,
+"t1": 47.549,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p01/img/cut_B02.png",
+"size": 1344,
+"t0": 42.746,
+"t1": 47.549,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.15,
+"t1": 4.485,
+"text": "50% DE LOS INGRESOS",
+"color": "#ffd84a"
+},
+{
+"t0": 4.89,
+"t1": 12.821,
+"text": "30.000.000 VISTAS",
+"color": "#ffd84a"
+},
+{
+"t0": 22.071,
+"t1": 24.521,
+"text": "50% DE LOS INGRESOS. LA CABEZA ES DE MAMÁ.",
+"color": "#ffffff"
+},
+{
+"t0": 35.807,
+"t1": 42.746,
+"text": "LA PRÓXIMA VEZ",
+"color": "#ffd84a"
+},
+{
+"t0": 42.926,
+"t1": 47.549,
+"text": "SUSCRÍBETE",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.7
+},
+{
+"t": 22.071,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.7
+},
+{
+"t": 42.746,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 46.277,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 3.936,
+"text": "El cincuenta por ciento de los ingresos. Porque esta cabeza es de mamá."
+},
+{
+"t": 4.485,
+"dur": 8.085,
+"text": "Ese video ya tiene treinta millones de vistas. Nadie cree que sea real. Mejor. Si no lo creen, puedo seguir escapándome a comer por la noche."
+},
+{
+"t": 12.821,
+"dur": 6.945,
+"text": "Pagó todas sus deudas. Todavía pone la cámara frente a la mesa cada noche. Pero cuando la apaga, se sienta a comer conmigo."
+},
+{
+"t": 20.016,
+"dur": 1.755,
+"text": "Y yo le di una hoja de papel."
+},
+{
+"t": 24.521,
+"dur": 10.684,
+"text": "Cincuenta años como ma lai y nunca asustó a nadie. Tres meses en internet y ya tiene un contrato para repartir ingresos. Llevo siglos sentado en armarios. Nadie me ha pagado ni un centavo."
+},
+{
+"t": 35.455,
+"dur": 7.042,
+"text": "La próxima vez: un funcionario del inframundo llega a un taller de costura a pasar lista y se equivoca con una sola persona."
+},
+{
+"t": 42.746,
+"dur": 3.602,
+"text": "Suscríbete. Si no, esta noche me siento encima de tu armario."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/es/vo/02ea372e0b.wav"
+},
+{
+"t": 4.485,
+"src": "loc/es/vo/e3f2b99894.wav"
+},
+{
+"t": 12.821,
+"src": "loc/es/vo/7fd72cafd0.wav"
+},
+{
+"t": 20.016,
+"src": "loc/es/vo/6dd705876d.wav"
+},
+{
+"t": 24.521,
+"src": "loc/es/vo/aba0ab0fc5.wav"
+},
+{
+"t": 35.455,
+"src": "loc/es/vo/0a6cbc9661.wav"
+},
+{
+"t": 42.746,
+"src": "loc/es/vo/7941db0f84.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

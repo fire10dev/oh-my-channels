@@ -1,0 +1,107 @@
+{
+ "title": "O Clube dos 300 do Polo Sul",
+ "hook": "CLUBE DOS 300",
+ "asof": "Dados de 2026",
+ "world": "pole",
+ "long": "IX002",
+ "chapters": [
+  {
+   "id": "club",
+   "hud": "DIA 150",
+   "chip": "-73 °C",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "thermo",
+     "fx": "wind",
+     "st": [
+      "-73 °C",
+      "o número mágico"
+     ],
+     "s": "Para entrar no clube, precisa fazer 73 graus negativos."
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "E quase sem roupa."
+    },
+    {
+     "v": "wide",
+     "s": "Este é o Polo Sul, no inverno."
+    },
+    {
+     "v": "thermo",
+     "s": "Em alguns dias, a temperatura cai abaixo de 73 graus negativos."
+    },
+    {
+     "v": "station",
+     "s": "É aí que parte da equipe se arrisca."
+    },
+    {
+     "v": "sauna",
+     "you": "sauna",
+     "s": "Eles entram numa sauna aquecida a 93 graus Celsius."
+    },
+    {
+     "v": "hall",
+     "s": "Depois, saem lá fora."
+    },
+    {
+     "v": "thermo",
+     "fx": "wind",
+     "s": "Direto para 73 graus negativos."
+    },
+    {
+     "d": {
+      "type": "compare",
+      "left": [
+       "SAUNA",
+       "+93 °C",
+       "por minutos"
+      ],
+      "right": [
+       "LÁ FORA",
+       "-73 °C",
+       "por segundos"
+      ],
+      "note": "166 GRAUS"
+     },
+     "s": "Uma variação de 166 graus Celsius."
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "De botas,"
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "e quase sem mais nada,"
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "eles correm até o marco do Polo Sul."
+    },
+    {
+     "v": "hall",
+     "s": "E voltam."
+    },
+    {
+     "v": "sauna",
+     "you": "sauna",
+     "s": "Esse é o Clube dos 300."
+    },
+    {
+     "v": "thermo",
+     "s": "Em alguns invernos, nunca esfria o bastante."
+    },
+    {
+     "v": "pole",
+     "you": "pole",
+     "s": "Você encararia essa corrida?"
+    }
+   ]
+  }
+ ]
+}

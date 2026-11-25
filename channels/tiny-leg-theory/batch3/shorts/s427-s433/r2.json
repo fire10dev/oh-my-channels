@@ -1,0 +1,690 @@
+[
+ {
+  "id": "s427",
+  "mascot": "pen",
+  "title": "Why Praise Feels Awkward",
+  "mechanism": "The Modesty Norm",
+  "lines": [
+   {
+    "vo": "My manager praised my presentation, and I instantly pointed out two typos.",
+    "text": "INSTANT APOLOGY",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "You dropped the trophy before anyone could even see you holding it.",
+    "text": "DROP THE TROPHY",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "In many groups, keeping quiet feels safer than risking someone feeling outshone.",
+    "text": "THE MODESTY NORM",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Next time someone compliments you, pause for two full seconds.",
+    "text": "TWO SECOND PAUSE",
+    "color": "green",
+    "actor": "meditating",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Let the compliment land safely without rushing to toss it back.",
+    "text": "LET IT LAND",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Is staying quiet humble, or are you just afraid of being seen?",
+    "text": "AFRAID TO BE SEEN?",
+    "color": "gold",
+    "actor": "worried_heart"
+   }
+  ]
+ },
+ {
+  "id": "s427vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi Sao Duoc Khen Lai Thay Nguong",
+  "title_vi": "Vì Sao Được Khen Lại Thấy Ngượng",
+  "mechanism": "The Modesty Norm",
+  "lines": [
+   {
+    "vo": "Sếp vừa khen bài thuyết trình, bạn liền thanh minh em làm bừa đấy.",
+    "text": "EM LÀM BỪA THÔI",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Vội vàng gạt đi lời khen vì sợ đồng nghiệp nghĩ mình làm màu.",
+    "text": "SỢ BỊ NÓI LÀM MÀU",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Nhiều tập thể vô tình chuộng sự kín tiếng, nên lỡ nổi bật một chút là thấy chột dạ.",
+    "text": "CHUẨN MỰC KHIÊM TỐN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Lần tới, im lặng đúng hai giây rồi mỉm cười nói lời cảm ơn.",
+    "text": "DỪNG HAI GIÂY",
+    "color": "green",
+    "actor": "meditating",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Một câu cảm ơn ngắn gọn là đủ, không cần hạ thấp nỗ lực.",
+    "text": "MỘT CÂU CẢM ƠN",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Nhận một lời khen chân thành có thực sự đáng sợ đến thế không?",
+    "text": "SAO PHẢI SỢ KHEN?",
+    "color": "gold",
+    "actor": "worried_heart"
+   }
+  ]
+ },
+ {
+  "id": "s428",
+  "mascot": "buff",
+  "title": "Stop Sandbagging Your Wins",
+  "mechanism": "Tall Poppy Syndrome",
+  "lines": [
+   {
+    "vo": "Coworker wins an award, and the office breakroom turns instantly salty.",
+    "text": "INSTANT SALT",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Sure, buddy. They trim the tallest plant to keep the lawn flat.",
+    "text": "TALL POPPY",
+    "color": "red",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "When you stand out, your social brain easily mistakes attention for danger.",
+    "text": "FEAR OF THE HERD",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "So you deliberately drop your output just to keep everyone comfortable.",
+    "text": "STOP SANDBAGGING",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Treat your progress like heavy lifting in a public gym.",
+    "text": "LIFT IN PUBLIC",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "State the raw facts: the target was met, the work held up, full stop.",
+    "text": "HIT THE TARGET",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "target"
+   },
+   {
+    "vo": "Own your heavy reps, and let them stare all they want.",
+    "text": "OWN YOUR REPS",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s428vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung Giau Thanh Qua Vi So Bi Ghet",
+  "title_vi": "Đừng Giấu Thành Quả Vì Sợ Bị Ghét",
+  "mechanism": "Tall Poppy Syndrome",
+  "lines": [
+   {
+    "vo": "Vừa nhận tin nhắn thưởng nóng, nhóm Zalo chung bỗng dưng im bặt.",
+    "text": "NHÓM CHAT IM BẶT",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Ừ, tin đi. Thấy ai nổi bật là có người muốn kéo cho bằng sàn.",
+    "text": "DÌM NGƯỜI NỔI TRỘI",
+    "color": "red",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Khi nổi bật, ta rất dễ có xu hướng thu mình vì ngại va chạm.",
+    "text": "SỢ BỊ TẨY CHAY",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Sợ đồng nghiệp xì xào mà vội từ chối dự án tiếp theo à? Bỏ đi.",
+    "text": "ĐỪNG NÉ TRÁNH",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Tập trung vào phần việc của bạn, đừng tự hạ chuẩn chỉ để làm vừa lòng.",
+    "text": "KHÔNG HẠ CHUẨN",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Cứ dứt khoát: chỉ tiêu đạt đúng hạn, công sức bỏ ra xứng đáng.",
+    "text": "CHỈ TIÊU ĐẠT CHUẨN",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "target"
+   },
+   {
+    "vo": "Việc mình mình làm, sức mình mình giữ. Người khác muốn nhìn thì cứ nhìn.",
+    "text": "LO VIỆC CỦA BẠN",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s429",
+  "mascot": "pen",
+  "title": "Why You Roast Yourself First",
+  "mechanism": "Impression Management",
+  "lines": [
+   {
+    "vo": "Just got promoted, but spent twenty minutes drafting a joke to downplay it.",
+    "text": "SELF ROAST FIRST",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "You roast yourself first so nobody else gets the satisfaction.",
+    "text": "EMOTIONAL ARMOR",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Impression management turns your genuine win into an apology tour.",
+    "text": "MANAGING OPINIONS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Report your win like a referee: clear, factual, zero apologies.",
+    "text": "BE THE REFEREE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "A solid achievement never needs an apology speech.",
+    "text": "NO APOLOGY NEEDED",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s429vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Tu Che Minh De Khoi Bi Soi",
+  "title_vi": "Tự Chê Mình Để Khỏi Bị Soi",
+  "mechanism": "Impression Management",
+  "lines": [
+   {
+    "vo": "Vừa nhận tin đậu phỏng vấn, lên mạng đăng bài lại bảo do ăn may.",
+    "text": "TỰ DÌM BẢN THÂN",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Tự dìm mình trước để người khác không còn cớ gì để chê bai.",
+    "text": "ÁO GIÁP CẢM XÚC",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Sợ bị đánh giá biến một niềm vui đáng có thành một màn xin lỗi gượng gạo.",
+    "text": "TỰ BIỆN HỘ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Thuật lại kết quả như người quan sát: chỉ nêu sự thật, không tự hạ thấp.",
+    "text": "NÊU ĐÚNG SỰ THẬT",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Công sức thực tế bạn bỏ ra xứng đáng được trân trọng đàng hoàng.",
+    "text": "XỨNG ĐÁNG ĐƯỢC NHẬN",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s430",
+  "mascot": "buff",
+  "title": "Stop Blaming Dumb Luck",
+  "mechanism": "Attribution Theory",
+  "lines": [
+   {
+    "vo": "Project crushed the quarter. Your explanation? Pure dumb luck.",
+    "text": "JUST LUCKY?",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Sure, buddy. The calendar and stars did all your heavy lifting.",
+    "text": "THANKING THE STARS",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "You blame yourself for every error, but hand all your wins to luck.",
+    "text": "REVERSE ATTRIBUTION",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Calling it luck lowers expectations so nobody expects another big rep.",
+    "text": "LOWERING THE BAR",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Sit down and write three smart decisions you made that drove results.",
+    "text": "LIST THREE MOVES",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Data does not care about modesty. Count the reps you actually built.",
+    "text": "COUNT THE REPS",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s430vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung Do Het Cho An May",
+  "title_vi": "Đừng Đổ Hết Cho Ăn May",
+  "mechanism": "Attribution Theory",
+  "lines": [
+   {
+    "vo": "Vừa chốt được hợp đồng khủng, bạn vội bảo do khách dễ tính thôi.",
+    "text": "DO MAY THÔI MÀ",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Ừ, tin đi. Hợp đồng tự rơi trúng đầu chứ bạn chẳng tốn giọt mồ hôi nào.",
+    "text": "TỰ NHIÊN MÀ CÓ?",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Làm hỏng thì nhận hết lỗi, còn làm tốt lại bảo do ăn may.",
+    "text": "BẪY QUY KẾT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Đổ cho may mắn để tự trấn an, vì sợ lần tới không làm được như thế.",
+    "text": "TRỐN TRÁNH KỲ VỌNG",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Ghi lại ba quyết định chuẩn xác bạn đã làm để cứu tiến độ.",
+    "text": "GHI LẠI BA VIỆC",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Số liệu không biết nịnh. Tự tin nhận mồ hôi của mình đi.",
+    "text": "NHẬN CÔNG SỨC ĐI",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s431",
+  "mascot": "pen",
+  "title": "Why Praise Makes You Blush",
+  "mechanism": "Spotlight Emotions",
+  "lines": [
+   {
+    "vo": "The room applauds your work, and your face instantly goes bright red.",
+    "text": "BURNING RED",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "You freeze on the spot, praying for the floor to open up.",
+    "text": "WANT TO DISAPPEAR",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Spotlight emotions make your threat system treat attention as an ambush.",
+    "text": "EXPOSURE FEAR",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Your brain scrambles to hide, feeling guilty for taking up space.",
+    "text": "GUILT OF BEING SEEN",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Instead of shrinking back, simply hold your posture.",
+    "text": "HOLD YOUR GROUND",
+    "color": "green",
+    "actor": "front"
+   },
+   {
+    "vo": "Take a beat, acknowledge the room, and let the applause finish.",
+    "text": "LET THEM CLAP",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "What if being seen is simply proof that your effort mattered?",
+    "text": "YOUR WORK MATTERS",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s431vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi Sao Cang Duoc Khen Cang Muon Tron?",
+  "title_vi": "Vì Sao Càng Được Khen Càng Muốn Trốn?",
+  "mechanism": "Spotlight Emotions",
+  "lines": [
+   {
+    "vo": "Được sếp gọi tên khen trước cả phòng, mặt bạn nóng bừng muốn trốn.",
+    "text": "MUỐN ĐỘN THỔ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Tiếng vỗ tay chúc mừng lại khiến bạn thấy như đang bị thẩm vấn.",
+    "text": "CĂNG THẲNG TỘT ĐỘ",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Khi bị chú ý, não dễ coi sự tán thưởng là mối đe dọa.",
+    "text": "CẢM XÚC TÂM ĐIỂM",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn co rúm người lại như thể vừa phạm phải một lỗi lầm lớn.",
+    "text": "SỢ GÂY CHÚ Ý",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Đừng vội nhìn xuống đất. Thả lỏng vai, thở ra một nhịp thật chậm.",
+    "text": "THỞ RA MỘT NHỊP",
+    "color": "green",
+    "actor": "front"
+   },
+   {
+    "vo": "Đợi trọn tràng vỗ tay rồi gật đầu cảm ơn. Đơn giản vậy thôi.",
+    "text": "BÌNH TĨNH ĐÓN NHẬN",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Được công nhận công sức thì có gì sai mà phải vội trốn?",
+    "text": "SAO PHẢI TRỐN?",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s432",
+  "mascot": "buff",
+  "title": "The Finish Line Trap",
+  "mechanism": "Moving The Bar",
+  "lines": [
+   {
+    "vo": "Six months of training, personal record hit, and you feel nothing but disappointment.",
+    "text": "DISAPPOINTED AGAIN",
+    "color": "red",
+    "actor": "jogging",
+    "prop": "target"
+   },
+   {
+    "vo": "Sure, buddy. Set a personal record and call it mediocre before lunch.",
+    "text": "MOVING GOALPOSTS",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "When baseline is perfection, every real victory feels like a quiet failure.",
+    "text": "PERFECTION TRAP",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Before you start the rep, define exactly what winning looks like.",
+    "text": "DEFINE DONE FIRST",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "target"
+   },
+   {
+    "vo": "When you cross that finish line, no tacking on five extra miles.",
+    "text": "STOP MOVING IT",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Log the numbers on the board, rack the bar, and let it count.",
+    "text": "LET THE SET COUNT",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Celebrate the milestone today, or stay miserable on an endless treadmill.",
+    "text": "TAKE THE WIN",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s432vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Khong Bao Gio Thay Du",
+  "title_vi": "Không Bao Giờ Thấy Đủ",
+  "mechanism": "Moving The Bar",
+  "lines": [
+   {
+    "vo": "Cày bục mặt đạt chỉ tiêu cả năm, bạn lại thở dài bảo chưa bõ bèn.",
+    "text": "VẪN THẤY CHƯA ĐỦ",
+    "color": "red",
+    "actor": "jogging",
+    "prop": "target"
+   },
+   {
+    "vo": "Ừ, tin đi. Lập kỷ lục cá nhân xong lại tự chê mình kém cỏi.",
+    "text": "TỰ CHÊ KÉM CỎI",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Coi hoàn hảo là mức sàn, thì thắng lợi nào cũng thành thất bại.",
+    "text": "TIÊU CHUẨN TRÊN TRỜI",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Trước khi bắt đầu, hãy chốt rõ mốc hoàn thành cụ thể là gì.",
+    "text": "CHỐT ĐÍCH TỪ ĐẦU",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "target"
+   },
+   {
+    "vo": "Chạm đúng mốc là dừng lại, đừng tự ý đẩy thêm việc vào người.",
+    "text": "ĐỪNG DỜI VẠCH ĐÍCH",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Ghi nhận kết quả, đặt tạ xuống và coi như hiệp này đã xong.",
+    "text": "HIỆP NÀY ĐÃ XONG",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Ăn mừng hiệp này ngay, hoặc cứ ấm ức cày cuốc cả đời.",
+    "text": "CHỌN ĂN MỪNG ĐI",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s433",
+  "mascot": "pen",
+  "title": "Healthy Pride Isn't Bragging",
+  "mechanism": "The Bragging Fear",
+  "lines": [
+   {
+    "vo": "Seeing people brag non-stop online makes you cringe in second-hand shame.",
+    "text": "ONLINE BRAGGING",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "So to avoid looking arrogant, you swing completely into self-denial.",
+    "text": "TOTAL SELF DENIAL",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Arrogance demands being better than others. Healthy pride just respects your own hours.",
+    "text": "PRIDE VS ARROGANCE",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "You can admire a well-built table without claiming you own the workshop.",
+    "text": "RESPECT THE CRAFT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Own your effort without ranking yourself against the people around you.",
+    "text": "OWN YOUR EFFORT",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Liking what you built is not showing off; it is quiet self-respect.",
+    "text": "QUIET SELF RESPECT",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s433vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "So Bi Coi La Khoe Me",
+  "title_vi": "Sợ Bị Coi Là Khoe Mẽ",
+  "mechanism": "The Bragging Fear",
+  "lines": [
+   {
+    "vo": "Lướt mạng thấy người ta khoe mẽ rầm rộ, bạn thấy ngột ngạt vô cùng.",
+    "text": "NGỘT NGẠT VÌ KHOE",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Sợ bị ghét giống họ, bạn chọn cách giấu tiệt mọi thành tích của mình.",
+    "text": "CHÔN GIẤU THÀNH TỰU",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Tự cao là coi mình hơn người. Tự hào chỉ là tôn trọng công sức.",
+    "text": "TỰ CAO VÀ TỰ HÀO",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn có thể tự hào về chiếc bàn mình đóng mà chẳng cần chê bàn người khác.",
+    "text": "TÔN TRỌNG TAY NGHỀ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Tập trung làm chủ tay nghề, không cần bận tâm chuyện xếp thứ mấy.",
+    "text": "KHÔNG CẦN SO ĐO",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Trân trọng thành quả của mình không phải là khoe mẽ, mà là tự trọng.",
+    "text": "TỰ TRỌNG BẢN THÂN",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ }
+]

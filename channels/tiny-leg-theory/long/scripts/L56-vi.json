@@ -1,0 +1,965 @@
+{
+ "id": "L56vi",
+ "lang": "vi",
+ "title": "Làm sao gây dựng lại lòng tin sau khi lỡ thất hứa?",
+ "description": "Khi bạn lỡ thất hứa về tiền bạc, thời gian hay trách nhiệm chung, lời nói suông không thể bù đắp được tổn thương. Cùng khám phá tám cơ chế tâm lý giúp bạn chủ động sửa chữa rạn nứt và gây dựng lại niềm tin vững chắc qua từng hành động nhỏ mỗi ngày.",
+ "chapters": [
+  {
+   "title": "Vết rạn niềm tin",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hứa về ăn cơm chung nhưng để mâm cơm nguội ngắt và người ta đợi mòn mỏi.",
+     "text": "VẾT RẠN NIỀM TIN",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Căn phòng lạnh tanh, mọi lời giải thích lúc này đều vô nghĩa.",
+     "text": "LẠNH TANH BĂNG GIÁ",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rõ rồi Pen ơi. Cậu vừa thả rơi quả tạ cả trăm cân thẳng vào lòng tin của người ta.",
+     "text": "LÀM RƠI TẠ NẶNG",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Liệu có hàn gắn nổi khi những lời hứa nhỏ cứ liên tục đổ vỡ?",
+     "text": "CÒN CỨU ĐƯỢC KHÔNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Được chứ, nhưng bạn không thể vượt qua bằng mấy câu xin lỗi suông.",
+     "text": "KHÔNG NÓI SUÔNG",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là tám cơ chế tâm lý giúp bạn vá vết rạn, từng hiệp một.",
+     "text": "TÁM CƠ CHẾ TÂM LÝ",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Quy ước ngầm",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi cứ nghĩ chuyển tiền phòng trọ trễ hai ngày cũng không sao.",
+     "text": "1. QUY ƯỚC NGẦM",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hai đứa đâu có giao kèo, sao người ta lại nổi giận?",
+     "text": "SAO LẠI NỔI GIẬN?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phạm vào quy ước ngầm rồi Pen ơi. Bản hợp đồng vô hình đó nặng hơn giấy tờ nhiều.",
+     "text": "QUY ƯỚC VÔ HÌNH",
+     "color": "red",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi không ngờ người ta lại ôm kỳ vọng chưa từng nói ra.",
+     "text": "KỲ VỌNG NGẦM",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bộ luôn tự đặt ngầm định an toàn để an tâm chia sẻ.",
+     "text": "CẦN SỰ AN TÂM",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trễ hẹn làm họ thấy sự an toàn của mình bị xem nhẹ.",
+     "text": "CẢM GIÁC BỊ BỎ RƠI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kỳ vọng không nói ra như nằm đẩy tạ mà không có người đỡ. Tạ đè sập ngực ngay khi đuối sức.",
+     "text": "KHÔNG NGƯỜI ĐỠ TẠ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi cứ đinh ninh người ta tin mình sẽ trả trước cuối tuần.",
+     "text": "TỰ ĐINH NINH",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự đoán chỉ tổ nặng đầu. Mập mờ luôn nuôi dưỡng bực bội rất nhanh.",
+     "text": "MẬP MỜ SINH BỰC",
+     "color": "red",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ im lặng không nói rõ ràng rốt cuộc chỉ làm hỏng việc.",
+     "text": "BẪY IM LẶNG",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tối nay ngồi lại, đặt một quy tắc rõ về hạn chót đóng tiền.",
+     "text": "MỘT QUY TẮC RÕ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chốt một ngày cụ thể để cả hai không phải đoán già đoán non.",
+     "text": "CHỐT NGÀY CỤ THỂ",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quy tắc rõ giúp chặn rắc rối, nhưng bạn vẫn phải vá vết rạn cũ.",
+     "text": "CHỦ ĐỘNG HÀN GẮN",
+     "color": "gold",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "2. Chủ động mở lời",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi pha ly cà phê, cười xòa mong không khí bớt căng.",
+     "text": "2. CHỦ ĐỘNG MỞ LỜI",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng sự im lặng càng nặng nề, như bức tường ngăn cách hai đứa.",
+     "text": "BỨC TƯỜNG IM LẶNG",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sai bài rồi. Chờ thời gian xóa nhòa chẳng khác nào đứng gánh tạ chờ hết mỏi.",
+     "text": "THỜI GIAN KHÔNG CỨU",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người ta vẫn bảo thời gian sẽ chữa lành mọi thứ mà.",
+     "text": "THỜI GIAN CHỮA LÀNH?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không đâu. Lời hứa bị bỏ mặc sẽ hú còi báo động liên tục.",
+     "text": "CÒI BÁO ĐỘNG INH ỎI",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lờ đi chỉ làm người ta luôn bật chế độ đề phòng lần thất hứa tiếp theo.",
+     "text": "NƠM NỚP LO SỢ",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chủ động hàn gắn là bước lên sàn tập trước, đừng ngồi chờ người ta nguôi.",
+     "text": "BƯỚC LÊN SÀN TẬP",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi im lặng vì sợ gợi lại chuyện sẽ bùng nổ cãi vã.",
+     "text": "SỢ BÙNG NỔ TRANH CÃI",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Né tránh chỉ làm sự ấm ức dồn lên như tạ thêm đĩa.",
+     "text": "ẤM ỨC DỒN THÊM TẠ",
+     "color": "red",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đợi người ta gặng hỏi thì mình lại thành kẻ hèn nhát.",
+     "text": "ĐỢI NGƯỜI TA HỎI",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dành mười phút nói thẳng trong ngày để gỡ bỏ khúc mắc.",
+     "text": "MƯỜI PHÚT NÓI THẲNG",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự phá vỡ im lặng trước khi người ta phải tra hỏi.",
+     "text": "LÊN TIẾNG TRƯỚC",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mở lời là một chuyện, cách xin lỗi mới quyết định tất cả.",
+     "text": "CÁCH BẠN XIN LỖI",
+     "color": "gold",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "3. Lời xin lỗi chuẩn",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi xin lỗi ngay, nhưng đối phương chỉ khoanh tay quay đi.",
+     "text": "3. LỜI XIN LỖI CHUẨN",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao nhiều khi càng xin lỗi thì người ta lại càng bực?",
+     "text": "CÀNG XIN CÀNG TỨC?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì lời xin lỗi đó bằng không. Nói cho xong chỉ là né tránh.",
+     "text": "NÉ TRÁNH TRÁCH NHIỆM",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi chỉ muốn thanh minh là do kẹt xe với sếp dí việc gấp.",
+     "text": "LÝ DO KẸT XE",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Càng viện lý do càng làm loãng trách nhiệm, như bột tăng cơ pha loãng toẹt.",
+     "text": "LÀM LOÃNG TRÁCH NHIỆM",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ nghe giải thích như lời ngụy biện ích kỷ thay vì nhận lỗi.",
+     "text": "NGHE NHƯ BIỆN MINH",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xin lỗi đúng bài là nhận trọn hậu quả, không phải kể lể.",
+     "text": "NHẬN HẾT HẬU QUẢ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi cứ ngỡ giải thích để họ hiểu mình không hề có ý xấu.",
+     "text": "Ý TỐT LÀ CHƯA ĐỦ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người ta bực vì sinh hoạt bị đảo lộn. Ý tốt không dọn được bừa bộn.",
+     "text": "HẬU QUẢ LÀ THẬT",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là tôi phải thấu hiểu sự bực bội của họ trước.",
+     "text": "THẤU HIỂU CƠN GIẬN",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhận rõ lỗi làm lỡ dở việc của họ. Xin lỗi dứt khoát không ngụy biện.",
+     "text": "XIN LỖI DỨT KHOÁT",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ rõ lỗi sai, nhận sự phiền toái đã gây ra, rồi lắng nghe.",
+     "text": "IM LẶNG LẮNG NGHE",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xin lỗi đàng hoàng giúp hạ nhiệt, nhưng thiếu bù đắp thì nợ vẫn còn.",
+     "text": "PHẢI CÓ BÙ ĐẮP",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "coin_stack"
+    }
+   ]
+  },
+  {
+   "title": "4. Bù đắp sòng phẳng",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi lỡ rút quỹ tiết kiệm chung ra vung tay quá trán rồi hứa bù sau.",
+     "text": "4. BÙ ĐẮP SÒNG PHẲNG",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù đã xin lỗi, người ta vẫn lo âu kiểm tra tài khoản liên tục.",
+     "text": "VẪN MÃI BẤT AN",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lo là phải. Làm thâm hụt tiền mà không bù lại thì chẳng khác nào làm rơi tạ gãy sàn rồi bỏ đi.",
+     "text": "LÀM RƠI TẠ GÃY SÀN",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bồi thường nghe sặc mùi biên bản tòa án chứ đâu giống tình yêu.",
+     "text": "BỒI THƯỜNG TÒA ÁN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bù đắp là cân bằng cán cân. Làm hụt tiền hay mất giờ thì phải trả.",
+     "text": "CÂN BẰNG CÁN CÂN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người ta cần sự sòng phẳng rõ ràng, không phải lời hứa suông.",
+     "text": "CẦN SỰ CÔNG BẰNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xin lỗi suông bắt người ta gánh chi phí cho quyết định bốc đồng của bạn.",
+     "text": "GÁNH NẶNG BẤT CÔNG",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Để họ tự xoay khoản thiếu hụt sẽ biến thành ấm ức ngấm ngầm.",
+     "text": "ẤM ỨC NGẤM NGẦM",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Bù đắp sòng phẳng giúp đóng lại sổ nợ trong đầu họ.",
+     "text": "ĐÓNG CUỐN SỔ NỢ",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi cần bù đắp sòng phẳng trước khi mong lấy lại lòng tin.",
+     "text": "BÙ ĐẮP ĐẦY ĐỦ",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuyển khoản trả lại ngay, và tự lo khoản chi tiêu chung sắp tới.",
+     "text": "HOÀN TIỀN NGAY",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự chịu phần thiệt để người ta không phải gánh hậu quả thay bạn.",
+     "text": "TỰ CHỊU THIỆT THÒI",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trả nợ xong mới chỉ là cất tạ về giá. Người ta vẫn ngó xem bạn có nâng nổi hiệp sau không.",
+     "text": "CẤT TẠ VỀ GIÁ",
+     "color": "gold",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "5. Lòng tin năng lực",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi hứa ráp xong cái kệ sách và đóng tiền điện nước trước thứ bảy.",
+     "text": "5. LÒNG TIN NĂNG LỰC",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đến trưa chủ nhật, ốc vít vẫn vương vãi còn kệ thì chưa xong.",
+     "text": "BỪA BỘN NGUYÊN VẸN",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ý định hay nhưng sức nâng bằng không. Khâu thực hiện kém phá sạch lòng tin.",
+     "text": "NĂNG LỰC BẰNG KHÔNG",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người ta nhìn tôi như thể tôi cố tình nói dối.",
+     "text": "CỐ TÌNH NÓI DỐI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Họ biết bạn có lòng, nhưng khả năng hành động không gánh nổi mức tạ đó.",
+     "text": "KHÔNG GÁNH NỔI TẠ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Yêu thương không có nghĩa là người ta tự khắc tin vào tay nghề của mình.",
+     "text": "YÊU KHÁC VỚI TIN",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người ta tin vào tay nghề làm được việc, chứ không ai tin mấy lời hứa suông.",
+     "text": "HÀNH ĐỘNG HƠN LỜI",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bỏ dở việc làm đối phương thấy mình như quản lý bất đắc dĩ.",
+     "text": "QUẢN LÝ BẤT ĐẮC DĨ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ dở việc biến người yêu thành bảo mẫu, bóp chết sự tôn trọng dành cho bạn.",
+     "text": "BIẾN THÀNH BẢO MẪU",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi có hẹn giờ điện thoại, nhưng toàn bấm hoãn rồi quên béng.",
+     "text": "BẤM HOÃN BÁO THỨC",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn một việc nhà mỗi ngày, làm xong sớm nửa tiếng rồi âm thầm hoàn thành.",
+     "text": "LÀM XONG SỚM HƠN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lặp lại ba ngày liên tiếp mà không cần ai nhắc hay khen ngợi.",
+     "text": "BA NGÀY TỰ GIÁC",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Làm được việc là tốt, nhưng bạn còn cần trung thực khi kế hoạch đổ bể.",
+     "text": "TRUNG THỰC TUYỆT ĐỐI",
+     "color": "gold",
+     "actor": "jogging"
+    }
+   ]
+  },
+  {
+   "title": "6. Sự chính trực",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Biết không kịp ghé mua đồ trước năm giờ, tôi liền tắt chuông điện thoại rồi lặn mất tăm.",
+     "text": "6. SỰ CHÍNH TRỰC",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi định bịa lý do họp gấp để không mang tiếng vô trách nhiệm.",
+     "text": "BỊA LÝ DO HỌP GẤP",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dẹp trò bịa đặt đi. Dựng cớ bao biện chẳng khác nào lắp tạ xốp để làm màu.",
+     "text": "LẮP TẠ XỐP LÀM MÀU",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói dối nhỏ đỡ tệ hơn việc thú nhận mình ngồi lướt mạng cả tiếng.",
+     "text": "NÓI DỐI VÔ HẠI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trễ hẹn chỉ làm họ bực, nhưng bị bắt quả tang nói dối sẽ làm mất sạch lòng tin.",
+     "text": "NGHI NGỜ TẤT CẢ",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ sẽ không còn biết đâu là thật và đâu là che đậy nữa.",
+     "text": "ĐÂU LÀ SỰ THẬT?",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính trực đòi hỏi lời nói và hành động sau lưng phải khớp nhau hoàn toàn.",
+     "text": "KHỚP NHAU HOÀN TOÀN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giấu giếm trễ hẹn chỉ là bảo vệ cái tôi trên sự bất an của họ.",
+     "text": "BẢO VỆ CÁI TÔI",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính trực vỡ vụn ngay khi bạn đặt sĩ diện lên trên sự trung thực.",
+     "text": "ĐỪNG GIỮ HÌNH TƯỢNG",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi toàn có tật đợi đến phút chót mới chịu báo tin.",
+     "text": "CHỜ ĐẾN PHÚT CHÓT",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Báo ngay khi biết mình trễ. Báo đúng số phút và giờ chính xác sẽ đến.",
+     "text": "BÁO TRƯỚC TỪ SỚM",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng để người ta tự phát hiện bạn trễ hẹn. Hãy chủ động báo tin từ sớm.",
+     "text": "TỰ BÁO TIN XẤU",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trung thực giữ chính trực, nhưng bạn còn phải thật tâm lo cho đối phương.",
+     "text": "THẬT TÂM NGHĨ CHO HỌ",
+     "color": "gold",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "7. Thiện chí từ tâm",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần cuống cuồng sửa sai, tôi chỉ muốn người ta bớt cằn nhằn cho yên.",
+     "text": "7. THIỆN CHÍ TỪ TÂM",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người ta bảo tôi chỉ đang làm cho xong chuyện để mua lấy bình yên.",
+     "text": "MUA SỰ BÌNH YÊN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì bạn chỉ đang trốn đau cơ thôi. Sửa sai kiểu đối phó thì chẳng lên cơ mà uy tín còn tụt dốc.",
+     "text": "TRỐN ĐAU KHÔNG LÊN CƠ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi cứ nghĩ thiện chí là mình không có ác ý gì xấu xa.",
+     "text": "KHÔNG ÁC Ý LÀ ĐỦ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiện chí là họ thấy bạn thật lòng lo cho họ, chứ không phải làm màu để đỡ phiền thân.",
+     "text": "LO CHO ĐỐI PHƯƠNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vội dập tắt căng thẳng chỉ chứng minh tôi coi trọng sự thoải mái của mình.",
+     "text": "CHỈ NGHĨ CHO MÌNH",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chữa cháy ích kỷ rất dễ lộ, chỉ khiến đối phương thấy cô độc trong mối quan hệ.",
+     "text": "CẢM GIÁC CÔ ĐỘC",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Xin lỗi vội vã giống như ép người ta phải mau bỏ qua.",
+     "text": "ÉP PHẢI BỎ QUA",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ép họ nguôi giận là bạn coi nhẹ tổn thương của họ hơn sự dễ chịu của mình.",
+     "text": "COI NHẸ TỔN THƯƠNG",
+     "color": "red",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi cần quan tâm thật lòng mà không biến thành cuộc đổi chác vụ lợi.",
+     "text": "KHÔNG ĐỔI CHÁC",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tìm việc đang làm họ đau đầu rồi tự giác xử lý, không nhắc lại lỗi cũ.",
+     "text": "ÂM THẦM GIÚP ĐỠ",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỗ trợ vô điều kiện, dẹp cái tôi sang bên và đừng mong đợi khen ngợi.",
+     "text": "KHÔNG ĐÒI KHEN NGỢI",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thật tâm là chìa khóa, nhưng thiện chí sẽ tan biến nếu thiếu hành động đều đặn.",
+     "text": "HÀNH ĐỘNG ĐỀU ĐẶN",
+     "color": "gold",
+     "actor": "jogging",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "8. Tín hiệu bền bỉ",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi về đúng giờ bốn ngày liền, nhưng người ta vẫn bật định vị xem chừng.",
+     "text": "8. TÍN HIỆU BỀN BỈ",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi thấy ấm ức vì bốn ngày cố gắng không xóa nổi một lần trễ hẹn.",
+     "text": "ẤM ỨC VÌ BỊ NGHI",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chưa ăn thua đâu Pen. Mấy cái nhấp khởi động đâu chứng minh cậu gánh nổi mức tạ chính.",
+     "text": "MỚI LÀ KHỞI ĐỘNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Phá vỡ lòng tin chỉ mất năm giây, mà hàn gắn lại mất cả tháng trời.",
+     "text": "HÀN GẮN TỐN THỜI GIAN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người ta cần thấy hàng chục hành động nhất quán thì lớp phòng thủ mới chịu hạ xuống.",
+     "text": "CẦN NHIỀU BẰNG CHỨNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vài ngày làm tốt chỉ như ngoại lệ tạm thời chứ chưa phải thay đổi thật sự.",
+     "text": "NGOẠI LỆ TẠM THỜI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Diễn vài ngày thì dễ. Đáng tin cậy là chuỗi ngày bền bỉ và tẻ nhạt qua từng tháng.",
+     "text": "BỀN BỈ QUA NGÀY THÁNG",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đòi người ta vỗ tay sau bốn ngày nỗ lực chỉ là sự nóng vội của cái tôi.",
+     "text": "ĐỪNG NÓNG VỘI",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xây lòng tin là phải kiên trì tích từng buổi tập chuẩn chỉ, đến khi họ hết cớ để nghi ngờ.",
+     "text": "TÍCH TỪNG BUỔI TẬP",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi cần kiên trì với những việc nhỏ đều đặn thay vì hứa hẹn to tát.",
+     "text": "THÓI QUEN NHỎ BỀN BỈ",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn hai việc nhỏ mỗi ngày, như nhắn tin trước khi về và tự giác làm việc nhà.",
+     "text": "HAI VIỆC NHỎ MỖI NGÀY",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tích lũy từng kết quả thầm lặng đó, đừng đòi vỗ tay cho điều cơ bản.",
+     "text": "TÍCH LŨY TỪNG NGÀY",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi hành động bền bỉ thay thế lời phân bua, nền tảng gắn kết sẽ tự khắc vững vàng.",
+     "text": "NỀN TẢNG VỮNG CHẮC",
+     "color": "gold",
+     "actor": "celebrate"
+    }
+   ]
+  },
+  {
+   "title": "Kế hoạch hàn gắn",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Gây dựng lại lòng tin nghe thật choáng ngợp khi có tới tám cơ chế.",
+     "text": "KẾ HOẠCH HÀN GẮN",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng rối Pen ơi. Gom toàn bộ giáo án này lại thành ba nguyên tắc rõ ràng.",
+     "text": "BA NGUYÊN TẮC RÕ",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thứ nhất, làm rõ quy ước ngầm, chủ động mở lời ngay và xin lỗi không ngụy biện.",
+     "text": "1. LÀM RÕ VÀ NHẬN LỖI",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thứ hai, bù đắp sòng phẳng thiệt hại, và chỉ nhận những việc mình chắc chắn làm được.",
+     "text": "2. BÙ ĐẮP SÒNG PHẲNG",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thứ ba, báo trước khi trễ hẹn, thật tâm vì họ, và kiên trì lặp lại từng việc nhỏ.",
+     "text": "3. BỀN BỈ TÍCH LŨY",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hôm nay một người nên bắt đầu bằng bước đi đầu tiên nào?",
+     "text": "BẮT ĐẦU TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Làm thử thách bảy ngày đi. Báo trước giờ về và tự giác dọn nhà xong sớm nửa tiếng.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "gold",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bảy ngày kiên trì bằng hành động có sức nặng hơn ngàn lời hứa hẹn sướt mướt.",
+     "text": "HÀNH ĐỘNG HƠN LỜI HỨA",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký kênh, và tiếp tục nâng tạ mỗi tuần để giữ các mối quan hệ luôn bền chắc.",
+     "text": "NÂNG TẠ MỖI TUẦN",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  }
+ ]
+}

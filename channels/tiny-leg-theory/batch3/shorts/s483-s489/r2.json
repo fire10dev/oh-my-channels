@@ -1,0 +1,706 @@
+[
+ {
+  "id": "s483",
+  "mascot": "pen",
+  "title": "Why Day One Motivation Vanishes",
+  "mechanism": "The Novelty High",
+  "lines": [
+   {
+    "vo": "On day one, opening a new language app felt like a movie montage.",
+    "text": "DAY ONE ENERGY",
+    "color": "red",
+    "actor": "sprint_start",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Thirty new words before breakfast felt completely effortless.",
+    "text": "EASY START",
+    "actor": "celebrate",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "That rush was not discipline. Just a temporary spike from a fresh stimulus.",
+    "text": "NOVELTY SPIKE",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "By week two, the novelty expires, leaving only the dry grind.",
+    "text": "THE DROP",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Open your lesson tab tonight so tomorrow requires zero friction.",
+    "text": "PREPARE TONIGHT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "The habit only starts when the shiny feeling fades.",
+    "text": "AFTER THE HYPE",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "calendar_today"
+   }
+  ]
+ },
+ {
+  "id": "s483vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Khi cam giac moi la bien mat",
+  "title_vi": "Khi cảm giác mới lạ biến mất",
+  "mechanism": "The Novelty High",
+  "lines": [
+   {
+    "vo": "Ngày đầu mua khoá học, bạn cày từ vựng tới nửa đêm.",
+    "text": "HỨNG KHỞI BAN ĐẦU",
+    "color": "red",
+    "actor": "sprint_start",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Cảm giác phấn khích đó không phải là kỷ luật thép đâu.",
+    "text": "CHƯA PHẢI KỶ LUẬT",
+    "actor": "confused_shrug",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Não chỉ đang hưng phấn vì cái mới, nên thấy việc gì cũng nhẹ tênh.",
+    "text": "HƯNG PHẤN VÌ CÁI MỚI",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Qua tuần thứ hai, hết cảm giác lạ, bài học bỗng nặng trịch.",
+    "text": "HẾT CẢM GIÁC LẠ",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Hãy mở sẵn bài học tối nay để sáng mai không cần đắn đo.",
+    "text": "MỞ SẴN BÀI HỌC",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Khi cơn say ban đầu qua đi, thói quen thật sự mới bắt đầu.",
+    "text": "THÓI QUEN BỀN BỈ",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "calendar_today"
+   }
+  ]
+ },
+ {
+  "id": "s484",
+  "mascot": "buff",
+  "title": "Why New Habits Lose Their Flavor",
+  "mechanism": "The New Normal",
+  "lines": [
+   {
+    "vo": "Cooking every meal at home for a total life reset? Sure, buddy.",
+    "text": "COOKING REVOLUTION",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Week one felt amazing. Week three feels like endless dirty dishes.",
+    "text": "REALITY HITS",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "That is hedonic adaptation. Your nervous system resets to neutral fast.",
+    "text": "HEDONIC RESET",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Stop waiting for emotional fireworks. Log each dinner as a completed set.",
+    "text": "LOG YOUR SET",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Treat it like heavy reps. Wash the pan and move on.",
+    "text": "WASH AND MOVE ON",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s484vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Het hung nau com mang di lam",
+  "title_vi": "Hết hứng nấu cơm mang đi làm",
+  "mechanism": "The New Normal",
+  "lines": [
+   {
+    "vo": "Tự nấu cơm mang đi làm để tiết kiệm? Ừ, tin.",
+    "text": "QUYẾT TÂM MANG CƠM",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Tuần đầu chụp ảnh khoe hộp cơm. Tuần ba ngán ngẩm nhìn chảo mỡ.",
+    "text": "NGẬP TRONG CHẢO MỠ",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Não quen rất nhanh. Thứ từng làm bạn tự hào giờ thành bình thường.",
+    "text": "THÍCH NGHI QUÁ NHANH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Đừng đợi hứng. Nấu xong một bữa, gạch một ô như xong một hiệp.",
+    "text": "GẠCH TỪNG BỮA ĂN",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Xem như nâng xong một mức tạ. Rửa chảo xong là xong.",
+    "text": "RỬA BÁT VÀ ĐI NGỦ",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s485",
+  "mascot": "pen",
+  "title": "How Digital Streaks Ruin Reading",
+  "mechanism": "Outside Pressure",
+  "lines": [
+   {
+    "vo": "Reading quiet books before bed used to be my peaceful sanctuary.",
+    "text": "QUIET SANCTUARY",
+    "actor": "reading",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Then I turned on daily streaks and progress bars.",
+    "text": "DIGITAL STREAKS",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Missing one night suddenly felt like failing a job review.",
+    "text": "PERFORMANCE FEAR",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "External scoreboards crowd out internal curiosity, turning play into unpaid work.",
+    "text": "CROWDING OUT",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Strip away the counters tonight. Read ten pages with zero apps open.",
+    "text": "READ JUST FOR YOU",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "When did relaxing become another deadline to meet?",
+    "text": "WHY TURN IT TO WORK?",
+    "color": "gold",
+    "actor": "think",
+    "prop": "alarm_clock"
+   }
+  ]
+ },
+ {
+  "id": "s485vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Dung bien so thich thanh ganh nang",
+  "title_vi": "Đừng biến sở thích thành gánh nặng",
+  "mechanism": "Outside Pressure",
+  "lines": [
+   {
+    "vo": "Tập đọc sách trước khi ngủ từng là khoảng lặng rất êm đềm.",
+    "text": "KHOẢNG LẶNG ĐÊM",
+    "actor": "reading",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Rồi bạn bật tính năng giữ chuỗi đọc mỗi ngày trên ứng dụng.",
+    "text": "ĐIỂM DANH HÀNG NGÀY",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Lỡ một hôm, cảm giác tội lỗi như vừa trễ hạn giao việc.",
+    "text": "SỢ ĐỨT CHUỖI",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Khi gắn bảng điểm lên sở thích, niềm vui bị biến thành nghĩa vụ.",
+    "text": "BIẾN THÀNH NGHĨA VỤ",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tắt hết chuỗi ngày đi. Đêm nay chỉ đọc mười trang sách giấy trong yên tĩnh.",
+    "text": "ĐỌC CHO CHÍNH MÌNH",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Từ khi nào việc nghỉ ngơi lại biến thành một bài kiểm tra?",
+    "text": "SAO PHẢI KIỂM TRA?",
+    "color": "gold",
+    "actor": "think",
+    "prop": "alarm_clock"
+   }
+  ]
+ },
+ {
+  "id": "s486",
+  "mascot": "buff",
+  "title": "When To Lower The Weight",
+  "mechanism": "The Value Gap",
+  "lines": [
+   {
+    "vo": "Learning to code at night after eight hours of work? Big ambition.",
+    "text": "NIGHT CODING",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Week one felt legendary. Week three, you hit bugs and surrender.",
+    "text": "HIT THE WALL",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Expectancy-value theory. When success feels impossible, your brain instinctively cuts the power.",
+    "text": "VALUE COLLAPSE",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Drop the heavy weights. Write just three lines of clean code tonight.",
+    "text": "THREE LINES ONLY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Keep the win guaranteed so your brain stops pulling the emergency brake.",
+    "text": "GUARANTEE THE WIN",
+    "color": "green",
+    "actor": "front",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Shrink the rep or stay stuck on the couch. Your call.",
+    "text": "SHRINK OR QUIT",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s486vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Gap bai kho la muon bo cuoc",
+  "title_vi": "Gặp bài khó là muốn bỏ cuộc",
+  "mechanism": "The Value Gap",
+  "lines": [
+   {
+    "vo": "Cày xong tám tiếng ở chỗ làm, tối về lại bật máy tự học viết code. Khí thế đấy.",
+    "text": "HỌC CODE BAN ĐÊM",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Mới tuần ba, dính lỗi sửa mãi không xong, bạn ngả ra lướt mạng.",
+    "text": "BỊ TẮC VÀ NẢN",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Khi thấy cơ hội thành công bằng không, não lập tức ngắt cầu dao.",
+    "text": "NGẮT CẦU DAO",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hạ tạ xuống. Tối nay chỉ gõ đúng ba dòng lệnh đơn giản thôi.",
+    "text": "BA DÒNG LỆNH",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Đảm bảo cầm chắc phần thắng để não không còn đường viện cớ.",
+    "text": "CẦM CHẮC CHIẾN THẮNG",
+    "color": "green",
+    "actor": "front",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Hạ nhẹ mức tạ để đi tiếp, hoặc ôm gối bỏ cuộc. Chọn đi.",
+    "text": "HẠ TẠ HAY BỎ CUỘC",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s487",
+  "mascot": "pen",
+  "title": "How To Make Boring Chores Bearable",
+  "mechanism": "Sweeten The Rep",
+  "lines": [
+   {
+    "vo": "Sitting down to balance the weekly grocery budget felt like absolute torture.",
+    "text": "WEEKLY BUDGET PAIN",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Financial security matters, but raw spreadsheets crush your spirits fast.",
+    "text": "SPREADSHEET DREAD",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Distant retirement accounts mean nothing to ancient dopamine circuits.",
+    "text": "DISTANT HORIZON",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "That is reward substitution: pairing dry chores with instant sensory treats.",
+    "text": "REWARD BUNDLE",
+    "color": "green",
+    "actor": "snack",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Only drink your favorite cinnamon roast while reviewing bank statements.",
+    "text": "COFFEE AND BILLS",
+    "color": "green",
+    "actor": "coffee",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "The treat pays today's fee while discipline builds tomorrow's wealth.",
+    "text": "PAY TODAY FIRST",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "A treat bridges the gap, but it cannot save a goal that was never yours.",
+    "text": "NOT YOUR GOAL",
+    "color": "gold",
+    "actor": "think",
+    "prop": "hourglass"
+   }
+  ]
+ },
+ {
+  "id": "s487vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Meo ngoi vao ban cong so chi tieu",
+  "title_vi": "Mẹo ngồi vào bàn cộng sổ chi tiêu",
+  "mechanism": "Sweeten The Rep",
+  "lines": [
+   {
+    "vo": "Mở sao kê nhìn tiền trà sữa với đồ mua trên mạng mà toát mồ hôi.",
+    "text": "ÁC MỘNG SAO KÊ",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Ví tiền hao hụt, nhìn bảng số liệu khô khốc chỉ muốn trốn tránh.",
+    "text": "SỐ LIỆU KHÔ KHỐC",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Mục tiêu tiết kiệm mười năm nữa quá xa vời với não bộ.",
+    "text": "MỤC TIÊU XA XÔI",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hãy ghép việc chán ngắt này với một niềm vui có ngay.",
+    "text": "GHÉP MÓN YÊU THÍCH",
+    "color": "green",
+    "actor": "snack",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Chỉ cho phép uống ly cà phê yêu thích đúng lúc ngồi cộng sổ.",
+    "text": "CÀ PHÊ VÀ TÍNH TIỀN",
+    "color": "green",
+    "actor": "coffee",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Phần thưởng nhỏ trước mắt sẽ kéo bạn qua cơn uể oải.",
+    "text": "THƯỞNG NGAY CHO MÌNH",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Phần thưởng chỉ gánh được đường ngắn, không cứu nổi mục tiêu đi mượn.",
+    "text": "MỤC TIÊU VAY MƯỢN",
+    "color": "gold",
+    "actor": "think",
+    "prop": "hourglass"
+   }
+  ]
+ },
+ {
+  "id": "s488",
+  "mascot": "buff",
+  "title": "Stop Waking Up At Five AM",
+  "mechanism": "Stolen Goals",
+  "lines": [
+   {
+    "vo": "Forcing yourself awake at five sharp because a podcast told you to? Sure, buddy.",
+    "text": "FIVE AM TRAP",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "By two in the afternoon, your brain runs on empty fumes.",
+    "text": "RUNNING ON FUMES",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Forced compliance burns mental stamina much faster than chosen action.",
+    "text": "FORCED RESISTANCE",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "If dawn alarms wreck you, do heavy work at eight tonight.",
+    "text": "SET YOUR TIMING",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Drop stolen dogma. Build routines around your own biological clock.",
+    "text": "OWN YOUR CLOCK",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s488vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Day som khong phai cho tat ca",
+  "title_vi": "Dậy sớm không phải cho tất cả",
+  "mechanism": "Stolen Goals",
+  "lines": [
+   {
+    "vo": "Bật dậy lúc năm giờ sáng chỉ vì xem mấy clip truyền cảm hứng? Ừ, tin.",
+    "text": "DẬY TỪ NĂM GIỜ",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Đến đầu giờ chiều, đầu óc lờ đờ, ngáp ngắn ngáp dài bên bàn làm việc.",
+    "text": "CHIỀU VỀ VẬT VỜ",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Ép mình theo luật của người khác chỉ làm bạn kiệt sức nhanh hơn.",
+    "text": "LUẬT ĐI MƯỢN",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nếu không hợp buổi sáng, dồn việc tập trung vào tám giờ tối.",
+    "text": "CHỌN GIỜ PHÙ HỢP",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Bỏ mục tiêu vay mượn đi. Kỷ luật trên đồng hồ của chính bạn.",
+    "text": "ĐỒNG HỒ CỦA BẠN",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s489",
+  "mascot": "pen",
+  "title": "The Courage To Drop Dead Weight",
+  "mechanism": "Drop The Baggage",
+  "lines": [
+   {
+    "vo": "My biggest mistake was committing to three hours of study every night.",
+    "text": "THREE-HOUR GOAL",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "After eight hours at work, three more felt like pure torment.",
+    "text": "EVENING TORMENT",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Clinging to an impossible quota only breeds chronic stress and guilt.",
+    "text": "STUBBORN GUILT",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "There is a massive difference between mindless quitting and smart goal disengagement.",
+    "text": "SMART DISENGAGEMENT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Write down the broken plan and cross it out on paper.",
+    "text": "CROSS IT OUT",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Close the old contract without guilt, then reclaim thirty realistic minutes.",
+    "text": "THIRTY MINUTES",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "What impossible promise are you still punishing yourself for?",
+    "text": "DROP THE BAGGAGE",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s489vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Khi muc tieu tro thanh ganh nang",
+  "title_vi": "Khi mục tiêu trở thành gánh nặng",
+  "mechanism": "Drop The Baggage",
+  "lines": [
+   {
+    "vo": "Sai lầm lớn nhất là tự bắt mình học thêm ba tiếng mỗi tối.",
+    "text": "BA TIẾNG MỖI TỐI",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Làm tám tiếng ở công ty về, nhìn sách vở chỉ thấy sợ hãi.",
+    "text": "KIỆT SỨC SAU GIỜ LÀM",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Cố bám lấy mục tiêu bất khả thi chỉ gieo thêm dằn vặt.",
+    "text": "DẰN VẶT BẢN THÂN",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Biết buông bỏ đúng lúc không phải là hèn nhát hay bỏ cuộc.",
+    "text": "BUÔNG ĐÚNG LÚC",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Viết kế hoạch cũ ra giấy rồi gạch bỏ một cách thanh thản.",
+    "text": "GẠCH BỎ BẢN CŨ",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Khép lại mục tiêu cũ không hối tiếc. Tối nay rút xuống đúng ba mươi phút thôi.",
+    "text": "RÚT CÒN NỬA TIẾNG",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Bạn đang tự trừng phạt mình vì một lời hứa quá sức nào?",
+    "text": "BUÔNG GÁNH NẶNG",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "target"
+   }
+  ]
+ }
+]

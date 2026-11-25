@@ -1,0 +1,26 @@
+v2 sửa theo agy (`debate/08-scripts/p29-agy.md`):
+- Âm thanh: TTS không hát được chèo. Bà Mõ đọc vè, ngâm có vần qua loa méo. Phần "hát" dùng một đoạn chèo cổ không lời, thu sẵn hoặc lấy nguồn công cộng, cắt ngắn.
+- Ma Nó giải thích danh xưng: mõ làng vốn là đàn ông, bà là vợ ông Mõ, chồng ốm nên cầm mõ thay, rồi giữ nghề luôn. Phong bì đổi thành túi quà.
+- Thêm phản ứng của khách: tưởng loa chập, bắt nhầm đài radio cũ.
+@@
+| K06/cận-Dương cười, nhét phong bì vào túi áo trưởng thôn | **DUONG**: Kinh doanh hợp pháp mà bác. Bác cầm uống nước. Tháng sau cháu lắp thêm cái loa nữa. | |
+%%
+| K06/cận-Dương cười, dúi túi quà vào tay trưởng thôn | **DUONG**: Kinh doanh hợp pháp mà bác. Bác cầm gói chè uống cho vui. Tháng sau cháu lắp thêm cái loa nữa. | |
+@@
+| S26/cận | **MN**: Làng này có bà Mõ. Đanh đá nhất vùng. Hát chèo hay nhất vùng. Mất từ thời bao cấp. Nhưng thói quen rao giờ ngủ thì… chưa mất. | chữ "CANH HAI ĐÓNG CỔNG" |
+%%
+| S26/cận | **MN**: Mõ làng xưa là việc của đàn ông. Làng này thì ông Mõ ốm, bà vợ cầm mõ đi rao thay. Rao hay quá, làng bắt giữ nghề luôn. Đanh đá nhất vùng. Hát chèo hay nhất vùng. Mất từ thời bao cấp. Nhưng thói quen rao giờ ngủ thì… chưa mất. | chữ "CANH HAI ĐÓNG CỔNG" |
+@@
+| K09/cận | **MO** *(hát, giọng vang)*: Trống cơm khéo vỗ nên vông… | chèo không lời + giọng hát |
+| K09/cận-cả phòng nhìn nhau | **MN**: Phòng số năm hát nhạc rap. Loa ra hát ru. Phòng số tám hát bolero. Loa ra chèo cổ. | đoạn cắt nhanh ×3 |
+%%
+| K09/cận | **MO** *(ngâm qua loa méo)*: Ới làng ơi, canh hai rồi đấy. Ai hát thì hát, đừng hát lúc người ta ngủ… | đoạn chèo cổ không lời (thu sẵn) + loa méo |
+| K09/cận-cả phòng nhìn nhau | **MN**: Phòng số năm hát nhạc rap. Loa ra hát ru. Phòng số tám hát bolero. Loa ra chèo cổ. Cả quán tưởng loa chập, bắt nhầm đài radio cũ. | đoạn cắt nhanh ×3 |
+@@
+| MO | Bà Mõ: áo nâu, khăn vấn, cầm cái mõ tre và dùi, đanh đá, giọng vang, hát chèo | vẽ mới | Ngọc Huyền, cao −2 (giọng hát: thu riêng làn điệu dân gian nếu TTS không hát được, hoặc dùng nhạc nền chèo không lời + ngâm) | `aecho=0.8:0.6:60:0.3` |
+%%
+| MO | Bà Mõ: áo nâu, khăn vấn, cầm cái mõ tre và dùi, đanh đá, giọng vang | vẽ mới | Ngọc Huyền, cao −2. TTS chỉ đọc vè, ngâm có vần. Đoạn "hát" dùng chèo cổ không lời, thu sẵn hoặc nguồn công cộng | `aecho=0.8:0.6:60:0.3` + loa méo |
+@@
+| SH2 | Kinh doanh hợp pháp mà bác | K06 phong bì | Trưởng thôn nhắc → lắp thêm loa | **MN**: "Lắp thêm thật." |
+%%
+| SH2 | Kinh doanh hợp pháp mà bác | K06 túi quà | Trưởng thôn nhắc → lắp thêm loa | **MN**: "Lắp thêm thật." |

@@ -1,0 +1,13 @@
+{"id":"w009","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#f59e0b","cover_frame":60,"rivers":true,
+ "source":"Population distribution: CIA World Factbook · Population: CAPMAS (2024)","music":"shared/library/music/yt-audio-library/A Single Step - Density & Time.mp3",
+ "beats":[
+  {"say":"Over a hundred million people live in Egypt, but almost all of them live on a thin green line.","title":"EGYPT IS 95% EMPTY","cam":{"lon":30,"lat":26.5,"span":20},"hl":[{"a3":"EGY","color":"#f59e0b"}]},
+  {"say":"This line.","cam":{"lon":31,"lat":27,"span":16},"river":{"name":"Nile","color":"#22d3ee"},"hl":[{"a3":"EGY","color":"#78716c"}]},
+  {"say":"About ninety five percent of Egyptians live within twenty kilometers of the Nile and its delta.","cam":{"lon":31,"lat":28,"span":14},"river":{"name":"Nile","color":"#22d3ee"},"hl":[{"a3":"EGY","color":"#78716c"}],
+   "big":{"value":"95%","label":"live along the Nile"}},
+  {"say":"Cairo, Alexandria, Luxor, Aswan. Every big city sits on the river.","cam":{"lon":31.2,"lat":27.5,"span":13},"river":{"name":"Nile","color":"#22d3ee"},
+   "pins":[{"lon":31.24,"lat":30.04,"text":"Cairo"},{"lon":29.92,"lat":31.2,"text":"Alexandria"},{"lon":32.64,"lat":25.69,"text":"Luxor"},{"lon":32.9,"lat":24.09,"text":"Aswan"}]},
+  {"say":"The rest is the Sahara. Less than one centimeter of rain a year in much of it.","cam":{"lon":28,"lat":25,"span":22},"hl":[{"a3":"EGY","color":"#b45309"},{"a3":"LBY","color":"#b45309"},{"a3":"SDN","color":"#b45309"}]},
+  {"say":"The Nile flows north for more than six thousand kilometers, from deep in Africa, and Egypt is the last country it reaches.","cam":{"lon":31,"lat":12,"span":40},"river":{"name":"Nile","color":"#22d3ee"},"hl":[{"a3":"EGY","color":"#f59e0b"}]},
+  {"say":"No river, no Egypt. Follow for more.","title":"NO RIVER. NO EGYPT.","cam":{"lon":31,"lat":27,"span":16},"river":{"name":"Nile","color":"#22d3ee"},"hl":[{"a3":"EGY","color":"#78716c"}]}
+ ]}

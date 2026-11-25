@@ -1,16 +1,16 @@
 #!/usr/bin/env bash
 # Independent fact-check review of one script by Codex (read-only, live web search).
-# Usage: tools/codex_review.sh scripts/S002-*.md <round>
-# Output: docs/reviews/<id>-r<round>.md (committed; log stays in $TMPDIR). Exit 0 always.
+# Usage: tools/codex_review.sh <CODE> <round> [script.md]   (CODE = L009 | S013; script defaults to the episode's main script, tools/ep.py)
+# Output: <episode>/reviews/<id>-r<round>.md (committed; log stays in $TMPDIR). Exit 0 always.
 # Stdout: VERDICT + one line per 🔴/🟠 (Sev | Where | Fix). Open the file only when a fix needs the evidence.
 # Owner rule: Claude directs, Codex only checks historical facts, max 3 rounds per script.
 set -euo pipefail
-script="${1:?script path}"
+id="${1:?code e.g. L009}"
 repo="$(cd "$(dirname "$0")/.." && pwd)"
-id="$(basename "$script" | cut -d- -f1)"
 round="${2:?round number 1-3}"
-mkdir -p "$repo/docs/reviews"
-out="$repo/docs/reviews/$id-r$round.md"
+script="${3:-$(python3 "$repo/tools/ep.py" "$id" script)}"
+rev="$(python3 "$repo/tools/ep.py" "$id")/reviews"; mkdir -p "$rev"
+out="$rev/$id-r$round.md"
 log="${TMPDIR:-/tmp}/codex-review-$id-r$round.log"
 
 read -r -d '' PROMPT <<EOF || true

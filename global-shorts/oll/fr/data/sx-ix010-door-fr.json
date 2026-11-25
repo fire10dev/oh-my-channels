@@ -1,0 +1,77 @@
+{
+ "title": "La porte de 7 tonnes des officiers nucléaires",
+ "hook": "PORTE ANTI-SOUFFLE",
+ "asof": "Chiffres de l’US Air Force et du National Park Service",
+ "world": "capsule",
+ "long": "IX010",
+ "chapters": [
+  {
+   "id": "down",
+   "hud": "JOUR 1",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Deux officiers descendent à 18 mètres sous la prairie.",
+     "v": "elevator",
+     "you": "elevator"
+    },
+    {
+     "s": "En bas : une porte anti-souffle de 7 tonnes.",
+     "v": "door",
+     "plane": "door:shut",
+     "st": [
+      "7 TONNES",
+      "porte anti-souffle · NPS"
+     ]
+    },
+    {
+     "s": "Elle ne s’ouvre que de l’intérieur.",
+     "v": "door",
+     "plane": "door:shut"
+    },
+    {
+     "s": "Une voix crie : « Dégagé ! » Tu réponds pareil.",
+     "v": "door"
+    },
+    {
+     "s": "La porte s’ouvre.",
+     "v": "door",
+     "plane": "door:open",
+     "you": "door"
+    },
+    {
+     "s": "Derrière, une capsule grande comme une chambre.",
+     "v": "capsule",
+     "you": "capsule"
+    },
+    {
+     "s": "L’équipage surveille ici plus de dix missiles Minuteman III.",
+     "v": "console",
+     "you": "console"
+    },
+    {
+     "s": "Interdit d’être seul ici. C’est une zone anti-solitude.",
+     "v": "capsule"
+    },
+    {
+     "s": "La garde dure vingt-quatre heures.",
+     "v": "clock",
+     "st": [
+      "24 H",
+      "une alerte"
+     ]
+    },
+    {
+     "s": "Pas de téléphone. Pas d’ordinateur personnel.",
+     "v": "wall"
+    },
+    {
+     "s": "Tu pourrais passer une journée derrière cette porte ?",
+     "v": "door",
+     "plane": "door:shut"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "title": "A Rajada de 372 km/h no Monte Washington",
+ "hook": "RAJADA HISTÓRICA",
+ "asof": "Dados do Mount Washington Observatory e da FOX Weather",
+ "world": "summit",
+ "long": "IX016",
+ "chapters": [
+  {
+   "id": "record",
+   "hud": "12 DE ABRIL DE 1934",
+   "chip": "13:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Abril de 1934. Três homens medem algo nunca visto no topo da montanha.",
+     "v": "tower",
+     "plane": "wind"
+    },
+    {
+     "s": "O observatório do Monte Washington, em New Hampshire.",
+     "v": "building"
+    },
+    {
+     "s": "Sal Pagliuca, Alex McKenzie e Wendell Stephenson estavam de plantão.",
+     "v": "office",
+     "you": "office"
+    },
+    {
+     "s": "O anemômetro tinha aquecedor para o gelo não travar o aparelho.",
+     "v": "tower",
+     "plane": "rime"
+    },
+    {
+     "s": "Então, uma rajada chegou a 372 quilômetros por hora.",
+     "v": "tower",
+     "plane": "wind",
+     "st": [
+      "372 KM/H",
+      "12 de abril de 1934"
+     ]
+    },
+    {
+     "s": "Por décadas, foi o vento mais rápido medido na superfície da Terra.",
+     "v": "deck",
+     "plane": "wind"
+    },
+    {
+     "s": "A CBS informou: ainda é o recorde medido por alguém em terra.",
+     "v": "mountain"
+    },
+    {
+     "s": "Em 2023, a sensação térmica aqui chegou a −78 graus Celsius.",
+     "v": "rime",
+     "plane": "rime",
+     "st": [
+      "−78°C",
+      "sensação térmica · 2023"
+     ]
+    },
+    {
+     "s": "Você ficaria naquele deque?",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    }
+   ]
+  }
+ ]
+}

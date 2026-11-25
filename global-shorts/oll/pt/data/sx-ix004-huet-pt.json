@@ -1,0 +1,91 @@
+{
+ "title": "Trabalhadores de plataformas treinam de cabeça para baixo",
+ "hook": "PRESO SUBMERSO",
+ "asof": "Dados de 2026 · Fontes: OPITO, 2024",
+ "world": "rig",
+ "long": "IX004",
+ "chapters": [
+  {
+   "id": "huet",
+   "hud": "DIA 0",
+   "chip": "TREINAMENTO",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "pool",
+     "plane": "flip",
+     "s": "Antes de trabalhar numa plataforma no Mar do Norte, você precisa escapar disso."
+    },
+    {
+     "v": "heli",
+     "plane": "fly",
+     "s": "Quase todo mundo vai de helicóptero até as plataformas."
+    },
+    {
+     "v": "heli",
+     "s": "Por isso, você treina para o pior."
+    },
+    {
+     "v": "pool",
+     "you": "pool",
+     "st": [
+      "HUET",
+      "treinamento de escape subaquático de helicóptero"
+     ],
+     "s": "Isso se chama HUET."
+    },
+    {
+     "v": "pool",
+     "you": "pool",
+     "s": "Uma cabine de helicóptero é jogada numa piscina,"
+    },
+    {
+     "v": "pool",
+     "plane": "flip",
+     "s": "e virada de cabeça para baixo."
+    },
+    {
+     "v": "pool",
+     "plane": "flip",
+     "you": "pool",
+     "s": "Você pratica a saída no escuro, debaixo d’água."
+    },
+    {
+     "v": "heli",
+     "st": [
+      "OBRIGATÓRIO",
+      "OPITO, 2024"
+     ],
+     "s": "É obrigatório para quem vai de helicóptero para alto-mar."
+    },
+    {
+     "v": "heli",
+     "s": "E tem também o seu tamanho."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "56 CM",
+      "small": "largura dos ombros = extra largo (XBR) · desde 2014"
+     },
+     "s": "Ombros com 56 centímetros ou mais? Extra largos."
+    },
+    {
+     "v": "heli",
+     "plane": "fly",
+     "s": "Você se senta perto das janelas maiores,"
+    },
+    {
+     "v": "heli",
+     "you": "heli",
+     "s": "para conseguir sair com o traje de sobrevivência."
+    },
+    {
+     "v": "pool",
+     "plane": "flip",
+     "s": "Você conseguiria escapar?"
+    }
+   ]
+  }
+ ]
+}

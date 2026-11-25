@@ -1,0 +1,317 @@
+{
+ "id": "w001",
+ "lang": "en",
+ "voice": "am_michael",
+ "speed": 1.08,
+ "brand": "MAP PARADOX",
+ "accent": "#ff4d4d",
+ "source": "Coordinates: Natural Earth · Climate: Seager et al. 2002 (QJRMS)",
+ "music": "shared/library/music/yt-audio-library/Future Glider - Brian Bolger.mp3",
+ "beats": [
+  {
+   "say": "Europe is way further north than you think.",
+   "title": "EUROPE IS FURTHER NORTH THAN YOU THINK",
+   "cam": {
+    "lon": -55,
+    "lat": 50,
+    "span": 130
+   },
+   "hl": [
+    {
+     "a3": "GBR",
+     "color": "#ff4d4d"
+    },
+    {
+     "a3": "CAN",
+     "color": "#3b82f6"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      20,
+      51.5
+     ],
+     [
+      -140,
+      51.5
+     ]
+    ],
+    "color": "#ffd23f"
+   }
+  },
+  {
+   "say": "Take London. Now follow its line straight west, across the Atlantic.",
+   "cam": {
+    "lon": -2,
+    "lat": 51.5,
+    "span": 26
+   },
+   "hl": [
+    {
+     "a3": "GBR",
+     "color": "#ff4d4d"
+    }
+   ],
+   "pins": [
+    {
+     "lon": -0.13,
+     "lat": 51.51,
+     "text": "London 51.5°N"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      8,
+      51.5
+     ],
+     [
+      -20,
+      51.5
+     ],
+     [
+      -60,
+      51.5
+     ],
+     [
+      -120,
+      51.5
+     ]
+    ],
+    "color": "#ffd23f"
+   }
+  },
+  {
+   "say": "Calgary is further south. London beats Calgary, Vancouver, Toronto and Montreal.",
+   "cam": {
+    "lon": -100,
+    "lat": 48,
+    "span": 60
+   },
+   "hl": [
+    {
+     "a3": "CAN",
+     "color": "#3b82f6"
+    }
+   ],
+   "pins": [
+    {
+     "lon": -114.07,
+     "lat": 51.05,
+     "text": "Calgary 51.0°N"
+    },
+    {
+     "lon": -79.38,
+     "lat": 43.65,
+     "text": "Toronto 43.7°N"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      -60,
+      51.5
+     ],
+     [
+      -140,
+      51.5
+     ]
+    ],
+    "color": "#ffd23f"
+   }
+  },
+  {
+   "say": "Paris is further north than Seattle. Rome sits higher than New York City.",
+   "cam": {
+    "lon": -55,
+    "lat": 45,
+    "span": 185
+   },
+   "pins": [
+    {
+     "lon": 2.35,
+     "lat": 48.86,
+     "text": "Paris 48.9°N"
+    },
+    {
+     "lon": -122.33,
+     "lat": 47.61,
+     "text": "Seattle 47.6°N",
+     "color": "#3b82f6"
+    },
+    {
+     "lon": 12.5,
+     "lat": 41.9,
+     "text": "Rome 41.9°N"
+    },
+    {
+     "lon": -74.0,
+     "lat": 40.71,
+     "text": "New York 40.7°N",
+     "color": "#3b82f6"
+    }
+   ]
+  },
+  {
+   "say": "So why is Europe so mild? Most people say the Gulf Stream. It helps, but it's not the main reason.",
+   "cam": {
+    "lon": -35,
+    "lat": 42,
+    "span": 85
+   },
+   "line": {
+    "pts": [
+     [
+      -80,
+      25.5
+     ],
+     [
+      -79.5,
+      30
+     ],
+     [
+      -75,
+      35
+     ],
+     [
+      -68,
+      38.5
+     ],
+     [
+      -55,
+      41
+     ],
+     [
+      -40,
+      45
+     ],
+     [
+      -25,
+      50
+     ],
+     [
+      -12,
+      55
+     ],
+     [
+      2,
+      61
+     ],
+     [
+      10,
+      66
+     ]
+    ],
+    "color": "#ff8a3d",
+    "label": "Gulf Stream",
+    "arrow": true
+   }
+  },
+  {
+   "say": "The bigger reason: winds from the west blow over an ocean that stays warm all winter, and carry that heat onto Europe.",
+   "title": "WESTERLY WINDS + WARM OCEAN",
+   "cam": {
+    "lon": -20,
+    "lat": 50,
+    "span": 55
+   },
+   "line": {
+    "pts": [
+     [
+      -45,
+      48
+     ],
+     [
+      -30,
+      49
+     ],
+     [
+      -15,
+      50
+     ],
+     [
+      0,
+      51
+     ],
+     [
+      12,
+      52
+     ]
+    ],
+    "color": "#7dd3fc",
+    "label": "Westerly winds",
+    "arrow": true
+   }
+  },
+  {
+   "say": "Canada gets the opposite: cold air straight off the frozen continent.",
+   "cam": {
+    "lon": -90,
+    "lat": 55,
+    "span": 70
+   },
+   "hl": [
+    {
+     "a3": "CAN",
+     "color": "#3b82f6"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      -100,
+      72
+     ],
+     [
+      -95,
+      62
+     ],
+     [
+      -88,
+      52
+     ],
+     [
+      -80,
+      45
+     ]
+    ],
+    "color": "#a5f3fc",
+    "label": "Arctic air",
+    "arrow": true
+   }
+  },
+  {
+   "say": "Same latitude. Completely different worlds. Follow for maps that break your brain.",
+   "title": "SAME LATITUDE. DIFFERENT WORLDS.",
+   "cam": {
+    "lon": -55,
+    "lat": 46,
+    "span": 140
+   },
+   "hl": [
+    {
+     "a3": "GBR",
+     "color": "#ff4d4d"
+    },
+    {
+     "a3": "CAN",
+     "color": "#3b82f6"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      20,
+      51.5
+     ],
+     [
+      -140,
+      51.5
+     ]
+    ],
+    "color": "#ffd23f"
+   }
+  }
+ ]
+}

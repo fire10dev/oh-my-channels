@@ -1,0 +1,683 @@
+[
+ {
+  "id": "s399",
+  "mascot": "pen",
+  "title": "Why You Feel Like a Fraud at Your New Job",
+  "mechanism": "IMPOSTOR DOUBT",
+  "lines": [
+   {
+    "vo": "You sit down at your new desk, and your stomach drops.",
+    "text": "NEW JOB PANIC",
+    "color": "red",
+    "actor": "panic",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "You wonder if hiring you was a huge clerical mistake.",
+    "text": "TOTAL FRAUD?",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Impostor doubt treats your wins as flukes and mistakes as normal.",
+    "text": "IMPOSTOR DOUBT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Your brain mistakes early learning curves for lack of talent.",
+    "text": "LEARNING CURVE",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Write down three solid facts your past luck cannot explain.",
+    "text": "EVIDENCE LOG",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Having receipts helps, but feeling new is just part of growing.",
+    "text": "GROW THROUGH IT",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s399vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vua nhan viec da so bi duoi?",
+  "title_vi": "Vừa nhận việc đã sợ bị đuổi?",
+  "mechanism": "IMPOSTOR DOUBT",
+  "lines": [
+   {
+    "vo": "Vừa qua hai tháng thử việc, sếp khen một câu mà bạn toát mồ hôi.",
+    "text": "QUA THU VIEC",
+    "color": "red",
+    "actor": "panic",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Trong đầu chỉ sợ người ta sớm muộn cũng phát hiện mình còn non nớt.",
+    "text": "SO NGUOI TA BIET",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Cảm giác mình là kẻ giả mạo khiến bạn coi mọi thành quả cũ chỉ là ăn may.",
+    "text": "SO BI LAT TAY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Não đang nhầm lẫn bỡ ngỡ ban đầu với sự kém cỏi.",
+    "text": "CHUA QUEN VIEC",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Ghi ra ba kết quả cũ mà may mắn không thể tạo nên.",
+    "text": "GHI CHUNG CU",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Nếu bạn thực sự không đủ giỏi, ai đã làm ra những điều đó?",
+    "text": "AI DA LAM DUOC?",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s400",
+  "mascot": "buff",
+  "title": "How to Beat the Blank Slide Panic",
+  "mechanism": "TINY PROOF",
+  "lines": [
+   {
+    "vo": "A blank presentation slide is staring you down right now.",
+    "text": "BLANK SLIDE",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Waiting for confidence before moving? Sure, buddy.",
+    "text": "SURE, BUDDY.",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Your nervous system does not care about pep talks, only reps.",
+    "text": "NEEDS PROOF",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Type one ugly slide with bullet points and close the laptop.",
+    "text": "ONE UGLY SLIDE",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "One messy rep beats weeks of wishing you were ready.",
+    "text": "LOG THE REP",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s400vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Man hinh trang tinh va noi so bat dau",
+  "title_vi": "Màn hình trắng tinh và nỗi sợ bắt đầu",
+  "mechanism": "TINY PROOF",
+  "lines": [
+   {
+    "vo": "Chiều nay nộp bản thảo mà trang tài liệu vẫn trắng tinh.",
+    "text": "TRANG TRANG TINH",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Ngồi đợi có hứng rồi mới làm? Ừ, đợi tiếp đi.",
+    "text": "DOI CO HUNG?",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Não chỉ tin khi hai tay bạn bắt đầu có hành động cụ thể.",
+    "text": "CAN CHUNG MINH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Gõ đúng ba gạch đầu dòng nháp nhất rồi đứng dậy đi uống nước.",
+    "text": "BA GACH DAU DONG",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Một hiệp nháp xấu xí vẫn hơn cả ngày ngồi nhìn màn hình.",
+    "text": "NHAP TRUOC DA",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s401",
+  "mascot": "pen",
+  "title": "Why Watching Masters Crushes Your Motivation",
+  "mechanism": "PEER MIRRORS",
+  "lines": [
+   {
+    "vo": "You watched a senior lead present effortlessly, and your hope vanished.",
+    "text": "ELITE TALENT",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Comparing your awkward beginning to their polished finale is an unfair test.",
+    "text": "UNFAIR TEST",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "When the skill gap feels massive, your brain senses a threat.",
+    "text": "MASSIVE GAP",
+    "actor": "think",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Social modeling only inspires you when the comparison feels reachable.",
+    "text": "SOCIAL MIRRORS",
+    "actor": "reading",
+    "prop": "brain"
+   },
+   {
+    "vo": "Look at someone just one step ahead instead of the legend.",
+    "text": "LOOK CLOSER",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Or pull up your own embarrassing first draft from last year.",
+    "text": "PAST DRAFTS",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Progress feels possible when you stop looking at the mountain peak.",
+    "text": "JUST ONE STEP",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s401vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Xem nguoi ta gioi roi tu thay minh kem",
+  "title_vi": "Xem người ta giỏi rồi tự thấy mình kém",
+  "mechanism": "PEER MIRRORS",
+  "lines": [
+   {
+    "vo": "Thấy đồng nghiệp thuyết trình mượt như mơ, bạn bỗng thấy bế tắc.",
+    "text": "NGUOI TA QUA GIOI",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Lấy vạch xuất phát của mình so với đỉnh cao của người khác.",
+    "text": "SO SANH KHAP KHIENG",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Khi khoảng cách quá xa, não coi đó là lời đe dọa.",
+    "text": "KHOANG CACH LON",
+    "actor": "think",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Hình mẫu chỉ truyền cảm hứng khi bạn thấy sự gần gũi.",
+    "text": "GUONG GAN GUI",
+    "actor": "reading",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hãy nhìn người mới đi trước bạn nửa bước trong phòng.",
+    "text": "NHIN NGUOI GAN",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Hoặc mở lại bài viết vụng về đầu tiên của chính mình.",
+    "text": "BAI VIET CU",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Bạn đang tìm động lực để đi tiếp, hay tìm cớ bỏ cuộc?",
+    "text": "DONG LUC HAY LY DO?",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s402",
+  "mascot": "buff",
+  "title": "Why You Clean Your Desk Instead of Shipping",
+  "mechanism": "DROP THE SHIELD",
+  "lines": [
+   {
+    "vo": "You promised to post your portfolio tonight, but cleaned your room.",
+    "text": "CLEANED INSTEAD",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Fiddling with margins until midnight so you feel too exhausted? Classic.",
+    "text": "TOO TIRED?",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "That is self-handicapping: creating an obstacle just to protect your pride.",
+    "text": "EGO SHIELD",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "If you fail while tired, you can blame lack of sleep.",
+    "text": "BUILT-IN EXCUSE",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Pick the standard plain template and lock the design right now.",
+    "text": "LOCK TEMPLATE",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Set a twenty-minute timer and export the ugly draft.",
+    "text": "TWENTY MINUTES",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Send the file to one friend before the alarm rings.",
+    "text": "SEND TO ONE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Drop the shield. A shield blocks hits, but kills your swing.",
+    "text": "TAKE THE SWING",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s402vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Don dep phong thay vi nop bai",
+  "title_vi": "Dọn dẹp phòng thay vì nộp bài",
+  "mechanism": "DROP THE SHIELD",
+  "lines": [
+   {
+    "vo": "Định bụng tối nay đăng hồ sơ năng lực, bạn lại đi lau bàn.",
+    "text": "LAU BAN NE VIEC",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Ngồi chỉnh lề ba tiếng đến kiệt sức. Chiêu cũ rích.",
+    "text": "CHIEU CU RICH",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Đó là hành vi tự cản trở: tạo cớ để bảo vệ cái tôi.",
+    "text": "TU CAN TRO",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nếu sản phẩm bị chê, bạn có cớ đổ lỗi cho mệt mỏi.",
+    "text": "CO SAN CO",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Chọn luôn mẫu mặc định đơn giản nhất, cấm đổi phông chữ.",
+    "text": "KHOA MAU MAC DINH",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Hẹn giờ hai mươi phút, xuất bản ngay bản nháp thô ráp này.",
+    "text": "HEN GIO 20 PHUT",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Gửi ngay cho một người bạn xem trước khi chuông reo.",
+    "text": "GUI CHO MOT NGUOI",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Bỏ cái khiên chắn xuống. Che chắn quá kỹ thì không thể vung tạ.",
+    "text": "BO KHIEN XUONG",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s403",
+  "mascot": "pen",
+  "title": "Why Real Focus Feels Like Pulling Teeth",
+  "mechanism": "SWEAT VALUE",
+  "lines": [
+   {
+    "vo": "Writing every single sentence of your draft feels like pulling teeth.",
+    "text": "HEAVY FRICTION",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "You assume that because it hurts, you lack natural writing talent.",
+    "text": "NO TALENT?",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Your brain naturally avoids friction because mental effort feels biologically expensive.",
+    "text": "EFFORT BURDEN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Strain does not mean failure; it proves your mind is stretching.",
+    "text": "MIND STRETCHING",
+    "actor": "reading",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Write three ugly paragraphs without touching the backspace key.",
+    "text": "NO BACKSPACE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "When struggle stops meaning inadequacy, the work finally becomes quiet.",
+    "text": "EMBRACE EFFORT",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s403vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Viet mot cau ma dau nhu nho rang",
+  "title_vi": "Viết một câu mà đau như nhổ răng",
+  "mechanism": "SWEAT VALUE",
+  "lines": [
+   {
+    "vo": "Viết bản đề xuất cho sếp mà từng câu nặng như đeo đá.",
+    "text": "NANG NHU DEO DA",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Thấy khó khăn, bạn vội kết luận mình không có năng khiếu.",
+    "text": "KHONG NANG KHIEU?",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Não ngại tốn sức, nên hễ thấy khó là muốn quay đầu.",
+    "text": "NAO SO TON SUC",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cảm giác nghẽn này chỉ là lúc đầu óc bạn đang làm quen với tải nặng.",
+    "text": "DANG CHIU TAI",
+    "actor": "reading",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Gõ liền ba đoạn dở nhất có thể mà không được bấm nút xóa.",
+    "text": "KHONG BAM XOA",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Cảm giác khó nhằn không có nghĩa là bạn kém. Nó chỉ báo hiệu bạn đang bắt đầu.",
+    "text": "DANG BAT DAU",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s404",
+  "mascot": "buff",
+  "title": "How to Handle Brutal Red Ink",
+  "mechanism": "GROW THE MUSCLE",
+  "lines": [
+   {
+    "vo": "Your manager marked your outline in red ink and blunt feedback.",
+    "text": "RED INK CRUSH",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Felt like they fed your pride straight into a paper shredder.",
+    "text": "EGO CRUSHED",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "A fixed mindset treats rough critique as a final personal verdict.",
+    "text": "FIXED TRAP",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Add the word yet to their notes and pick one skill.",
+    "text": "ADD YET",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Red ink is not your funeral. It is your next training set.",
+    "text": "NEXT HEAVY SET",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s404vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Ban ke hoach bi sep che toi boi",
+  "title_vi": "Bản kế hoạch bị sếp chê tơi bời",
+  "mechanism": "GROW THE MUSCLE",
+  "lines": [
+   {
+    "vo": "Mở nhóm chat ra, thấy sếp nhận xét bản kế hoạch tơi bời.",
+    "text": "SEP GACH DO",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Tự ái đùng đùng, chỉ muốn xóa file bỏ việc? Ừ, quen lắm.",
+    "text": "MAT HET MAT",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Coi lời chê là bản án chung thân chính là bẫy tư duy.",
+    "text": "BAY TU DUY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Thêm chữ chưa vào nhận xét, rồi chọn đúng một lỗi để sửa.",
+    "text": "THEM CHU CHUA",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Không ai chết vì vài dòng gạch đỏ. Coi như tạ nặng, nâng tiếp đi.",
+    "text": "HIEP TANG TA",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s405",
+  "mascot": "pen",
+  "title": "Why You Hesitate Right Before Hitting Send",
+  "mechanism": "ACT BEFORE READY",
+  "lines": [
+   {
+    "vo": "You drafted that proposal email six hours ago and still cannot send.",
+    "text": "FROZEN AT SEND",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Ruminating endlessly on what might happen while your coffee goes cold.",
+    "text": "ENDLESS WORRY",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Overthinking traps you because worrying feels like real work, but carries zero risk.",
+    "text": "ZERO RISK TRAP",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "All that endless analysis is just fear wearing a responsible costume.",
+    "text": "DISGUISED FEAR",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Set an if-then rule: ten minutes of checking, then hit send.",
+    "text": "IF-THEN RULE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "What would change if you moved before your fear felt ready?",
+    "text": "MOVE BEFORE READY",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s405vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ngoi nhin nut gui thu suot nua ngay",
+  "title_vi": "Ngồi nhìn nút gửi thư suốt nửa ngày",
+  "mechanism": "ACT BEFORE READY",
+  "lines": [
+   {
+    "vo": "Viết xong cái email gửi sếp từ sáng, trưa rồi vẫn chưa dám bấm.",
+    "text": "CHUA DAM BAM GUI",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Cứ đọc đi đọc lại vì sợ người ta đánh giá mình thiếu sót.",
+    "text": "SO BI DANH GIA",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Nghĩ ngợi luẩn quẩn cho ta cảm giác an toàn vì chưa phải đối mặt.",
+    "text": "AN TOAN GIA TAO",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nhưng phân tích quá mức thực chất chỉ là nỗi sợ ngụy trang.",
+    "text": "NOI SO NGUY TRANG",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Đặt quy tắc nếu thì: sau năm phút soát lỗi, bấm gửi ngay lập tức.",
+    "text": "NEU THI GUI NGAY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Sự tự tin không đến trước khi làm, nó chỉ đến sau khi gửi.",
+    "text": "HANH DONG TRUOC",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ }
+]

@@ -1,0 +1,89 @@
+{
+ "title": "Pourquoi les plongeurs saturés ont une voix de dessin animé",
+ "hook": "VOIX D’HÉLIUM",
+ "asof": "Chiffres de 2026",
+ "world": "sat",
+ "long": "IX005",
+ "chapters": [
+  {
+   "id": "voice",
+   "hud": "JOUR 2",
+   "chip": "07:00",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "chamber",
+     "plane": "voice",
+     "you": "chamber",
+     "s": "Ces plongeurs respirent de l’hélium pendant des semaines."
+    },
+    {
+     "v": "ship",
+     "s": "Dans une chambre étanche, sur le pont d’un navire,"
+    },
+    {
+     "v": "chamber",
+     "s": "maintenue à la pression des fonds marins."
+    },
+    {
+     "v": "chamber",
+     "st": [
+      "HÉLIOX",
+      "hélium + oxygène"
+     ],
+     "s": "Ils respirent un mélange d’hélium et d’oxygène."
+    },
+    {
+     "v": "chamber",
+     "plane": "voice",
+     "you": "chamber",
+     "s": "Leur voix devient aiguë et grinçante."
+    },
+    {
+     "v": "control",
+     "s": "À tel point que l’équipe dehors les comprend à peine."
+    },
+    {
+     "v": "control",
+     "plane": "voice",
+     "s": "Une machine déchiffre leurs paroles."
+    },
+    {
+     "v": "chamber",
+     "s": "Et l’hélium leur fait perdre de la chaleur,"
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "à chaque expiration."
+    },
+    {
+     "v": "gauge",
+     "plane": "temp",
+     "s": "Alors la chambre est chauffée."
+    },
+    {
+     "v": "chamber",
+     "st": [
+      "29–34 °C",
+      "température de la chambre · DAN"
+     ],
+     "s": "Souvent autour de trente-deux degrés."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "28 JOURS",
+      "small": "maximum habituel en saturation · DMAC 21"
+     },
+     "s": "Jusqu’à vingt-huit jours."
+    },
+    {
+     "v": "table",
+     "you": "table",
+     "s": "Tu pourrais vivre comme ça ?"
+    }
+   ]
+  }
+ ]
+}

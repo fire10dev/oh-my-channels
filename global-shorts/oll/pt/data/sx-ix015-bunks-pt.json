@@ -1,0 +1,75 @@
+{
+ "title": "Por Dentro do Quarto Redondo de um Farol de Pedra",
+ "hook": "TRÊS HOMENS, UM QUARTO",
+ "asof": "História dos Arquivos Nacionais da Escócia",
+ "world": "lighthouse",
+ "long": "IX015",
+ "chapters": [
+  {
+   "id": "sleep",
+   "hud": "DIA 2",
+   "chip": "02:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Três homens dormiam neste quarto redondo, no meio do mar.",
+     "v": "bedroom",
+     "you": "bunk"
+    },
+    {
+     "s": "Este é o farol de Bell Rock, na costa da Escócia, concluído em 1810.",
+     "v": "wide",
+     "st": [
+      "1810",
+      "Bell Rock aceso"
+     ]
+    },
+    {
+     "s": "O quarto tem cerca de quatro metros de largura.",
+     "v": "bedroom",
+     "st": [
+      "4 M",
+      "quarto redondo"
+     ]
+    },
+    {
+     "s": "Três beliches curvos, encaixados na parede.",
+     "v": "bunk"
+    },
+    {
+     "s": "Uma cortina dava privacidade.",
+     "v": "bunk",
+     "plane": "curtain",
+     "you": "bunk"
+    },
+    {
+     "s": "Entre os turnos da noite, eles davam corda no mecanismo da lâmpada a cada meia hora.",
+     "v": "clock"
+    },
+    {
+     "s": "A água potável era racionada: nada de chuveiro ou banheira.",
+     "v": "store",
+     "you": "store"
+    },
+    {
+     "s": "A rocha só ganhou um banheiro em 1964.",
+     "v": "store",
+     "st": [
+      "1964",
+      "primeiro banheiro"
+     ]
+    },
+    {
+     "s": "E, lá fora, o mar castigava a torre.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "Você conseguiria dormir lá por um mês?",
+     "v": "bunk",
+     "you": "bunk"
+    }
+   ]
+  }
+ ]
+}

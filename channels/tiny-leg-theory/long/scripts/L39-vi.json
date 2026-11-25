@@ -1,0 +1,920 @@
+{
+ "id": "L39vi",
+ "lang": "vi",
+ "title": "Bí ý tưởng thì làm gì để nghĩ ra hướng mới?",
+ "description": "Ngồi nhìn màn hình trắng xóa để chờ cảm hứng chỉ làm bạn thêm bế tắc. Dưới đây là tám công cụ tư duy giúp bạn phá vỡ lối mòn và rèn luyện cơ bắp sáng tạo mỗi ngày.",
+ "chapters": [
+  {
+   "title": "TRANG GIẤY TRẮNG",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn con trỏ nhấp nháy cả tiếng, viết xong lại xóa, đầu óc trống rỗng hoàn toàn.",
+     "text": "TRANG GIẤY TRẮNG",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ mỗi lần ngồi làm nội dung là thấy khó như vắt nước từ đá vậy Buff.",
+     "text": "KHÔNG CÓ CẢM HỨNG",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì ông cứ chờ cảm hứng rơi trúng đầu thay vì làm vài hiệp khởi động đấy Pen.",
+     "text": "KHÔNG CHỜ PHÉP MÀU",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ý tưởng xuất thần hóa ra không phải lộc trời cho bất ngờ à?",
+     "text": "DO MAY RỦI SAO?",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Còn lâu nhé, não bộ có các giai đoạn rõ ràng để tạo ra hướng đi mới.",
+     "text": "TÁM CÔNG CỤ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Luyện xong tám bài tập này thì không còn sợ màn hình trắng nữa.",
+     "text": "RÈN LUYỆN CƠ NÃO",
+     "color": "green",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "1. TƯ DUY PHÂN KỲ",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần viết mở đầu bài viết, tôi lại viết đi viết lại đúng một câu nhạt nhẽo.",
+     "text": "1. TƯ DUY PHÂN KỲ",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Muốn viết bài nhóm lớp cho mới mà đầu óc chỉ toàn mấy câu quen thuộc trên mạng.",
+     "text": "LỐI MÒN CŨ KỸ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Do não ông vừa vào hiệp đã vội dập tắt tư duy phân kỳ rồi đấy Pen.",
+     "text": "TƯ DUY PHÂN KỲ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tư duy phân kỳ là mở rộng nhiều hướng thay vì tìm một đáp án đúng à?",
+     "text": "TỎA NHIỀU HƯỚNG",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn, đó là khả năng bung tỏa khắp nơi để gom nguyên liệu thô.",
+     "text": "BUNG TỎA NGUYÊN LIỆU",
+     "color": "gold",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao tôi cứ bám chặt lấy cái ý tưởng tầm thường đầu tiên nảy ra trong đầu?",
+     "text": "CHỌN BỪA Ý ĐẦU",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não ghét sự bất định vì giữ câu hỏi mở tốn cực nhiều năng lượng.",
+     "text": "TIẾT KIỆM NĂNG LƯỢNG",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nó muốn chốt vội nên vứt cho ông lối tắt cũ mèm để kết thúc công việc.",
+     "text": "LỐI TẮT QUEN THUỘC",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để ép não vượt qua được sự lười biếng ban đầu đó?",
+     "text": "LÀM SAO VƯỢT QUA?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Làm một hiệp xả hàng, dành năm phút viết liền hai mươi tiêu đề dở tệ.",
+     "text": "HAI MƯƠI Ý TỒI",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ qua tiêu chuẩn sẽ dẹp tan thói săm soi và giải phóng số lượng ý tưởng.",
+     "text": "ƯU TIÊN SỐ LƯỢNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có hai mươi ý nguệch ngoạc rồi thì chuyển sang hiệp chọn lọc kẻ chiến thắng.",
+     "text": "CHỌN KẺ CHIẾN THẮNG",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "2. TƯ DUY HỘI TỤ",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Giờ có cả đống ý tưởng lộn xộn rồi, nhưng tôi lại thấy ngợp hơn cả lúc đầu.",
+     "text": "2. TƯ DUY HỘI TỤ",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Càng cố nhét mọi ghi chú vào một bài, mọi thứ càng rối như mớ bòng bong.",
+     "text": "NHỒI NHÉT TẤT CẢ",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vừa gom đống ý tưởng xong mà đã bỏ qua tư duy hội tụ rồi Pen.",
+     "text": "TƯ DUY HỘI TỤ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tư duy hội tụ là gom gọn các lựa chọn để tìm ra một giải pháp tốt nhất à?",
+     "text": "TÌM RA MỘT HƯỚNG",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn đét, sáng tạo không chỉ là bày bừa, mà là chọn lọc không thương tiếc.",
+     "text": "THANH LỌC TÀN NHẪN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao não tôi thấy khó khăn thế khi phải gạt bỏ bớt ý tưởng để chọn một cái?",
+     "text": "SỢ PHẢI LỰA CHỌN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì não sợ đóng cửa cơ hội, chọn một nhánh nghĩa là phải vứt bỏ những nhánh còn lại.",
+     "text": "SỢ ĐÓNG CỬA",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quá nhiều lựa chọn làm não quá tải, vừa mệt mỏi lại vừa đứng hình.",
+     "text": "QUÁ TẢI QUYẾT ĐỊNH",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để lọc sạch mớ hỗn độn mà không phải lăn tăn hối hận?",
+     "text": "LÀM SAO ĐỂ LỌC?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chấm điểm theo đúng hai tiêu chí: độ bất ngờ và khả năng giải quyết vấn đề cốt lõi.",
+     "text": "HAI TIÊU CHÍ CHỌN",
+     "color": "green",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gạch bỏ một nửa, chọn ứng viên khỏe nhất rồi vứt sạch phần còn lại.",
+     "text": "CHÉM BỎ MỘT NỬA",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lọc xong là ngon, nhưng phải trị dứt điểm mấy ý tưởng mở đầu nhàm chán nữa.",
+     "text": "TRỊ GỐC RỄ NHẠT",
+     "color": "ink",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "3. MẠNG LIÊN TƯỞNG",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ mỗi lần đặt tên hay làm bộ nhận diện dự án, tôi toàn nghĩ ra mấy thứ quen quá.",
+     "text": "3. MẠNG LIÊN TƯỞNG",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ nhắc đến cà phê là não chỉ nghĩ tới buổi sáng, chiếc ly và tỉnh táo.",
+     "text": "QUANH QUẨN LỐI CŨ",
+     "color": "red",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mạng lưới liên tưởng của ông đang chạy trên đường ray mòn vẹt rồi đấy.",
+     "text": "ĐƯỜNG RAY MÒN VẸT",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Liên tưởng là cách trí nhớ móc nối từ ngữ với trải nghiệm lại với nhau à?",
+     "text": "MÓC NỐI KÝ ỨC",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng, não liên kết các khái niệm như mạng lưới các nút trong bộ nhớ.",
+     "text": "MẠNG LƯỚI ĐIỂM NỐI",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế sao nó luôn bám vào nút gần nhất thay vì đào sâu tìm cái độc đáo?",
+     "text": "SAO BÁM NÚT GẦN?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não luôn chọn đường quen vì mấy liên tưởng mặc định tốn rất ít sức lực.",
+     "text": "TỐN ÍT NĂNG LƯỢNG",
+     "color": "red",
+     "actor": "34",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn có kết nối độc lạ thì phải đẩy qua làn sóng tự động đầu tiên đã.",
+     "text": "VƯỢT LỚP TỰ ĐỘNG",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao luyện cho não nhảy được những bước xa hơn giữa các khái niệm?",
+     "text": "BƯỚC NHẢY XA HƠN",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Viết một từ khóa, bắn ra năm nhánh quen, rồi chỉ được đào tiếp từ nhánh thứ năm.",
+     "text": "BÀI TẬP TỪ THỨ NĂM",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lúc này ông mới mò ra được tới nhánh ngoài cùng, nơi ý tưởng mới thực sự sống.",
+     "text": "NHÁNH KÝ ỨC XA",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nối ý rất hiệu quả, nhưng cứ ép não liên tục thì sớm muộn cũng đâm đầu vào tường.",
+     "text": "ĐÂM ĐẦU VÀO TƯỜNG",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "4. HIỆP NGHỈ ẤP Ủ",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi ngồi dán mắt vào bàn làm việc bốn tiếng rồi, đầu óc như bị đông cứng.",
+     "text": "4. HIỆP NGHỈ ẤP Ủ",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Càng gồng mình ép bản thân tập trung thì ý tưởng ra lò càng tệ hại.",
+     "text": "CÀNG ÉP CÀNG BÍ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì ông đang bắt não tập quá sức, phải cho nó nghỉ để ấp ủ ý tưởng chứ.",
+     "text": "HIỆU ỨNG ẤP Ủ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ấp ủ là cứ để vấn đề tự sôi âm ỉ trong khi tôi đi làm việc khác à?",
+     "text": "ĐỂ SÔI ÂM Ỉ",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn, tiềm thức vẫn âm thầm giải quyết vấn đề khi vùng tập trung tạm nghỉ.",
+     "text": "TIỀM THỨC TỰ GIẢI",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao càng cố ngồi lỳ ở bàn thì tôi lại càng thấy tắc nghẽn hơn?",
+     "text": "SAO CỐ LÀ TẮC?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não ông đang mắc kẹt trong vòng lặp, bám lì ngõ cụt và bóp chết góc nhìn mới.",
+     "text": "KẸT VÀO NGÕ CỤT",
+     "color": "red",
+     "actor": "34",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đứng dậy đi chỗ khác giúp cắt đứt bế tắc, giúp não xả sạch ngõ cụt để khởi động lại.",
+     "text": "XẢ SẠCH BẾ TẮC",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rời mắt khỏi màn hình lúc này không phải là lười biếng trốn việc sao?",
+     "text": "KHÔNG PHẢI LƯỜI",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đứng dậy đi bộ quanh nhà hoặc đi tắm nước ấm, cấm tuyệt đối sờ vào điện thoại.",
+     "text": "ĐI BỘ HOẶC ĐI TẮM",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vận động nhẹ cho đầu óc thảnh thơi, tiềm thức sẽ tự nhào nặn lại dữ liệu cũ.",
+     "text": "ĐẦU ÓC THẢNH THƠI",
+     "color": "green",
+     "actor": "meditating",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đầu óc thông thoáng rồi, nhưng cẩn thận kẻo lại sa vào cách làm cũ.",
+     "text": "TRÁNH LỐI MÒN CŨ",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "5. BẪY ĐÓNG KHUNG",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bài thuyết trình nào tôi làm xong cũng chỉ có một tiêu đề với ba gạch đầu dòng.",
+     "text": "5. BẪY ĐÓNG KHUNG",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Muốn trình bày thật cuốn hút mà tay cứ quen bấm mấy cái khung viền y hệt nhau.",
+     "text": "KHUNG VIỀN CŨ KỸ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dính bẫy định kiến công năng rồi, cứ coi mỗi món chỉ có một tác dụng.",
+     "text": "ĐỊNH KIẾN CÔNG NĂNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là não mặc định một món đồ chỉ được làm đúng nhiệm vụ truyền thống à?",
+     "text": "MỘT CÔNG DỤNG CỨNG",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn, nếu chỉ coi trang chiếu là chỗ chứa chữ thì ông bỏ qua hàng tá cách minh họa.",
+     "text": "BỎ QUÊN HÌNH ẢNH",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao não bộ lại cứng đầu gán công cụ vào mấy cái nhãn chật hẹp thế nhỉ?",
+     "text": "SAO CỨ BỊ ĐÓNG KHUNG?",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để tiết kiệm sức, gán nhãn sẵn giúp ông không phải học lại cách dùng đồ mỗi ngày.",
+     "text": "ĐỠ TỐN CÔNG NGHĨ",
+     "color": "red",
+     "actor": "34",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thói quen này bảo vệ sinh hoạt thường ngày, nhưng bóp nghẹt hoàn toàn óc sáng tạo.",
+     "text": "BÓP NGHẸT ĐỔI MỚI",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao thoát khỏi cách nhìn quen thuộc khi mở phần mềm thiết kế ra?",
+     "text": "LÀM SAO THOÁT KHỎI?",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Liệt kê mọi phần trên bài thuyết trình, rồi cấm hai kiểu bố cục quen nhất.",
+     "text": "CẤM THÓI QUEN CŨ",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dựng lại bằng dòng thời gian hay thẻ bài, cấm thói quen cũ sẽ ép não bung bố cục.",
+     "text": "ĐỔI ĐỊNH DẠNG MỚI",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vứt thói quen cũ là tốt, nhưng để tự do quá trớn lại sinh ra một cái bẫy nguy hiểm.",
+     "text": "BẪY TỰ DO QUÁ MỨC",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "6. KHUNG GIỚI HẠN",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sếp bảo cứ tự do sáng tạo bài đăng mới, thế là tôi đứng hình luôn.",
+     "text": "6. KHUNG GIỚI HẠN",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự do tuyệt đối nghe thì sướng, nhưng chưa bao giờ tôi thấy bất lực đến thế.",
+     "text": "TỰ DO HÓA BẤT LỰC",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự do vô biên là cái bẫy, ông phải đặt giới hạn thì não mới có điểm tựa để bật.",
+     "text": "TỰ TẠO GIỚI HẠN",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự trói mình bằng rào cản lại giúp con người nghĩ ra giải pháp độc đáo hơn à?",
+     "text": "RÀO CẢN GIÚP ÍCH?",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Luôn luôn như vậy, giới hạn thu hẹp tầm tìm kiếm và ép ông phải tháo vát.",
+     "text": "ÉP NÃO THÁO VÁT",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao việc có quá nhiều lựa chọn lại làm đầu óc mệt mỏi và hoang mang đến thế?",
+     "text": "SAO LẠI HOANG MANG?",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quá nhiều hướng đi gây tê liệt, não tốn sạch sức để đắn đo thay vì thực sự bắt tay làm.",
+     "text": "TÊ LIỆT QUYẾT ĐỊNH",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bóp hẹp phạm vi lại thì toàn bộ năng lượng mới dồn vào một hướng được.",
+     "text": "DỒN SỨC MỘT HƯỚNG",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi nên tự đặt ra những rào cản thế nào khi viết bài hay vẽ bìa mỗi ngày?",
+     "text": "TỰ ĐẶT RÀO CẢN",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khóa sân chơi lại, bài tới chỉ dùng hai màu hoặc viết vỏn vẹn năm mươi từ.",
+     "text": "LUẬT CHƠI NGHIÊM NGẶT",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khung càng hẹp thì càng hết do dự, ép cơ bắp sáng tạo cho ra kết quả cô đọng nhất.",
+     "text": "KẾT QUẢ CÔ ĐỌNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự đặt luật giúp tập trung, nhưng ông còn có thể mượn hẳn bộ khung từ ngành khác nữa.",
+     "text": "MƯỢN KHUNG NGÀNH KHÁC",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "7. MƯỢN KHUNG TƯƠNG TỰ",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi đang viết kịch bản video để giữ chân người xem mà nháp nào cũng như trả bài.",
+     "text": "7. MƯỢN KHUNG TƯƠNG TỰ",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đi tham khảo khắp nơi thì thấy ai cũng sao chép đúng mấy cái mẫu khuôn sáo rỗng.",
+     "text": "MẪU RẬP KHUÔN CŨ",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dẹp mấy văn mẫu đi Pen, phải mượn cách làm từ ngành khác đắp qua chứ.",
+     "text": "MƯỢN CÁCH TỪ NGOÀI",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lấy giải pháp của một lĩnh vực khác rồi đắp sang việc của mình sao?",
+     "text": "MƯỢN GIẢI PHÁP NGOÀI",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài, mượn cấu trúc cốt lõi từ thế giới khác về làm khung sườn cho mình.",
+     "text": "CẤU TRÚC CỐT LÕI",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao tôi khó nhìn ra được cách một trò chơi điện tử có thể cứu vãn bài viết?",
+     "text": "SAO KHÓ NHẬN RA?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì mắt ông bị đánh lừa bởi đồ họa bên ngoài thay vì soi vào cơ chế ngầm bên dưới.",
+     "text": "MẮC KẸT BỀ MẶT",
+     "color": "red",
+     "actor": "34",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bóc lớp vỏ ra thì chuyện giữ chân người xem hay giữ chân người chơi đều cùng gốc tâm lý.",
+     "text": "CHUNG GỐC TÂM LÝ",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để mượn ý tưởng bài bản từ những mảng chẳng liên quan gì đến mình?",
+     "text": "CÁCH MƯỢN BÀI BẢN",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xem cách một trò chơi cuốn người mới thế nào trong ba phút đầu vào chơi.",
+     "text": "THƯỞNG BA PHÚT ĐẦU",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bê nguyên nhịp kích thích dồn dập đó ráp vào đoạn mở đầu video của ông.",
+     "text": "BÊ NGUYÊN NHỊP THƯỞNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mượn khung xong rồi, giờ đến hiệp ghép hai thứ chẳng liên quan lại với nhau.",
+     "text": "VA CHẠM HAI THẾ GIỚI",
+     "color": "ink",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "8. LIÊN TƯỞNG TẦM XA",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần muốn vẽ hình ẩn dụ cho tính kỷ luật, tôi chỉ nghĩ ra được chiếc đồng hồ báo thức.",
+     "text": "8. LIÊN TƯỞNG TẦM XA",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy nhàm chán và sáo rỗng vô cùng, mà trí tưởng tượng không chịu với xa hơn.",
+     "text": "HÌNH ẢNH NHÀM CHÁN",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Do chưa tập bài liên tưởng tầm xa thôi Pen, mới đứng trước cửa nhà đã vội dừng lại.",
+     "text": "LIÊN TƯỞNG TẦM XA",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Liên tưởng xa là những khái niệm tưởng không liên quan cho tới khi tìm ra sợi dây ngầm à?",
+     "text": "SỢI DÂY NỐI NGẦM",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn, đột phá nằm ở giao lộ xa xôi, nơi điểm chung thứ ba kết nối hai thứ chẳng liên quan.",
+     "text": "YẾU TỐ THỨ BA",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao não lại lười mò tới những góc ký ức xa xôi thế?",
+     "text": "SAO LƯỜI ĐI XA?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ký ức gom cụm thứ quen thuộc lại, não chỉ quanh quẩn ở trung tâm để đỡ tốn sức.",
+     "text": "LƯỢN QUANH CHỖ QUEN",
+     "color": "red",
+     "actor": "34",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chạm ra rìa ngoài cần phải gồng sức, nhưng đó mới là nơi cất giấu vàng ròng sáng tạo.",
+     "text": "ĐÀO VÀNG RÌA NGOÀI",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bài tập nào giúp tôi nối hai ý tưởng trái ngược mà không bị gượng gạo thô thiển?",
+     "text": "KẾT NỐI KHÔNG GƯỢNG",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lấy hai từ không liên quan như xe buýt và cà phê, rồi tìm điểm nối chung.",
+     "text": "TÌM ĐIỂM NEO CHUNG",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng chính yếu tố thứ ba đó làm ý tưởng chủ đạo thay vì xài mấy hình ảnh cũ rích.",
+     "text": "Ý TƯỞNG TỪ ĐIỂM NEO",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Luyện đều đặn từng hiệp thì tư duy sáng tạo sẽ thành phản xạ tự nhiên mỗi ngày.",
+     "text": "HỆ THỐNG MỖI NGÀY",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "HỆ THỐNG SÁNG TẠO",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra nghĩ được ý tưởng hay không phải do ăn may, mà là bài tập rèn được mỗi ngày.",
+     "text": "HỆ THỐNG SÁNG TẠO",
+     "color": "ink",
+     "actor": "meditating",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chẳng bao giờ do may rủi cả Pen, nhớ kỹ ba nguyên tắc nền tảng này mỗi khi vào việc.",
+     "text": "BA NGUYÊN TẮC VÀNG",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một là tách khâu nghĩ ý tưởng khỏi phán xét, gom số lượng rồi mới chọn lọc.",
+     "text": "TÁCH BIỆT PHÁN XÉT",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai là phá lối mòn bằng cách nhảy chuỗi liên tưởng, đi dạo ấp ý và đổi cách dùng đồ.",
+     "text": "PHÁ BỎ LỐI MÒN",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba là lai tạo ý tưởng bằng khung giới hạn thép, mượn cơ chế ngoài và tìm điểm nối ngầm.",
+     "text": "LAI TẠO Ý TƯỞNG",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để biến mớ bài học này thành thói quen thực chiến ngay trong tuần này?",
+     "text": "BẮT ĐẦU TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhận thử thách bảy ngày xem, mỗi sáng bỏ mười phút viết hai mươi ý tưởng dở tệ.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự đặt một luật thép mỗi ngày rồi xem cảm giác đắn đo biến mất nhanh thế nào.",
+     "text": "RÈN THÀNH PHẢN XẠ",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu bạn muốn cùng chúng tôi rèn luyện trí não mỗi tuần, nhớ nhấn đăng ký kênh nhé.",
+     "text": "ĐĂNG KÝ KÊNH NHÉ",
+     "color": "ink",
+     "actor": "nervous_wave"
+    }
+   ]
+  }
+ ]
+}

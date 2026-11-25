@@ -1,0 +1,75 @@
+{
+ "title": "Dentro del dormitorio redondo de un faro de roca",
+ "hook": "TRES HOMBRES, UN CUARTO",
+ "asof": "Historia basada en los Archivos Nacionales de Escocia",
+ "world": "lighthouse",
+ "long": "IX015",
+ "chapters": [
+  {
+   "id": "sleep",
+   "hud": "DÍA 2",
+   "chip": "02:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Tres hombres dormían en este cuarto redondo, en medio del mar.",
+     "v": "bedroom",
+     "you": "bunk"
+    },
+    {
+     "s": "Este es el faro de Bell Rock, frente a Escocia, terminado en 1810.",
+     "v": "wide",
+     "st": [
+      "1810",
+      "Bell Rock encendido"
+     ]
+    },
+    {
+     "s": "El dormitorio mide unos cuatro metros de ancho.",
+     "v": "bedroom",
+     "st": [
+      "4 M",
+      "dormitorio redondo"
+     ]
+    },
+    {
+     "s": "Tres literas, curvadas para ajustarse a la pared.",
+     "v": "bunk"
+    },
+    {
+     "s": "Una cortina les daba privacidad.",
+     "v": "bunk",
+     "plane": "curtain",
+     "you": "bunk"
+    },
+    {
+     "s": "Dormían entre turnos nocturnos y daban cuerda al mecanismo cada treinta minutos.",
+     "v": "clock"
+    },
+    {
+     "s": "Racionaban el agua potable; no había ducha ni bañera.",
+     "v": "store",
+     "you": "store"
+    },
+    {
+     "s": "La roca no tuvo baño hasta 1964.",
+     "v": "store",
+     "st": [
+      "1964",
+      "primer baño"
+     ]
+    },
+    {
+     "s": "Y afuera, el mar golpeaba con fuerza la torre.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "¿Podrías dormir allí durante un mes?",
+     "v": "bunk",
+     "you": "bunk"
+    }
+   ]
+  }
+ ]
+}

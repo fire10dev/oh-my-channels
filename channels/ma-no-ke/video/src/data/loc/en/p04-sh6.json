@@ -1,0 +1,385 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 29.782,
+"shots": [
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 2.65,
+"a": [
+448,
+576,
+648
+],
+"b": [
+448,
+600,
+460
+],
+"dark": 0.15
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 2.65,
+"t1": 5.168,
+"a": [
+400,
+576,
+648
+],
+"b": [
+450,
+576,
+648
+],
+"blur": 14,
+"dark": 0.5
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 5.168,
+"t1": 8.876,
+"a": [
+560,
+700,
+760
+],
+"b": [
+540,
+660,
+560
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 8.876,
+"t1": 10.842,
+"a": [
+1000,
+743,
+460
+],
+"b": [
+960,
+849,
+340
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.842,
+"t1": 13.092,
+"a": [
+1020,
+480,
+340
+],
+"b": [
+1020,
+460,
+340
+],
+"dark": 0.2
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.092,
+"t1": 15.88,
+"a": [
+448,
+520,
+460
+],
+"b": [
+448,
+500,
+340
+]
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 15.88,
+"t1": 18.202,
+"a": [
+512,
+480,
+340
+],
+"b": [
+512,
+470,
+340
+]
+},
+{
+"img": "p04/img/G06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 18.202,
+"t1": 23.25,
+"a": [
+1480,
+440,
+460
+],
+"b": [
+1480,
+440,
+340
+]
+},
+{
+"img": "p04/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.25,
+"t1": 29.382,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p04/img/cut_G11_1.png",
+"size": 412,
+"t0": 2.65,
+"t1": 5.168,
+"from": [
+268,
+808,
+1.323
+],
+"to": [
+268,
+768,
+1.323
+],
+"bob": false,
+"wob": 2
+},
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 23.25,
+"t1": 29.382,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.12,
+"t1": 2.65,
+"text": "4 PEOPLE · 3 CHEWING SOUNDS",
+"color": "#ffd84a"
+},
+{
+"t0": 5.328,
+"t1": 8.876,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 23.25,
+"t1": 26.209,
+"text": "WHERE'S THE REAL BIN?",
+"color": "#ffd84a"
+},
+{
+"t0": 26.209,
+"t1": 29.382,
+"text": "▼ FULL EPISODE: LINK BELOW",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.12,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 0.72,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 1.32,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 10.942,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 11.442,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 11.942,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 17.538,
+"src": "p04/sfx/hop.wav",
+"vol": 0.4
+},
+{
+"t": 23.25,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 28.084,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 2.65,
+"dur": 2.268,
+"text": "Hurry up and eat, Bin. Mom's live."
+},
+{
+"t": 5.168,
+"dur": 3.208,
+"text": "Keep rushing him. He could chew all day… you still won't hear a thing."
+},
+{
+"t": 8.876,
+"dur": 1.665,
+"text": "Four people. Three chewing sounds."
+},
+{
+"t": 13.092,
+"dur": 2.539,
+"text": "Bin's so good today. Hasn't asked for a thing."
+},
+{
+"t": 15.88,
+"dur": 2.072,
+"text": "Yeah. I'm gonna turn my camera off."
+},
+{
+"t": 18.202,
+"dur": 3.549,
+"text": "I stood out on the balcony. For the first time in my life… I was scared."
+},
+{
+"t": 23.25,
+"dur": 4.932,
+"text": "Mom says Bin's so good. So where's the real Bin? Full episode — link below."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 2.65,
+"src": "loc/en/vo/f1bb506d6a.wav"
+},
+{
+"t": 5.168,
+"src": "loc/en/vo/9d01a620c2.wav"
+},
+{
+"t": 8.876,
+"src": "loc/en/vo/6ece1e7a1d.wav"
+},
+{
+"t": 13.092,
+"src": "loc/en/vo/90bade3405.wav"
+},
+{
+"t": 15.88,
+"src": "loc/en/vo/ec9ff58369.wav"
+},
+{
+"t": 18.202,
+"src": "loc/en/vo/3c130f3596.wav"
+},
+{
+"t": 23.25,
+"src": "loc/en/vo/513dd40e5f.wav"
+}
+],
+"mutes": [
+[
+0.0,
+2.65
+],
+[
+2.45,
+5.168
+],
+[
+8.676,
+10.842
+],
+[
+10.642,
+13.092
+],
+[
+12.892,
+15.88
+],
+[
+15.68,
+18.202
+],
+[
+18.002,
+23.25
+]
+],
+"live": [
+[
+2.65,
+5.168
+]
+],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

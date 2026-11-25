@@ -1,0 +1,119 @@
+{
+ "title": "O Poço do Polo Sul Vira Banheiro",
+ "hook": "POÇO VIRA BANHEIRO",
+ "asof": "Dados de 2026",
+ "world": "pole",
+ "long": "IX002",
+ "chapters": [
+  {
+   "id": "well",
+   "hud": "DIA 40",
+   "chip": "MAR 26",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "rodwell",
+     "s": "No Polo Sul, sua água potável vem de um buraco no gelo."
+    },
+    {
+     "v": "sewer",
+     "fx": "bubbles",
+     "s": "E um dia, esse buraco vira seu banheiro."
+    },
+    {
+     "v": "ice",
+     "s": "Não tem rio."
+    },
+    {
+     "v": "ice",
+     "s": "Nem lago."
+    },
+    {
+     "v": "sky",
+     "s": "E quase não neva."
+    },
+    {
+     "v": "wide",
+     "st": [
+      "2,5 cm",
+      "precipitação / ano · NSF"
+     ],
+     "s": "Cai só uns dois centímetros e meio por ano."
+    },
+    {
+     "v": "underground",
+     "s": "Então a estação cria seu próprio lago."
+    },
+    {
+     "v": "rodwell",
+     "s": "Ele se chama Rodwell."
+    },
+    {
+     "v": "rodwell",
+     "fx": "bubbles",
+     "s": "Água quente é bombeada para dentro do gelo."
+    },
+    {
+     "v": "bulb",
+     "s": "Ela derrete uma piscina a uns cem metros de profundidade."
+    },
+    {
+     "v": "bulb",
+     "s": "Depois, bombas trazem essa água de volta."
+    },
+    {
+     "v": "power",
+     "s": "O calor vem dos geradores."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "GERADORES",
+       "CALOR RESIDUAL",
+       "DERRETE O GELO",
+       "SUA TORNEIRA"
+      ]
+     },
+     "s": "Um calor que seria desperdiçado."
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "Cada gota que você bebe foi derretida com esse calor."
+    },
+    {
+     "v": "bulb",
+     "s": "Mas, depois de alguns anos,"
+    },
+    {
+     "v": "underground",
+     "s": "quando o Rodwell fica grande demais,"
+    },
+    {
+     "v": "sewer",
+     "s": "ele ganha uma nova função."
+    },
+    {
+     "v": "sewer",
+     "fx": "bubbles",
+     "s": "Vira o tanque de esgoto."
+    },
+    {
+     "v": "bath",
+     "you": "bath",
+     "s": "Pois é."
+    },
+    {
+     "v": "underground",
+     "s": "Seu antigo poço de água vira seu banheiro."
+    },
+    {
+     "v": "bath",
+     "you": "bath",
+     "s": "Você ainda beberia essa água?"
+    }
+   ]
+  }
+ ]
+}

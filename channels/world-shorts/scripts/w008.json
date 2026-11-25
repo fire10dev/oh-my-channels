@@ -1,0 +1,12 @@
+{"id":"w008","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#dc2626","cover_frame":60,
+ "source":"Extent & islands: Indonesian government (BIG) · CIA World Factbook","music":"shared/library/music/yt-audio-library/Across Seas And Lands - Asher Fulero.mp3",
+ "beats":[
+  {"say":"Indonesia is wider than the United States.","title":"INDONESIA IS WIDER THAN THE USA","cam":{"lon":118,"lat":-2,"span":60},"hl":[{"a3":"IDN","color":"#dc2626"}]},
+  {"say":"From one end to the other, it spans more than five thousand kilometers.","cam":{"lon":118,"lat":-2,"span":60},"hl":[{"a3":"IDN","color":"#dc2626"}],
+   "line":{"pts":[[95.3,5.5],[141,-2.6]],"color":"#ffd23f"},"big":{"value":"5,100 km","label":"west to east"}},
+  {"say":"Drop it on top of America, at true size.","cam":{"lon":-98,"lat":39,"span":75},"hl":[{"a3":"USA","color":"#334155"}],"ghost":{"a3":"IDN","to":[-96,38],"color":"#dc2626"}},
+  {"say":"It runs from the Pacific coast past the Atlantic shore.","cam":{"lon":-96,"lat":38,"span":75},"ghost":{"a3":"IDN","to":[-96,38],"color":"#dc2626"}},
+  {"say":"It's made of more than seventeen thousand islands, and it's home to about two hundred eighty million people. The fourth biggest population in the world.","cam":{"lon":115,"lat":-3,"span":45},"hl":[{"a3":"IDN","color":"#dc2626"}],
+   "big":{"value":"17,000+","label":"islands"}},
+  {"say":"A country most people can't picture, bigger than they think. Follow for more.","title":"BIGGER THAN YOU THINK","cam":{"lon":118,"lat":-2,"span":60},"hl":[{"a3":"IDN","color":"#dc2626"}]}
+ ]}

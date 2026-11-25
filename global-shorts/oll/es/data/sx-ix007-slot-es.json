@@ -1,0 +1,77 @@
+{
+ "title": "Cómo llega la comida a una celda del único supermax federal de EE. UU.",
+ "hook": "CENA POR LA RANURA",
+ "asof": "Cifras de la inspección del DC CIC de 2018",
+ "world": "supermax",
+ "long": "IX007",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "DÍA 2",
+   "chip": "06:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "Aquí, la cena llega por una ranura en la puerta.",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "ADX Florence, Colorado. La única prisión federal supermax de EE. UU.",
+     "v": "wide"
+    },
+    {
+     "s": "No hay comedor.",
+     "v": "range"
+    },
+    {
+     "s": "Llevan la comida de la cocina a cada celda.",
+     "v": "cart"
+    },
+    {
+     "s": "La bandeja entra por la ranura.",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "Comes a solas, frente a un escritorio de concreto.",
+     "v": "desk",
+     "you": "desk",
+     "plane": "tray"
+    },
+    {
+     "s": "El presupuesto era de unos tres dólares con cincuenta al día por persona.",
+     "v": "cart",
+     "st": [
+      "US$3,50",
+      "al día · 2017"
+     ]
+    },
+    {
+     "s": "Los cocineros son presos del campamento vecino.",
+     "v": "cart"
+    },
+    {
+     "s": "Cerca de un tercio de los encuestados se quejó de la comida.",
+     "v": "desk",
+     "you": "desk"
+    },
+    {
+     "s": "Uno dijo: solo vemos al personal cuando nos trae la comida,",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "recoge las bandejas y durante la recreación.",
+     "v": "rec",
+     "you": "rec"
+    },
+    {
+     "s": "¿Podrías comer a solas durante años?",
+     "v": "desk",
+     "you": "desk"
+    }
+   ]
+  }
+ ]
+}

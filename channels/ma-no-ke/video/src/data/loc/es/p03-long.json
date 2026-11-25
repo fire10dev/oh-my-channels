@@ -1,0 +1,2012 @@
+{
+"w": 1920,
+"h": 1080,
+"duration": 241.91,
+"shots": [
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.3,
+"t1": 2.05,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+600,
+1350
+],
+"dark": 0.2
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 2.05,
+"t1": 4.607,
+"a": [
+1150,
+800,
+1000
+],
+"b": [
+1200,
+760,
+1000
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.607,
+"t1": 6.994,
+"a": [
+700,
+560,
+1350
+],
+"b": [
+760,
+560,
+1350
+],
+"shake": 4,
+"blur": 3,
+"dark": 0.3
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 6.994,
+"t1": 10.303,
+"a": [
+550,
+990,
+1100
+],
+"b": [
+440,
+950,
+780
+]
+},
+{
+"img": "p03/img/S01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.303,
+"t1": 13.759,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+920,
+420,
+1350
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.759,
+"t1": 17.146,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1100,
+560,
+1350
+]
+},
+{
+"img": "p03/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.146,
+"t1": 19.344,
+"a": [
+900,
+480,
+1350
+],
+"b": [
+820,
+360,
+1000
+],
+"shake": 8
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 19.344,
+"t1": 21.49,
+"a": [
+450,
+950,
+900
+],
+"b": [
+440,
+950,
+760
+],
+"flash": 1
+},
+{
+"img": "p03/img/S01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 21.49,
+"t1": 23.849,
+"a": [
+920,
+400,
+1350
+],
+"b": [
+920,
+330,
+1000
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.849,
+"t1": 27.408,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1264,
+560,
+1350
+]
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 27.408,
+"t1": 30.739,
+"a": [
+800,
+700,
+1350
+],
+"b": [
+816,
+720,
+1000
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 30.739,
+"t1": 33.604,
+"a": [
+672,
+900,
+1344
+],
+"b": [
+500,
+990,
+1000
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 33.604,
+"t1": 36.409,
+"a": [
+640,
+1250,
+1000
+],
+"b": [
+640,
+1280,
+800
+]
+},
+{
+"img": "p03/img/X02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 36.409,
+"t1": 40.921,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+700,
+500,
+1350
+]
+},
+{
+"img": "p03/img/X02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 40.921,
+"t1": 45.249,
+"a": [
+1300,
+450,
+1000
+],
+"b": [
+1450,
+450,
+1000
+]
+},
+{
+"img": "p03/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 45.249,
+"t1": 51.225,
+"a": [
+900,
+480,
+1350
+],
+"b": [
+820,
+360,
+1000
+]
+},
+{
+"img": "p03/img/X03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 51.225,
+"t1": 55.693,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+800,
+600,
+1350
+]
+},
+{
+"img": "p03/img/X03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 55.693,
+"t1": 60.001,
+"a": [
+1056,
+870,
+1000
+],
+"b": [
+1056,
+860,
+1000
+]
+},
+{
+"img": "p03/img/X03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 60.001,
+"t1": 63.057,
+"a": [
+1456,
+420,
+1000
+],
+"b": [
+1456,
+380,
+1000
+],
+"shake": 4
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 63.057,
+"t1": 67.235,
+"a": [
+816,
+760,
+1100
+],
+"b": [
+816,
+720,
+760
+]
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 67.235,
+"t1": 72.518,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+500,
+1350
+]
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 72.518,
+"t1": 76.697,
+"a": [
+1548,
+500,
+1000
+],
+"b": [
+1548,
+420,
+1000
+]
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 76.697,
+"t1": 80.808,
+"a": [
+928,
+520,
+1000
+],
+"b": [
+928,
+480,
+1000
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 80.808,
+"t1": 86.355,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+560,
+1350
+],
+"blur": 10,
+"dark": 0.35
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 86.355,
+"t1": 88.668,
+"a": [
+1548,
+300,
+1000
+],
+"b": [
+1668,
+250,
+760
+]
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 88.668,
+"t1": 91.076,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1100,
+500,
+1350
+]
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 91.076,
+"t1": 93.391,
+"a": [
+1184,
+870,
+1000
+],
+"b": [
+1184,
+870,
+1000
+]
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 93.391,
+"t1": 97.338,
+"a": [
+816,
+720,
+900
+],
+"b": [
+816,
+700,
+700
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 97.338,
+"t1": 98.988,
+"a": [
+1648,
+260,
+800
+],
+"b": [
+1728,
+240,
+640
+]
+},
+{
+"img": "p03/img/S34.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 98.988,
+"t1": 103.584,
+"a": [
+880,
+420,
+1350
+],
+"b": [
+880,
+330,
+1000
+]
+},
+{
+"img": "p03/img/X07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 103.584,
+"t1": 108.456,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1000,
+600,
+1350
+]
+},
+{
+"img": "p03/img/X07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 108.456,
+"t1": 110.918,
+"a": [
+500,
+470,
+1000
+],
+"b": [
+500,
+440,
+1000
+]
+},
+{
+"img": "p03/img/X07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 110.918,
+"t1": 115.447,
+"a": [
+1472,
+460,
+1000
+],
+"b": [
+1472,
+430,
+1000
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 115.447,
+"t1": 119.858,
+"a": [
+1000,
+560,
+1350
+],
+"b": [
+1050,
+560,
+1350
+],
+"blur": 5,
+"dark": 0.15
+},
+{
+"img": "p03/img/N08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 119.858,
+"t1": 125.391,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1200,
+840,
+1000
+]
+},
+{
+"img": "p03/img/X03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 125.391,
+"t1": 133.718,
+"a": [
+560,
+520,
+1000
+],
+"b": [
+560,
+490,
+1000
+]
+},
+{
+"img": "p03/img/S01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 133.718,
+"t1": 136.559,
+"a": [
+920,
+400,
+1350
+],
+"b": [
+920,
+330,
+1000
+]
+},
+{
+"img": "p03/img/X09.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 136.559,
+"t1": 141.432,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+600,
+1350
+]
+},
+{
+"img": "p03/img/X09.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 141.432,
+"t1": 146.204,
+"a": [
+1548,
+600,
+1000
+],
+"b": [
+1548,
+600,
+1000
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 146.204,
+"t1": 149.464,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+736,
+520,
+1350
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 149.464,
+"t1": 151.039,
+"a": [
+1150,
+820,
+1000
+],
+"b": [
+1200,
+780,
+1000
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 151.039,
+"t1": 152.736,
+"a": [
+736,
+520,
+1200
+],
+"b": [
+736,
+520,
+1100
+],
+"shake": 6,
+"dark": 0.2
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 152.736,
+"t1": 155.65,
+"a": [
+1598,
+260,
+900
+],
+"b": [
+1698,
+220,
+700
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 155.65,
+"t1": 158.43,
+"a": [
+450,
+950,
+900
+],
+"b": [
+440,
+950,
+760
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 158.43,
+"t1": 163.368,
+"a": [
+1200,
+780,
+1000
+],
+"b": [
+1250,
+720,
+1000
+],
+"shake": 3
+},
+{
+"img": "p03/img/X12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 163.368,
+"t1": 171.4,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+650,
+1350
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 171.4,
+"t1": 174.075,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+420,
+1350
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 174.075,
+"t1": 180.635,
+"a": [
+976,
+870,
+1000
+],
+"b": [
+1000,
+870,
+1000
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 180.635,
+"t1": 183.617,
+"a": [
+1000,
+938,
+760
+],
+"b": [
+1000,
+940,
+640
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 183.617,
+"t1": 186.329,
+"a": [
+1100,
+560,
+1350
+],
+"b": [
+1024,
+576,
+2048
+]
+},
+{
+"img": "p03/img/X14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 186.329,
+"t1": 189.27,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+675,
+600,
+1350
+]
+},
+{
+"img": "p03/img/X14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 189.27,
+"t1": 192.142,
+"a": [
+1520,
+440,
+1000
+],
+"b": [
+1520,
+400,
+1000
+]
+},
+{
+"img": "p03/img/X12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 192.142,
+"t1": 197.228,
+"a": [
+576,
+560,
+1000
+],
+"b": [
+576,
+520,
+1000
+]
+},
+{
+"img": "p03/img/N08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 197.228,
+"t1": 203.23,
+"a": [
+1150,
+760,
+1350
+],
+"b": [
+1200,
+840,
+1000
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 203.23,
+"t1": 204.97,
+"a": [
+1024,
+500,
+1350
+],
+"b": [
+1024,
+460,
+1350
+],
+"blur": 6,
+"dark": 0.35
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 204.97,
+"t1": 206.954,
+"a": [
+600,
+1000,
+1200
+],
+"b": [
+560,
+1000,
+1000
+],
+"flash": 1
+},
+{
+"img": "p03/img/X15.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 206.954,
+"t1": 209.848,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+700,
+1350
+]
+},
+{
+"img": "p03/img/X15.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 209.848,
+"t1": 212.671,
+"a": [
+800,
+700,
+1000
+],
+"b": [
+960,
+820,
+1000
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 212.671,
+"t1": 219.038,
+"a": [
+672,
+900,
+1344
+],
+"b": [
+640,
+1250,
+1000
+]
+},
+{
+"img": "p03/img/S33.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 219.038,
+"t1": 222.522,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1300,
+520,
+1350
+]
+},
+{
+"img": "p03/img/S34.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 222.522,
+"t1": 225.85,
+"a": [
+880,
+420,
+1350
+],
+"b": [
+880,
+330,
+1000
+]
+},
+{
+"img": "p03/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 225.85,
+"t1": 233.779,
+"a": [
+672,
+900,
+1344
+],
+"b": [
+894,
+700,
+900
+]
+},
+{
+"img": "p03/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 233.779,
+"t1": 241.11,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+576,
+2048
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_X11_1.png",
+"size": 402,
+"t0": 4.607,
+"t1": 6.994,
+"from": [
+1101,
+158,
+1.751
+],
+"to": [
+1101,
+108,
+1.751
+],
+"bob": false,
+"wob": 5
+},
+{
+"img": "p03/img/cut_X11_0.png",
+"size": 381,
+"t0": 115.447,
+"t1": 119.858,
+"from": [
+1145,
+158,
+1.733
+],
+"to": [
+1145,
+108,
+1.733
+],
+"bob": false,
+"wob": 3
+},
+{
+"img": "p03/img/cut_X11_2.png",
+"size": 656,
+"t0": 151.039,
+"t1": 152.736,
+"from": [
+389,
+158,
+1.742
+],
+"to": [
+389,
+108,
+1.742
+],
+"bob": false,
+"wob": 7
+},
+{
+"img": "p03/img/cut_X11_3.png",
+"size": 379,
+"t0": 203.23,
+"t1": 204.97,
+"from": [
+115,
+158,
+1.751
+],
+"to": [
+115,
+108,
+1.751
+],
+"bob": false,
+"wob": 3
+},
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 233.779,
+"t1": 241.11,
+"from": [
+260,
+1100,
+0.8
+],
+"to": [
+260,
+160,
+0.8
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.75,
+"t1": 2.05,
+"text": "2:40 A. M.",
+"color": "#ffd84a"
+},
+{
+"t0": 34.968,
+"t1": 36.409,
+"text": "CUÍDALO",
+"color": "#ffd84a"
+},
+{
+"t0": 38.128,
+"t1": 40.705,
+"text": "CONSERVA EL BARRIO",
+"color": "#ffd84a"
+},
+{
+"t0": 40.705,
+"t1": 42.853,
+"text": "2.000.000 VND / NOCHE",
+"color": "#ffffff"
+},
+{
+"t0": 42.853,
+"t1": 45.249,
+"text": "+50K VND FOTOS DEL ALTAR",
+"color": "#ff8fb1"
+},
+{
+"t0": 51.907,
+"t1": 60.001,
+"text": "60.000 MILLONES VND",
+"color": "#ffd84a"
+},
+{
+"t0": 67.335,
+"t1": 69.248,
+"text": "INSPECCIÓN 1",
+"color": "#ffffff"
+},
+{
+"t0": 72.679,
+"t1": 74.93,
+"text": "INSPECCIÓN 2",
+"color": "#ffffff"
+},
+{
+"t0": 75.091,
+"t1": 78.549,
+"text": "10 m… ?",
+"color": "#ffd84a"
+},
+{
+"t0": 78.95,
+"t1": 80.808,
+"text": "2:00 A. M.",
+"color": "#ffd84a"
+},
+{
+"t0": 82.398,
+"t1": 86.355,
+"text": "★☆☆☆☆ UNA ESTRELLA",
+"color": "#ffd84a"
+},
+{
+"t0": 97.618,
+"t1": 98.988,
+"text": "OFRENDA ✔ · CONTRATO ✖",
+"color": "#ffd84a"
+},
+{
+"t0": 116.826,
+"t1": 119.858,
+"text": "FRASCO = ¿ORO?",
+"color": "#ffd84a"
+},
+{
+"t0": 120.122,
+"t1": 121.443,
+"text": "ANEXO",
+"color": "#ffffff"
+},
+{
+"t0": 121.443,
+"t1": 123.134,
+"text": "FRASCO → DEL VENDEDOR",
+"color": "#c58bff"
+},
+{
+"t0": 123.134,
+"t1": 125.391,
+"text": "INCLUIDO EL CONTENIDO",
+"color": "#c58bff"
+},
+{
+"t0": 131.206,
+"t1": 133.718,
+"text": "DEPÓSITO: 6.000 MILLONES",
+"color": "#ffd84a"
+},
+{
+"t0": 160.781,
+"t1": 163.368,
+"text": "413",
+"color": "#ff5a4a"
+},
+{
+"t0": 172.613,
+"t1": 174.075,
+"text": "413 PAGARÉS",
+"color": "#ff5a4a"
+},
+{
+"t0": 174.264,
+"t1": 176.221,
+"text": "TATARABUELO",
+"color": "#ffffff"
+},
+{
+"t0": 176.221,
+"t1": 178.303,
+"text": "ABUELO",
+"color": "#ffffff"
+},
+{
+"t0": 178.303,
+"t1": 180.635,
+"text": "PAPÁ",
+"color": "#ffffff"
+},
+{
+"t0": 183.921,
+"t1": 186.329,
+"text": "GARANTÍA: ESTA CASA",
+"color": "#ff5a4a"
+},
+{
+"t0": 187.998,
+"t1": 192.142,
+"text": "ACREEDORES: MEDIO BARRIO",
+"color": "#ffd84a"
+},
+{
+"t0": 195.43,
+"t1": 197.228,
+"text": "TRATO CANCELADO · PIERDE EL DEPÓSITO",
+"color": "#ff5a4a"
+},
+{
+"t0": 200.104,
+"t1": 203.23,
+"text": "TUYO ✔",
+"color": "#7dff9a"
+},
+{
+"t0": 209.141,
+"t1": 212.671,
+"text": "VER EL FRASCO: 50.000 VND",
+"color": "#ffd84a"
+},
+{
+"t0": 226.08,
+"t1": 233.779,
+"text": "PRÓXIMAMENTE",
+"color": "#ffd84a"
+},
+{
+"t0": 234.085,
+"t1": 241.11,
+"text": "SUSCRÍBETE",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.45,
+"src": "p03/sfx/khoa.wav",
+"vol": 1
+},
+{
+"t": 10.303,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 10.633,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.35
+},
+{
+"t": 22.884,
+"src": "p02/sfx/tua.wav",
+"vol": 0.7
+},
+{
+"t": 23.849,
+"src": "p03/sfx/chuonggio.wav",
+"vol": 0.6
+},
+{
+"t": 43.453,
+"src": "p03/sfx/tach.wav",
+"vol": 0.8
+},
+{
+"t": 44.141,
+"src": "p03/sfx/tach.wav",
+"vol": 0.8
+},
+{
+"t": 51.907,
+"src": "p03/sfx/xu.wav",
+"vol": 0.7
+},
+{
+"t": 54.209,
+"src": "p03/sfx/khoan.wav",
+"vol": 0.45
+},
+{
+"t": 63.241,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 69.348,
+"src": "p03/sfx/khoa.wav",
+"vol": 0.9
+},
+{
+"t": 74.93,
+"src": "p03/sfx/thuoc.wav",
+"vol": 0.8
+},
+{
+"t": 78.79,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 82.662,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 97.478,
+"src": "p03/sfx/mam.wav",
+"vol": 0.9
+},
+{
+"t": 116.826,
+"src": "p03/sfx/xu.wav",
+"vol": 0.8
+},
+{
+"t": 121.443,
+"src": "p02/sfx/but.wav",
+"vol": 0.7
+},
+{
+"t": 124.876,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 136.559,
+"src": "p02/sfx/de.wav",
+"vol": 0.6
+},
+{
+"t": 148.763,
+"src": "p03/sfx/khoa.wav",
+"vol": 1
+},
+{
+"t": 163.368,
+"src": "p03/sfx/sang.wav",
+"vol": 0.5
+},
+{
+"t": 167.259,
+"src": "p03/sfx/hu.wav",
+"vol": 0.8
+},
+{
+"t": 172.613,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 174.264,
+"src": "p02/sfx/lat.wav",
+"vol": 0.6
+},
+{
+"t": 176.221,
+"src": "p02/sfx/lat.wav",
+"vol": 0.6
+},
+{
+"t": 178.303,
+"src": "p02/sfx/lat.wav",
+"vol": 0.6
+},
+{
+"t": 183.921,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 186.329,
+"src": "p02/sfx/riram.wav",
+"vol": 0.6
+},
+{
+"t": 195.43,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 202.693,
+"src": "p02/sfx/dau.wav",
+"vol": 0.9
+},
+{
+"t": 209.25,
+"src": "p03/sfx/xu.wav",
+"vol": 0.8
+},
+{
+"t": 210.781,
+"src": "sh6/sfx/cheer.wav",
+"vol": 0.25,
+"dur": 2.0
+},
+{
+"t": 218.42,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 226.08,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 239.786,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 2.05,
+"dur": 2.256,
+"text": "…cuatrocientos doce. Cuatrocientos trece."
+},
+{
+"t": 4.607,
+"dur": 2.138,
+"text": "¿Qui… quién anda ahí? ¿Qué estás contando?"
+},
+{
+"t": 6.994,
+"dur": 2.309,
+"text": "Cuento lo nuestro, señor. Ya casi termino."
+},
+{
+"t": 10.303,
+"dur": 6.592,
+"text": "¿Otra vez por aquí? Esta semana, en el barrio antiguo. Una casa de tres generaciones y un frasco que nadie ha abierto."
+},
+{
+"t": 17.146,
+"dur": 4.094,
+"text": "Y un niño que lo cuida. Muy bien portado. Da miedo de tan bien portado."
+},
+{
+"t": 21.49,
+"dur": 1.859,
+"text": "Un mes antes. Que te lo cuente."
+},
+{
+"t": 23.849,
+"dur": 6.641,
+"text": "Soy el ma xo de esta casa: un fantasma del rincón de la cocina. Vivo junto a la estufa desde los tiempos del tatarabuelo."
+},
+{
+"t": 30.739,
+"dur": 5.42,
+"text": "El tatarabuelo me encargó una cosa: toda la fortuna está en el frasco bajo la cocina. Cuídalo. Y lo hice."
+},
+{
+"t": 36.409,
+"dur": 8.59,
+"text": "¡Bienvenidos! Una casa de tres generaciones que conserva el alma del barrio antiguo. Dos millones de dongs la noche. Fotos del altar, cincuenta mil dongs más."
+},
+{
+"t": 45.249,
+"dur": 5.575,
+"text": "Conserva el alma del barrio cobrando entrada para ver un altar. El tatarabuelo también te cobraría."
+},
+{
+"t": 51.225,
+"dur": 8.526,
+"text": "Sesenta mil millones de dongs. Vacíen todo por dentro. Dejen el portón cubierto de musgo para que los turistas extranjeros le tomen fotos como patrimonio."
+},
+{
+"t": 60.001,
+"dur": 2.806,
+"text": "¡Firma! Que destruyan también la cocina, me da igual."
+},
+{
+"t": 63.057,
+"dur": 3.679,
+"text": "Si venden la casa, sus cosas se van. Tengo que mantenerlas aquí."
+},
+{
+"t": 67.235,
+"dur": 5.033,
+"text": "Primera inspección: la puerta se cerró sola. El topógrafo pasó dos horas en el baño."
+},
+{
+"t": 72.518,
+"dur": 8.04,
+"text": "Segunda inspección: la casa medía diez metros de fondo, pero el topógrafo no alcanzaba la pared del fondo. Miró la hora. Las dos de la madrugada."
+},
+{
+"t": 80.808,
+"dur": 5.297,
+"text": "Un huésped extranjero dejó una reseña de una estrella: «Un niño contó dinero toda la noche»."
+},
+{
+"t": 86.355,
+"dur": 1.813,
+"text": "No asusto a nadie. Solo cuento."
+},
+{
+"t": 88.668,
+"dur": 4.473,
+"text": "Oye, ma xo. Firma y te doy tu parte. Toma. Ofrenda de pastel de arroz con plátano."
+},
+{
+"t": 93.391,
+"dur": 3.697,
+"text": "No acepto sobornos, señor. Solo como ofrendas de pastel de arroz."
+},
+{
+"t": 98.988,
+"dur": 4.095,
+"text": "Se come la ofrenda y no hace el trabajo. Ese sí es el empleo que quiero."
+},
+{
+"t": 103.584,
+"dur": 4.622,
+"text": "Vendemos la casa, ¿sí? ¡El frasco que enterró el tatarabuelo bajo la cocina no cuenta!"
+},
+{
+"t": 108.456,
+"dur": 2.212,
+"text": "Es un simple frasco de barro. Quédatelo."
+},
+{
+"t": 110.918,
+"dur": 8.691,
+"text": "Nadie lo abrió en tres generaciones. La familia fue la más rica de la cuadra por tres generaciones. Para el señor Khai, el frasco solo podía tener oro."
+},
+{
+"t": 119.858,
+"dur": 5.283,
+"text": "Agrega una cláusula. El frasco bajo el piso pertenece al vendedor. Todo, incluido lo de adentro."
+},
+{
+"t": 125.391,
+"dur": 8.077,
+"text": "Abrimos el frasco el sábado por la mañana, hacemos inventario y vamos con el notario. Tú dejas seis mil millones de dongs de depósito. Yo lo guardo."
+},
+{
+"t": 133.718,
+"dur": 2.241,
+"text": "Recuerda esa cláusula. Ya volverá."
+},
+{
+"t": 136.559,
+"dur": 9.395,
+"text": "El viernes por la noche, el señor Khai bajó a escondidas a la cocina con una pala. Sacaría el oro primero y dejaría el frasco vacío para los compradores por la mañana."
+},
+{
+"t": 146.204,
+"dur": 3.01,
+"text": "Entró al depósito por un pico. La puerta se cerró."
+},
+{
+"t": 149.464,
+"dur": 1.075,
+"text": "…uno. Dos. Tres."
+},
+{
+"t": 151.039,
+"dur": 1.447,
+"text": "¡Abre! ¡Esta casa es mía!"
+},
+{
+"t": 152.736,
+"dur": 5.444,
+"text": "Lo sé, señor. Para vender una casa hay que hacer inventario. Eso dijo el tatarabuelo. Voy a contarle."
+},
+{
+"t": 158.43,
+"dur": 2.938,
+"text": "…cuatrocientos doce. Cuatrocientos trece. Eso es todo."
+},
+{
+"t": 163.368,
+"dur": 7.782,
+"text": "El sábado por la mañana, la puerta del depósito se abrió sola. Desenterraron el frasco frente a los compradores, su abogado y medio barrio."
+},
+{
+"t": 171.4,
+"dur": 2.425,
+"text": "Cuatrocientas trece hojas. Pagarés, señor."
+},
+{
+"t": 174.075,
+"dur": 6.31,
+"text": "El tatarabuelo pidió prestado para comprar tierras. El abuelo, para cubrir los intereses. Tu papá, para refinanciar."
+},
+{
+"t": 180.635,
+"dur": 4.694,
+"text": "Tres generaciones. Ni un solo pago. Cada vez dejaron como garantía… esta misma casa."
+},
+{
+"t": 186.329,
+"dur": 5.563,
+"text": "Los acreedores viven aquí mismo. Es el barrio antiguo. Todas las casas guardan los documentos."
+},
+{
+"t": 192.142,
+"dur": 4.835,
+"text": "Un notario no puede firmar por una casa en disputa. Nos retiramos. Pierdes el depósito."
+},
+{
+"t": 197.228,
+"dur": 5.753,
+"text": "Ah, ¿y recuerdas la cláusula que escribiste tú mismo? El frasco y todo lo de adentro son tuyos. Felicidades."
+},
+{
+"t": 203.23,
+"dur": 1.34,
+"text": "Entonces… ¿qué me queda?"
+},
+{
+"t": 204.97,
+"dur": 1.184,
+"text": "El frasco, señor."
+},
+{
+"t": 206.954,
+"dur": 5.467,
+"text": "El señor Khai dejó de vender la casa. Ahora vende entradas para ver el frasco. El doble de gente."
+},
+{
+"t": 212.671,
+"dur": 5.867,
+"text": "He cuidado las cosas de esta familia por tres generaciones. Son la familia más rica de la cuadra… en deudas."
+},
+{
+"t": 219.038,
+"dur": 6.312,
+"text": "Trescientos años sentado sobre un armario me enseñaron algo: si nadie se atreve a abrir un frasco, no lo abras."
+},
+{
+"t": 225.85,
+"dur": 7.68,
+"text": "La próxima vez: una familia de un edificio no nota que su hijo lleva tres días desaparecido… porque todos están pegados al celular."
+},
+{
+"t": 233.779,
+"dur": 6.13,
+"text": "Suscríbete. Si no, esta noche algo se sentará detrás de tu armario a contar los videos que no has visto."
+}
+],
+"comments": [
+{
+"t": 82.662,
+"u": "@jess.k",
+"c": "niño contó dinero toda la noche",
+"end": 86.355
+}
+],
+"voice": [
+{
+"t": 2.05,
+"src": "loc/es/vo/3c693d3283.wav"
+},
+{
+"t": 4.607,
+"src": "loc/es/vo/db838ec93b.wav"
+},
+{
+"t": 6.994,
+"src": "loc/es/vo/bea7baee66.wav"
+},
+{
+"t": 10.303,
+"src": "loc/es/vo/178f7512f4.wav"
+},
+{
+"t": 17.146,
+"src": "loc/es/vo/9083637171.wav"
+},
+{
+"t": 21.49,
+"src": "loc/es/vo/c2a97c1a6d.wav"
+},
+{
+"t": 23.849,
+"src": "loc/es/vo/e0009692b6.wav"
+},
+{
+"t": 30.739,
+"src": "loc/es/vo/e2ceb975ed.wav"
+},
+{
+"t": 36.409,
+"src": "loc/es/vo/24979e6bde.wav"
+},
+{
+"t": 45.249,
+"src": "loc/es/vo/892ce09ed1.wav"
+},
+{
+"t": 51.225,
+"src": "loc/es/vo/5f23d6ca23.wav"
+},
+{
+"t": 60.001,
+"src": "loc/es/vo/78bc035bd4.wav"
+},
+{
+"t": 63.057,
+"src": "loc/es/vo/1a8ce9e584.wav"
+},
+{
+"t": 67.235,
+"src": "loc/es/vo/d5bb98c7ac.wav"
+},
+{
+"t": 72.518,
+"src": "loc/es/vo/ecce60668c.wav"
+},
+{
+"t": 80.808,
+"src": "loc/es/vo/55f99eab41.wav"
+},
+{
+"t": 86.355,
+"src": "loc/es/vo/3478250dcb.wav"
+},
+{
+"t": 88.668,
+"src": "loc/es/vo/2ea680ff93.wav"
+},
+{
+"t": 93.391,
+"src": "loc/es/vo/37663ad9e9.wav"
+},
+{
+"t": 98.988,
+"src": "loc/es/vo/36c8779f4c.wav"
+},
+{
+"t": 103.584,
+"src": "loc/es/vo/114484f284.wav"
+},
+{
+"t": 108.456,
+"src": "loc/es/vo/07a2fa95a0.wav"
+},
+{
+"t": 110.918,
+"src": "loc/es/vo/3ef89b42e9.wav"
+},
+{
+"t": 119.858,
+"src": "loc/es/vo/59898a51c7.wav"
+},
+{
+"t": 125.391,
+"src": "loc/es/vo/e750689876.wav"
+},
+{
+"t": 133.718,
+"src": "loc/es/vo/31fcfa6a70.wav"
+},
+{
+"t": 136.559,
+"src": "loc/es/vo/4b8ba6a0e2.wav"
+},
+{
+"t": 146.204,
+"src": "loc/es/vo/7a6514c295.wav"
+},
+{
+"t": 149.464,
+"src": "loc/es/vo/3a48608c8e.wav"
+},
+{
+"t": 151.039,
+"src": "loc/es/vo/0261674cd5.wav"
+},
+{
+"t": 152.736,
+"src": "loc/es/vo/696a6ef8d5.wav"
+},
+{
+"t": 158.43,
+"src": "loc/es/vo/2cf458c404.wav"
+},
+{
+"t": 163.368,
+"src": "loc/es/vo/7f30f3fef1.wav"
+},
+{
+"t": 171.4,
+"src": "loc/es/vo/6d63a5fcc6.wav"
+},
+{
+"t": 174.075,
+"src": "loc/es/vo/240f4a951c.wav"
+},
+{
+"t": 180.635,
+"src": "loc/es/vo/317cb7e3c8.wav"
+},
+{
+"t": 186.329,
+"src": "loc/es/vo/e13f682474.wav"
+},
+{
+"t": 192.142,
+"src": "loc/es/vo/1fe9c47941.wav"
+},
+{
+"t": 197.228,
+"src": "loc/es/vo/19f4c5a431.wav"
+},
+{
+"t": 203.23,
+"src": "loc/es/vo/03fbe75f01.wav"
+},
+{
+"t": 204.97,
+"src": "loc/es/vo/13dc3dc98e.wav"
+},
+{
+"t": 206.954,
+"src": "loc/es/vo/e5542a9684.wav"
+},
+{
+"t": 212.671,
+"src": "loc/es/vo/93baeaa49a.wav"
+},
+{
+"t": 219.038,
+"src": "loc/es/vo/2b97e5838e.wav"
+},
+{
+"t": 225.85,
+"src": "loc/es/vo/0367fd4771.wav"
+},
+{
+"t": 233.779,
+"src": "loc/es/vo/5379329162.wav"
+}
+],
+"mutes": [
+[
+0.1,
+2.05
+],
+[
+1.85,
+4.607
+],
+[
+6.794,
+10.303
+],
+[
+62.857,
+67.235
+],
+[
+146.004,
+149.464
+],
+[
+149.264,
+151.039
+],
+[
+150.839,
+152.736
+],
+[
+152.536,
+158.43
+],
+[
+158.23,
+163.368
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

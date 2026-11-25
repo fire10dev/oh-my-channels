@@ -1,0 +1,684 @@
+[
+ {
+  "id": "s546",
+  "mascot": "buff",
+  "title": "Why Names Evaporate",
+  "mechanism": "Shallow Hearing",
+  "lines": [
+   {
+    "vo": "You shake hands at an event and hear only pure noise.",
+    "text": "PURE NOISE",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Their name vanished before you let go. Classic rookie error.",
+    "text": "GONE IN SECONDS",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "You only heard sound waves. You never loaded the mental weight.",
+    "text": "SURFACE LEVEL",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Memory takes real effort. Treat their name like the main event.",
+    "text": "HEAVY LIFTING",
+    "color": "green",
+    "actor": "think",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Link their name to their job title right as they speak.",
+    "text": "LINK TO ROLE",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Engage the brain muscle early, or enjoy greeting strangers all night.",
+    "text": "ENGAGE OR FORGET",
+    "color": "gold",
+    "actor": "arms_crossed_no"
+   }
+  ]
+ },
+ {
+  "id": "s546vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Tai sao vua nghe da quen?",
+  "title_vi": "Tại sao vừa nghe đã quên?",
+  "mechanism": "Shallow Hearing",
+  "lines": [
+   {
+    "vo": "Vừa bắt tay đối tác xong, tai bạn chỉ lọt toàn tiếng ồn.",
+    "text": "TIẾNG ỒN TRÔI QUA",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Vừa buông tay là quên sạch tên. Lại nâng tạ hụt rồi.",
+    "text": "QUÊN TRONG MỘT GIÂY",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Não bạn chỉ hứng sóng âm bề mặt, chưa chịu nâng tạ thật.",
+    "text": "XỬ LÝ NÔNG",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nghe tên người ta như bài tập chính, không phải nhạc nền.",
+    "text": "BÀI TẬP CHÍNH",
+    "color": "green",
+    "actor": "think",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Gắn ngay tên họ vào công việc hoặc người quen chung.",
+    "text": "GẮN VÀO VAI TRÒ",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Tập trung sâu ngay từ giây đầu, hoặc cả buổi gọi nhầm tên.",
+    "text": "TẬP TRUNG HOẶC QUÊN",
+    "color": "gold",
+    "actor": "arms_crossed_no"
+   }
+  ]
+ },
+ {
+  "id": "s547",
+  "mascot": "pen",
+  "title": "The Power of Saying It",
+  "mechanism": "Say It Back",
+  "lines": [
+   {
+    "vo": "A friend introduces someone new at coffee, and you just nod.",
+    "text": "THE POLITE NOD",
+    "color": "red",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "You smile politely, but their name disappears before your first sip.",
+    "text": "LOST IN SECONDS",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Passive hearing leaves almost no trace in a busy mind.",
+    "text": "PASSIVE LISTENING",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Saying a name out loud forces your brain to pay full attention.",
+    "text": "SAY IT ALOUD",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Weave it into your very first reply naturally.",
+    "text": "SAY IT BACK",
+    "color": "green",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "A simple, great to meet you Sarah, locks in the anchor.",
+    "text": "FIRST REPETITION",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "What happens if you say their name before taking that sip?",
+    "text": "TRY IT TODAY",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s547vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Nhac lai ten ngay khi gap",
+  "title_vi": "Nhắc lại tên ngay khi gặp",
+  "mechanism": "Say It Back",
+  "lines": [
+   {
+    "vo": "Bạn đi cà phê, được giới thiệu người mới rồi chỉ cười trừ.",
+    "text": "CHỈ CƯỜI TRỪ",
+    "color": "red",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Chưa kịp nhấp ngụm trà sữa, tên họ đã bay đi đâu mất.",
+    "text": "BAY MẤT TÊN",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Chỉ nghe thụ động, não mình rất khó tạo thành ký ức sâu.",
+    "text": "NGHE THỤ ĐỘNG",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Khi chính miệng bạn phát âm ra, não mới thật sự ghi nhận.",
+    "text": "TỰ PHÁT ÂM",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Gắn ngay tên vào câu chào đầu tiên thật tự nhiên.",
+    "text": "GẮN VÀO CÂU CHÀO",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Rất vui được gặp bạn Linh, thế là tạo xong một điểm chạm.",
+    "text": "ĐIỂM CHẠM ĐẦU TIÊN",
+    "color": "green",
+    "actor": "front",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Lần tới gọi tên họ ngay câu đầu, bạn thấy đỡ ngại hơn không?",
+    "text": "THỬ NGAY HÔM NAY",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s548",
+  "mascot": "buff",
+  "title": "Tag The Common Names",
+  "mechanism": "The Detail Hook",
+  "lines": [
+   {
+    "vo": "Meeting your fifth David today? Faces blur into duplicate files.",
+    "text": "DUPLICATE FILES",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Raw repetition fails because your brain loves vivid connections.",
+    "text": "ROTE MEMORY FAILS",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tag the rookie David to an old gym buddy you already know.",
+    "text": "FIND AN ANCHOR",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Picture your old friend handing this stranger a giant trophy.",
+    "text": "VIVID PICTURE",
+    "color": "green",
+    "actor": "front",
+    "prop": "target"
+   },
+   {
+    "vo": "Absurd images build iron bridges. Pick an anchor or stay confused.",
+    "text": "ANCHOR IT DOWN",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s548vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Cach nho ten trung nhieu",
+  "title_vi": "Cách nhớ tên trùng nhiều",
+  "mechanism": "The Detail Hook",
+  "lines": [
+   {
+    "vo": "Đi nhận việc mới, một phòng có tận ba người cùng tên Linh.",
+    "text": "TÊN TRÙNG QUÁ NHIỀU",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Cố học vẹt từng người chỉ tổ quá tải bộ nhớ.",
+    "text": "HỌC VẸT DỄ HỎNG",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Móc nối người mới với một người tên Linh bạn đã thân.",
+    "text": "MÓC NỐI NGƯỜI QUEN",
+    "color": "green",
+    "actor": "think"
+   },
+   {
+    "vo": "Tưởng tượng bạn thân trao cúp cho đồng nghiệp mới này.",
+    "text": "HÌNH ẢNH KỲ QUẶC",
+    "color": "green",
+    "actor": "front",
+    "prop": "target"
+   },
+   {
+    "vo": "Não chuộng hình ảnh độc lạ. Móc nối ngay hoặc chào nhầm tên cả tháng.",
+    "text": "KẾT NỐI NGAY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s549",
+  "mascot": "pen",
+  "title": "Spot The Standout Detail",
+  "mechanism": "Standout Traits",
+  "lines": [
+   {
+    "vo": "At large conferences, everyone wears dark suits and sounds identical.",
+    "text": "SEA OF SUITS",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Ten minutes of small talk, and the room turns into fog.",
+    "text": "GREY FOG",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Our brains easily discard details that look completely uniform.",
+    "text": "FILTERED OUT",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Break the sea of suits by spotting one feature that breaks the pattern.",
+    "text": "BREAK THE PATTERN",
+    "color": "green",
+    "actor": "reading",
+    "prop": "target"
+   },
+   {
+    "vo": "A silver lapel pin, curly red hair, or a remarkably deep voice.",
+    "text": "ONE UNIQUE TRAIT",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Pin that single feature directly to their name in your head.",
+    "text": "LINK TO NAME",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "One distinct cue gives memory an instant shortcut through the crowd.",
+    "text": "INSTANT SHORTCUT",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s549vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Tim diem khac biet de nho",
+  "title_vi": "Tìm điểm khác biệt để nhớ",
+  "mechanism": "Standout Traits",
+  "lines": [
+   {
+    "vo": "Đi hội thảo đối tác, ai cũng sơ mi trắng và thẻ đeo cổ.",
+    "text": "AI CŨNG GIỐNG NHAU",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Nói chuyện mười phút, cả căn phòng mờ nhạt như đám sương mù.",
+    "text": "MỜ NHẠT NHANH",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Não mình thường lướt qua những chi tiết quá đồng đều.",
+    "text": "BỎ QUA ĐỒNG ĐỀU",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tìm ngay một nét khác biệt để phá vỡ sự mờ nhạt đồng đều đó.",
+    "text": "PHÁ VỠ ĐỒNG ĐỀU",
+    "color": "green",
+    "actor": "reading",
+    "prop": "target"
+   },
+   {
+    "vo": "Gọng kính ngũ giác, giọng trầm ấm, hay chiếc đồng hồ dây cam.",
+    "text": "CHI TIẾT LẠ",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Ghép chi tiết đó cùng tên họ thành một cụm duy nhất.",
+    "text": "GHÉP CÙNG TÊN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Một điểm nhấn nhỏ giúp ta nhận ra họ giữa cả trăm người.",
+    "text": "ĐIỂM NHẬN DIỆN",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s550",
+  "mascot": "buff",
+  "title": "Run The Silent Quiz",
+  "mechanism": "The Silent Rep",
+  "lines": [
+   {
+    "vo": "They share their work project, and your brain wanders into space.",
+    "text": "SPACED OUT",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Conversation ends, and their name vanished completely. Zero reps logged.",
+    "text": "ZERO REPS",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Active retrieval builds muscle. Passive waiting lets it fade away.",
+    "text": "ACTIVE RECALL",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Sixty seconds into the chat, run a silent quiz in your head.",
+    "text": "QUIZ YOURSELF",
+    "color": "green",
+    "actor": "think",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Confirm his name is Marcus while he is still talking.",
+    "text": "LOCK IT IN",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Test your memory while it is warm, or fail at goodbye.",
+    "text": "TEST OR FAIL",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s550vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Meo nho ten sau mot phut",
+  "title_vi": "Mẹo nhớ tên sau một phút",
+  "mechanism": "The Silent Rep",
+  "lines": [
+   {
+    "vo": "Người ta say sưa kể chuyện dự án, đầu bạn lại nghĩ đi đâu.",
+    "text": "NGỒI NGHĨ LINH TINH",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Nói xong câu chuyện, tên họ bay mất dạng. Lười tập là rớt tạ.",
+    "text": "BAY MẤT TÊN",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Chờ đến lúc chào về mới nhớ là cơ bắp đã nguội ngắt.",
+    "text": "CƠ ĐÃ NGUỘI",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Sau sáu mươi giây nói chuyện, tự kiểm tra trong đầu ngay.",
+    "text": "TỰ HỎI TRONG ĐẦU",
+    "color": "green",
+    "actor": "think",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Tự nhủ thầm người này tên Tuấn, khớp lại gương mặt họ.",
+    "text": "KHỚP LẠI MẶT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Kiểm tra ngay một hiệp trong đầu, hoặc chịu cảnh chào nhầm tên lúc về.",
+    "text": "TỰ KIỂM TRA NGAY",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s551",
+  "mascot": "pen",
+  "title": "Why Dinner Names Fade",
+  "mechanism": "Spaced Reps",
+  "lines": [
+   {
+    "vo": "At company dinners, you recall their name during appetizers.",
+    "text": "REMEMBER AT FIRST",
+    "color": "red",
+    "actor": "snack"
+   },
+   {
+    "vo": "By dessert, you stare at their face in total silence.",
+    "text": "GONE BY DESSERT",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Cramming five repetitions upfront never builds lasting memory.",
+    "text": "CRAMMING FAILS",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Our brains retain names far better across expanding time gaps.",
+    "text": "SPACED INTERVALS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Test yourself when they stand up to grab a drink.",
+    "text": "TEST ON BREAK",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Test once more as you leave the venue for home.",
+    "text": "TEST BEFORE EXIT",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Each spaced reminder catches the memory right before it slips.",
+    "text": "CATCH IT IN TIME",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s551vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Bi quyet nho ten suot buoi tiec",
+  "title_vi": "Bí quyết nhớ tên suốt buổi tiệc",
+  "mechanism": "Spaced Reps",
+  "lines": [
+   {
+    "vo": "Đầu bữa tiệc công ty, bạn nhớ vanh vách tên người ngồi cạnh.",
+    "text": "ĐẦU BỮA NHỚ RÕ",
+    "color": "red",
+    "actor": "snack"
+   },
+   {
+    "vo": "Đến lúc tính tiền ra về, đầu bạn lại trống trơn hoàn toàn.",
+    "text": "CUỐI BỮA QUÊN SẠCH",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Nhẩm tên năm lần liên tục lúc đầu không giúp nhớ lâu.",
+    "text": "NHẨM LIÊN TỤC VÔ ÍCH",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Bộ não ghi nhớ bền hơn khi ta giãn cách các lần nhớ lại.",
+    "text": "GIÃN CÁCH THỜI GIAN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tự nhẩm lại một lần khi họ đứng lên đi lấy đồ uống.",
+    "text": "NHẮC KHI ĐỨNG LÊN",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Nhắc lại thêm một lần nữa ngay lúc dắt xe ra về.",
+    "text": "NHẮC KHI DẮT XE",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Nhắc lại đúng lúc sắp quên, cái tên sẽ bám rễ cực kỳ lâu.",
+    "text": "GIỮ KÝ ỨC BỀN",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s552",
+  "mascot": "buff",
+  "title": "Outside The Office Wall",
+  "mechanism": "Context Anchors",
+  "lines": [
+   {
+    "vo": "You bump into a client at the grocery aisle and freeze.",
+    "text": "GROCERY FREEZE",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Recognize the face instantly, but their name vanished into thin air.",
+    "text": "NAME GONE",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Your brain locked their name strictly to the office wallpaper.",
+    "text": "TIED TO THE DESK",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Picture them right behind their desk before you open your mouth.",
+    "text": "VISUALIZE OFFICE",
+    "color": "green",
+    "actor": "think",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Drag their desk into the cereal aisle. Bench-press the memory and say hello.",
+    "text": "PULL THE CONTEXT",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s552vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Gap khach hang ngoai duong",
+  "title_vi": "Gặp khách hàng ngoài đường",
+  "mechanism": "Context Anchors",
+  "lines": [
+   {
+    "vo": "Đi siêu thị cuối tuần đụng ngay đối tác quen và đứng hình.",
+    "text": "ĐỨNG HÌNH BẤT NGỜ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Mặt nhìn rõ quen, nhưng tên họ biến mất không dấu vết.",
+    "text": "BIẾN MẤT TÊN",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Não bạn trót khoá tên họ dính chặt vào bàn họp công ty.",
+    "text": "KHOÁ VÀO BÀN HỌP",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tưởng tượng họ đang ngồi trước laptop phòng làm việc ngay.",
+    "text": "DỰNG LẠI BỐI CẢNH",
+    "color": "green",
+    "actor": "think",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Kéo cả bàn làm việc của họ ra quầy tính tiền, rồi chào to lên.",
+    "text": "KÉO LẠI BỐI CẢNH",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ }
+]

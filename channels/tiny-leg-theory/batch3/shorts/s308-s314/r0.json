@@ -1,0 +1,706 @@
+[
+ {
+  "id": "s308",
+  "mascot": "buff",
+  "title": "Why Infinite Swiping Exhausts Your Brain",
+  "mechanism": "Choice Overload",
+  "lines": [
+   {
+    "vo": "Swiped seventy profiles in ten minutes. Finding love? Sure, buddy.",
+    "text": "ENDLESS SWIPING",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Nobody feels real anymore. Just faces in a digital catalog.",
+    "text": "FACES BLUR",
+    "color": "red",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "That is choice overload. Your brain cannot handle infinite options.",
+    "text": "CHOICE OVERLOAD",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Too many choices shuts down your empathy and curiosity completely.",
+    "text": "EMPATHY BURNOUT",
+    "actor": "arms_crossed_no",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Cap it at five matches a week. Review them with focus.",
+    "text": "MAX FIVE MATCHES",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Quality reps over endless scrolling. Close the app now.",
+    "text": "PUT PHONE DOWN",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s308vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Quet moi tay ma chang chon duoc ai",
+  "title_vi": "Quẹt mỏi tay mà chẳng chọn được ai",
+  "mechanism": "Choice Overload",
+  "lines": [
+   {
+    "vo": "Ăn tối xong nằm quẹt trăm người trong mười phút. Tưởng sắp có người yêu à?",
+    "text": "QUẸT MỎI TAY",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Càng lướt nhiều, bạn càng thấy ai nhìn cũng na ná nhau.",
+    "text": "AI CŨNG GIỐNG NHAU",
+    "color": "red",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Hiện tượng quá tải lựa chọn làm cạn sạch kiên nhẫn của não bộ.",
+    "text": "QUÁ TẢI LỰA CHỌN",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Khi danh mục quá dài, cảm xúc lập tức chuyển sang chế độ lười.",
+    "text": "CẠN KIÊN NHẪN",
+    "actor": "arms_crossed_no",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Mỗi tuần chỉ kết nối tối đa năm người và trò chuyện thật nghiêm túc.",
+    "text": "CHỌN NĂM NGƯỜI",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Muốn có kết quả thật thì dừng lướt dạo. Tắt ứng dụng ngay.",
+    "text": "TẮT MÀN HÌNH NGAY",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s309",
+  "mascot": "pen",
+  "title": "Why Good Matches Never Feel Good Enough",
+  "mechanism": "Maximizing",
+  "lines": [
+   {
+    "vo": "You match with someone great, yet immediately wonder who is next.",
+    "text": "SOMEONE BETTER?",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "You keep swiping, terrified of settling before finding absolute perfection.",
+    "text": "CHASING PERFECTION",
+    "color": "red",
+    "actor": "panic",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Psychologists call this maximizing: treating humans like catalog items.",
+    "text": "MAXIMIZING TRAP",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Comparing real people against a fantasy guarantees disappointment.",
+    "text": "REAL VS FANTASY",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "You drain your energy grading flaws instead of connecting.",
+    "text": "GRADING FLAWS",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Pick three non-negotiable values. If they fit, stop shopping.",
+    "text": "THREE CORE VALUES",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Are you seeking a partner, or shopping for a trophy?",
+    "text": "PARTNER OR TROPHY?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s309vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Thay nguoi tot van muon tim moi hon",
+  "title_vi": "Thấy người tốt vẫn muốn tìm mối hơn",
+  "mechanism": "Maximizing",
+  "lines": [
+   {
+    "vo": "Vừa nhắn tin hợp với một người, bạn đã tò mò xem ai sau đó.",
+    "text": "AI Ở PHÍA SAU?",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Nỗi sợ bỏ lỡ khiến bạn muốn quẹt tiếp để tìm hồ sơ hoàn hảo.",
+    "text": "SỢ BỎ LỠ MỐI NGON",
+    "color": "red",
+    "actor": "panic",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Tâm lý tối đa hoá biến việc tìm hiểu thành cuộc săn hàng giảm giá.",
+    "text": "BẪY TỐI ĐA HOÁ",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "So sánh người thật ngoài đời với hình mẫu ảo tưởng chỉ đem lại thất vọng.",
+    "text": "ẢO TƯỞNG HOÀN HẢO",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Bạn mải săm soi từng khuyết điểm nhỏ thay vì cảm nhận sự ấm áp.",
+    "text": "SĂM SOI LỖI NHỎ",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Chỉ cần chọn ba giá trị cốt lõi. Khi đủ tiêu chuẩn, hãy dừng tìm kiếm.",
+    "text": "BA TIÊU CHÍ ĐỦ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Bạn đang tìm một người đồng hành, hay săn một món đồ trưng bày?",
+    "text": "BẠN ĐANG TÌM GÌ?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s310",
+  "mascot": "buff",
+  "title": "Why Settling For Good Enough Wins in Dating",
+  "mechanism": "Satisficing",
+  "lines": [
+   {
+    "vo": "Worried that picking a good match means settling for second best? Nonsense.",
+    "text": "SETTLING FOR LESS?",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Endless browsing is a digital treadmill. You burn energy going nowhere.",
+    "text": "DIGITAL TREADMILL",
+    "color": "red",
+    "actor": "sofa_scroll"
+   },
+   {
+    "vo": "Smart people satisfice: set high standards, then lock in once cleared.",
+    "text": "THE SATISFICER",
+    "color": "green",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "Stop chatting for weeks. Invite them for a fifteen-minute coffee date.",
+    "text": "FIFTEEN MIN COFFEE",
+    "color": "green",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Build real connection or stay stuck swiping. Make your move.",
+    "text": "LOCK IN THE REP",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s310vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "So chon nguoi vua van la chiu thiet",
+  "title_vi": "Sợ chọn người vừa vặn là chịu thiệt",
+  "mechanism": "Satisficing",
+  "lines": [
+   {
+    "vo": "Gặp người hợp ý lại sợ vội vàng là chịu thiệt? Nghĩ sai rồi.",
+    "text": "SỢ CHỊU THIỆT?",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Mải lướt tìm người điểm mười chỉ như chạy bộ trên máy. Chẳng đi tới đâu.",
+    "text": "CHẠY TRÊN MÁY TẬP",
+    "color": "red",
+    "actor": "sofa_scroll"
+   },
+   {
+    "vo": "Người tỉnh táo biết chọn mức vừa vặn: đạt chuẩn là chốt để tìm hiểu sâu.",
+    "text": "CHỌN MỨC VỪA VẶN",
+    "color": "green",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "Bớt nhắn tin dông dài hàng tuần. Hẹn nhau một cốc cà phê mười lăm phút.",
+    "text": "CÀ PHÊ MƯỜI LĂM PHÚT",
+    "color": "green",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Chốt một buổi gặp mặt trực tiếp hoặc tiếp tục ế trên mạng. Chọn đi.",
+    "text": "CHỐT KÈO GẶP MẶT",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s311",
+  "mascot": "pen",
+  "title": "Why Only One Match Stresses You Out",
+  "mechanism": "Single-Option Aversion",
+  "lines": [
+   {
+    "vo": "Talking to just one match makes every text feel like high stakes.",
+    "text": "HIGH STAKES TEXT",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "You dissect punctuation marks because your brain lacks any other reference point.",
+    "text": "OVERANALYZING",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "This is single-option aversion: an isolated choice feels like an ultimatum.",
+    "text": "ONE OPTION TRAP",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Without comparison, your mind treats a single message like an all-or-nothing gamble.",
+    "text": "NO COMPARISON",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Keep two calm conversations going, asking one thoughtful question to each.",
+    "text": "TWO CONVERSATIONS",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Contrast removes the suffocating pressure, letting real curiosity breathe.",
+    "text": "BREATHE EASIER",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s311vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Chi nhan mot nguoi cang de ap luc",
+  "title_vi": "Chỉ nhắn một người càng dễ áp lực",
+  "mechanism": "Single-Option Aversion",
+  "lines": [
+   {
+    "vo": "Chỉ nhắn tin với đúng một người khiến từng tin nhắn hoá thành áp lực.",
+    "text": "ÁP LỰC TIN NHẮN",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Người ta ngắt câu bằng dấu chấm, bạn đã lo mình lỡ lời làm mất lòng.",
+    "text": "SOI TỪNG DẤU CHẤM",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Sợ duy nhất một lựa chọn khiến não bạn coi đây là canh bạc được mất.",
+    "text": "SỢ DUY NHẤT MỘT KÈO",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Khi thiếu vật đối chứng, bất kỳ sự im lặng nào cũng trở thành nguy cơ.",
+    "text": "THIẾU ĐỐI CHỨNG",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Hãy giữ hai cuộc trò chuyện song song và hỏi những câu gợi mở.",
+    "text": "HAI CUỘC TRÒ CHUYỆN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Có sự so sánh nhẹ nhàng, tâm trí sẽ tự khắc bớt căng thẳng.",
+    "text": "GIẢM BỚT CĂNG THẲNG",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s312",
+  "mascot": "buff",
+  "title": "Why Being Left on Read Stings So Hard",
+  "mechanism": "Rejection Sensitivity",
+  "lines": [
+   {
+    "vo": "Sent a text four hours ago. Left on read. Stomach drops immediately.",
+    "text": "LEFT ON READ",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "You think they hate you, or you sounded completely awkward. Classic spiral.",
+    "text": "BRAIN SPIRALING",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "That sting is rejection sensitivity blowing silence into a survival threat.",
+    "text": "REJECTION STING",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Your ancient instincts confuse an unread notification with tribal banishment.",
+    "text": "TRIBAL FEAR",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "They are probably just stuck in traffic or eating dinner, buddy.",
+    "text": "JUST BUSY",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Treat app time like gym time: silence alerts, check once at lunch.",
+    "text": "CHECK ONCE AT LUNCH",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Stop refreshing the chat. Put the phone face down right now.",
+    "text": "PUT PHONE DOWN",
+    "color": "gold",
+    "actor": "front",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s312vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Nguoi ta chua tra loi da thay bat an",
+  "title_vi": "Người ta chưa trả lời đã thấy bất an",
+  "mechanism": "Rejection Sensitivity",
+  "lines": [
+   {
+    "vo": "Gửi tin nhắn bốn tiếng trước, hiện đã xem nhưng không trả lời. Bắt đầu hoang mang.",
+    "text": "HIỆN ĐÃ XEM",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Đầu bạn tự vẽ kịch bản rằng mình vô duyên, người ta ghét mình.",
+    "text": "TỰ NGHĨ KỊCH BẢN",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Sự nhạy cảm với việc bị từ chối biến im lặng thành báo động đỏ.",
+    "text": "BÁO ĐỘNG TỪ CHỐI",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bản năng cổ xưa nhầm lẫn tin nhắn chưa đọc với việc bị cả bầy đuổi.",
+    "text": "NỖI SỢ BỊ BỎ RƠI",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Người ta có khi chỉ đang kẹt xe hoặc bận sạc pin thôi.",
+    "text": "CHỈ LÀ ĐANG BẬN",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Tắt thông báo ứng dụng. Đặt lịch kiểm tra đúng một lần vào giờ trưa.",
+    "text": "KIỂM TRA GIỜ TRƯA",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Đừng dán mắt canh màn hình nữa. Úp điện thoại xuống và làm việc đi.",
+    "text": "ÚP ĐIỆN THOẠI XUỐNG",
+    "color": "gold",
+    "actor": "front",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s313",
+  "mascot": "pen",
+  "title": "Why You Swipe Left in Under a Second",
+  "mechanism": "Thin-Slice Judgments",
+  "lines": [
+   {
+    "vo": "Swiping left in half a second because someone wore an odd hat.",
+    "text": "HALF SECOND SWIPE",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "In one glance, your mind invents an entire fictional personality.",
+    "text": "INSTANT FICTION",
+    "color": "red",
+    "actor": "think"
+   },
+   {
+    "vo": "This is thin-slice judgment: taking tiny visual clues to jump to conclusions.",
+    "text": "THIN SLICE BIAS",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Our ancestors used rapid judgments to spot predators, not romantic life partners.",
+    "text": "ANCIENT SHORTCUT",
+    "actor": "arms_crossed_no",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "A kind and affectionate person might just take terrible front-facing photos.",
+    "text": "AWKWARD PHOTOS",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Flattening complex humans into one picture leaves you feeling chronically empty.",
+    "text": "SURFACE LEVEL",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Try a five-second rule: scroll down and read their bio before deciding.",
+    "text": "FIVE SECOND RULE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Real connection is found in stories, not professional studio lighting.",
+    "text": "LOOK PAST LIGHTING",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s313vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Quet loai ngay chi vi mot goc chup xau",
+  "title_vi": "Quẹt loại ngay chỉ vì một góc chụp xấu",
+  "mechanism": "Thin-Slice Judgments",
+  "lines": [
+   {
+    "vo": "Bạn quẹt bỏ qua trong nửa giây chỉ vì một góc chụp không ăn ảnh.",
+    "text": "NỬA GIÂY QUẸT BỎ",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Chỉ qua một tấm hình, bạn tự suy diễn tính cách người ta luôn.",
+    "text": "TỰ SUY DIỄN",
+    "color": "red",
+    "actor": "think"
+   },
+   {
+    "vo": "Đó là phán đoán lát cắt mỏng: não lấy chi tiết nhỏ để kết luận vội.",
+    "text": "PHÁN ĐOÁN LÁT CẮT",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Lối tắt này hợp né nguy hiểm thời xưa, không hợp để tìm bạn đời.",
+    "text": "LỐI TẮT CỔ XƯA",
+    "actor": "arms_crossed_no",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Một người chân thành, ấm áp có thể chỉ là người không biết tạo dáng.",
+    "text": "KHÔNG BIẾT TẠO DÁNG",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Đánh giá người khác qua vài bức ảnh phẳng lì chỉ làm bạn thêm cô đơn.",
+    "text": "CÔ ĐƠN KÉO DÀI",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Hãy giữ quy tắc năm giây: bấm xem phần giới thiệu trước khi quyết định quẹt.",
+    "text": "QUY TẮC NĂM GIÂY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Sự hoà hợp nằm ở tính cách, không nằm ở góc máy hay bộ lọc ảnh.",
+    "text": "TÍNH CÁCH QUAN TRỌNG",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s314",
+  "mascot": "buff",
+  "title": "Why You Only Date People Just Like You",
+  "mechanism": "Similarity Attraction",
+  "lines": [
+   {
+    "vo": "Passed on someone because their hometown food sounded weird? Come on, buddy.",
+    "text": "HOMETOWN BIAS",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "You are turning partner selection into a mirror-gazing routine.",
+    "text": "MIRROR ROUTINE",
+    "color": "red",
+    "actor": "front"
+   },
+   {
+    "vo": "Similarity attraction feels safe, but same hobbies do not mean emotional maturity.",
+    "text": "SIMILARITY TRAP",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Your brain picks familiarity to be lazy and avoid processing cultural differences.",
+    "text": "LAZY FAMILIARITY",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Stop looking for clones. Check how they treat people and family instead.",
+    "text": "LOOK FOR CHARACTER",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Growth happens outside your comfort zone. Give different a fair rep.",
+    "text": "STEP OUTSIDE COMFORT",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s314vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Bo qua nguoi tot chi vi khac que quan",
+  "title_vi": "Bỏ qua người tốt chỉ vì khác quê quán",
+  "mechanism": "Similarity Attraction",
+  "lines": [
+   {
+    "vo": "Vừa lướt thấy khác quê, khác khẩu vị là bạn gạt đi ngay. Lại lười rồi.",
+    "text": "GẠT VÌ KHÁC QUÊ",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bạn đang biến việc tìm người yêu thành việc soi gương tìm bản sao.",
+    "text": "TÌM MỘT BẢN SAO",
+    "color": "red",
+    "actor": "front"
+   },
+   {
+    "vo": "Sức hút tương đồng tạo cảm giác an toàn, nhưng cùng quê chẳng bảo đảm hạnh phúc.",
+    "text": "BẪY TƯƠNG ĐỒNG",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Não bạn chuộng sự quen thuộc chỉ vì ngại tìm hiểu văn hoá mới.",
+    "text": "NGẠI ĐIỀU MỚI MẺ",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Đừng chăm chăm tìm sở thích chung. Hãy xem cách họ đối đãi với gia đình.",
+    "text": "XEM CÁCH ĐỐI ĐÃI",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Mở rộng góc nhìn để trưởng thành hoặc cứ ôm khư khư vùng an toàn. Tuỳ bạn.",
+    "text": "BƯỚC RA VÙNG AN TOÀN",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ }
+]

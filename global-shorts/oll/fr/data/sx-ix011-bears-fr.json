@@ -1,0 +1,75 @@
+{
+ "title": "Les gardes contre les ours de la plus grande expédition arctique",
+ "hook": "GARDE ANTI-OURS",
+ "asof": "Chiffres de l’expédition MOSAiC, 2019–2020",
+ "world": "polar",
+ "long": "IX011",
+ "chapters": [
+  {
+   "id": "bears",
+   "hud": "JOUR 60",
+   "chip": "DÉC. 2019",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Pendant cette expédition, quelqu’un devait guetter les ours polaires.",
+     "v": "guard",
+     "you": "guard"
+    },
+    {
+     "s": "En 2019, le Polarstern s’est figé dans la banquise arctique pour un an.",
+     "v": "ship"
+    },
+    {
+     "s": "Des centaines de scientifiques travaillaient sur la glace, tout près.",
+     "v": "camp"
+    },
+    {
+     "s": "Alors, personne ne sortait sans garde anti-ours.",
+     "v": "guard",
+     "you": "camp"
+    },
+    {
+     "s": "Six à huit gardes à chaque étape du voyage.",
+     "v": "guard",
+     "st": [
+      "6–8",
+      "gardes par étape"
+     ]
+    },
+    {
+     "s": "Ils scrutaient l’horizon depuis le navire,",
+     "v": "crow"
+    },
+    {
+     "s": "ou surveillaient le camp, entouré d’un fil-piège.",
+     "v": "fence"
+    },
+    {
+     "s": "Si quelqu’un le franchit, une fusée éclairante se déclenche.",
+     "v": "fence",
+     "plane": "flare"
+    },
+    {
+     "s": "Plus de soixante ours polaires ont été repérés près du navire.",
+     "v": "bear",
+     "plane": "bear",
+     "st": [
+      "60+",
+      "ours repérés"
+     ]
+    },
+    {
+     "s": "Pas un seul n’a été abattu.",
+     "v": "bear",
+     "plane": "bear"
+    },
+    {
+     "s": "Tu monterais la garde dans le noir ?",
+     "v": "guard",
+     "you": "guard"
+    }
+   ]
+  }
+ ]
+}

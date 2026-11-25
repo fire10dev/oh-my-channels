@@ -1,0 +1,99 @@
+{
+ "title": "Où dorment vraiment les équipages de croisière",
+ "hook": "SOUS LA PISCINE",
+ "asof": "Chiffres de 2026",
+ "world": "cruise",
+ "long": "IX003",
+ "chapters": [
+  {
+   "id": "cabin",
+   "hud": "JOUR 1",
+   "chip": "23:00",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "pool",
+     "s": "Juste au-dessus, des milliers de personnes sont en vacances."
+    },
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "Et toi, tu dors ici."
+    },
+    {
+     "v": "stairs",
+     "s": "Sous les passagers,"
+    },
+    {
+     "v": "i95",
+     "s": "derrière les portes réservées à l’équipage."
+    },
+    {
+     "v": "cabin",
+     "st": [
+      "SANS FENÊTRE",
+      "la plupart des cabines"
+     ],
+     "s": "La plupart des cabines d’équipage n’ont pas de fenêtre."
+    },
+    {
+     "v": "bunk",
+     "s": "Impossible de savoir s’il fait jour ou nuit."
+    },
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "Tu partages ta cabine avec une, deux, voire trois personnes."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Tu as une couchette."
+    },
+    {
+     "v": "bunk",
+     "s": "Un matelas étroit."
+    },
+    {
+     "v": "bunk",
+     "s": "Deux ou trois tiroirs."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Et un rideau."
+    },
+    {
+     "v": "cabin",
+     "s": "C’est presque toute ton intimité."
+    },
+    {
+     "v": "cabin2",
+     "s": "Ton coloc peut travailler de nuit."
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "Toi, tu peux travailler le jour."
+    },
+    {
+     "v": "engine",
+     "s": "Et le navire ne se tait jamais."
+    },
+    {
+     "v": "engine",
+     "s": "Les moteurs ronronnent. Le sol vibre."
+    },
+    {
+     "v": "corridor",
+     "s": "Les portes claquent. Des pas résonnent."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Tu pourrais dormir ici pendant six mois ?"
+    }
+   ]
+  }
+ ]
+}

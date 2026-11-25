@@ -1,0 +1,78 @@
+{
+ "title": "Dormir à 100 sur un porte-avions",
+ "hook": "CENT MARINS, UN DORTOIR",
+ "asof": "Chiffres tirés de rapports de l’US Navy, 2006–2025",
+ "world": "carrier",
+ "long": "IX009",
+ "chapters": [
+  {
+   "id": "sleep",
+   "hud": "JOUR 1",
+   "chip": "23:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Imagine partager ta chambre avec cent personnes.",
+     "v": "berthing",
+     "you": "rack"
+    },
+    {
+     "s": "Sur un porte-avions, c’est normal.",
+     "v": "wide"
+    },
+    {
+     "s": "Les marins dorment dans des dortoirs, sur des couchettes à trois niveaux.",
+     "v": "berthing",
+     "st": [
+      "100",
+      "marins par dortoir · 2006"
+     ]
+    },
+    {
+     "s": "Si près qu’un retournement peut réveiller celui au-dessus de toi.",
+     "v": "rack",
+     "you": "rack"
+    },
+    {
+     "s": "Chaque couchette a un rideau.",
+     "v": "rack",
+     "you": "rack",
+     "plane": "curtain"
+    },
+    {
+     "s": "Il bloque la lumière,",
+     "v": "rack",
+     "plane": "curtain",
+     "you": "rack"
+    },
+    {
+     "s": "mais pas le bruit.",
+     "v": "rack",
+     "plane": "curtain"
+    },
+    {
+     "s": "Jour et nuit, les avions appontent sur le pont, juste au-dessus.",
+     "v": "deck",
+     "plane": "trap",
+     "tod": "night"
+    },
+    {
+     "s": "Les catapultes tirent, et le fracas résonne dans l’acier.",
+     "v": "catapult",
+     "plane": "launch",
+     "tod": "night"
+    },
+    {
+     "s": "Et quelqu’un se lève toujours pour prendre son service.",
+     "v": "clock"
+    },
+    {
+     "s": "Tu pourrais dormir avec tout ce vacarme ?",
+     "v": "rack",
+     "you": "rack",
+     "plane": "curtain"
+    }
+   ]
+  }
+ ]
+}

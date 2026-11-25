@@ -1,0 +1,69 @@
+{
+ "title": "150 días sin amanecer, congelados en el Ártico",
+ "hook": "150 DÍAS DE NOCHE",
+ "asof": "Datos de la expedición MOSAiC 2019–2020",
+ "world": "polar",
+ "long": "IX011",
+ "chapters": [
+  {
+   "id": "dark",
+   "hud": "DÍA 90",
+   "chip": "ENE 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Imagina que el sol no sale durante unos ciento cincuenta días.",
+     "v": "ice",
+     "st": [
+      "~150 DÍAS",
+      "sin amanecer"
+     ]
+    },
+    {
+     "s": "Eso vivió la expedición MOSAiC.",
+     "v": "ship"
+    },
+    {
+     "s": "Un barco atrapado en el hielo ártico, a la deriva más allá del Polo Norte.",
+     "v": "map"
+    },
+    {
+     "s": "Solo la luna y las estrellas iluminan el hielo.",
+     "v": "sky"
+    },
+    {
+     "s": "La temperatura más baja: menos cuarenta y dos coma tres.",
+     "v": "camp",
+     "st": [
+      "−42,3 °C",
+      "temperatura más baja"
+     ]
+    },
+    {
+     "s": "Con el viento, se sentían menos sesenta y cinco grados.",
+     "v": "guard",
+     "you": "guard"
+    },
+    {
+     "s": "El hielo se mueve y se abre en grietas por el campamento.",
+     "v": "crack",
+     "plane": "crack"
+    },
+    {
+     "s": "El pueblo más cercano queda hasta a mil quinientos kilómetros.",
+     "v": "map"
+    },
+    {
+     "s": "Y cuando volvió el sol, no se ocultó en todo el verano.",
+     "v": "sky",
+     "tod": "day"
+    },
+    {
+     "s": "¿Aguantarías cinco meses de noche?",
+     "v": "cabin",
+     "you": "cabin"
+    }
+   ]
+  }
+ ]
+}

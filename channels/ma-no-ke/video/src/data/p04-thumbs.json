@@ -1,0 +1,120 @@
+{
+ "T1": {
+  "bg": {
+   "src": "p04/img/G06.png",
+   "crop": [
+    948,
+    60,
+    1100
+   ],
+   "filter": "brightness(1.12) contrast(1.08)"
+  },
+  "shade": "linear-gradient(90deg, rgba(5,7,13,.92) 0%, rgba(5,7,13,.7) 28%, rgba(0,0,0,0) 48%)",
+  "texts": [
+   {
+    "t": "AI NGỒI",
+    "x": 40,
+    "y": 170,
+    "size": 150,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "rot": -3
+   },
+   {
+    "t": "ĐÓ?",
+    "x": 40,
+    "y": 350,
+    "size": 230,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "band": "#b3121b",
+    "rot": 2
+   }
+  ]
+ },
+ "T2": {
+  "bg": {
+   "src": "p04/img/B06.png",
+   "sw": 1344,
+   "crop": [
+    0,
+    500,
+    1344
+   ],
+   "filter": "brightness(1.12) contrast(1.08)"
+  },
+  "shade": "linear-gradient(180deg, rgba(5,7,13,.75) 0%, rgba(0,0,0,0) 38%)",
+  "texts": [
+   {
+    "t": "CON AI",
+    "x": 1250,
+    "y": 30,
+    "size": 170,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "r",
+    "rot": 3
+   },
+   {
+    "t": "ĐÂY?",
+    "x": 1250,
+    "y": 210,
+    "size": 200,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "r",
+    "band": "#b3121b",
+    "rot": -2
+   }
+  ]
+ },
+ "T3": {
+  "bg": {
+   "src": "p04/img/G01.png",
+   "crop": [
+    848,
+    200,
+    1200
+   ],
+   "filter": "brightness(1.12) contrast(1.08)"
+  },
+  "shade": "linear-gradient(90deg, rgba(5,7,13,.9) 0%, rgba(5,7,13,.6) 30%, rgba(0,0,0,0) 50%)",
+  "texts": [
+   {
+    "t": "4 NGƯỜI",
+    "x": 40,
+    "y": 120,
+    "size": 150,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "rot": -3
+   },
+   {
+    "t": "3 TIẾNG",
+    "x": 40,
+    "y": 300,
+    "size": 150,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "rot": -2
+   },
+   {
+    "t": "NHAI?",
+    "x": 40,
+    "y": 460,
+    "size": 170,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "band": "#b3121b",
+    "rot": 2
+   }
+  ]
+ }
+}

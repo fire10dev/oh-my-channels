@@ -62,7 +62,7 @@ const TAIWAN = path([[120.1, 23.0], [120.8, 22.0], [121.5, 22.9], [121.9, 24.9],
 const JAPAN = path([[129.7, 33.2], [130.9, 31.3], [131.8, 32.6], [131.5, 33.9], [133.5, 34.4], [135.2, 33.8], [136.9, 34.6], [139.8, 35.0],
   [140.9, 36.5], [141.9, 39.5], [141.4, 41.4], [140.0, 40.8], [139.6, 38.6], [137.2, 36.9], [135.9, 35.6], [133.0, 35.5], [131.0, 34.4]]) + ' Z';
 const RYUKYU: [number, number][] = [[127.8, 26.4], [128.3, 26.8], [129.5, 28.3], [124.2, 24.4], [125.3, 24.8]];
-const WIDE: Record<string, boolean> = {asia_tributaries: true, tribute_route: true};
+const WIDE: Record<string, boolean> = {asia_tributaries: true, tribute_route: true, qin_south_214: true};
 // Dotted overland routes (drawn progressively): Thăng Long → Lạng Sơn → Nanning → Guilin → Wuchang → Beijing (schematic).
 const ROUTES: Record<string, [number, number][]> = {
   tribute_route: [[105.85, 21.03], [106.76, 21.85], [108.37, 22.82], [110.3, 25.27], [112.9, 28.2], [114.3, 30.6], [114.5, 34.8], [116.4, 39.9]],
@@ -85,10 +85,26 @@ const CAMS: Record<string, [Cam, Cam]> = {
   champa_regions: [{lon: 107.4, lat: 15.6, w: 900}, {lon: 107.4, lat: 13.2, w: 900}],
   southward_1069_1832: [{lon: 106.3, lat: 18.6, w: 1100}, {lon: 106.6, lat: 13.6, w: 1300}],
   sea_route: [{lon: 108.6, lat: 15.8, w: 1500}, {lon: 105.6, lat: 10.0, w: 2800}],
+  // L009 Nanyue
+  qin_south_214: [{lon: 111.0, lat: 25.6, w: 1700}, {lon: 110.4, lat: 23.9, w: 1400}],
+  nanyue_max: [{lon: 110.2, lat: 22.8, w: 1450}, {lon: 108.8, lat: 22.0, w: 1500}],
+  han_nine_111: [{lon: 109.8, lat: 21.2, w: 1450}, {lon: 108.6, lat: 19.6, w: 1750}],
+  two_claims: [{lon: 109.6, lat: 22.6, w: 1450}, {lon: 109.4, lat: 22.8, w: 1350}],
 };
 
 type Lbl = {lon: number; lat: number; t: string; big?: boolean; color?: string; at?: number};
 const LABELS: Record<string, Lbl[]> = {
+  // L009 Nanyue. Diacritics → small labels (Cinzel has no Vietnamese glyphs). Qin Xiang commandery location is debated → placed only roughly (west Guangxi).
+  qin_south_214: [{lon: 111.6, lat: 28.0, t: 'QIN ARMIES', big: true, color: BRAND.vermilion, at: 0.05}, {lon: 113.26, lat: 23.13, t: 'NANHAI', big: true, at: 0.55},
+    {lon: 109.9, lat: 23.6, t: 'GUILIN', big: true, at: 0.62}, {lon: 107.2, lat: 22.9, t: 'XIANG', big: true, at: 0.69}],
+  nanyue_max: [{lon: 113.26, lat: 23.13, t: 'Panyu', big: true, color: BRAND.vermilion, at: 0.05}, {lon: 112.6, lat: 24.4, t: 'NANYUE', big: true, color: BRAND.vermilion, at: 0.1},
+    {lon: 108.4, lat: 23.8, t: 'WESTERN OU', big: true, at: 0.4}, {lon: 105.85, lat: 21.03, t: 'Luo (Lạc?)', at: 0.6}],
+  han_nine_111: [{lon: 113.26, lat: 23.13, t: 'Nanhai', at: 0.05}, {lon: 111.3, lat: 23.5, t: 'Cangwu', at: 0.1}, {lon: 109.6, lat: 23.1, t: 'Yulin', at: 0.15},
+    {lon: 109.2, lat: 21.7, t: 'Hepu', at: 0.2}, {lon: 110.3, lat: 19.95, t: 'Zhuya', at: 0.25}, {lon: 109.3, lat: 19.4, t: "Dan'er", at: 0.3},
+    {lon: 105.85, lat: 21.03, t: 'JIAOZHI', big: true, color: BRAND.vermilion, at: 0.45}, {lon: 105.7, lat: 19.8, t: 'JIUZHEN', big: true, color: BRAND.vermilion, at: 0.55},
+    {lon: 107.2, lat: 16.7, t: 'RINAN', big: true, color: BRAND.vermilion, at: 0.65}],
+  two_claims: [{lon: 109.4, lat: 22.2, t: 'Ancient Nanyue', color: BRAND.vermilion, at: 0.05}, {lon: 112.4, lat: 25.6, t: 'QING CHINA', big: true, at: 0.25},
+    {lon: 113.26, lat: 23.13, t: 'Guangdong', at: 0.35}, {lon: 108.4, lat: 24.0, t: 'Guangxi', at: 0.4}, {lon: 105.85, lat: 21.03, t: 'Nguyễn kingdom', at: 0.6}],
   draw: [{lon: 104.2, lat: 21.75, t: 'Red River', at: 0.35}, {lon: 105.78, lat: 19.83, t: 'Đông Sơn', at: 0.6}],
   nanyue: [{lon: 113.26, lat: 23.13, t: 'Panyu (Guangzhou)', big: true, at: 0.1}, {lon: 108.4, lat: 23.7, t: 'NANYUE', big: true, color: BRAND.vermilion, at: 0.5}, {lon: 105.85, lat: 21.03, t: 'Red River delta', at: 0.7}],
   han: [{lon: 105.85, lat: 21.03, t: 'Jiaozhi', big: true, at: 0.15}, {lon: 105.7, lat: 19.8, t: 'Jiuzhen', big: true, at: 0.35}, {lon: 107.2, lat: 16.7, t: 'Rinan', big: true, at: 0.55}],
@@ -117,6 +133,8 @@ const LABELS: Record<string, Lbl[]> = {
 };
 // Arrows (from → to), drawn as brush strokes.
 const ARROWS: Record<string, [number, number][][]> = {
+  qin_south_214: [[[112.9, 28.4], [112.7, 26.3], [113.0, 24.5], [113.2, 23.3]], [[110.6, 28.0], [110.3, 26.0], [110.0, 23.8]], [[109.0, 27.6], [108.4, 25.4], [107.4, 23.1]]],
+  nanyue_max: [[[112.8, 23.0], [110.6, 23.5], [108.8, 23.6]], [[112.8, 22.9], [110.0, 22.4], [107.5, 21.6], [106.1, 21.1]]],
   nanyue: [[[112.8, 22.9], [110.0, 22.6], [107.2, 21.6], [106.1, 21.1]]],
   nanzhao: [[[100.6, 25.1], [102.4, 23.9], [104.3, 22.3], [105.6, 21.2]]],
   southernhan: [[[112.8, 22.8], [110.6, 21.0], [108.2, 20.6], [107.0, 20.8]]],
@@ -127,6 +145,10 @@ const ARROWS: Record<string, [number, number][][]> = {
 };
 // Tinted zones: [lon, lat, radius°]
 const ZONES: Record<string, [number, number, number][]> = {
+  qin_south_214: [[113.0, 23.4, 1.5], [110.0, 23.8, 1.5], [107.4, 22.9, 1.3]],
+  nanyue_max: [[112.3, 23.3, 2.2], [108.9, 23.3, 1.8], [105.9, 21.0, 1.3]],
+  han_nine_111: [[105.9, 21.0, 1.1], [105.7, 19.8, 0.9], [107.0, 17.0, 1.0]],
+  two_claims: [[112.4, 23.3, 2.1], [108.9, 23.2, 1.9], [105.9, 21.0, 1.3]],
   nanyue: [[112.0, 23.2, 2.4], [108.8, 22.6, 2.2], [105.9, 21.0, 1.3]],
   han: [[105.9, 21.0, 1.1], [105.7, 19.8, 0.9], [107.0, 17.0, 1.0]],
   south: [[105.9, 21.0, 1.1], [105.7, 19.8, 0.9], [107.0, 17.0, 0.9]],

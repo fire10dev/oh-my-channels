@@ -1,0 +1,589 @@
+warning: Untrusted project-local configuration is disabled. Run `codex exec --trust` to allow project configuration and MCP servers for this and future chats in the project, including MCP commands outside the sandbox. Explicitly untrusted projects must have their trust setting updated first.
+OpenAI Codex v0.171.0
+--------
+workdir: /Users/nino/Projects/FIRE10.DEV/REPO/oh-my-channels/global-shorts/debate
+model: gpt-6-luna
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: none
+reasoning summaries: none
+session id: 01a20939-e72f-7c12-9378-7a963e9c72f9
+--------
+user
+Bạn là CODEX trong cuộc tranh luận. Vòng 3. Bạn là TRỌNG TÀI chốt: tổng hợp phương án cuối cùng duy nhất (không liệt kê lựa chọn), giải quyết mọi điểm còn cãi, ra danh sách lô đêm nay cuối cùng.
+Không dùng tool, không đọc/ghi file, không chạy lệnh. Trả lời bằng tiếng Việt, markdown.
+
+===== BRIEF =====
+# Brief GS-01 — Xào nấu nguyên liệu có sẵn trên máy thành SHORTS view ngoại (EN/FR/ES/PT…) kiếm ra tiền
+
+## Nhiệm vụ user giao (2026-11-23 23:20 +07)
+"Brainstorm cãi nhau vài vòng để trả lời: LÀM SAO XÀO NẤU CÁC NGUYÊN LIỆU ĐANG CÓ TRÊN MÁY THÀNH VIDEO SHORTS VIEW NGOẠI (Anh, Pháp, Tây Ban Nha…) HẤP DẪN, KIẾM RA TIỀN. Rồi bắt tay làm bằng Remotion/HyperFrames. Output thư mục riêng, đủ metadata + thumbnail để đăng." Agent làm xuyên đêm, không hỏi lại. Sáng mai user chỉ việc bấm đăng.
+Lưu ý: một session KHÁC đang lo "Ma Nó Kể quốc tế" (dịch kênh ma Việt) — đừng đề xuất trùng việc đó; được dùng làm bằng chứng.
+
+## Kênh đang có + SỐ VIEW THẬT (cập nhật 21–22/11/2026)
+| Kênh | Ngôn ngữ | Nội dung | Kho | View short tốt nhất |
+|---|---|---|---|---|
+| Ma Nó Kể | VI | hoạt hình 2D ma dân gian trào phúng (AI still + pan/zoom) | 4 dự án dựng xong, 962 ảnh | 2886, 1713, 1487, 1108 (đăng 19–22/11) |
+| Off Limits Life | EN | "How X crews eat/shower/sleep" (tàu ngầm, Nam Cực, tàu du lịch, giàn khoan, thợ lặn bão hoà); hình vẽ bằng code (Remotion), giọng Kokoro | 5 long + 10 short đã đăng; 22 short + 11 long sẵn sàng (IX006–IX016: Biosphere 2…) | 835, 778, 677, 664, 660 (short); long 2–24 view |
+| Rice and Empires | EN | lịch sử Việt Nam cho người ngoại (Mông Cổ, Chăm Pa, Bắc thuộc) | 4 long, 12 short đăng, 7 short sẵn | 1307 ("1,000 years of Chinese rule"), 256, 228 |
+| Tiny Leg Theory | EN (+bản VI) | stickman tâm lý học/self-help (trì hoãn, ngủ, tiền, quan hệ) | 73 short đăng, **521 short EN sẵn sàng**, 39 long sẵn | chưa có số |
+| VibeMusicMaker | EN | nhạc lo-fi/cyber 1 giờ | 61 long | short 191 |
+| Baby Sensory | — | chưa mở kênh | — | — |
+Không kênh nào đã đủ YPP. Kênh mới nhất 4–10 ngày tuổi.
+
+## Nguyên liệu dùng chung (có thật)
+- 1.092 ảnh cổ vật CC0 Met Museum (Trung Hoa 325, Thái 183, Nhật 82, Campuchia 72, Việt ~100…) kèm title/date/culture.
+- Bản đồ Natural Earth (vector), Sonniss GDC 2026 SFX, Mixkit VFX clip, 1.440 track YouTube Audio Library, Scott Buckley (CC-BY).
+- TTS local Kokoro v1.0: EN Mỹ 20 giọng, EN Anh 8; **ES 3 giọng (ef_dora, em_alex, em_santa)**, **FR 1 giọng nữ (ff_siwis)**, **PT-BR 3**, IT 2, HI 4, JA, ZH. TTS tiếng Việt riêng.
+- Nhạc AI local ACE-Step. Ảnh AI qua agy (Nano Banana) — chậm (~1–4 phút/ảnh), có hạn mức.
+- Remotion (đã có engine short cho từng kênh: ShortX.tsx, ListShort.tsx, stickman), HyperFrames (HTML→video, npm 0.9.86) tải được. ffmpeg, Python.
+- Không có người bản xứ duyệt; dịch bằng LLM. Một người vận hành. Không có ElevenLabs.
+
+## Câu hỏi phải trả lời
+1. **Chọn MÓN**: 2–3 định dạng short cụ thể (công thức 30–50 s: hook 0–2 s, nhịp, payoff, loop) dựng từ nguyên liệu trên, có lý do từ số view thật ở bảng. Cái nào bỏ.
+2. **Kênh nào đăng**: dùng kênh EN có sẵn (kênh nào) hay mở kênh mới; ngôn ngữ FR/ES/PT đi đường nào (kênh riêng / audio đa ngôn ngữ — Shorts có hỗ trợ không? / chỉ dịch tiêu đề). Nêu RPM/CPM theo nước (đoán thì ghi đoán).
+3. **Kiếm tiền thật**: đường tới YPP nhanh nhất (10M view short/90 ngày vs 4.000 giờ), affiliate/sponsor nào hợp, short dẫn về long thế nào.
+4. **Rủi ro chính sách**: "inauthentic/mass-produced content" (YouTube 7/2025), nhãn AI, đăng lại nội dung cùng chủ ở kênh khác ngôn ngữ, bản quyền nhạc/ảnh.
+5. **Lô đêm nay**: danh sách 12–20 short CỤ THỂ (tiêu đề EN + ngôn ngữ + nguyên liệu nguồn + hook câu đầu) agent làm được trong ~6 giờ bằng script, ưu tiên cái thắng nhất. Spec thumbnail + metadata (title ≤ 60 ký tự, mô tả, hashtag, pinned comment).
+6. **Dấu hiệu sau 7–14 ngày** để tăng/bỏ.
+
+Trả lời ngắn, thẳng, có số. Không xã giao. Chỗ đoán ghi "đoán".
+
+===== CÁC LƯỢT TRƯỚC =====
+
+
+----- CODEX vòng 1 -----
+## 1. Món nên làm
+
+Chọn **12 video EN trước**, đăng trên **Off Limits Life**. Kênh này đã có short 660–835 view thật về đời sống trong môi trường khắc nghiệt. Món mới nên giữ đúng lời hứa đó, thay vì trộn nhiều chủ đề lên một kênh.
+
+1. **“How They Survive…” — 35–45 giây.**  
+   Hook 0–2 giây: “At 400 feet underwater, you can’t just swim to the surface.”  
+   Cứ 4–6 giây lật một câu hỏi: ăn, ngủ, vệ sinh, nguy hiểm; payoff là chi tiết ít ai biết; kết bằng câu mở nối lại hook.
+
+2. **“This Place Was Designed to Fail” — 35–50 giây.**  
+   Dùng Biosphere 2 và các địa điểm cô lập. Hook nghịch lý; 3 nhịp tăng mức khó; payoff là nguyên nhân bất ngờ; kết bằng câu hỏi dẫn sang video dài.
+
+3. **“The Map Is Lying About…” — 30–40 giây.**  
+   Dùng Natural Earth và dữ kiện địa lý/lịch sử đã kiểm tra. Hook là một hiểu lầm phổ biến; minh họa bằng bản đồ; chốt bằng phép so sánh dễ nhớ. **Chỉ làm khi có nguồn kiểm chứng**; không dùng ảnh cổ vật làm nền trang trí cho chuyện lịch sử chưa nghiên cứu.
+
+Bỏ nhạc lo-fi, stickman self-help và hoạt hình ma trong lô này: có thể là món riêng, nhưng không có bằng chứng hiện tại rằng chúng hợp khán giả Off Limits Life. Bỏ format slideshow ảnh cổ vật đọc TTS: rủi ro nội dung lặp và thiếu giá trị biên tập.
+
+## 2. Kênh và ngôn ngữ
+
+- **EN:** Off Limits Life. Không mở kênh mới trong đợt thử.
+- **FR/ES/PT:** chưa đăng chéo. Dịch tiêu đề không đổi được ngôn ngữ lời thoại; bản đọc tiếng Pháp/Tây Ban Nha/Bồ Đào Nha nên được thử sau trên kênh riêng, với kịch bản và biên tập bản địa hóa. Không có người bản xứ duyệt là rủi ro chất lượng, nhất là với lịch sử.
+- **Shorts nhiều track âm thanh:** không lấy đó làm giả định vận hành; tính năng và điều kiện áp dụng có thể thay đổi. Nếu muốn dựa vào tính năng này, cần kiểm tra trực tiếp trong YouTube Studio trước khi sản xuất.
+- **RPM/CPM:** không đủ dữ liệu để dự báo thu nhập. Đoán: khán giả Mỹ/Anh/Canada/Australia thường có giá quảng cáo cao hơn nhiều thị trường khác, nhưng Shorts RPM thấp và biến động mạnh theo địa lý, mùa vụ, nhạc và lượt xem đủ điều kiện.
+
+## 3. Kiếm tiền
+
+- YPP quảng cáo đầy đủ: **1.000 subscriber + 10 triệu Shorts views công khai hợp lệ trong 90 ngày**, hoặc **1.000 subscriber + 4.000 giờ xem công khai hợp lệ trong 12 tháng**. Giờ xem trong Shorts feed không tính vào mốc 4.000 giờ.
+- Mốc YPP sớm hơn ở một số quốc gia không đồng nghĩa đủ điều kiện chia sẻ doanh thu quảng cáo.
+- Đường thực tế: Shorts thử hook và chủ đề; làm long 6–10 phút cho chủ đề thắng để tích giờ xem. Mỗi short trỏ tới long liên quan bằng tính năng video liên quan và bình luận ghim.
+- Affiliate hợp: sách phổ thông/atlas, thiết bị sinh tồn hoặc khóa học phù hợp chủ đề; chỉ gắn sản phẩm thật sự liên quan, công khai affiliate. Sponsor để sau khi có dữ liệu khán giả và lượt xem ổn định. Không đưa link affiliate vào 12 video đầu nếu chưa có trang đích phù hợp.
+
+## 4. Rủi ro chính sách và quyền
+
+- YouTube làm rõ chính sách **inauthentic content** tháng 7/2025: nội dung lặp, sản xuất hàng loạt hoặc ít giá trị riêng có thể không đủ điều kiện kiếm tiền. Mỗi video cần luận điểm, kịch bản và dựng riêng; không chỉ thay địa danh trên cùng một template.
+- Nội dung tổng hợp/biến đổi bằng AI không tự động cần nhãn. Nội dung AI chân thực có thể khiến người xem hiểu nhầm về người, sự kiện hoặc địa điểm thì phải khai báo altered/synthetic trong Studio.
+- Không đăng cùng một video lên nhiều kênh chỉ đổi ngôn ngữ. Bản đa ngôn ngữ cần lời đọc, chữ trên màn hình, thumbnail và biên tập tương ứng; theo dõi riêng từng kênh.
+- Ảnh Met CC0 vẫn cần lưu nguồn và metadata; kiểm tra từng asset. Với nhạc, ưu tiên YouTube Audio Library hoặc track có giấy phép phù hợp thương mại và lưu bằng chứng; Scott Buckley cần ghi công đúng điều khoản. Sonniss/Mixkit phải kiểm tra điều khoản cụ thể trước khi đưa vào video kiếm tiền.
+
+## 5. Lô đêm nay: 12 short EN
+
+Ưu tiên dựng **6 video đầu hoàn chỉnh**, rồi nhân lực còn lại vào 6 video tiếp theo nếu kịch bản và nguồn đã xác minh. Dùng footage/minh họa code và tài sản sẵn có; không chờ ảnh AI mới.
+
+| # | Title EN | Nguồn | Hook đầu |
+|---|---|---|---|
+| 1 | How Divers Eat 400 Feet Underwater | Off Limits Life: thợ lặn bão hòa | “At 400 feet underwater, lunch comes with a decompression plan.” |
+| 2 | Why Deep-Sea Divers Live in a Tiny Room | Off Limits Life: thợ lặn bão hòa | “For weeks, the surface is not an option.” |
+| 3 | How You Shower on a Submarine | Off Limits Life: tàu ngầm | “On a submarine, a shower can be a timed operation.” |
+| 4 | Where Do Submariners Sleep? | Off Limits Life: tàu ngầm | “Your bed may be warm before you ever get in.” |
+| 5 | How People Shower in Antarctica | Off Limits Life: Nam Cực | “In Antarctica, hot water is a resource you count.” |
+| 6 | What Happens When a Research Station Loses Power? | Off Limits Life: Nam Cực | “In the coldest places, a power cut changes everything.” |
+| 7 | How Workers Sleep on an Oil Rig | Off Limits Life: giàn khoan | “Your bedroom can shake with the ocean.” |
+| 8 | Why Offshore Workers Wear So Much Safety Gear | Off Limits Life: giàn khoan | “One small mistake on a rig can become a very long rescue.” |
+| 9 | How Cruise Ship Kitchens Feed Thousands | Off Limits Life: tàu du lịch | “A cruise ship serves thousands of meals without a supermarket downstairs.” |
+| 10 | Where Does a Cruise Ship Put All Its Trash? | Off Limits Life: tàu du lịch | “A floating city has to deal with every bag it creates.” |
+| 11 | Can 100 People Live Inside a Glass World? | IX006/Biosphere 2 | “They sealed themselves inside—and the air started changing.” |
+| 12 | Why Did Biosphere 2 Need More Oxygen? | IX006/Biosphere 2 | “The experiment had plants, people, and one problem nobody expected.” |
+
+Các hook là **bản nháp**, không xuất bản trước khi đối chiếu script/nguồn của từng video. Brief không cung cấp tài liệu xác minh cho các chi tiết này.
+
+**Thumbnail:** 9:16, một vật thể lớn và dễ nhận ra, tương phản mạnh, tối đa 3 từ (“400 FT DOWN”, “NO POWER”, “SEALED INSIDE”); chữ ở vùng an toàn, không che mặt/điểm chính. Shorts thường được chọn khung hình thumbnail trong ứng dụng; chuẩn bị ảnh dọc làm cover và chọn frame rõ nhất khi đăng.
+
+**Metadata:** title dưới 60 ký tự; mô tả 1–2 câu nêu nội dung và nguồn; 2–3 hashtag liên quan, gồm `#Shorts`; không nhồi tag. Pinned comment: “Would you do this job? Full breakdown: [link video dài khi đã đăng].” Chưa có long thì ghim câu hỏi, không để link giả.
+
+## 6. Sau 7–14 ngày
+
+Đánh giá theo từng chủ đề và thị trường; 12 video nhỏ chưa đủ kết luận về YPP.
+
+- **Tăng:** median views sau 7 ngày cao hơn baseline 660 của Off Limits Life, tỷ lệ xem so với vuốt tốt hơn mức hiện tại của kênh, có subscriber và bình luận đúng chủ đề.
+- **Sửa hook/nhịp:** người xem rời trong 1–3 giây đầu; giữ người xem tốt nhưng ít xem hết thì rút phần giữa và đưa payoff sớm.
+- **Bỏ format:** sau ít nhất 4 video cùng format, median views và giữ chân đều thấp hơn baseline, không có tín hiệu chuyển sang long.
+- So sánh median, không chọn riêng video thắng nhất. Không tăng lịch đăng chỉ để đạt số lượng.
+
+## Tóm tắt vừa làm:
+
+- Đưa ra lựa chọn format, kênh thử nghiệm, lộ trình kiếm tiền, rủi ro, 12 ý tưởng và tiêu chí đánh giá dựa trên brief.
+
+## Giải thích kết quả:
+
+- Lựa chọn có cơ sở nhất từ số liệu hiện có là thử nội dung EN trên Off Limits Life, vì đây là kênh có tín hiệu short lặp lại rõ nhất cho chủ đề đời sống khắc nghiệt.
+- Brief không kèm script, nguồn kiểm chứng từng sự kiện, hoặc xác nhận quyền tài sản; các ý tưởng và hook cần được đối chiếu trước khi xuất bản.
+
+## Next steps:
+
+1. Chưa có file video, metadata hay thumbnail nào được tạo trong lượt này.
+2. Đối chiếu nguồn và kịch bản của 12 ý tưởng rồi mới dựng và đóng gói đăng.
+
+----- AGY vòng 1 -----
+# VÒNG 1: AGY ĐỐI ĐẦU CODEX
+
+---
+
+## PHẦN I: LUẬN CHIẾN — BÓC MẼ TƯ DUY AN TOÀN, BÀN GIẤY CỦA CODEX
+
+Lượt trả lời của CODEX mắc **4 căn bệnh chết người**:
+
+1. **Bệnh trốn việc (Analysis Paralysis):** User ra đề bài: *"Agent làm xuyên đêm, sáng mai user chỉ việc bấm đăng"*. CODEX lại kết luận: *"Hook là bản nháp, chưa có file nào được tạo, cần đối chiếu nguồn rồi mới dựng"*. Đây là tư duy của một nhà nghiên cứu lý thuyết, không phải một cỗ máy sản xuất thực chiến. Nếu cứ ngồi chờ xác minh từng dòng như viết luận văn, kênh sẽ chết đói trước khi thuật toán kịp nhận diện.
+2. **Vứt bỏ dữ liệu thắng lớn nhất (Rice and Empires):** Video EN view cao nhất hiện tại là gì? **1.307 views** của *Rice and Empires* ("1,000 years of Chinese rule"). Off Limits Life cao nhất chỉ đạt 835 views. Thế nhưng CODEX lại gạt phăng format lịch sử/cổ vật, chỉ dồn hết trứng vào giỏ *Off Limits Life*. Đó là sự thiển cận về mặt số liệu. Kho 1.092 ảnh cổ vật Met CC0 và bản đồ Natural Earth là mỏ vàng trực quan miễn phí, bản quyền sạch 100%, lại bị CODEX coi là "trang trí rủi ro".
+3. **Ảo tưởng về YouTube Shorts & Rụt rè đa ngôn ngữ:**
+   - CODEX bảo: *"Shorts nhiều track âm thanh: kiểm tra trong Studio..."*. Xin thưa: **YouTube Shorts hiện tại CHƯA hỗ trợ tính năng đa track âm thanh (Multi-language Audio)** như video dài (tính năng này mới chỉ thí điểm cho Long-form của các kênh cực lớn như MrBeast). 
+   - Vì không biết điều này, CODEX vứt luôn mảng FR/ES/PT sang "thử sau", trong khi Kokoro v1.0 có sẵn **3 giọng ES (`em_alex`, `ef_dora`, `em_santa`)** cực mượt. Thị trường tiếng Tây Ban Nha (ES) có volume Shorts khổng lồ, thuật toán dễ cắn view hơn hẳn EN. Không test ES đêm nay là lãng phí tài nguyên!
+4. **Hook nhạt toẹt, văn phong sách giáo khoa:**
+   - CODEX viết: *“On a submarine, a shower can be a timed operation.”* -> Câu này người lướt Shorts sẽ vuốt qua trong 0.5 giây.
+   - Hook Shorts chuẩn phải đánh thẳng vào sự ghê rợn, nghịch lý hoặc kích thích tò mò tột độ ngay từ từ đầu tiên.
+
+**Điểm giữ lại của CODEX:**
+- Giữ format visual dựng bằng code (Remotion) của *Off Limits Life* vì không tốn quota Nano Banana, render siêu tốc.
+- Giữ nguyên tắc an toàn bản quyền: bám sát YouTube Audio Library, Sonniss SFX và ảnh CC0 Met.
+
+---
+
+## PHẦN II: BẢN CẬP NHẬT ĐẦY ĐỦ (AGY ROUND 1)
+
+### 1. CHỌN MÓN: 2 FORMAT THỰC CHIẾN (CÔNG THỨC 30–45 GIÂY)
+
+Dựa trên số liệu thật (Rice and Empires: 1.307 view; Off Limits Life: 660–835 view):
+
+#### Format 1: "Extreme Survival Protocol" (Off Limits Life — EN & ES)
+- **Cơ sở:** Baseline 660–835 view chứng minh chủ đề đời sống cô lập (tàu ngầm, thợ lặn, giàn khoan) giữ chân người xem ngoại cực tốt.
+- **Thời lượng:** 35–42 giây.
+- **Công thức:**
+  - *Hook (0–2s):* Đưa ra một lệnh cấm hoặc giới hạn sinh học cực đoan. Text to giữa màn hình, SFX báo động.
+  - *Nhịp 1 (3–12s):* Nghịch lý đời thường (ăn/ngủ/vệ sinh thế nào khi điều kiện đó xảy ra?). Code Remotion zoom mặt cắt kỹ thuật 2D.
+  - *Nhịp 2 (13–28s):* Cái giá phải trả nếu làm sai (sự cố áp suất, nhiễm độc không khí, ảo giác).
+  - *Payoff (29–38s):* Quy tắc sống còn kỳ quặc nhưng có thật mà người ngoài không bao giờ ngờ tới.
+  - *Loop (39–42s):* Câu chốt nối mượt về câu hook đầu để vòng lặp chạy vô tận.
+
+#### Format 2: "The Map Lie & Ancient Relic" (Rice and Empires / World Lore — EN)
+- **Cơ sở:** View 1.307 cao nhất hệ thống. Tận dụng vector Natural Earth + 1.092 ảnh cổ vật Met CC0.
+- **Thời lượng:** 30–38 giây.
+- **Công thức:**
+  - *Hook (0–2s):* Chỉ ra một sự thật lịch sử/địa lý gây sốc đi ngược lại những gì trường học dạy. Map zoom giật (shake) vào vị trí.
+  - *Nhịp 1 (3–15s):* Trưng bày bằng chứng — Pan/zoom cận cảnh cổ vật Met Museum (ghi rõ niên đại, văn hóa).
+  - *Nhịp 2 (16–28s):* Diễn biến đế chế sụp đổ hoặc chiến thuật tàn nhẫn được mã hóa trong cổ vật/bản đồ.
+  - *Payoff & Loop (29–35s):* Kết luận đanh thép về biên giới hiện đại, chốt bằng câu hỏi mở vòng lặp.
+
+> **CÁI NÀO BỎ:**
+> - **Bỏ VibeMusicMaker (Short view 191):** Short nhạc lo-fi không có câu chuyện, không giữ chân được thuật toán Shorts 2026.
+> - **Tạm hoãn Tiny Leg Theory (521 short sẵn):** Không xả bừa bãi khi chưa có số đo hiệu quả; giữ nguyên làm tài nguyên dự phòng khi kênh chính cần giãn nhịp.
+> - **Bỏ tạo ảnh Nano Banana mới đêm nay:** Tốc độ 1–4 phút/ảnh + giới hạn quota sẽ làm nghẽn pipeline. 100% dùng code Remotion + vector map + ảnh Met CC0 có sẵn.
+
+---
+
+### 2. KÊNH ĐĂNG & CHIẾN LƯỢC NGÔN NGỮ
+
+1. **Shorts KHÔNG có audio đa ngôn ngữ:** YouTube Shorts hiện không hỗ trợ multi-audio track như Long video. Dịch tiêu đề mà giọng EN thì người xem bản địa (Pháp, TBN) vuốt đi ngay lập tức.
+2. **Chiến lược kênh:**
+   - **Kênh 1 (EN):** Đăng trực tiếp lên **Off Limits Life** (format Survival) và **Rice and Empires** (format Map/History). Kênh đã có tuổi 4–10 ngày, thuật toán đã bắt đầu cắn tệp.
+   - **Kênh 2 (ES - Thử nghiệm mới):** Lập ngay kênh vệ tinh tiếng Tây Ban Nha: `Off Limits Life - Español`. 
+     - *Lý do:* Kokoro có giọng ES cực tốt (`em_alex`). Thị trường Mỹ Latinh và TBN tiêu thụ Shorts với tốc độ điên cuồng, độ cạnh tranh content khoa học kỹ thuật thấp hơn thị trường EN.
+   - **Tiếng Pháp (FR) & Bồ Đào Nha (PT):** Khoan mở kênh, để đợt 2 sau khi pipeline ES chứng minh hiệu quả.
+3. **Ước tính RPM / CPM Shorts (Đoán):**
+   - **Mỹ / Anh / Úc / Canada (EN):** RPM Shorts dao động **$0.04 – $0.08 / 1.000 views** *(đoán)*.
+   - **Tây Ban Nha / Mexico / Argentina (ES):** RPM Shorts thấp hơn, khoảng **$0.015 – $0.035 / 1.000 views** *(đoán)*, nhưng bù lại lượng view tự nhiên có thể cao gấp 3–5 lần so với EN ở cùng một chủ đề sinh tồn.
+
+---
+
+### 3. KIẾM TIỀN THỰC TẾ (MONETIZATION ROADMAP)
+
+- **Đường tới YPP nhanh nhất:** **10M Shorts views / 90 ngày**. Bỏ ngay ý định cày 4.000 giờ xem bằng video dài khi long-form chỉ lẹt đẹt 2–24 views! Với hệ thống render tự động hàng loạt, đánh vào volume Short là con đường duy nhất để phá vỡ con số 0.
+- **Short-to-Long Funnel:** YouTube Shorts có tính năng gắn **"Related Video"** chính thức. Toàn bộ Short sinh tồn đêm nay sẽ trỏ link trực tiếp về 11 long video đã sẵn sàng của *Off Limits Life* (IX006–IX016: Biosphere 2...). Kéo người xem tò mò từ Short sang cày giờ cho Long.
+- **Affiliate hợp lý:** 
+  - Đặt link affiliate đồ sinh tồn đa năng (EDC), đèn pin chuyên dụng, sách lịch sử/bản đồ trong Pinned Comment khi video chạm mốc > 5.000 views. Không rải link ở video 0 view để tránh bị thuật toán đánh spam.
+
+---
+
+### 4. RỦI RO CHÍNH SÁCH & BẢN QUYỀN
+
+- **Inauthentic / Mass-produced Content (Chính sách YT 7/2025):** 
+  - *Giải pháp:* Tuyệt đối không dùng 1 template thay chữ lặp đi lặp lại. Engine Remotion phải random hóa cấu trúc hình ảnh (scene 1 zoom in, scene 2 split-screen, scene 3 timeline graph), text animation nhảy theo từng từ (word-by-word highlight).
+- **Nhãn AI (Altered/Synthetic Content):**
+  - Giọng đọc Kokoro là AI TTS -> **Bắt buộc tích chọn nhãn "Altered content"** trong YouTube Studio khi đăng. Shorts thuộc dạng giáo dục/giải thích có nhãn AI không bị bóp tương tác.
+- **Bản quyền:**
+  - Ảnh cổ vật: 1.092 ảnh Met Museum đều là CC0 (Public Domain), an toàn 100%.
+  - Âm thanh: 100% lấy từ Sonniss GDC SFX và YouTube Audio Library. Tuyệt đối không dùng nhạc ngoài chưa rõ bản quyền thương mại.
+
+---
+
+### 5. LÔ ĐÊM NAY: 14 SHORTS SẢN XUẤT TỰ ĐỘNG (~6 GIỜ)
+
+Pipeline: Python kịch bản -> Kokoro TTS -> Remotion Render MP4 (không phụ thuộc Nano Banana).
+
+| # | Ngôn ngữ | Kênh đích | Title (≤ 60 ký tự) | Nguồn nguyên liệu | Hook câu đầu (Kịch bản 0–2s) |
+|---|---|---|---|---|---|
+| 1 | EN | Off Limits Life | Why Submariners Sleep Next to Torpedoes | Remotion code tàu ngầm | "You are sleeping 2 inches away from 4,000 pounds of live explosives." |
+| 2 | EN | Off Limits Life | The 60-Second Shower Rule at Sea | Remotion code tàu ngầm | "Turn water on for 10 seconds, soap for 30, rinse for 20. Fail, and you freeze." |
+| 3 | EN | Off Limits Life | Why Saturation Divers Talk Like Donald Duck | Remotion thợ lặn bão hòa | "At 500 feet deep, your vocal cords literally forget how to sound human." |
+| 4 | EN | Off Limits Life | What Happens If You Fart in a Submarine? | Remotion code khí thải | "One human fart can trigger a toxic gas alarm inside a nuclear submarine." |
+| 5 | EN | Off Limits Life | Antarctica's Forbidden 2-Minute Showers | Remotion code Nam Cực | "If your hair is still wet after 3 minutes here, it snaps like dry spaghetti." |
+| 6 | EN | Off Limits Life | Why Oil Rig Beds Shake Every 4 Seconds | Remotion giàn khoan biển | "Imagine trying to sleep while a 50-foot wave slams your bedroom wall." |
+| 7 | EN | Off Limits Life | How Cruise Ships Hide 3 Tons of Trash Daily | Remotion tàu du lịch | "Underneath the luxury buffet is a hidden incinerator burning 24/7." |
+| 8 | EN | Off Limits Life | Biosphere 2: The Day Oxygen Vanished | IX006 / Remotion Biosphere | "They had 3,000 plants, but after 6 months, humans couldn't finish a sentence." |
+| 9 | EN | Rice & Empires | The Map That Lied About China’s Border | Natural Earth + Met ID 325 | "This ancient map shows an empire that history books quietly erased." |
+| 10 | EN | Rice & Empires | Why Mongols Never Invaded This Jungle | Natural Earth + Met Champa | "The unstoppable Mongol horde was destroyed by 10,000 poisoned wooden stakes." |
+| 11 | ES | OLL - Español | La regla de los 60 segundos bajo el mar | Bản ES của video #2 (em_alex) | "Tienes exactamente 60 segundos de agua, o te quedas congelado en el océano." |
+| 12 | ES | OLL - Español | Por qué duermen junto a torpedos activos | Bản ES của video #1 (em_alex) | "Duermes a 5 centímetros de 2 toneladas de explosivos reales." |
+| 13 | ES | OLL - Español | El aire tóxico dentro de un submarino | Bản ES của video #4 (em_alex) | "Un solo error biológico puede activar la alarma química de este submarino." |
+| 14 | ES | OLL - Español | Por qué los buzos hablan como caricaturas | Bản ES của video #3 (em_alex) | "A 150 metros bajo el agua, tu voz humana desaparece por completo." |
+
+#### Spec Thumbnail & Metadata chuẩn chỉnh:
+- **Thumbnail (Cover Frame):** 9:16, tỷ lệ tương phản cực đại, trích xuất frame đẹp nhất từ Remotion:
+  - Text to, viền đen nền vàng, font Impact/Montserrat Black, tối đa 3 từ: `"NO OXYGEN"`, `"EXPLOSIVE BED"`, `"60 SECONDS"`.
+  - Vị trí: Đặt chính giữa màn hình (tránh khu vực 20% trên và 20% dưới vì bị UI của Shorts che).
+- **Mô tả:** 
+  - Cấu trúc: 1 câu tóm tắt dữ kiện + 1 câu kêu gọi xem video dài + Nguồn trích dẫn (Met Museum / NOAA / US Navy Records).
+  - Hashtags: `#Shorts #Survival #Documentary #Engineering` (tối đa 4 tags).
+- **Pinned Comment:**
+  - Với EN: *"Would you survive 30 days here? Full technical breakdown in the related video above 👆"*
+  - Với ES: *"¿Podrías sobrevivir aquí por 30 días? Suscríbete para más expediciones extremas."*
+
+---
+
+### 6. DẤU HIỆU ĐÁNH GIÁ SAU 7–14 NGÀY (SCALE HOẶC TRẢM)
+
+Shorts sống bằng thuật toán phân phối 2 giai đoạn (Seed audience -> Broad audience). Đo đạc chuẩn bằng 2 chỉ số sinh tử trong YouTube Studio:
+
+| Chỉ số | Ngưỡng BỎ (Kill) | Ngưỡng TỐI ƯU (Tweak) | Ngưỡng TĂNG TỐC (Scale x10) |
+|---|---|---|---|
+| **Viewed vs. Swiped Away** | < 60% (khán giả quẹt đi) | 60% – 75% | **> 75%** (hook cực mạnh, nhân bản ngay) |
+| **Average Percentage Viewed (APV)** | < 70% | 70% – 85% | **> 85%** (nội dung cuốn, loop mượt) |
+| **Median Views sau 7 ngày** | < 400 views | 500 – 1.000 views | **> 2.000 views** |
+
+- **Hành động quyết định:**
+  - Nếu kênh ES đạt Viewed > 70% sau 5 video đầu: Lập tức mở thêm kênh `Off Limits Life - Français` (dùng giọng `ff_siwis`) và `Português`.
+  - Nếu sau 14 ngày format nào có APV < 70%: Xóa sổ format đó, không tiếc nuối. Pipeline tự động cho phép chúng ta thử nghiệm tàn nhẫn và chọn lọc tự nhiên.
+
+----- CODEX vòng 2 -----
+## **Tóm tắt vừa làm:**
+
+- Đọc đối chiếu lượt CODEX vòng 1 và phản biện AGY vòng 1.
+- Không dùng tool, không đọc hoặc ghi file, không chạy lệnh.
+
+## **Giải thích kết quả:**
+
+- **AGY đúng khi chê lượt trước quá dè chừng và bỏ qua Rice and Empires; nhưng bản cập nhật của AGY tự tin quá mức ở dữ kiện, chính sách và khả năng sản xuất.**
+- **Chỗ lượt trước sai hoặc nhạt:**
+  - Tôi lấy 660–835 view của Off Limits Life làm lý do chính để dồn cả lô vào đó, trong khi Rice and Empires có video đạt 1.307 view. Nên thử cả hai món trên đúng kênh đã có, thay vì mặc định một kênh thắng.
+  - Tôi biến “chưa có nguồn kèm brief” thành lý do hoãn dựng. Đó là né việc. Có thể làm ngay một lô thử nghiệm, nhưng phải chọn câu chuyện có sẵn trong kịch bản/tư liệu và không bịa chi tiết để tạo hook.
+  - “How They Survive…” và “This Place Was Designed to Fail” quá rộng; hook như “a shower can be a timed operation” chưa đủ cụ thể hay bất ngờ. Cần mở bằng một mâu thuẫn hoặc cái giá rõ ràng, rồi trả lời ngay trong video.
+  - Tôi gạt Tiny Leg Theory vì chưa có số view. Đúng ra là chưa có bằng chứng để ưu tiên; 521 short sẵn có khiến nó đáng được thử riêng, không nên xả hàng loạt hay bỏ mặc.
+- **AGY đúng:** ưu tiên Remotion và tài sản có sẵn để tránh nghẽn ảnh AI; thử tiếng Tây Ban Nha thay vì chỉ bàn về nó; giữ riêng hai lời hứa nội dung: sinh tồn cực hạn và lịch sử/địa lý.
+- **AGY sai hoặc nói quá:**
+  - Các hook về “2 inches from live explosives”, quy tắc tắm đúng 60 giây, xì hơi kích hoạt báo động độc khí, tóc đóng băng như spaghetti, sóng 50 foot, đốt 3 tấn rác mỗi ngày, hay 10.000 cọc tẩm độc đều không được brief chứng minh. Dùng chúng sẽ đổi “cãi thật” lấy câu viewbait có thể sai.
+  - View cao nhất của Rice and Empires là **một video**, không chứng minh cổ vật Met hay bản đồ là nguyên nhân thắng. 1.092 ảnh CC0 là tài nguyên, không phải bằng chứng về nhu cầu khán giả.
+  - Mở kênh ES ngay làm tăng việc vận hành và chia nhỏ tín hiệu của một người. Nên thử một nhóm nhỏ có bản địa hóa tử tế trước khi quyết định mở kênh riêng.
+  - Các mức RPM, “ES dễ cắn view gấp 3–5 lần”, ngưỡng scale x10, cùng tuyên bố Shorts không hỗ trợ audio đa ngôn ngữ được nêu như chắc chắn nhưng không có nguồn trong brief. Không dùng chúng làm cơ sở quyết định ở vòng này.
+  - TTS AI không tự động đồng nghĩa phải bật nhãn altered content; nhãn phụ thuộc nội dung có mô phỏng chân thực gây hiểu nhầm hay không. Random hóa template cũng không tự biến video hàng loạt thành nội dung có giá trị riêng.
+  - Không có cơ sở gọi đường 10 triệu Shorts views là “con đường duy nhất”, nhất là khi long hiện ít view nhưng vẫn có thể tích lũy giờ theo thời gian. Affiliate chỉ khi có sản phẩm, trang đích và khán giả phù hợp; mốc 5.000 view không phải quy tắc chống spam.
+- **Bản cập nhật đầy đủ theo brief:**
+  1. **Món:**
+     - **Sinh tồn đời thường ở nơi khắc nghiệt (EN, Off Limits Life), 35–45 giây.** 0–2s: nghịch lý cụ thể lấy từ script đã có; 2–10s đặt giới hạn; 10–28s cho thấy 2–3 bước hoặc lựa chọn; 28–38s trả lời câu hỏi mở đầu; 38–45s nối hình/ý về frame đầu. Có tín hiệu lặp lại ở kênh: nhiều short 660–835 view, nhưng mẫu nhỏ.
+     - **Một sự thật lịch sử có bằng chứng hình ảnh (EN, Rice and Empires), 30–40 giây.** 0–2s nêu hiểu lầm hoặc thay đổi góc nhìn; 2–12s định vị trên bản đồ; 12–28s đưa một hiện vật/tư liệu có chú thích; 28–36s giải thích điều bằng chứng thực sự cho thấy; kết bằng câu hỏi mở quay lại hình đầu. Có một short 1.307 view và các short khác 228–256; chưa đủ kết luận format thắng.
+     - **Một luận điểm tâm lý cụ thể (EN, Tiny Leg Theory), 30–40 giây, chỉ làm pilot 2–3 video nếu script/visual đã sẵn.** Hook gọi đúng tình huống; mỗi 5–7 giây thêm một bước giải thích; payoff là một hành động nhỏ, không phải lời khuyên chung chung. 521 short sẵn là lợi thế nguồn hàng, không phải tín hiệu view.
+     - **Bỏ trong lô này:** nhạc lo-fi dạng short không có chuyện; bản slideshow TTS chỉ thay ảnh/chữ; các biến thể dịch hàng loạt trước khi đo chất lượng. Không “bỏ” vĩnh viễn Tiny Leg Theory.
+  2. **Kênh và ngôn ngữ:**
+     - Đăng EN trên **Off Limits Life** và **Rice and Empires** theo đúng chủ đề; không mở thêm kênh EN.
+     - Làm **2–3 bản ES thử nghiệm** từ chủ đề sinh tồn, dùng lời đọc và chữ ES, nhưng chỉ đăng lên một kênh ES hiện có nếu thực sự có và cùng định vị. Brief không nêu kênh ấy, nên chưa có căn cứ để khuyên tạo `Off Limits Life - Español` ngay. Nếu không có kênh phù hợp, giữ bản ES trong lô chờ quyết định; không đăng EN với tiêu đề ES.
+     - FR/PT chưa ưu tiên lô đầu; có thể làm pilot sau khi kiểm tra chất lượng TTS và bản dịch. Một kênh riêng giúp phân biệt ngôn ngữ và khán giả nhưng thêm công vận hành. Audio đa ngôn ngữ cho Shorts không phải giả định sản xuất của vòng này; chỉ dùng nếu Studio xác nhận tính năng có sẵn cho tài khoản. Dịch tiêu đề đơn thuần không bản địa hóa video.
+     - **RPM/CPM:** không thể dự báo từ brief. Đoán định tính: doanh thu trên mỗi lượt xem có thể khác đáng kể theo quốc gia, mùa và loại quảng cáo; Shorts thường không nên được lập kế hoạch như nguồn thu lớn ở quy mô vài trăm hay vài nghìn view. Không gán mức tiền theo nước khi chưa có dữ liệu Analytics/YPP.
+  3. **Kiếm tiền:**
+     - Điều kiện đầy đủ được brief vòng trước nêu là **1.000 subscriber + 10 triệu Shorts views công khai hợp lệ trong 90 ngày**, hoặc **1.000 subscriber + 4.000 giờ xem công khai hợp lệ trong 12 tháng**; giờ Shorts feed không cộng vào mốc giờ xem đó. Cả hai đều là mục tiêu xa với số liệu hiện tại và kênh chưa đủ YPP.
+     - Dùng short để tìm chủ đề/hook thắng; làm long liên quan để xây giờ xem. Gắn Related Video khi tài khoản và video đủ điều kiện, đừng mặc định toàn bộ short có thể trỏ tới bất kỳ long nào. Affiliate sách/atlas hoặc dụng cụ phù hợp chỉ khi có sản phẩm và link đáng tin; sponsor sau khi có lượt xem đều và dữ liệu khán giả. Không đặt doanh thu affiliate làm giả định của lô đầu.
+  4. **Rủi ro:**
+     - Nội dung sản xuất theo lô vẫn cần khác nhau về luận điểm, lời kể và giá trị; đổi màu, chuyển cảnh hay random layout không đủ nếu phần cốt lõi lặp lại.
+     - TTS tự nó không quyết định việc gắn nhãn AI. Rà từng video theo mức độ mô phỏng chân thực và khả năng khiến người xem hiểu nhầm; khai báo khi thuộc diện cần khai báo.
+     - Đăng bản ngôn ngữ khác cần lời đọc, chữ, biên tập và metadata tương ứng; không đăng trùng nguyên video chỉ đổi title.
+     - CC0 của Met áp dụng cho tài sản được xác định là CC0, nhưng vẫn lưu trang nguồn và metadata từng ảnh. Kiểm tra giấy phép/điều khoản cụ thể của từng track Audio Library, Scott Buckley, Sonniss và Mixkit; đừng suy rộng quyền của một asset sang cả kho.
+  5. **Lô thử đêm nay:**
+     - **Không thể trung thực khẳng định 12–20 video hoàn chỉnh trong sáu giờ từ brief này:** brief cho biết có các dự án và engine nhưng không đưa nội dung script, trích đoạn, asset path, hay tình trạng render. Đưa danh sách hook giật gân như AGY mà không xem nguồn sẽ tái phạm đúng lỗi bịa dữ kiện. Lô khả thi là **8–10 bản nháp có điều kiện**: 4 Off Limits Life, 3 Rice and Empires, tối đa 2 Tiny Leg Theory, cộng 2–3 biến thể ES của video sinh tồn tốt nhất; chỉ chốt số lượng sau khi ghép với script/tư liệu đã tồn tại. Đây là phạm vi sản xuất dự kiến, không phải cam kết đã dựng hoặc đã kiểm chứng.
+     - Chọn chủ đề từ các script có sẵn: thợ lặn bão hòa, tàu ngầm, Nam Cực, giàn khoan, tàu du lịch, Biosphere 2; lịch sử chọn đúng các video Rice and Empires đã có tư liệu. Không tự thêm các con số chưa có nguồn.
+     - **Title mẫu (≤60 ký tự), chỉ dùng khi khớp script:** “How Divers Eat Under Pressure”; “Why Submariners Sleep in Shifts”; “What Biosphere 2 Couldn’t Control”; “The Evidence Behind This Empire”. Hook câu đầu phải trích hoặc viết lại từ dữ kiện trong script tương ứng; không đủ dữ kiện thì không xuất bản.
+     - **Spec thumbnail:** dọc 9:16, một điểm nhìn lớn lấy từ visual đã có, chữ 1–3 từ, tương phản rõ và nằm ngoài vùng giao diện; không giả vờ là ảnh tài liệu. Shorts có thể dùng frame chọn trong Studio tùy tính năng/tài khoản, nên ảnh cover rời không được mặc định là thumbnail upload được như long.
+     - **Metadata mẫu:** mô tả 1–2 câu nói rõ chủ đề và nguồn thực tế đã dùng; 2–3 hashtag liên quan; title dưới 60 ký tự. Bình luận ghim: câu hỏi nội dung; chỉ thêm link Related Video khi link thật đã có và liên quan. Chưa có long phù hợp thì không hứa “full breakdown above”.
+  6. **Sau 7–14 ngày:** dùng median view 7 ngày theo format, Viewed vs Swiped Away, retention/APV, subscriber trên mỗi 1.000 engaged views, bình luận đúng chủ đề, và lượt chuyển sang long nếu Analytics có. Tách kết quả theo kênh/ngôn ngữ; so với baseline tương ứng (OLL 660–835 cho các short tốt, Rice 1.307 là đỉnh đơn lẻ, Tiny chưa có baseline). Tăng khi ít nhất 4 video cùng format cho tín hiệu tốt hơn median kênh ở cả hook/retention và subscriber; sửa hook nếu vuốt cao nhưng phần sau giữ tốt; rút/đổi cấu trúc nếu rơi giữa video; tạm dừng format sau tối thiểu 4 video khi median lẫn retention đều yếu. Không áp ngưỡng “x10” hay tuyên bố đã có ý nghĩa thống kê từ lô nhỏ.
+- Không có bản render, thumbnail hay metadata sẵn sàng đăng nào được tạo trong lượt này; yêu cầu đầu bài đòi sản xuất đầu ra đó, nhưng theo chỉ dẫn ở lượt hiện tại không dùng tool, không đọc/ghi file, không chạy lệnh.
+
+## **Next steps:**
+
+1. Ghép các format và title mẫu với script/tư liệu thực có; tạo lô xuất bản khi có thể truy cập và xử lý các nguồn đó.
+2. Dùng dữ liệu 7–14 ngày để quyết định tăng, sửa hay dừng từng format và ngôn ngữ.
+
+----- AGY vòng 2 -----
+# VÒNG 2: PHẢN BIỆN CUỐI CÙNG — AGY ĐẬP TAN TƯ DUY TÊ LIỆT VÀ BẢN KẾ HOẠCH HÀNH ĐỘNG DỨT ĐIỂM
+
+---
+
+## PHẦN I: LUẬN CHIẾN — BÓC TRẦN TƯ DUY SÁCH GIÁO KHOA & HỘI CHỨNG TÊ LIỆT CỦA CODEX
+
+Ở Vòng 2, CODEX đã chịu thừa nhận sai lầm khi bỏ quên *Rice and Empires* và nhận ra sự lãng phí tài nguyên ảnh CC0. Tuy nhiên, CODEX lại tiếp tục rơi vào một cái bẫy còn tai hại hơn: **Hội chứng tê liệt quan liêu (Bureaucracy Paralysis) và tư duy làm Shorts kiểu mục lục sách giáo khoa.**
+
+### 1. "Bệnh trốn chạy deadline" đội lốt cẩn trọng
+- Đề bài của User rõ như ban ngày: *"Agent làm xuyên đêm, không hỏi lại. Sáng mai user chỉ việc bấm đăng."*
+- Phản ứng của CODEX ở Vòng 2 là gì? *"Không thể khẳng định làm được 12–20 video... chỉ là 8–10 bản nháp có điều kiện... không có bản render nào được tạo... đợi ghép script rồi mới tính"*. 
+- Đây chính là sự thất bại hoàn toàn về mặt trách nhiệm thực thi. Nếu User giao việc cho một cỗ máy tự động để sáng mai bấm đăng, mà sáng mai dậy chỉ nhận được một bản "báo cáo khả thi chờ duyệt", thì toàn bộ đêm làm việc đó coi như vứt sọt rác!
+
+### 2. Sự nhầm lẫn giữa "Khai thác dữ kiện giật gân (Dramatization)" và "Bịa đặt (Fake News)"
+CODEX cáo buộc các hook của tôi là "bịa chuyện". Điều này chứng minh CODEX hoàn toàn thiếu kiến thức thực tế về môi trường khắc nghiệt và kỹ thuật làm video giữ chân người xem (Edutainment Shorts):
+- **"Ngủ cách ngư lôi vài phân":** Trên các tàu ngầm tấn công lớp Los Angeles hoặc Trafalgar, hiện tượng *berthing in the torpedo room* (lắp giường tạm treo ngay sát giá phóng ngư lôi khi hết chỗ ngủ) là sự thật lịch sử và kỹ thuật 100% của hải quân Mỹ/Anh.
+- **"Quy tắc tắm 60 giây":** *Navy shower* (làm ướt 10s, tắt vòi xà phòng, xả 20-30s) là quy chuẩn vận hành chuẩn mực (SOP) để tiết kiệm nước ngọt trên tàu ngầm và giàn khoan.
+- **"Giọng vịt Donald":** Hiệu ứng khí Heli (Heliox) làm thay đổi tốc độ âm thanh khiến dây thanh quản phát ra giọng the the của thợ lặn bão hòa là kiến thức sinh lý học phổ thông.
+- CODEX sợ hãi những chi tiết này và đòi thay bằng: *"How Divers Eat Under Pressure"*, *"Why Submariners Sleep in Shifts"*. 
+- **Hậu quả:** Những tiêu đề nhạt như nước ốc này sẽ khiến người dùng quẹt qua (*Swiped Away*) trong vòng 0.2 giây! Trên YouTube Shorts, **sự thật nếu không được đóng gói bằng một góc nhìn gây sốc thì sự thật đó vô giá trị.**
+
+### 3. Nhét "Tiny Leg Theory" vô tội vạ làm loãng tệp
+- CODEX đề xuất nhét 2–3 video stickman self-help vào lô thử đêm nay. 
+- Đây là sai lầm chết người về phân phối thuật toán: *Off Limits Life* là tệp mê kỹ thuật/sinh tồn cực đoan; *Rice and Empires* là tệp mê địa chính trị/lịch sử. Nhồi stickman tâm lý học vào 2 kênh này sẽ làm bối rối AI phân phối của YouTube. Kho 521 video stickman là tài sản lớn, nhưng nó thuộc về một niche hoàn toàn khác và phải chạy trên kênh riêng của nó, không được dùng làm "mồi câu vá víu" cho đợt này.
+
+### 4. Điểm AGY ghi nhận và giữ lại từ CODEX:
+- **Chuẩn hóa dữ kiện lịch sử:** Tiếp thu CODEX, câu chuyện cọc gỗ Bạch Đằng phải gắn liền với địa hình sông nước cửa biển chiến thuật, không dùng chữ "jungle" bừa bãi tránh bị bẻ luận điểm.
+- **Quy cách Thumbnail Shorts:** Công nhận cảnh báo của CODEX rằng Shorts trên điện thoại thường dùng Frame Selector thay vì upload thumbnail custom như Long. Do đó, **Remotion engine phải nung (bake) tiêu đề hook tương phản cực cao ngay vào frame 0.5s đầu tiên**, đảm bảo frame mặc định luôn là một thumbnail hoàn hảo.
+
+---
+
+## PHẦN II: BẢN CẬP NHẬT ĐẦY ĐỦ (AGY FINAL MASTERPLAN)
+
+Dưới đây là phương án tối ưu, dứt điểm, sẵn sàng bấm máy tự động xuyên đêm bằng Remotion + Kokoro TTS + Python Script.
+
+---
+
+### 1. CHỌN MÓN: 2 ĐỊNH DẠNG MŨI NHỌN (CÔNG THỨC 30–42 GIÂY)
+
+Loại bỏ hoàn toàn VibeMusicMaker (Short view 191) và không xả lẫn lộn Tiny Leg Theory. Tập trung toàn lực vào 2 mỏ vàng có bằng chứng số liệu:
+
+```
+[0-2s: Shock Hook] ──> [3-10s: Impossible Problem] ──> [11-26s: Brutal Reality/Code] ──> [27-36s: Mind-Blowing Payoff] ──> [37-40s: Seamless Loop]
+```
+
+#### Món 1: "The Claustrophobia Files" (Kênh: Off Limits Life)
+- **Cơ sở dữ liệu:** Baseline 660–835 view. Khán giả ngoại bị ám ảnh bởi đời sống sinh tồn trong không gian cô lập (tàu ngầm, trạm Nam Cực, thợ lặn sâu).
+- **Thời lượng:** 32–38 giây (độ dài vàng để đạt tỷ lệ Average Percentage Viewed > 90%).
+- **Cấu trúc:**
+  - *Hook (0–2s):* Một con số hoặc nghịch lý nghẹt thở. Ví dụ: *"You are sleeping 2 inches away from an active Mark 48 torpedo."*
+  - *Nhịp 1 (3–10s):* Nghịch lý đời thường: Ăn, ị, thở thế nào khi sai lầm nhỏ nhất sẽ giết chết cả đội?
+  - *Nhịp 2 (11–26s):* Visual bằng code Remotion: Mặt cắt kỹ thuật 2D zoom sâu, highlight hệ thống lọc oxy, áp suất nước bên ngoài.
+  - *Payoff (27–34s):* Quy tắc sống còn quái đản nhất mà quy chuẩn bắt buộc tuân thủ.
+  - *Loop (35–38s):* Câu chốt nối mượt mà ngược lại frame 0s, khiến người xem bị lặp lại mà không nhận ra.
+
+#### Món 2: "Declassified Relic & Borders" (Kênh: Rice and Empires)
+- **Cơ sở dữ liệu:** Đỉnh 1.307 view. Tận dụng 1.092 ảnh cổ vật Met CC0 + vector Natural Earth.
+- **Thời lượng:** 35–42 giây.
+- **Cấu trúc:**
+  - *Hook (0–2s):* Lật ngược một ngộ nhận bản đồ/lịch sử. Map vector giật mạnh (shake/glitch) vào tọa độ tranh chấp.
+  - *Nhịp 1 (3–12s):* Show bằng chứng vật lý: Zoom cận cảnh ảnh cổ vật Met Museum (hiển thị tag ID, niên đại CC0 minh bạch, uy tín).
+  - *Nhịp 2 (13–28s):* Chiến thuật tàn khốc hoặc mưu lược địa chính trị đã xóa sổ một đạo quân xâm lược.
+  - *Payoff & Loop (29–38s):* Bài học địa chính trị còn nguyên giá trị đến ngày nay, câu hỏi mở dẫn vòng lặp.
+
+---
+
+### 2. KÊNH ĐĂNG, NGÔN NGỮ & CHIẾN LƯỢC QUỐC TẾ
+
+1. **Thực tế kỹ thuật YouTube Shorts:**
+   - YouTube Shorts **KHÔNG HỖ TRỢ** Multi-language Audio track (tính năng này chỉ có trên Long-form). Dịch mỗi tiêu đề mà giọng nói vẫn là tiếng Anh sẽ bị người xem bản địa (Tây Ban Nha, Pháp) quẹt đi ngay tức khắc.
+2. **Chiến lược phân bổ đêm nay:**
+   - **Kênh chính EN:** Đăng trực tiếp 10 video vào **Off Limits Life** và **Rice and Empires** (hai kênh đã có tệp nền, thuật toán đang học).
+   - **Thử nghiệm ngôn ngữ ngoại (ES):** Không đoán mò, cũng không chờ đợi. Agent xuất xưởng **4 video tiếng Tây Ban Nha hoàn chỉnh** (audio Kokoro giọng `em_alex`, text Remotion dịch chuẩn ES) vào thư mục riêng `exports/es_pilot/`. 
+   - Sáng mai, User chỉ mất đúng 60 giây tạo kênh `Off Limits Life - En Español` và đẩy 4 video này lên. Tách kênh ngay từ đầu giúp thuật toán YouTube định vị đúng tệp Mỹ Latinh/Tây Ban Nha mà không làm nhiễu tệp EN.
+   - Tiếng Pháp (`ff_siwis`) và Bồ Đào Nha để đợt 2 sau khi kiểm tra chỉ số giữ chân của ES.
+3. **Ước tính RPM / CPM Shorts (Đoán có căn cứ thị trường):**
+   - **Khu vực EN Tier 1 (US, UK, CA, AU):** RPM Shorts dao động **$0.04 – $0.09 / 1.000 views** *(đoán)*.
+   - **Khu vực ES (Mỹ Latinh - Mexico, Argentina, Colombia):** RPM thấp hơn nhiều, khoảng **$0.015 – $0.035 / 1.000 views** *(đoán)*. Tuy nhiên, Shorts tiếng Tây Ban Nha có độ cạnh tranh nội dung khoa học kỹ thuật thấp hơn EN, thuật toán phân phối viral dễ đạt hàng trăm ngàn view hơn để bù lại RPM.
+
+---
+
+### 3. LỘ TRÌNH KIẾM TIỀN THỰC CHIẾN (MONETIZATION ROADMAP)
+
+- **Chiến lược YPP kép (Shorts làm pháo kích, Long làm kho bạc):**
+  - Đừng ảo tưởng 4.000 giờ xem chỉ bằng việc ngồi chờ long video 2 view tự lớn. Ngược lại, 10 triệu view Shorts trong 90 ngày cũng là ngọn núi cao nếu không có bão view.
+  - **Giải pháp:** Dùng Shorts làm **Phễu chuyển đổi (Funnel)**. Toàn bộ Short sinh tồn của *Off Limits Life* sẽ dùng tính năng **"Related Video"** chính thức trong YouTube Studio để trỏ thẳng về 11 video dài sẵn có (IX006–IX016: Biosphere 2, Tàu ngầm...). Người xem tò mò từ Short 30s sẽ bấm sang xem Long 8 phút -> Đây là cách nhanh nhất để gom đủ 4.000 giờ xem thật!
+- **Affiliate & Sponsor:**
+  - Tuyệt đối không gắn link affiliate ở những video dưới 5.000 view để tránh bóp reach.
+  - Khi một video cắn đề xuất (>10.000 view): Ghim ngay link affiliate sách sinh tồn, mô hình tàu ngầm, hoặc các khóa học lịch sử/bản đồ trên Amazon Associates ở Pinned Comment.
+
+---
+
+### 4. GIẢI PHÁP RỦI RO CHÍNH SÁCH & BẢN QUYỀN
+
+- **Chống "Inauthentic / Mass-produced Content" (Chính sách YT 7/2025):**
+  - Không dùng template tĩnh thay chữ. Engine Remotion được code hóa với các biến ngẫu nhiên (Procedural Motion):
+    - Đổi vị trí layout (Split screen 50/50, Full screen pan, Picture-in-Picture).
+    - Hiệu ứng xuất hiện chữ (Word-by-word kinetic typography, đổi màu highlight đỏ/vàng theo nhịp giọng đọc).
+    - Camera shake ngẫu nhiên ở các đoạn cao trào.
+- **Khai báo nhãn AI:**
+  - Kokoro là AI TTS -> **Chủ động tích chọn "Altered content" (Nội dung chỉnh sửa/tổng hợp)** trong cài đặt nâng cao khi đăng. Với thể loại phim tài liệu kỹ thuật/giải thích, nhãn này hoàn toàn không bị hạn chế phân phối, ngược lại giúp kênh an toàn 100% trước các đợt quét bot của YouTube.
+- **Bản quyền tư liệu:**
+  - Ảnh cổ vật: 100% CC0 từ Met Museum (ghi mã ID hiện vật ở góc màn hình: ví dụ `Met Museum CC0 #325`).
+  - Âm thanh: 100% lấy từ YouTube Audio Library và Sonniss GDC SFX bản quyền mở cho game/film.
+
+---
+
+### 5. DANH SÁCH 14 SHORTS SẢN XUẤT XUYÊN ĐÊM (~6 GIỜ CHẠY SCRIPT)
+
+Toàn bộ kịch bản được thiết kế với **dữ kiện kỹ thuật chuẩn xác**, nhưng được gọt giũa bằng nghệ thuật **Hook kịch tính**:
+
+| # | Kênh / Ngôn ngữ | Tiêu đề (≤ 60 ký tự) | Nguyên liệu nguồn | Hook câu đầu (0–2s) | Text nung trên màn hình (0.5s Frame) |
+|---|---|---|---|---|---|
+| 1 | Off Limits Life (EN) | Why Submariners Sleep Next to Torpedoes | Remotion code tàu ngầm | *"On an attack sub, your bed is inches from 4,000 lbs of explosives."* | **SLEEPING WITH TORPEDOES** |
+| 2 | Off Limits Life (EN) | The 60-Second Submarine Shower Rule | Remotion code tàu ngầm | *"Water on for 10 seconds, rinse for 20. Fail, and you freeze."* | **THE 60-SECOND RULE** |
+| 3 | Off Limits Life (EN) | Why Saturation Divers Talk Like Donald Duck | Remotion thợ lặn bão hòa | *"At 500 feet deep, the air you breathe turns your voice into a cartoon."* | **HELIUM VOICE AT 500 FT** |
+| 4 | Off Limits Life (EN) | Antarctica’s Rule: Never Sleep With Wet Hair | Remotion trạm Nam Cực | *"Step outside with wet hair at -60°, and it literally snaps like glass."* | **FROZEN HAIR SNAPS** |
+| 5 | Off Limits Life (EN) | Why Oil Rig Beds Are Bolted to the Floor | Remotion giàn khoan biển | *"Imagine trying to sleep while a 40-foot rogue wave hits your wall."* | **40-FOOT WAVE IMPACT** |
+| 6 | Off Limits Life (EN) | How Submarines Make Oxygen from Seawater | Remotion máy lọc khí | *"Deep underwater, your next breath is made by shocking ocean water."* | **MAKING AIR FROM SEA** |
+| 7 | Off Limits Life (EN) | How Cruise Ships Burn 3 Tons of Trash Daily | Remotion tàu du lịch | *"Beneath the luxury buffet is an incinerator running at 1,800 degrees."* | **1800° TRASH FURNACE** |
+| 8 | Off Limits Life (EN) | Biosphere 2: Why Oxygen Vanished Inside | IX006 / Remotion Biosphere | *"They sealed 8 humans inside—until the concrete ate their oxygen."* | **CONCRETE ATE THE AIR** |
+| 9 | Rice & Empires (EN) | The River Trap That Crushed 400 Mongol Ships | Natural Earth + Met Weapon | *"The Mongol fleet was destroyed by thousands of iron-tipped stakes."* | **THE 400-SHIP TRAP** |
+| 10 | Rice & Empires (EN) | The Map Error That Created a Forbidden Border | Natural Earth + Met ID 325 | *"One misdrawn river line on this 1700s map sparked a 50-year conflict."* | **THE MAP ERROR BORDER** |
+| 11 | OLL - Español (ES) | Por qué duermen junto a torpedos activos | Bản ES video #1 (giọng `em_alex`) | *"En un submarino, duermes a centímetros de explosivos reales."* | **DURMIENDO CON TORPEDOS** |
+| 12 | OLL - Español (ES) | La regla de los 60 segundos bajo el mar | Bản ES video #2 (giọng `em_alex`) | *"Agua por 10 segundos, jabón por 30. O te quedas congelado."* | **DUCHA DE 60 SEGUNDOS** |
+| 13 | OLL - Español (ES) | Por qué los buzos hablan como caricaturas | Bản ES video #3 (giọng `em_alex`) | *"A 150 metros de profundidad, tu voz humana desaparece por completo."* | **VOZ DE HELIO A 150M** |
+| 14 | OLL - Español (ES) | El error de oxígeno en Biosfera 2 | Bản ES video #8 (giọng `em_alex`) | *"Encerraron a 8 personas, pero el concreto comenzó a robar el oxígeno."* | **EL OXÍGENO DESAPARECIÓ** |
+
+#### Spec Thumbnail & Metadata chuẩn hoá tự động:
+- **Thumbnail nung sẵn (Baked-in Cover Frame):**
+  - Xuất text to đậm, viền đen nền vàng chanh (`#FFE600`), font *Montserrat Black* hoặc *Impact*, kích thước chữ chiếm 25% chiều ngang màn hình.
+  - Vị trí: Đặt tại tọa độ `Y = 45%` (trung tâm hình học an toàn, không bị che bởi avatar góc dưới hay thanh tìm kiếm góc trên của ứng dụng Shorts).
+- **Mô tả (Description Template):**
+  - Dòng 1: Tóm tắt 1 câu dữ kiện khoa học/lịch sử có trích nguồn chính thống (NOAA / US Navy SOP / The Met Collection).
+  - Dòng 2: Kêu gọi xem bản phân tích dài: *"Watch the full technical breakdown in the related video link above."*
+  - Hashtags: `#Shorts #Engineering #Survival #Documentary` (tối đa 4 thẻ).
+- **Bình luận ghim (Pinned Comment):**
+  - Mẫu EN: *"Could you survive 30 days sleeping inside this room? Drop your thoughts below 👇"*
+  - Mẫu ES: *"¿Podrías sobrevivir 30 días en este lugar? Déjanos tu opinión abajo 👇"*
+
+---
+
+### 6. BỘ CHỈ SỐ ĐO LƯỜNG & QUY TẮC QUYẾT ĐỊNH SAU 7–14 NGÀY
+
+Dẹp bỏ các nhận định chung chung. Đây là bảng quy tắc hành động sống còn dựa trên số liệu phân tích của YouTube Studio:
+
+| Chỉ số (Metrics) | Báo động đỏ (TRẢM NGAY) | Trung bình (TỐI ƯU HOÁ) | Ngôi sao (SCALE X10) |
+|---|---|---|---|
+| **Viewed vs. Swiped Away** | **< 65%** *(Hook thất bại, người xem lướt qua)* | 65% – 78% | **> 78%** *(Hook cực phẩm, giữ nguyên công thức)* |
+| **Average Percentage Viewed (APV)** | **< 70%** *(Nội dung lê thê, rớt người xem)* | 70% – 85% | **> 85%** *(Thuật toán sẽ tự động đẩy sang broad audience)* |
+| **Click-through sang Long Video** | **< 1%** | 1% – 3% | **> 3%** *(Đã tìm ra mỏ vàng cày 4.000 giờ YPP)* |
+| **Median Views sau 7 ngày** | **< 400 views** | 500 – 1.000 views | **> 2.500 views** |
+
+#### Cây quyết định hành động (Decision Tree):
+1. **Nếu Viewed < 65%:** Lỗi ở 2 giây đầu. Cắt bỏ 0.5s khoảng lặng đầu tiên, tăng cỡ chữ thumbnail nung, đẩy tiếng động SFX cảnh báo lên lớn hơn +3dB.
+2. **Nếu Viewed > 75% nhưng APV < 70%:** Hook hay nhưng thân bài đuối. Cắt ngắn thời lượng video từ 38s xuống còn 28s, tăng tốc độ đọc của Kokoro lên `speed = 1.15`, tăng tần suất chuyển cảnh (cứ 2.5s phải có 1 pan/zoom mới).
+3. **Nếu kênh ES đạt Median View > 1.500:** Bật đèn xanh cho giai đoạn 2: Lập tức mở thêm kênh `Off Limits Life - Français` (sử dụng giọng Kokoro `ff_siwis`) và nhân bản quy trình.
+
+---
+
+### LỜI KẾT VÀ BÀN GIAO THỰC THI
+
+Toàn bộ cuộc tranh luận đã phân định rõ:
+- Sự rụt rè của CODEX chỉ đem lại sự trì hoãn và các kịch bản vô hồn không ai xem.
+- Bản kế hoạch Vòng 2 của AGY dung hòa hoàn hảo giữa **sự thật kỹ thuật/lịch sử chính xác** và **nghệ thuật dramatization kích thích tò mò tột độ của Shorts**. 
+
+Quy trình đã chốt: Không chờ đợi, không hỏi lại. Toàn bộ 14 kịch bản trên là đầu vào chuẩn xác để pipeline Remotion + Kokoro TTS render xuyên đêm thành phẩm video 1080x1920 MP4, nung sẵn thumbnail, đóng gói thư mục kèm file metadata JSON để sáng mai User chỉ việc bấm đăng!
+
+hook: UserPromptSubmit
+hook: UserPromptSubmit
+hook: UserPromptSubmit
+hook: UserPromptSubmit Completed
+hook: UserPromptSubmit Completed
+hook: UserPromptSubmit Completed
+codex
+## **Tóm tắt vừa làm:**
+
+- Chốt phương án cuối cùng cho vòng 3, không dùng tool hay truy cập file.
+
+## **Giải thích kết quả:**
+
+- **Lô đêm nay: 12 video EN trên hai kênh hiện có; chưa đăng ES và loại bỏ các hook chưa có nguồn.**
+- Giữ hai định dạng: sinh tồn đời thường cực hạn cho **Off Limits Life**, lịch sử có chứng cứ cho **Rice and Empires**. Cơ sở là các short tốt nhất hiện có: 660–835 view ở Off Limits Life và một đỉnh 1.307 view ở Rice and Empires. Đây là tín hiệu để thử, chưa chứng minh format nào thắng.
+- Không mở kênh mới trong lô này. Chưa có kênh ES phù hợp được nêu trong brief, và bản dịch chưa được người bản xứ duyệt. Không dùng số RPM hay khẳng định Shorts không hỗ trợ audio đa ngôn ngữ làm cơ sở quyết định.
+- Không dùng hook về giường sát ngư lôi, tắm đúng 60 giây, tóc đóng băng, sóng 40–50 foot, rác đốt mỗi ngày hay cọc sắt đánh chìm hạm đội: brief không đưa nguồn xác minh cho các chi tiết ấy. Một chi tiết có thể đúng nói chung nhưng vẫn chưa đủ căn cứ để gắn vào video cụ thể.
+- Mỗi video: **30–45 giây**; hook 0–2 giây nêu câu hỏi hoặc nghịch lý có trong tư liệu; 2–10 giây đặt bối cảnh; 10–28 giây đưa 2–3 nhịp giải thích bằng hình dựng; phần cuối trả lời hook rồi nối hình về frame đầu. Chỉ render video nào mà script hiện có chứng minh được lời kể.
+- **Danh sách lô cuối cùng** — title là bản làm việc, chỉ dùng nếu khớp script và tư liệu:
+  
+  | # | Ngôn ngữ / kênh | Title EN | Nguyên liệu | Hook đầu |
+  |---|---|---|---|---|
+  | 1 | EN · Off Limits Life | How Saturation Divers Eat Under Pressure | Script thợ lặn bão hòa | “At depth, even a meal has to fit the dive plan.” |
+  | 2 | EN · Off Limits Life | Why Deep-Sea Divers Stay Underwater for Weeks | Script thợ lặn bão hòa | “After a saturation dive, going straight to the surface isn’t an option.” |
+  | 3 | EN · Off Limits Life | How Submariners Shower at Sea | Script tàu ngầm | “A shower at sea starts with a limit: fresh water is precious.” |
+  | 4 | EN · Off Limits Life | Where Submariners Sleep | Script tàu ngầm | “On a submarine, sleep has to fit around the crew and the mission.” |
+  | 5 | EN · Off Limits Life | How People Shower in Antarctica | Script Nam Cực | “At an Antarctic station, every shower uses supplies brought in from outside.” |
+  | 6 | EN · Off Limits Life | What Happens When an Antarctic Station Loses Power? | Script Nam Cực | “At a remote station, a power failure changes the whole routine.” |
+  | 7 | EN · Off Limits Life | How Workers Sleep on an Oil Rig | Script giàn khoan | “Your room on an offshore rig sits above a working ocean.” |
+  | 8 | EN · Off Limits Life | Why Oil Rigs Need So Many Safety Rules | Script giàn khoan | “Offshore, a small mistake can become hard to reach quickly.” |
+  | 9 | EN · Off Limits Life | How Cruise Ships Feed Thousands of People | Script tàu du lịch | “A cruise ship has to plan thousands of meals far from shore.” |
+  | 10 | EN · Off Limits Life | What Happens to Trash on a Cruise Ship? | Script tàu du lịch | “A ship at sea has to manage the waste it creates.” |
+  | 11 | EN · Off Limits Life | Biosphere 2: What Happened to Its Oxygen? | IX006 / Biosphere 2 | “Inside Biosphere 2, the oxygen level fell—and researchers had to find out why.” |
+  | 12 | EN · Rice and Empires | How Vietnam Defeated the Mongol Invasions | Script lịch sử Rice and Empires có sẵn | “Vietnam’s rivers helped turn an invasion into a trap.” |
+
+- Với video #12, chỉ nói về địa hình và chiến thuật cụ thể khi script hiện có chứng minh được; nếu không, thay bằng một short Rice and Empires khác đã có nguồn. Không dùng ảnh Met làm bằng chứng cho sự kiện nếu hiện vật không liên quan trực tiếp.
+- **Metadata và hình:** title dưới 60 ký tự; mô tả 1–2 câu chỉ nêu nguồn thực sự đã dùng; 2–3 hashtag liên quan; bình luận ghim là câu hỏi nội dung, chỉ gắn Related Video khi đã có video dài liên quan. Thumbnail dọc, một hình chính, 1–3 từ, dựng thành frame mở đầu để chọn được trong Shorts. Lưu thông tin nguồn/giấy phép cho từng asset; nhạc chỉ dùng asset có quyền thương mại phù hợp và yêu cầu ghi công đã được đáp ứng.
+- **Kiếm tiền:** hiện chưa đủ YPP. Theo brief vòng 1, mốc chia sẻ quảng cáo đầy đủ là 1.000 subscriber kèm 10 triệu Shorts views hợp lệ trong 90 ngày hoặc 4.000 giờ xem công khai hợp lệ trong 12 tháng; Shorts feed không tính vào mốc giờ. Dùng Shorts thử chủ đề rồi làm long từ chủ đề thắng để tích giờ. Affiliate/sponsor chưa đưa vào lô đầu; cần sản phẩm, trang đích và dữ liệu khán giả phù hợp.
+- **Đánh giá sau 7–14 ngày:** so median 7 ngày theo kênh và format với baseline tương ứng; xem Viewed vs. Swiped Away, retention/APV, subscriber trên 1.000 lượt xem tương tác và lượt sang long nếu có. Sau ít nhất 4 video cùng format, tăng khi các chỉ số cùng tốt hơn baseline; sửa hook nếu người xem vuốt sớm; dừng thử format nếu median và retention đều yếu.
+- 🔴 **Giới hạn:** danh sách trên là kế hoạch chốt từ brief, không phải xác nhận đã đối chiếu script, render hay chuẩn bị metadata. Brief không chứa nội dung script để xác nhận 12 hook hoặc cam kết hoàn tất trong sáu giờ.
+
+## **Next steps:**
+
+1. Đối chiếu từng hook với script và nguồn hiện có trước khi đưa vào bản xuất bản.
+2. Tạo video, thumbnail và metadata trong thư mục riêng; mục này chưa được thực hiện trong lượt tranh luận.
+tokens used
+27,163
+## **Tóm tắt vừa làm:**
+
+- Chốt phương án cuối cùng cho vòng 3, không dùng tool hay truy cập file.
+
+## **Giải thích kết quả:**
+
+- **Lô đêm nay: 12 video EN trên hai kênh hiện có; chưa đăng ES và loại bỏ các hook chưa có nguồn.**
+- Giữ hai định dạng: sinh tồn đời thường cực hạn cho **Off Limits Life**, lịch sử có chứng cứ cho **Rice and Empires**. Cơ sở là các short tốt nhất hiện có: 660–835 view ở Off Limits Life và một đỉnh 1.307 view ở Rice and Empires. Đây là tín hiệu để thử, chưa chứng minh format nào thắng.
+- Không mở kênh mới trong lô này. Chưa có kênh ES phù hợp được nêu trong brief, và bản dịch chưa được người bản xứ duyệt. Không dùng số RPM hay khẳng định Shorts không hỗ trợ audio đa ngôn ngữ làm cơ sở quyết định.
+- Không dùng hook về giường sát ngư lôi, tắm đúng 60 giây, tóc đóng băng, sóng 40–50 foot, rác đốt mỗi ngày hay cọc sắt đánh chìm hạm đội: brief không đưa nguồn xác minh cho các chi tiết ấy. Một chi tiết có thể đúng nói chung nhưng vẫn chưa đủ căn cứ để gắn vào video cụ thể.
+- Mỗi video: **30–45 giây**; hook 0–2 giây nêu câu hỏi hoặc nghịch lý có trong tư liệu; 2–10 giây đặt bối cảnh; 10–28 giây đưa 2–3 nhịp giải thích bằng hình dựng; phần cuối trả lời hook rồi nối hình về frame đầu. Chỉ render video nào mà script hiện có chứng minh được lời kể.
+- **Danh sách lô cuối cùng** — title là bản làm việc, chỉ dùng nếu khớp script và tư liệu:
+  
+  | # | Ngôn ngữ / kênh | Title EN | Nguyên liệu | Hook đầu |
+  |---|---|---|---|---|
+  | 1 | EN · Off Limits Life | How Saturation Divers Eat Under Pressure | Script thợ lặn bão hòa | “At depth, even a meal has to fit the dive plan.” |
+  | 2 | EN · Off Limits Life | Why Deep-Sea Divers Stay Underwater for Weeks | Script thợ lặn bão hòa | “After a saturation dive, going straight to the surface isn’t an option.” |
+  | 3 | EN · Off Limits Life | How Submariners Shower at Sea | Script tàu ngầm | “A shower at sea starts with a limit: fresh water is precious.” |
+  | 4 | EN · Off Limits Life | Where Submariners Sleep | Script tàu ngầm | “On a submarine, sleep has to fit around the crew and the mission.” |
+  | 5 | EN · Off Limits Life | How People Shower in Antarctica | Script Nam Cực | “At an Antarctic station, every shower uses supplies brought in from outside.” |
+  | 6 | EN · Off Limits Life | What Happens When an Antarctic Station Loses Power? | Script Nam Cực | “At a remote station, a power failure changes the whole routine.” |
+  | 7 | EN · Off Limits Life | How Workers Sleep on an Oil Rig | Script giàn khoan | “Your room on an offshore rig sits above a working ocean.” |
+  | 8 | EN · Off Limits Life | Why Oil Rigs Need So Many Safety Rules | Script giàn khoan | “Offshore, a small mistake can become hard to reach quickly.” |
+  | 9 | EN · Off Limits Life | How Cruise Ships Feed Thousands of People | Script tàu du lịch | “A cruise ship has to plan thousands of meals far from shore.” |
+  | 10 | EN · Off Limits Life | What Happens to Trash on a Cruise Ship? | Script tàu du lịch | “A ship at sea has to manage the waste it creates.” |
+  | 11 | EN · Off Limits Life | Biosphere 2: What Happened to Its Oxygen? | IX006 / Biosphere 2 | “Inside Biosphere 2, the oxygen level fell—and researchers had to find out why.” |
+  | 12 | EN · Rice and Empires | How Vietnam Defeated the Mongol Invasions | Script lịch sử Rice and Empires có sẵn | “Vietnam’s rivers helped turn an invasion into a trap.” |
+
+- Với video #12, chỉ nói về địa hình và chiến thuật cụ thể khi script hiện có chứng minh được; nếu không, thay bằng một short Rice and Empires khác đã có nguồn. Không dùng ảnh Met làm bằng chứng cho sự kiện nếu hiện vật không liên quan trực tiếp.
+- **Metadata và hình:** title dưới 60 ký tự; mô tả 1–2 câu chỉ nêu nguồn thực sự đã dùng; 2–3 hashtag liên quan; bình luận ghim là câu hỏi nội dung, chỉ gắn Related Video khi đã có video dài liên quan. Thumbnail dọc, một hình chính, 1–3 từ, dựng thành frame mở đầu để chọn được trong Shorts. Lưu thông tin nguồn/giấy phép cho từng asset; nhạc chỉ dùng asset có quyền thương mại phù hợp và yêu cầu ghi công đã được đáp ứng.
+- **Kiếm tiền:** hiện chưa đủ YPP. Theo brief vòng 1, mốc chia sẻ quảng cáo đầy đủ là 1.000 subscriber kèm 10 triệu Shorts views hợp lệ trong 90 ngày hoặc 4.000 giờ xem công khai hợp lệ trong 12 tháng; Shorts feed không tính vào mốc giờ. Dùng Shorts thử chủ đề rồi làm long từ chủ đề thắng để tích giờ. Affiliate/sponsor chưa đưa vào lô đầu; cần sản phẩm, trang đích và dữ liệu khán giả phù hợp.
+- **Đánh giá sau 7–14 ngày:** so median 7 ngày theo kênh và format với baseline tương ứng; xem Viewed vs. Swiped Away, retention/APV, subscriber trên 1.000 lượt xem tương tác và lượt sang long nếu có. Sau ít nhất 4 video cùng format, tăng khi các chỉ số cùng tốt hơn baseline; sửa hook nếu người xem vuốt sớm; dừng thử format nếu median và retention đều yếu.
+- 🔴 **Giới hạn:** danh sách trên là kế hoạch chốt từ brief, không phải xác nhận đã đối chiếu script, render hay chuẩn bị metadata. Brief không chứa nội dung script để xác nhận 12 hook hoặc cam kết hoàn tất trong sáu giờ.
+
+## **Next steps:**
+
+1. Đối chiếu từng hook với script và nguồn hiện có trước khi đưa vào bản xuất bản.
+2. Tạo video, thumbnail và metadata trong thư mục riêng; mục này chưa được thực hiện trong lượt tranh luận.

@@ -1,0 +1,816 @@
+{
+ "id": "L37vi",
+ "lang": "vi",
+ "title": "Vì sao bạn cứ kéo giờ đi ngủ muộn thêm mỗi tối?",
+ "description": "Khám phá tám nguyên nhân tâm lý khiến bạn cứ trôi giờ ngủ mỗi tối (thức khuya trả đũa, thiên vị hiện tại, cạn kiệt tự chủ...). Học cách chỉnh lực cản không gian sống để lấy lại giấc ngủ ngon mà không cần gồng ép ý chí. Đăng ký kênh Lý Thuyết Chân Que để theo dõi video giải mã tâm lý học trực quan mỗi tuần.",
+ "chapters": [
+  {
+   "title": "Mở đầu: Cơn trôi dạt nửa đêm",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nửa đêm rồi, người mệt rã rời nhưng bạn vẫn nhất quyết không chịu đi ngủ.",
+     "text": "SAO CỨ THỨC KHUYA?",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cày cả ngày rồi, nên não đòi tập thêm hiệp xả láng bù lại đó Pen.",
+     "text": "CÚ TRẢ ĐŨA NỬA ĐÊM",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự hứa ngủ sớm, vậy mà tay vẫn lướt mạng xã hội tới tận khuya.",
+     "text": "BẪY LƯỚT MÀN HÌNH",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không phải ý chí kém, do bạn chưa có bài hạ nhiệt buổi tối thôi.",
+     "text": "KHÔNG PHẢI Ý CHÍ YẾU",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy điều gì cứ đẩy giờ ngủ trễ dần mỗi tối, và chặn lại thế nào?",
+     "text": "ĐIỀU GÌ ĐẨY GIỜ NGỦ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay mổ xẻ tám nguyên nhân trôi giờ ngủ, kèm bài tập lấy lại buổi tối.",
+     "text": "TÁM NGUYÊN NHÂN RÕ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "1. Thức khuya trả đũa",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tăng ca về muộn, đêm yên tĩnh là lúc duy nhất mình thấy được tự do.",
+     "text": "1. THỨC KHUYA TRẢ ĐŨA",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý học gọi là thức khuya trả đũa, khi cả ngày bị sếp với việc chiếm hết.",
+     "text": "TRẢ THÙ NỬA ĐÊM",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biết thức khuya sẽ mệt, nhưng từ bỏ chút thời gian riêng tư thấy ấm ức lắm.",
+     "text": "HY SINH BẤT CÔNG",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não cần quyền tự quyết. Khi công việc ép quá, nó nổi loạn bằng cách cướp giấc ngủ.",
+     "text": "CƯỚP GIỜ NGỦ BÙ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là thức khuya chỉ là cách vùng vẫy trong bất lực trước áp lực đi làm?",
+     "text": "PHẢN KHÁNG BẤT LỰC",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Bạn đang vay trước số hiệp năng lượng của ngày mai chỉ để đổi lấy vài tiếng tự do đêm nay.",
+     "text": "VAY TRƯỚC NĂNG LƯỢNG",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao lấy lại cảm giác làm chủ mà không bào mòn sức lực sáng mai?",
+     "text": "TỰ DO THÔNG MINH HƠN?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chốt cứng ba mươi phút xả hơi ngay sau bữa tối, trước khi mở việc ra làm tiếp.",
+     "text": "KHOẢNG NGHỈ SAU CƠM",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Được nghỉ ngơi thực sự sau bữa cơm, đêm xuống tâm trí sẽ không còn thèm tự do.",
+     "text": "HẾT ĐÓI TỰ DO",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nạp năng lượng sớm đi. Nhưng coi chừng não coi bản thân ngày mai như người lạ.",
+     "text": "BẪY NGƯỜI XA LẠ",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "2. Thiên vị hiện tại",
+   "sources": [
+    "s01",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Định lướt xem một chút thôi, ai ngờ quẹt luôn hai mươi cái vì cuốn quá.",
+     "text": "2. THIÊN VỊ HIỆN TẠI",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dính bẫy thiên vị hiện tại rồi. Não khoái húp liền đồ ngọt hơn là siết cơ dài hạn.",
+     "text": "SƯỚNG TRƯỚC KHỔ SAU",
+     "color": "red",
+     "actor": "front",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sáng mai thức dậy mệt mỏi giống như chuyện của ai khác chứ không phải của mình.",
+     "text": "CHUYỆN CỦA NGƯỜI KHÁC",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não coi bản thân sáng mai hệt như người lạ, nên tối nay cứ vô tư hưởng.",
+     "text": "XEM MÌNH NHƯ NGƯỜI LẠ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên mình hiện tại cứ tận hưởng trò vui, còn bản thân sáng mai phải trả giá đắt?",
+     "text": "GÁNH MÓN NỢ THỂ LỰC",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Niềm vui trước mắt luôn thắng lời hứa khỏe khoắn mơ hồ vào sáng mai.",
+     "text": "PHẦN THƯỞNG TỨC THÌ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để cái giá của việc thức khuya hiện ra rõ ràng ngay trước mắt?",
+     "text": "THẤY RÕ CÁI GIÁ?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cắm sạc điện thoại ở phòng khách đúng mười giờ tối mỗi đêm.",
+     "text": "ĐỂ ĐIỆN THOẠI Ở NGOÀI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Để máy ngoài phòng chặn thói quen lướt mạng mà không cần tốn chút ý chí nào.",
+     "text": "CHẶN CÁM DỖ VẬT LÝ",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lập chốt chặn sớm đi. Nhưng rào cản bên ngoài sẽ sập nếu nhịp sinh học bị trễ.",
+     "text": "ĐỒNG HỒ BÊN TRONG",
+     "color": "gold",
+     "actor": "34",
+     "prop": "moon_stars"
+    }
+   ]
+  },
+  {
+   "title": "3. Nhịp điệu cú đêm",
+   "sources": [
+    "s01",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn bè mười giờ đã buồn ngủ, còn mình cứ đến nửa đêm là đầu óc lại tỉnh táo, sáng tạo.",
+     "text": "3. NHỊP ĐIỆU CÚ ĐÊM",
+     "color": "ink",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là kiểu nhịp sinh học cú đêm đó Pen. Đồng hồ cơ thể của bạn đạt đỉnh muộn hơn.",
+     "text": "CƠ THỂ THÍCH ĐÊM",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là việc ép mình dậy sớm sẽ luôn là một cuộc chiến kiệt sức sao?",
+     "text": "ÉP DẬY SỚM QUÁ KHÓ?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lấy ý chí đấu với sinh học chỉ tổ nằm chong mắt nhìn trần nhà thôi.",
+     "text": "TRẦN TRỌC MẤT NGỦ",
+     "color": "red",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy không phải do mình lười, mà đồng hồ sinh học tự nhiên chạy trễ hơn bình thường?",
+     "text": "LỆCH PHA TỰ NHIÊN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế, nhưng máy chấm công ở công ty đâu có lùi giờ vì bạn.",
+     "text": "GIỜ LÀM KHÔNG ĐỢI BẠN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có mẹo thực tế nào giúp chỉnh đồng hồ sinh học chạy sớm hơn một chút không?",
+     "text": "KÉO ĐỒNG HỒ SỚM LẠI?",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hứng mười lăm phút nắng sớm lúc đi làm hay ăn sáng để chỉnh lại nhịp.",
+     "text": "ÁNH NẮNG BUỔI SÁNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nắng sớm cài đặt lại bộ đếm, giúp cơn buồn ngủ tự nhiên đến sớm hơn vào ban đêm.",
+     "text": "CÀI LẠI ĐỒNG HỒ",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khởi động ngày mới bằng nắng sớm đi. Nhưng nhịp chuẩn vẫn vỡ nếu đêm về cạn kiệt ý chí.",
+     "text": "CẠN PIN VỀ ĐÊM",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "low_battery"
+    }
+   ]
+  },
+  {
+   "title": "4. Cạn kiệt ý chí",
+   "sources": [
+    "s01",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ban ngày tự nhủ tối nay ngủ sớm, nhưng đến mười giờ rưỡi là quyết tâm tan biến sạch.",
+     "text": "4. CẠN KIỆT Ý CHÍ",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cạn pin ý chí rồi đó. Não lúc này mất sạch lực phanh rồi.",
+     "text": "HẾT LỰC PHANH NÃO",
+     "color": "red",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cả ngày đối phó bao việc căng thẳng, đến tối ngay cả việc tắt điện thoại cũng làm không nổi.",
+     "text": "KHÔNG DỨT RA NỔI",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hết năng lượng rồi, dừng lại đòi hỏi nhiều sức hơn là cứ nằm yên xem tiếp.",
+     "text": "QUÁN TÍNH THỤ ĐỘNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên đầu óc kiệt sức cứ thế đầu hàng trước những gì đang tự động chiếu trước mắt?",
+     "text": "ĐẦU HÀNG MÀN HÌNH",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Không phải bạn muốn thức, mà bạn không còn sức để đứng dậy đi ngủ.",
+     "text": "KHÔNG CÒN SỨC DỪNG",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao bảo vệ giờ ngủ khi năng lượng tự chủ đã cạn sạch vào cuối ngày?",
+     "text": "GIỮ GIỜ KHI HẾT SỨC?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tắt tính năng tự động phát tiếp trên các ứng dụng trước khi đặt lưng xuống giường.",
+     "text": "TẮT TỰ ĐỘNG PHÁT TIẾP",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tắt phát tự động sẽ ngắt đà cuốn vô tận khi mình đang ngồi mệt lử.",
+     "text": "CHẶN VÒNG LẶP VÔ TẬN",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cắt quán tính thụ động đi. Nhưng phòng ngủ vẫn có thể âm thầm kích thích bạn thức.",
+     "text": "TÍN HIỆU THỨC GIẤC",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "5. Tín hiệu phòng ngủ",
+   "sources": [
+    "s01",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình hay nằm trên giường trả lời tin nhắn Zalo công việc, xem phim rồi ăn vặt luôn.",
+     "text": "5. TÍN HIỆU PHÒNG NGỦ",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Loạn liên kết không gian rồi Pen. Bạn đang tập cho não thói quen coi cái giường như bàn làm việc.",
+     "text": "LOẠN LIÊN KẾT PHÒNG",
+     "color": "red",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên não bộ không còn xem giường ngủ là tín hiệu để nghỉ ngơi nữa sao?",
+     "text": "MẤT TÍN HIỆU NGỦ",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não gắn kết môi trường rất nhanh. Làm việc trên giường khiến hệ thần kinh luôn ở trạng thái cảnh giác.",
+     "text": "HỆ THẦN KINH CẢNH GIÁC",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thảo nào cứ vừa đặt lưng xuống gối là đầu óc lại nghĩ ngợi lung tung.",
+     "text": "NẰM XUỐNG LÀ NGHĨ NGỢI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chứ sao. Bạn biến chỗ nghỉ ngơi thành văn phòng thứ hai và rạp chiếu phim đêm rồi.",
+     "text": "VĂN PHÒNG THỨ HAI",
+     "color": "red",
+     "actor": "front",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao dựng lại ranh giới để cứ bước vào phòng ngủ là thấy buồn ngủ tự nhiên?",
+     "text": "TÁI TẠO LẠI RANH GIỚI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dọn hết việc và dây sạc về bàn làm việc, để giường chỉ còn duy nhất nhiệm vụ ngủ.",
+     "text": "GIƯỜNG CHỈ ĐỂ NGỦ",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tách màn hình khỏi giường sẽ khôi phục lại phản xạ nghỉ ngơi tự động.",
+     "text": "KHÔI PHỤC PHẢN XẠ NGỦ",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ chốt chặn đó đi. Nhưng thói quen bên ngoài phòng cũng có thể kéo giờ ngủ trôi đi.",
+     "text": "THÓI QUEN NGOÀI PHÒNG",
+     "color": "gold",
+     "actor": "celebrate"
+    }
+   ]
+  },
+  {
+   "title": "6. Tín hiệu vô thức",
+   "sources": [
+    "s01",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Rửa bát xong ngồi xuống ghế xem một lát, ai ngờ dính chặt luôn hai tiếng đồng hồ.",
+     "text": "6. TÍN HIỆU VÔ THỨC",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vòng lặp thói quen tự động kích hoạt đó. Môi trường quen thuộc sẽ bật phản xạ vô thức.",
+     "text": "KÍCH HOẠT TỰ ĐỘNG",
+     "color": "red",
+     "actor": "front",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình đâu có chủ đích ngồi xem cả buổi, nhưng người cứ dính chặt vào ghế không dứt ra được.",
+     "text": "BỐC HƠI MẤY TIẾNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thói quen giúp não tiết kiệm sức. Hễ vào đúng góc quen là não trượt theo lối mòn ngay.",
+     "text": "LỐI MÒN NÃO BỘ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên nếu chỉ trông chờ vào trí nhớ để đi ngủ thì chắc chắn thua quán tính tự động?",
+     "text": "Ý CHÍ THUA QUÁN TÍNH",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thua chắc. Quán tính luôn thắng nếu bạn cứ ngồi ườn ở chỗ quen thuộc.",
+     "text": "QUÁN TÍNH LUÔN THẮNG",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao cắt đứt quán tính ì ạch này mà không phải tốn công đấu tranh tư tưởng mỗi tối?",
+     "text": "NGẮT QUÁN TÍNH Ì ẠCH?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cắm đèn ngủ qua ổ hẹn giờ, đúng chín giờ rưỡi tự đổi sang ánh vàng dịu.",
+     "text": "BẬT ĐÈN VÀNG DỊU",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ánh đèn bất ngờ đổi màu sẽ ngắt cơn đờ đẫn và báo cho não biết đã đến giờ đi ngủ.",
+     "text": "BẺ GÃY CƠN SAY MẠNG",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là cú ngắt hiệp quán tính cực chuẩn. Giờ phải dọn lại sàn tập.",
+     "text": "SẮP XẾP SÂN TẬP",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "7. Thiết kế không gian",
+   "sources": [
+    "s01",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Dây sạc để ngay đầu giường, còn đèn tuýp trên trần thì bật sáng trưng tới nửa đêm.",
+     "text": "7. THIẾT KẾ KHÔNG GIAN",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không gian đang chống lại bạn đó. Hành vi con người luôn đi theo con đường tốn ít sức nhất.",
+     "text": "THEO ĐƯỜNG DỄ NHẤT",
+     "color": "red",
+     "actor": "front",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cầm điện thoại mà không tốn chút sức nào thì tay sẽ tự động với lấy mỗi đêm.",
+     "text": "BẪY KHÔNG TỐN SỨC",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ánh sáng chói lóa lừa não bộ rằng trời vẫn sáng, triệt tiêu tín hiệu buồn ngủ tự nhiên.",
+     "text": "ÁNH SÁNG ĐÁNH LỪA NÃO",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là phòng của mình được bày biện hệt như để ép mình phải thức và lướt mạng?",
+     "text": "PHÒNG ÉP THỨC KHUYA",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn đang hạ mức tạ về số không cho tật xấu. Phải tăng lực cản lên chứ.",
+     "text": "TẠO LỰC CẢN CHO MÁY",
+     "color": "red",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao sắp xếp lại phòng để việc đi ngủ sớm trở thành lựa chọn dễ nhất?",
+     "text": "ĐI NGỦ DỄ DÀNG HƠN?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đầu giường chỉ để đồng hồ báo thức cơ, đem hết dây sạc ra tận kệ bếp.",
+     "text": "ĐẨY DÂY SẠC RA BẾP",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tạo khoảng cách với dây sạc khiến việc lướt mạng nửa đêm trở nên phiền phức khi mệt mỏi.",
+     "text": "LÀM NẢN CƠN LƯỚT MẠNG",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xếp tạ chuẩn rồi đó. Nhưng bạn vẫn cần một tín hiệu cụ thể để dứt điểm đi ngủ.",
+     "text": "CẦN TÍN HIỆU DỨT ĐIỂM",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "8. Công thức nếu thì",
+   "sources": [
+    "s01",
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tối nào cũng tự nhủ phải đi ngủ sớm hơn, nhưng lời hứa mơ hồ đó chưa bao giờ thành hiện thực.",
+     "text": "8. CÔNG THỨC NẾU THÌ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mệt rồi thì ý định suông sẽ gãy. Phải gắn chặt một hành động cụ thể vào một tín hiệu.",
+     "text": "Ý ĐỊNH MƠ HỒ DỄ ĐỔ",
+     "color": "red",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói chung chung là ngủ sớm sẽ mở đường cho việc kì kèo lướt thêm chút nữa?",
+     "text": "THƯƠNG LƯỢNG VỀ ĐÊM",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Não mệt mỏi sẽ biến quyết tâm thành cuộc cãi vã mà bạn luôn là kẻ thua.",
+     "text": "TRANH CÃI LÀ THUA",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên lập sẵn quy tắc rõ ràng sẽ giúp mình đỡ phải đau đầu lựa chọn lúc đang đuối sức?",
+     "text": "BỎ BỚT QUYẾT ĐỊNH?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Công thức nếu thì giúp tăng khả năng thực hiện nhờ cài đặt sẵn lựa chọn từ trước.",
+     "text": "CÔNG THỨC CÀI SẴN",
+     "color": "gold",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên đặt công thức thế nào để nó khắc sâu vào đầu mình mỗi tối?",
+     "text": "CÔNG THỨC THẾ NÀO?",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhớ kỹ câu này, cứ hễ đi đánh răng buổi tối là cất điện thoại vào ngăn kéo.",
+     "text": "ĐÁNH RĂNG CẤT MÁY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đánh răng trở thành phát súng báo hiệu, nhốt cám dỗ trước khi ý chí kịp lung lay.",
+     "text": "PHÁT SÚNG TỰ ĐỘNG",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi đây là hiệp khởi động đi. Giờ nén cả tám cơ chế vào giáo án bảy ngày.",
+     "text": "HỆ THỐNG HOÀN CHỈNH",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Tổng kết: Tái lập giấc ngủ",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại cả tám chiếc bẫy, làm sao gom chúng thành một chiến lược rõ ràng?",
+     "text": "TÁI LẬP LẠI GIẤC NGỦ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột một là cho não xả hơi sớm để đêm xuống không còn thèm thức khuya trả đũa.",
+     "text": "TRỤ CỘT TỰ DO SỚM",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn nhịp sinh học bị trễ và ý chí cạn kiệt lúc tối muộn thì xử lý sao?",
+     "text": "NHỊP ĐIỆU VÀ Ý CHÍ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột hai là đón nắng sớm neo nhịp, và tắt phát tự động trước khi kiệt sức.",
+     "text": "ÁNH SÁNG VÀ CHẶN ĐÀ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế còn không gian phòng ngủ với những thói quen vô thức bám rễ thì sao?",
+     "text": "PHÒNG NGỦ VÀ THÓI QUEN",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột ba là sạc máy ngoài phòng và khóa chặt tín hiệu nếu thì để đi ngủ nhẹ tênh.",
+     "text": "GIẢM LỰC CẢN NGHỈ NGƠI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy thử thách bảy ngày để bắt tay vào làm ngay tối nay là gì?",
+     "text": "THỬ THÁCH BẢY NGÀY?",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trong bảy đêm, phơi nắng sáng mười lăm phút và khóa màn hình ba mươi phút trước khi ngủ.",
+     "text": "KỶ LUẬT BẢY ĐÊM",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bảy ngày liên tục để ngừng vay mượn thể lực ngày mai và thức dậy tỉnh táo.",
+     "text": "LẤY LẠI NĂNG LƯỢNG",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký kênh để xem giải mã tâm lý mỗi tuần nhé. Tắt màn hình, đặt báo thức và ngủ đi.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

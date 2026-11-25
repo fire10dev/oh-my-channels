@@ -1,0 +1,82 @@
+{
+ "title": "Où dorment les pilotes du B-2 en mission de 44 h",
+ "hook": "SIESTE À BORD",
+ "asof": "Chiffres tirés des missions de 2001 et 2025",
+ "world": "bomber",
+ "long": "IX008",
+ "chapters": [
+  {
+   "id": "sleep",
+   "hud": "HEURE 9",
+   "chip": "03:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Voici le lit pour une mission de bombardier de 44 heures.",
+     "v": "cot",
+     "plane": "sleep"
+    },
+    {
+     "s": "Le B-2 ne compte que deux pilotes.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "Aucun équipage de relève. Personne pour prendre le relais.",
+     "v": "cockpit"
+    },
+    {
+     "s": "En 2001, deux pilotes l’ont piloté pendant 44,3 heures.",
+     "v": "clock",
+     "st": [
+      "44,3 H",
+      "sans escale · oct. 2001"
+     ]
+    },
+    {
+     "s": "Derrière leurs sièges : un lit de camp militaire modifié et un sac de couchage.",
+     "v": "cot",
+     "you": "cot"
+    },
+    {
+     "s": "L’un dort pendant que l’autre pilote.",
+     "v": "seats",
+     "you": "seats",
+     "plane": "sleep"
+    },
+    {
+     "s": "Aujourd’hui, l’armée de l’air dit qu’ils dorment sur une surface métallique, là derrière.",
+     "v": "cot",
+     "you": "cot"
+    },
+    {
+     "s": "Et ce n’est pas confortable.",
+     "v": "cot",
+     "you": "cot",
+     "plane": "sleep"
+    },
+    {
+     "s": "Les deux doivent être réveillés à chaque ravitaillement en vol.",
+     "v": "tanker",
+     "plane": "refuel"
+    },
+    {
+     "s": "Le pilote a dit que ce n’était pas un sommeil réparateur.",
+     "v": "cot",
+     "you": "cot"
+    },
+    {
+     "s": "Mais à ce stade, le moindre sommeil fait du bien.",
+     "v": "cot",
+     "you": "cot",
+     "plane": "sleep"
+    },
+    {
+     "s": "Tu pourrais dormir derrière le siège du pilote ?",
+     "v": "seats",
+     "you": "seats"
+    }
+   ]
+  }
+ ]
+}

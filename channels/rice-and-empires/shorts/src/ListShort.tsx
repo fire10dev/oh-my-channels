@@ -4,6 +4,7 @@ import {
   Audio,
   Img,
   interpolate,
+  OffthreadVideo,
   Sequence,
   spring,
   staticFile,
@@ -13,7 +14,7 @@ import {
 
 const {fontFamily} = loadFont('normal', {weights: ['600', '800'], subsets: ['latin', 'vietnamese']});
 
-export type Scene = {id: string; say: string; title: string; sub?: string; img: string};
+export type Scene = {id: string; say: string; title: string; sub?: string; img: string; clip?: string; clipSec?: number};
 export type Timed = {id: string; file: string; seconds: number};
 
 export const FPS = 30;
@@ -32,14 +33,25 @@ export const layout = (timeline: Timed[]) => {
 };
 export const totalFrames = (timeline: Timed[]) => layout(timeline).reduce((a, s) => a + s.frames, 0);
 
-const Background: React.FC<{src: string; frames: number; fadeIn: boolean}> = ({src, frames, fadeIn}) => {
+// Optional mp4 clip plays first (slowed to fill up to the whole scene, rate ≥ 0.5), then fades into the still.
+const Background: React.FC<{src: string; frames: number; fadeIn: boolean; clip?: string; clipSec?: number}> = ({src, frames, fadeIn, clip, clipSec}) => {
   const f = useCurrentFrame();
+  const rate = clip && clipSec ? Math.min(1, Math.max(0.5, clipSec / (frames / FPS))) : 1;
+  const clipFrames = clip && clipSec ? Math.min(frames + XFADE, Math.floor((clipSec / rate) * FPS) - 1) : 0;
+  const clipOpacity = interpolate(f, [clipFrames - XFADE, clipFrames], [1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
   const scale = interpolate(f, [0, frames + XFADE], [1.1, 1.2]);
   const y = interpolate(f, [0, frames + XFADE], [0, -40]);
   const opacity = fadeIn ? interpolate(f, [0, XFADE], [0, 1], {extrapolateRight: 'clamp'}) : 1;
   return (
     <AbsoluteFill style={{opacity}}>
       <Img src={staticFile(src)} style={{width: '100%', height: '100%', objectFit: 'cover', transform: `translateY(${y}px) scale(${scale})`}} />
+      {clip && clipFrames > 0 && (
+        <Sequence durationInFrames={clipFrames} layout="none">
+          <AbsoluteFill style={{opacity: clipOpacity}}>
+            <OffthreadVideo src={staticFile(clip)} muted playbackRate={rate} style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+          </AbsoluteFill>
+        </Sequence>
+      )}
       <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(10,6,2,0.8) 0%, rgba(10,6,2,0.55) 13%, rgba(10,6,2,0) 24%, rgba(0,0,0,0) 85%, rgba(0,0,0,0.25) 100%)'}} />
     </AbsoluteFill>
   );
@@ -96,13 +108,14 @@ const Progress: React.FC<{active: number; count: number}> = ({active, count}) =>
   </AbsoluteFill>
 );
 
-export const ListShort: React.FC<{scenes: Scene[]; timeline: Timed[]; dir: string; bgm?: string; numbered?: boolean; bgmVolume?: number}> = ({
+export const ListShort: React.FC<{scenes: Scene[]; timeline: Timed[]; dir: string; bgm?: string; numbered?: boolean; bgmVolume?: number; bgmEnv?: [number, number][]}> = ({
   scenes,
   timeline,
   dir,
   bgm,
   numbered = true,
   bgmVolume = 0.07,
+  bgmEnv,
 }) => {
   const slots = layout(timeline);
   const count = scenes.filter((s) => s.id !== 'hook' && s.id !== 'outro').length;
@@ -113,7 +126,7 @@ export const ListShort: React.FC<{scenes: Scene[]; timeline: Timed[]; dir: strin
         const start = i === 0 ? 0 : from - XFADE;
         return (
           <Sequence key={s.id} from={start} durationInFrames={frames + (i === 0 ? 0 : XFADE)} layout="none">
-            <Background src={s.img} frames={frames} fadeIn={i > 0} />
+            <Background src={s.img} frames={frames} fadeIn={i > 0} clip={s.clip} clipSec={s.clipSec} />
           </Sequence>
         );
       })}
@@ -128,7 +141,14 @@ export const ListShort: React.FC<{scenes: Scene[]; timeline: Timed[]; dir: strin
           </Sequence>
         );
       })}
-      {bgm && <Audio src={staticFile(bgm)} volume={bgmVolume} loop />}
+      {bgm && (
+        <Audio
+          src={staticFile(bgm)}
+          loop
+          // bgmEnv: [seconds, volume] points, linear in between (e.g. duck a loud stretch of the track)
+          volume={bgmEnv ? (f) => interpolate(f / FPS, bgmEnv.map((p) => p[0]), bgmEnv.map((p) => p[1]), {extrapolateRight: 'clamp'}) : bgmVolume}
+        />
+      )}
     </AbsoluteFill>
   );
 };

@@ -24,3 +24,7 @@ shared/library/**
 !shared/library/*/
 !shared/library/*/*/
 !shared/library/**/fetch*.py
+
+# render engine downloads / bundler caches
+.remotion/
+.cache/

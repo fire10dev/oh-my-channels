@@ -1,0 +1,95 @@
+{
+ "title": "O Cabo de Vida do Mergulhador Arrebentou a 100 Metros",
+ "hook": "CABO ARREBENTOU",
+ "asof": "Acontecimentos de 2012",
+ "world": "sat",
+ "long": "IX005",
+ "chapters": [
+  {
+   "id": "lemons",
+   "hud": "2012",
+   "chip": "MAR DO NORTE",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "diver",
+     "plane": "cut",
+     "you": "diver",
+     "s": "A cem metros de profundidade, o cabo dele arrebentou."
+    },
+    {
+     "v": "seabed",
+     "s": "Setembro de 2012. Mar do Norte."
+    },
+    {
+     "v": "diver",
+     "you": "diver",
+     "s": "O mergulhador de saturação Chris Lemons trabalhava no fundo do mar."
+    },
+    {
+     "v": "diver",
+     "st": [
+      "UMBILICAL",
+      "gás · água quente · comunicação"
+     ],
+     "s": "Preso à campânula por um umbilical."
+    },
+    {
+     "v": "ship",
+     "plane": "storm",
+     "s": "Então, o sistema de posicionamento do navio falhou."
+    },
+    {
+     "v": "ship",
+     "plane": "storm",
+     "s": "O navio se afastou à deriva."
+    },
+    {
+     "v": "diver",
+     "plane": "cut",
+     "s": "O umbilical ficou preso,"
+    },
+    {
+     "v": "diver",
+     "plane": "cut",
+     "you": "diver",
+     "s": "e arrebentou."
+    },
+    {
+     "v": "diver",
+     "st": [
+      "MINUTOS",
+      "gás de emergência"
+     ],
+     "s": "Ele tinha poucos minutos de gás de emergência."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "~30 MIN",
+      "small": "até o navio voltar · 2012"
+     },
+     "s": "O navio levou cerca de meia hora para voltar."
+    },
+    {
+     "v": "seabed",
+     "s": "Encontraram ele inconsciente no fundo do mar."
+    },
+    {
+     "v": "bellin",
+     "you": "bellin",
+     "s": "Um colega o levou à campânula e deu dois sopros."
+    },
+    {
+     "v": "bellin",
+     "s": "Ele voltou a si."
+    },
+    {
+     "v": "chamber",
+     "you": "chamber",
+     "s": "Ele sobreviveu e voltou a mergulhar."
+    }
+   ]
+  }
+ ]
+}

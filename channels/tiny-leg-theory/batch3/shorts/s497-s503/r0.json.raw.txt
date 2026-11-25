@@ -1,0 +1,707 @@
+[
+  {
+    "id": "s497",
+    "mascot": "pen",
+    "title": "Why Saturdays Vanish Fast",
+    "mechanism": "Time Perception",
+    "lines": [
+      {
+        "vo": "Saturday morning drags on the couch, but suddenly the day is gone.",
+        "text": "WHERE DID IT GO?",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "sofa"
+      },
+      {
+        "vo": "When hours feel identical, your brain saves almost none of them.",
+        "text": "MEMORY ERASES TIME",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Without new impressions, an entire quiet weekend shrinks to a blur.",
+        "text": "NO FRESH ANCHORS",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "You do not need a big trip to fix this.",
+        "text": "KEEP IT SIMPLE",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Give the morning one new detail, like walking a street you never take.",
+        "text": "ONE NEW ROUTE",
+        "color": "green",
+        "actor": "jogging"
+      },
+      {
+        "vo": "A single fresh bookmark makes the whole day feel twice as long.",
+        "text": "STRETCH YOUR DAY",
+        "color": "gold",
+        "actor": "reading",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s497vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Vi sao vua chop mat da het thu Bay?",
+    "title_vi": "Vì sao vừa chớp mắt đã hết thứ Bảy?",
+    "mechanism": "Time Perception",
+    "lines": [
+      {
+        "vo": "Sáng thứ Bảy nằm bấm điện thoại, chớp mắt cái đã thấy tối mịt.",
+        "text": "CHỚP MẮT LÀ TỐI",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Những giờ trôi qua lặp lại khiến não bộ không ghi nhận dấu mốc nào.",
+        "text": "NGÀY NẰM MẤT HÚT",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Khi không có chi tiết mới, cả ngày dễ bị thu gọn về số không.",
+        "text": "THIẾU ĐIỂM TỰA",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Không cần đi chơi xa, bạn chỉ cần một chi tiết khác lạ trước trưa.",
+        "text": "MỘT CHI TIẾT MỚI",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Tạt qua khu chợ mới, hoặc ngồi quán cà phê đầu ngõ khác.",
+        "text": "ĐỔI QUÁN CÀ PHÊ",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Sáng nay, bạn có muốn thử rẽ vào một con ngõ lạ?",
+        "text": "MỞ RỘNG THỜI GIAN",
+        "color": "gold",
+        "actor": "reading"
+      }
+    ]
+  },
+  {
+    "id": "s498",
+    "mascot": "buff",
+    "title": "Stop Cooking Chore Soup",
+    "mechanism": "Event Segmentation",
+    "lines": [
+      {
+        "vo": "You folded laundry, cleaned the kitchen, and your weekend feels ruined. Sure, buddy.",
+        "text": "CHORE OVERLOAD",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "You turned Saturday into an endless soup of leftover chores.",
+        "text": "CHORE SOUP",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "When you fold clothes while watching clips, your brain never gets a rest.",
+        "text": "ZERO BORDERS",
+        "actor": "think",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Blow the whistle between sets. Change your shirt and close the laptop.",
+        "text": "BLOW THE WHISTLE",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Step outside for two minutes. Chores are done, downtime starts now.",
+        "text": "SET COMPLETED",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s498vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung bien cuoi tuan thanh noi lau viec",
+    "title_vi": "Đừng biến cuối tuần thành nồi lẩu việc",
+    "mechanism": "Event Segmentation",
+    "lines": [
+      {
+        "vo": "Vừa dọn nhà vừa trả lời tin nhắn việc, xong thấy mệt hơn đi làm. Quen lắm.",
+        "text": "NỒI LẨU VIỆC TỒN",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Bạn đang biến cả ngày nghỉ thành một mớ việc nhà không hồi kết.",
+        "text": "KHÔNG CÓ VẠCH ĐÍCH",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Trộn việc tồn với nghỉ ngơi, đầu bạn sẽ luôn để số ga chờ.",
+        "text": "ĐẦU KHÔNG THỂ NGHỈ",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Hết hiệp dọn dẹp thì cất đồ, thay áo mới và gập máy tính lại.",
+        "text": "KẾT THÚC MỘT HIỆP",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Bước ra ban công hai phút. Xong việc là xong, giờ là nghỉ.",
+        "text": "ĐÓNG CHƯƠNG LẠI",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s499",
+    "mascot": "pen",
+    "title": "Why Sunday Nights Feel Heavy",
+    "mechanism": "Peak-End Rule",
+    "lines": [
+      {
+        "vo": "Sunday night arrives, and a sudden dread wipes out your whole weekend.",
+        "text": "SUNDAY DREAD",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "moon_stars"
+      },
+      {
+        "vo": "Even if Saturday was calm, your mind judges the trip by its landing.",
+        "text": "THE LANDING COUNTS",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Memory does not average forty-eight hours. It weighs the final notes.",
+        "text": "PEAK-END RULE",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Finishing the weekend folding laundry in dread leaves a bitter aftertaste.",
+        "text": "A GRIM FINALE",
+        "color": "red",
+        "actor": "future_tired"
+      },
+      {
+        "vo": "Protect the last two hours of your Sunday with a warm ritual.",
+        "text": "GUARD SUNDAY NIGHT",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Cook a comforting dinner, or call someone you miss.",
+        "text": "WARM RITUAL",
+        "color": "green",
+        "actor": "snack",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "A gentle ending lets Saturday rest safely in your memory.",
+        "text": "SAVE THE WEEKEND",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s499vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Vi sao toi Chu nhat lai thay nang ne?",
+    "title_vi": "Vì sao tối Chủ nhật lại thấy nặng nề?",
+    "mechanism": "Peak-End Rule",
+    "lines": [
+      {
+        "vo": "Tối Chủ nhật chuẩn bị đi ngủ, tự nhiên cảm giác hụt hẫng ùa về.",
+        "text": "TỐI CHỦ NHẬT NẶNG NỀ",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "moon_stars"
+      },
+      {
+        "vo": "Dù thứ Bảy đi cà phê với bạn rất vui, cảm giác đó tan biến hết.",
+        "text": "THỨ BẢY TAN BIẾN",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Bộ não thường không tính trung bình, mà ghi nhớ sâu nhất khúc kết thúc.",
+        "text": "CÚ CHỐT QUYẾT ĐỊNH",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Vừa dọn đồ vừa lo deadline sáng thứ Hai khiến cái kết trở nên uể oải.",
+        "text": "KẾT THÚC CĂNG THẲNG",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Hãy dành hai tiếng cuối cùng cho một nghi thức dễ chịu.",
+        "text": "DÀNH THỜI GIAN ÊM",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Nấu một món ấm bụng, hoặc nghe một danh sách nhạc quen thuộc.",
+        "text": "MÓN ĂN ẤM ÁP",
+        "color": "green",
+        "actor": "snack",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Một cái kết nhẹ nhàng sẽ giữ trọn niềm vui của hai ngày qua.",
+        "text": "GIỮ NGUYÊN NIỀM VUI",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s500",
+    "mascot": "buff",
+    "title": "Break Your Saturday Rut",
+    "mechanism": "Variety Seeking",
+    "lines": [
+      {
+        "vo": "Same takeout order, same reruns on the screen every Saturday. Sounds familiar.",
+        "text": "THE COMFORT RUT",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Passive sameness feels cozy now, but it leaves your mind completely flat.",
+        "text": "EMPTY REPETITION",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "brain"
+      },
+      {
+        "vo": "Your brain craves contrast to stay sharp.",
+        "text": "NEED CONTRAST",
+        "actor": "think",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "You do not need a four-hour road trip. One light rep of variety is enough.",
+        "text": "ONE LIGHT REP",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Walk through a busy morning market instead of the corner convenience store.",
+        "text": "VISIT A MARKET",
+        "color": "green",
+        "actor": "jogging"
+      },
+      {
+        "vo": "Fresh smells and new sights wake up your engine. Shake up your routine today.",
+        "text": "WAKE UP YOUR ENGINE",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s500vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung de cuoi tuan lap lai vo vi",
+    "title_vi": "Đừng để cuối tuần lặp lại vô vị",
+    "mechanism": "Variety Seeking",
+    "lines": [
+      {
+        "vo": "Lại đặt đúng quán cơm quen rồi nằm lướt điện thoại cả buổi. Nghe quen chưa?",
+        "text": "THÓI QUEN CŨ RÍCH",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Sự an toàn lặp đi lặp lại khiến hai ngày nghỉ trôi tuột như chưa từng có.",
+        "text": "TRÔI QUA NHẠT NHÒA",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đầu óc cần một chút đổi gió để thấy hứng khởi trở lại.",
+        "text": "CẦN SỰ ĐỔI MỚI",
+        "actor": "think",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Không cần đi phượt xa xôi. Một hiệp đổi vị nhẹ là đủ.",
+        "text": "MỘT HIỆP ĐỔI VỊ",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Dậy sớm đi chợ hoa quả tươi thay vì ghé siêu thị tiện lợi.",
+        "text": "ĐI CHỢ SỚM",
+        "color": "green",
+        "actor": "jogging"
+      },
+      {
+        "vo": "Mùi hương mới, âm thanh mới. Đổi một hành động nhỏ ngay hôm nay.",
+        "text": "ĐỔI HÀNH ĐỘNG NGAY",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s501",
+    "mascot": "pen",
+    "title": "The Trap of Open Weekends",
+    "mechanism": "Leisure Planning",
+    "lines": [
+      {
+        "vo": "Leaving Saturday totally empty sounds relaxing, until morning arrives.",
+        "text": "ZERO PLANS TRAP",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "You wander between rooms, unable to choose what to do first.",
+        "text": "CHOICE PARALYSIS",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Unscheduled freedom often drains willpower faster than a full schedule.",
+        "text": "WILLPOWER DRAINS",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Without structure, your attention falls into the path of least resistance.",
+        "text": "DEFAULT SCROLLING",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "You do not need a strict hourly calendar.",
+        "text": "NO RIGID SCHEDULES",
+        "color": "green",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Plant just two anchor points across the day.",
+        "text": "TWO DAILY ANCHORS",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Coffee with a friend at ten, a walk at four. Leave the rest blank.",
+        "text": "LEAVE SPACE TO ROAM",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "When two anchors hold the day, does free time feel lighter?",
+        "text": "FREEDOM NEEDS FRAME",
+        "color": "gold",
+        "actor": "reading",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s501vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Cang ranh roi cang kho nghi ngoi",
+    "title_vi": "Càng rảnh rỗi càng khó nghỉ ngơi",
+    "mechanism": "Leisure Planning",
+    "lines": [
+      {
+        "vo": "Nghĩ bụng cuối tuần không lên lịch gì, để tha hồ tận hưởng.",
+        "text": "ĐỂ TRỐNG THỜI GIAN",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Nhưng rồi bạn đứng giữa nhà, đắn đo mãi không biết nên làm gì.",
+        "text": "ĐẮN ĐO KHÔNG DỨT",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Sự tự do tuyệt đối đôi khi làm tiêu hao năng lượng quyết định rất nhanh.",
+        "text": "HAO HỤT Ý CHÍ",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Khi không có khung, tay lại tự động mở điện thoại lướt mạng xã hội.",
+        "text": "LƯỚT MẠNG VÔ THỨC",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Bạn không cần ép mình vào một thời gian biểu dày đặc.",
+        "text": "KHÔNG CẦN ÉP MÌNH",
+        "color": "green",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Chỉ cần cắm hai điểm tựa cố định trong ngày.",
+        "text": "HAI ĐIỂM TỰA CỐ ĐỊNH",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Hẹn bạn uống cà phê lúc mười giờ, và đi dạo chợ lúc bốn giờ.",
+        "text": "CÀ PHÊ VÀ DẠO PHỐ",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Khoảng trống giữa hai mốc đó mới là lúc bạn thật sự thảnh thơi.",
+        "text": "THẬT SỰ THẢNH THƠI",
+        "color": "gold",
+        "actor": "reading",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s502",
+    "mascot": "buff",
+    "title": "Lying Down Is Not Recovery",
+    "mechanism": "Restorative Rest",
+    "lines": [
+      {
+        "vo": "Six hours motionless under the blanket, and you wake up feeling like cement.",
+        "text": "TIRED AFTER REST",
+        "color": "red",
+        "actor": "sleeping",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Lying down rests your muscles, but your mind is still stuck in the work cave.",
+        "text": "NOT REAL RECOVERY",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Same room, same walls, same background stress running in the background.",
+        "text": "SAME OLD CAVE",
+        "actor": "think",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "You need a physical displacement to trigger real recovery.",
+        "text": "CHANGE ENVIRONMENT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Sit by a lake or wander a busy greenhouse. Deload your circuits now.",
+        "text": "DELOAD YOUR BRAIN",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s502vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Nam i ca ngay khong phai la nghi",
+    "title_vi": "Nằm ì cả ngày không phải là nghỉ",
+    "mechanism": "Restorative Rest",
+    "lines": [
+      {
+        "vo": "Nằm bẹp trên giường nửa ngày mà dậy thấy đầu nặng như đeo tạ. Quen chưa?",
+        "text": "NẰM BẸP VẪN MỆT",
+        "color": "red",
+        "actor": "sleeping",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Nằm yên chỉ thả lỏng cơ bắp, chứ đầu bạn vẫn mắc kẹt ở phòng làm việc.",
+        "text": "ĐẦU CHƯA THẢ LỎNG",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Bốn bức tường quen thuộc chỉ kích hoạt lại những áp lực của ngày thường.",
+        "text": "BỐN BỨC TƯỜNG CŨ",
+        "actor": "think",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Muốn xả tải thật sự, cơ thể bạn phải đổi không gian sống.",
+        "text": "ĐỔI KHÔNG GIAN",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Ra ngồi bên bờ hồ hoặc đi dạo chợ hoa. Đổi cảnh ngay để nạp lại năng lượng.",
+        "text": "XẢ TẢI ĐẦU ÓC",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s503",
+    "mascot": "pen",
+    "title": "Why Quick Replies Drain You",
+    "mechanism": "Attention Restore",
+    "lines": [
+      {
+        "vo": "You opened your phone just to send one quick text, and your calm vanished.",
+        "text": "ONE QUICK TEXT",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Even small pending chores keep your focus muscles tensed and working.",
+        "text": "TENSION LINGERS",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "It is like holding a light dumbbell all afternoon without putting it down.",
+        "text": "MENTAL DUMBBELL",
+        "actor": "think",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Your directed attention never gets a real break to reload.",
+        "text": "NO REST DAY",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Let your attention rest with soft fascination.",
+        "text": "SOFT FASCINATION",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Step outside to water your plants or watch the street traffic.",
+        "text": "WATER YOUR PLANTS",
+        "color": "green",
+        "actor": "jogging"
+      },
+      {
+        "vo": "Can you give your attention ten minutes of effortless wandering?",
+        "text": "EFFORTLESS GAZE",
+        "color": "gold",
+        "actor": "meditating",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s503vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Chi tra loi mot tin nhan cung kiet suc",
+    "title_vi": "Chỉ trả lời một tin nhắn cũng kiệt sức",
+    "mechanism": "Attention Restore",
+    "lines": [
+      {
+        "vo": "Định bụng chỉ mở Zalo trả lời một câu, thế là bay luôn buổi chiều thảnh thơi.",
+        "text": "MỘT TIN NHẮN TỒN",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Mỗi việc tồn đọng vô hình bắt sự chú ý của bạn phải gồng lên giữ nhịp.",
+        "text": "TÂM TRÍ VẪN GỒNG",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Nó giống như việc bạn cầm một quả tạ nhỏ suốt ngày mà không chịu đặt xuống.",
+        "text": "CẦM TẠ CẢ NGÀY",
+        "actor": "think",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Cơ bắp tập trung bị ép hoạt động liên tục sẽ kiệt sức trong âm thầm.",
+        "text": "CẠN KIỆT ÂM THẦM",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Hãy trả sự chú ý về trạng thái thả lỏng nhẹ nhàng.",
+        "text": "THẢ LỎNG TỰ NHIÊN",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Ra ban công tưới mấy chậu cây, hoặc ngắm xe cộ trôi dưới đường.",
+        "text": "TƯỚI NƯỚC CHO CÂY",
+        "color": "green",
+        "actor": "jogging"
+      },
+      {
+        "vo": "Mười lăm phút nhìn ngắm vu vơ là lúc tâm trí bạn tự lành lại.",
+        "text": "TÂM TRÍ TỰ LÀNH",
+        "color": "gold",
+        "actor": "meditating",
+        "prop": "lightbulb"
+      }
+    ]
+  }
+]

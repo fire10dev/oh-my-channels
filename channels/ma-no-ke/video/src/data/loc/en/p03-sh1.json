@@ -1,0 +1,368 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 43.895,
+"shots": [
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 0.0,
+"t1": 4.782,
+"a": [
+560,
+1080,
+800
+],
+"b": [
+600,
+1150,
+640
+],
+"flash": 1
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.782,
+"t1": 11.218,
+"a": [
+700,
+576,
+648
+],
+"b": [
+893,
+720,
+340
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 11.218,
+"t1": 14.559,
+"a": [
+960,
+576,
+648
+],
+"b": [
+960,
+640,
+460
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 14.559,
+"t1": 18.181,
+"a": [
+440,
+950,
+700
+],
+"b": [
+440,
+950,
+520
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 18.181,
+"t1": 22.576,
+"a": [
+640,
+992,
+900
+],
+"b": [
+560,
+1000,
+600
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 22.576,
+"t1": 25.081,
+"a": [
+1560,
+330,
+340
+],
+"b": [
+1560,
+302,
+340
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 25.081,
+"t1": 30.494,
+"a": [
+1300,
+576,
+648
+],
+"b": [
+1520,
+420,
+460
+],
+"dark": 0.3
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 30.494,
+"t1": 37.067,
+"a": [
+560,
+1080,
+800
+],
+"b": [
+640,
+1240,
+620
+]
+},
+{
+"img": "p03/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 37.067,
+"t1": 43.495,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 37.067,
+"t1": 43.495,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 4.782,
+"text": "CASE FILE: MA XO",
+"color": "#ffd84a"
+},
+{
+"t0": 5.091,
+"t1": 11.218,
+"text": "1. KITCHEN CORNER",
+"color": "#ffffff"
+},
+{
+"t0": 11.379,
+"t1": 14.559,
+"text": "2. GUARDS THE GOODS",
+"color": "#ffffff"
+},
+{
+"t0": 18.396,
+"t1": 22.576,
+"text": "3. CREEPY POLITE",
+"color": "#ffffff"
+},
+{
+"t0": 25.318,
+"t1": 27.674,
+"text": "4. COUNTS ALL NIGHT",
+"color": "#ffffff"
+},
+{
+"t0": 27.909,
+"t1": 30.494,
+"text": "MIGHT NOT BE MONEY",
+"color": "#ff5a4a"
+},
+{
+"t0": 33.779,
+"t1": 37.067,
+"text": "FORTUNE = JAR",
+"color": "#ffd84a"
+},
+{
+"t0": 37.067,
+"t1": 40.204,
+"text": "413 OF WHAT?",
+"color": "#ffd84a"
+},
+{
+"t0": 40.204,
+"t1": 43.495,
+"text": "▼ FULL EPISODE: LINK BELOW",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.0,
+"src": "p03/sfx/chuonggio.wav",
+"vol": 0.5
+},
+{
+"t": 14.725,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 26.496,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 37.067,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 42.191,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 4.582,
+"text": "Ma xo case file. If your family's been here three generations, listen up."
+},
+{
+"t": 4.782,
+"dur": 6.186,
+"text": "One. It's a kid in a corner, usually by the kitchen. Been there since great-great-grandpa. Never left."
+},
+{
+"t": 11.218,
+"dur": 3.241,
+"text": "Two. It guards the family stuff. Nothing leaves the house."
+},
+{
+"t": 14.559,
+"dur": 3.322,
+"text": "Sell the house, and the house's things leave. I have to keep them here."
+},
+{
+"t": 18.181,
+"dur": 4.294,
+"text": "Three. It's polite. Calls itself “your child,” calls you “sir.” Creepy polite."
+},
+{
+"t": 22.576,
+"dur": 2.207,
+"text": "I'm not scaring anyone. I'm just counting."
+},
+{
+"t": 25.081,
+"dur": 4.712,
+"text": "Four. Hear counting behind the wall at midnight? Don't celebrate. Might not be money."
+},
+{
+"t": 30.494,
+"dur": 5.973,
+"text": "Great-great-grandpa gave me one job: our whole fortune's in the jar under the kitchen. Guard it. So I did."
+},
+{
+"t": 37.067,
+"dur": 5.228,
+"text": "At Mr. Khai's house, it counted to four hundred thirteen. Full story on the channel."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/en/vo/c62d5dec50.wav"
+},
+{
+"t": 4.782,
+"src": "loc/en/vo/cc0b4c6ac6.wav"
+},
+{
+"t": 11.218,
+"src": "loc/en/vo/3aae137e4a.wav"
+},
+{
+"t": 14.559,
+"src": "loc/en/vo/1564a53ae0.wav"
+},
+{
+"t": 18.181,
+"src": "loc/en/vo/cf89407eb7.wav"
+},
+{
+"t": 22.576,
+"src": "loc/en/vo/29ad667670.wav"
+},
+{
+"t": 25.081,
+"src": "loc/en/vo/2bbb72a562.wav"
+},
+{
+"t": 30.494,
+"src": "loc/en/vo/500c4fd934.wav"
+},
+{
+"t": 37.067,
+"src": "loc/en/vo/90eca62cc9.wav"
+}
+],
+"mutes": [
+[
+14.362,
+18.181
+],
+[
+30.294,
+37.067
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

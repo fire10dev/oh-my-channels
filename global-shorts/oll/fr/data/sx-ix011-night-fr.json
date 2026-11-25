@@ -1,0 +1,69 @@
+{
+ "title": "150 jours sans soleil, pris dans les glaces de l’Arctique",
+ "hook": "CENT CINQUANTE JOURS",
+ "asof": "Chiffres de l’expédition MOSAiC, 2019–2020",
+ "world": "polar",
+ "long": "IX011",
+ "chapters": [
+  {
+   "id": "dark",
+   "hud": "JOUR 90",
+   "chip": "JANV. 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Imagine : le soleil ne se lève pas pendant cent cinquante jours.",
+     "v": "ice",
+     "st": [
+      "~150 JOURS",
+      "sans lever de soleil"
+     ]
+    },
+    {
+     "s": "C’est ce qu’a vécu l’expédition MOSAiC.",
+     "v": "ship"
+    },
+    {
+     "s": "Un navire pris dans la banquise arctique, à la dérive vers le pôle Nord.",
+     "v": "map"
+    },
+    {
+     "s": "Seule la lune et les étoiles éclairent la glace.",
+     "v": "sky"
+    },
+    {
+     "s": "Température minimale : moins 42,3 °C.",
+     "v": "camp",
+     "st": [
+      "−42,3 °C",
+      "température minimale"
+     ]
+    },
+    {
+     "s": "Avec le vent, le ressenti tombait à moins 65 °C.",
+     "v": "guard",
+     "you": "guard"
+    },
+    {
+     "s": "La glace bouge et se fissure au milieu du camp.",
+     "v": "crack",
+     "plane": "crack"
+    },
+    {
+     "s": "La ville la plus proche se trouve à 1 500 kilomètres.",
+     "v": "map"
+    },
+    {
+     "s": "Puis le soleil revient… et ne se couche pas de tout l’été.",
+     "v": "sky",
+     "tod": "day"
+    },
+    {
+     "s": "Tu tiendrais cinq mois sans nuit ?",
+     "v": "cabin",
+     "you": "cabin"
+    }
+   ]
+  }
+ ]
+}

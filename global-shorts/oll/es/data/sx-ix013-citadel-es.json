@@ -1,0 +1,68 @@
+{
+ "title": "El refugio secreto cuando los piratas abordan",
+ "hook": "CIERRA LA CIUDADELA",
+ "asof": "Normas del MLC 2006 · datos hasta 2025",
+ "world": "boxship",
+ "long": "IX013",
+ "chapters": [
+  {
+   "id": "pirates",
+   "hud": "DÍA 75",
+   "chip": "03:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Si los piratas abordan, la tripulación tiene dónde refugiarse.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Se llama ciudadela.",
+     "v": "citadel"
+    },
+    {
+     "s": "Un refugio cerrado, en lo profundo del barco.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Debe tener comida y agua para al menos tres días.",
+     "v": "citadel",
+     "st": [
+      "3 DÍAS",
+      "comida y agua"
+     ]
+    },
+    {
+     "s": "En noviembre de 2025, piratas abordaron un petrolero frente a Somalia.",
+     "v": "sea",
+     "plane": "skiff"
+    },
+    {
+     "s": "Los 24 tripulantes se encerraron allí.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Los piratas no pudieron llegar hasta ellos.",
+     "v": "sea",
+     "plane": "skiff"
+    },
+    {
+     "s": "Se rindieron y se fueron.",
+     "v": "sea"
+    },
+    {
+     "s": "Todos quedaron a salvo.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "¿Tú esperarías ahí hasta que pase el peligro?",
+     "v": "citadel",
+     "you": "citadel"
+    }
+   ]
+  }
+ ]
+}

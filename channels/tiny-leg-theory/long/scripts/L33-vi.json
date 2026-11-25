@@ -1,0 +1,901 @@
+{
+ "id": "L33vi",
+ "lang": "vi",
+ "title": "Chọn hướng đi lớn thế nào khi phương án nào cũng đáng lo?",
+ "description": "Khi ở lại thì ngột ngạt mà bước tiếp lại sợ hãi, đứng yên là lựa chọn rủi ro nhất. Đây là tám cái bẫy tâm lý khiến bạn đóng băng và cách chọn bước đi tiếp theo.",
+ "chapters": [
+  {
+   "title": "ĐỨNG GIỮA NGÃ BA",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hai giờ sáng, màn hình mở sẵn hai ngã rẽ lớn, mà chọn bên nào cũng thấy bất an.",
+     "text": "ĐỨNG GIỮA NGÃ BA",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ở lại chỗ cũ thì ngột ngạt lụi tàn, mà nhảy việc thì sợ tương lai mù mịt.",
+     "text": "KHÔNG CỬA NÀO ÊM",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chào mừng đến với tê liệt lựa chọn. Não Pen đang nghĩ đi đâu cũng toang đấy.",
+     "text": "NGHĨ ĐÂU CŨNG TOANG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chọn hướng nào khi đường nào trông cũng như cái hố sâu hả Buff?",
+     "text": "CHỌN SAO CHO ĐÚNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen đang vướng tám cái bẫy tâm lý làm nghẽn não trước cú nhảy lớn.",
+     "text": "TÁM BẪY TÂM LÝ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay gỡ sạch tám bẫy để hết chôn chân và vào ngay hiệp mới.",
+     "text": "BẮT ĐẦU HIỆP MỚI",
+     "color": "green",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "1. SỢ PHẢI HỐI HẬN",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Muốn đổi từ kế toán sang thiết kế, nhưng nghĩ tới bố mẹ gặng hỏi là tay mình khựng lại.",
+     "text": "1. SỢ PHẢI HỐI HẬN",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lỡ đổi nghề rồi hai năm nữa hết tiền, ân hận cả đời thì sao?",
+     "text": "SỢ SAU NÀY HỐI TIẾC",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tạ chưa lên mà đã run. Đầu Pen đang bị nỗi sợ hối hận khóa chặt.",
+     "text": "CHƯA NÂNG ĐÃ SỢ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có phải não mình đang né cảm giác xấu hổ nếu lỡ chọn sai không?",
+     "text": "NÉ TRÁNH XẤU HỔ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Bộ não xem việc bẽ mặt sau này đau như một vết thương thật.",
+     "text": "SỢ MẤT MẶT",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nó ghét viễn cảnh Pen tự trách mình, nên lập tức đạp phanh khẩn cấp.",
+     "text": "PHANH KHẨN CẤP",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sáng nào làm kế toán cũng ngột ngạt, làm sao nhả cái phanh này ra?",
+     "text": "LÀM SAO NHẢ PHANH?",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự hỏi xem, sai lầm này làm Pen khổ một tuần, một năm, hay mười năm? Mười năm nữa chẳng ai nhớ đâu.",
+     "text": "KIỂM TRA MƯỜI NĂM",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngã đau một hiệp rồi đứng dậy. Đẩy hỏng một lần còn hồi phục được, đứng yên mới mốc meo.",
+     "text": "HỒI PHỤC HAY ĐỨNG YÊN",
+     "color": "gold",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngã thì mình chịu được, nhưng bước vào nơi mù mịt mới làm mình hoảng.",
+     "text": "MÔI TRƯỜNG MÙ MỊT",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Màn sương đó có tên đàng hoàng, biến cái khổ quen thuộc thành chỗ êm ái.",
+     "text": "CÁI KHỔ QUEN THUỘC",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "2. SỢ SỰ BẤT ĐỊNH",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ở căn trọ cũ, ngõ ngách kẹt xe hay tiếng cánh cửa kêu cót két mình thuộc làu làu.",
+     "text": "2. SỢ SỰ BẤT ĐỊNH",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chuyển vào Sài Gòn thấy ngợp, vì chưa rõ tiền trọ, đường sá hay lối sống mới.",
+     "text": "MÙ MỊT THÔNG TIN",
+     "color": "red",
+     "actor": "wallet_worry"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bớt than đi, Pen. Não thấy thiếu thông tin là hoảng như đẩy tạ không người đỡ.",
+     "text": "ĐẨY TẠ THIẾU NGƯỜI ĐỠ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là tâm lý sợ sự bất định. Pen thà chịu cái khổ quen còn hơn bước vào nơi chưa biết.",
+     "text": "ÔM CÁI KHỔ QUEN",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao đầu óc cứ thích bám cái lồng cũ thay vì nắm cơ hội sống tốt hơn?",
+     "text": "VÌ SAO BÁM LỒNG CŨ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng thà chịu đói trong chuồng quen, hơn là ra rừng rậm đầy tiếng động lạ.",
+     "text": "CHUỒNG QUEN AN TOÀN",
+     "color": "red",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Liều mạng không giải quyết được gì. Phải dọn sương mù bằng dữ kiện thực tế.",
+     "text": "DỌN SẠCH SƯƠNG MÙ",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Viết ra ba điều chưa rõ. Đổi thành ba câu hỏi rồi dành mười lăm phút tra cứu.",
+     "text": "TRẢ LỜI ĐIỀU CHƯA RÕ",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biết giá phòng với tuyến xe buýt rồi, nỗi sợ chỉ còn là vài việc vặt dễ thu xếp.",
+     "text": "VIỆC VẶT MỖI NGÀY",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng mình vừa mở bốn mươi trang để ráng kiếm căn trọ hoàn hảo nhất.",
+     "text": "MỞ BỐN MƯƠI TRANG",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là tra cứu thông tin lành mạnh biến ngay thành cái bẫy cầu toàn kiệt sức.",
+     "text": "ĐUỔI THEO HOÀN HẢO",
+     "color": "ink",
+     "actor": "hand_off"
+    }
+   ]
+  },
+  {
+   "title": "3. BẪY CẦU TOÀN",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình có ba lời mời làm việc, mở nát cả tin nhắn Zalo lẫn bảng tính để so đo từng đồng lương.",
+     "text": "3. BẪY CẦU TOÀN",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình muốn tìm việc hoàn hảo, vừa lương cao lại không sợ bị kiệt sức.",
+     "text": "TÌM SỰ HOÀN HẢO",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thả lỏng người và buông bàn phím ra, Pen. Pen đang rơi vào bẫy cầu toàn quá mức rồi.",
+     "text": "CẦU TOÀN QUÁ MỨC",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Muốn tìm lựa chọn tốt nhất cho sự nghiệp thì có gì sai hả Buff?",
+     "text": "CẦU TOÀN CÓ GÌ SAI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đời thật không phải trò chơi để cộng điểm tối đa. Càng cố tìm cái hoàn hảo càng cạn sức.",
+     "text": "KHÔNG CÓ SỰ HOÀN HẢO",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người cứ chăm chăm tối ưu từng ly từng tí thường lo âu nhiều hơn và khó thỏa mãn.",
+     "text": "CÀNG TỐI ƯU CÀNG LO",
+     "color": "red",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra cố tìm chỗ làm mười điểm đang tự rút cạn sức của mình mỗi ngày sao?",
+     "text": "TỰ LÀM MÌNH KIỆT SỨC",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng vậy. Dẹp bảng tính đi và chốt đúng ba tiêu chuẩn không thể nhân nhượng.",
+     "text": "CHỌN BA TIÊU CHUẨN",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỗ đó đủ trả tiền phòng, cho Pen học kỹ năng và có giờ tập luyện không? Thế là đủ.",
+     "text": "ĐẠT CHUẨN LÀ ĐỦ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dùng ba tiêu chuẩn này loại ngay bốn chỗ rườm rà, chỉ còn hai hướng sáng nước.",
+     "text": "RÕ RÀNG HAI LỰA CHỌN",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng đầu mình lại bắt đầu chiếu phim về con đường sắp bỏ lại.",
+     "text": "BẮT ĐẦU CHIẾU PHIM",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chào mừng đến rạp phim ảo tưởng, nơi lối rẽ Pen bỏ qua luôn được tô hồng rực rỡ.",
+     "text": "RẠP PHIM ẢO TƯỞNG",
+     "color": "ink",
+     "actor": "hand_off"
+    }
+   ]
+  },
+  {
+   "title": "4. KỊCH BẢN NẾU NHƯ",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ định nộp đơn nghỉ việc, mình lại tưởng tượng cảnh sếp bỗng dưng thăng chức tăng lương.",
+     "text": "4. KỊCH BẢN NẾU NHƯ",
+     "color": "ink",
+     "actor": "34",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đầu mình vẽ ra ở lại thì êm đềm, còn ra đi thì cô đơn bế tắc.",
+     "text": "MƠ MỘNG KỊCH BẢN ĐẸP",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen đang vật lộn với ảo tưởng rồi. Não cứ thích dựng kịch bản nếu như để tự lừa mình.",
+     "text": "ĐẤU VỚI TƯỞNG TƯỢNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao não cứ dệt mộng màu hồng ngay lúc mình chuẩn bị bước đi?",
+     "text": "VÌ SAO DỆT MỘNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ não là cỗ máy mô phỏng, nhưng nó luôn so sánh hoàn toàn thiên vị.",
+     "text": "SO SÁNH THIÊN VỊ",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen đem thực tế trần trụi đi so với một viễn cảnh trong mơ không tì vết.",
+     "text": "THỰC TẾ VÀ ẢO TƯỞNG",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói vậy thì đầu mình đang tự viết kịch bản thần tượng cho đời mình rồi.",
+     "text": "TỰ VIẾT KỊCH BẢN",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Kéo cả hai lựa chọn ra khỏi cổ tích và lôi lên sàn đấu ngay.",
+     "text": "LÊN SÀN TẬP THỰC TẾ",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Viết ra ba điều bực bội nhất của mỗi bên. Rõ ràng trên giấy, cấm mơ mộng hão huyền.",
+     "text": "VIẾT HẾT ĐIỂM XẤU",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy đường nào cũng có cái đau đầu riêng, mình bỗng thấy dễ thở hơn nhiều.",
+     "text": "ĐƯỜNG NÀO CŨNG KHỔ",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng ký hợp đồng thuê nhà một năm ở nơi mới cứ như tự nhốt vào ngục tối.",
+     "text": "TỰ NHỐT VÀO NGỤC?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nỗi sợ đang dọa Pen đấy, biến cánh cửa gỗ bình thường thành bức tường thép kiên cố.",
+     "text": "CỬA GỖ HAY TƯỜNG THÉP",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "5. CỬA HAI CHIỀU",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ký hợp đồng thuê trọ một năm ở nơi mới, mình sợ mất hết tự do.",
+     "text": "5. CỬA HAI CHIỀU",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lỡ sống không nổi, tiền bạc cạn kiệt rồi mắc kẹt ở đó không về được thì sao?",
+     "text": "KẸT CỨNG MÃI MÃI",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bình tĩnh đi. Pen đang nhầm quyết định tốn chút tiền sửa sai với bức tường cụt vĩnh viễn.",
+     "text": "CỬA HAY BỨC TƯỜNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chuyển cuộc sống sang thành phố khác mà cũng quay đầu lại được thật hả Buff?",
+     "text": "CÓ QUAY ĐẦU ĐƯỢC?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phần lớn quyết định là cửa hai chiều. Bước vào thử, thấy không ổn thì quay ra.",
+     "text": "CỬA HAI CHIỀU",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ một số ít lựa chọn là cửa một chiều khóa chặt vĩnh viễn sau lưng Pen.",
+     "text": "HIẾM CỬA MỘT CHIỀU",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là vô đó một năm chỉ như đi ở thử, đâu phải đặt bút ký giấy bán mình?",
+     "text": "ĐI Ở THỬ MỘT NĂM",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng. Cùng lắm mất một tháng tiền cọc, nó vẫn là cánh cửa hai chiều.",
+     "text": "CÙNG LẮM MẤT CỌC",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ ba tháng tiền dự phòng, duy trì quan hệ cũ, và hẹn sáu tháng sau đánh giá lại.",
+     "text": "QUỸ DỰ PHÒNG AN TOÀN",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có đường lui dự phòng làm mình bớt hẳn nỗi hoảng sợ khi thu dọn đồ đạc.",
+     "text": "CÓ ĐƯỜNG LUI AN TOÀN",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng ra quyết định thì phải chịu trách nhiệm, còn đứng yên thì đâu ai trách mình.",
+     "text": "ĐỨNG YÊN THÌ VÔ TỘI?",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ảo tưởng tinh vi đó khiến nhiều người lặng lẽ chôn vùi cả chục năm tuổi trẻ.",
+     "text": "CHÔN CHÂN NĂM THÁNG",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "6. BẪY KHÔNG HÀNH ĐỘNG",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhận việc mới mà thất bại thì ai cũng thấy, ngồi yên chỗ cũ thì chẳng ai chê trách.",
+     "text": "6. BẪY KHÔNG HÀNH ĐỘNG",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là bẫy không hành động. Đứng yên giống như bỏ tập cả năm mà tưởng cơ không teo.",
+     "text": "BỎ TẬP CƠ TỰ TEO",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chờ đợi trong im lặng cũng tai hại ngang quyết định sai lầm hả Buff?",
+     "text": "CHỜ ĐỢI CÓ HẠI KHÔNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tệ hơn nhiều. Ngã đau thì chóng lành, dậm chân tại chỗ mới làm cùn mòn tay nghề.",
+     "text": "CÙN MÒN TAY NGHỀ",
+     "color": "ink",
+     "actor": "think",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ não dễ tha thứ cho việc đứng yên, vì nó không đo được sự hao mòn vô hình.",
+     "text": "HAO MÒN VÔ HÌNH",
+     "color": "red",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra đứng yên không an toàn, mà là chọn sự lụi tàn từ từ và chắc chắn.",
+     "text": "LỤI TÀN TỪ TỪ",
+     "color": "ink",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Hãy tính cái giá của việc đứng yên để thấy con số thực sự.",
+     "text": "TÍNH PHÍ DẬM CHÂN",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tính mức lương hụt, kỹ năng bỏ lỡ khi đứng yên một năm, rồi viết ra giấy.",
+     "text": "TÍNH CHI PHÍ ẨN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn cái giá một năm dậm chân hiện rõ trước mắt, mình mới thấy đứng yên là ván cược liều nhất.",
+     "text": "ĐỨNG YÊN LÀ MẠO HIỂM",
+     "color": "gold",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình muốn nhảy việc, nhưng mức lương chỗ mới cao quá làm mình hoa mắt.",
+     "text": "LÓA MẮT VÌ TIỀN LƯƠNG",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi chừng nhé. Pen đang mải ngắm cúp vàng mà chân đạp thẳng bẫy gấu.",
+     "text": "COI CHỪNG BẪY GẤU",
+     "color": "ink",
+     "actor": "hand_off"
+    }
+   ]
+  },
+  {
+   "title": "7. ẢO TƯỞNG TIÊU ĐIỂM",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Chỗ mới trả lương cao hơn hẳn, mình cứ mơ cảnh tiêu tiền không cần nhìn giá.",
+     "text": "7. ẢO TƯỞNG TIÊU ĐIỂM",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình cứ ngỡ lương cao hơn là mọi áp lực trong đời tự biến mất sạch.",
+     "text": "NGHĨ TIỀN CỨU TẤT CẢ",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao đầu mình cứ dán chặt vào một con số mà lờ đi bao nhiêu cảnh báo?",
+     "text": "LỜ ĐI CẢNH BÁO ĐỎ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là bẫy tiêu điểm. Pen chỉ khoái tạ nặng mà quên mất khớp vai đang đau.",
+     "text": "BẪY TIÊU ĐIỂM",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đầu Pen chỉ phóng to số tiền chuyển khoản, xóa sạch thực tế khổ ải mỗi ngày.",
+     "text": "TẦM NHÌN HẸP",
+     "color": "red",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen thấy số dư tài khoản, nhưng quên hai tiếng kẹt xe với sếp soi mói.",
+     "text": "QUÊN MẤT CẢNH KHỔ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình quên bẵng cảnh chen chúc kẹt xe vì bị mấy cọc tiền làm mờ mắt.",
+     "text": "HOA MẮT VÌ TIỀN",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn tỉnh mộng, chạy thử lịch trình một ngày bình thường từ sáng sớm tới tối mịt.",
+     "text": "NGÀY ĐI LÀM THỰC TẾ",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vẽ trọn một ngày bình thường ra, kẹt xe ngột ngạt, việc réo liên tục, tối về đuối đơ.",
+     "text": "HÌNH DUNG CẢ NGÀY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hình dung thực tế làm vỡ mộng ngay, nhưng đường nào cũng phải đánh đổi.",
+     "text": "LUÔN CÓ ĐÁNH ĐỔI",
+     "color": "gold",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì Pen vẫn mơ có kèo an toàn tuyệt đối. Đã đến lúc đổi bài rồi.",
+     "text": "ĐÃ ĐẾN LÚC ĐỔI BÀI",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "8. NGUYÊN TẮC VỪA ĐỦ",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là đường nào cũng có phiền toái, và chẳng có phương án nào mười trên mười.",
+     "text": "8. NGUYÊN TẮC VỪA ĐỦ",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy chẳng lẽ mình chỉ cần chọn phương án vừa đủ tốt thôi sao?",
+     "text": "CHỈ CẦN VỪA ĐỦ TỐT?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là nguyên tắc vừa đủ, vũ khí tối thượng trị thói nghĩ ngợi luẩn quẩn.",
+     "text": "NGUYÊN TẮC VỪA ĐỦ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chấp nhận vừa đủ nghe như đang giơ cờ trắng hạ chuẩn vậy hả Buff?",
+     "text": "CÓ PHẢI HẠ CHUẨN?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vừa đủ nghĩa là chọn cái đầu tiên đạt chuẩn, nắm chặt thanh đòn rồi nâng tạ.",
+     "text": "ĐẠT CHUẨN VÀ ĐẨY TẠ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người cầu toàn tìm sự chắc chắn ảo, còn người biết đủ chọn một hướng rồi vào hiệp ngay.",
+     "text": "VÀO HIỆP TẬP NGAY",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bí quyết không phải tìm lựa chọn hoàn hảo, mà là dốc sức sau khi đã quyết?",
+     "text": "DỐC HẾT TOÀN LỰC",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Quyết định vừa vặn mà làm tới cùng, ăn đứt kế hoạch hoàn hảo nằm trên giấy.",
+     "text": "LÀM ĂN ĐỨT KẾ HOẠCH",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vượt mức sàn, nắm chặt tay đòn và dồn hết sức vào lượt đẩy này.",
+     "text": "DỒN SỨC VÀO LƯỢT ĐẨY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi thôi đòi hỏi mọi thứ phải vẹn toàn, cảm giác nặng trĩu trong lòng tự nhiên tan biến hẳn.",
+     "text": "TRÚT BỎ GÁNH NẶNG",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình không muốn chôn chân nữa, sẵn sàng bắt tay áp dụng ngay hôm nay.",
+     "text": "SẴN SÀNG HÀNH ĐỘNG",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gói gọn tám bài học này vào kế hoạch bảy ngày để thực chiến ngay lập tức.",
+     "text": "KẾ HOẠCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "KẾ HOẠCH BẢY NGÀY",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại tám cái bẫy, quyết định khó bỗng biến thành những bước vừa sức.",
+     "text": "KẾ HOẠCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhớ ba nguyên tắc. Một là thuần hóa nỗi sợ bằng cách tính cái giá của việc giậm chân tại chỗ.",
+     "text": "THUẦN HÓA NỖI SỢ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai là kéo não về thực tế, chạy thử một ngày bình thường thay vì mơ mộng.",
+     "text": "KÉO NÃO VỀ THỰC TẾ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba là chọn phương án vừa đủ chuẩn, xem nó như cánh cửa hai chiều.",
+     "text": "CHỌN CỬA HAI CHIỀU",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chia ba nguyên tắc này thành bài tập cụ thể trong tuần thế nào hả Buff?",
+     "text": "THỬ THÁCH MỘT TUẦN",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai ngày đầu, viết ba tiêu chuẩn bắt buộc rồi chạy thử lịch trình một ngày bình thường.",
+     "text": "NGÀY MỘT VÀ HAI",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngày ba đến năm, tạo đường lui sáu tháng. Ngày sáu và bảy, chốt hạ và hành động.",
+     "text": "TỪ NGÀY BA ĐẾN BẢY",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu muốn bớt vướng bẫy và tập thêm nhiều hiệp chất lượng, bấm đăng ký vào hiệp sau nhé.",
+     "text": "VÀO HIỆP TIẾP THEO",
+     "color": "ink",
+     "actor": "celebrate",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

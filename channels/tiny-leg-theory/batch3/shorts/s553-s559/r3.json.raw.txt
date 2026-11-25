@@ -1,0 +1,725 @@
+REBUTTAL:
+1 reject: Misidentifies s554; that line belongs to s558 (embarrassing memories) and breaks s554's topic.
+2 accept
+3 accept
+4 accept
+5 accept
+6 accept
+7 accept
+8 accept
+9 accept
+10 accept
+11 accept
+12 accept
+13 reject: Exceeds the 15-syllable limit (17 syllables), impairs TTS flow, and CƠM has no tone marks.
+14 accept
+15 accept
+RESULT:
+[
+  {
+    "id": "s553",
+    "mascot": "pen",
+    "title": "Why Your Mind Races in Bed",
+    "mechanism": "COGNITIVE AROUSAL",
+    "lines": [
+      {
+        "vo": "You shut your laptop, but your thoughts are still sprinting.",
+        "text": "BRAIN STILL RACING",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "High alertness does not vanish just because the screen went dark.",
+        "text": "COGNITIVE AROUSAL",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Your mind needs a runway to slow down before the pillow.",
+        "text": "BUILD A RUNWAY",
+        "color": "green",
+        "actor": "reading",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Give yourself twenty screen-free minutes with a book or gentle stretching.",
+        "text": "BUFFER ZONE",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "moon_stars"
+      },
+      {
+        "vo": "Did you give your mind a quiet space to land tonight?",
+        "text": "ROOM TO LAND",
+        "color": "gold",
+        "actor": "front",
+        "prop": "alarm_clock"
+      }
+    ]
+  },
+  {
+    "id": "s553vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Sao vua tat may la kho ngu?",
+    "title_vi": "Sao vừa tắt máy là khó ngủ?",
+    "mechanism": "COGNITIVE AROUSAL",
+    "lines": [
+      {
+        "vo": "Tắt thông báo nhóm việc, đầu bạn vẫn chạy đua với việc sáng mai.",
+        "text": "CHƯA THỂ RỜI VIỆC",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Thần kinh đang chạy hết tốc lực thì không thể bấm nút tắt ngay.",
+        "text": "KHÔNG THỂ TẮT NGAY",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Cường độ làm việc căng thẳng luôn cần một khoảng đệm hạ nhiệt.",
+        "text": "KHOẢNG ĐỆM HẠ NHIỆT",
+        "color": "green",
+        "actor": "reading",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Dành hai mươi phút không nhìn màn hình, đi lại hoặc dọn bàn.",
+        "text": "HAI MƯƠI PHÚT NGHỈ",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "moon_stars"
+      },
+      {
+        "vo": "Tối nay, bạn đã cho tâm trí mình được hạ cánh chưa?",
+        "text": "CHO TÂM TRÍ HẠ CÁNH",
+        "color": "gold",
+        "actor": "front",
+        "prop": "alarm_clock"
+      }
+    ]
+  },
+  {
+    "id": "s554",
+    "mascot": "buff",
+    "title": "Why Night Noises Sound Loud",
+    "mechanism": "ATTENTION CAPTURE",
+    "lines": [
+      {
+        "vo": "The room goes dark, and a floor creak sounds like an intruder.",
+        "text": "TINY NOISE PANIC",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Attentional capture, buddy. In an empty gym, a creak hogs the weights.",
+        "text": "ATTENTION CAPTURE",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Your brain hates an empty spotlight, so it spots random shadows.",
+        "text": "EMPTY SPOTLIGHT",
+        "color": "red",
+        "actor": "think",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Turn on a fan. A steady hum gives your restless radar nothing to chase.",
+        "text": "RUN A FAN",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Mask the room or jump at shadows all night. Pick one.",
+        "text": "PICK ONE",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s554vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Sao tieng dong dem nghe to the?",
+    "title_vi": "Sao tiếng động đêm nghe to thế?",
+    "mechanism": "ATTENTION CAPTURE",
+    "lines": [
+      {
+        "vo": "Đèn vừa tắt, tiếng cánh cửa khẽ cọt kẹt bỗng nghe như có trộm.",
+        "text": "GIẬT MÌNH NỬA ĐÊM",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Càng yên ắng, cái đầu bạn càng khoái làm quá lên đấy.",
+        "text": "ĐẦU THÍCH LÀM QUÁ",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Hết tiếng còi xe ngoài phố, não liền phóng đại tiếng gió ngoài ban công.",
+        "text": "NÃO PHÓNG ĐẠI",
+        "color": "red",
+        "actor": "think",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Bật chiếc quạt gió phe phẩy để lấp đầy khoảng im lặng.",
+        "text": "BẬT QUẠT GIÓ",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Bật quạt lên hoặc nằm canh trộm đến sáng. Tự chọn đi.",
+        "text": "TỰ CHỌN ĐI",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s555",
+    "mascot": "pen",
+    "title": "Why Unfinished Tasks Haunt Bedtime",
+    "mechanism": "ZEIGARNIK EFFECT",
+    "lines": [
+      {
+        "vo": "You pull up the covers, and suddenly remember an unsent email.",
+        "text": "UNSENT EMAIL",
+        "color": "red",
+        "actor": "bed_phone_night",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "That mental itch is the Zeigarnik effect.",
+        "text": "ZEIGARNIK EFFECT",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Your brain holds paused tasks in memory until you officially park them.",
+        "text": "GOAL TENSION",
+        "actor": "think",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "It feels like ten browser tabs refusing to close inside your head.",
+        "text": "TABS NEVER CLOSE",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "You do not need to finish everything before going to sleep.",
+        "text": "NO NEED TO FINISH",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Just write tomorrow's very first step onto a paper notepad.",
+        "text": "WRITE STEP ONE",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Writing it down gives your mind permission to safely let go.",
+        "text": "SAFE TO REST",
+        "color": "gold",
+        "actor": "sleeping",
+        "prop": "moon_stars"
+      }
+    ]
+  },
+  {
+    "id": "s555vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Vua trum chan lai nho viec?",
+    "title_vi": "Vừa trùm chăn lại nhớ việc?",
+    "mechanism": "ZEIGARNIK EFFECT",
+    "lines": [
+      {
+        "vo": "Vừa kéo chăn lên, bạn chợt nhớ tin nhắn công việc chưa gửi chiều nay.",
+        "text": "TIN NHẮN NHẮC VIỆC",
+        "color": "red",
+        "actor": "bed_phone_night",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Cơn bứt rứt này chính là hiệu ứng Zeigarnik.",
+        "text": "HIỆU ỨNG ZEIGARNIK",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Não bộ luôn ghim chặt những việc dở dang cho tới khi hoàn thành.",
+        "text": "VIỆC CÒN DỞ DANG",
+        "actor": "think",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Ý nghĩ về việc dang dở cứ lặp đi lặp lại, giục bạn bật dậy làm tiếp.",
+        "text": "ĐÃ XEM CHƯA XONG",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Nhưng bạn không cần phải thức trắng đêm để xử lý ngay.",
+        "text": "ĐỪNG THỨC XỬ LÝ",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Lấy một tờ giấy ghi nhớ, viết đúng một việc cần làm sáng mai.",
+        "text": "GHI RA GIẤY NHỚ",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Gửi việc sang trang giấy là cách báo não yên tâm ngủ ngon.",
+        "text": "YÊN TÂM NGỦ NGON",
+        "color": "gold",
+        "actor": "sleeping",
+        "prop": "moon_stars"
+      }
+    ]
+  },
+  {
+    "id": "s556",
+    "mascot": "buff",
+    "title": "Stop Wrestling Midnight Worries",
+    "mechanism": "INTRUSIVE THOUGHTS",
+    "lines": [
+      {
+        "vo": "Midnight hits, and a sudden panic screams: what if you lose your job?",
+        "text": "MIDNIGHT PANIC",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Intrusive thoughts, buddy. Your guard drops, so your brain invents threats.",
+        "text": "INTRUSIVE THOUGHTS",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "Fighting them is like bench-pressing quicksand. You only sink deeper.",
+        "text": "STOP FIGHTING IT",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Treat dark worries like gym hecklers. Call them background noise.",
+        "text": "LABEL AS NOISE",
+        "color": "green",
+        "actor": "front",
+        "prop": "target"
+      },
+      {
+        "vo": "Drop the mental barbell and let it talk to empty air.",
+        "text": "DROP THE WEIGHT",
+        "color": "green",
+        "actor": "meditating",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Never jump into the ring with every uninvited sparring partner. Lights out.",
+        "text": "STAY OUT OF RING",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s556vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Nua dem hay nghi quan?",
+    "title_vi": "Nửa đêm hay nghĩ quẩn?",
+    "mechanism": "INTRUSIVE THOUGHTS",
+    "lines": [
+      {
+        "vo": "Vừa thiu thiu ngủ, bạn giật mình nhớ tin nhắn lấp lửng của sếp.",
+        "text": "LO LẮNG VÌ SẾP",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Khi phòng thủ ban ngày hạ xuống, não tự bịa kịch bản mất việc.",
+        "text": "TỰ BỊA KỊCH BẢN",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "Càng gồng mình xua đuổi, nỗi lo càng đè nặng như tạ quá sức.",
+        "text": "CÀNG ĐẨY CÀNG NẶNG",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Cứ dán nhãn cho nó là tạp âm, như tiếng còi xe ngoài ngõ thôi.",
+        "text": "DÁN NHÃN TẠP ÂM",
+        "color": "green",
+        "actor": "front",
+        "prop": "target"
+      },
+      {
+        "vo": "Đặt cây tạ suy nghĩ xuống, thở ra một hơi thật chậm.",
+        "text": "ĐẶT CÂY TẠ XUỐNG",
+        "color": "green",
+        "actor": "meditating",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Không việc gì phải lên đài đấu với một nỗi sợ tưởng tượng. Ngủ đi.",
+        "text": "ĐỪNG LÊN SÀN ĐẤU",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s557",
+    "mascot": "pen",
+    "title": "Why You Feel Wide Awake at Ten",
+    "mechanism": "CLOCK ENTRAINMENT",
+    "lines": [
+      {
+        "vo": "You climb into bed at ten, but your body feels fully awake.",
+        "text": "TIRED BUT AWAKE",
+        "color": "red",
+        "actor": "bed_phone_night",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Your body clock synchronizes to light signals, not your bedtime wishlist.",
+        "text": "CLOCK ENTRAINMENT",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Bright screen light stalls your clock and tricks your brain into daytime mode.",
+        "text": "LATE SCREEN TRAP",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Dim the overhead lamps around your room two hours before sleeping.",
+        "text": "DIM THE LIGHTS",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Catch ten minutes of morning sunlight tomorrow to lock your rhythm.",
+        "text": "MORNING SUNLIGHT",
+        "color": "green",
+        "actor": "jogging",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "What lighting cues did you feed your clock before bed tonight?",
+        "text": "FEED YOUR CLOCK",
+        "color": "gold",
+        "actor": "front",
+        "prop": "hourglass"
+      }
+    ]
+  },
+  {
+    "id": "s557vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Len giuong som ma mat van mo?",
+    "title_vi": "Lên giường sớm mà mắt vẫn mở?",
+    "mechanism": "CLOCK ENTRAINMENT",
+    "lines": [
+      {
+        "vo": "Lên giường từ mười giờ, nhưng người bạn vẫn tỉnh như ban ngày.",
+        "text": "LÊN GIƯỜNG SỚM",
+        "color": "red",
+        "actor": "bed_phone_night",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Đồng hồ sinh học đồng bộ theo ánh sáng, chứ không theo ý muốn.",
+        "text": "NHỊP SINH HỌC",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Ánh sáng màn hình đánh lừa đồng hồ sinh học rằng trời vẫn còn sáng.",
+        "text": "ĐÈN SÁNG ĐÁNH LỪA",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Hãy tắt bớt đèn trần lớn hai tiếng trước khi kéo chăn đi ngủ.",
+        "text": "HẠ BỚT ĐÈN TRẦN",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Sáng mai, đón mười phút nắng sớm tự nhiên để cài lại nhịp thức.",
+        "text": "ĐÓN NẮNG SỚM",
+        "color": "green",
+        "actor": "jogging",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Đêm nay, bạn đã chuẩn bị ánh sáng thế nào cho giấc ngủ?",
+        "text": "CHUẨN BỊ ÁNH SÁNG",
+        "color": "gold",
+        "actor": "front",
+        "prop": "hourglass"
+      }
+    ]
+  },
+  {
+    "id": "s558",
+    "mascot": "buff",
+    "title": "Why You Replay Old Embarrassments",
+    "mechanism": "DEFAULT NETWORK",
+    "lines": [
+      {
+        "vo": "You lock your screen, and boom: your brain replays an awkward mistake.",
+        "text": "AWKWARD REPLAY",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Dragging a three-year-old fumble back to the mental gym? Stop right there.",
+        "text": "MIDNIGHT CRINGE",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Meet the default network. That is your brain idling without a coach.",
+        "text": "DEFAULT NETWORK",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "When outward tasks stop, it replays old social tape for tomorrow.",
+        "text": "OLD SOCIAL TAPE",
+        "actor": "bored_yawn",
+        "prop": "sofa"
+      },
+      {
+        "vo": "It is not trying to hurt you. It is reviewing game tape.",
+        "text": "REVIEW GAME TAPE",
+        "actor": "think",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Give your restless narrator a harmless mental warm-down instead.",
+        "text": "COGNITIVE SHUFFLE",
+        "color": "green",
+        "actor": "writing",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Pick the word BED, and picture three random items for each letter.",
+        "text": "NEUTRAL WORD GAME",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Wear out the storyteller with zero emotional drama. Lights out.",
+        "text": "WEAR OUT STORIES",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s558vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Vua buong may lai nho chuyen que?",
+    "title_vi": "Vừa buông máy lại nhớ chuyện quê?",
+    "mechanism": "DEFAULT NETWORK",
+    "lines": [
+      {
+        "vo": "Vừa đặt điện thoại xuống, đầu bạn chiếu lại một pha nói hớ năm ngoái.",
+        "text": "PHA NÓI HỚ CŨ",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Nửa đêm rồi mà não cứ lôi chuyện cũ rích ra tự kiểm điểm.",
+        "text": "TỰ TRÁCH NỬA ĐÊM",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Đó là lúc não rảnh rỗi tự bật kênh chiếu lại vì thiếu bài tập.",
+        "text": "KHI NÃO RẢNH RỖI",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "Không có việc ngoài, nó quay vào trong để mổ xẻ mọi sai lầm.",
+        "text": "MỔ XẺ SAI LẦM",
+        "actor": "bored_yawn",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Nó không hại bạn đâu, nó chỉ đang tự diễn tập ứng xử thôi.",
+        "text": "TỰ DIỄN TẬP",
+        "actor": "think",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Chặn nó lại bằng một bài tập ghép chữ hoàn toàn vô thưởng vô phạt.",
+        "text": "CHƠI GHÉP CHỮ",
+        "color": "green",
+        "actor": "writing",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Chọn chữ CƠM, rồi nghĩ ba đồ vật bắt đầu bằng từng chữ cái.",
+        "text": "TRÒ CHƠI CHỮ",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Cho cái đầu bớt hăng máu rồi ngủ đi. Hết giờ tập rồi.",
+        "text": "HẾT GIỜ TẬP RỒI",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s559",
+    "mascot": "pen",
+    "title": "Why Working in Bed Destroys Sleep",
+    "mechanism": "STIMULUS CONTROL",
+    "lines": [
+      {
+        "vo": "You answer emails in bed, snack, and stream movies under the duvet.",
+        "text": "BED AS AN OFFICE",
+        "color": "red",
+        "actor": "bed_phone_night",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Then you wonder why your brain snaps wide awake on the pillow.",
+        "text": "SNAPS WIDE AWAKE",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "You conditioned your mattress to mean high alert instead of deep rest.",
+        "text": "STIMULUS CONTROL",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Working where you sleep trains your nervous system to stay alert.",
+        "text": "TRAINED FOR ALERT",
+        "actor": "hand_off",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Move laptops, paperwork, and late-night screens completely out of the bedroom.",
+        "text": "REMOVE WORK CUES",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "When your mattress means only rest, your mind finally lets go.",
+        "text": "BED MEANS REST",
+        "color": "gold",
+        "actor": "sleeping",
+        "prop": "moon_stars"
+      }
+    ]
+  },
+  {
+    "id": "s559vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Lam viec tren giuong kho ngu?",
+    "title_vi": "Làm việc trên giường khó ngủ?",
+    "mechanism": "STIMULUS CONTROL",
+    "lines": [
+      {
+        "vo": "Ôm máy tính lướt Zalo trong chăn, vừa cày phim vừa trả lời việc.",
+        "text": "GIƯỜNG THÀNH BÀN LÀM",
+        "color": "red",
+        "actor": "bed_phone_night",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Để rồi vừa đặt lưng xuống nệm, đầu bạn lại tỉnh như sáo.",
+        "text": "ĐẦU TỈNH NHƯ SÁO",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Não đã bị huấn luyện rằng hễ chạm lưng xuống nệm là phải làm việc.",
+        "text": "QUEN PHẢN XẠ THỨC",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Làm việc trên giường dạy cơ thể luôn bật chế độ thức sẵn sàng.",
+        "text": "LUÔN BẬT BÁO ĐỘNG",
+        "actor": "hand_off",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Đem máy tính và sổ sách ra khỏi phòng ngủ trước khi tắt đèn.",
+        "text": "DỌN HẾT ĐỒ LÀM VIỆC",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Hãy để chiếc nệm chỉ mang một ý nghĩa duy nhất là nghỉ ngơi.",
+        "text": "CHỈ ĐỂ NGHỈ NGƠI",
+        "color": "gold",
+        "actor": "sleeping",
+        "prop": "moon_stars"
+      }
+    ]
+  }
+]

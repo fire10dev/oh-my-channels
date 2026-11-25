@@ -1,0 +1,32 @@
+[
+ {
+  "id": "hook",
+  "file": "vo-00.wav",
+  "seconds": 11.0
+ },
+ {
+  "id": "s1",
+  "file": "vo-01.wav",
+  "seconds": 5.3
+ },
+ {
+  "id": "s2",
+  "file": "vo-02.wav",
+  "seconds": 6.65
+ },
+ {
+  "id": "s3",
+  "file": "vo-03.wav",
+  "seconds": 7.7
+ },
+ {
+  "id": "s4",
+  "file": "vo-04.wav",
+  "seconds": 3.6
+ },
+ {
+  "id": "outro",
+  "file": "vo-05.wav",
+  "seconds": 2.6
+ }
+]

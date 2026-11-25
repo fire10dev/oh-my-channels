@@ -1,0 +1,891 @@
+{
+ "id": "L50vi",
+ "lang": "vi",
+ "title": "Dám nói ngược số đông mà không bị cô lập",
+ "description": "Chúng ta thường gật đầu trong phòng họp hay bữa cơm gia đình chỉ để né va chạm. Dưới đây là tám bẫy tâm lý phổ biến khiến bạn xuôi theo số đông (như groupthink, pluralistic ignorance, normative influence) cùng các câu thoại thực tế giúp bạn dám nói thật mà không bị cô lập.",
+ "chapters": [
+  {
+   "title": "Tại sao ta im lặng",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cả phòng họp gật gù một ý tưởng tệ, và bạn cũng gật theo.",
+     "text": "TẠI SAO TA IM LẶNG",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nuốt ý kiến thật để giữ êm chuyện chứ gì. Chuẩn bài sợ mất lòng rồi đấy.",
+     "text": "HÒA BÌNH GIẢ TẠO",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Từ bữa cơm gia đình đến nhóm làm việc, sao nói ngược lại sợ thế?",
+     "text": "SAO KHÓ NÓI THẬT?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bị cô lập đau hệt như bị quả tạ nặng trịch rơi trúng ngón chân.",
+     "text": "NỖI ĐAU XÃ HỘI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy làm sao để lên tiếng mà không làm nát tan bầu không khí?",
+     "text": "CÁCH LÊN TIẾNG",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bóc tám cái bẫy tâm lý và tập vài bài đơn giản để giữ vững lập trường.",
+     "text": "TÁM CƠ CHẾ NÉ BẪY",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Nhìn thẳng nói cong",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ba đồng nghiệp khẳng định bảng chi tiêu đã đúng, dù phép tính sai lè.",
+     "text": "1. NHÌN THẲNG NÓI CONG",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghe họ nói xong, mình nhìn màn hình rồi ngờ rằng mắt mình có vấn đề.",
+     "text": "NGỜ VỰC CHÍNH MÌNH",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ảo giác số đông kinh điển: khi cả bầy chọn sai, mắt bạn cũng tự thấy méo mó.",
+     "text": "ÁP LỰC ĐỒNG THUẬN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình biết mình tính đúng, nhưng đứng một mình chống lại ba người sợ thật.",
+     "text": "ĐỨNG MỘT MÌNH",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mắt thấy rõ sự thật, nhưng não sợ bị tẩy chay nên vội vàng đầu hàng.",
+     "text": "NÃO BỘ HOẢNG LOẠN",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là tâm trí tự bẻ cong sự thật chỉ để né va chạm sao?",
+     "text": "NÉ TRÁNH VA CHẠM",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sửa tư thế ngay, ghi số liệu ra giấy trước khi cả nhóm kịp chốt kèo.",
+     "text": "GHI RÕ RA GIẤY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng mở lời thế nào khi mọi người đang chuẩn bị gật đầu thông qua?",
+     "text": "NÓI SAO CHO KHÉO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ nói tự nhiên: Mình thấy số liệu ở dòng ba chưa khớp, cả nhóm dò lại một phút nhé.",
+     "text": "CHỈ RÕ ĐIỂM LỆCH",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lên tiếng sớm giữ được mình, nhưng lỡ cả phòng im phăng phắc thì sao?",
+     "text": "CẢ PHÒNG IM BẶT",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sự im lặng đó là cái bẫy, ai cũng hoảng nhưng giả vờ bình thản.",
+     "text": "CÁI BẪY IM LẶNG",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "2. Căn phòng im lặng",
+   "sources": [
+    "s02",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hạn chót công việc quá gấp, nhưng nhìn quanh thấy ai cũng thản nhiên.",
+     "text": "2. CĂN PHÒNG IM LẶNG",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình im thin thít vì ngỡ chỉ có mỗi mình là đang quá tải.",
+     "text": "CHẮC MỖI MÌNH SỢ?",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy ngộ nhận tập thể đấy. Trong bụng ai cũng cuống, nhưng ngoài mặt lại cố làm ra vẻ bình thản.",
+     "text": "NGỘ NHẬN TẬP THỂ",
+     "color": "gold",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là ai cũng đang đeo mặt nạ bình tĩnh trong khi sắp chìm nghỉm à?",
+     "text": "MẶT NẠ BÌNH THẢN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn đo lòng mình bằng nỗi lo, nhưng lại đo người khác qua vẻ bề ngoài.",
+     "text": "TRONG VÀ NGOÀI",
+     "color": "ink",
+     "actor": "34",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nên im lặng bị hiểu lầm là đồng ý, dù chẳng ai kham nổi việc.",
+     "text": "IM LẶNG LÀ ĐỒNG Ý?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào bài tập đỡ tạ ngay, hỏi về cách làm thay vì đùng đùng phản đối.",
+     "text": "HỎI VỀ TIẾN TRÌNH",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hỏi thế nào để trưởng nhóm không nghĩ là mình đang bàn lùi, Buff?",
+     "text": "DÒ ĐƯỜNG KHÉO LÉO",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi khéo thế này: Nếu giữ nguyên tiến độ này, liệu nhóm mình có bảo đảm được chất lượng không?",
+     "text": "MỞ ĐƯỜNG CHIA SẺ",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Phá vỡ im lặng thì được, nhưng nếu mọi người tin sái cổ tin đồn thì sao?",
+     "text": "TIN ĐỒN TRUYỀN MIỆNG",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lúc đám đông mượn niềm tin của nhau, bạn phải dùng bài gánh khác.",
+     "text": "NIỀM TIN VAY MƯỢN",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "3. Sự thật vay mượn",
+   "sources": [
+    "s03",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bữa cơm họ hàng rôm rả tin đồn thổi giá đất, ai nói nghe cũng như chuyên gia.",
+     "text": "3. SỰ THẬT VAY MƯỢN",
+     "color": "ink",
+     "actor": "snack",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù hôm qua đã đọc văn bản quy hoạch chuẩn, thấy bốn người lớn cùng khẳng định mình lại lung lay.",
+     "text": "BỎ QUÊN SỰ THẬT",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý tin số đông đấy, cứ ngỡ đông người nói thì họ biết nhiều hơn mình.",
+     "text": "LẦM TƯỞNG HIỂU BIẾT",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy bốn người lớn cùng chắc nịch, mình tự nhiên thấy lý lẽ của mình yếu.",
+     "text": "BỐN CHỌI MỘT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói to không có nghĩa là đúng, khéo cả bốn cùng đọc một bài trên mạng.",
+     "text": "NÓI TO CHƯA CHẮC ĐÚNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra họ chỉ đang chuyền tay nhau một tiếng vang rỗng tuếch thôi à?",
+     "text": "TIẾNG VANG RỖNG",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Về lại tư thế chuẩn, truy nguồn tin nhẹ nhàng chứ đừng nhảy vào đôi co.",
+     "text": "TÌM VỀ NGUỒN TIN",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hỏi thế nào để không làm bữa cơm gia đình biến thành bãi chiến trường?",
+     "text": "TRÁNH TRANH CÃI",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ hỏi tỉnh bơ: Chuyện này nghe lạ ghê, bác đọc được ở trang nào thế ạ?",
+     "text": "ĐỌC ĐƯỢC Ở ĐÂU?",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trị tin đồn thì dễ, nhưng lỡ cả hội ép mình hùa theo để hòa nhập thì sao?",
+     "text": "MUỐN ĐƯỢC HÒA NHẬP",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là nỗi sợ bị cho ra rìa, khi bạn coi trọng quan hệ hơn sự thật.",
+     "text": "SỢ BỊ TẨY CHAY",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "4. Nỗi sợ bị ra rìa",
+   "sources": [
+    "s04",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đi cà phê, đám bạn lôi chuyện đứa vắng mặt tập tành kinh doanh ra chế giễu.",
+     "text": "4. NỖI SỢ BỊ RA RÌA",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy bạn mình dám làm là giỏi, nhưng vẫn cười hùa vì sợ mình sẽ là đứa tiếp theo bị bêu.",
+     "text": "CƯỜI THEO ĐÁM ĐÔNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bẫy hòa nhập, bạn biết rõ đúng sai nhưng hùa theo để giữ chỗ.",
+     "text": "BẪY HÒA NHẬP",
+     "color": "gold",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác khác biệt làm ngực mình nhói lên một cơn lo âu thắt nghẹn.",
+     "text": "LO ÂU BỊ RUỒNG BỎ",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng sinh tồn giật chuông đấy. Não sợ bị tống khỏi đàn rồi chết rét một mình.",
+     "text": "NỖI SỢ SINH TỒN",
+     "color": "ink",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên cơ thể phát báo động sinh tử chỉ vì một câu chuyện phiếm bên bàn nước?",
+     "text": "BÁO ĐỘNG GIẢ",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào thế khóa trục, không cần dạy đời ai, chỉ cần từ chối hùa theo bêu xấu.",
+     "text": "DỰNG LẠI RANH GIỚI",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói gì để rút lui êm đẹp mà không khiến cả bàn quay sang công kích mình?",
+     "text": "RÚT LUI KHÉO LÉO",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bảo luôn là thấy bạn ấy dám thử cũng hay mà, rồi lái sang chuyện cuối tuần.",
+     "text": "ĐỔI CHỦ ĐỀ",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giữ mình được rồi, nhưng nếu cả nhóm chỉ chăm chăm giữ hòa khí thì sao?",
+     "text": "BẪY HÒA KHÍ",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cả đội nể nang không dám nói thật thì chuẩn bị cắm đầu vào ngõ cụt.",
+     "text": "BẪY TƯ DUY NHÓM",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "5. Bẫy tư duy nhóm",
+   "sources": [
+    "s05",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhóm làm việc vội vã chốt kế hoạch, ai thắc mắc là bị coi như phá đám.",
+     "text": "5. BẪY TƯ DUY NHÓM",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cả phòng thi nhau khen sếp sáng suốt, rồi cùng nhau lao đầu vào ngõ cụt.",
+     "text": "NỤ CƯỜI THẢM HỌA",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy tư duy nhóm điển hình, vì sợ mất lòng nhau nên vứt sạch phản biện.",
+     "text": "TRIỆT TIÊU PHẢN BIỆN",
+     "color": "gold",
+     "actor": "facepalm",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ai cũng tự bịt miệng mình vì sợ bị dán nhãn tiêu cực hay chống đối.",
+     "text": "TỰ KIỂM DUYỆT",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi ai cũng gật như nhau thì chẳng còn ai suy nghĩ, chỉ còn ảo tưởng thôi.",
+     "text": "CHẲNG AI NGHĨ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để một thành viên bình thường phá vỡ cơn mê này mà không bị ghét?",
+     "text": "PHÁ VỠ CƠN MÊ",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập bài thử tải, biến thắc mắc thành áo giáp bảo vệ thành công của nhóm.",
+     "text": "BÀI TẬP THỬ TẢI",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hỏi câu gì để quản lý thấy mình hỗ trợ chứ không phải đang chê bai?",
+     "text": "GÓP Ý XÂY DỰNG",
+     "color": "ink",
+     "actor": "think",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi thế này: Để dự án chạy mượt mà, nhóm mình thử rà trước điểm nghẽn rủi ro nhất xem sao.",
+     "text": "TÍNH TRƯỚC RỦI RO",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn nhận rủi ro rất tốt, nhưng nếu cả nhóm chỉ thích nói chuyện cũ rích?",
+     "text": "CHUYỆN CŨ BIẾT RỒI",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là tật chỉ khoe tin quen, giấu tiệt thông tin mới dưới đáy hồ sơ.",
+     "text": "THÔNG TIN BỊ GIẤU",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "6. Quân bài giấu kín",
+   "sources": [
+    "s06",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Họp gia đình lo cho ông, cả nhà mất cả tiếng chỉ bàn chuyện cơm nước.",
+     "text": "6. QUÂN BÀI GIẤU KÍN",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn quy định viện phí mình bỏ mấy ngày tìm hiểu thì chẳng ai thèm nhắc.",
+     "text": "CÔNG SỨC BỊ BỎ QUÊN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiên vị tin chung thôi, người ta thích lặp lại cái ai cũng biết để vui vẻ.",
+     "text": "THIÊN VỊ TIN CHUNG",
+     "color": "gold",
+     "actor": "bored_yawn",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói chuyện vặt thì dễ gật gù, nên bàn tin cũ cho cảm giác an toàn dễ chịu.",
+     "text": "CẢM GIÁC AN TOÀN",
+     "color": "ink",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mang số liệu mới ra dễ bị khớp, vì trong phòng chưa ai kịp kiểm chứng.",
+     "text": "RỦI RO TIN MỚI",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy là việc hệ trọng bị giấu nhẹm chỉ vì mải ăn mừng mấy chuyện cỏn con?",
+     "text": "SỰ THẬT BỊ BỎ QUÊN",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi bài tiếp đất nhẹ nhàng thôi: đừng lên giọng dạy đời, cứ thả số liệu vào cuộc nói chuyện.",
+     "text": "ĐƯA SỐ LIỆU TỰ NHIÊN",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chia sẻ viện phí thế nào để không nghe như đang dạy đời người thân?",
+     "text": "TRÁNH LÊN MẶT DẠY ĐỜI",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ bảo nhẹ nhàng: Con thấy khoản viện phí này chưa tính tới, cả nhà xem qua hai con số này nhé.",
+     "text": "NÊU RÕ HAI CON SỐ",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đưa tin êm thấm rồi, nhưng nếu chỉ có một mình mình phản đối thì sao?",
+     "text": "ĐƠN ĐỘC LÊN TIẾNG",
+     "color": "ink",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một tiếng nói bình tĩnh có sức nặng kinh khủng nếu bạn biết gồng trụ.",
+     "text": "SỨC MẠNH TIẾNG NÓI",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "7. Tiếng nói đơn độc",
+   "sources": [
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đi chơi với bạn bè, bốn người đòi chạy xe máy lên đèo lúc mưa to.",
+     "text": "7. TIẾNG NÓI ĐƠN ĐỘC",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói được hai phút thì nhượng bộ, vì cãi lại cả nhóm thấy vô vọng quá.",
+     "text": "BỎ CUỘC QUÁ SỚM",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng buông tạ sớm thế, phe thiểu số điềm đạm sẽ buộc cả nhóm nghĩ lại.",
+     "text": "ẢNH HƯỞNG THIỂU SỐ",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kể cả khi họ gạt đi, việc mình phản đối vẫn khiến họ phải nghĩ lại à?",
+     "text": "KHIẾN NHÓM SUY NGHĨ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đa số ép người ta vâng lời nhanh, nhưng thiểu số điềm đạm khiến họ ngẫm sâu.",
+     "text": "ĐIỀM ĐẠM VÀ KIÊN ĐỊNH",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bí quyết là phải giữ bình tĩnh chứ không nhảy dựng lên khi bị phản bác?",
+     "text": "GIỮ TÂM BÌNH THẢN",
+     "color": "ink",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào bài tập sức bền, giữ chặt điều cốt lõi nhưng mềm mỏng ở chi tiết.",
+     "text": "BÀI TẬP SỨC BỀN",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao kiên định mà không biến mình thành kẻ bướng bỉnh làm mất vui?",
+     "text": "KHÔNG GÂY CĂNG THẲNG",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói rõ hai lần rồi đề xuất: Mình hiểu nhóm muốn đi, nhưng cần tính sẵn chỗ trú phòng khi sạt lở.",
+     "text": "PHƯƠNG ÁN DỰ PHÒNG",
+     "color": "green",
+     "actor": "34",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có đường lùi thì yên tâm, nhưng làm sao biết nhóm thật lòng đồng ý?",
+     "text": "ĐỒNG THUẬN THẬT SỰ?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phải đo độ khớp trước khi tan họp, kẻo sự mệt mỏi giả làm đồng thuận.",
+     "text": "KIỂM TRA ĐỒNG THUẬN",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "8. Đồng thuận thật sự",
+   "sources": [
+    "s08",
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cuối buổi họp dài, nhóm trưởng hỏi nhất trí chưa thì ai cũng ậm ừ gật.",
+     "text": "8. ĐỒNG THUẬN THẬT SỰ",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ba tuần sau, ai cũng bực bội ấm ức vì từ đầu chẳng ai muốn làm thế.",
+     "text": "ẤM ỨC VỀ SAU",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đồng thuận giả tạo đấy, người ta chịu thua vì đuối sức chứ không phải vì ưng.",
+     "text": "ĐẦU HÀNG VÌ ĐUỐI SỨC",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chúng ta hay nhầm việc không ai cãi cọ với chuyện cả nhóm cùng chung lòng.",
+     "text": "SỰ IM LẶNG GIẢ TẠO",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đồng thuận thật sự đòi hỏi phải lôi hết lấn cấn ra trước khi chốt hạ.",
+     "text": "TÌM HẾT LẤN CẤN",
+     "color": "ink",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao kiểm tra độ đồng thuận mà không phải cãi nhau thêm hai tiếng nữa?",
+     "text": "KIỂM TRA NHANH",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào bài đo lực, cho chấm điểm từ một đến mười trước khi bấm nút duyệt.",
+     "text": "CHẤM ĐIỂM ĐỒNG THUẬN",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lỡ có người chỉ chấm bốn hay năm điểm thì tính sao, Buff?",
+     "text": "KHI ĐIỂM QUÁ THẤP",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ai dưới bảy điểm, cho đúng một phút nêu điều cần chỉnh sửa để họ yên tâm bấm duyệt.",
+     "text": "NÊU ĐIỀU CẦN SỬA",
+     "color": "green",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là biến nghi ngại thành giải pháp cụ thể trước khi tốn công vô ích.",
+     "text": "SỬA ĐỔI THỰC TẾ",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đồng thuận thật tốn sức lúc đầu, nhưng đỡ cho bạn cả tháng ôm bực vào người.",
+     "text": "HẾT BỰC VỀ SAU",
+     "color": "ink",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Kế hoạch hành động",
+   "sources": [
+    "s01",
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tập nói thật không có nghĩa là biến mình thành kẻ khó ưa hay thích cãi cùn.",
+     "text": "KẾ HOẠCH HÀNH ĐỘNG",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chia thành ba bài tập chính để giữ vững tinh thần trước mọi áp lực.",
+     "text": "BA BÀI TẬP CỐT LÕI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp một: giữ vững góc nhìn tỉnh táo, đừng để tin đồn hay áp lực đám đông cuốn đi.",
+     "text": "GIỮ VỮNG GÓC NHÌN",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp hai, nâng tạ sự thật, kéo những con số bị giấu ra ánh sáng.",
+     "text": "KÉO SỰ THẬT RA",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp ba, khóa chốt an toàn bằng câu hỏi thử tải và thang đo đồng thuận.",
+     "text": "PHẢN BIỆN AN TOÀN",
+     "color": "ink",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy rèn luyện cơ bắp tâm lý này mỗi ngày thế nào hở Buff?",
+     "text": "THÓI QUEN MỖI NGÀY",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trong bảy ngày tới, trước khi gật đầu lia lịa, hãy dừng lại ba giây hỏi một câu.",
+     "text": "DỪNG TRƯỚC KHI GẬT",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một câu hỏi chân thành đủ để dẹp bỏ hòa khí giả tạo mà không hề gây gắt gỏng.",
+     "text": "HÒA KHÍ GIẢ TẠO",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đăng ký kênh để tập thêm nhiều hiệp tâm lý thực chiến và tự tin nói thật.",
+     "text": "ĐĂNG KÝ LUYỆN TẬP",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Como um porta-aviões serve 15 mil refeições por dia",
+ "hook": "15 MIL REFEIÇÕES",
+ "asof": "Dados de relatórios da Marinha dos EUA, 2006–2025",
+ "world": "carrier",
+ "long": "IX009",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "DIA 3",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Esta cozinha serve mais de 15 mil refeições por dia.",
+     "v": "galley"
+    },
+    {
+     "s": "Ela fica no USS Ronald Reagan, um porta-aviões.",
+     "v": "wide"
+    },
+    {
+     "s": "A cozinha nunca fecha. O navio funciona 24 horas.",
+     "v": "clock"
+    },
+    {
+     "s": "Todo mês: cerca de 5.300 litros de leite,",
+     "v": "storeroom",
+     "st": [
+      "5.300 L",
+      "leite por mês · 2020"
+     ]
+    },
+    {
+     "s": "3.200 quilos de alface,",
+     "v": "storeroom"
+    },
+    {
+     "s": "e mais de 13.600 quilos de frango.",
+     "v": "storeroom",
+     "st": [
+      "13.600 KG",
+      "frango por mês"
+     ]
+    },
+    {
+     "s": "Quem está de serviço perde a refeição; então, a cozinha prepara marmitas.",
+     "v": "galley",
+     "you": "mess"
+    },
+    {
+     "s": "Antes do USS Carl Vinson partir, 18 caminhões lotaram seus freezers.",
+     "v": "truck",
+     "plane": "trucks"
+    },
+    {
+     "s": "No mar, navios de abastecimento encostam ao lado.",
+     "v": "ras",
+     "plane": "ras"
+    },
+    {
+     "s": "Aí todos levam caixas para baixo, até os chefes mais graduados.",
+     "v": "storeroom",
+     "you": "storeroom"
+    },
+    {
+     "s": "E a cozinha começa tudo de novo.",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "Você cozinharia para 5 mil pessoas?",
+     "v": "galley"
+    }
+   ]
+  }
+ ]
+}

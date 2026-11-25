@@ -1,0 +1,674 @@
+[
+ {
+  "id": "s378",
+  "mascot": "buff",
+  "title": "Why Screens Turn Us Mean",
+  "mechanism": "Invisible Shield",
+  "lines": [
+   {
+    "vo": "You would never scream at a stranger in a cafe.",
+    "text": "CAFE MANNERS",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Yet online, you throw heavy punches daily.",
+    "text": "KEYBOARD BRAWL",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Screens hide facial expressions, so empathy skips the warm-up.",
+    "text": "NO BRAKES",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "No eye contact means your brain treats people like pixels.",
+    "text": "JUST PIXELS",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Run the cafe rep. Ask if you would say this across a table.",
+    "text": "THE CAFE REP",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "If you wouldn't say it to their face, drop the keyboard. Walk away or look foolish.",
+    "text": "DROP AND WALK",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s378vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Vi sao tren mang de gat gong?",
+  "title_vi": "Vì sao trên mạng dễ gắt gỏng?",
+  "mechanism": "Invisible Shield",
+  "lines": [
+   {
+    "vo": "Ngồi quán cà phê, chẳng ai tự nhiên quát vào mặt người lạ.",
+    "text": "LỊCH SỰ NGOÀI ĐỜI",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Nhưng vào hội nhóm trên mạng, gõ phím là muốn ăn thua ngay.",
+    "text": "HĂNG HÁI GÕ PHÍM",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Màn hình che mất nét mặt, làm phanh đồng cảm rơi mất.",
+    "text": "MẤT PHANH",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Không thấy ánh mắt đối phương, não coi người ta như dòng chữ vô tri.",
+    "text": "CHỈ LÀ CHỮ",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Tập đúng một hiệp này thôi: dám đứng trước mặt họ nói câu đó không?",
+    "text": "HỎI THẲNG MÌNH",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Không dám thì buông điện thoại xuống. Giữ thể diện cho chính mình.",
+    "text": "BUÔNG ĐIỆN THOẠI",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s379",
+  "mascot": "pen",
+  "title": "Why Crowds Turn Cruel Online",
+  "mechanism": "The Faceless Mob",
+  "lines": [
+   {
+    "vo": "One tense comment, and dozens of anonymous accounts swarm the thread.",
+    "text": "THE SWARM ARRIVES",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "People who seem gentle in real life suddenly type vicious insults.",
+    "text": "ANONYMOUS RAGE",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Inside a crowd, individual identity dissolves into the noise.",
+    "text": "LOST IN THE MOB",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Each person tosses one small stone, thinking their hit causes no damage.",
+    "text": "JUST ONE PEBBLE",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Personal responsibility fades when everyone assumes someone else holds the blame.",
+    "text": "SHARED GUILT",
+    "actor": "think"
+   },
+   {
+    "vo": "Do not debate an angry swarm. Mute notifications and step away.",
+    "text": "MUTE AND STEP BACK",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "An angry mob only survives on attention. Starve it, and it wanders off.",
+    "text": "STARVE THE SWARM",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s379vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ao giac an danh trong dam dong",
+  "title_vi": "Ảo giác ẩn danh trong đám đông",
+  "mechanism": "The Faceless Mob",
+  "lines": [
+   {
+    "vo": "Vừa nêu ý kiến trong nhóm chung, cả hội đồng loạt vào thả icon phẫn nộ.",
+    "text": "BÃO THẢ PHẪN NỘ",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Nhiều người ngày thường rất hiền, lên mạng lại buông lời rất cay đắng.",
+    "text": "LỜI NÓI NẶNG NỀ",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Khi lẫn vào đám đông, cảm giác trách nhiệm cá nhân dễ biến mất.",
+    "text": "HOÀ VÀO ĐÁM ĐÔNG",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Ai cũng nghĩ mình chỉ thả một câu nhẹ, chắc chẳng làm ai đau.",
+    "text": "CHỈ MỘT HÒN SỎI",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Người ta hùa theo chửi bới chỉ để chứng minh mình đang đứng về phe số đông.",
+    "text": "A DÙA THEO PHE",
+    "actor": "think"
+   },
+   {
+    "vo": "Tắt thông báo bài viết, để màn hình nghỉ ngơi một buổi chiều.",
+    "text": "TẮT THÔNG BÁO",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Đám đông chỉ mạnh khi có người đối đáp. Không ai xem, ngọn lửa tự tàn.",
+    "text": "KHÔNG CÒN KHÁN GIẢ",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s380",
+  "mascot": "buff",
+  "title": "Why You Judge Strangers Harshly",
+  "mechanism": "Blaming Character",
+  "lines": [
+   {
+    "vo": "A stranger typos one word, and your brain instantly labels them an idiot.",
+    "text": "INSTANT VILLAIN",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Yet when you snap, you excuse it because you had a bad day.",
+    "text": "EXCUSING YOURSELF",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Labeling an enemy takes one second. Considering their context takes heavy lifting.",
+    "text": "LAZY LABELS",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Give them one free rep. Assume clumsy fingers before bad character.",
+    "text": "ONE FREE PASS",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Save your heavy sets for the gym. Strangers online don't deserve the cardio.",
+    "text": "DROP AND MOVE ON",
+    "color": "gold",
+    "actor": "front",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s380vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Vi sao de coi nguoi khac la xau?",
+  "title_vi": "Vì sao dễ coi người khác là xấu?",
+  "mechanism": "Blaming Character",
+  "lines": [
+   {
+    "vo": "Thấy ai bình luận trái ý, bạn kết luận ngay họ dốt hoặc xấu tính.",
+    "text": "PHÁN XÉT NGAY",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Nhưng khi mình gắt gỏng, bạn lại đổ tại kẹt xe hay đói bụng.",
+    "text": "TỰ BIỆN HỘ",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Gán nhãn kẻ xấu thì nhanh. Nghĩ cho hoàn cảnh của người ta lại tốn sức.",
+    "text": "TIỆN TAY GÁN NHÃN",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Coi như người ta lỡ tay gõ vội. Bỏ qua hiệp này cho nhẹ đầu.",
+    "text": "BỎ QUA HIỆP NÀY",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Hạ tạ xuống và lướt qua. Đừng phí sức đôi co với người lạ.",
+    "text": "LƯỚT QUA THÔI",
+    "color": "gold",
+    "actor": "front",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s381",
+  "mascot": "pen",
+  "title": "Why Flat Text Sounds Hostile",
+  "mechanism": "Assuming Malice",
+  "lines": [
+   {
+    "vo": "Someone replies with just three flat words: 'Whatever you say.'",
+    "text": "THREE WORDS",
+    "actor": "reading",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "And inside your head, you hear pure, biting sarcasm.",
+    "text": "IMAGINED SARCASM",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Even a normal period at the end feels like a cold slap.",
+    "text": "COLD PUNCTUATION",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Flat screen text carries no warmth, pitch, or gentle smile.",
+    "text": "NO TONE OF VOICE",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Without tone, your brain fills every blank with hostility.",
+    "text": "FILLING BLANKS",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "You spend twenty minutes fuming over words written without any malice.",
+    "text": "FUMING ALONE",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Next time, read their words aloud in a neutral, calm voice.",
+    "text": "READ IN CALM TONE",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "If the message could be harmless, why assume it was meant to hurt?",
+    "text": "WHY ASSUME HARM?",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s381vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao tin nhan trong nhu doa dam?",
+  "title_vi": "Vì sao tin nhắn trông như dọa dẫm?",
+  "mechanism": "Assuming Malice",
+  "lines": [
+   {
+    "vo": "Ai đó thả một câu cộc lốc: 'Ừ, đúng rồi'. Bạn khựng lại ngay.",
+    "text": "MỘT CÂU CỘC LỐC",
+    "actor": "reading",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Trong đầu bạn lập tức vang lên giọng điệu mỉa mai, thách thức.",
+    "text": "TƯỞNG NHƯ MỈA MAI",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Thậm chí chỉ một dấu chấm câu cũng làm bạn thấy bị dằn mặt.",
+    "text": "MỘT DẤU CHẤM CÂU",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Chữ viết trên màn hình không có ngữ điệu, ánh mắt hay nụ cười.",
+    "text": "THIẾU NGỮ ĐIỆU",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Não có xu hướng tự tô màu đỏ vào những khoảng trống.",
+    "text": "TỰ VẼ NGUY HIỂM",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn mất cả buổi tối bực bội vì một câu người ta chỉ gõ vội.",
+    "text": "BỰC CẢ BUỔI TỐI",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Thử đọc lại câu đó bằng một giọng bình thản, tò mò.",
+    "text": "ĐỌC LẠI BÌNH THẢN",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Nếu câu nói đó vốn dĩ bình thường, sao mình phải tự chuốc bực vào thân?",
+    "text": "SAO PHẢI CHUỐC BỰC?",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s382",
+  "mascot": "buff",
+  "title": "Why Moral Outrage Hooks You",
+  "mechanism": "Moral Firestorm",
+  "lines": [
+   {
+    "vo": "A drama post pops up, and your fingers itch to denounce it.",
+    "text": "RAGE AT FIRST SIGHT",
+    "color": "red",
+    "actor": "panic",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "It does not feel like a disagreement. It feels like defending justice.",
+    "text": "DEFENDING JUSTICE",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Moral fury feels heroic, but algorithms treat your anger like cheap fuel.",
+    "text": "ALGORITHM FUEL",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Public shaming never persuades anyone. It only burns your mental energy.",
+    "text": "WASTED ENERGY",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Hit pause. Step away from the screen before your thumbs type one syllable.",
+    "text": "HIT PAUSE",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Close the tab. Either build your own life or stay free fuel for their feed.",
+    "text": "CLOSE THE TAB",
+    "color": "gold",
+    "actor": "typing_focused"
+   }
+  ]
+ },
+ {
+  "id": "s382vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Vi sao de bi cuon vao tranh cai dao duc?",
+  "title_vi": "Vì sao dễ bị cuốn vào tranh cãi đạo đức?",
+  "mechanism": "Moral Firestorm",
+  "lines": [
+   {
+    "vo": "Thấy một bài đăng gây bức xúc, tay bạn ngứa ngáy muốn vào chấn chỉnh.",
+    "text": "MUỐN VÀO CHẤN CHỈNH",
+    "color": "red",
+    "actor": "panic",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bạn cảm thấy mình đang bảo vệ chính nghĩa trước cái xấu.",
+    "text": "NHÂN DANH CÔNG LÝ",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Cơn giận đạo đức làm bạn thấy hả dạ, nhưng thuật toán chỉ cần lượt tương tác.",
+    "text": "MỒI CHO THUẬT TOÁN",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Tranh cãi công khai chẳng làm ai thay đổi, chỉ làm bạn cạn năng lượng.",
+    "text": "CẠN NĂNG LƯỢNG",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Khóa màn hình, đi pha cốc nước. Chờ cái đầu nguội hẳn rồi tính tiếp.",
+    "text": "KHÓA MÀN HÌNH",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Giữ năng lượng cho cuộc sống của mình. Để bão mạng tự tan.",
+    "text": "GIỮ NĂNG LƯỢNG",
+    "color": "gold",
+    "actor": "typing_focused"
+   }
+  ]
+ },
+ {
+  "id": "s383",
+  "mascot": "pen",
+  "title": "How Echo Chambers Radicalize Us",
+  "mechanism": "The Echo Chamber",
+  "lines": [
+   {
+    "vo": "You join an online group where everyone shares your exact worldview.",
+    "text": "A FAMILIAR GROUP",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Instead of balanced thinking, members slowly push opinions to extremes.",
+    "text": "DRIFTING TO EXTREMES",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "People compete to prove who is the purest defender of the tribe.",
+    "text": "PURITY TESTS",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "When outside perspectives are silenced, moderate voices sound like betrayal.",
+    "text": "MODERATION SILENCED",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Hearing only our own echoes makes any different view look absurd.",
+    "text": "LOCKED IN THE ECHO",
+    "actor": "think"
+   },
+   {
+    "vo": "Before joining the cheer, try stating the opposing argument fairly.",
+    "text": "STATE BOTH SIDES",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "True mental strength welcomes questions, while an echo only tolerates applause.",
+    "text": "BEYOND THE APPLAUSE",
+    "color": "gold",
+    "actor": "think",
+    "prop": "brain"
+   }
+  ]
+ },
+ {
+  "id": "s383vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao hoi nhom cang dong cang cuc doan?",
+  "title_vi": "Vì sao hội nhóm càng đông càng cực đoan?",
+  "mechanism": "The Echo Chamber",
+  "lines": [
+   {
+    "vo": "Bạn tham gia một hội nhóm nơi mọi người đều cùng quan điểm.",
+    "text": "CÙNG MỘT HỘI NHÓM",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Cứ tưởng sẽ thảo luận văn minh, nhưng các bài viết ngày càng gay gắt.",
+    "text": "NGÀY CÀNG GAY GẮT",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Ai cũng cố thể hiện mình là người trung thành và nhiệt huyết nhất.",
+    "text": "THI NHAU THỂ HIỆN",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Chỉ cần ai nói lời ôn hòa, lập tức bị xem là kẻ phản bội.",
+    "text": "ÉP PHẢI CÙNG PHE",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Khi bốn bề chỉ toàn tiếng vỗ tay, góc nhìn khác bỗng hóa lố bịch.",
+    "text": "TIẾNG VỌNG MỘT CHIỀU",
+    "actor": "think"
+   },
+   {
+    "vo": "Thử tự đặt mình vào góc nhìn đối lập trước khi vội đồng tình.",
+    "text": "TẬP NHÌN ĐA CHIỀU",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Rời khỏi căn phòng chỉ toàn tiếng vỗ tay, góc nhìn của bạn còn lại những gì?",
+    "text": "CÒN LẠI GÌ?",
+    "color": "gold",
+    "actor": "think",
+    "prop": "brain"
+   }
+  ]
+ },
+ {
+  "id": "s384",
+  "mascot": "buff",
+  "title": "Why One Rude Comment Stings",
+  "mechanism": "The Danger Scanner",
+  "lines": [
+   {
+    "vo": "Dozens of people praise your work, but one rude remark ruins your night.",
+    "text": "ONE BAD COMMENT",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "You lie awake crafting witty comebacks for someone who forgot your name.",
+    "text": "POLISHING COMEBACKS",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "Survival instincts treat a rude remark like an approaching predator in the dark.",
+    "text": "ANCIENT ALARMS",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Check the scoreboard. One stray foul does not erase an entire winning game.",
+    "text": "CHECK SCOREBOARD",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Put the phone to sleep. Save your reps for people who actually show up.",
+    "text": "PHONE TO SLEEP",
+    "color": "gold",
+    "actor": "sleeping",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s384vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Vi sao mot loi che pha hong ca ngay?",
+  "title_vi": "Vì sao một lời chê phá hỏng cả ngày?",
+  "mechanism": "The Danger Scanner",
+  "lines": [
+   {
+    "vo": "Bao nhiêu người thả tim khen ngợi, chỉ một lời chê bai cũng đủ làm bạn nghẹn lại.",
+    "text": "MỘT LỜI CHÊ",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bạn mất ngủ cả đêm để nghĩ câu đối đáp một tài khoản vô danh.",
+    "text": "THỨC NGHĨ ĐỐI ĐÁP",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "Bản năng sinh tồn coi lời phán xét như mối đe dọa đến vị trí xã hội.",
+    "text": "BÁO ĐỘNG GIẢ",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Nhìn lại tỷ số thực tế. Một hạt bụi không thể làm bẩn cả căn phòng.",
+    "text": "NHÌN VÀO THỰC TẾ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Tắt mạng, đi ngủ. Để sức mai nâng tạ, hơi đâu gánh bực của thiên hạ.",
+    "text": "ĐI NGỦ ĐI",
+    "color": "gold",
+    "actor": "sleeping",
+    "prop": "moon_stars"
+   }
+  ]
+ }
+]

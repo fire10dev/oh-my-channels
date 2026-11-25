@@ -99,6 +99,25 @@ final class Store {
     }
   }
 
+  /// Latest event of every video (highest id), keyed by video id.
+  func lastEvents() throws -> [Int64: Event] {
+    var out: [Int64: Event] = [:]
+    for r in try db.rows("""
+      SELECT e.* FROM event e JOIN (SELECT MAX(id) m FROM event WHERE video_id IS NOT NULL GROUP BY video_id) x
+      ON e.id = x.m
+      """) {
+      out[Int64(r["video_id"]!)!] = Event(id: Int64(r["id"]!)!, at: r["at"]!, actor: r["actor"]!, kind: r["kind"]!,
+                                          message: r["message"]!)
+    }
+    return out
+  }
+
+  func events(since: String) throws -> [Event] {
+    try db.rows("SELECT * FROM event WHERE at >= ? ORDER BY at DESC, id DESC", [since]).map {
+      Event(id: Int64($0["id"]!)!, at: $0["at"]!, actor: $0["actor"]!, kind: $0["kind"]!, message: $0["message"]!)
+    }
+  }
+
   @discardableResult
   func addTask(channelId: Int64, videoId: Int64?, owner: String, text: String) throws -> Int64 {
     try db.run("INSERT INTO task(channel_id, video_id, owner, text) VALUES (?,?,?,?)", [channelId, videoId, owner, text])
@@ -116,6 +135,24 @@ final class Store {
                [actor, id])
   }
 
+  func assets(videoId: Int64) throws -> [LinkedAsset] {
+    try db.rows("""
+      SELECT a.id, a.path, a.kind, va.role, a.license, a.notes FROM video_asset va
+      JOIN asset a ON a.id = va.asset_id WHERE va.video_id=? ORDER BY va.role, a.path
+      """, [videoId]).map {
+      LinkedAsset(id: Int64($0["id"]!)!, path: $0["path"]!, kind: $0["kind"]!, role: $0["role"]!,
+                  license: $0["license"]!, attribution: $0["notes"]!)
+    }
+  }
+
+  func setFact(videoId: Int64, key: String, value: String) throws {
+    try db.run("""
+      INSERT INTO fact(video_id, key, value) VALUES (?,?,?)
+      ON CONFLICT(video_id, key) DO UPDATE SET value=excluded.value,
+      updated_at=strftime('%Y-%m-%d %H:%M','now','localtime')
+      """, [videoId, key, value])
+  }
+
   func facts(videoId: Int64) throws -> [Fact] {
     try db.rows("SELECT key, value FROM fact WHERE video_id=? ORDER BY key", [videoId]).map {
       Fact(key: $0["key"]!, value: $0["value"]!)
@@ -127,18 +164,19 @@ final class Store {
   func channels() throws -> [Channel] {
     try db.rows("SELECT * FROM channel ORDER BY sort, name COLLATE NOCASE").map {
       Channel(id: Int64($0["id"]!)!, name: $0["name"]!, handle: $0["handle"]!, url: $0["url"]!,
-              lang: $0["lang"]!, notes: $0["notes"]!)
+              lang: $0["lang"]!, notes: $0["notes"]!, repoPath: $0["repo_path"] ?? "",
+              ytChannelId: $0["yt_channel_id"] ?? "")
     }
   }
 
   func insertChannel(_ c: Channel) throws -> Int64 {
-    try db.run("INSERT INTO channel(name, handle, url, lang, notes) VALUES (?,?,?,?,?)",
-               [c.name, c.handle, c.url, c.lang, c.notes])
+    try db.run("INSERT INTO channel(name, handle, url, lang, notes, repo_path, yt_channel_id) VALUES (?,?,?,?,?,?,?)",
+               [c.name, c.handle, c.url, c.lang, c.notes, c.repoPath, c.ytChannelId])
   }
 
   func updateChannel(_ c: Channel) throws {
-    try db.run("UPDATE channel SET name=?, handle=?, url=?, lang=?, notes=? WHERE id=?",
-               [c.name, c.handle, c.url, c.lang, c.notes, c.id])
+    try db.run("UPDATE channel SET name=?, handle=?, url=?, lang=?, notes=?, repo_path=?, yt_channel_id=? WHERE id=?",
+               [c.name, c.handle, c.url, c.lang, c.notes, c.repoPath, c.ytChannelId, c.id])
   }
 
   func deleteChannel(id: Int64) throws {

@@ -1,0 +1,207 @@
+{
+ "A": {
+  "bg": {
+   "src": "p03/img/X12.png",
+   "crop": [
+    300,
+    220,
+    1500
+   ]
+  },
+  "shade": "linear-gradient(0deg, rgba(10,5,0,.55) 0%, rgba(0,0,0,0) 35%)",
+  "texts": [
+   {
+    "t": "ĐỪNG MỞ!",
+    "x": 1250,
+    "y": 540,
+    "size": 140,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "band": "#b3121b",
+    "rot": 3,
+    "anchor": "r"
+   }
+  ]
+ },
+ "B": {
+  "bg": {
+   "src": "p03/img/X10.png",
+   "crop": [
+    748,
+    0,
+    1300
+   ]
+  },
+  "shade": "linear-gradient(90deg, rgba(0,0,10,.65) 0%, rgba(0,0,10,.15) 45%, rgba(0,0,0,0) 70%)",
+  "texts": [
+   {
+    "t": "ĐANG ĐẾM",
+    "x": 40,
+    "y": 380,
+    "size": 120,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a"
+   },
+   {
+    "t": "CÁI GÌ?",
+    "x": 40,
+    "y": 510,
+    "size": 150,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ff3b2f"
+   }
+  ]
+ },
+ "C": {
+  "bg": {
+   "src": "p03/img/X13.png",
+   "crop": [
+    250,
+    0,
+    1550
+   ]
+  },
+  "shade": "radial-gradient(ellipse at 50% 45%, rgba(0,0,0,0) 35%, rgba(0,0,0,.6) 100%)",
+  "texts": [
+   {
+    "t": "413 TỜ…",
+    "x": 640,
+    "y": 500,
+    "size": 130,
+    "anchor": "c",
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "band": "#b3121b"
+   }
+  ]
+ },
+ "T1": {
+  "bg": {
+   "src": "p03/img/B05.png",
+   "sw": 1344,
+   "crop": [
+    -156,
+    640,
+    1500
+   ],
+   "filter": "brightness(1.12) contrast(1.12) saturate(1.05)"
+  },
+  "shade": "linear-gradient(90deg, rgba(5,7,13,1) 0%, rgba(5,7,13,.6) 9%, rgba(0,0,0,0) 22%), linear-gradient(270deg, rgba(10,0,0,.6) 0%, rgba(0,0,0,0) 40%)",
+  "texts": [
+   {
+    "t": "CẤM",
+    "x": 1250,
+    "y": 140,
+    "size": 200,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "r",
+    "rot": -4
+   },
+   {
+    "t": "MỞ",
+    "x": 1250,
+    "y": 350,
+    "size": 240,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "r",
+    "band": "#b3121b",
+    "rot": 3
+   }
+  ]
+ },
+ "T2": {
+  "bg": {
+   "src": "p03/img/B05.png",
+   "sw": 1344,
+   "crop": [
+    -530,
+    620,
+    1565
+   ],
+   "filter": "brightness(1.15) contrast(1.12)"
+  },
+  "shade": "linear-gradient(90deg, rgba(5,7,13,1) 0%, rgba(5,7,13,1) 33%, rgba(5,7,13,.55) 44%, rgba(0,0,0,0) 58%)",
+  "cuts": [
+   {
+    "src": "p03/img/cut_X11_1.png",
+    "x": 20,
+    "y": 120,
+    "h": 640,
+    "glow": "rgba(140,180,255,.45)"
+   }
+  ],
+  "texts": [
+   {
+    "t": "ĐỪNG MỞ!",
+    "x": 40,
+    "y": 540,
+    "size": 135,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "band": "#b3121b",
+    "rot": -3
+   }
+  ]
+ },
+ "T3": {
+  "bg": {
+   "src": "p03/img/X13.png",
+   "crop": [
+    150,
+    110,
+    1750
+   ],
+   "filter": "brightness(1.08) contrast(1.08)"
+  },
+  "shade": "radial-gradient(ellipse at 40% 55%, rgba(0,0,0,0) 45%, rgba(0,0,0,.55) 100%), linear-gradient(180deg, rgba(0,0,0,.6) 0%, rgba(0,0,0,0) 25%)",
+  "cuts": [
+   {
+    "src": "p03/img/cut_X11_1.png",
+    "x": 905,
+    "y": 250,
+    "h": 520,
+    "glow": "rgba(0,0,0,.9)"
+   }
+  ],
+  "texts": [
+   {
+    "t": "NỢ",
+    "x": 560,
+    "y": 200,
+    "size": 120,
+    "font": "bangers",
+    "stamp": "#c4161c",
+    "rot": -10
+   },
+   {
+    "t": "GIẤY NỢ",
+    "x": 200,
+    "y": 540,
+    "size": 120,
+    "font": "bangers",
+    "stamp": "#c4161c",
+    "rot": -5
+   },
+   {
+    "t": "413 TỜ NỢ?",
+    "x": 30,
+    "y": 25,
+    "size": 140,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "band": "#b3121b",
+    "rot": -2
+   }
+  ]
+ }
+}

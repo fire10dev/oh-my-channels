@@ -1,0 +1,99 @@
+{
+ "title": "Onde a tripulação dos cruzeiros dorme de verdade",
+ "hook": "ABAIXO DA PISCINA",
+ "asof": "Dados de 2026",
+ "world": "cruise",
+ "long": "IX003",
+ "chapters": [
+  {
+   "id": "cabin",
+   "hud": "DIA 1",
+   "chip": "23:00",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "pool",
+     "s": "Bem acima de você, milhares de pessoas estão de férias."
+    },
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "E é aqui que você dorme."
+    },
+    {
+     "v": "stairs",
+     "s": "Abaixo dos passageiros,"
+    },
+    {
+     "v": "i95",
+     "s": "depois das portas com acesso só para a tripulação."
+    },
+    {
+     "v": "cabin",
+     "st": [
+      "SEM JANELA",
+      "maioria das cabines da tripulação"
+     ],
+     "s": "A maioria das cabines da tripulação não tem janela."
+    },
+    {
+     "v": "bunk",
+     "s": "Assim, você não sabe se é dia ou noite."
+    },
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "Você divide o quarto com mais uma, duas ou até três pessoas."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Você tem uma cama de beliche."
+    },
+    {
+     "v": "bunk",
+     "s": "Um colchão estreito."
+    },
+    {
+     "v": "bunk",
+     "s": "Algumas gavetas."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "E uma cortina."
+    },
+    {
+     "v": "cabin",
+     "s": "Essa cortina é quase toda a sua privacidade."
+    },
+    {
+     "v": "cabin2",
+     "s": "Seu colega de quarto pode trabalhar à noite."
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "Você pode trabalhar de dia."
+    },
+    {
+     "v": "engine",
+     "s": "E o navio nunca fica em silêncio."
+    },
+    {
+     "v": "engine",
+     "s": "Os motores roncam. O chão vibra."
+    },
+    {
+     "v": "corridor",
+     "s": "Portas batem. Passos ecoam."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Você conseguiria dormir aqui por seis meses?"
+    }
+   ]
+  }
+ ]
+}

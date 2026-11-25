@@ -1,0 +1,875 @@
+{
+ "id": "L22vi",
+ "lang": "vi",
+ "title": "Vì sao bạn thấy mình lạc lõng trong nhóm bạn?",
+ "description": "Thấy nhóm bỗng dưng im bặt hay phát hiện bạn bè đi chơi mà không rủ mình? Dưới đây là tám lý do tâm lý khiến bạn thấy lạc lõng, cùng các bài tập cụ thể để bạn ngừng tìm kiếm sự công nhận và lấy lại bình yên.",
+ "chapters": [
+  {
+   "title": "Cuộc Hẹn Bị Bỏ Quên",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tối cuối tuần lướt mạng, thấy nhóm bạn thân đi ăn uống vui vẻ mà không hề rủ mình.",
+     "text": "KÈO ĐI CHƠI BỊ QUÊN",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trong nhóm trò chuyện không ai nhắc gì, dù mới chiều qua mọi người còn ngồi cùng nhau.",
+     "text": "KÈO ĐI CHƠI KÍN",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lồng ngực mình nghẹn lại, rồi tự hỏi mình đã lỡ lời hay làm sai điều gì.",
+     "text": "CẢM GIÁC NGHẸN LẠI",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hít sâu vào Pen. Pen không làm gì sai, và giá trị của Pen chẳng sụt đi đâu.",
+     "text": "BỚT HOẢNG LOẠN LẠI",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Loài người vận hành theo cơ chế cổ xưa, âm thầm phân loại khi chẳng ai để ý.",
+     "text": "CƠ CHẾ CỔ XƯA",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay ta mổ xẻ tám lý do tâm lý khiến bạn bị gạt ra, và cách tập luyện vượt qua.",
+     "text": "TÁM LÝ DO BỊ BỎ RƠI",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Nhu Cầu Gắn Kết",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Gửi tấm ảnh hài vào nhóm, nhiều tiếng trôi qua mà không một ai buồn trả lời.",
+     "text": "1. NHU CẦU GẮN KẾT",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lý trí biết chỉ là tin nhắn, nhưng ngực mình bỗng thắt lại đầy bất an.",
+     "text": "SỰ IM LẶNG ĐÁNG SỢ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao sự im lặng trên màn hình lại làm mình thấy như bị nhốt ngoài cửa vậy Buff?",
+     "text": "BỊ KHÓA NGOÀI CỬA?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngực nghẹn là kim xăng báo cạn đấy Pen. Cơn đói kết nối bầy đàn đang réo ầm ĩ.",
+     "text": "BÌNH XĂNG BÁO CẠN",
+     "color": "gold",
+     "actor": "34",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là động lực sinh tồn gốc rễ, mạnh mẽ chẳng kém gì cơn đói hay khát.",
+     "text": "BẢN NĂNG SINH TỒN",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thời xưa, tách khỏi bộ tộc đồng nghĩa với đêm lạnh và thú dữ không ai bảo vệ.",
+     "text": "TÁCH BẦY LÀ NGUY",
+     "color": "red",
+     "actor": "sprint_start",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy cơn hoảng loạn chỉ là phản xạ cổ xưa làm quá trước một tin nhắn chưa ai đọc?",
+     "text": "BÁO ĐỘNG GIẢ?",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Bài khởi động đây: đừng rải ảnh vào cả một sân vận động đang nguội ngắt.",
+     "text": "BÀI KHỞI ĐỘNG",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là thay vì đợi cả nhóm đông, mình chủ động nhắn riêng cho một người?",
+     "text": "NHẮN RIÊNG MỘT NGƯỜI?",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chủ động nhắn riêng rủ một người đi ăn trưa hoặc hỏi việc, đừng chờ nhóm lớn nữa.",
+     "text": "KẾT NỐI MỘT MỘT",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nạp tạm chút calo đã, giờ vào hiệp nặng hơn: khi sự ngó lơ biến thành hành động tẩy chay.",
+     "text": "SỰ TẨY CHAY RÕ RỆT",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "2. Bị Đẩy Ra Rìa",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bước lại bàn ăn trưa thấy đám bạn đang ngồi, tiếng cười đùa bỗng tắt ngúm.",
+     "text": "2. BỊ ĐẨY RA RÌA",
+     "color": "red",
+     "actor": "front",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ai đó khẽ nhích ghế ra xa, và mình thấy lồng ngực nhói đau như thật.",
+     "text": "CHIẾC GHẾ DỊCH RA",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bị hắt hủi mà đau như bị thương ngoài da, hay là do mình đang tự làm quá lên?",
+     "text": "LÀM QUÁ HAY ĐAU THẬT?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không hề làm quá đâu Pen. Cơ thể đang dính một đòn đau loại trừ thật sự đấy.",
+     "text": "NỖI ĐAU CÓ THẬT",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bộ xử lý sự cự tuyệt giống như cơn đau thể xác, nên cảm giác nhói buốt là phản xạ thật.",
+     "text": "CHUNG MẠCH NỖI ĐAU",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hệ thần kinh coi việc bị đẩy ra rìa như vết thương hở, buộc bạn tìm chỗ trú ẩn.",
+     "text": "VẾT THƯƠNG HỞ",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra ngồi ở cái bàn đó nặng nề chẳng khác nào bị tạ rơi trúng bụng.",
+     "text": "NẶNG NHƯ TẠ RƠI",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng đứng chôn chân hay cố gượng cười bắt chuyện khi đang nhói buốt như thế.",
+     "text": "ĐỪNG CỐ GƯỢNG ÉP",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thay vì van nài sự chú ý của họ, mình nên lùi lại một bước?",
+     "text": "RÚT LUI ÊM ĐẸP?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ chào nhẹ một câu, lấy ly nước khác rồi ngồi với người cởi mở hơn.",
+     "text": "TÌM CHIẾC BÀN ẤM",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bị đẩy ra rìa đã đau, nhưng lạnh lẽo nhất là khi người ta coi như bạn vô hình.",
+     "text": "KHI BỊ COI VÔ HÌNH",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "3. Bị Xem Như Vô Hình",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ở quán cơm họ còn nhìn mình, giờ tin nhắn gửi đi thì nhận lại mỗi chữ đã xem rồi im bặt.",
+     "text": "3. BỊ XEM NHƯ VÔ HÌNH",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Gặp ở hành lang họ nói chuyện lướt qua mình, như thể mình làm bằng kính trong suốt.",
+     "text": "NHƯ LÀM BẰNG KÍNH",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao bị làm ngơ lại nặng nề hơn cả khi bị mắng thẳng vào mặt?",
+     "text": "NẶNG HƠN LỜI MẮNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sự im lặng đó là trò cô lập, chẳng khác nào nhốt bạn vào phòng tối cách ly.",
+     "text": "CĂN PHÒNG CÁCH LY",
+     "color": "gold",
+     "actor": "34",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cãi nhau nghĩa là còn tương tác. Im lặng khiến não bạn tự kích hoạt nỗi sợ bị xóa sổ.",
+     "text": "TÍN HIỆU BIẾN MẤT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình thường muốn nhắn dồn dập và gặng hỏi xem mình đã làm sai điều gì.",
+     "text": "MUỐN NHẮN DỒN DẬP",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ điện thoại xuống. Đừng dại dột ném thêm tin nhắn vào khoảng không vô vọng nữa.",
+     "text": "BUÔNG ĐIỆN THOẠI",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rút lui hoàn toàn: dành trọn buổi tối làm việc mình thích để lấy lại thế chủ động.",
+     "text": "LẤY LẠI CHỦ ĐỘNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là tự giành lại ngày nghỉ thay vì dán mắt vào màn hình chờ hồi âm?",
+     "text": "GIÀNH LẠI NGÀY NGHỈ",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cửa khóa thì đừng tông vào, hãy dành sức cho những nơi luôn mở rộng đón bạn.",
+     "text": "TÌM NƠI ĐÓN NHẬN",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sự ghẻ lạnh đó thường bắt đầu khi nhóm cưng chiều một hội kín bên trong.",
+     "text": "HỘI KÍN XUẤT HIỆN",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "4. Thiên Vị Phe Cánh",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bàn kèo đi chơi chung, nhưng ba đứa thân nhất lại lén lập nhóm riêng đặt phòng.",
+     "text": "4. THIÊN VỊ PHE CÁNH",
+     "color": "red",
+     "actor": "front",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ chia nhau đồ ăn và chuyện cười bí mật, còn bọn mình chỉ nhận thông tin thừa thãi.",
+     "text": "THÔNG TIN THỪA THÃI",
+     "color": "ink",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tưởng chơi chung là bình đẳng, sao mấy người đó tự coi mình là tâm điểm vậy?",
+     "text": "BÌNH ĐẲNG HAY KHÔNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chào mừng đến với bẫy thiên vị phe ruột, khi ranh giới nhóm bị vẽ lại.",
+     "text": "THIÊN VỊ PHE RUỘT",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Con người luôn dành nụ cười tươi nhất và đặc quyền cho ai thân cận nhất.",
+     "text": "ƯU ÁI NGƯỜI THÂN CẬN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sức có hạn, nên não bộ tự động gom năng lượng cho vài gương mặt quen thuộc.",
+     "text": "NĂNG LƯỢNG CÓ HẠN",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy đặc quyền đó chỉ là thiên vị tự nhiên, chứ không phải họ công kích cá nhân mình?",
+     "text": "KHÔNG PHẢI GHÉT BỎ?",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Đòn chỉnh đây: bớt trông đợi đặc quyền từ một nhóm xã giao đông đúc.",
+     "text": "HẠ BỚT KỲ VỌNG",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Xem họ là bạn xã giao vui vẻ, thay vì ép họ phải thành tri kỷ của mình?",
+     "text": "BẠN XÃ GIAO THÔI?",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập đúng sức thôi Pen: hạ mức nhiệt tình xuống ngang bằng họ, đầu óc sẽ nhẹ bẫng.",
+     "text": "LẤY LẠI BÌNH YÊN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sự thiên vị này dữ dội hơn khi cả nhóm khoác lên mình bộ đồng phục chung.",
+     "text": "ĐỒNG PHỤC BẦY ĐÀN",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "5. Bản Sắc Nhóm",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cả nhóm bỗng rủ nhau mua cùng kiểu giày, nói cùng câu cửa miệng trên mạng.",
+     "text": "5. BẢN SẮC NHÓM",
+     "color": "red",
+     "actor": "front",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình không mua giày đó, thế là bỗng thấy như người lạ trà trộn giữa bạn cũ.",
+     "text": "NGƯỜI LẠ TRÀ TRỘN",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng lẽ phải bắt chước sở thích của họ chỉ để được ở lại trong nhóm?",
+     "text": "PHẢI GIỐNG MỚI ĐƯỢC?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn đang thấy bản sắc xã hội vận hành hết công suất ngay trong nhóm đấy.",
+     "text": "BẢN SẮC VẬN HÀNH",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người ta tự định nghĩa bằng huy hiệu nhóm, coi ai khác biệt là mối đe dọa.",
+     "text": "KHÁC BIỆT LÀ ĐE DỌA",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn thấy mình nổi bật, cả hội cần dấu hiệu chung để tách biệt xung quanh.",
+     "text": "DẤU HIỆU TÁCH BIỆT",
+     "color": "ink",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên khi giữ nét riêng, họ ngầm xem mình như kẻ làm mất chất của hội?",
+     "text": "LÀM MẤT CHẤT HỘI?",
+     "color": "gold",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Giáo án hiệp này rất rõ: giữ nét riêng, đừng để biểu tượng nhóm nuốt chửng.",
+     "text": "GIỮ NÉT RIÊNG MÌNH",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là tôn trọng phong cách của họ mà không cần vứt bỏ sở thích bản thân?",
+     "text": "TÔN TRỌNG NÉT RIÊNG?",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ra sân khoác chung màu áo cho vui, nhưng đừng đánh mất con người thật của mình.",
+     "text": "ÁO ĐẤU KHÔNG LÀ MÌNH",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi nhóm đã chốt xong bản sắc, những quy tắc ngầm sẽ bắt đầu ép vào khuôn khổ.",
+     "text": "QUY TẮC BẮT ĐẦU ÉP",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "6. Quy Tắc Ngầm",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Rủ đi ăn bún vỉa hè thay vì vào quán quen sang chảnh, cả đám bỗng im bặt.",
+     "text": "6. QUY TẮC NGẦM",
+     "color": "red",
+     "actor": "front",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không ai mắng, nhưng cái liếc mắt và tiếng hắng giọng làm mình như vừa phạm tội.",
+     "text": "ÁNH MẮT KHÓ CHỊU",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao lời rủ ăn uống vô tư lại thành lỗi lầm xã giao nghiêm trọng thế Buff?",
+     "text": "LỜI RỦ HÓA LỖI LẦM?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen vừa tông trúng luật ngầm rồi đấy, cuốn quy ước mà hội nào cũng thủ sẵn.",
+     "text": "CUỐN LUẬT NGẦM",
+     "color": "gold",
+     "actor": "34",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhóm nào cũng tạo ra thói quen ngầm để giữ sinh hoạt êm thấm, ít va chạm.",
+     "text": "GIỮ NHỊP SINH HOẠT",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rủ ăn quán cóc làm lệch nhịp sinh hoạt quen, nên cả nhóm khựng lại phản đối thôi.",
+     "text": "PHÁ VỠ THÓI QUEN",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ không ghét bỏ mình, mà chỉ đang bảo vệ nếp sinh hoạt thoải mái của họ?",
+     "text": "BẢO VỆ NẾP QUEN?",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Đổi chiến thuật ngay: đừng dùng một tay mà đòi nắn lại cả dòng nước.",
+     "text": "ĐỪNG NẮN DÒNG NƯỚC",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thay vì tranh cãi về địa điểm, mình cứ tự đi ăn món mình thích?",
+     "text": "TỰ ĐI ĂN MÓN THÍCH?",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khỏi đôi co làm gì. Cứ đi ăn món mình thích, rồi rủ riêng một đứa cởi mở đi cùng.",
+     "text": "RỦ RIÊNG MỘT NGƯỜI",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bên trong nếp sống đó, các liên minh bí mật sẽ bắt đầu hình thành sau lưng bạn.",
+     "text": "LIÊN MINH HÌNH THÀNH",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "7. Kết Phe Lập Hội",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hai đứa trong nhóm vừa đi vừa thì thầm, thấy mình bước tới chào là tắt ngúm nụ cười.",
+     "text": "7. KẾT PHE LẬP HỘI",
+     "color": "red",
+     "actor": "front",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sau mới biết hai người lén mua vé đi xem ca nhạc riêng với nhau.",
+     "text": "ĐI XEM NHẠC MẢNH",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao cảm giác như có hội kín vừa mọc lên ngay dưới mũi mình vậy?",
+     "text": "HỘI KÍN DƯỚI MŨI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nó có thật đấy. Khoa học gọi đó là sự kết phe ở các loài sống bầy đàn.",
+     "text": "SỰ KẾT PHE TỰ NHIÊN",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhóm lớn hay bấp bênh, nên người ta ghép cặp để có người đỡ lưng khi ra quyết định.",
+     "text": "TÌM NGƯỜI ĐỠ LƯNG",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đi đôi giúp bảo vệ nhau, giữ bí mật và bớt mệt mỏi vì mâu thuẫn cả nhóm.",
+     "text": "BẢO VỆ LẪN NHAU",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy họ không cố tình hại mình, mà chỉ đang tìm đồng minh an toàn cho bản thân?",
+     "text": "ĐỒNG MINH AN TOÀN?",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Bài tập đây: đừng bao giờ cố chen ngang vào một cặp đang khóa chặt.",
+     "text": "ĐỪNG CỐ CHEN NGANG",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thay vì tranh giành, mình quay sang trò chuyện với những ai cũng đang lẻ loi?",
+     "text": "TÌM NGƯỜI LẺ LOI?",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng tốn sức tranh đua. Dồn sức vào những thành viên cũng đang đứng ngoài rìa.",
+     "text": "KẾT NỐI BÊN NGOÀI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi các phe kết lại vững chắc, chúng sẽ tạo nên bậc thang vô hình xếp hạng mọi người.",
+     "text": "BẬC THANG VÔ HÌNH",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "8. Bảng Xếp Hạng Ngầm",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đứa cầm trịch lên tiếng thì ai cũng hùa theo, mình vừa mở miệng thì trôi tuột mất.",
+     "text": "8. BẢNG XẾP HẠNG NGẦM",
+     "color": "red",
+     "actor": "front",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình thấy mình như cầu thủ dự bị, chỉ được gọi tên khi có người khác hủy kèo.",
+     "text": "DỰ BỊ TRÊN GHẾ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhóm bạn đã âm thầm xếp hạng nhau mà chẳng cần bỏ phiếu bao giờ sao Buff?",
+     "text": "TỰ XẾP HẠNG NHAU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhóm nào cũng thế thôi. Tâm lý học gọi bảng xếp hạng ngầm này là vị thế xã hội.",
+     "text": "VỊ THẾ XÃ HỘI",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một nhóm tự chia thành trụ cột trung tâm, thành viên năng nổ và người đứng ngoài rìa.",
+     "text": "NGƯỜI Ở NGOÀI RÌA",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thứ bậc đó trồi sụt theo cảm tính đám đông, chẳng dính dáng gì đến giá trị bạn.",
+     "text": "VỊ TRÍ LUÔN ĐỔI",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biết thứ hạng chỉ là cảm nhận tạm thời làm việc ngồi ghế dự bị bớt cay đắng.",
+     "text": "BỚT CAY ĐẮNG HẲN",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi thế thủ ngay: coi nhóm này là một góc sàn tập, không phải cả giải đấu.",
+     "text": "ĐỔI LẠI THẾ ĐỨNG",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đứng ở vòng ngoài hóa ra lại cho mình tự do dạo chơi ở những khoảng trời mới?",
+     "text": "TỰ DO NGOÀI RÌA?",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi thôi van nài vị thế, sự hiện diện của bạn sẽ thoải mái và cuốn hút hơn nhiều.",
+     "text": "TỰ NHIÊN CUỐN HÚT",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ gom cả tám bài tập lại thành kế hoạch vững chắc cho tuần tới nào.",
+     "text": "KẾ HOẠCH TOÀN DIỆN",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Kế Hoạch Bảy Ngày",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn vào tám cơ chế này, nhóm bạn giống bài tập tạ hơn là thất bại của mình.",
+     "text": "KẾ HOẠCH BẢY NGÀY",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba đòn chốt hạ: một là, thấy bị bỏ rơi là báo động sinh tồn, không phải bạn sai.",
+     "text": "ĐIỀU MỘT: BÁO ĐỘNG",
+     "color": "ink",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai là, chia phe, lập hội và luật ngầm luôn tự động xảy ra ở mọi nhóm người trên đời.",
+     "text": "ĐIỀU HAI: QUY LUẬT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba là, bạn làm chủ hiệp tập: đừng van nài ai khi có thể mở rộng mối quan hệ.",
+     "text": "ĐIỀU BA: LÀM CHỦ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy bài tập cụ thể mình có thể bắt đầu rèn luyện ngay từ sáng mai là gì?",
+     "text": "BẮT ĐẦU TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày đây: mỗi ngày gửi tin nhắn hỏi thăm ấm áp cho một người ngoài nhóm.",
+     "text": "TIN NHẮN MỖI NGÀY",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cuối tuần hẹn cà phê riêng một người ngoài nhóm để mở rộng vòng giao lưu.",
+     "text": "MỞ RỘNG VÒNG TRÒN",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một bài tập vừa sức mà mình hoàn toàn có thể duy trì mà không bị áp lực.",
+     "text": "BÀI TẬP VỪA SỨC",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký Lý Thuyết Chân Que để tụi mình đỡ tạ cho bạn trong mọi pha khó xử nhé.",
+     "text": "ĐĂNG KÝ ĐỂ ĐỠ TẠ",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

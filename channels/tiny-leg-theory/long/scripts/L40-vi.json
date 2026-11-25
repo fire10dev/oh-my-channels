@@ -1,0 +1,849 @@
+{
+ "id": "L40vi",
+ "lang": "vi",
+ "title": "Vì sao bạn cứ sửa mãi mà không dám đăng tác phẩm?",
+ "description": "Nếu bạn mất nhiều tuần tỉa tót từng bức vẽ, bài viết hay thước phim mà chưa dám bấm đăng, bạn không hề cô đơn. Cùng tìm hiểu tám cơ chế tâm lý khiến bạn mắc kẹt trong bản nháp và cách dứt điểm để tự tin chia sẻ tác phẩm của mình.",
+ "chapters": [
+  {
+   "title": "Bản nháp vô tận",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn lưu cả đống tệp bản cuối, mà tay vẫn ngồi tỉ mẩn sửa từng đoạn chuyển cảnh.",
+     "text": "BẢN NHÁP VÔ TẬN",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ tự lừa mình đi, rằng ngồi chỉnh lại màu thêm lần nữa sẽ giúp bài đăng của bạn lên xu hướng.",
+     "text": "SỬA NỐT LẦN NÀY THÔI",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ ngỡ là mình đang chăm chút, nhưng sâu thẳm, tại sao tôi lại sợ bấm đăng đến thế?",
+     "text": "SỬA HAY ĐANG TRỐN?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đấy không phải chăm chút, đấy là trốn dưới ghế đẩy tạ vì thấy mức tạ quá nặng.",
+     "text": "TRỐN DƯỚI GHẾ TẠ",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để thoát khỏi vòng lặp sửa mãi không thôi và can đảm đưa tác phẩm ra ngoài?",
+     "text": "PHÁ VỠ VÒNG LẶP",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cùng bẻ gãy tám cái bẫy giữ chân bạn trong bản nháp, bắt đầu từ tiêu chuẩn trên trời.",
+     "text": "TÁM CÁI BẪY TÂM LÝ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Chủ nghĩa hoàn hảo",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi thức trắng ba đêm viết lại đoạn mở đầu, vì thấy câu chữ vẫn còn gượng gạo.",
+     "text": "1. CHỦ NGHĨA HOÀN HẢO",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mất ba ngày chuốt một câu mà người ta lướt bảng tin chỉ mất hai giây bỏ qua.",
+     "text": "CHẲNG AI ĐỂ Ý ĐÂU",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng lẽ chỉ vì một câu chưa hay mà cả bài viết tâm huyết coi như vứt đi?",
+     "text": "TẤT CẢ HOẶC VỨT BỎ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kiểu nghĩ được ăn cả ngã về không chỉ là cái cớ để trốn bị soi xét.",
+     "text": "CÁI CỚ ĐỂ TRỐN TRÁNH",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao đầu óc tôi cứ bắt mọi thứ phải hoàn hảo mới dám đưa ra mắt?",
+     "text": "ÁP LỰC PHẢI HOÀN HẢO",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cầu toàn không phải tiêu chuẩn cao, mà là cái khiên giấu đi nỗi sợ bị chê.",
+     "text": "KHIÊN CHE CÁI TÔI",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chừng nào bài vẫn nằm trong máy, chẳng ai có thể chê là tôi làm dở.",
+     "text": "AN TOÀN TRONG MÁY",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hẹn giờ đúng sáu mươi phút để sửa. Chuông reo là xuất bài ngay, không chần chừ.",
+     "text": "HẾT GIỜ LÀ XUẤT BÀI",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bấm đăng đúng giờ hẹn run bần bật, hệt như nâng tạ nặng mà không ai đỡ.",
+     "text": "SỢ CHƯA HOÀN THIỆN",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cơ bắp lớn khi nâng đủ số lần, chứ không phải ngồi lau cục tạ cho bóng.",
+     "text": "NÂNG TẠ HƠN LAU TẠ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng buông bỏ sự hoàn hảo thật khó, khi tôi ngỡ cả thiên hạ đang nhìn mình.",
+     "text": "AI CŨNG ĐANG NHÌN?",
+     "color": "ink",
+     "actor": "worried_heart"
+    }
+   ]
+  },
+  {
+   "title": "2. Hiệu ứng tâm điểm",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trước khi đăng tranh, tôi thót tim nghĩ ai cũng sẽ săm soi bàn tay mình vẽ lệch.",
+     "text": "2. HIỆU ỨNG TÂM ĐIỂM",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người ta vừa đi xe buýt vừa lướt vội, chẳng ai rảnh phóng to từng nét vẽ đâu.",
+     "text": "CHẲNG AI PHÓNG TO",
+     "color": "red",
+     "actor": "snack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như có chiếc đèn khổng lồ chiếu thẳng vào hạt sạn nhỏ nhất của tôi.",
+     "text": "ÁNH ĐÈN CHIẾU THẲNG",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng tâm điểm, thói quen thổi phồng sự chú ý vào lỗi sai của mình.",
+     "text": "HIỆU ỨNG TÂM ĐIỂM",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì sao tâm trí cứ tự cho rằng người ngoài luôn để ý đến mình từng li từng tí?",
+     "text": "TRUNG TÂM VŨ TRỤ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bởi vì bạn nhốt mình trong đầu, nên ngỡ ai cũng chăm chú vào điều bạn lo.",
+     "text": "TỰ QUAN TRỌNG HÓA",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy vết lỗi tôi ngồi sửa suốt bốn tiếng thực ra chẳng ai buồn nhận ra sao?",
+     "text": "VÔ HÌNH VỚI MỌI NGƯỜI",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy thử mẹo một sải tay. Cầm điện thoại nhìn năm giây rồi quay đi.",
+     "text": "MẸO MỘT SẢI TAY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu lỗi không đập ngay vào mắt lúc đó, người xem sẽ chẳng bao giờ thấy.",
+     "text": "NHẸ CẢ NGƯỜI",
+     "color": "ink",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi mỗi lần đăng bài như hiệp khởi động. Bạn đang rèn thể lực chứ không phải thi đấu.",
+     "text": "CHỈ LÀ KHỞI ĐỘNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù biết chẳng ai săm soi, sao việc đưa tác phẩm ra ngoài vẫn giống một canh bạc?",
+     "text": "MỘT CANH BẠC LỚN?",
+     "color": "ink",
+     "actor": "worried_heart"
+    }
+   ]
+  },
+  {
+   "title": "3. Tâm lý sợ mất mát",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Khi bức tranh vẫn nằm trong thư mục riêng, nó vẫn mang tiềm năng của một kiệt tác.",
+     "text": "3. TÂM LÝ SỢ MẤT MÁT",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phải rồi, cất kỹ trong kho để ảo tưởng của bạn khỏi phải đối diện đời thực.",
+     "text": "ẢO TƯỞNG VÀ ĐỜI THỰC",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lỡ đăng lên mà bị chê hay ngó lơ, tôi sẽ mất sạch tự tin, nên giấu cho lành.",
+     "text": "GIẤU CHO AN TOÀN",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là tâm lý sợ mất mát. Nỗi đau khi bị chê luôn nhức nhối hơn niềm vui được khen.",
+     "text": "TÂM LÝ SỢ MẤT MÁT",
+     "color": "gold",
+     "actor": "front",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì sao não bộ lại sợ va vấp hơn là khao khát có được kinh nghiệm thực tế?",
+     "text": "VÌ SAO SỢ BỊ CHÊ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giam bản nháp là để giữ thể diện. Chưa ra mắt thì nó vẫn là siêu phẩm trong mơ.",
+     "text": "SIÊU PHẨM TRONG MƠ",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra việc giấu nhẹm tác phẩm chỉ là mánh khóe để bảo vệ cái tôi của mình?",
+     "text": "BẢO VỆ CÁI TÔI",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chốt đúng ba lần sửa. Lần nào không trị lỗi nặng thì coi như mất lượt.",
+     "text": "CHỈ SỬA ĐÚNG BA LẦN",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giới hạn số lần sửa ép tôi đối diện thực tế thay vì trốn sau những chỉnh sửa vụn vặt.",
+     "text": "ĐỐI DIỆN THỰC TẾ",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xem lời chê như cơn mỏi cơ sau buổi tập nặng. Nó chứng minh bạn đã dám nâng tạ.",
+     "text": "MỎI CƠ ĐỂ LỚN LÊN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù dám đối mặt nỗi sợ, nhìn mãi một bản thảo suốt mấy ngày vẫn khiến tôi cạn sạch hứng.",
+     "text": "CẠN SẠCH CẢM HỨNG",
+     "color": "ink",
+     "actor": "bored_yawn"
+    }
+   ]
+  },
+  {
+   "title": "4. Hiệu ứng quen mòn",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Lúc mới dựng xong thì mê mẩn, xem lại mấy chục lần bỗng thấy nhạt nhẽo vô cùng.",
+     "text": "4. HIỆU ỨNG QUEN MÒN",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn không dở đi đâu, chỉ là đang nhai mãi một bã kẹo cao su hết ngọt thôi.",
+     "text": "BÃ KẸO HẾT NGỌT",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao cái gì cứ sắp xong là tôi lại thấy chán ngấy và nhạt nhẽo thế nhỉ?",
+     "text": "SAO BỖNG THẤY CHÁN?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng quen mòn. Não bạn sẽ tự thấy ngấy những thứ lặp đi lặp lại.",
+     "text": "NÃO BỘ ĐÃ QUEN MÒN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy việc xem đi xem lại nhiều lần đã rút cạn sự tươi mới của ý tưởng ban đầu sao?",
+     "text": "MẤT ĐI SỰ TƯƠI MỚI",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bạn thèm cái mới. Đọc đi đọc lại làm cùn cảm xúc chứ chất lượng bài không giảm.",
+     "text": "CẢM XÚC BỊ BÃO HÒA",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và vì bản thân thấy ngán, tôi ngỡ người xem cũng chán nên đập đi làm lại từ đầu.",
+     "text": "ẢO TƯỞNG VỀ NGƯỜI XEM",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gập máy đi ngủ một giấc, hoặc tua nhanh tốc độ để đánh lừa giác quan.",
+     "text": "LÀM MỚI GIÁC QUAN",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tạm rời mắt sẽ giúp não nhìn lại tác phẩm bằng con mắt hoàn toàn mới.",
+     "text": "NHÌN BẰNG MẮT MỚI",
+     "color": "ink",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cơ bắp lớn lên lúc nghỉ ngơi, không phải lúc gánh tạ. Hãy cho bài làm khoảng nghỉ.",
+     "text": "CHO BÀI LÀM NGHỈ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghỉ ngơi thì hay, nhưng thiếu cột mốc rõ ràng tôi khó biết mình đang tiến tới đâu.",
+     "text": "TIẾN BỘ Ở ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    }
+   ]
+  },
+  {
+   "title": "5. Nguyên lý tiến bộ",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngồi suốt năm tiếng chỉnh khoảng cách chữ, mà bài vẫn chẳng nhích thêm được tí nào.",
+     "text": "5. NGUYÊN LÝ TIẾN BỘ",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì bạn mải soi chi tiết nhỏ thay vì bám vào các cột mốc tạo kết quả.",
+     "text": "THIẾU CỘT MỐC RÕ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ thấy dậm chân tại chỗ là năng lượng tụt dốc, tôi chỉ muốn bỏ dở cả bài.",
+     "text": "DẬM CHÂN TẠI CHỖ",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là nguyên lý tiến bộ. Nhìn thấy mình nhích từng bước mỗi ngày là động lực lớn nhất.",
+     "text": "NGUYÊN LÝ TIẾN BỘ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao não mình cứ phải nhìn thấy kết quả cụ thể thì mới chịu giữ lửa kiên trì?",
+     "text": "CẦN THẤY KẾT QUẢ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không thấy cột mốc, não tưởng công sức đổ sông đổ biển rồi tự tắt nguồn động lực.",
+     "text": "TỰ ĐỘNG TẮT NGUỒN",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thiếu đích ngắm, ngồi sửa mãi giống hệt như lún sâu vào một vũng bùn lầy.",
+     "text": "VŨNG LẦY CHỈNH SỬA",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lấy mẩu giấy ra. Xong phần nào gạch toẹt phần đó để mắt thấy mình đang tiến.",
+     "text": "GẠCH TỪNG ĐẦU VIỆC",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự tay gạch việc giúp tôi thấy rõ vạch đích đang thực sự tới gần.",
+     "text": "VẠCH ĐÍCH GẦN HƠN",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi nhật ký từng hiệp tập. Mỗi dấu tích là một đòn bẩy đưa bài ra lò.",
+     "text": "GHI LẠI TỪNG HIỆP",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Gạch việc rất nhẹ đầu, nhưng càng sát giờ đăng thì nỗi sợ càng trào lên.",
+     "text": "CÀNG GẦN CÀNG HOẢNG",
+     "color": "ink",
+     "actor": "shocked"
+    }
+   ]
+  },
+  {
+   "title": "6. Hiệu ứng đích đến",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hôm qua bài gần xong xuôi, đùng một cái tôi lại muốn viết lại cả phần kết.",
+     "text": "6. HIỆU ỨNG ĐÍCH ĐẾN",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sắp chạm đích lại giật mình sợ hãi, thế là quay đầu chạy thêm một vòng.",
+     "text": "HOẢNG LOẠN TRƯỚC ĐÍCH",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao cứ đến lúc sắp xong việc là tôi lại tự vẽ thêm đống vấn đề mới?",
+     "text": "TỰ VẼ THÊM VIỆC",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng đích đến làm bạn cuống lên, rồi nỗi sợ biến nó thành hoảng loạn.",
+     "text": "ÁP LỰC CHẶNG CUỐI",
+     "color": "gold",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Càng về cuối thì lỗi nhỏ li ti lại càng bị thổi phồng quá mức sao?",
+     "text": "THỔI PHỒNG LỖI NHỎ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Càng gần lúc ra mắt, não bạn càng phóng đại hạt cát thành thảm họa to đùng.",
+     "text": "BIẾN LỖI THÀNH HỌA",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Viết lại kết bài thực ra chỉ là cách phản ứng khi thấy áp lực quá lớn.",
+     "text": "ÁP LỰC QUÁ LỚN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng luật đóng băng. Trước giờ đăng một ngày, chỉ sửa lỗi nặng và cấm thêm ý.",
+     "text": "LUẬT ĐÓNG BĂNG",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đóng băng nội dung giúp tôi không phá hỏng bài làm lúc hoảng sợ nhất thời.",
+     "text": "TRÁNH TỰ PHÁ HỎNG",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hết hiệp là hạ tạ xuống sàn. Lùi lại một bước và rời tay khỏi bàn phím.",
+     "text": "THẢ TẠ XUỐNG SÀN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chốt bài nghe hay, nhưng ngồi làm một mình thì tự giữ kỷ luật rất khó.",
+     "text": "KHÓ GIỮ KỶ LUẬT",
+     "color": "ink",
+     "actor": "nervous_wave"
+    }
+   ]
+  },
+  {
+   "title": "7. Cam kết công khai",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi toàn giấu dự án của mình, để khỏi ai hỏi bao giờ mới xong.",
+     "text": "7. CAM KẾT CÔNG KHAI",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chiêu cũ. Giấu để lúc âm thầm bỏ cuộc chẳng ai nhận ra.",
+     "text": "ÂM THẦM BỎ CUỘC",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghe an toàn, nhưng giấu kín khiến tôi quá dễ trì hoãn mãi.",
+     "text": "DỄ DÀNG TRÌ HOÃN",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn cần cam kết công khai. Bản năng luôn muốn hành động khớp lời hứa.",
+     "text": "CAM KẾT CÔNG KHAI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Báo hạn chót cho người khác lại đổi động lực mạnh đến thế sao?",
+     "text": "SỨC ÉP HẠN CHÓT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chúng ta rất sợ nuốt lời. Thất hứa trước đám đông sẽ đập nát lòng tự trọng.",
+     "text": "GIỮ TRỌN LỜI HỨA",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không ai giục, đầu óc tôi sẽ chọn ngồi sửa mãi trong góc tối?",
+     "text": "TRỐN TRONG VÙNG ÊM",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tìm một bạn đỡ tạ. Báo trước với bạn bè ngày tác phẩm lên sóng.",
+     "text": "TÌM NGƯỜI ĐỠ TẠ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biết có người chờ bài vào thứ sáu biến mong muốn thành hạn chót thật.",
+     "text": "HẠN CHÓT RÕ RÀNG",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn tập kéo bạn tới phòng tập. Người đỡ tạ ép bạn phải xuất bản.",
+     "text": "BUỘC PHẢI RA MẮT",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có hạn chót thì xong bài, nhưng tôi vẫn đau đầu đắn đo trước từng chi tiết nhỏ.",
+     "text": "BỚT ĐẮN ĐO TỪNG CHÚT",
+     "color": "ink",
+     "actor": "worried_heart"
+    }
+   ]
+  },
+  {
+   "title": "8. Biết thế nào là đủ",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bài xong từ nửa đêm, vậy mà thức thêm hai tiếng chỉ để đổi phông ảnh bìa.",
+     "text": "8. BIẾT THẾ NÀO LÀ ĐỦ",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì bạn cố tối ưu vụn vặt, thay vì hỏi liệu nó đã dùng tốt chưa.",
+     "text": "CỐ TỐI ƯU VỤN VẶT",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người sáng tạo không nên theo đuổi phương án hoàn hảo nhất sao?",
+     "text": "TỐI ƯU HAY ĐỦ TỐT?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cố tối ưu chỉ tổ kiệt sức. Cứ thấy vừa vặn đúng chuẩn là chốt ngay.",
+     "text": "BIẾT THẾ NÀO LÀ ĐỦ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao chọn mức đủ tốt lại hơn việc tìm giải pháp tối ưu?",
+     "text": "ĐỦ TỐT THẮNG TỐI ƯU?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kẻ cầu toàn vắt kiệt sức cho tinh chỉnh nhỏ mà chẳng ai buồn để ý.",
+     "text": "VẮT KIỆT NĂNG LƯỢNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn người biết đủ đặt ra tiêu chuẩn, đạt chuẩn là làm việc tiếp theo.",
+     "text": "ĐẠT CHUẨN LÀ ĐI TIẾP",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Viết đúng ba tiêu chuẩn cốt lõi. Đạt đủ là dừng tay và xuất bài.",
+     "text": "BA TIÊU CHUẨN CỐT LÕI",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Âm thanh rõ, nội dung mạch lạc dễ hiểu, thế là xong nhiệm vụ.",
+     "text": "HOÀN THÀNH NHIỆM VỤ",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đẩy xong hiệp thì khóa tạ lại. Giờ cùng biến tám bài học thành hành động thực tế.",
+     "text": "ĐẶT THANH TẠ LÊN GIÁ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Vạch đích thật sự",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại cả tám cơ chế, việc ngồi sửa mãi chẳng phải để bài tốt hơn.",
+     "text": "VẠCH ĐÍCH THẬT SỰ",
+     "color": "ink",
+     "actor": "think",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Toàn do sợ hãi. Một: hạ bớt tiêu chuẩn trên trời và nhớ rằng chẳng ai rảnh soi bạn đâu.",
+     "text": "1. VƯỢT QUA NỖI SỢ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bài học hai, nghỉ ngơi làm mới giác quan, ghi tiến độ bằng danh sách việc.",
+     "text": "2. LÀM MỚI ĐẦU ÓC",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chiêu thứ ba là chốt ngày đăng, tìm bạn đỡ tạ và biết dừng lại khi vừa đủ.",
+     "text": "3. CHỐT NGÀY RA MẮT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biến việc sáng tạo thành thói quen rèn luyện thay vì cơn khủng hoảng tinh thần.",
+     "text": "RÈN LUYỆN BỀN BỈ",
+     "color": "ink",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày, hãy chọn một bản nháp dang dở đang nằm trong máy.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hẹn ngày đăng công khai trong tuần, sửa một lượt rồi bấm đăng bài.",
+     "text": "ĐĂNG BÀI TRONG TUẦN",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn rèn tinh thần để sáng tạo mỗi ngày, hãy đăng ký để vào hiệp tiếp theo.",
+     "text": "ĐĂNG KÝ VÀO HIỆP MỚI",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

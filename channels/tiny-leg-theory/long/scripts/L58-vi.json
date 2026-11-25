@@ -1,0 +1,926 @@
+{
+ "id": "L58vi",
+ "lang": "vi",
+ "title": "Vì sao đi nghỉ rồi mà vẫn không thư giãn được?",
+ "description": "Bạn đi nghỉ lễ hay du lịch mà đầu óc vẫn căng như dây đàn? Dưới đây là tám lý do tâm lý (như hiệu ứng Zeigarnik, attention residue, detachment, effort-recovery, hedonic adaptation, focusing illusion, planning fallacy, savoring) khiến bạn khó thả lỏng và bài tập thực tế để sạc lại năng lượng.",
+ "chapters": [
+  {
+   "title": "Vì sao khó nghỉ ngơi",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bật chế độ nghỉ phép, dỡ xong hành lý, mà tay vẫn quen thói mở Zalo công việc.",
+     "text": "VÌ SAO KHÓ NGHỈ NGƠI",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lỗi tân binh rồi Pen. Người nằm trên bãi biển mà não vẫn điểm danh chấm công.",
+     "text": "VẪN ĐANG LÀM VIỆC",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình cứ ngỡ xin nghỉ phép là đầu óc sẽ tự tắt hết những dòng suy nghĩ lo toan.",
+     "text": "KHÔNG CÓ CÔNG TẮC",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghỉ ngơi không tự đến đâu. Thói quen đi làm đang huấn luyện não Pen luôn trong thế thủ.",
+     "text": "LUÔN TRONG THẾ THỦ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngay cả nằm đọc sách bên hồ bơi, mình cũng thấy bồn chồn như đang trốn việc.",
+     "text": "CẢM GIÁC TRỐN VIỆC",
+     "color": "red",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não không hỏng đâu Pen. Tám thói quen đang ghì mức tạ trong đầu, bài nào cũng có cách hạ.",
+     "text": "TÁM MỨC TẠ TRONG ĐẦU",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Việc dở dang",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nằm nghỉ bên bể bơi mà đầu mình cứ loay hoay nghĩ về bản báo cáo chưa nộp.",
+     "text": "1. VIỆC DỞ DANG",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng việc dở dang. Não Pen hay bám chặt lấy những việc còn dang dở.",
+     "text": "VIỆC DỞ DANG",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là việc chưa xong sẽ bị ghim thẳng lên đầu bảng chú ý của mình sao?",
+     "text": "GHIM TRÊN ĐẦU BẢNG",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Bộ nhớ đang giữ thanh tạ nặng trên đỉnh đầu mà không chịu hạ xuống.",
+     "text": "KHÔNG CHỊU HẠ TẠ",
+     "color": "ink",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù mình biết sớm nhất cũng phải sáng thứ ba tuần sau mới giải quyết được?",
+     "text": "CHƯA THỂ LÀM NGAY",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não đâu quan tâm lịch trình. Nó chỉ bám chặt những vòng lặp chưa được đóng.",
+     "text": "VÒNG LẶP CHƯA ĐÓNG",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao trí nhớ lại biến việc hoãn lại thành mối nguy cấp bách lúc này?",
+     "text": "NGUY CƠ BÁO ĐỘNG",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mọi việc chưa xử lý đều là việc tồn, trừ khi cất gọn vào kho.",
+     "text": "VIỆC TỒN ĐỌNG",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao thuyết phục đầu óc rằng mình có thể yên tâm đặt thanh tạ xuống?",
+     "text": "CÁCH HẠ THANH TẠ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xả hết ra giấy trước khi đi. Ghi việc còn dở và một bước xử lý tiếp theo.",
+     "text": "XẢ HẾT RA GIẤY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Viết ra giấy giúp đánh lừa bộ não là việc đã được khóa lại an toàn sao?",
+     "text": "KHÓA LẠI AN TOÀN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi bài tập dở ra giấy để não nhả cơ ra, trước khi dính bẫy ngó trộm tin nhắn.",
+     "text": "GỬI LẠI BÀI TẬP",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "coffee_mug"
+    }
+   ]
+  },
+  {
+   "title": "2. Tâm trí vương vấn",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhiều khi mình chỉ cầm máy lên năm giây để ngó qua tin nhắn công việc.",
+     "text": "2. TÂM TRÍ VƯƠNG VẤN",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Năm giây ngó trộm đó đủ để việc cơ quan dính chặt vào đầu suốt cả buổi sau.",
+     "text": "ĐẦU ÓC DÍNH VIỆC",
+     "color": "gold",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kể cả khi mình chỉ đọc một tin và không hề bấm trả lời câu nào sao?",
+     "text": "DÙ KHÔNG TRẢ LỜI",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đang nghỉ mà ngó việc thì khác gì cứ nửa phút lại nâng rồi gác thanh tạ.",
+     "text": "GÁC TẠ LIÊN TỤC",
+     "color": "red",
+     "actor": "34",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy là thân ngồi dưới rặng dừa, mà đầu óc bận phân xử chuyện ở công ty.",
+     "text": "THÂN NGHỈ NÃO LO",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để ứng dụng chạy ngầm lúc pin yếu sẽ âm thầm rút cạn sức phục hồi.",
+     "text": "HAO PIN CHẠY NGẦM",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình cứ tưởng ngó qua một chút sẽ thấy yên tâm hơn về tiến độ của nhóm.",
+     "text": "TƯỞNG ĐƯỢC AN TÂM",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phản tác dụng ngay. Mỗi chấm đỏ thông báo là cái móc câu giật ngược chú ý.",
+     "text": "MÓC CÂU CHÚ Ý",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao đầu óc chật vật đến thế khi muốn quay về tận hưởng kỳ nghỉ?",
+     "text": "KHÓ QUAY LẠI",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não cần khoảng lặng để quét sạch tàn dư công việc còn vướng trong đầu.",
+     "text": "QUÉT SẠCH TÀN DƯ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có bài tập cụ thể nào bảo vệ khoảng trống tâm trí trong những ngày nghỉ không?",
+     "text": "BÀI TẬP BẢO VỆ",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tạo thói quen đóng ca năm phút. Ghi giờ mở máy ngày mai, tắt màn hình, rồi đi dạo.",
+     "text": "ĐÓNG CA NĂM PHÚT",
+     "color": "green",
+     "actor": "meditating",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "3. Ngắt kết nối",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình đã bay xa ngàn cây số khỏi chỗ làm, mà các thớ cơ vẫn căng cứng.",
+     "text": "3. NGẮT KẾT NỐI",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mới tách được cái thân thôi Pen, đầu óc đã chịu ngắt mạch với công việc đâu.",
+     "text": "NGẮT MẠCH TÂM LÝ",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngắt mạch tâm lý không chỉ đơn giản là từ chối nghe điện thoại buổi tối sao?",
+     "text": "KHÔNG CHỈ TẮT MÁY",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ bài giãn cơ rồi. Đầu còn chạy nước rút thì cơ bắp làm sao thả lỏng.",
+     "text": "BỎ BÀI GIÃN CƠ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩ lại cuộc họp căng thẳng với sếp, người mình bồn chồn như đang ở chỗ làm.",
+     "text": "NGƯỜI VẪN BỒN CHỒN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tua lại cãi vã ở chỗ làm khiến động cơ bên trong rú ga dù đang nằm phơi nắng.",
+     "text": "ĐỘNG CƠ RÚ GA",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cơ thể không phân biệt được làm việc thật hay chỉ là ngồi tưởng tượng ra sao?",
+     "text": "CƠ THỂ BỊ LỪA",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cơ thể nghe lệnh suy nghĩ. Cứ lo trễ việc là tim đập nhanh chuẩn bị vào trận.",
+     "text": "SẴN SÀNG VÀO TRẬN",
+     "color": "ink",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao ngay lúc nằm võng, chuyện công việc vẫn cứ bám riết lấy đầu óc?",
+     "text": "BÁM RIẾT TÂM TRÍ",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tắt thông báo công việc, nhét máy xuống đáy vali rồi tuyên bố hết ca.",
+     "text": "NHÉT XUỐNG ĐÁY VALI",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là đi xa mấy cũng vô ích nếu đầu không chịu bấm nút tan ca?",
+     "text": "ĐẦU CHƯA TAN CA",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm nút tan ca trong đầu đi. Nhưng buông việc mà cơ thể đã sập nguồn thì vẫn kiệt sức.",
+     "text": "CƠ THỂ SẬP NGUỒN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "coffee_mug"
+    }
+   ]
+  },
+  {
+   "title": "4. Nỗ lực và hồi phục",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sáng đầu chuyến đi, mình lên lịch ghé bốn điểm tham quan nên đuối sức luôn.",
+     "text": "4. NỖ LỰC VÀ HỒI PHỤC",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phạm luật hồi phục rồi Pen. Cơ bắp đang cạn kiệt thì không thể gánh mức tạ tối đa.",
+     "text": "PHẠM LUẬT HỒI PHỤC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng phải đi ngắm cảnh và trải nghiệm điều mới lạ sẽ giúp nạp lại năng lượng sao?",
+     "text": "ĐI CHƠI ĐỂ NẠP PIN?",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đi chơi ngắm cảnh là bài tập nặng. Đang cạn pin mà cuốc bộ chỉ tổ kiệt sức.",
+     "text": "BÀI TẬP VẬN ĐỘNG",
+     "color": "red",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ép bản thân đi chơi ngay chỉ tổ chất thêm mệt mỏi lên cơ thể vốn đã đuối.",
+     "text": "CHỒNG THÊM MỆT MỎI",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đang đuối sức phải hồi phục thụ động trước. Ngủ đủ giấc làm nền mới mong tận hưởng.",
+     "text": "HỒI PHỤC THỤ ĐỘNG",
+     "color": "gold",
+     "actor": "34",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình luôn thấy áy náy nếu dành trọn ngày đầu của kỳ nghỉ chỉ để ngủ bù.",
+     "text": "ÁY NÁY VÌ NGỦ BÙ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ áy náy đi Pen. Coi ngày ngủ bù như ngày xả cơ giữa hai hiệp nặng.",
+     "text": "NGÀY NGHỈ XẢ CƠ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao ta cứ thấy như đang phí thời gian nếu không vận động liên tục?",
+     "text": "SỢ PHÍ THỜI GIAN?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì lối sống bận rộn coi nghỉ ngơi là quà xa xỉ thay vì nhu cầu sinh học thiết yếu.",
+     "text": "NHU CẦU SINH HỌC",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cố đi hết chỗ này chỗ kia khi đang kiệt sức chỉ khiến người càng kiệt quệ sao?",
+     "text": "CÀNG ĐI CÀNG ĐUỐI",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dành trọn ngày đầu không lịch trình. Ngủ đẫy giấc sạc pin, trước khi cảnh đẹp hóa bình thường.",
+     "text": "KHÔNG LÊN LỊCH TRÌNH",
+     "color": "green",
+     "actor": "sleeping",
+     "prop": "sofa"
+    }
+   ]
+  },
+  {
+   "title": "5. Bẫy khoái lạc",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đến ngày thứ ba ở phòng hướng biển, cảnh đẹp trước mắt bỗng thấy bình thường lạ lùng.",
+     "text": "5. BẪY KHOÁI LẠC",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là bẫy khoái lạc. Não biến điều xa hoa hôm qua thành mức bình thường hôm nay.",
+     "text": "THÍCH NGHI KHOÁI LẠC",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dành dụm sáu tháng lương cho chuyến này, sao cảm giác háo hức lại bay màu nhanh thế?",
+     "text": "HÁO HỨC BAY MÀU",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngày nào cũng đẩy đúng một mức tạ thì cơ bắp sẽ trơ. Não bộ cũng y hệt như vậy.",
+     "text": "CƠ BẮP SẼ TRƠ RA",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nằm dài trên cùng chiếc ghế suốt bảy ngày thì cảm giác sướng sẽ giảm dần sao?",
+     "text": "ĐỘ SƯỚNG GIẢM DẦN",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hưởng thụ liên tục làm giác quan chai lì. Giờ nào cũng giống nhau thì não tự khắc thấy chán.",
+     "text": "GIÁC QUAN CHAI LÌ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng lẽ năm nào ta cũng phải chi nhiều tiền hơn để đi chỗ sang chảnh hơn sao?",
+     "text": "PHẢI SANG CHẢNH HƠN?",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dính bẫy ngay. Đâu cần nâng cấp đắt đỏ, cái Pen cần là sự tương phản.",
+     "text": "CẦN SỰ TƯƠNG PHẢN",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao tâm trí ngó lơ tiện nghi quen thuộc và luôn thèm cảm giác mới lạ?",
+     "text": "THÈM SỰ MỚI LẠ",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quen quá não sẽ tự lọc bỏ. Chỉ có sự đổi mới mới khiến các giác quan bừng tỉnh.",
+     "text": "ĐỔI MỚI GIÁC QUAN",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tạo tương phản mà không kiệt sức vì phải chạy ngược chạy xuôi?",
+     "text": "TẠO TƯƠNG PHẢN",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tạo vài điểm nhấn nhỏ. Đi thử con hẻm mới, ăn món lề đường lạ miệng là kéo lại cảm xúc.",
+     "text": "TẠO ĐIỂM NHẤN NHỎ",
+     "color": "green",
+     "actor": "snack",
+     "prop": "coffee_mug"
+    }
+   ]
+  },
+  {
+   "title": "6. Ảo tưởng tập trung",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trước chuyến đi, mình từng tin đến chỗ đẹp là mọi nỗi buồn phiền sẽ tan biến.",
+     "text": "6. ẢO TƯỞNG TẬP TRUNG",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là ảo tưởng tập trung. Cứ dồn mắt vào một điểm là phóng đại tầm quan trọng của nó lên.",
+     "text": "ẢO TƯỞNG TẬP TRUNG",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có phải mình đã trút hết gánh nặng tâm trạng lên mấy ngày nghỉ ngắn ngủi này không?",
+     "text": "TRÚT HẾT KỲ VỌNG",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen mong chuyến đi đỡ tạ hộ áp lực. Não và nỗi lo vẫn nằm nguyên trong vali kìa.",
+     "text": "NÃO CŨNG THEO LÊN XE",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù đi đâu thì thói quen suy nghĩ cũ và nỗi lo vẫn nằm gọn gàng trong hành lý.",
+     "text": "NỖI LO VẪN THEO CÙNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rồi xe trễ hay trời mưa, thế là thấy cả chuyến đi coi như hỏng bét.",
+     "text": "CHUYẾN ĐI HỎNG BÉT?",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì mình kỳ vọng chuyến đi phải hoàn hảo không tì vết thay vì đời thực bình thường.",
+     "text": "KỲ VỌNG HOÀN HẢO",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Tiêu chuẩn trên mây biến mấy chuyện lặt vặt thành thảm họa sụp đổ tinh thần.",
+     "text": "TIÊU CHUẨN TRÊN MÂY",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao ta cứ ngỡ bước chân lên máy bay là đời sẽ toàn màu hồng?",
+     "text": "NGHĨ ĐỜI TOÀN HỒNG",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quảng cáo bán tranh màu hồng, khiến ai cũng quên rằng cảm xúc con người luôn có lúc trồi sụt.",
+     "text": "CẢM XÚC LÊN XUỐNG",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình nên đổi cách nghĩ thế nào để không tự làm tụt hứng giữa chừng?",
+     "text": "ĐỔI CÁCH SUY NGHĨ",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự trừ hao trước ba sự cố. Định sẵn là xe sẽ trễ, quán sẽ đông, để gặp chuyện không bị vỡ mộng.",
+     "text": "TRỪ HAO BA SỰ CỐ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "7. Bẫy lập kế hoạch",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình cứ ngỡ dọn đồ, bắt xe và làm thủ tục đi lại chẳng tốn chút sức nào.",
+     "text": "7. BẪY LẬP KẾ HOẠCH",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lỗi lập kế hoạch kinh điển. Lên lịch cho người máy chứ đâu phải người đang mệt.",
+     "text": "BẪY LẬP KẾ HOẠCH",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao ta luôn đánh giá thấp chuyện đi lại thực tế lại mệt đến thế?",
+     "text": "ĐÁNH GIÁ THẤP ĐI LẠI",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não chỉ vẽ ra cảnh đi chơi êm ru mà quên mất kẹt xe, xếp hàng và đống hành lý.",
+     "text": "QUÊN MẤT KẸT XE",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chen lấn qua bến xe đông đúc để kịp giờ chẳng khác nào làm việc tăng ca.",
+     "text": "MỆT NHƯ TĂNG CA",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gánh mức tạ gấp ba lần sức mình vào ngày đi, thần kinh kiệt sức là phải.",
+     "text": "GÁNH TẠ QUÁ SỨC",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra mình đo chuyến đi bằng danh sách các điểm đến thay vì sự hồi phục của cơ thể.",
+     "text": "ĐO BẰNG DANH SÁCH",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Di chuyển là bài tập nặng. Nhồi năm chặng vào ba tiếng là Pen đang tự rước hoảng loạn.",
+     "text": "TỰ RƯỚC HOẢNG LOẠN",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao chừa thời gian trống giữa các chặng lại khiến mình thấy có lỗi và lười biếng?",
+     "text": "SỢ KHOẢNG TRỐNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thói quen công sở coi thời gian đệm là lãng phí thay vì quãng nghỉ cần thiết.",
+     "text": "THỜI GIAN ĐỆM",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có nguyên tắc thực tế nào để sắp xếp lịch trình di chuyển hợp lý không?",
+     "text": "NGUYÊN TẮC LÊN LỊCH",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cộng thêm một nửa thời gian dự phòng. Cho các giác quan khoảng thở để thực sự cảm nhận chuyến đi.",
+     "text": "CỘNG NỬA THỜI GIAN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "8. Tận hưởng hiện tại",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngồi ngắm hoàng hôn buông trên biển, mình nhận ra đầu óc đã lo bữa sáng mai ăn gì.",
+     "text": "8. TẬN HƯỞNG HIỆN TẠI",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quên thưởng thức rồi Pen. Thân ở hiện tại nhưng tâm trí du hành tương lai.",
+     "text": "DU HÀNH TƯƠNG LAI",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm nhận hiện tại cũng cần dùng sức sao, chẳng phải thấy cảnh đẹp là tự khắc vui ư?",
+     "text": "PHẢI DÙNG SỨC SAO?",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thưởng thức là bài tập chủ động. Phải chủ đích hướng sự chú ý mới nếm trọn niềm vui.",
+     "text": "HƯỚNG SỰ CHÚ Ý",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu không chủ động để tâm thì khoảnh khắc đẹp sẽ trôi qua mà chẳng đọng lại gì.",
+     "text": "TRÔI TUỘT KỶ NIỆM",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mải chụp ảnh sống ảo là Pen tự kéo mình vào chế độ chấm điểm thay vì cảm nhận.",
+     "text": "CHỤP ẢNH SỐNG ẢO",
+     "color": "red",
+     "actor": "34",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra mình chụp ảnh cho người khác xem hơn là tận hưởng cho chính mình.",
+     "text": "SỐNG CHO NGƯỜI KHÁC",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cất điện thoại đi Pen. Ống kính máy ảnh đâu thể nếm vị hạnh phúc thay Pen.",
+     "text": "CẤT ĐIỆN THOẠI ĐI",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao đầu óc cứ tự tính chuyện ngày mai ngay trong lúc bình yên nhất?",
+     "text": "TÍNH CHUYỆN NGÀY MAI",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não rảnh là tự lên việc ngày mai, trừ khi chủ động neo giác quan vào hiện tại.",
+     "text": "NEO VÀO HIỆN TẠI",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có bài tập đơn giản nào kéo tâm trí đang bay nhảy quay về lúc này không?",
+     "text": "KÉO TÂM TRÍ VỀ",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập bài neo giác quan một phút. Gọi tên hai thứ mắt thấy và hai thứ tai nghe.",
+     "text": "BÀI TẬP NEO GIÁC QUAN",
+     "color": "green",
+     "actor": "meditating",
+     "prop": "coffee_mug"
+    }
+   ]
+  },
+  {
+   "title": "Kế hoạch hồi phục",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra nghỉ ngơi trọn vẹn cũng cần rèn luyện có chủ đích chẳng kém gì làm việc căng não.",
+     "text": "KẾ HOẠCH NGHỈ NGƠI",
+     "color": "gold",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhóm một, xả việc ra giấy trước khi đi. Nhóm hai, ngủ bù thật sâu ngày đầu.",
+     "text": "XẢ VIỆC VÀ NGỦ BÙ",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhóm ba, chừa thời gian đệm và tận hưởng chi tiết nhỏ thay vì chạy theo chỗ sang.",
+     "text": "CHỪA ĐỆM VÀ TẬN HƯỞNG",
+     "color": "ink",
+     "actor": "34",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghỉ ngơi là kỹ năng phải rèn. Có thử thách bảy ngày nào tụi mình áp dụng được ngay tối nay không Buff?",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Làm bài tập hai bước này tối nay. Bước một, viết sạch việc dở ra giấy.",
+     "text": "BƯỚC MỘT: GHI RA GIẤY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bước hai, khóa thông báo tin nhắn công việc mỗi tối trong bảy ngày liền.",
+     "text": "BƯỚC HAI: TẮT BÁO TIN",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Viết ra việc tồn và tắt thông báo cho phép bản thân được thực sự ngơi nghỉ.",
+     "text": "CHO PHÉP MÌNH NGHỈ",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rèn cách xả cơ cũng như tập tạ, phải chia từng hiệp nhỏ thì vào kỳ nghỉ mới không đuối.",
+     "text": "LUYỆN TỪ HIỆP NHỎ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sự kiên trì đều đặn mỗi ngày biến những chuyến đi căng thẳng thành bình yên đích thực.",
+     "text": "KIÊN TRÌ MỖI NGÀY",
+     "color": "green",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký kênh nhé bạn. Chúng mình rèn tâm lý mỗi tuần để đời bớt quật bạn tơi tả.",
+     "text": "RÈN TÂM TRÍ MỖI TUẦN",
+     "color": "gold",
+     "actor": "front"
+    }
+   ]
+  }
+ ]
+}

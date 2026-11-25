@@ -1,0 +1,704 @@
+[
+  {
+    "id": "s462",
+    "mascot": "buff",
+    "title": "Why Teammates Attack Your Slides",
+    "mechanism": "Attack The Problem",
+    "lines": [
+      {
+        "vo": "You share your presentation draft, and a coworker attacks every single slide.",
+        "text": "EVERY SLIDE HIT",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Your chest tightens. It feels like a direct hit on your competence.",
+        "text": "EGO ON FIRE",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Check the weights, rookie. That is task conflict, not a personal brawl.",
+        "text": "NOT A BRAWL",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Your ego glued your identity to that deck like cheap tape.",
+        "text": "DROP THE EGO",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Step back. Ask what risks we need to test together.",
+        "text": "TEST RISKS",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Attack the problem together, not the person beside you.",
+        "text": "HIT THE TARGET",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s462vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung coi gop y la xuc pham",
+    "title_vi": "Đừng coi góp ý là xúc phạm",
+    "mechanism": "Attack The Problem",
+    "lines": [
+      {
+        "vo": "Bạn vừa gửi bài thuyết trình lên nhóm thì bị vặn từng dòng.",
+        "text": "BỊ SOI TỪNG CHỮ",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Mặt nóng bừng vì ngỡ người ta đang chê mình kém cỏi.",
+        "text": "NGHĨ HỌ GHÉT MÌNH",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Bình tĩnh lại. Họ đang đập vào số liệu, không đập vào mặt bạn.",
+        "text": "CHỈ SOI BÀI",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Cái tôi của bạn đang dán chặt vào bản báo cáo đó.",
+        "text": "BỎ CÁI TÔI XUỐNG",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Kéo họ về cùng phe. Hỏi xem rủi ro lớn nhất nằm ở đâu.",
+        "text": "HỎI VỀ RỦI RO",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Tập trung giải quyết bài toán, đừng đứng lên đôi co.",
+        "text": "GIẢI QUYẾT BÀI TOÁN",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s463",
+    "mascot": "pen",
+    "title": "Why Blunt Replies Hurt",
+    "mechanism": "Drop The Labels",
+    "lines": [
+      {
+        "vo": "You send a detailed proposal and get back a blunt, one-word reply.",
+        "text": "ONE WORD REPLY",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Immediately, your mind decides they are rude, hostile, and arrogant.",
+        "text": "THEY ARE RUDE",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Welcome to the attribution trap.",
+        "text": "THE TRAP",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "When you are brief, you were slammed with urgent work.",
+        "text": "I WAS BUSY",
+        "actor": "future_tired",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "When they are brief, you assume they have a terrible attitude.",
+        "text": "THEY ARE TOXIC",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Name two hidden pressures they might be dealing with right now.",
+        "text": "CHECK PRESSURES",
+        "color": "green",
+        "actor": "writing",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "What happens to your anger when you drop the villain story?",
+        "text": "DROP THE STORY",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s463vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Bot suy dien khi nguoi khac coc loc",
+    "title_vi": "Bớt suy diễn khi người khác cộc lốc",
+    "mechanism": "Drop The Labels",
+    "lines": [
+      {
+        "vo": "Gửi kế hoạch dài cả trang, người ta chỉ thả nhẹ một chữ Ừ.",
+        "text": "TRẢ LỜI CỘC LỐC",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Trong đầu bạn lập tức hiện lên một kẻ kiêu ngạo, thiếu tôn trọng.",
+        "text": "BỰC MÌNH PHÁN XÉT",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Bạn đang rơi vào bẫy quy kết cơ bản của tâm lý.",
+        "text": "BẪY QUY KẾT",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Khi mình nhắn cộc, mình tự nhủ vì đang bận ngập đầu.",
+        "text": "MÌNH THÌ BẬN",
+        "actor": "future_tired",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Nhưng khi họ nhắn ngắn, mình lại phán xét nhân cách của họ.",
+        "text": "HỌ THÌ XẤU TÍNH",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Hãy nghĩ thử hai lý do bên ngoài khiến họ vội vã.",
+        "text": "TÌM LÝ DO KHÁC",
+        "color": "green",
+        "actor": "writing",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Cơn bực tức của bạn có còn lớn như lúc đầu?",
+        "text": "TỰ HỎI LẠI",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s464",
+    "mascot": "buff",
+    "title": "Why Devs Reject Your Design",
+    "mechanism": "Sit In Their Chair",
+    "lines": [
+      {
+        "vo": "Your sleek design gets shot down because the server will explode.",
+        "text": "DESIGN REJECTED",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Stop whining. You only care about the metrics your own boss tracks.",
+        "text": "YOUR OWN BUBBLE",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Their pushback is not an attack. They are protecting system limits.",
+        "text": "NOT SABOTAGE",
+        "actor": "arms_crossed_no",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "State their priority first before you defend your pretty buttons.",
+        "text": "SPEAK THEIR GOAL",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Spot their workload, and they will help lift yours. Every time.",
+        "text": "LIFT TOGETHER",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s464vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung vao vi tri dong nghiep",
+    "title_vi": "Đứng vào vị trí đồng nghiệp",
+    "mechanism": "Sit In Their Chair",
+    "lines": [
+      {
+        "vo": "Ý tưởng bạn ấp ủ cả tuần vừa đưa ra đã bị kỹ thuật gạt phắt.",
+        "text": "BỊ GẠT PHẮT Ý TƯỞNG",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Đừng vội cáu. Não bạn chỉ đang quan tâm chỉ số của riêng bạn.",
+        "text": "CHỈ NGHĨ CHO MÌNH",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Họ không phá đám, họ chỉ đang gánh áp lực giữ hệ thống không sập.",
+        "text": "ÁP LỰC RIÊNG",
+        "actor": "arms_crossed_no",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Nói rõ khó khăn của họ trước khi đòi bảo vệ ý tưởng của mình.",
+        "text": "NHẮC MỤC TIÊU CỦA HỌ",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Chia sẻ gánh nặng với người khác, dự án mới mong về đích.",
+        "text": "CÙNG VỀ ĐÍCH",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s465",
+    "mascot": "pen",
+    "title": "You Never See The Whole Picture",
+    "mechanism": "You Do Not See All",
+    "lines": [
+      {
+        "vo": "The flaw in the project schedule seemed painfully obvious to you.",
+        "text": "OBVIOUS FLAW",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "When your boss disagreed, you assumed they were willfully blind.",
+        "text": "THEY ARE BLIND",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Psychologists call this naive realism.",
+        "text": "NAIVE REALISM",
+        "actor": "reading",
+        "prop": "brain"
+      },
+      {
+        "vo": "We assume our eyes see pure, unvarnished truth.",
+        "text": "PURE REALITY",
+        "actor": "think"
+      },
+      {
+        "vo": "So anyone with a different view must be biased or misinformed.",
+        "text": "ASSUMING BIAS",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "You see the timeline, but they might be watching client contracts.",
+        "text": "DIFFERENT ANGLES",
+        "actor": "small_step",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Ask what signals they are watching that you might be missing.",
+        "text": "ASK FOR SIGNALS",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Truth is usually pieced together, not seen from a single chair.",
+        "text": "PIECE IT TOGETHER",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s465vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Goc nhin cua ban chua phai la tat ca",
+    "title_vi": "Góc nhìn của bạn chưa phải là tất cả",
+    "mechanism": "You Do Not See All",
+    "lines": [
+      {
+        "vo": "Kế hoạch chạy dự án vô lý rõ mười mươi nhưng sếp vẫn duyệt.",
+        "text": "KẾ HOẠCH BẤT HỢP LÝ",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Bạn bực mình, cho rằng cấp trên cố tình không chịu nhìn nhận.",
+        "text": "NGHĨ SẾP MÙ QUÁNG",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Tâm lý học gọi đây là sự ngộ nhận về tính khách quan.",
+        "text": "BẪY KHÁCH QUAN",
+        "actor": "reading",
+        "prop": "brain"
+      },
+      {
+        "vo": "Ta luôn tin góc nhìn của mình là sự thật tuyệt đối.",
+        "text": "TƯỞNG MÌNH ĐÚNG HẾT",
+        "actor": "think"
+      },
+      {
+        "vo": "Và ai nghĩ khác thì hẳn là thiếu hiểu biết hoặc có thành kiến.",
+        "text": "NGHĨ NGƯỜI KHÁC SAI",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Bạn thấy tiến độ gấp, nhưng sếp lại chịu áp lực dòng tiền.",
+        "text": "ÁP LỰC KHÁC NHAU",
+        "actor": "small_step",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Hãy nhẹ nhàng hỏi xem sếp đang cân nhắc những yếu tố nào.",
+        "text": "LẮNG NGHE GÓC NHÌN",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Sự thật là bức tranh ghép lại từ nhiều vị trí khác nhau.",
+        "text": "GHÉP NỐI SỰ THẬT",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s466",
+    "mascot": "buff",
+    "title": "Stop Fighting Other Departments",
+    "mechanism": "We Are One Team",
+    "lines": [
+      {
+        "vo": "Two departments sit across the table with arms crossed like rivals.",
+        "text": "RIVAL TEAMS",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Instead of fixing bugs, everyone defends their tiny departmental borders.",
+        "text": "DEFENDING BORDERS",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Tribal nonsense. You split one training gym into two fighting squads.",
+        "text": "TRIBAL SPLIT",
+        "actor": "shocked",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "When resources feel scarce, brains retreat into us versus them.",
+        "text": "US VERSUS THEM",
+        "color": "red",
+        "actor": "panic",
+        "prop": "brain"
+      },
+      {
+        "vo": "Zoom out. Put both teams under one shared scoreboard.",
+        "text": "ONE SCOREBOARD",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "If the client walks away, both squads lose. Remember that.",
+        "text": "WIN OR LOSE AS ONE",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s466vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Ngung coi phong ban khac la doi thu",
+    "title_vi": "Ngừng coi phòng ban khác là đối thủ",
+    "mechanism": "We Are One Team",
+    "lines": [
+      {
+        "vo": "Kinh doanh và vận hành ngồi đối diện nhau, mặt đằng đằng sát khí.",
+        "text": "HAI PHE ĐỐI ĐẦU",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Đơn hàng trễ thì chưa lo, nhưng lo đùn đẩy trách nhiệm trước.",
+        "text": "ĐÙN ĐẨY TRÁCH NHIỆM",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Chia phe thế này thì nâng tạ cùng nhau kiểu gì?",
+        "text": "TỰ CHIA RẼ NHAU",
+        "actor": "shocked",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Căng thẳng ập đến, não tự động bật chế độ ta đối đầu với địch.",
+        "text": "BẬT CHẾ ĐỘ THÙ ĐỊCH",
+        "color": "red",
+        "actor": "panic",
+        "prop": "brain"
+      },
+      {
+        "vo": "Kéo bảng điểm chung ra. Khách hàng hủy đơn là cả hai cùng chết.",
+        "text": "BẢNG ĐIỂM CHUNG",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Chung một màu cờ thì lo giải quyết việc, đừng soi mói người.",
+        "text": "CHUNG MỘT MÀU ÁO",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s467",
+    "mascot": "pen",
+    "title": "When You Slip Up in Meetings",
+    "mechanism": "Fix The Cracks Fast",
+    "lines": [
+      {
+        "vo": "A sarcastic comment slips out, and the room goes dead silent.",
+        "text": "DEAD SILENCE",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "You look down at your notepad, hoping everyone magically forgets.",
+        "text": "AVOID EYE CONTACT",
+        "actor": "writing",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "They will not. Unaddressed tension turns into stubborn grudges.",
+        "text": "HIDDEN GRUDGES",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Admitting a verbal foul feels uncomfortable for your pride.",
+        "text": "PRIDE HURTS",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Use conversational repair before defensiveness hardens.",
+        "text": "REPAIR THE CRACK",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Say that came out sharper than intended, let me rephrase.",
+        "text": "CALL THE FOUL",
+        "color": "green",
+        "actor": "typing_focused"
+      },
+      {
+        "vo": "A ten-second reset protects months of working trust.",
+        "text": "RESTORE TRUST",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s467vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Nhan loi nhanh khi lo loi",
+    "title_vi": "Nhận lỗi nhanh khi lỡ lời",
+    "mechanism": "Fix The Cracks Fast",
+    "lines": [
+      {
+        "vo": "Lỡ buông một câu châm chọc, cả phòng họp bỗng chốc im bặt.",
+        "text": "LỠ MIỆNG CHÂM CHỌC",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Bạn cúi gằm mặt xuống sổ, thầm mong mọi người bỏ qua.",
+        "text": "CÚI MẶT GIẢ VỜ",
+        "actor": "writing",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Nhưng vết nứt không tự biến mất mà âm thầm tích tụ thành hiềm khích.",
+        "text": "HIỀM KHÍCH NGẦM",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Cái tôi khiến việc nói lời xin lỗi trở nên quá ngượng ngùng.",
+        "text": "CÁI TÔI NÉ TRÁNH",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Hãy sửa chữa ngay lập tức trước khi bầu không khí đóng băng.",
+        "text": "SỬA NGAY TỨC THÌ",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Nói luôn câu đó hơi gắt, cho mình xin lỗi và diễn đạt lại.",
+        "text": "XIN NÓI LẠI CÂU NÀY",
+        "color": "green",
+        "actor": "typing_focused"
+      },
+      {
+        "vo": "Mười giây thẳng thắn cứu vãn được cả một mối quan hệ làm việc.",
+        "text": "GIỮ GÌN LÒNG TIN",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s468",
+    "mascot": "buff",
+    "title": "Why You Hide Flaws in Plans",
+    "mechanism": "Hunt Blind Spots",
+    "lines": [
+      {
+        "vo": "You only show the flattering numbers that prove your plan is genius.",
+        "text": "SHOWING ONLY WINS",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "When someone points out a glaring flaw, you brush it off.",
+        "text": "IGNORING FLAWS",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Lifting only light weights builds zero real muscle, rookie.",
+        "text": "LIFTING LIGHT",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Confirmation bias makes you defend your pet idea like gold.",
+        "text": "CONFIRMATION BIAS",
+        "color": "red",
+        "actor": "panic",
+        "prop": "brain"
+      },
+      {
+        "vo": "Run a premortem. Ask what broke first if this project fails.",
+        "text": "RUN A PREMORTEM",
+        "color": "green",
+        "actor": "think",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Find the weak welds now before the barbell drops on your neck.",
+        "text": "TEST THE WELDS",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s468vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Chu dong tim diem yeu cua ke hoach",
+    "title_vi": "Chủ động tìm điểm yếu của kế hoạch",
+    "mechanism": "Hunt Blind Spots",
+    "lines": [
+      {
+        "vo": "Làm báo cáo chỉ chăm chăm chọn vài con số đẹp để khoe.",
+        "text": "CHỈ CHỌN SỐ ĐẸP",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Ai vừa chỉ ra lỗ hổng, bạn lập tức tìm cách cãi bằng được.",
+        "text": "CỐ CÃI LẤP LIẾM",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Chỉ nâng tạ xốp thì cơ bắp chẳng bao giờ phát triển đâu.",
+        "text": "NÂNG TẠ XỐP",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Não bạn đang dính thiên kiến xác nhận, khư khư giữ ý kiến cũ.",
+        "text": "THIÊN KIẾN CỐ HỮU",
+        "color": "red",
+        "actor": "panic",
+        "prop": "brain"
+      },
+      {
+        "vo": "Chủ động hỏi mọi người, nếu dự án này sập thì sập ở đâu.",
+        "text": "TỰ TÌM LỖ HỔNG",
+        "color": "green",
+        "actor": "think",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Phát hiện mối hàn yếu trước khi tạ rơi trúng chân bạn.",
+        "text": "TẦM SOÁT ĐIỂM YẾU",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+{
+ "title": "Pourquoi le Vatican brûle les bulletins #shorts",
+ "hook": "NOIR OU BLANC ?",
+ "asof": "Règles de Universi Dominici Gregis (1996) · conclave de mai 2025",
+ "world": "conclave",
+ "long": "IX012",
+ "chapters": [
+  {
+   "id": "smoke",
+   "hud": "JOUR 1",
+   "chip": "7 MAI 2025",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "Le monde entier guette une petite cheminée.",
+     "v": "chimney",
+     "plane": "smoke:black"
+    },
+    {
+     "s": "Dans la chapelle Sixtine, les cardinaux élisent un pape.",
+     "v": "chapel",
+     "you": "chapel"
+    },
+    {
+     "s": "Chacun écrit un nom sur un bulletin.",
+     "v": "ballot"
+    },
+    {
+     "s": "On leur demande de brouiller leur écriture.",
+     "v": "ballot"
+    },
+    {
+     "s": "Pour gagner, il faut deux tiers des voix.",
+     "v": "urn",
+     "you": "urn",
+     "st": [
+      "⅔",
+      "des voix pour gagner"
+     ]
+    },
+    {
+     "s": "Après le vote, les bulletins sont brûlés dans un poêle.",
+     "v": "stove",
+     "plane": "fire"
+    },
+    {
+     "s": "La fumée noire signifie : pas encore de pape.",
+     "v": "chimney",
+     "plane": "smoke:black"
+    },
+    {
+     "s": "En mai 2025, la fumée du premier soir était noire.",
+     "v": "square"
+    },
+    {
+     "s": "Le lendemain après-midi, au quatrième vote, elle est devenue blanche.",
+     "v": "chimney",
+     "plane": "smoke:white"
+    },
+    {
+     "s": "Le nouveau pape, Léon quatorze, est le premier venu des États-Unis.",
+     "v": "balcony",
+     "plane": "crowd",
+     "st": [
+      "LÉON XIV",
+      "8 mai 2025"
+     ]
+    },
+    {
+     "s": "Tu attendrais la fumée sur la place ?",
+     "v": "square",
+     "plane": "crowd"
+    }
+   ]
+  }
+ ]
+}

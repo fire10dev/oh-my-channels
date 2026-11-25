@@ -1,0 +1,676 @@
+[
+ {
+  "id": "s357",
+  "mascot": "pen",
+  "title": "Why Parents Predict Ruin",
+  "mechanism": "Motivated Reasoning",
+  "lines": [
+   {
+    "vo": "You mention quitting your safe job, and your mom predicts instant disaster.",
+    "text": "INSTANT RUIN",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Suddenly, she remembers three distant cousins who went broke.",
+    "text": "WORST CASES",
+    "color": "red",
+    "actor": "panic",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "When fear takes over, the brain selectively hunts for proof.",
+    "text": "MOTIVATED MIND",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Throwing statistics back at her only turns up her internal alarm.",
+    "text": "LOUDER ALARM",
+    "color": "red",
+    "actor": "hand_off",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Say you know her warning comes from wanting you safe.",
+    "text": "ACKNOWLEDGE FEAR",
+    "color": "green",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "When their fear feels heard, the armor finally drops.",
+    "text": "LOWER THE GUARD",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s357vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao bo me luon doan truoc do vo?",
+  "title_vi": "Vì sao bố mẹ luôn đoán trước đổ vỡ?",
+  "mechanism": "Motivated Reasoning",
+  "lines": [
+   {
+    "vo": "Vừa hé răng muốn nghỉ việc, mẹ đã bảo tương lai thế là hỏng.",
+    "text": "TƯƠNG LAI ĐỔ VỠ",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Mẹ liệt kê ngay ba người họ hàng kinh doanh thua lỗ ngoài kia.",
+    "text": "BA TẤM GƯƠNG XẤU",
+    "color": "red",
+    "actor": "panic",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Khi quá lo lắng, não dễ gom mọi rủi ro làm bằng chứng.",
+    "text": "NỖI SỢ TÌM CỚ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn càng cãi lý trên mâm cơm, chuông báo động của mẹ càng reo to.",
+    "text": "CÃI LÝ VÔ ÍCH",
+    "color": "red",
+    "actor": "hand_off",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Mở đầu bằng câu: Con biết bố mẹ sợ con ra ngoài bị đói.",
+    "text": "HIỂU NỖI SỢ",
+    "color": "green",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Khi nỗi sợ được lắng nghe, chiếc khiên phòng thủ mới chịu buông xuống.",
+    "text": "HẠ PHÒNG THỦ",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s358",
+  "mascot": "buff",
+  "title": "Decoding the Pension Mindset",
+  "mechanism": "Perspective Taking",
+  "lines": [
+   {
+    "vo": "Dad treats his thirty-year pension like the only safe squat rack. Sure, buddy.",
+    "text": "DAD'S RULEBOOK",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "To him, freelancing is attempting a personal record without a spotter.",
+    "text": "NO SPOTTER",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "His advice is vintage gym gear. Built for an older lift.",
+    "text": "OLD WORKOUT",
+    "actor": "think",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Ask how he survived tough uncertainty back when he started.",
+    "text": "ASK HIS STORY",
+    "color": "green",
+    "actor": "coffee",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Honor his heavy road, then lift your own weight.",
+    "text": "LIFT YOUR ROAD",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s358vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Hieu tu duy cong chuc cua bo",
+  "title_vi": "Hiểu tư duy công chức của bố",
+  "mechanism": "Perspective Taking",
+  "lines": [
+   {
+    "vo": "Bố bảo cứ ôm trọn sổ hưu ba mươi năm mới là chuẩn form. Ừ, tin.",
+    "text": "CHUẨN FORM CỦA BỐ",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Bỏ cơ quan nhà nước đi làm ngoài, bố nhìn như trò đỏ đen.",
+    "text": "SỢ TRÒ ĐỎ ĐEN",
+    "color": "red",
+    "actor": "hand_off",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Bộ tạ của thế hệ trước đúc cho một bài tập hoàn toàn khác.",
+    "text": "BÀI TẬP ĐỜI TRƯỚC",
+    "actor": "think",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Hỏi bố ngày trẻ đã xoay xở thế nào khi mọi thứ mông lung.",
+    "text": "HỎI CHUYỆN XƯA",
+    "color": "green",
+    "actor": "coffee",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Tôn trọng đường của bố, rồi tự gánh tạ đời mình. Bắt đầu đi.",
+    "text": "TỰ NÂNG TẠ MÌNH",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s359",
+  "mascot": "pen",
+  "title": "When Moving Away Causes Silence",
+  "mechanism": "Cognitive Empathy",
+  "lines": [
+   {
+    "vo": "You announce you are moving far away, and dad goes completely silent.",
+    "text": "SILENT HOUSE",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Meanwhile, mom slams cabinet doors over two dirty forks.",
+    "text": "COLD FRICTION",
+    "color": "red",
+    "actor": "hand_off",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Sudden irritation is often just helpless grief without an outlet.",
+    "text": "HIDDEN GRIEF",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "They are quietly mourning their changing role. Look past the noise.",
+    "text": "MOURNING ROLES",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tell them out loud you know this shift feels disorienting.",
+    "text": "NAME THE SHIFT",
+    "color": "green",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "What happens when their quiet sadness finally feels heard?",
+    "text": "HEAR THE SADNESS",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s359vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Khi bo me im lang truoc tin ban di xa",
+  "title_vi": "Khi bố mẹ im lặng trước tin bạn đi xa",
+  "mechanism": "Cognitive Empathy",
+  "lines": [
+   {
+    "vo": "Báo tin chuyển vào miền Nam lập nghiệp, bố im lặng cả tuần.",
+    "text": "BỐ IM LẶNG",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Còn mẹ dằn mâm xới bát, kiếm cớ gắt gỏng từ cái chảo chưa rửa.",
+    "text": "DẰN MÂM XỚI BÁT",
+    "color": "red",
+    "actor": "hand_off",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Sự cáu gắt vô cớ đôi khi chỉ là bất lực khi con rời xa.",
+    "text": "NỖI BUỒN GIẤU KÍN",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bố mẹ đang tập buông tay. Hãy nhìn sâu vào sự bất lực đó.",
+    "text": "TẬP BUÔNG TAY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nói rằng bạn hiểu quyết định này khiến cả nhà xáo trộn.",
+    "text": "GỌI TÊN CẢM XÚC",
+    "color": "green",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Liệu có khoảng trống nào bớt đau hơn khi được lắng nghe?",
+    "text": "LẮNG NGHE NHAU",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s360",
+  "mascot": "buff",
+  "title": "Why Springing Big News Fails",
+  "mechanism": "Reactance",
+  "lines": [
+   {
+    "vo": "You dropped your resignation news over Sunday dessert. Big mistake.",
+    "text": "SUNDAY AMBUSH",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "They immediately threatened to cut support and demanded you cancel it.",
+    "text": "TOTAL BLOWUP",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Corner someone with a sudden exit, and they shove back twice as hard.",
+    "text": "SHOVE BACK HARD",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Surprise makes parents feel completely benched in your life.",
+    "text": "BENCHED PARENTS",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Frame big transitions as a staged plan, not an emergency bomb.",
+    "text": "STAGE THE PLAN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Warm up the conversation first, or prepare to get pinned under the bar.",
+    "text": "WARM UP FIRST",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s360vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Sai lam khi bat ngo nop don nghi viec",
+  "title_vi": "Sai lầm khi bất ngờ nộp đơn nghỉ việc",
+  "mechanism": "Reactance",
+  "lines": [
+   {
+    "vo": "Nộp đơn nghỉ việc xong xuôi mới thông báo trong bữa tối. Quá ẩu.",
+    "text": "THÔNG BÁO BẤT NGỜ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Bố mẹ lập tức nổi trận lôi đình, bắt rút đơn ngay sáng mai.",
+    "text": "CƠN THỊNH NỘ",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bị dồn vào thế đã rồi, phản xạ đầu tiên của bố mẹ là chặn đứng.",
+    "text": "PHẢN XẠ CHẶN ĐỨNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cú sốc đột ngột khiến bố mẹ thấy mình bị gạt ra ngoài lề.",
+    "text": "BỊ CHO RA RÌA",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Chia sẻ kế hoạch theo từng giai đoạn thay vì thả bom thông tin.",
+    "text": "LỘ TRÌNH RÕ RÀNG",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Khởi động bàn bạc từng hiệp, hay muốn bị tạ đè gãy lưng? Chọn đi.",
+    "text": "KHỞI ĐỘNG TRƯỚC",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s361",
+  "mascot": "pen",
+  "title": "Talk Independence Without Shouting",
+  "mechanism": "Autonomy Support",
+  "lines": [
+   {
+    "vo": "Mid-dinner, you blow up: You cannot control my entire life.",
+    "text": "MID-DINNER BLOWUP",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Combative defense usually invites an even heavier counterattack.",
+    "text": "COMBAT POSTURE",
+    "color": "red",
+    "actor": "hand_off",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Stop defending your choice. Start inviting them into your thinking.",
+    "text": "INVITE THEM IN",
+    "actor": "think"
+   },
+   {
+    "vo": "Instead of demanding acceptance, say, I want to share my thoughts.",
+    "text": "SHARE MY MIND",
+    "color": "green",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "When they fear wasted tuition, show how that foundation serves you.",
+    "text": "HONOR PAST WORK",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Then give them a clear job. Ask how they handled emergency budgets.",
+    "text": "ASK FOR WISDOM",
+    "color": "green",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Say: I make the final call, but I need your street smarts.",
+    "text": "VALUE WISDOM",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Clear boundaries can still leave room for mutual respect.",
+    "text": "CALM BOUNDARIES",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s361vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Noi chuyen tu lap ma khong can gat gong",
+  "title_vi": "Nói chuyện tự lập mà không cần gắt gỏng",
+  "mechanism": "Autonomy Support",
+  "lines": [
+   {
+    "vo": "Ngay giữa bữa cơm, bạn buột miệng gắt: Bố mẹ không sống hộ con được đâu.",
+    "text": "BUỘT MIỆNG GẮT GỎNG",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Thái độ xù lông chỉ khiến đối phương muốn siết chặt kiểm soát.",
+    "text": "SIẾT KIỂM SOÁT",
+    "color": "red",
+    "actor": "hand_off",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Đừng gồng lên cãi thắng thua. Hãy nói để bố mẹ thấy được tôn trọng.",
+    "text": "ĐỔI CÁCH NÓI",
+    "actor": "think"
+   },
+   {
+    "vo": "Thay vì đòi chấp nhận, hãy nói con muốn chia sẻ góc nhìn.",
+    "text": "CHIA SẺ GÓC NHÌN",
+    "color": "green",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Bố mẹ tiếc tiền đại học? Hãy chỉ cách bạn dùng kiến thức đó.",
+    "text": "DÙNG LẠI KIẾN THỨC",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Nhờ bố mẹ chỉ cách quản lý tiền nong hoặc thương lượng tiền cọc nhà.",
+    "text": "XIN LỜI KHUYÊN",
+    "color": "green",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Nói rõ: Con tự quyết định, nhưng con rất cần sự từng trải của bố mẹ.",
+    "text": "CẦN SỰ TỪNG TRẢI",
+    "actor": "point_viewer"
+   },
+   {
+    "vo": "Tự lập thật sự không nhất thiết phải cắt đứt sự gắn kết.",
+    "text": "TỰ LẬP VỮNG VÀNG",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s362",
+  "mascot": "buff",
+  "title": "Finding Baseline With Parents",
+  "mechanism": "Common Ground",
+  "lines": [
+   {
+    "vo": "They demand thirty-year tenure. You want freelance freedom.",
+    "text": "OPPOSING CAMPS",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Two opposing camps. But strip away the tactical noise.",
+    "text": "TACTICAL NOISE",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "target"
+   },
+   {
+    "vo": "Under the hood, neither of you wants you stranded and broke.",
+    "text": "COMMON BASELINE",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "State the shared goal first: building a solvent, healthy life.",
+    "text": "SAME TARGET",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "target"
+   },
+   {
+    "vo": "Lock the common ground before you debate the training path.",
+    "text": "LOCK THE GROUND",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s362vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Tim tieng noi chung voi phu huynh",
+  "title_vi": "Tìm tiếng nói chung với phụ huynh",
+  "mechanism": "Common Ground",
+  "lines": [
+   {
+    "vo": "Bố mẹ nhắm biên chế trọn đời, bạn đòi tự do bươn chải.",
+    "text": "HAI HƯỚNG ĐI",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Cứ ngồi vào mâm cơm là bùng nổ tranh cãi.",
+    "text": "TRANH CÃI MÂM CƠM",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "target"
+   },
+   {
+    "vo": "Bỏ qua cách làm, cả hai đều không muốn bạn rơi vào cảnh nợ nần.",
+    "text": "ĐIỂM CHUNG CỐT LÕI",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Xác nhận mục tiêu chung trước: một cuộc sống tự chủ và bền vững.",
+    "text": "CÙNG MỘT ĐÍCH",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "target"
+   },
+   {
+    "vo": "Thống nhất vạch đích an toàn trước, rồi mới chọn giáo án tập sau.",
+    "text": "CHỌN GIÁO ÁN SAU",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s363",
+  "mascot": "pen",
+  "title": "Protecting Parents Pride",
+  "mechanism": "Face-Saving",
+  "lines": [
+   {
+    "vo": "Your mom finally confesses her real dread: holiday dinner gossip.",
+    "text": "FAMILY GOSSIP",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "To her, raising a thriving adult is lifelong social standing.",
+    "text": "SOCIAL STANDING",
+    "color": "red",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "An unconventional job makes her feel exposed to judgment.",
+    "text": "FEELING EXPOSED",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Do not dismiss her anxiety. Hand her a clear, ready-to-use answer.",
+    "text": "EQUIP HER",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Say: I have secured steady starter clients and saved an emergency cushion.",
+    "text": "THE SCRIPT",
+    "color": "green",
+    "actor": "coffee",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Clear phrasing arms her with quiet pride in front of relatives.",
+    "text": "QUIET PRIDE",
+    "color": "gold",
+    "actor": "celebrate"
+   },
+   {
+    "vo": "Protect her dignity first, and her blessing usually follows.",
+    "text": "DIGNITY FIRST",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s363vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Giu the dien cho bo me truoc ho hang",
+  "title_vi": "Giữ thể diện cho bố mẹ trước họ hàng",
+  "mechanism": "Face-Saving",
+  "lines": [
+   {
+    "vo": "Mẹ thú nhận nỗi sợ lớn nhất: họ hàng xì xào trong bữa cỗ Tết.",
+    "text": "NỖI SỢ HỌ HÀNG",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Với thế hệ trước, con cái ổn định là thể diện cả đời.",
+    "text": "THỂ DIỆN GIA ĐÌNH",
+    "color": "red",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "Công việc nghe mông lung khiến bố mẹ lúng túng khi ai đó hỏi.",
+    "text": "LÚNG TÚNG KHI HỎI",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Đừng gạt đi. Hãy chuẩn bị cho mẹ một câu trả lời chỉn chu.",
+    "text": "CHUẨN BỊ LỜI NÓI",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Nói gọn: Con đã có khách hàng đều đặn và một khoản dự phòng tự lo.",
+    "text": "CÂU TRẢ LỜI MẪU",
+    "color": "green",
+    "actor": "coffee",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Thông tin cụ thể giúp phụ huynh tự tin ngẩng cao đầu.",
+    "text": "TỰ TIN TRẢ LỜI",
+    "color": "gold",
+    "actor": "celebrate"
+   },
+   {
+    "vo": "Giữ thể diện cho bố mẹ trước, sự ủng hộ sẽ tự khắc theo sau.",
+    "text": "GIỮ THỂ DIỆN",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ }
+]

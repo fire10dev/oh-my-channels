@@ -1,0 +1,2012 @@
+{
+"w": 1920,
+"h": 1080,
+"duration": 231.989,
+"shots": [
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.3,
+"t1": 2.05,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+600,
+1350
+],
+"dark": 0.2
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 2.05,
+"t1": 4.451,
+"a": [
+1150,
+800,
+1000
+],
+"b": [
+1200,
+760,
+1000
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.451,
+"t1": 6.8,
+"a": [
+700,
+560,
+1350
+],
+"b": [
+760,
+560,
+1350
+],
+"shake": 4,
+"blur": 3,
+"dark": 0.3
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 6.8,
+"t1": 9.87,
+"a": [
+550,
+990,
+1100
+],
+"b": [
+440,
+950,
+780
+]
+},
+{
+"img": "p03/img/S01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 9.87,
+"t1": 13.463,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+920,
+420,
+1350
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.463,
+"t1": 16.974,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1100,
+560,
+1350
+]
+},
+{
+"img": "p03/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.974,
+"t1": 18.921,
+"a": [
+900,
+480,
+1350
+],
+"b": [
+820,
+360,
+1000
+],
+"shake": 8
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 18.921,
+"t1": 20.85,
+"a": [
+450,
+950,
+900
+],
+"b": [
+440,
+950,
+760
+],
+"flash": 1
+},
+{
+"img": "p03/img/S01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 20.85,
+"t1": 23.201,
+"a": [
+920,
+400,
+1350
+],
+"b": [
+920,
+330,
+1000
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.201,
+"t1": 26.286,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1264,
+560,
+1350
+]
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 26.286,
+"t1": 29.206,
+"a": [
+800,
+700,
+1350
+],
+"b": [
+816,
+720,
+1000
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 29.206,
+"t1": 32.362,
+"a": [
+672,
+900,
+1344
+],
+"b": [
+500,
+990,
+1000
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 32.362,
+"t1": 35.429,
+"a": [
+640,
+1250,
+1000
+],
+"b": [
+640,
+1280,
+800
+]
+},
+{
+"img": "p03/img/X02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 35.429,
+"t1": 39.153,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+700,
+500,
+1350
+]
+},
+{
+"img": "p03/img/X02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 39.153,
+"t1": 42.769,
+"a": [
+1300,
+450,
+1000
+],
+"b": [
+1450,
+450,
+1000
+]
+},
+{
+"img": "p03/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 42.769,
+"t1": 50.34,
+"a": [
+900,
+480,
+1350
+],
+"b": [
+820,
+360,
+1000
+]
+},
+{
+"img": "p03/img/X03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 50.34,
+"t1": 53.821,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+800,
+600,
+1350
+]
+},
+{
+"img": "p03/img/X03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 53.821,
+"t1": 57.233,
+"a": [
+1056,
+870,
+1000
+],
+"b": [
+1056,
+860,
+1000
+]
+},
+{
+"img": "p03/img/X03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 57.233,
+"t1": 59.608,
+"a": [
+1456,
+420,
+1000
+],
+"b": [
+1456,
+380,
+1000
+],
+"shake": 4
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 59.608,
+"t1": 63.43,
+"a": [
+816,
+760,
+1100
+],
+"b": [
+816,
+720,
+760
+]
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 63.43,
+"t1": 68.825,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+500,
+1350
+]
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 68.825,
+"t1": 72.731,
+"a": [
+1548,
+500,
+1000
+],
+"b": [
+1548,
+420,
+1000
+]
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 72.731,
+"t1": 76.589,
+"a": [
+928,
+520,
+1000
+],
+"b": [
+928,
+480,
+1000
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 76.589,
+"t1": 81.279,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+560,
+1350
+],
+"blur": 10,
+"dark": 0.35
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 81.279,
+"t1": 83.985,
+"a": [
+1548,
+300,
+1000
+],
+"b": [
+1668,
+250,
+760
+]
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 83.985,
+"t1": 85.699,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1100,
+500,
+1350
+]
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 85.699,
+"t1": 87.419,
+"a": [
+1184,
+870,
+1000
+],
+"b": [
+1184,
+870,
+1000
+]
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 87.419,
+"t1": 90.741,
+"a": [
+816,
+720,
+900
+],
+"b": [
+816,
+700,
+700
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 90.741,
+"t1": 92.391,
+"a": [
+1648,
+260,
+800
+],
+"b": [
+1728,
+240,
+640
+]
+},
+{
+"img": "p03/img/S34.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 92.391,
+"t1": 96.352,
+"a": [
+880,
+420,
+1350
+],
+"b": [
+880,
+330,
+1000
+]
+},
+{
+"img": "p03/img/X07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 96.352,
+"t1": 101.227,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1000,
+600,
+1350
+]
+},
+{
+"img": "p03/img/X07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 101.227,
+"t1": 103.403,
+"a": [
+500,
+470,
+1000
+],
+"b": [
+500,
+440,
+1000
+]
+},
+{
+"img": "p03/img/X07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 103.403,
+"t1": 108.496,
+"a": [
+1472,
+460,
+1000
+],
+"b": [
+1472,
+430,
+1000
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 108.496,
+"t1": 113.426,
+"a": [
+1000,
+560,
+1350
+],
+"b": [
+1050,
+560,
+1350
+],
+"blur": 5,
+"dark": 0.15
+},
+{
+"img": "p03/img/N08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 113.426,
+"t1": 118.128,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1200,
+840,
+1000
+]
+},
+{
+"img": "p03/img/X03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 118.128,
+"t1": 125.282,
+"a": [
+560,
+520,
+1000
+],
+"b": [
+560,
+490,
+1000
+]
+},
+{
+"img": "p03/img/S01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 125.282,
+"t1": 127.909,
+"a": [
+920,
+400,
+1350
+],
+"b": [
+920,
+330,
+1000
+]
+},
+{
+"img": "p03/img/X09.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 127.909,
+"t1": 132.176,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+600,
+1350
+]
+},
+{
+"img": "p03/img/X09.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 132.176,
+"t1": 136.386,
+"a": [
+1548,
+600,
+1000
+],
+"b": [
+1548,
+600,
+1000
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 136.386,
+"t1": 139.896,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+736,
+520,
+1350
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 139.896,
+"t1": 141.359,
+"a": [
+1150,
+820,
+1000
+],
+"b": [
+1200,
+780,
+1000
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 141.359,
+"t1": 143.172,
+"a": [
+736,
+520,
+1200
+],
+"b": [
+736,
+520,
+1100
+],
+"shake": 6,
+"dark": 0.2
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 143.172,
+"t1": 146.248,
+"a": [
+1598,
+260,
+900
+],
+"b": [
+1698,
+220,
+700
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 146.248,
+"t1": 149.168,
+"a": [
+450,
+950,
+900
+],
+"b": [
+440,
+950,
+760
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 149.168,
+"t1": 153.937,
+"a": [
+1200,
+780,
+1000
+],
+"b": [
+1250,
+720,
+1000
+],
+"shake": 3
+},
+{
+"img": "p03/img/X12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 153.937,
+"t1": 162.531,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+650,
+1350
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 162.531,
+"t1": 165.394,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+420,
+1350
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 165.394,
+"t1": 172.088,
+"a": [
+976,
+870,
+1000
+],
+"b": [
+1000,
+870,
+1000
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 172.088,
+"t1": 174.856,
+"a": [
+1000,
+938,
+760
+],
+"b": [
+1000,
+940,
+640
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 174.856,
+"t1": 177.445,
+"a": [
+1100,
+560,
+1350
+],
+"b": [
+1024,
+576,
+2048
+]
+},
+{
+"img": "p03/img/X14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 177.445,
+"t1": 180.12,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+675,
+600,
+1350
+]
+},
+{
+"img": "p03/img/X14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 180.12,
+"t1": 182.756,
+"a": [
+1520,
+440,
+1000
+],
+"b": [
+1520,
+400,
+1000
+]
+},
+{
+"img": "p03/img/X12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 182.756,
+"t1": 187.613,
+"a": [
+576,
+560,
+1000
+],
+"b": [
+576,
+520,
+1000
+]
+},
+{
+"img": "p03/img/N08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 187.613,
+"t1": 193.85,
+"a": [
+1150,
+760,
+1350
+],
+"b": [
+1200,
+840,
+1000
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 193.85,
+"t1": 195.607,
+"a": [
+1024,
+500,
+1350
+],
+"b": [
+1024,
+460,
+1350
+],
+"blur": 6,
+"dark": 0.35
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 195.607,
+"t1": 197.238,
+"a": [
+600,
+1000,
+1200
+],
+"b": [
+560,
+1000,
+1000
+],
+"flash": 1
+},
+{
+"img": "p03/img/X15.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 197.238,
+"t1": 200.261,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+700,
+1350
+]
+},
+{
+"img": "p03/img/X15.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 200.261,
+"t1": 203.198,
+"a": [
+800,
+700,
+1000
+],
+"b": [
+960,
+820,
+1000
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 203.198,
+"t1": 209.009,
+"a": [
+672,
+900,
+1344
+],
+"b": [
+640,
+1250,
+1000
+]
+},
+{
+"img": "p03/img/S33.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 209.009,
+"t1": 212.627,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1300,
+520,
+1350
+]
+},
+{
+"img": "p03/img/S34.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 212.627,
+"t1": 216.063,
+"a": [
+880,
+420,
+1350
+],
+"b": [
+880,
+330,
+1000
+]
+},
+{
+"img": "p03/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 216.063,
+"t1": 223.735,
+"a": [
+672,
+900,
+1344
+],
+"b": [
+894,
+700,
+900
+]
+},
+{
+"img": "p03/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 223.735,
+"t1": 231.189,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+576,
+2048
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_X11_1.png",
+"size": 402,
+"t0": 4.451,
+"t1": 6.8,
+"from": [
+1101,
+158,
+1.751
+],
+"to": [
+1101,
+108,
+1.751
+],
+"bob": false,
+"wob": 5
+},
+{
+"img": "p03/img/cut_X11_0.png",
+"size": 381,
+"t0": 108.496,
+"t1": 113.426,
+"from": [
+1145,
+158,
+1.733
+],
+"to": [
+1145,
+108,
+1.733
+],
+"bob": false,
+"wob": 3
+},
+{
+"img": "p03/img/cut_X11_2.png",
+"size": 656,
+"t0": 141.359,
+"t1": 143.172,
+"from": [
+389,
+158,
+1.742
+],
+"to": [
+389,
+108,
+1.742
+],
+"bob": false,
+"wob": 7
+},
+{
+"img": "p03/img/cut_X11_3.png",
+"size": 379,
+"t0": 193.85,
+"t1": 195.607,
+"from": [
+115,
+158,
+1.751
+],
+"to": [
+115,
+108,
+1.751
+],
+"bob": false,
+"wob": 3
+},
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 223.735,
+"t1": 231.189,
+"from": [
+260,
+1100,
+0.8
+],
+"to": [
+260,
+160,
+0.8
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.75,
+"t1": 2.05,
+"text": "2:40 AM",
+"color": "#ffd84a"
+},
+{
+"t0": 33.866,
+"t1": 35.429,
+"text": "KEEP IT SAFE",
+"color": "#ffd84a"
+},
+{
+"t0": 36.847,
+"t1": 38.974,
+"text": "KEEP THE OLD QUARTER ALIVE",
+"color": "#ffd84a"
+},
+{
+"t0": 38.974,
+"t1": 40.747,
+"text": "2,000,000 VND / NIGHT",
+"color": "#ffffff"
+},
+{
+"t0": 40.747,
+"t1": 42.769,
+"text": "+50K VND ALTAR PHOTOS",
+"color": "#ff8fb1"
+},
+{
+"t0": 50.871,
+"t1": 57.233,
+"text": "60 BILLION VND",
+"color": "#ffd84a"
+},
+{
+"t0": 63.533,
+"t1": 65.488,
+"text": "INSPECTION 1",
+"color": "#ffffff"
+},
+{
+"t0": 68.976,
+"t1": 71.079,
+"text": "INSPECTION 2",
+"color": "#ffffff"
+},
+{
+"t0": 71.23,
+"t1": 74.461,
+"text": "30 ft… ?",
+"color": "#ffd84a"
+},
+{
+"t0": 74.836,
+"t1": 76.589,
+"text": "2:00 AM",
+"color": "#ffd84a"
+},
+{
+"t0": 77.922,
+"t1": 81.279,
+"text": "★☆☆☆☆ ONE-STAR REVIEW",
+"color": "#ffd84a"
+},
+{
+"t0": 91.021,
+"t1": 92.391,
+"text": "OFFERING ✔ · CONTRACT ✖",
+"color": "#ffd84a"
+},
+{
+"t0": 110.048,
+"t1": 113.426,
+"text": "JAR = GOLD?",
+"color": "#ffd84a"
+},
+{
+"t0": 113.649,
+"t1": 114.762,
+"text": "ADDENDUM",
+"color": "#ffffff"
+},
+{
+"t0": 114.762,
+"t1": 116.187,
+"text": "JAR → SELLER'S",
+"color": "#c58bff"
+},
+{
+"t0": 116.187,
+"t1": 118.128,
+"text": "INSIDE INCLUDED",
+"color": "#c58bff"
+},
+{
+"t0": 123.098,
+"t1": 125.282,
+"text": "6 BILLION DEPOSIT",
+"color": "#ffd84a"
+},
+{
+"t0": 151.384,
+"t1": 153.937,
+"text": "413",
+"color": "#ff5a4a"
+},
+{
+"t0": 163.838,
+"t1": 165.394,
+"text": "413 I.O.U.S",
+"color": "#ff5a4a"
+},
+{
+"t0": 165.588,
+"t1": 167.586,
+"text": "GREAT-GREAT-GRANDPA",
+"color": "#ffffff"
+},
+{
+"t0": 167.586,
+"t1": 169.712,
+"text": "GRANDPA",
+"color": "#ffffff"
+},
+{
+"t0": 169.712,
+"t1": 172.088,
+"text": "DAD",
+"color": "#ffffff"
+},
+{
+"t0": 175.139,
+"t1": 177.445,
+"text": "COLLATERAL: THIS HOUSE",
+"color": "#ff5a4a"
+},
+{
+"t0": 178.963,
+"t1": 182.756,
+"text": "LENDERS: HALF THE BLOCK",
+"color": "#ffd84a"
+},
+{
+"t0": 185.889,
+"t1": 187.613,
+"text": "DEAL OFF · DEPOSIT FORFEITED",
+"color": "#ff5a4a"
+},
+{
+"t0": 190.607,
+"t1": 193.85,
+"text": "YOURS ✔",
+"color": "#7dff9a"
+},
+{
+"t0": 199.522,
+"t1": 203.198,
+"text": "JAR VIEWING: 50,000 VND",
+"color": "#ffd84a"
+},
+{
+"t0": 216.285,
+"t1": 223.735,
+"text": "NEXT TIME",
+"color": "#ffd84a"
+},
+{
+"t0": 224.047,
+"t1": 231.189,
+"text": "SUBSCRIBE",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.45,
+"src": "p03/sfx/khoa.wav",
+"vol": 1
+},
+{
+"t": 9.87,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 10.213,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.35
+},
+{
+"t": 22.238,
+"src": "p02/sfx/tua.wav",
+"vol": 0.7
+},
+{
+"t": 23.201,
+"src": "p03/sfx/chuonggio.wav",
+"vol": 0.6
+},
+{
+"t": 41.243,
+"src": "p03/sfx/tach.wav",
+"vol": 0.8
+},
+{
+"t": 41.811,
+"src": "p03/sfx/tach.wav",
+"vol": 0.8
+},
+{
+"t": 50.871,
+"src": "p03/sfx/xu.wav",
+"vol": 0.7
+},
+{
+"t": 52.665,
+"src": "p03/sfx/khoan.wav",
+"vol": 0.45
+},
+{
+"t": 59.774,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 65.591,
+"src": "p03/sfx/khoa.wav",
+"vol": 0.9
+},
+{
+"t": 71.079,
+"src": "p03/sfx/thuoc.wav",
+"vol": 0.8
+},
+{
+"t": 74.687,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 78.143,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 90.881,
+"src": "p03/sfx/mam.wav",
+"vol": 0.9
+},
+{
+"t": 110.048,
+"src": "p03/sfx/xu.wav",
+"vol": 0.8
+},
+{
+"t": 114.762,
+"src": "p02/sfx/but.wav",
+"vol": 0.7
+},
+{
+"t": 117.655,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 127.909,
+"src": "p02/sfx/de.wav",
+"vol": 0.6
+},
+{
+"t": 139.158,
+"src": "p03/sfx/khoa.wav",
+"vol": 1
+},
+{
+"t": 153.937,
+"src": "p03/sfx/sang.wav",
+"vol": 0.5
+},
+{
+"t": 158.109,
+"src": "p03/sfx/hu.wav",
+"vol": 0.8
+},
+{
+"t": 163.838,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 165.588,
+"src": "p02/sfx/lat.wav",
+"vol": 0.6
+},
+{
+"t": 167.586,
+"src": "p02/sfx/lat.wav",
+"vol": 0.6
+},
+{
+"t": 169.712,
+"src": "p02/sfx/lat.wav",
+"vol": 0.6
+},
+{
+"t": 175.139,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 177.445,
+"src": "p02/sfx/riram.wav",
+"vol": 0.6
+},
+{
+"t": 185.889,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 193.301,
+"src": "p02/sfx/dau.wav",
+"vol": 0.9
+},
+{
+"t": 199.636,
+"src": "p03/sfx/xu.wav",
+"vol": 0.8
+},
+{
+"t": 201.235,
+"src": "sh6/sfx/cheer.wav",
+"vol": 0.25,
+"dur": 2.0
+},
+{
+"t": 208.403,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 216.285,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 229.864,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 2.05,
+"dur": 2.101,
+"text": "…four hundred twelve. Four hundred thirteen."
+},
+{
+"t": 4.451,
+"dur": 2.099,
+"text": "Wh… who's there? What are you counting?"
+},
+{
+"t": 6.8,
+"dur": 2.07,
+"text": "Counting what's ours, sir. Almost done."
+},
+{
+"t": 9.87,
+"dur": 6.853,
+"text": "Back again, huh? This week, the old quarter. A family home three generations old, and a jar nobody's opened."
+},
+{
+"t": 16.974,
+"dur": 3.626,
+"text": "And one kid guarding it. So well-behaved. Creepy well-behaved."
+},
+{
+"t": 20.85,
+"dur": 1.852,
+"text": "One month earlier. Let it tell you."
+},
+{
+"t": 23.201,
+"dur": 5.755,
+"text": "I'm this home's ma xo — a kitchen-corner ghost. I've lived by the stove since great-great-grandpa's time."
+},
+{
+"t": 29.206,
+"dur": 5.973,
+"text": "Great-great-grandpa gave me one job: our whole fortune's in the jar under the kitchen. Guard it. So I did."
+},
+{
+"t": 35.429,
+"dur": 7.09,
+"text": "Welcome! A three-generation home, keeping the old quarter's soul alive. Two million dong a night. Altar photos, fifty thousand dong extra."
+},
+{
+"t": 42.769,
+"dur": 7.17,
+"text": "Keeping the old quarter's soul alive by charging admission to see an altar. Great-great-grandpa would charge you too."
+},
+{
+"t": 50.34,
+"dur": 6.643,
+"text": "Sixty billion dong. Gut the whole inside. Keep the mossy gate for Western tourists to photograph as heritage."
+},
+{
+"t": 57.233,
+"dur": 2.124,
+"text": "Sign! Gut the kitchen too, for all I care."
+},
+{
+"t": 59.608,
+"dur": 3.322,
+"text": "Sell the house, and the house's things leave. I have to keep them here."
+},
+{
+"t": 63.43,
+"dur": 5.146,
+"text": "First inspection: the door locked itself. The surveyor spent two hours in the bathroom."
+},
+{
+"t": 68.825,
+"dur": 7.514,
+"text": "Second inspection: the house was thirty feet deep, but the surveyor couldn't reach the back wall. He checked the time. Two a.m."
+},
+{
+"t": 76.589,
+"dur": 4.44,
+"text": "A Western guest left a one-star review: “A kid counted money all night.”"
+},
+{
+"t": 81.279,
+"dur": 2.207,
+"text": "I'm not scaring anyone. I'm just counting."
+},
+{
+"t": 83.985,
+"dur": 3.183,
+"text": "Hey, ma xo. Sign and I'll cut you in. Here. Banana rice cake offering."
+},
+{
+"t": 87.419,
+"dur": 3.073,
+"text": "I don't take bribes, sir. I only eat rice cake offerings."
+},
+{
+"t": 92.391,
+"dur": 3.46,
+"text": "Takes the offering, skips the job. Now that's a gig I want."
+},
+{
+"t": 96.352,
+"dur": 4.625,
+"text": "We're selling the house, okay? Great-great-grandpa's jar under the kitchen isn't part of the deal!"
+},
+{
+"t": 101.227,
+"dur": 1.925,
+"text": "It's just an earthenware jar. Keep it."
+},
+{
+"t": 103.403,
+"dur": 9.774,
+"text": "Nobody opened it for three generations. The family was the richest on the block for three generations. To Mr. Khai, the jar could only hold gold."
+},
+{
+"t": 113.426,
+"dur": 4.452,
+"text": "Add a line. The jar under the floor belongs to the seller. All of it, including what's inside."
+},
+{
+"t": 118.128,
+"dur": 6.904,
+"text": "We open the jar Saturday morning, take inventory, then see the notary. You put down six billion dong. I'll hold it."
+},
+{
+"t": 125.282,
+"dur": 2.027,
+"text": "Remember that line. It'll come back."
+},
+{
+"t": 127.909,
+"dur": 8.226,
+"text": "Friday night, Mr. Khai sneaked into the kitchen with a shovel. He'd take the gold first, then leave the buyers an empty jar in the morning."
+},
+{
+"t": 136.386,
+"dur": 3.261,
+"text": "He went into the storage room for a pickaxe. The door shut."
+},
+{
+"t": 139.896,
+"dur": 0.962,
+"text": "…one. Two. Three."
+},
+{
+"t": 141.359,
+"dur": 1.563,
+"text": "Open up! I own this house!"
+},
+{
+"t": 143.172,
+"dur": 5.746,
+"text": "I know, sir. Selling a house means taking inventory. Great-great-grandpa said so. I'll count it for you."
+},
+{
+"t": 149.168,
+"dur": 2.769,
+"text": "…four hundred twelve. Four hundred thirteen. That's all."
+},
+{
+"t": 153.937,
+"dur": 8.344,
+"text": "Saturday morning. The storage room door opened by itself. They dug up the jar in front of the buyers, their lawyer, and half the neighborhood."
+},
+{
+"t": 162.531,
+"dur": 2.613,
+"text": "Four hundred thirteen papers. I.O.U.s, sir."
+},
+{
+"t": 165.394,
+"dur": 6.444,
+"text": "Great-great-grandpa borrowed to buy land. Grandpa borrowed to cover the interest. Your dad borrowed to refinance."
+},
+{
+"t": 172.088,
+"dur": 4.358,
+"text": "Three generations. Not one payment. Every time, they put up… this very house."
+},
+{
+"t": 177.445,
+"dur": 5.06,
+"text": "The lenders live right here. It's the old quarter. Every house still has the paperwork."
+},
+{
+"t": 182.756,
+"dur": 4.607,
+"text": "A notary can't sign off on a disputed house. We're out. You forfeit the deposit."
+},
+{
+"t": 187.613,
+"dur": 5.987,
+"text": "Oh, and that addendum you wrote yourself? The jar and everything inside belong to you. Congratulations."
+},
+{
+"t": 193.85,
+"dur": 1.356,
+"text": "So… what do I have left?"
+},
+{
+"t": 195.607,
+"dur": 0.832,
+"text": "The jar, sir."
+},
+{
+"t": 197.238,
+"dur": 5.709,
+"text": "Mr. Khai stopped selling the house. Now he sells tickets to see the jar. Twice the crowd."
+},
+{
+"t": 203.198,
+"dur": 5.311,
+"text": "I've guarded this family's things for three generations. They're the richest family on the block… in debt."
+},
+{
+"t": 209.009,
+"dur": 6.553,
+"text": "Three hundred years on top of a cabinet taught me one thing: if nobody dares open a jar, don't open it."
+},
+{
+"t": 216.063,
+"dur": 7.422,
+"text": "Next time: an apartment family doesn't notice their kid's been missing for three days… because everyone's glued to their phone."
+},
+{
+"t": 223.735,
+"dur": 6.254,
+"text": "Hit subscribe. Or tonight, something will sit behind your cabinet, counting the videos you haven't watched."
+}
+],
+"comments": [
+{
+"t": 78.143,
+"u": "@jess.k",
+"c": "kid counted money all night",
+"end": 81.279
+}
+],
+"voice": [
+{
+"t": 2.05,
+"src": "loc/en/vo/fdfc89ec6e.wav"
+},
+{
+"t": 4.451,
+"src": "loc/en/vo/e1d2e9fba1.wav"
+},
+{
+"t": 6.8,
+"src": "loc/en/vo/0a1656026d.wav"
+},
+{
+"t": 9.87,
+"src": "loc/en/vo/3b203868fb.wav"
+},
+{
+"t": 16.974,
+"src": "loc/en/vo/4b0bbcdc09.wav"
+},
+{
+"t": 20.85,
+"src": "loc/en/vo/d32844de29.wav"
+},
+{
+"t": 23.201,
+"src": "loc/en/vo/ac8fba79be.wav"
+},
+{
+"t": 29.206,
+"src": "loc/en/vo/500c4fd934.wav"
+},
+{
+"t": 35.429,
+"src": "loc/en/vo/3d761d803c.wav"
+},
+{
+"t": 42.769,
+"src": "loc/en/vo/b80bc5ad70.wav"
+},
+{
+"t": 50.34,
+"src": "loc/en/vo/05250decb3.wav"
+},
+{
+"t": 57.233,
+"src": "loc/en/vo/68b02fe825.wav"
+},
+{
+"t": 59.608,
+"src": "loc/en/vo/1564a53ae0.wav"
+},
+{
+"t": 63.43,
+"src": "loc/en/vo/68846b54c8.wav"
+},
+{
+"t": 68.825,
+"src": "loc/en/vo/34340f8cb6.wav"
+},
+{
+"t": 76.589,
+"src": "loc/en/vo/bc49305e3c.wav"
+},
+{
+"t": 81.279,
+"src": "loc/en/vo/29ad667670.wav"
+},
+{
+"t": 83.985,
+"src": "loc/en/vo/a03314c7ba.wav"
+},
+{
+"t": 87.419,
+"src": "loc/en/vo/ea5ac884f7.wav"
+},
+{
+"t": 92.391,
+"src": "loc/en/vo/bacc7eaf4e.wav"
+},
+{
+"t": 96.352,
+"src": "loc/en/vo/867c8030d3.wav"
+},
+{
+"t": 101.227,
+"src": "loc/en/vo/e3208196f9.wav"
+},
+{
+"t": 103.403,
+"src": "loc/en/vo/dd8ca4c35a.wav"
+},
+{
+"t": 113.426,
+"src": "loc/en/vo/96951ae5ce.wav"
+},
+{
+"t": 118.128,
+"src": "loc/en/vo/22c79837c8.wav"
+},
+{
+"t": 125.282,
+"src": "loc/en/vo/06cc94b17a.wav"
+},
+{
+"t": 127.909,
+"src": "loc/en/vo/0b6ed7ed70.wav"
+},
+{
+"t": 136.386,
+"src": "loc/en/vo/9921560f5d.wav"
+},
+{
+"t": 139.896,
+"src": "loc/en/vo/0a2cfe5ead.wav"
+},
+{
+"t": 141.359,
+"src": "loc/en/vo/c9de86f311.wav"
+},
+{
+"t": 143.172,
+"src": "loc/en/vo/5d44fce4fa.wav"
+},
+{
+"t": 149.168,
+"src": "loc/en/vo/40ac90f288.wav"
+},
+{
+"t": 153.937,
+"src": "loc/en/vo/0e48f11620.wav"
+},
+{
+"t": 162.531,
+"src": "loc/en/vo/2a432e42b1.wav"
+},
+{
+"t": 165.394,
+"src": "loc/en/vo/b24bdb6e4a.wav"
+},
+{
+"t": 172.088,
+"src": "loc/en/vo/f027f7581b.wav"
+},
+{
+"t": 177.445,
+"src": "loc/en/vo/54070e5636.wav"
+},
+{
+"t": 182.756,
+"src": "loc/en/vo/7290099b25.wav"
+},
+{
+"t": 187.613,
+"src": "loc/en/vo/e8d67c5f12.wav"
+},
+{
+"t": 193.85,
+"src": "loc/en/vo/1203fded95.wav"
+},
+{
+"t": 195.607,
+"src": "loc/en/vo/a6a9ea5d17.wav"
+},
+{
+"t": 197.238,
+"src": "loc/en/vo/f7055e6525.wav"
+},
+{
+"t": 203.198,
+"src": "loc/en/vo/446abbe5da.wav"
+},
+{
+"t": 209.009,
+"src": "loc/en/vo/358481dcdb.wav"
+},
+{
+"t": 216.063,
+"src": "loc/en/vo/54671ffe33.wav"
+},
+{
+"t": 223.735,
+"src": "loc/en/vo/fce05d0d31.wav"
+}
+],
+"mutes": [
+[
+0.1,
+2.05
+],
+[
+1.85,
+4.451
+],
+[
+6.6,
+9.87
+],
+[
+59.408,
+63.43
+],
+[
+136.186,
+139.896
+],
+[
+139.696,
+141.359
+],
+[
+141.159,
+143.172
+],
+[
+142.972,
+149.168
+],
+[
+148.968,
+153.937
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

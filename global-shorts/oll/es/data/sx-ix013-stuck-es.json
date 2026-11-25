@@ -1,0 +1,67 @@
+{
+ "title": "400.000 marinos quedaron varados en 2020",
+ "hook": "VARADOS EN EL MAR",
+ "asof": "Reglas del MLC 2006 · datos hasta 2025",
+ "world": "boxship",
+ "long": "IX013",
+ "chapters": [
+  {
+   "id": "change",
+   "hud": "DÍA 270",
+   "chip": "DIC 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Imagina terminar tu trabajo y no poder volver a casa.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "Las tripulaciones de los portacontenedores suelen embarcar de seis a nueve meses.",
+     "v": "wide"
+    },
+    {
+     "s": "Las reglas permiten hasta once meses a bordo sin permiso.",
+     "v": "clock",
+     "st": [
+      "11 MESES",
+      "máximo · MLC"
+     ]
+    },
+    {
+     "s": "En 2020, el COVID cerró las fronteras.",
+     "v": "port"
+    },
+    {
+     "s": "Las tripulaciones no podían volar a casa ni llegaban reemplazos.",
+     "v": "gangway"
+    },
+    {
+     "s": "En diciembre de 2020, la agencia marítima de la ONU dijo que más de 400.000 marinos estaban varados en el mar.",
+     "v": "sea",
+     "st": [
+      "400.000+",
+      "varados · OMI"
+     ]
+    },
+    {
+     "s": "Muchos ya habían superado la fecha de fin de sus contratos.",
+     "v": "cabin",
+     "you": "cabin",
+     "plane": "phone"
+    },
+    {
+     "s": "Llamar a casa era todo lo que tenían.",
+     "v": "cabin",
+     "you": "cabin",
+     "plane": "phone"
+    },
+    {
+     "s": "¿Podrías quedarte seis meses más a bordo?",
+     "v": "mess",
+     "you": "mess"
+    }
+   ]
+  }
+ ]
+}

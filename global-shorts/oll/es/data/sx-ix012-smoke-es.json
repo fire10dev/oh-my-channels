@@ -1,0 +1,77 @@
+{
+ "title": "Por qué el Vaticano quema las papeletas para anunciar al nuevo papa",
+ "hook": "¿NEGRO O BLANCO?",
+ "asof": "Reglas de Universi Dominici Gregis (1996) · cónclave de mayo de 2025",
+ "world": "conclave",
+ "long": "IX012",
+ "chapters": [
+  {
+   "id": "smoke",
+   "hud": "DÍA 1",
+   "chip": "7 DE MAYO DE 2025",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "El mundo entero mira una pequeña chimenea.",
+     "v": "chimney",
+     "plane": "smoke:black"
+    },
+    {
+     "s": "En la Capilla Sixtina, los cardenales eligen al papa.",
+     "v": "chapel",
+     "you": "chapel"
+    },
+    {
+     "s": "Cada uno escribe un nombre en una papeleta.",
+     "v": "ballot"
+    },
+    {
+     "s": "Les piden que disimulen su letra.",
+     "v": "ballot"
+    },
+    {
+     "s": "Para ganar, alguien necesita dos tercios de los votos.",
+     "v": "urn",
+     "you": "urn",
+     "st": [
+      "⅔",
+      "votos para ganar"
+     ]
+    },
+    {
+     "s": "Tras el recuento, las papeletas van al fuego.",
+     "v": "stove",
+     "plane": "fire"
+    },
+    {
+     "s": "El humo negro significa que aún no hay papa.",
+     "v": "chimney",
+     "plane": "smoke:black"
+    },
+    {
+     "s": "En mayo de 2025, el humo de la primera noche fue negro.",
+     "v": "square"
+    },
+    {
+     "s": "A la tarde siguiente, en la cuarta votación, el humo se volvió blanco.",
+     "v": "chimney",
+     "plane": "smoke:white"
+    },
+    {
+     "s": "El nuevo papa fue León XIV, el primero de Estados Unidos.",
+     "v": "balcony",
+     "plane": "crowd",
+     "st": [
+      "LEÓN XIV",
+      "8 de mayo de 2025"
+     ]
+    },
+    {
+     "s": "¿Esperarías en la plaza para ver el humo?",
+     "v": "square",
+     "plane": "crowd"
+    }
+   ]
+  }
+ ]
+}

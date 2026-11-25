@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "actions": [
+    {
+      "id": "write",
+      "stage": "script",
+      "label": "Viết + review (Codex)",
+      "symbol": "pencil.and.outline",
+      "only": "long",
+      "run": [
+        "./run_codex.sh",
+        "{code}"
+      ],
+      "cwd": "long",
+      "kind": "review",
+      "help": "long/run_codex.sh <L#>: Codex viết EN rồi VI và tự review. Mã L1-en → truyền L1-en (script tự xử lý)"
+    },
+    {
+      "id": "lint",
+      "stage": "script",
+      "label": "Lint kịch bản",
+      "symbol": "checklist",
+      "only": "long",
+      "run": [
+        "python3",
+        "long/lint_long.py",
+        "{code}"
+      ],
+      "kind": "review"
+    },
+    {
+      "id": "tts",
+      "stage": "assets",
+      "label": "TTS + caption",
+      "symbol": "waveform",
+      "only": "long",
+      "run": [
+        "tts/.venv/bin/python",
+        "-I",
+        "long/make_long.py",
+        "{code}"
+      ],
+      "kind": "render",
+      "refresh_manifest": true
+    },
+    {
+      "id": "render",
+      "stage": "render",
+      "label": "Render long",
+      "symbol": "film",
+      "only": "long",
+      "run": [
+        "./long/render_long.sh",
+        "{code}"
+      ],
+      "kind": "render",
+      "refresh_manifest": true
+    },
+    {
+      "id": "finalize",
+      "stage": "render",
+      "label": "Finalize + chapters",
+      "symbol": "flag.checkered",
+      "only": "long",
+      "run": [
+        "python3",
+        "long/finalize_long.py",
+        "{code}"
+      ],
+      "kind": "render"
+    },
+    {
+      "id": "manifest",
+      "stage": "render",
+      "label": "Cập nhật tab Dựng",
+      "symbol": "arrow.triangle.2.circlepath",
+      "only": "long",
+      "run": [
+        "python3",
+        "long/hub_adapter.py",
+        "{code}",
+        "--register"
+      ],
+      "refresh_manifest": true
+    },
+    {
+      "id": "package",
+      "stage": "ready",
+      "label": "Thumbnail + metadata",
+      "symbol": "photo",
+      "only": "long",
+      "run": [
+        "tts-vi/.venv/bin/python",
+        "long/package_long.py"
+      ],
+      "kind": "render"
+    }
+  ],
+  "prompts": [
+    {
+      "stage": "idea",
+      "label": "Brainstorm 10 chủ đề",
+      "text": "Brainstorm 10 chủ đề long mới cho kênh (stickman Pen/Buff, self-help khoa học). Mỗi chủ đề: tiêu đề YouTube, hook 1 câu, vì sao người ta click. Đối chiếu long/scripts/ để không trùng."
+    },
+    {
+      "stage": "script",
+      "label": "Đọc + chê kịch bản",
+      "text": "Đọc long/scripts/{code}.json. Chỉ ra 5 chỗ yếu nhất (hook, nhịp, câu dài, chỗ giảng đạo) kèm câu sửa cụ thể. Chưa sửa file."
+    },
+    {
+      "stage": "render",
+      "label": "Vì sao render lỗi?",
+      "text": "Đọc log render gần nhất của {code} trong long/ và long/build/{code}/, tìm nguyên nhân lỗi, đề xuất cách sửa."
+    },
+    {
+      "stage": "ready",
+      "label": "Viết title/mô tả",
+      "text": "Viết 3 phương án title (< 70 ký tự) + mô tả + tag cho {code} dựa trên long/scripts/{code}.json và long/final/{code}*.chapters.txt. Khi tôi chọn thì ghi bằng ythub set."
+    }
+  ],
+  "editors": []
+}

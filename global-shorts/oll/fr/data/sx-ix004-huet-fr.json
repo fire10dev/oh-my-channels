@@ -1,0 +1,91 @@
+{
+ "title": "Les ouvriers pétroliers s’entraînent à l’envers sous l’eau",
+ "hook": "SOUS L’EAU",
+ "asof": "Chiffres de 2026",
+ "world": "rig",
+ "long": "IX004",
+ "chapters": [
+  {
+   "id": "huet",
+   "hud": "JOUR 0",
+   "chip": "ENTRAÎNEMENT",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "pool",
+     "plane": "flip",
+     "s": "Avant de bosser sur une plateforme en mer du Nord, tu dois t’échapper de là."
+    },
+    {
+     "v": "heli",
+     "plane": "fly",
+     "s": "Presque tout le monde rejoint les plateformes en hélicoptère."
+    },
+    {
+     "v": "heli",
+     "s": "Alors tu t’entraînes au pire."
+    },
+    {
+     "v": "pool",
+     "you": "pool",
+     "st": [
+      "HUET",
+      "exercice d’évacuation sous-marine d’hélicoptère"
+     ],
+     "s": "Ça s’appelle le HUET."
+    },
+    {
+     "v": "pool",
+     "you": "pool",
+     "s": "Une cabine d’hélicoptère factice est plongée dans une piscine,"
+    },
+    {
+     "v": "pool",
+     "plane": "flip",
+     "s": "puis retournée à l’envers."
+    },
+    {
+     "v": "pool",
+     "plane": "flip",
+     "you": "pool",
+     "s": "Tu t’entraînes à sortir sous l’eau, dans le noir."
+    },
+    {
+     "v": "heli",
+     "st": [
+      "OBLIGATOIRE",
+      "OPITO, 2024"
+     ],
+     "s": "C’est obligatoire pour tous ceux qui partent en hélicoptère au large."
+    },
+    {
+     "v": "heli",
+     "s": "Et puis, il y a ta carrure."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "56 CM",
+      "small": "largeur d’épaules = très large (XBR) · depuis 2014"
+     },
+     "s": "Épaules de 56 centimètres ou plus ? Très large."
+    },
+    {
+     "v": "heli",
+     "plane": "fly",
+     "s": "Tu t’assois près des hublots les plus grands,"
+    },
+    {
+     "v": "heli",
+     "you": "heli",
+     "s": "pour pouvoir encore te faufiler dehors en combinaison de survie."
+    },
+    {
+     "v": "pool",
+     "plane": "flip",
+     "s": "Tu réussirais à sortir ?"
+    }
+   ]
+  }
+ ]
+}

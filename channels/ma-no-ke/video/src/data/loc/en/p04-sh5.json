@@ -1,0 +1,371 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 27.934,
+"shots": [
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 1.65,
+"a": [
+512,
+576,
+648
+],
+"b": [
+512,
+640,
+460
+],
+"flash": 1
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 1.65,
+"t1": 4.65,
+"a": [
+512,
+576,
+648
+],
+"b": [
+1296,
+576,
+648
+]
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.65,
+"t1": 7.614,
+"a": [
+1456,
+743,
+460
+],
+"b": [
+1456,
+800,
+340
+]
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 7.614,
+"t1": 12.019,
+"a": [
+512,
+640,
+460
+],
+"b": [
+480,
+743,
+460
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 12.019,
+"t1": 14.808,
+"a": [
+400,
+576,
+648
+],
+"b": [
+450,
+576,
+648
+],
+"blur": 14,
+"dark": 0.5
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.808,
+"t1": 16.228,
+"a": [
+1560,
+743,
+460
+],
+"b": [
+1560,
+780,
+340
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.228,
+"t1": 17.602,
+"a": [
+1020,
+500,
+460
+],
+"b": [
+1020,
+460,
+340
+]
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.602,
+"t1": 20.474,
+"a": [
+512,
+480,
+340
+],
+"b": [
+512,
+470,
+340
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 20.474,
+"t1": 23.371,
+"a": [
+560,
+700,
+760
+],
+"b": [
+540,
+660,
+560
+]
+},
+{
+"img": "p04/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.371,
+"t1": 27.534,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p04/img/cut_G11_1.png",
+"size": 412,
+"t0": 12.019,
+"t1": 14.808,
+"from": [
+268,
+808,
+1.323
+],
+"to": [
+268,
+768,
+1.323
+],
+"bob": false,
+"wob": 2
+},
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 23.371,
+"t1": 27.534,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.07,
+"t1": 1.65,
+"text": "THREE DAYS OF CALLS",
+"color": "#ffd84a"
+},
+{
+"t0": 1.65,
+"t1": 3.364,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 5.65,
+"t1": 7.614,
+"text": "3 PEOPLE · 3 SCREENS",
+"color": "#ffd84a"
+},
+{
+"t0": 9.692,
+"t1": 12.019,
+"text": "SUIT UP TOP · SHORTS BELOW",
+"color": "#ffffff"
+},
+{
+"t0": 14.808,
+"t1": 16.056,
+"text": "MUD",
+"color": "#ff5a4a"
+},
+{
+"t0": 18.845,
+"t1": 20.474,
+"text": "CAMERA OFF",
+"color": "#ff5a4a"
+},
+{
+"t0": 23.371,
+"t1": 25.149,
+"text": "WHERE'S THE REAL KID?",
+"color": "#ffd84a"
+},
+{
+"t0": 25.149,
+"t1": 27.534,
+"text": "▼ FULL EPISODE: LINK BELOW",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.14,
+"src": "p04/sfx/hop.wav",
+"vol": 0.7
+},
+{
+"t": 3.364,
+"src": "p04/sfx/chotdon.wav",
+"vol": 0.6
+},
+{
+"t": 19.259,
+"src": "p04/sfx/hop.wav",
+"vol": 0.4
+},
+{
+"t": 23.371,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 26.275,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 1.65,
+"dur": 5.714,
+"text": "Dad's on a video call. Mom's livestreaming. The kid's gaming. Three people, three screens, one couch."
+},
+{
+"t": 7.614,
+"dur": 4.156,
+"text": "This dad spent three days on video calls. No clue where his kid went."
+},
+{
+"t": 12.019,
+"dur": 2.539,
+"text": "Bin's so good today. Hasn't asked for a thing."
+},
+{
+"t": 14.808,
+"dur": 2.494,
+"text": "The kid in the chair was mud. Dad nodded."
+},
+{
+"t": 17.602,
+"dur": 2.072,
+"text": "Yeah. I'm gonna turn my camera off."
+},
+{
+"t": 20.474,
+"dur": 2.297,
+"text": "Three days. He said exactly one thing. That thing."
+},
+{
+"t": 23.371,
+"dur": 2.963,
+"text": "Where's the real kid? Full episode — link below."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 1.65,
+"src": "loc/en/vo/af4ca5b5f6.wav"
+},
+{
+"t": 7.614,
+"src": "loc/en/vo/20d71d169e.wav"
+},
+{
+"t": 12.019,
+"src": "loc/en/vo/90bade3405.wav"
+},
+{
+"t": 14.808,
+"src": "loc/en/vo/4bfd67f1de.wav"
+},
+{
+"t": 17.602,
+"src": "loc/en/vo/ec9ff58369.wav"
+},
+{
+"t": 20.474,
+"src": "loc/en/vo/68f9e8cd37.wav"
+},
+{
+"t": 23.371,
+"src": "loc/en/vo/22d4a30321.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

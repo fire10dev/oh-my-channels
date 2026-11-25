@@ -1,0 +1,726 @@
+[
+ {
+  "id": "s287",
+  "mascot": "pen",
+  "title": "Why Spending Money Hurts",
+  "mechanism": "Pain of Paying",
+  "lines": [
+   {
+    "vo": "Tapping your card for a normal lunch still triggers that instant micro-flinch.",
+    "text": "THE WALLET FLINCH",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Watching that balance drop feels like losing a piece of safety.",
+    "text": "PAIN OF PAYING",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Your brain registers routine spending almost like physical pain.",
+    "text": "ALARM BELLS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Try preloading a small weekly spending account every Monday.",
+    "text": "FENCE OFF CASH",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "When money is assigned to care, buying food brings zero guilt.",
+    "text": "ZERO GUILT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "With care planned in advance, why treat basic lunch like a crime?",
+    "text": "QUIET PERMISSION",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s287vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao tieu tien an cung thay xot?",
+  "title_vi": "Vì sao tiêu tiền ăn cũng thấy xót?",
+  "mechanism": "Pain of Paying",
+  "lines": [
+   {
+    "vo": "Mỗi lần quét mã trả tiền bát phở, bạn lại thấy xót ruột.",
+    "text": "QUÉT MÃ LÀ XÓT",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Số dư vơi đi làm não bạn lo lắng như mất đi sự an toàn.",
+    "text": "CẢM GIÁC XÓT TIỀN",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Áp lực gửi tiền về nhà khiến mỗi bát phở cũng hóa xa xỉ.",
+    "text": "BÁT PHỞ CŨNG TIẾC",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Đầu tuần, hãy tách riêng một khoản nhỏ chỉ để chăm sóc bản thân.",
+    "text": "TÁCH RIÊNG KHOẢN CHI",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Khoản này đã khoanh vùng riêng cho bạn, cứ thế tiêu không phải nghĩ.",
+    "text": "TIÊU KHÔNG ÁY NÁY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Khi được phép chăm sóc mình trước, bạn thấy nhẹ nhõm hơn không?",
+    "text": "CHĂM SÓC CHÍNH MÌNH",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s288",
+  "mascot": "buff",
+  "title": "Stop Skimping On Basics",
+  "mechanism": "Mental Budgeting",
+  "lines": [
+   {
+    "vo": "Fifty bucks on drinks with coworkers? Easy. Ten on fresh socks? Agony.",
+    "text": "MAKE IT MAKE SENSE",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Classic mental budgeting. Your brain invents imaginary rulebooks for identical cash.",
+    "text": "MENTAL BUDGETS",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Social dinner gets labeled team bonding. Personal comfort gets labeled selfish indulgence.",
+    "text": "FAKE CATEGORIES",
+    "actor": "arms_crossed_no",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Drop the drama. Your body is equipment. Maintenance is a non-negotiable set.",
+    "text": "BODY IS GEAR",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Log personal care as essential upkeep. Service the engine, or stall out.",
+    "text": "REPAIR YOURSELF",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s288vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Thoang voi ban be, ki bo voi ban than",
+  "title_vi": "Thoáng với bạn bè, ki bo với bản thân",
+  "mechanism": "Mental Budgeting",
+  "lines": [
+   {
+    "vo": "Bao bạn bè nửa triệu thì dễ, mua cái áo thun trăm nghìn lại tiếc.",
+    "text": "TIÊU TIỀN VÔ LÝ",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Ừ, tin. Não tự chia tiền thành các ngăn vô hình rồi tự làm khó mình.",
+    "text": "CÁC NGĂN VÔ HÌNH",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bấm bụng chi tiền xã giao để giữ thể diện, còn bản thân thì để mặc.",
+    "text": "GIỮ THỂ DIỆN",
+    "actor": "arms_crossed_no",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Đi tập không ai nhịn ăn. Đồ dùng tốt chính là đồ bảo hộ.",
+    "text": "TRANG BỊ BẢO HỘ",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Coi đồ dùng cơ bản là chi phí bảo trì. Thay mới hôm nay đi.",
+    "text": "BẢO DƯỠNG BẢN THÂN",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s289",
+  "mascot": "pen",
+  "title": "Why Spending Savings Hurts",
+  "mechanism": "Endowment Effect",
+  "lines": [
+   {
+    "vo": "You saved for a work laptop, but spending it feels like defeat.",
+    "text": "SAVED BUT FROZEN",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Endowment effect makes your brain guard bank numbers like sacred territory.",
+    "text": "ENDOWMENT EFFECT",
+    "color": "red",
+    "actor": "panic",
+    "prop": "brain"
+   },
+   {
+    "vo": "Your mind stops seeing buying power and turns savings into museum trophies.",
+    "text": "MUSEUM TROPHY",
+    "actor": "think",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "The higher the balance climbs, the more spending feels like losing ground.",
+    "text": "FEARING THE DROP",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "When a dedicated purchase fund hits its target, set a clear deadline.",
+    "text": "SET EXPIRATION",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Give yourself two weeks to deploy it before money turns untouchable.",
+    "text": "TWO-WEEK WINDOW",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Money is an active tool for your life, not a frozen trophy.",
+    "text": "MONEY IS A TOOL",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s289vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Du tien tiet kiem sao khong dam tieu?",
+  "title_vi": "Đủ tiền tiết kiệm sao không dám tiêu?",
+  "mechanism": "Endowment Effect",
+  "lines": [
+   {
+    "vo": "Gom đủ tiền đổi máy tính để làm việc, bạn lại không dám mua.",
+    "text": "ĐỦ TIỀN NHƯNG SỢ",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Tiền vào tài khoản rồi, não liền coi số dư như báu vật.",
+    "text": "HIỆU ỨNG SỞ HỮU",
+    "color": "red",
+    "actor": "panic",
+    "prop": "brain"
+   },
+   {
+    "vo": "Rút ra một triệu cũng thấy xót xa như vừa mất đi chỗ dựa.",
+    "text": "SỢ SỤT SỐ DƯ",
+    "actor": "think",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Bạn quên mất quỹ này lập ra để nâng cấp công cụ kiếm tiền.",
+    "text": "QUỸ MUA CÔNG CỤ",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Hãy đặt hạn chót mua hàng khi vừa gom đủ số tiền mục tiêu.",
+    "text": "ĐẶT HẠN HAI TUẦN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Tự cho mình hai tuần để xuống tiền mua chiếc máy tính mới.",
+    "text": "XUỐNG TIỀN ĐÚNG HẸN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Tiền trong sổ là công cụ phục vụ bạn, không phải đồ cổ để ngắm.",
+    "text": "TIỀN LÀ CÔNG CỤ",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s290",
+  "mascot": "buff",
+  "title": "Stop Feeling Guilty Spending",
+  "mechanism": "Guilt Aversion",
+  "lines": [
+   {
+    "vo": "Buying decent work shoes feels like you robbed your parents. Come on.",
+    "text": "PHANTOM GUILT",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Guilt aversion. You carry heavy debts that nobody actually billed you for.",
+    "text": "GUILT AVERSION",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Your brain imagines disappointment and punishes you before anyone even asks.",
+    "text": "PUNISHING YOURSELF",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Lock in your family transfer on payday. That rep is finished.",
+    "text": "FINISH THAT REP",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Now gear up. You cannot bench heavy weight on zero calories.",
+    "text": "GEAR UP PROPERLY",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Fuel the lifter first, or drop the barbell. Your call.",
+    "text": "FUEL THE LIFTER",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s290vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Chi cho minh co phai bat hieu khong?",
+  "title_vi": "Chi cho mình có phải bất hiếu không?",
+  "mechanism": "Guilt Aversion",
+  "lines": [
+   {
+    "vo": "Mua đôi giày đi làm tử tế mà thấy có lỗi với bố mẹ.",
+    "text": "TỘI LỖI ẢO GIÁC",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bạn tự dằn vặt vì những món nợ bố mẹ chưa từng đòi.",
+    "text": "NỢ CHƯA TỪNG ĐÒI",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Ừ, tin. Cứ tự nhịn ăn nhịn mặc rồi tưởng thế là có hiếu.",
+    "text": "TỰ KHỔ ĐỂ CÓ HIẾU",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cài chuyển tiền về quê đầu tháng, coi như xong hiệp một.",
+    "text": "XONG HIỆP MỘT",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Ra sàn đấu mà để cơ thể kiệt sức thì gánh ai?",
+    "text": "GÁNH TEAM SAO NỔI",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Nạp năng lượng cho trụ cột, hoặc sập nguồn cả hai. Chọn đi.",
+    "text": "CHỌN BỀN HAY SẬP",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s291",
+  "mascot": "pen",
+  "title": "Escape The Scarcity Trap",
+  "mechanism": "Scarcity Mindset",
+  "lines": [
+   {
+    "vo": "Your income grew, but you still spend twenty minutes comparing cheap shampoo.",
+    "text": "OLD PANIC HABITS",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Past financial stress trained your brain to treat every checkout like an emergency.",
+    "text": "SCARCITY MINDSET",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Past hardships make every minor expense feel like a threat to survival.",
+    "text": "PAST GHOSTS",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Suffering through poor quality goods is often just fake thrift.",
+    "text": "FAKE THRIFT",
+    "actor": "confused_shrug",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "To retrain your instincts, try one small calibration test this week.",
+    "text": "CALIBRATION TEST",
+    "color": "green",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "Upgrade one daily item by two dollars, like buying fresh fruit.",
+    "text": "TINY UPGRADE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Notice that your account survives and your daily comfort improves.",
+    "text": "SAFETY REMAINS",
+    "color": "green",
+    "actor": "meditating",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Your life changed, so your habits can gently catch up too.",
+    "text": "GENTLE CATCH UP",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s291vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Luong tang sao thoi quen ngheo van con?",
+  "title_vi": "Lương tăng sao thói quen nghèo vẫn còn?",
+  "mechanism": "Scarcity Mindset",
+  "lines": [
+   {
+    "vo": "Lương tăng rồi, mua chai sữa tắm bạn vẫn đắn đo từng đồng.",
+    "text": "SO ĐO TỪNG ĐỒNG",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Thói quen túng thiếu ngày xưa vẫn khiến bạn thấy chi tiền là có tội.",
+    "text": "TÂM LÝ THIẾU THỐN",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bạn vô thức coi mọi khoản chi tiêu thường ngày như một mối đe dọa.",
+    "text": "NỖI LO ẢO TƯỞNG",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cắn răng dùng đồ rẻ tiền hỏng hóc thực ra không phải là tiết kiệm.",
+    "text": "TIẾT KIỆM NỬA VỜI",
+    "actor": "confused_shrug",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Hãy thử một bài kiểm tra nhỏ để tập làm quen thực tại mới.",
+    "text": "BÀI KIỂM TRA NHỎ",
+    "color": "green",
+    "actor": "think",
+    "prop": "target"
+   },
+   {
+    "vo": "Nâng cấp một món đồ quen thuộc thêm hai mươi nghìn đồng tuần này.",
+    "text": "NÂNG CẤP MỘT MÓN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Để ý xem ví tiền của bạn vẫn ổn và năng lượng sống tốt hơn.",
+    "text": "BÌNH AN TRỞ LẠI",
+    "color": "green",
+    "actor": "meditating",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Thu nhập đã khá hơn, đừng bắt bản thân sống mãi trong thiếu thốn.",
+    "text": "THÓI QUEN MỚI",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s292",
+  "mascot": "buff",
+  "title": "Suffering Is Not Virtue",
+  "mechanism": "Self-Signaling",
+  "lines": [
+   {
+    "vo": "Bought a decent jacket and immediately felt like a shallow snob? Please.",
+    "text": "THE SHALLOW SNOB",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Self-signaling. You treat checkout receipts like a purity test for your soul.",
+    "text": "SELF-SIGNALING",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Freezing in a tattered coat builds zero discipline. It just ruins focus.",
+    "text": "PAIN IS NOT VIRTUE",
+    "actor": "arms_crossed_no",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Lifters do not squat in worn slippers to look humble. Gear up.",
+    "text": "GEAR UP TO LIFT",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "target"
+   },
+   {
+    "vo": "Run the utility test. If it protects health, it is essential gear.",
+    "text": "THE UTILITY TEST",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Equip the athlete properly, or keep lifting on broken joints. Your move.",
+    "text": "EQUIP THE ATHLETE",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s292vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Chiu kho khong lam ban thanh thanh nhan",
+  "title_vi": "Chịu khổ không làm bạn thành thánh nhân",
+  "mechanism": "Self-Signaling",
+  "lines": [
+   {
+    "vo": "Sắm cái áo ấm tử tế mà sợ người ta bảo mình đua đòi?",
+    "text": "SỢ BỊ COI ĐUA ĐÒI",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bạn đang dùng đồ cũ nát để tự chứng minh mình là người tiết kiệm.",
+    "text": "TỰ CHỨNG MINH",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Chịu lạnh để tỏ ra tiết kiệm không làm bạn thành người tốt hơn.",
+    "text": "CHỊU KHỔ VÔ ÍCH",
+    "actor": "arms_crossed_no",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Đi tập tạ không ai xỏ dép lê. Đi làm phải trang bị chuẩn.",
+    "text": "TRANG BỊ ĐỂ ĐẤU",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Món nào bảo vệ sức khỏe và hiệu suất, đó là chi phí công việc.",
+    "text": "BẢO VỆ HIỆU SUẤT",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Trang bị đàng hoàng để làm việc, hoặc ngồi chịu rét. Chọn đi.",
+    "text": "TRANG BỊ NGAY",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s293",
+  "mascot": "pen",
+  "title": "Why Price Tags Scare You",
+  "mechanism": "Affect Heuristic",
+  "lines": [
+   {
+    "vo": "You see a fifty-dollar price tag, and sudden panic shuts down thinking.",
+    "text": "STICKER SHOCK",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Affect heuristic swaps careful calculations for an instant gut reaction of dread.",
+    "text": "AFFECT HEURISTIC",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "A quick flash of anxiety tricks you into thinking tools are wastes.",
+    "text": "FEAR TRICKS YOU",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cool the fear by running a cost-per-day audit right at the shelf.",
+    "text": "COST PER USE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "A desk lamp protecting your eyes for years costs pennies a day.",
+    "text": "PENNIES A DAY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "If a tool protects your focus for years, what are you saving?",
+    "text": "WHAT DO YOU SAVE?",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s293vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Nhin gia tien la so het dam mua?",
+  "title_vi": "Nhìn giá tiền là sợ hết dám mua?",
+  "mechanism": "Affect Heuristic",
+  "lines": [
+   {
+    "vo": "Vừa nhìn thấy giá một triệu, bạn chùn tay cất lại ngay vì thấy đắt.",
+    "text": "CHOÁNG VÌ BẢNG GIÁ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Cảm xúc lấn át lý trí, biến mọi công cụ hữu ích thành lãng phí.",
+    "text": "CẢM TÍNH ĐÁNH LỪA",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bạn lo tốn tiền mà quên mất công cụ tốt giúp mình cày cuốc kiếm thêm.",
+    "text": "BỎ QUÊN HIỆU SUẤT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hãy chia nhỏ giá tiền theo số ngày sử dụng thực tế mỗi năm.",
+    "text": "CHIA THEO NGÀY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Chiếc đèn bàn bảo vệ mắt cả năm, chia ra mỗi ngày vài nghìn đồng.",
+    "text": "VÀI NGHÌN MỖI NGÀY",
+    "color": "green",
+    "actor": "front",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Tính theo từng ngày sử dụng, nỗi sợ sẽ nhường chỗ cho sự sáng suốt.",
+    "text": "SỰ SÁNG SUỐT",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ }
+]

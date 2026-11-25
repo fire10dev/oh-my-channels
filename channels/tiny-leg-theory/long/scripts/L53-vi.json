@@ -1,0 +1,868 @@
+{
+ "id": "L53vi",
+ "lang": "vi",
+ "title": "Làm sao nhớ tên người mới gặp mà không ngại hỏi lại?",
+ "description": "Vừa bắt tay khách hàng hay bạn mới vài giây là đầu óc đã quên sạch tên. Trong video này, Pen và Buff bóc tám lý do khiến tên người mới trôi tuột và mẹo ghi nhớ cực dễ áp dụng để tự tin giao tiếp.",
+ "chapters": [
+  {
+   "title": "Quên sạch tên",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa bắt tay khách hàng mới, mỉm cười chào xong là ba giây sau bạn quên sạch tên họ.",
+     "text": "QUÊN SẠCH TÊN",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bạn vừa gật gù giả vờ nhớ, vừa toát mồ hôi vì sợ lát nữa phải giới thiệu với đồng nghiệp.",
+     "text": "SỢ PHẢI GIỚI THIỆU",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Không phải bạn quên tên đâu, mà bạn còn chưa thèm vào tạ cơ.",
+     "text": "CHƯA HỀ VÀO TẠ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Do trí nhớ của Pen tệ khi gặp người mới, hay ai cũng đang giả vờ thế Buff?",
+     "text": "TRÍ NHỚ KÉM SAO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não cậu vẫn ngon, Pen. Cậu chỉ buông thanh đòn trước khi bắt đầu nhịp đẩy đầu tiên thôi.",
+     "text": "BUÔNG ĐÒN QUÁ SỚM",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay Pen với Buff bóc tám lý do làm trôi tên người mới, kèm mẹo xử lý từng cái một.",
+     "text": "TÁM BẪY TÂM LÝ",
+     "color": "green",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "1. Nghe lướt ngoài tai",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đi mấy buổi kết nối nghề nghiệp đông đúc, người ta vừa xưng tên là âm thanh trôi tuột qua tai Pen.",
+     "text": "1. NGHE LƯỚT NGOÀI TAI",
+     "color": "ink",
+     "actor": "34",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghe rõ từng âm phát ra, nhưng chỉ một giây sau đầu óc đã trống trơn như tờ giấy trắng.",
+     "text": "TRÔI TUỘT QUA TAI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não mới chạm hờ ở tầng mặt thôi Pen. Chưa vào bài tập chính mà đòi nhớ.",
+     "text": "CHỈ CHẠM HỜ ĐÒN",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não chúng ta xử lý thông tin ở hai tầng, nghe bề nổi qua âm thanh hoặc khắc sâu qua ý nghĩa.",
+     "text": "NÔNG VÀ SÂU",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là khi Pen đang mải lo cú bắt tay hay nụ cười, tai chỉ hứng sóng âm thôi sao?",
+     "text": "CHỈ LÀ SÓNG ÂM",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghe lướt chỉ là khởi động ngoài da. Tai nghe tiếng va đập nhưng cơ bắp chưa hề vào việc.",
+     "text": "CHƯA HỀ GỒNG CƠ",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao ép não bộ ghi nhận cái tên ở tầng sâu hơn đây Buff?",
+     "text": "XỬ LÝ SÂU HƠN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự hỏi tên đó có nghĩa gì, hình dung chữ viết trong đầu, hoặc gắn liền với vị trí của họ.",
+     "text": "TẬP TRUNG Ý NGHĨA",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy coi màn chào hỏi là hiệp tập chính, đừng biến tên họ thành nhạc nền trong lúc nghĩ câu đáp.",
+     "text": "HIỆP TẬP CHÍNH",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tập trung sâu đưa tên vào đầu rồi, nhưng làm cách nào để khóa chặt ngay lúc đó?",
+     "text": "KHÓA CHẶT TÊN?",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là lúc cái miệng của cậu phải vào việc ngay sau khi đôi tai vừa nghe xong.",
+     "text": "DÙNG MIỆNG KHÓA LẠI",
+     "color": "gold",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "2. Gọi lại tên ngay",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đi cà phê được bạn dẫn người mới tới, Pen toàn mỉm cười rồi nói chào bạn một cách xã giao.",
+     "text": "2. GỌI LẠI TÊN NGAY",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là hỏng rồi Pen, cậu buông tạ ngay khi chưa kịp ngồi xuống ghế.",
+     "text": "BUÔNG TẠ SỚM",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Gật đầu lịch sự cho an toàn, ai ngờ chưa kịp nhấp ngụm nước là tên họ đã bay mất.",
+     "text": "BAY MẤT TỨC THÌ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì nghe thụ động rất yếu. Bạn phải tự miệng nói ra thì não mới chịu kích hoạt ghi nhớ.",
+     "text": "TỰ PHÁT RA TIẾNG",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi chính miệng cậu thốt ra từ ngữ đó, não bộ sẽ ghi nhớ bền hơn rất nhiều.",
+     "text": "MIỆNG NÓI NÃO NHỚ",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ nghe người ta tự giới thiệu thì chưa đủ độ nặng cho bộ nhớ sao?",
+     "text": "CHƯA ĐỦ ĐỘ NẶNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Nghe thụ động giống như đứng nhìn người khác đẩy tạ. Mở miệng nói là nhịp nâng đầu tiên.",
+     "text": "NHỊP ĐẨY ĐẦU TIÊN",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhắc lại tên người ta ngay lúc đó nghe có bị gượng gạo hay mất tự nhiên không Buff?",
+     "text": "CÓ BỊ GƯỢNG KHÔNG?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ lồng vào tự nhiên thôi: Chào Tuấn, rất vui được gặp bạn hôm nay. Thế là khóa xong một nhịp.",
+     "text": "GỌI TỰ NHIÊN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói tên ra tiếng buộc cơ quan phát âm và thính giác cùng hoạt động để khóa chặt vào não.",
+     "text": "KẾT HỢP MIỆNG TAI",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu tên họ quá phổ biến như Nam hay Linh, dễ lẫn với bao nhiêu người khác thì sao?",
+     "text": "TÊN QUÁ PHỔ BIẾN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là lúc cậu cần móc cái tên mới toanh đó vào một mỏ neo có sẵn.",
+     "text": "TÌM MỎ NEO CÓ SẴN",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "3. Móc nối quen thuộc",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đi làm gặp quá nhiều người tên Dũng hay Lan, riết rồi Pen thấy ai cũng từa tựa nhau.",
+     "text": "3. MÓC NỐI QUEN THUỘC",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bắt tay đến người thứ năm là gương mặt nào cũng như bản sao bị lỗi, không tài nào mở ra.",
+     "text": "NHƯ BẢN SAO BỊ LỖI",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhét bừa vào đầu thì nhớ sao nổi. Cậu phải móc nó vào cái gì quen thuộc trước đã.",
+     "text": "MÓC VÀO CÁI ĐÃ BIẾT",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bộ cực kỳ thích sự liên kết, ghép thông tin mới tinh vào mảng kiến thức đã có sẵn.",
+     "text": "GHÉP VÀO CÁI ĐÃ CÓ",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là Pen nên gắn người mới gặp với một người quen cũ mà mình nhớ rõ sao?",
+     "text": "GẮN VỚI NGƯỜI QUEN?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gặp người tên Dũng, tưởng tượng ngay ông bạn Dũng cấp ba đang đội nồi cơm điện lên đầu trao cúp.",
+     "text": "TƯỞNG TƯỢNG BẠN THÂN",
+     "color": "green",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hình ảnh tấu hài vô lý đó có thực sự giúp mình nhớ được người thật ngoài đời không?",
+     "text": "HÌNH ẢNH HÀI HƯỚC?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một hình ảnh kỳ quặc tạo ra cây cầu ghi nhớ vững chắc hơn việc nhẩm đi nhẩm lại rất nhiều.",
+     "text": "CẦU NỐI VỮNG CHẮC",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cậu đóng cho cái tên mới một chiếc cọc sắt vững chãi thay vì để nó trôi tự do.",
+     "text": "ĐÓNG CỌC VỮNG CHÃI",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn nếu tên người đó chẳng trùng ai, nhưng ngoại hình lại có điểm rất lạ thì sao?",
+     "text": "NẾU NGOẠI HÌNH LẠ?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế thì chuyển hướng sang chi tiết đập ngay vào mắt cậu ở đối phương.",
+     "text": "BẮT ĐIỂM NỔI BẬT",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "4. Nét khác biệt",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đi hội thảo nghề nghiệp, ai cũng mặc áo sơ mi tối màu và nói cùng một kiểu chuyện công việc.",
+     "text": "4. NÉT KHÁC BIỆT",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Xã giao được mười phút là cả khán phòng mờ mịt như màn sương mù xám xịt.",
+     "text": "MỜ MỊT NHƯ SƯƠNG",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì não lờ đi những thứ giống nhau. Cậu cần vận dụng hiệu ứng nổi bật.",
+     "text": "HIỆU ỨNG NỔI BẬT",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quy luật là nét nào độc lạ sẽ được giữ lại, còn thứ đại trà bị vứt thẳng vào sọt rác.",
+     "text": "NÉT ĐỘC LẠ SẼ Ở LẠI",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là Pen phải chủ động tìm một chi tiết phá vỡ vẻ ngoài bình thường đó sao?",
+     "text": "TÌM NÉT KHÁC BIỆT?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Một chiếc gọng kính màu cam, mái tóc xoăn tít, hay chất giọng trầm rất đặc trưng.",
+     "text": "TÌM MỘT ĐIỂM RIÊNG",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rồi móc chi tiết độc nhất đó thẳng vào cái tên của họ trong suy nghĩ hả Buff?",
+     "text": "MÓC THẲNG VÀO TÊN?",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gặp anh Tuấn đeo kính cam, hay chị Linh tóc xoăn tít, trong đầu bạn có ngay một điểm tựa rõ mồn một.",
+     "text": "ĐIỂM TỰA KHÔNG LẪN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn thấy nét riêng đó là não mở ngay lối tắt để lôi cái tên ra.",
+     "text": "LỐI TẮT TRONG NÃO",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng hai phút sau khi câu chuyện chuyển sang chủ đề khác thì tính sao?",
+     "text": "KHI ĐỔI CHỦ ĐỀ?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là lúc cậu phải cho mỏ neo đó vào bài kiểm tra thầm lặng.",
+     "text": "TỰ ĐỐ THẦM LẶNG",
+     "color": "gold",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "5. Lặng lẽ nhắc lại",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trong lúc người đối diện mải mê kể chuyện công việc, Pen hay bị cuốn vào suy nghĩ riêng.",
+     "text": "5. LẶNG LẼ NHẮC LẠI",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đến lúc họ dứt lời, cái tên nghe lúc đầu đã bốc hơi mất tăm không còn dấu vết.",
+     "text": "BỐC HƠI MẤT TĂM",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cậu lười lục lại bộ nhớ rồi Pen. Não không tự lôi ra kiểm tra thì làm sao nhớ dai.",
+     "text": "LỤC LẠI BỘ NHỚ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chủ động tự kéo ký ức ra khỏi kho chứa giúp cơ bắp trí nhớ khỏe hơn chỉ ngồi ôn lại.",
+     "text": "KÉO KÝ ỨC RA",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là không nên đợi đến lúc bắt tay ra về mới lục lọi lại cái tên sao?",
+     "text": "ĐỪNG CHỜ LÚC RA VỀ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chờ đến lúc về mới nhớ thì y hệt để nguội cơ nửa tiếng rồi đòi đẩy tạ nặng.",
+     "text": "NGUỘI CƠ DỄ HỎNG",
+     "color": "red",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế trong một cuộc nói chuyện bình thường, lúc nào thì nên tự kiểm tra?",
+     "text": "KIỂM TRA LÚC NÀO?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tầm sáu mươi giây sau khi bắt đầu, trong lúc họ đang nói, hãy thầm tự hỏi tên họ là gì.",
+     "text": "TỰ ĐỐ THẦM TRONG ĐẦU",
+     "color": "green",
+     "actor": "reading",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự nhủ trong đầu người này tên Tuấn, khớp đúng gương mặt rồi nghe tiếp.",
+     "text": "KHỚP ĐÚNG GƯƠNG MẶT",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghe nhanh gọn đấy, nhưng chỉ một lần kiểm tra thầm có đủ nhớ lâu không?",
+     "text": "MỘT LẦN ĐÃ ĐỦ?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một hiệp chưa ăn thua. Cậu phải chia đều các nhịp theo thời gian.",
+     "text": "CHIA ĐỀU CÁC HIỆP",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "6. Giãn cách nhịp nhớ",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đi ăn tiệc công ty kéo dài, Pen nhớ được tên năm phút đầu nhưng đến lúc tráng miệng là quên.",
+     "text": "6. GIÃN CÁCH NHỊP NHỚ",
+     "color": "ink",
+     "actor": "snack",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập dồn dập lúc đầu là toi rồi. Cơ bắp hay trí nhớ đều cần thời gian giãn cách giữa các hiệp.",
+     "text": "GIÃN CÁCH GIỮA HIỆP",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lúc đứng dậy rời bàn tiệc, Pen sợ toát mồ hôi vì lỡ gọi nhầm tên người ta.",
+     "text": "SỢ GỌI NHẦM TÊN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bộ lưu trữ bền nhất khi các lần nhắc lại được kéo giãn khoảng cách xa dần ra.",
+     "text": "KÉO GIÃN KHOẢNG CÁCH",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhẩm liên tục ngay lúc đầu không giúp mình nhớ đến tận cuối buổi sao?",
+     "text": "NHẨM LIÊN TỤC VÔ ÍCH?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhồi năm lần trong mười giây chả có ích gì. Phải có khoảng nghỉ thì cơ bắp mới phát triển.",
+     "text": "CẦN KHOẢNG NGHỈ",
+     "color": "red",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nên phân bổ các nhịp kiểm tra này như thế nào trong buổi gặp?",
+     "text": "PHÂN BỔ THẾ NÀO?",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự đố lúc họ vừa quay đi, kiểm tra lại giữa buổi tiệc, và lần nữa trên đường về nhà.",
+     "text": "BA THỜI ĐIỂM NHẮC",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mỗi nhịp ngắt quãng kéo ký ức lại đúng lúc nó vừa chớm mờ, khóa chặt vào đầu.",
+     "text": "KHÓA KHI VỪA MỜ",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng nếu hôm nay nhớ được, mà mai gặp lại ở chỗ lạ hoắc lại quên sạch thì sao?",
+     "text": "GẶP LẠI Ở CHỖ LẠ?",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là cậu dính bẫy trí nhớ bị dán chặt vào một căn phòng rồi.",
+     "text": "BẪY GẮN PHÒNG CŨ",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "7. Mỏ neo bối cảnh",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Có bao giờ bạn chạm mặt khách hàng lúc đi mua trà sữa, nhận ra ngay mà không nhớ nổi tên?",
+     "text": "7. MỎ NEO BỐI CẢNH",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ở công ty thì nhớ mặt nhớ tên vanh vách, nhưng ra đường một cái là tên biến mất tăm.",
+     "text": "RA NGOÀI BIẾN MẤT",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tại não cậu khóa chặt mặt người ta dính liền với góc bàn văn phòng rồi.",
+     "text": "DÁN VÀO VĂN PHÒNG",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ não luôn có xu hướng gói ghém tên tuổi đi kèm với cảnh vật xung quanh.",
+     "text": "GÓI KÈM MÔI TRƯỜNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên chỉ cần đổi không gian là cánh cửa dẫn tới cái tên bị khóa chặt luôn sao?",
+     "text": "CỬA NHỚ BỊ KHÓA?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hồ sơ bị lưu trong văn phòng, bước ra vỉa hè là mất sạch đầu mối truy tìm.",
+     "text": "MẤT ĐẦU MỐI TRUY TÌM",
+     "color": "red",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao mở lại cái tên khi khung cảnh bên ngoài đã khác hoàn toàn?",
+     "text": "MỞ KHÓA THẾ NÀO?",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy nhắm mắt hình dung người đó đang ngồi họp hay đứng thuyết trình ở văn phòng trước khi đoán.",
+     "text": "TƯỞNG TƯỢNG PHÒNG CŨ",
+     "color": "green",
+     "actor": "reading",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tái hiện bối cảnh quen thuộc trong đầu sẽ trả lại đầu mối dẫn thẳng tới cái tên.",
+     "text": "TRẢ LẠI ĐẦU MỐI",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn nếu chắc chắn mình biết tên, nhưng miệng không tài nào thốt ra nổi thì sao?",
+     "text": "MIỆNG KHÔNG THỐT NỔI?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cú tắc đường trong não bộ đó có một lối thoát hiểm khẩn cấp riêng.",
+     "text": "LỐI THOÁT HIỂM RIÊNG",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "8. Kẹt ở đầu lưỡi",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác tệ nhất là thấy người ta đi tới, nhớ rõ nghề nghiệp sở thích nhưng quên mất tên.",
+     "text": "8. KẸT Ở ĐẦU LƯỠI",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rõ ràng chữ nằm ngay đầu lưỡi rồi, mà không sao bật ra thành tiếng được.",
+     "text": "NẰM NGAY ĐẦU LƯỠI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiện tượng kẹt đầu lưỡi kinh điển đây. Đường ống dẫn chữ của cậu bị bóp nghẹt rồi.",
+     "text": "ĐƯỜNG ỐNG BỊ NGHẸT",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não hiểu người đó là ai, nhưng đường dẫn phát âm ra miệng tạm thời bị nghẽn mạch.",
+     "text": "NGHẼN MẠCH PHÁT ÂM",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Càng cuống cuồng cố lục tìm trong đầu thì đường ống lại càng bị nghẽn lại sao Buff?",
+     "text": "CÀNG CỐ CÀNG NGHẼN?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Căng thẳng làm khóa chặt cánh cổng. Cậu phải hạ tạ xuống để thả lỏng cơ.",
+     "text": "HẠ TẠ XUỐNG THẢ LỎNG",
+     "color": "red",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách nào thông nghẽn phát âm nhanh nhất trong đầu lúc này?",
+     "text": "CÁCH THÔNG NGHẼN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhẩm thầm bảng chữ cái từ A đến Z, chạm đúng chữ cái đầu là cái tên sẽ bật ra ngay.",
+     "text": "RÀ TÌM ÂM ĐẦU",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu vẫn kẹt, cứ cười rồi hỏi thẳng: Nhắc lại tên giúp mình với nhé, tự dưng đầu óc trống trơn.",
+     "text": "HỎI THẲNG TỰ NHIÊN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao ghép cả tám công cụ này thành một bài tập liền mạch mỗi ngày đây?",
+     "text": "GHÉP TÁM CÔNG CỤ?",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chia toàn bộ giáo án ra ba hiệp tập cực kỳ đơn giản sau đây.",
+     "text": "BA HIỆP TẬP ĐƠN GIẢN",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "Tổng kết bài tập",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại thì nhớ tên người khác không hề cần tài năng thiên bẩm nào cả.",
+     "text": "TỔNG KẾT BÀI TẬP",
+     "color": "ink",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Mọi thứ quy về ba nguyên tắc tập luyện mà ai cũng có thể làm ở bất cứ đâu.",
+     "text": "BA NGUYÊN TẮC CỐT LÕI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một là thu nhận sâu lúc đầu, gạt bỏ phân tâm và mở miệng gọi tên ngay lập tức.",
+     "text": "THU NHẬN SÂU ĐẦU TIÊN",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai là neo tên vào người quen cũ, nét độc lạ, và tái hiện lại bối cảnh trong đầu.",
+     "text": "NEO VÀO MỐI QUEN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba là giãn cách các lần tự đố thầm, và thả lỏng ngay nếu bị kẹt chữ.",
+     "text": "GIÃN CÁCH VÀ THẢ LỎNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế bài tập thử thách cụ thể cho bảy ngày tới là gì Buff?",
+     "text": "THỬ THÁCH BẢY NGÀY?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bảy ngày tới, gặp người mới hãy gọi tên họ một lần, và tự kiểm tra lại sau một phút.",
+     "text": "BÀI TẬP BẢY NGÀY",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ hai nhịp nhớ mỗi ngày. Một bài tập nhẹ nhàng mà ai cũng theo được.",
+     "text": "BÀI TẬP DỄ THEO",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đăng ký kênh để cùng luyện thêm những công cụ tâm lý giúp bạn tự tin giao tiếp.",
+     "text": "ĐĂNG KÝ KÊNH NHÉ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "title": "Los tres fareros que desaparecieron en 1900",
+ "hook": "LA LUZ SE APAGÓ",
+ "asof": "Historia basada en los Archivos Nacionales de Escocia",
+ "world": "lighthouse",
+ "long": "IX015",
+ "chapters": [
+  {
+   "id": "flannan",
+   "hud": "DIC 1900",
+   "chip": "26 DIC 1900",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "En diciembre de 1900, se apagó un faro en Escocia.",
+     "v": "flannan",
+     "tod": "night"
+    },
+    {
+     "s": "Las islas Flannan, lejos, en el Atlántico.",
+     "v": "flannan"
+    },
+    {
+     "s": "Un barco que pasaba notó que la luz estaba apagada.",
+     "v": "flannan",
+     "tod": "night"
+    },
+    {
+     "s": "El 26 de diciembre, el relevo Joseph Moore llegó a la isla.",
+     "v": "flannan",
+     "you": "flannan"
+    },
+    {
+     "s": "La estación estaba vacía.",
+     "v": "kitchen"
+    },
+    {
+     "s": "Las lámparas, limpias y listas. La cocina, ordenada.",
+     "v": "kitchen"
+    },
+    {
+     "s": "Faltaban dos equipos para salir al exterior.",
+     "v": "store"
+    },
+    {
+     "s": "Nunca encontraron a los tres fareros.",
+     "v": "flannan",
+     "st": [
+      "3",
+      "fareros nunca encontrados"
+     ]
+    },
+    {
+     "s": "La investigación halló daños de tormenta en el muelle.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "Concluyó que una ola enorme probablemente los arrastró.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "¿Qué crees que pasó?",
+     "v": "flannan"
+    }
+   ]
+  }
+ ]
+}

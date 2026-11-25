@@ -1,0 +1,758 @@
+[
+ {
+  "id": "s294",
+  "mascot": "buff",
+  "title": "Why Hot Food Beats Your Budget",
+  "mechanism": "Present Bias",
+  "lines": [
+   {
+    "vo": "You swore you would only drink water, then smelled warm bread. Game over.",
+    "text": "SWORE WATER ONLY",
+    "color": "red",
+    "actor": "snack",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Present bias makes right now feel huge, while next week feels weightless.",
+    "text": "NOW FEELS HUGE",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Future bills look like thin fog. Hot cheese looks real.",
+    "text": "FOGGY BILLS",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Run a pregame warm up before you leave the house.",
+    "text": "PREGAME WARM UP",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Check the menu online and lock in your order cold.",
+    "text": "LOCK YOUR ORDER",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Pick your meal with a cool head, or pay the panic tax.",
+    "text": "COOL HEAD WINS",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s294vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Vua ngoi vao ban la vo ke hoach",
+  "title_vi": "Vừa ngồi vào bàn là vỡ kế hoạch",
+  "mechanism": "Present Bias",
+  "lines": [
+   {
+    "vo": "Thề chỉ uống nước lọc, nhưng ngửi thấy mùi đồ nướng là quên sạch.",
+    "text": "QUÊN TIẾT KIỆM",
+    "color": "red",
+    "actor": "snack",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Não phóng đại đĩa đồ ăn trước mắt và làm mờ tuần sau.",
+    "text": "ẢO GIÁC HIỆN TẠI",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Món ngon ngay trước mặt thì rõ nét, hóa đơn tuần sau thì mờ căm.",
+    "text": "MỜ ẢO TUẦN SAU",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Khởi động từ nhà bằng cách lướt thực đơn quán trước khi dắt xe.",
+    "text": "XEM THỰC ĐƠN",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Chốt một món vừa ví từ lúc bụng còn no.",
+    "text": "CHỐT TỪ LÚC NO",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Chốt món bằng cái đầu lạnh, hoặc ngồi gánh tạ cả tháng sau.",
+    "text": "KHÓA MÓN SỚM",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s295",
+  "mascot": "pen",
+  "title": "Why Tomorrow Feels So Free",
+  "mechanism": "Discounting Tomorrow",
+  "lines": [
+   {
+    "vo": "Splitting fifty dollars feels completely harmless when everyone is laughing.",
+    "text": "HARMLESS SPLIT",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "We tell ourselves future me will easily work extra shifts.",
+    "text": "FUTURE ME WORKS",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hyperbolic discounting quietly shrinks tomorrow's cost until it feels weightless.",
+    "text": "WEIGHTLESS COST",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "We treat our future self like an untiring stranger.",
+    "text": "TOTAL STRANGER",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Try converting the check into real working hours first.",
+    "text": "COUNT WORK HOURS",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Suddenly that plate costs four brutal hours of spreadsheet misery.",
+    "text": "FOUR HOURS GONE",
+    "color": "green",
+    "actor": "future_tired",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Would you hand this bill to a friend who worked all morning?",
+    "text": "WHO PAYS THIS?",
+    "color": "gold",
+    "actor": "worried_heart",
+    "prop": "hourglass"
+   }
+  ]
+ },
+ {
+  "id": "s295vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Cu chia tien xong la thay xot xa",
+  "title_vi": "Cứ chia tiền xong là thấy xót xa",
+  "mechanism": "Discounting Tomorrow",
+  "lines": [
+   {
+    "vo": "Lúc chuyển khoản chia tiền ăn lẩu, ai cũng cười vui vẻ bảo không sao.",
+    "text": "CƯỜI TRỪ CHIA TIỀN",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Ta tự nhủ tuần sau sẽ chịu khó cày thêm để bù lại.",
+    "text": "TUẦN SAU CÀY BÙ",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tâm lý xem nhẹ tương lai khiến gánh nặng ngày mai trông như biến mất.",
+    "text": "XEM NHẸ NGÀY MAI",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Bạn đang ép chính mình tuần sau gánh món nợ của bữa tối nay.",
+    "text": "GÁNH HỘ BỮA NAY",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Thử đổi số tiền chuyển khoản thành số giờ ngồi văn phòng.",
+    "text": "QUY ĐỔI GIỜ LÀM",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Bát lẩu trăm ngàn bỗng bằng nửa ngày ngồi nghe sếp mắng.",
+    "text": "NỬA NGÀY LÀM VIỆC",
+    "color": "green",
+    "actor": "future_tired",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Bạn có nỡ để chính mình ngày mai cày cuốc trả nợ bữa tối nay?",
+    "text": "CÓ ĐÁNG ĐÁNH ĐỔI?",
+    "color": "gold",
+    "actor": "worried_heart",
+    "prop": "hourglass"
+   }
+  ]
+ },
+ {
+  "id": "s296",
+  "mascot": "buff",
+  "title": "Why Silence Costs You Money",
+  "mechanism": "Social Norms",
+  "lines": [
+   {
+    "vo": "Nobody looks at prices. Sure, everyone suddenly struck it rich.",
+    "text": "EVERYONE RICH?",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "When nobody speaks up, everyone assumes high spending is the group standard.",
+    "text": "GROUP STANDARD",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Half the table is sweating bullets while nodding along politely.",
+    "text": "SILENT SWEATING",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Spot your friends before the bill drops. Call out the spending cap early.",
+    "text": "CALL SPENDING CAP",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Say out loud that you are keeping dinner light tonight.",
+    "text": "SPEAK UP FIRST",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Set the benchmark right now, or let someone max your card.",
+    "text": "SET THE BENCHMARK",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "coin_stack"
+   }
+  ]
+ },
+ {
+  "id": "s296vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Khong ai dam nhin vao cot gia",
+  "title_vi": "Không ai dám nhìn vào cột giá",
+  "mechanism": "Social Norms",
+  "lines": [
+   {
+    "vo": "Đi ăn nhóm, ai cũng cắm mặt vào điện thoại né nhìn cột giá.",
+    "text": "NÉ NHÌN CỘT GIÁ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Sợ mang tiếng bủn xỉn, cả bàn im lặng để người tiêu hoang nhất quyết định.",
+    "text": "SỢ MANG TIẾNG KEO",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cả bàn im lặng gật đầu, nhưng trong lòng ai cũng toát mồ hôi.",
+    "text": "IM LẶNG GẬT ĐẦU",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Làm nhóm trưởng đặt trần chi tiêu cho cả bàn từ sớm.",
+    "text": "ĐẶT TRẦN CHI TIÊU",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Mở lời trước rằng tối nay mình ăn nhẹ thôi, không gọi món đắt.",
+    "text": "MỞ LỜI ĂN NHẸ",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Phát tín hiệu cứu cả bàn, hoặc ngồi im nhìn ví bị rút cạn.",
+    "text": "CỨU VÍ CẢ BÀN",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "coin_stack"
+   }
+  ]
+ },
+ {
+  "id": "s297",
+  "mascot": "pen",
+  "title": "Why Group Trips Get Expensive",
+  "mechanism": "Reciprocal Loops",
+  "lines": [
+   {
+    "vo": "One friend mentions a trip, and another immediately books a luxury villa.",
+    "text": "LUXURY TRIP CHAT",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Nobody wants to look cheap, so everyone starts piling on pricey upgrades.",
+    "text": "PRICEY UPGRADES",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "In reciprocal loops, excitement feeds spending, and spending demands more excitement.",
+    "text": "RECIPROCAL LOOP",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "A simple weekend away quietly turns into an accidental bidding war.",
+    "text": "BIDDING WAR",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Jump into the group chat before anyone transfers a deposit.",
+    "text": "STOP THE DEPOSIT",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Pitch a casual street food crawl before luxury bookings lock in.",
+    "text": "PITCH CHEAP PLAN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Suggest casual drip coffee, street noodles, or a board game night.",
+    "text": "SIMPLE PLANS",
+    "color": "green",
+    "actor": "reading",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Real connection never needed a luxury invoice to feel genuine.",
+    "text": "GENUINE CONNECTION",
+    "color": "gold",
+    "actor": "front",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s297vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ru di choi gan hoa ra di resort",
+  "title_vi": "Rủ đi chơi gần hóa ra đi resort",
+  "mechanism": "Reciprocal Loops",
+  "lines": [
+   {
+    "vo": "Vừa rủ đi đổi gió, đã có người quăng ảnh khu nghỉ dưỡng chục triệu.",
+    "text": "ẢNH NGHỈ DƯỠNG",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Sợ mất vui nên không ai dám can, người sau lại thêm nhà hàng sang.",
+    "text": "SỢ MẤT VUI",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Vòng lặp tương hỗ khiến sự hào hứng vô tình đẩy chi phí leo thang.",
+    "text": "VÒNG LẶP CHI PHÍ",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Kèo đi chơi cuối tuần biến thành chuyến đi bay luôn nửa tháng lương.",
+    "text": "BAY NỬA THÁNG LƯƠNG",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Nhắn vào nhóm chặn lại ngay, trước khi có người chuyển khoản cọc phòng.",
+    "text": "CHẶN TRƯỚC TIỀN CỌC",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Đề xuất kèo ăn uống nhẹ nhàng ngay khi mọi người đang bàn luận.",
+    "text": "ĐỀ XUẤT KÈO NHẸ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Rủ nhau ăn lẩu tại nhà hoặc ghé quán cà phê quen thuộc.",
+    "text": "PHƯƠNG ÁN NHẸ VÍ",
+    "color": "green",
+    "actor": "reading",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Tình bạn thật lòng chưa bao giờ cần một hóa đơn sang chảnh.",
+    "text": "TÌNH BẠN THẬT LÒNG",
+    "color": "gold",
+    "actor": "front",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s298",
+  "mascot": "buff",
+  "title": "Why Hanging Out Costs So Much",
+  "mechanism": "Temptation Bundling",
+  "lines": [
+   {
+    "vo": "Every single hangout somehow requires a thirty dollar sit-down dinner.",
+    "text": "MANDATORY DINNERS",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Your brain craves social connection, but commercial dining hijacks the reward.",
+    "text": "HIJACKED REWARD",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Restaurants sell effortless convenience, so your brain fuses connection to the bill.",
+    "text": "CONVENIENCE TRAP",
+    "color": "red",
+    "actor": "coffee",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bundle your social craving with a cheap routine: host a game night at home.",
+    "text": "BUNDLE AT HOME",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "You get the full hangout reward without the restaurant markup.",
+    "text": "NO RESTAURANT MARKUP",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Stack your social reps, not expensive dinner receipts.",
+    "text": "STACK SOCIAL REPS",
+    "color": "gold",
+    "actor": "arms_crossed_no",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s298vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Cu gap nhau la phai ton tien",
+  "title_vi": "Cứ gặp nhau là phải tốn tiền",
+  "mechanism": "Temptation Bundling",
+  "lines": [
+   {
+    "vo": "Hễ gặp bạn bè là mặc định kéo nhau vào cà phê sang chảnh.",
+    "text": "CÀ PHÊ SANG CHẢNH",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Não thèm gặp gỡ, nhưng quán xá đã cướp quyền kiểm soát phần thưởng.",
+    "text": "BỊ CƯỚP PHẦN THƯỞNG",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Quán xá bán sự tiện lợi, làm não tưởng đi chơi là phải rút ví.",
+    "text": "BẪY TIỆN LỢI",
+    "color": "red",
+    "actor": "coffee",
+    "prop": "brain"
+   },
+   {
+    "vo": "Ghép nhu cầu gặp gỡ với hoạt động tiết kiệm: nấu ăn tại nhà.",
+    "text": "NẤU ĂN TẠI NHÀ",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Gặp nhau vui vẻ trọn vẹn mà không phải trả phí dịch vụ đắt đỏ.",
+    "text": "KHÔNG TỐN PHÍ QUÁN",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Nấu nồi lẩu tại nhà, hoặc tăng ca cày cuốc bù tiền cho chủ quán. Chọn đi.",
+    "text": "CHỌN NỒI LẨU",
+    "color": "gold",
+    "actor": "arms_crossed_no",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s299",
+  "mascot": "pen",
+  "title": "Why You Feel Rich on Friday",
+  "mechanism": "Earmarking",
+  "lines": [
+   {
+    "vo": "Checking your account on Friday makes you feel instantly wealthy.",
+    "text": "FRIDAY WEALTH",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "By Sunday night, that birthday dinner swallowed next week's grocery money.",
+    "text": "GROCERY FUNDS GONE",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Without earmarking, your mind treats every unassigned dollar as disposable play money.",
+    "text": "PLAY MONEY TRAP",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Labeled money creates invisible psychological fences we hesitate to cross.",
+    "text": "MENTAL FENCES",
+    "color": "green",
+    "actor": "reading",
+    "prop": "brain"
+   },
+   {
+    "vo": "Set up a separate sub-account named Social on payday.",
+    "text": "SOCIAL ACCOUNT",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "When that balance hits zero, dining out stops until next month.",
+    "text": "ZERO MEANS STOP",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "A label on your money gives peace of mind to your weekend.",
+    "text": "PEACE OF MIND",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s299vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Thay tai khoan day tien tuong minh giau",
+  "title_vi": "Thấy tài khoản đầy tiền tưởng mình giàu",
+  "mechanism": "Earmarking",
+  "lines": [
+   {
+    "vo": "Lương vừa về tài khoản, nhìn con số ngỡ mình giàu có lắm.",
+    "text": "LƯƠNG VỀ TƯỞNG GIÀU",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Vài bữa sinh nhật cuối tuần, tiền trọ bốc hơi sạch.",
+    "text": "BỐC HƠI TIỀN TRỌ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Để chung một chỗ, não coi mọi đồng tiền đều là tiền ăn chơi.",
+    "text": "CỨ TƯỞNG TIỀN DƯ",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Chia tiền theo mục đích tạo thành rào chắn vô hình ngăn bạn tiêu lố.",
+    "text": "RÀO CHẮN CHI TIÊU",
+    "color": "green",
+    "actor": "reading",
+    "prop": "brain"
+   },
+   {
+    "vo": "Mở thêm một tài khoản phụ, đặt tên riêng là Đi Chơi.",
+    "text": "TÀI KHOẢN ĐI CHƠI",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Chuyển hạn mức cố định vào đó, hết tiền là dừng kèo.",
+    "text": "HẾT TIỀN THÌ DỪNG",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Chia nhỏ số tiền giúp bạn ngủ ngon suốt cả tháng.",
+    "text": "NGỦ NGON CẢ THÁNG",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s300",
+  "mascot": "buff",
+  "title": "Why Phone Taps Feel Free",
+  "mechanism": "Friction Costs",
+  "lines": [
+   {
+    "vo": "Tapping your phone takes one second flat. Painless? Think again, rookie.",
+    "text": "ONE SECOND TAP",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Screen taps remove the natural sting of spending cash.",
+    "text": "NO SPENDING STING",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Zero friction removes your brain's natural emergency brakes.",
+    "text": "NO BRAKES",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Leave credit cards in the car, or carry a debit card with fifty bucks.",
+    "text": "LEAVE CARDS BEHIND",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Zip your card away tonight, or pay the lazy tax tomorrow.",
+    "text": "PAY LAZY TAX",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s300vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Quet ma mot giay la bay tien trieu",
+  "title_vi": "Quét mã một giây là bay tiền triệu",
+  "mechanism": "Friction Costs",
+  "lines": [
+   {
+    "vo": "Giơ điện thoại quét mã chưa tới một giây. Tưởng không đau ví à?",
+    "text": "QUÉT MÃ MỘT GIÂY",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Thao tác trơn tru khiến não tưởng bữa ăn này chẳng hề mất tiền.",
+    "text": "TƯỞNG TIÊU MIỄN PHÍ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Không thấy tiền rời khỏi tay, não mất luôn cảm giác xót ruột.",
+    "text": "HẾT CẢM GIÁC XÓT",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cất thẻ tín dụng ở nhà, chỉ mang theo chiếc thẻ có số dư vừa đủ.",
+    "text": "CHỈ MANG THẺ PHỤ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Bắt tay dừng lại năm giây, hoặc sáng mai ngồi tiếc đứt ruột.",
+    "text": "DỪNG LẠI NĂM GIÂY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ }
+]

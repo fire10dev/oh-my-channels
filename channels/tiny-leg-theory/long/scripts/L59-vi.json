@@ -1,0 +1,854 @@
+{
+ "id": "L59vi",
+ "lang": "vi",
+ "title": "Làm người mới ở chỗ làm hay lớp học sao cho đỡ ngại?",
+ "description": "Bước vào môi trường mới dễ khiến bạn thấy lạc lõng. Cùng Pen và Buff giải mã tám cơ chế tâm lý (Belonging Doubt, Spotlight Effect, Uncertainty Reduction, Impostor Phenomenon, Social Comparison, Mere Exposure, Pratfall Effect, Small Wins) và bỏ túi các mẹo thực tế để nhanh chóng hòa nhập.",
+ "chapters": [
+  {
+   "title": "Làm người mới",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tay vừa chạm vào nắm cửa văn phòng hay lớp học mới, tim mình đã đập thình thịch như lên thớt.",
+     "text": "LÀM NGƯỜI MỚI",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chào Pen, mới ngày đầu mà não Pen coi cái hành lang lạ này như bãi mìn rồi.",
+     "text": "VÙNG PHỤC KÍCH",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mọi người cười đùa rôm rả, còn mình thì lúng túng chẳng biết đi đứng sao.",
+     "text": "ĐI ĐỨNG NGƯỢNG NGÙNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng lo, bản năng sinh tồn cổ xưa chỉ đang bảo vệ Pen khỏi bị cô lập thôi.",
+     "text": "BẢN NĂNG SINH TỒN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để hết cảm giác lạc lõng như người ngoài hành tinh trong tuần đầu?",
+     "text": "NGƯỜI NGOÀI HÀNH TINH",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khởi động ngay tám cơ chế tâm lý để tự tin bước vào mọi căn phòng.",
+     "text": "TÁM CƠ CHẾ TÂM LÝ",
+     "color": "green",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "1. Nỗi sợ lạc loài",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bước vào giảng đường đại học hay phòng làm việc mới, chẳng ai thèm ngẩng lên nhìn.",
+     "text": "1. NỖI SỢ LẠC LOÀI",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vừa chào một câu mà không ai đáp, Pen liền nghĩ mình làm hỏng mọi chuyện rồi.",
+     "text": "IM LẶNG ĐÁNG SỢ",
+     "color": "red",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ai đó chỉ khẽ gật đầu lạnh lùng, mình lại tưởng họ ghét mình từ đầu.",
+     "text": "HỌ GHÉT MÌNH SAO?",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là sự bất an khi chưa hòa nhập, não tự suy diễn vẻ mặt bình thường thành tín hiệu bị từ chối.",
+     "text": "BẤT AN CHƯA HÒA NHẬP",
+     "color": "red",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác ai cũng có sẵn cẩm nang kết bạn, trừ mỗi bản thân mình.",
+     "text": "THIẾU CUỐN CẨM NANG",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không có đâu, mấy người trông tự tin kia ngày đầu cũng run như cầy sấy.",
+     "text": "AI CŨNG TỪNG RUN",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là mình đang tự vẽ ra kẻ thù từ những người vốn đang bận rộn?",
+     "text": "TỰ VẼ NỖI SỢ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn rồi, mặt họ đơ vì chưa quen, không phải họ đang cô lập Pen đâu.",
+     "text": "HỌ CHƯA QUEN THÔI",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ý Buff là vẻ mặt dửng dưng không có nghĩa là họ đang xua đuổi mình?",
+     "text": "KHÔNG BỊ TỪ CHỐI",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế, nhưng Pen sẽ càng ngộp nếu cứ tưởng cả phòng đang soi mình.",
+     "text": "ÁNH MẮT SOI MÓI",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "2. Hiệu ứng tâm điểm",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa bước vào cửa phòng đã vấp chân một cái, mặt mình nóng bừng bừng.",
+     "text": "2. HIỆU ỨNG TÂM ĐIỂM",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là dành cả ba tiếng sau đó nghĩ người ta đang thầm cười mình.",
+     "text": "TƯỞNG BỊ CHẾ GIỄU",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình thấy quê khủng khiếp, cứ ngỡ ai cũng coi đó là chuyện chấn động.",
+     "text": "NGỠ LÀ CHUYỆN LỚN",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy tâm điểm đấy, chưa vào bài tập nào mà não đã tự vắt kiệt sức vì tưởng tượng.",
+     "text": "BẪY TÂM ĐIỂM",
+     "color": "red",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao đầu óc cứ bắt mình phải đứng giữa sân khấu thế nhỉ?",
+     "text": "ĐỨNG GIỮA SÂN KHẤU",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì nhìn từ góc độ bản thân, ta luôn phóng đại mức độ người khác để ý.",
+     "text": "PHÓNG ĐẠI TẦM NHÌN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra chẳng ai rảnh ngồi soi từng pha lóng ngóng của mình sao?",
+     "text": "KHÔNG AI CHẤM ĐIỂM",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người xung quanh ít khi để ý mấy pha lóng ngóng hơn Pen tưởng rất nhiều.",
+     "text": "ÍT AI ĐỂ Ý",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ còn bận lo việc của họ, đâu rảnh soi pha vấp ngã vừa rồi?",
+     "text": "AI CŨNG CÓ NỖI LO",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hít sâu một nhịp, thả lỏng vai như lúc hạ tạ, rồi quay sang cười chào người bên cạnh.",
+     "text": "CHÀO NGƯỜI BÊN CẠNH",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hướng mắt ra ngoài giúp mình thoát khỏi mớ suy nghĩ luẩn quẩn ngay.",
+     "text": "THOÁT KHỎI SUY NGHĨ",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dẹp khán giả ảo đi để tập trung giải mã cách làm việc xung quanh.",
+     "text": "GIẢI MÃ XUNG QUANH",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "3. Luật chưa nói ra",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Phần lớn sức lực của mình bay màu chỉ để đoán xem ở đây làm việc thế nào.",
+     "text": "3. LUẬT CHƯA NÓI RA",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vừa được thêm vào nhóm Zalo hay mở thư mục chung, sợ bấm nhầm là xóa sạch.",
+     "text": "SỢ BẤM NHẦM",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đứng hình vì chưa rõ bài tập thôi, cách gỡ là chủ động giảm bớt sự mơ hồ.",
+     "text": "GIẢM BỚT MƠ HỒ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi thiếu hướng dẫn rõ ràng, não lập tức phát báo động để tránh phạm sai lầm tai hại.",
+     "text": "TRÁNH SAI LẦM",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng đi hỏi mấy câu cơ bản cứ như đang tự nhận mình kém cỏi vậy.",
+     "text": "SỢ BỊ CHÊ KÉM",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngồi đoán mò tốn sức gấp mười lần mở lời hỏi một câu đàng hoàng.",
+     "text": "ĐOÁN MÒ TỐN SỨC",
+     "color": "gold",
+     "actor": "34",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ nhận mình là người mới, rồi nhờ xem một bài mẫu đã hoàn thành.",
+     "text": "XIN XEM BÀI MẪU",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Xin một bài mẫu chuẩn sẽ không khiến mình bị coi là gà mờ chứ?",
+     "text": "CÓ BỊ COI LÀ GÀ MỜ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người đi trước rất thích hướng dẫn, hỏi rõ luật chơi sớm mới là biết việc.",
+     "text": "HỎI RÕ LUẬT CHƠI",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có mẫu chuẩn là đỡ phải đoán mò, bắt tay vào làm việc ngay.",
+     "text": "KHÔNG CẦN ĐOÁN MÒ",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhưng nhớ đừng tự coi mình là kẻ bất tài chỉ vì phải mở miệng đi hỏi.",
+     "text": "ĐỪNG NGHĨ BẤT TÀI",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "4. Bẫy kẻ mạo danh",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa nhận bài tập lớn đầu tiên, ruột gan mình đã thắt lại vì lo.",
+     "text": "4. BẪY KẺ MẠO DANH",
+     "color": "red",
+     "actor": "panic",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình sợ sếp hoặc phòng tuyển dụng đã nhìn nhầm rồi chọn nhầm người.",
+     "text": "CHỌN NHẦM MÌNH RỒI?",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiện tượng kẻ mạo danh đấy, nó rất hay bám lấy những người luôn muốn làm việc chỉn chu.",
+     "text": "KẺ MẠO DANH",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen đang lấy sự bối rối bên trong so với vẻ chỉn chu bên ngoài của họ.",
+     "text": "BỐI RỐI BÊN TRONG",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lỡ như mọi người đều đã nắm chắc kiến thức mà mình chưa biết gì?",
+     "text": "THIẾU KIẾN THỨC?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Họ chọn Pen vì tiềm năng phát triển, chứ đâu bắt thuộc lòng mọi thứ.",
+     "text": "TIỀM NĂNG PHÁT TRIỂN",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi tháng đầu như lúc học việc, nhiệm vụ là tiếp thu chứ đâu cần hoàn hảo.",
+     "text": "GIAI ĐOẠN HỌC VIỆC",
+     "color": "green",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy bế tắc trước việc khó chỉ là đang học hỏi, không phải bất tài?",
+     "text": "ĐANG HỌC HỎI THÔI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi nghi ngờ như đau cơ khi tập, rồi ghi lại một điều mới học hôm nay.",
+     "text": "GHI LẠI ĐIỀU MỚI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Căng não chỉ là cơ bắp tư duy đang thích nghi với mức tạ nặng hơn.",
+     "text": "THÍCH NGHI MỨC TẠ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng tự phá tiến độ bằng cách đi so đo với thiên tài trong phòng.",
+     "text": "ĐỪNG SO ĐO",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "5. So kè vị thứ",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Buổi họp nhóm đầu tiên, một bạn mới trả lời rành rọt như quản lý.",
+     "text": "5. SO KÈ VỊ THỨ",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thuyết so sánh xã hội cho thấy não luôn tự định vị thứ bậc.",
+     "text": "TỰ ĐỊNH VỊ THỨ BẬC",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy người ta nói năng lưu loát làm mình thấy bản thân chậm chạp, kém cỏi.",
+     "text": "THẤY MÌNH CHẬM CHẠP",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lấy ngày thứ ba bỡ ngỡ đi so với lúc người ta đã thuần thục là tự chuốc thua thiệt.",
+     "text": "SO SÁNH KHẬP KHIỄNG",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có khi họ đã học từ trước, hoặc chỉ giỏi giả vờ tự tin.",
+     "text": "HỌ GIỎI TỰ TIN HƠN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn, Pen chỉ thấy lúc người ta tỏa sáng, đâu thấy lúc họ run rẩy trong lòng.",
+     "text": "CHỈ LÀ VỎ BỌC NGOÀI",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi sếp hoặc thầy cô ba việc cụ thể cần làm xong trước thứ sáu.",
+     "text": "BA MỤC TIÊU CỤ THỂ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ bám đúng ba đầu việc đó mà đo tiến độ mỗi ngày, đừng liếc sang bàn bên.",
+     "text": "ĐO BẰNG TIÊU CHÍ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có mục tiêu cụ thể giúp mình tập trung, khỏi lo nghĩ chuyện người khác.",
+     "text": "TẬP TRUNG VIỆC MÌNH",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập trung vào giáo án của mình, giữ đúng nhịp tập là sẽ thắng.",
+     "text": "GIỮ ĐÚNG NHỊP TẬP",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhớ rằng chỉ cần xuất hiện đều đặn đã gánh nửa phần uy tín.",
+     "text": "CHỈ CẦN CÓ MẶT",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "6. Chỉ cần có mặt",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi thấy lạc lõng giữa giờ nghỉ, phản xạ của mình là trốn.",
+     "text": "6. CHỈ CẦN CÓ MẶT",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đeo chặt tai nghe, dán mắt vào điện thoại để không ai bắt chuyện.",
+     "text": "TRỐN SAU MÀN HÌNH",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trốn thì êm đấy, nhưng Pen đang tự tước mất hiệu ứng tiếp xúc thường xuyên.",
+     "text": "TIẾP XÚC THƯỜNG XUYÊN",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Con người luôn tin điều quen thuộc, thấy mặt Pen nhiều là người ta quen dần.",
+     "text": "QUEN DẦN SẼ TIN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy mình không cần khéo ăn nói hay cố diễn cho thật cuốn hút?",
+     "text": "KHÔNG CẦN CỐ DIỄN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không hề, chỉ cần có mặt ở không gian chung là đã kéo gần khoảng cách.",
+     "text": "XUẤT HIỆN Ở KHU CHUNG",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xuống căn tin ăn trưa một bữa, hoặc ngồi làm việc nơi người ta qua lại.",
+     "text": "RA KHÔNG GIAN CHUNG",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù mình chỉ ngồi im đọc sách, mọi người vẫn quen mặt mình sao?",
+     "text": "NGỒI IM CŨNG ĐƯỢC?",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sự điềm tĩnh tạo cảm giác dễ đoán, người dễ đoán luôn mang lại an toàn.",
+     "text": "DỄ ĐOÁN VÀ AN TOÀN",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chút tiếp xúc nhẹ nhàng đó sẽ lót đường trước khi nói chuyện sâu.",
+     "text": "TIẾP XÚC NHẸ NHÀNG",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lỡ có làm chuyện gì vụng về trước mặt họ, cứ thả lỏng cơ thể ra.",
+     "text": "CỨ THẢ LỎNG RA",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "7. Vụng về lại dễ mến",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đang ngồi họp yên ắng thì mình lỡ tay gạt đổ ly trà sữa.",
+     "text": "7. VỤNG VỀ LẠI DỄ MẾN",
+     "color": "red",
+     "actor": "panic",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình xin lỗi rối rít mấy lần, xấu hổ chỉ muốn độn thổ cho xong.",
+     "text": "MUỐN ĐỘN THỔ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bình tĩnh nào Pen, tâm lý học gọi đây là hiệu ứng sảy chân.",
+     "text": "HIỆU ỨNG SẢY CHÂN",
+     "color": "gold",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một lỗi vụng về làm Pen dễ mến, nhưng với điều kiện phải biết việc đã.",
+     "text": "PHẢI BIẾT VIỆC ĐÃ",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ủa, phạm lỗi mà lại khiến người ta quý mình hơn sao?",
+     "text": "LỖI LẠI ĐƯỢC QUÝ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ khi Pen đã có năng lực, chứ vụng về liên tục thì thành ra ẩu.",
+     "text": "NĂNG LỰC ĐI TRƯỚC",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ làm tốt việc, còn mấy pha lóng ngóng thì nhẹ nhàng nhận lỗi.",
+     "text": "NHẸ NHÀNG NHẬN LỖI",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một nụ cười nhẹ cho thấy mình điềm tĩnh, làm không khí bớt ngột ngạt.",
+     "text": "GIẢM BỚT CĂNG THẲNG",
+     "color": "ink",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hoàn hảo quá làm người ta dè chừng, nhận lỗi nhỏ cho thấy Pen gần gũi.",
+     "text": "GẦN GŨI VÀ DỄ MẾN",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cười một cái, dọn sạch sẽ rồi quay lại làm tiếp việc của mình.",
+     "text": "QUAY LẠI LÀM VIỆC",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lỡ tuột tạ thì bình tĩnh lau tay tập lại, giờ thì biến nỗ lực mỗi ngày thành đà tiến vững chắc.",
+     "text": "TẠO ĐÀ TIẾN BƯỚC",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "8. Chiến thắng nhỏ",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn cả xấp tài liệu đào tạo và đề cương, ngực mình lại nghẹn lại.",
+     "text": "8. CHIẾN THẮNG NHỎ",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như mình phải thành chuyên gia ngay trong tuần tới.",
+     "text": "SỢ PHẢI GIỎI NGAY",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đâu cần biến hình sau một đêm, Pen chỉ cần tích lũy từng hiệp nhỏ.",
+     "text": "TÍCH LŨY TỪNG HIỆP",
+     "color": "ink",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nó được rèn giũa từ cảm giác dứt điểm từng hành động cụ thể.",
+     "text": "DỨT ĐIỂM HÀNH ĐỘNG",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thay vì lo cả năm, mình chỉ cần nhắm vào những việc trước mắt?",
+     "text": "NHẮM VÀO MỐC NHỎ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhớ tên ba người mới, cài xong phần mềm, nộp một bản nháp gọn gàng.",
+     "text": "BA VIỆC RÕ RÀNG",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mỗi việc làm xong chứng minh Pen gánh được, giúp não hạ mức báo động.",
+     "text": "HẠ MỨC BÁO ĐỘNG",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tích xong từng việc nhỏ thấy khỏe hẳn, đầu óc không còn bị lo âu.",
+     "text": "TÍCH XONG TỪNG VIỆC",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chia nhỏ khối lượng ra, giải quyết một việc buổi sáng và hai việc buổi chiều.",
+     "text": "CHIA NHỎ KHỐI LƯỢNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ba việc nhỏ hoàn thành chứng minh năng lực nhanh hơn lo chuyện xa vời?",
+     "text": "CHỨNG MINH NĂNG LỰC",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nuốt trọn ba hiệp đó trước năm giờ chiều, đà tiến sẽ đè bẹp cầu toàn.",
+     "text": "ĐÀ THẮNG CẦU TOÀN",
+     "color": "green",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "Gói gọn lại",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Làm người mới thấy sợ thật, nhưng nắm rõ nguyên tắc thì như giải câu đố.",
+     "text": "GÓI GỌN LẠI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nguyên tắc một là đừng đoán mò, mặt người ta lạnh lùng chỉ là chưa quen.",
+     "text": "MỘT: CHƯA QUEN THÔI",
+     "color": "green",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nguyên tắc hai là xuất hiện ở khu chung và đón nhận pha vụng về bằng nụ cười.",
+     "text": "HAI: CÓ MẶT VÀ CƯỜI",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nguyên tắc ba là hoàn thành ba việc nhỏ dứt điểm mỗi ngày.",
+     "text": "BA: BA VIỆC MỖI NGÀY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn lịch trình cụ thể cho tuần đầu tiên thì phân bổ thế nào?",
+     "text": "KẾ HOẠCH TUẦN ĐẦU?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi một câu mỗi ngày tới thứ tư, rồi ra khu chung ngồi tới thứ sáu.",
+     "text": "KẾ HOẠCH NĂM NGÀY",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kế hoạch này rất dễ, từng bước nhỏ giúp ta bớt sợ bước vào phòng.",
+     "text": "HOÀN TOÀN LÀM ĐƯỢC",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký kênh để nâng tạ cho não, còn giờ thì ra chào người ta một câu đi.",
+     "text": "CHÀO MỘT CÂU HÔM NAY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

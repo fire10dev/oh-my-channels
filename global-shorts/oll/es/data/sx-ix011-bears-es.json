@@ -1,0 +1,75 @@
+{
+ "title": "Los guardianes del oso polar en la mayor expedición ártica",
+ "hook": "GUARDIA CONTRA OSOS",
+ "asof": "Datos de la expedición MOSAiC, 2019–2020",
+ "world": "polar",
+ "long": "IX011",
+ "chapters": [
+  {
+   "id": "bears",
+   "hud": "DÍA 60",
+   "chip": "DIC 2019",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "En esta expedición, alguien debía vigilar por si aparecían osos polares.",
+     "v": "guard",
+     "you": "guard"
+    },
+    {
+     "s": "En 2019, el barco Polarstern quedó atrapado en el hielo ártico por un año.",
+     "v": "ship"
+    },
+    {
+     "s": "Cientos de científicos trabajaron sobre el hielo, a su lado.",
+     "v": "camp"
+    },
+    {
+     "s": "Así que nadie salía sin un guardia vigilando por osos.",
+     "v": "guard",
+     "you": "camp"
+    },
+    {
+     "s": "De seis a ocho guardias en cada tramo del viaje.",
+     "v": "guard",
+     "st": [
+      "6–8",
+      "guardias por tramo"
+     ]
+    },
+    {
+     "s": "Vigilaban el horizonte desde el barco,",
+     "v": "crow"
+    },
+    {
+     "s": "o recorrían una cerca con cable trampa alrededor del campamento.",
+     "v": "fence"
+    },
+    {
+     "s": "Si alguien cruzaba el cable, se disparaba una bengala.",
+     "v": "fence",
+     "plane": "flare"
+    },
+    {
+     "s": "Avistaron más de sesenta osos polares cerca del barco.",
+     "v": "bear",
+     "plane": "bear",
+     "st": [
+      "60+",
+      "osos avistados"
+     ]
+    },
+    {
+     "s": "No dispararon contra ninguno.",
+     "v": "bear",
+     "plane": "bear"
+    },
+    {
+     "s": "¿Harías guardia en plena oscuridad?",
+     "v": "guard",
+     "you": "guard"
+    }
+   ]
+  }
+ ]
+}

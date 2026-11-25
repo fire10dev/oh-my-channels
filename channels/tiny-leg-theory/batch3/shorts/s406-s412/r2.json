@@ -1,0 +1,697 @@
+[
+ {
+  "id": "s406",
+  "mascot": "buff",
+  "title": "Why Big Choices Freeze You",
+  "mechanism": "REGRET AVERSION",
+  "lines": [
+   {
+    "vo": "Freezing before you ditch accounting? The bar isn't even loaded, buddy.",
+    "text": "FROZEN AT THE START",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "You fear future shame more than your current boring misery.",
+    "text": "FEAR OF REGRET",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "That is regret aversion. Your brain slams emergency brakes to avoid embarrassment.",
+    "text": "REGRET AVERSION",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Run the ten year test. Will anyone remember this stumble in a decade?",
+    "text": "TEN YEAR TEST",
+    "color": "green",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "You survive bad reps in the gym. Limbo is what rots you.",
+    "text": "SURVIVE BAD REPS",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Take the clumsy stumble today or stay comfortably miserable forever.",
+    "text": "TAKE THE STUMBLE",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s406vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "So Hoi Han Khi Doi Nganh",
+  "title_vi": "Sợ Hối Hận Khi Đổi Ngành",
+  "mechanism": "REGRET AVERSION",
+  "lines": [
+   {
+    "vo": "Muốn bỏ việc bàn giấy sang làm sáng tạo mà tay run bần bật? Ừ, tin luôn.",
+    "text": "KHÔNG DÁM BỎ VIỆC",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Thà ngồi gõ báo cáo ngán ngẩm còn hơn sợ họ hàng phán lông bông.",
+    "text": "SỢ HỌ HÀNG CHÊ",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Đó là tâm lý sợ hối hận. Não tự phanh gấp để trốn xấu hổ.",
+    "text": "SỢ HỐI HẬN",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hỏi thử xem: mười năm nữa có ai còn nhớ lần ngã này không?",
+    "text": "QUY TẮC MƯỜI NĂM",
+    "color": "green",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Tập tạ hỏng một hiệp thì tập lại, đứng im một chỗ mới teo cơ.",
+    "text": "ĐỨNG IM LÀ TEO CƠ",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Chấp nhận ngã vụng về một lần, hoặc ngồi yên chịu đựng cả đời.",
+    "text": "CHỌN NGÃ HAY ĐỨNG IM",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s407",
+  "mascot": "pen",
+  "title": "Why You Cling to Familiar Pain",
+  "mechanism": "AMBIGUITY AVERSION",
+  "lines": [
+   {
+    "vo": "Your current apartment creaks, but at least the commute is familiar.",
+    "text": "FAMILIAR MISERY",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "sofa"
+   },
+   {
+    "vo": "A new city tempts you, yet the missing details feel terrifying.",
+    "text": "FEAR OF THE UNKNOWN",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "That is ambiguity aversion: your mind prefers a known cage over an unseen room.",
+    "text": "AMBIGUITY AVERSION",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "When information is missing, your brain naturally assumes the worst.",
+    "text": "FEARING THE BLANK",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Write down your three biggest unknowns as simple factual questions.",
+    "text": "LIST THREE UNKNOWNS",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Fifteen minutes of research turns foggy dread into everyday logistics.",
+    "text": "CHECK THE FACTS",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "target"
+   },
+   {
+    "vo": "Is the unknown truly dangerous, or just missing a little data?",
+    "text": "FACTS OVER FEAR",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s407vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi Sao Ngai Chuyen Cho O",
+  "title_vi": "Vì Sao Ngại Chuyển Chỗ Ở",
+  "mechanism": "AMBIGUITY AVERSION",
+  "lines": [
+   {
+    "vo": "Phòng trọ cũ ẩm mốc, nhưng đường đi làm thì bạn đã thuộc làu.",
+    "text": "CĂN TRỌ CŨ ẨM MỐC",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Muốn chuyển chỗ mới, nhưng sợ chủ trọ khó tính và kẹt xe.",
+    "text": "NGẬP NGỪNG CHỖ MỚI",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Đó là tâm lý ghét mơ hồ. Não thà bám lấy cái khổ quen thuộc.",
+    "text": "TÂM LÝ GHÉT MƠ HỒ",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Khi thiếu dữ liệu, não rất dễ tự suy diễn ra nguy hiểm.",
+    "text": "NỖI SỢ THIẾU DỮ LIỆU",
+    "actor": "panic"
+   },
+   {
+    "vo": "Viết ra ba điều bạn lo nhất thành câu hỏi cụ thể.",
+    "text": "VIẾT BA NỖI SỢ",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Mười lăm phút tra cứu giá cọc và đường đi sẽ gạt bớt sương mù.",
+    "text": "TRA CỨU THỰC TẾ",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "target"
+   },
+   {
+    "vo": "Nơi mới thực sự đáng sợ, hay chỉ vì bạn chưa tìm hiểu kỹ?",
+    "text": "MƠ HỒ HAY NGUY HIỂM",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s408",
+  "mascot": "buff",
+  "title": "The Trap of Hunting the Perfect Job",
+  "mechanism": "MAXIMIZING TRAP",
+  "lines": [
+   {
+    "vo": "Three job offers and six spreadsheets. Step away from the keyboard.",
+    "text": "SIX SPREADSHEETS",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "You are trying to design an impossible five-plate warmup.",
+    "text": "THE PERFECT JOB",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Maximizing every single variable burns your mental stamina and spikes anxiety.",
+    "text": "MAXIMIZING TRAP",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cut the spreadsheet down to three non negotiable requirements.",
+    "text": "THREE CORE RULES",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Pick the one that builds skills and pays bills. Get to work.",
+    "text": "PICK AND EXECUTE",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s408vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Bay Cau Toan Khi Chon Viec",
+  "title_vi": "Bẫy Cầu Toàn Khi Chọn Việc",
+  "mechanism": "MAXIMIZING TRAP",
+  "lines": [
+   {
+    "vo": "Ba chỗ mời làm, ngồi lập bảng so từng dòng bảo hiểm với giờ tan ca.",
+    "text": "KẺ BẢNG SO SÁNH",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Muốn việc hoàn hảo? Khác gì đòi nâng tạ nặng mà cấm cơ bắp mỏi.",
+    "text": "KHÔNG CÓ HOÀN HẢO",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Càng cố tối ưu từng chi tiết nhỏ, đầu óc càng kiệt sức.",
+    "text": "BẪY CẦU TOÀN",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Chốt đúng ba tiêu chí cứng: lương đủ sống, sếp đàng hoàng, học được nghề.",
+    "text": "BA TIÊU CHÍ CỨNG",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Đạt đủ ba mốc đó là chọn việc đi làm, bớt ngồi mơ mộng.",
+    "text": "CHỌN RỒI ĐI LÀM",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s409",
+  "mascot": "pen",
+  "title": "Why You Daydream About Staying",
+  "mechanism": "WHAT IF THINKING",
+  "lines": [
+   {
+    "vo": "The moment you decide to leave, your brain drafts a romantic movie.",
+    "text": "FANTASY TIMELINE",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Suddenly, you imagine your difficult boss offering you a massive promotion.",
+    "text": "WHAT IF I STAY",
+    "actor": "think"
+   },
+   {
+    "vo": "Your brain runs wild what-if simulations, making the unchosen path look magically effortless.",
+    "text": "WHAT IF THINKING",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "You compare a gritty real day against a polished fantasy.",
+    "text": "UNFAIR COMPARISON",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Pull both choices out of fairy tale land onto plain paper.",
+    "text": "BACK TO REALITY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Write down the three ugliest daily headaches of both choices.",
+    "text": "WRITE REAL FLAWS",
+    "color": "green",
+    "actor": "reading",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Every path has dirty dishes and annoying meetings.",
+    "text": "EVERY PATH COSTS",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Once you see real flaws on both sides, the fog clears.",
+    "text": "NO PERFECT STORY",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s409vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ao Tuong Ve Lua Chon Bo Lo",
+  "title_vi": "Ảo Tưởng Về Lựa Chọn Bỏ Lỡ",
+  "mechanism": "WHAT IF THINKING",
+  "lines": [
+   {
+    "vo": "Vừa định nộp đơn nghỉ việc, đầu bạn bỗng vẽ ra một kịch bản đẹp.",
+    "text": "KỊCH BẢN MÀU HỒNG",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bạn tự hỏi, biết đâu ở lại cuối năm sếp sẽ thưởng lớn?",
+    "text": "BIẾT ĐÂU Ở LẠI",
+    "actor": "think"
+   },
+   {
+    "vo": "Não rất thích dựng phim giả định về con đường chưa chọn.",
+    "text": "TÂM LÝ GIẢ ĐỊNH",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nó lấy thực tế mệt mỏi đem so với giấc mơ hoàn hảo.",
+    "text": "SO SÁNH LỆCH PHA",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Hãy kéo cả hai phương án về mặt đất bằng giấy bút.",
+    "text": "ĐẶT LÊN BÀN CÂN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Ghi ra ba điểm gây phát bực nhất của cả hai lựa chọn.",
+    "text": "GHI PHIỀN TOÁI THẬT",
+    "color": "green",
+    "actor": "reading",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Chỗ nào cũng có việc lặt vặt và những cuộc họp dài lê thê.",
+    "text": "ĐÂU CŨNG GIAN NAN",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Nhìn thẳng vào khuyết điểm thật, tự nhiên lòng sẽ bớt chông chênh.",
+    "text": "BỚT CHÔNG CHÊNH",
+    "color": "gold",
+    "actor": "small_step"
+   }
+  ]
+ },
+ {
+  "id": "s410",
+  "mascot": "buff",
+  "title": "Most Big Decisions Can Be Reversed",
+  "mechanism": "REVERSIBILITY",
+  "lines": [
+   {
+    "vo": "You treat a one-year lease like a prison sentence. Relax, buddy.",
+    "text": "FEELING TRAPPED",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "That is an expensive door, not a permanent concrete wall.",
+    "text": "NOT A BRICK WALL",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Most life decisions are two way doors. You can walk back out.",
+    "text": "TWO WAY DOORS",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Keep three months of emergency cash and review after six months.",
+    "text": "EMERGENCY CASH",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Dropping a lease is just re-racking a bar. Pay the fee, reset.",
+    "text": "RE-RACK THE BAR",
+    "actor": "front",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Stop staring at the door handle. Turn it and walk through.",
+    "text": "WALK THROUGH NOW",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s410vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Quyet Dinh Co The Dao Nguoc",
+  "title_vi": "Quyết Định Có Thể Đảo Ngược",
+  "mechanism": "REVERSIBILITY",
+  "lines": [
+   {
+    "vo": "Ký hợp đồng thuê nhà một năm mà ngỡ bán mình? Bình tĩnh lại.",
+    "text": "SỢ BỊ TRÓI BUỘC",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Đó là cánh cửa có phí mở lại, không phải tường bê tông.",
+    "text": "KHÔNG PHẢI BÊ TÔNG",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Phần lớn lựa chọn là cửa hai chiều, bước vào rồi vẫn lùi ra được.",
+    "text": "CỬA HAI CHIỀU",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Để sẵn ba tháng tiền trọ phòng hờ, đặt lịch đánh giá sau nửa năm.",
+    "text": "QUỸ PHÒNG HỜ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Bỏ cọc chỉ là xả tạ làm hiệp mới. Mất chút tiền, người vẫn lành lặn.",
+    "text": "XẢ TẠ LÀM HIỆP MỚI",
+    "actor": "front",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Bớt sợ hão rồi bước vào thử đi. Sai thì quay đầu.",
+    "text": "SAI THÌ QUAY ĐẦU",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s411",
+  "mascot": "pen",
+  "title": "The Hidden Cost of Standing Still",
+  "mechanism": "OMISSION BIAS",
+  "lines": [
+   {
+    "vo": "If you take the leap and fail, everyone sees your stumble.",
+    "text": "PUBLIC FAILURE",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "If you stay quiet and stagnate, nobody points a finger.",
+    "text": "SILENT COMFORT",
+    "actor": "sofa_scroll",
+    "prop": "sofa"
+   },
+   {
+    "vo": "This is omission bias. Inaction feels safe because the decay is silent.",
+    "text": "OMISSION BIAS",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Our brains easily pardon doing nothing, even when skills quietly rot.",
+    "text": "INVISIBLE DECAY",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Calculate what twelve months of staying frozen actually costs you.",
+    "text": "THE STAGNATION TOLL",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Missed raises, lost connections, and stale craft add up fast.",
+    "text": "COUNT THE LOSS",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Staying completely still might be the riskiest gamble of all.",
+    "text": "STILLNESS IS A RISK",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s411vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Cai Gia Cua Viec Dung Im",
+  "title_vi": "Cái Giá Của Việc Đứng Im",
+  "mechanism": "OMISSION BIAS",
+  "lines": [
+   {
+    "vo": "Nhận việc mới mà hỏng, sợ cả phòng nhìn vào chê cười.",
+    "text": "SỢ BỊ CHÊ CƯỜI",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Cứ ôm việc cũ làm tà tà, chẳng ai nhắc tên bạn.",
+    "text": "CỨ LÀM TÀ TÀ",
+    "actor": "sofa_scroll",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Bẫy thụ động khiến bạn tưởng mình đang hoàn toàn an toàn.",
+    "text": "BẪY THỤ ĐỘNG",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Não dễ bỏ qua sự dậm chân vì nó không gây đau đớn ngay.",
+    "text": "BÀO MÒN ÂM THẦM",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Tính thử một năm trì hoãn bạn đánh mất những cơ hội nào.",
+    "text": "TÍNH PHÍ TRÌ HOÃN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Kỹ năng mòn dần trong khi bạn bè bứt phá và thăng tiến.",
+    "text": "BẠN BÈ BỨT PHÁ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Đôi khi đứng im một chỗ lại là canh bạc liều lĩnh nhất.",
+    "text": "ĐỨNG IM LÀ RỦI RO",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s412",
+  "mascot": "buff",
+  "title": "Why a Bigger Paycheck Blinds You",
+  "mechanism": "FOCALISM TRAP",
+  "lines": [
+   {
+    "vo": "Blinded by that massive salary bump? Step away from the calculator.",
+    "text": "THE SHINY RAISE",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Focalism makes you fixate on the shiny number and ignore red flags.",
+    "text": "FOCALISM TRAP",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "That is pure ego lifting: chasing a flashy PR while your shoulder screams.",
+    "text": "EGO LIFTING TRAP",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Run the Tuesday test: map the traffic, boss, and evening exhaustion.",
+    "text": "THE TUESDAY TEST",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "If daily reality is toxic, extra cash will not save you.",
+    "text": "CASH WONT SAVE YOU",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s412vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Bay Luong Cao Cua Cho Moi",
+  "title_vi": "Bẫy Lương Cao Của Chỗ Mới",
+  "mechanism": "FOCALISM TRAP",
+  "lines": [
+   {
+    "vo": "Thấy chỗ mới đập vào mặt cọc lương gấp rưỡi là mắt sáng rực?",
+    "text": "HOÁ MẮT VÌ TIỀN",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Đó là bẫy tập trung. Bạn chỉ nhìn tiền mà quên mọi thứ khác.",
+    "text": "BẪY TẬP TRUNG",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Đó là tật ham tạ nặng: thích khoe mức tạ mà lờ đi vai đau nhói.",
+    "text": "HAM TẠ NẶNG",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Hãy vẽ trọn một ngày thứ ba: kẹt xe, sếp réo, tối về kiệt sức.",
+    "text": "THỬ NGÀY THỨ BA",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Thực tế mỗi ngày mà ngột ngạt thì thêm vài đồng cũng chẳng bõ.",
+    "text": "TIỀN KHÔNG CỨU NỔI",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ }
+]

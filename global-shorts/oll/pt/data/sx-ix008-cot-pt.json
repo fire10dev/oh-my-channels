@@ -1,0 +1,82 @@
+{
+ "title": "Onde os pilotos do B-2 dormem numa missão de 44 horas",
+ "hook": "COCHILO A BORDO",
+ "asof": "Dados das missões de 2001 e 2025",
+ "world": "bomber",
+ "long": "IX008",
+ "chapters": [
+  {
+   "id": "sleep",
+   "hud": "HORA 9",
+   "chip": "03:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Esta é a cama numa missão de bombardeiro de quarenta e quatro horas.",
+     "v": "cot",
+     "plane": "sleep"
+    },
+    {
+     "s": "O B-2 voa com apenas dois pilotos.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "Sem equipe reserva. Ninguém para revezar.",
+     "v": "cockpit"
+    },
+    {
+     "s": "Em 2001, dois pilotos voaram por 44,3 horas seguidas.",
+     "v": "clock",
+     "st": [
+      "44,3 H",
+      "sem parar · out. 2001"
+     ]
+    },
+    {
+     "s": "Atrás dos assentos: uma cama militar adaptada e um saco de dormir.",
+     "v": "cot",
+     "you": "cot"
+    },
+    {
+     "s": "Um dorme enquanto o outro pilota.",
+     "v": "seats",
+     "you": "seats",
+     "plane": "sleep"
+    },
+    {
+     "s": "Hoje, a Força Aérea diz que os pilotos cochilam numa superfície de metal ali atrás.",
+     "v": "cot",
+     "you": "cot"
+    },
+    {
+     "s": "E não é confortável.",
+     "v": "cot",
+     "you": "cot",
+     "plane": "sleep"
+    },
+    {
+     "s": "Os dois precisam estar acordados em cada reabastecimento aéreo.",
+     "v": "tanker",
+     "plane": "refuel"
+    },
+    {
+     "s": "O piloto disse que o sono não era dos melhores.",
+     "v": "cot",
+     "you": "cot"
+    },
+    {
+     "s": "Mas, nessa hora, qualquer sono já ajuda.",
+     "v": "cot",
+     "you": "cot",
+     "plane": "sleep"
+    },
+    {
+     "s": "Você conseguiria dormir atrás do assento do piloto?",
+     "v": "seats",
+     "you": "seats"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,335 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 37.603,
+"shots": [
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 2.992,
+"a": [
+893,
+760,
+340
+],
+"b": [
+893,
+720,
+340
+]
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 2.992,
+"t1": 9.211,
+"a": [
+928,
+576,
+648
+],
+"b": [
+928,
+480,
+460
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 9.211,
+"t1": 13.19,
+"a": [
+440,
+950,
+700
+],
+"b": [
+440,
+950,
+520
+]
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.19,
+"t1": 17.109,
+"a": [
+1250,
+743,
+460
+],
+"b": [
+1200,
+849,
+340
+]
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.109,
+"t1": 21.206,
+"a": [
+893,
+760,
+340
+],
+"b": [
+893,
+720,
+340
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 21.206,
+"t1": 27.081,
+"a": [
+560,
+1080,
+800
+],
+"b": [
+600,
+1200,
+620
+]
+},
+{
+"img": "p03/img/X12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 27.081,
+"t1": 31.786,
+"a": [
+1060,
+743,
+460
+],
+"b": [
+1060,
+849,
+340
+],
+"flash": 1
+},
+{
+"img": "p03/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 31.786,
+"t1": 37.203,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 31.786,
+"t1": 37.203,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 2.992,
+"text": "¿MA XO EN CASA?",
+"color": "#ffd84a"
+},
+{
+"t0": 3.291,
+"t1": 9.211,
+"text": "1. NO VENDAS",
+"color": "#ffffff"
+},
+{
+"t0": 13.374,
+"t1": 17.109,
+"text": "2. NO LO SOBORNES",
+"color": "#ffffff"
+},
+{
+"t0": 21.475,
+"t1": 27.081,
+"text": "3. NO ABRAS EL FRASCO",
+"color": "#ff5a4a"
+},
+{
+"t0": 30.009,
+"t1": 31.786,
+"text": "TODO.",
+"color": "#ff5a4a"
+},
+{
+"t0": 31.786,
+"t1": 34.316,
+"text": "¿QUÉ HAY EN EL FRASCO?",
+"color": "#ffd84a"
+},
+{
+"t0": 34.316,
+"t1": 37.203,
+"text": "▼ EPISODIO COMPLETO: ENLACE ABAJO",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.0,
+"src": "p03/sfx/chuonggio.wav",
+"vol": 0.5
+},
+{
+"t": 6.693,
+"src": "p03/sfx/khoa.wav",
+"vol": 0.9
+},
+{
+"t": 9.395,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 15.391,
+"src": "p03/sfx/mam.wav",
+"vol": 0.8
+},
+{
+"t": 30.009,
+"src": "p02/sfx/dau.wav",
+"vol": 0.9
+},
+{
+"t": 31.786,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 35.918,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 2.792,
+"text": "Cómo sobrevivir a un ma xo en casa. Tres reglas."
+},
+{
+"t": 2.992,
+"dur": 5.969,
+"text": "Uno. No vendas la casa. Entra el topógrafo, la puerta se cierra y queda atrapado dos horas en el baño."
+},
+{
+"t": 9.211,
+"dur": 3.679,
+"text": "Si venden la casa, sus cosas se van. Tengo que mantenerlas aquí."
+},
+{
+"t": 13.19,
+"dur": 3.669,
+"text": "Dos. No lo sobornes. Se come la ofrenda, pero no hace el trabajo."
+},
+{
+"t": 17.109,
+"dur": 3.697,
+"text": "No acepto sobornos, señor. Solo como ofrendas de pastel de arroz."
+},
+{
+"t": 21.206,
+"dur": 5.375,
+"text": "Tres. No abras el frasco bajo la cocina. Si nadie lo abrió en tres generaciones, por algo será."
+},
+{
+"t": 27.081,
+"dur": 3.904,
+"text": "¿Ya lo abriste? Felicidades. Todo lo que hay en el frasco es tuyo. Todo."
+},
+{
+"t": 31.786,
+"dur": 4.217,
+"text": "El señor Khai lo abrió. ¿Qué hay en el frasco? Historia completa en el canal."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/es/vo/a1828fcb38.wav"
+},
+{
+"t": 2.992,
+"src": "loc/es/vo/1c842c6c95.wav"
+},
+{
+"t": 9.211,
+"src": "loc/es/vo/1a8ce9e584.wav"
+},
+{
+"t": 13.19,
+"src": "loc/es/vo/a775871e35.wav"
+},
+{
+"t": 17.109,
+"src": "loc/es/vo/37663ad9e9.wav"
+},
+{
+"t": 21.206,
+"src": "loc/es/vo/9f73e9f5bc.wav"
+},
+{
+"t": 27.081,
+"src": "loc/es/vo/682d856e31.wav"
+},
+{
+"t": 31.786,
+"src": "loc/es/vo/a5f29d7963.wav"
+}
+],
+"mutes": [
+[
+9.011,
+13.19
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

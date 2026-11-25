@@ -1,0 +1,335 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 37.758,
+"shots": [
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 3.381,
+"a": [
+893,
+760,
+340
+],
+"b": [
+893,
+720,
+340
+]
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 3.381,
+"t1": 9.692,
+"a": [
+928,
+576,
+648
+],
+"b": [
+928,
+480,
+460
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 9.692,
+"t1": 13.314,
+"a": [
+440,
+950,
+700
+],
+"b": [
+440,
+950,
+520
+]
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.314,
+"t1": 17.277,
+"a": [
+1250,
+743,
+460
+],
+"b": [
+1200,
+849,
+340
+]
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.277,
+"t1": 20.749,
+"a": [
+893,
+760,
+340
+],
+"b": [
+893,
+720,
+340
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 20.749,
+"t1": 26.57,
+"a": [
+560,
+1080,
+800
+],
+"b": [
+600,
+1200,
+620
+]
+},
+{
+"img": "p03/img/X12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 26.57,
+"t1": 32.325,
+"a": [
+1060,
+743,
+460
+],
+"b": [
+1060,
+849,
+340
+],
+"flash": 1
+},
+{
+"img": "p03/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 32.325,
+"t1": 37.358,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 32.325,
+"t1": 37.358,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 3.381,
+"text": "MA XO IN YOUR HOUSE?",
+"color": "#ffd84a"
+},
+{
+"t0": 3.684,
+"t1": 9.692,
+"text": "1. DON'T SELL",
+"color": "#ffffff"
+},
+{
+"t0": 13.5,
+"t1": 17.277,
+"text": "2. DON'T BRIBE IT",
+"color": "#ffffff"
+},
+{
+"t0": 21.015,
+"t1": 26.57,
+"text": "3. DON'T OPEN THE JAR",
+"color": "#ff5a4a"
+},
+{
+"t0": 30.286,
+"t1": 32.325,
+"text": "ALL OF IT.",
+"color": "#ff5a4a"
+},
+{
+"t0": 32.325,
+"t1": 34.625,
+"text": "WHAT'S IN THE JAR?",
+"color": "#ffd84a"
+},
+{
+"t0": 34.625,
+"t1": 37.358,
+"text": "▼ FULL EPISODE: LINK BELOW",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.0,
+"src": "p03/sfx/chuonggio.wav",
+"vol": 0.5
+},
+{
+"t": 7.139,
+"src": "p03/sfx/khoa.wav",
+"vol": 0.9
+},
+{
+"t": 9.858,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 15.542,
+"src": "p03/sfx/mam.wav",
+"vol": 0.8
+},
+{
+"t": 30.286,
+"src": "p02/sfx/dau.wav",
+"vol": 0.9
+},
+{
+"t": 32.325,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 36.081,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 3.181,
+"text": "How to survive a ma xo in your house. Three rules."
+},
+{
+"t": 3.381,
+"dur": 6.061,
+"text": "One. Don't sell the house. The surveyor comes in, the door locks, and he's stuck in the bathroom for two hours."
+},
+{
+"t": 9.692,
+"dur": 3.322,
+"text": "Sell the house, and the house's things leave. I have to keep them here."
+},
+{
+"t": 13.314,
+"dur": 3.712,
+"text": "Two. Don't bribe it. It'll eat the offering, but it won't do the job."
+},
+{
+"t": 17.277,
+"dur": 3.073,
+"text": "I don't take bribes, sir. I only eat rice cake offerings."
+},
+{
+"t": 20.749,
+"dur": 5.32,
+"text": "Three. Don't open the jar under the kitchen. Three generations left it shut for a reason."
+},
+{
+"t": 26.57,
+"dur": 4.956,
+"text": "Already opened it? Congratulations. Everything in the jar is yours. All of it."
+},
+{
+"t": 32.325,
+"dur": 3.833,
+"text": "Mr. Khai opened it. What's in the jar? Full story on the channel."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/en/vo/5b10ab1148.wav"
+},
+{
+"t": 3.381,
+"src": "loc/en/vo/deb35f4e35.wav"
+},
+{
+"t": 9.692,
+"src": "loc/en/vo/1564a53ae0.wav"
+},
+{
+"t": 13.314,
+"src": "loc/en/vo/7740e90649.wav"
+},
+{
+"t": 17.277,
+"src": "loc/en/vo/ea5ac884f7.wav"
+},
+{
+"t": 20.749,
+"src": "loc/en/vo/f149563ecd.wav"
+},
+{
+"t": 26.57,
+"src": "loc/en/vo/d06914cbd2.wav"
+},
+{
+"t": 32.325,
+"src": "loc/en/vo/bf0768b985.wav"
+}
+],
+"mutes": [
+[
+9.492,
+13.314
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

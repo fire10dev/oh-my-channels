@@ -1,0 +1,404 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 37.75,
+"shots": [
+{
+"img": "p01/img/S18.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 3.423,
+"a": [
+500,
+520,
+460
+],
+"b": [
+500,
+520,
+340
+],
+"flash": 1,
+"dark": 0.15
+},
+{
+"img": "p01/img/S21.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 3.423,
+"t1": 6.698,
+"a": [
+600,
+576,
+648
+],
+"b": [
+620,
+576,
+648
+]
+},
+{
+"img": "p01/img/S21.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 6.698,
+"t1": 9.845,
+"a": [
+1500,
+576,
+648
+],
+"b": [
+1500,
+440,
+460
+]
+},
+{
+"img": "p01/img/S21.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 9.845,
+"t1": 11.571,
+"a": [
+1500,
+440,
+460
+],
+"b": [
+1500,
+420,
+340
+]
+},
+{
+"img": "p01/img/S21.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 11.571,
+"t1": 15.047,
+"a": [
+600,
+450,
+460
+],
+"b": [
+600,
+430,
+340
+]
+},
+{
+"img": "p01/img/S21.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 15.047,
+"t1": 18.514,
+"a": [
+1500,
+576,
+648
+],
+"b": [
+1500,
+440,
+460
+]
+},
+{
+"img": "p01/img/S22.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 18.514,
+"t1": 22.101,
+"a": [
+470,
+576,
+648
+],
+"b": [
+470,
+260,
+460
+]
+},
+{
+"img": "p01/img/S22.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 22.101,
+"t1": 23.951,
+"a": [
+470,
+260,
+460
+],
+"b": [
+480,
+240,
+340
+]
+},
+{
+"img": "p01/img/S23.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.951,
+"t1": 28.609,
+"a": [
+800,
+576,
+648
+],
+"b": [
+800,
+640,
+460
+]
+},
+{
+"img": "p01/img/S10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 28.609,
+"t1": 30.689,
+"a": [
+680,
+520,
+460
+],
+"b": [
+680,
+520,
+340
+]
+},
+{
+"img": "p01/img/S24.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 30.689,
+"t1": 32.222,
+"a": [
+760,
+560,
+460
+],
+"b": [
+780,
+520,
+340
+],
+"shake": 3
+},
+{
+"img": "p01/img/S24.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 32.222,
+"t1": 33.783,
+"a": [
+1340,
+576,
+648
+],
+"b": [
+1320,
+740,
+460
+]
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 33.783,
+"t1": 37.25,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p01/img/cut_B02.png",
+"size": 1344,
+"t0": 33.783,
+"t1": 37.25,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 22.181,
+"t1": 23.951,
+"text": "UNCUT LIVE: THE TRUTH ABOUT MY MOM",
+"color": "#ff5a4a"
+},
+{
+"t0": 33.783,
+"t1": 37.25,
+"text": "WHAT DID HE DO NEXT?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.6
+},
+{
+"t": 22.181,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.7
+},
+{
+"t": 28.866,
+"src": "sh6/sfx/wind.wav",
+"vol": 0.5
+},
+{
+"t": 33.783,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 36.201,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 2.473,
+"text": "Four seconds. The blanket, flat at the neck."
+},
+{
+"t": 3.423,
+"dur": 6.172,
+"text": "Only Mrs. Hanh next door stayed quiet. She came over, sat down, and looked at me for a long time."
+},
+{
+"t": 9.845,
+"dur": 1.476,
+"text": "Granny Tu. Be careful."
+},
+{
+"t": 11.571,
+"dur": 6.443,
+"text": "She didn't mean my son should be careful. She meant me. Turns out, someone can know you're a ghost and still worry about you."
+},
+{
+"t": 18.514,
+"dur": 3.337,
+"text": "That night, he put a camera on top of the cabinet. The title:"
+},
+{
+"t": 23.951,
+"dur": 4.409,
+"text": "At two fifteen, he nodded off. Nine thousand people stayed awake for him."
+},
+{
+"t": 28.609,
+"dur": 1.28,
+"text": "And my head got lighter."
+},
+{
+"t": 30.689,
+"dur": 2.694,
+"text": "His phone buzzed. He woke up. Looked at the bed."
+},
+{
+"t": 33.783,
+"dur": 2.466,
+"text": "What did he do next? I'll tell you next time."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/en/vo/2c92bff445.wav"
+},
+{
+"t": 3.423,
+"src": "loc/en/vo/19d3fa8916.wav"
+},
+{
+"t": 9.845,
+"src": "loc/en/vo/b246f364f5.wav"
+},
+{
+"t": 11.571,
+"src": "loc/en/vo/b94b117cb1.wav"
+},
+{
+"t": 18.514,
+"src": "loc/en/vo/c083d39672.wav"
+},
+{
+"t": 23.951,
+"src": "loc/en/vo/b5a5631808.wav"
+},
+{
+"t": 28.609,
+"src": "loc/en/vo/155922bc76.wav"
+},
+{
+"t": 30.689,
+"src": "loc/en/vo/0ff49c8a46.wav"
+},
+{
+"t": 33.783,
+"src": "loc/en/vo/62d2b4d9ca.wav"
+}
+],
+"mutes": [
+[
+-0.05,
+3.423
+],
+[
+28.409,
+30.689
+]
+],
+"live": [
+[
+0.15,
+3.423
+],
+[
+23.951,
+28.609
+]
+],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

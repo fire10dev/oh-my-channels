@@ -1,0 +1,724 @@
+[
+ {
+  "id": "s539",
+  "mascot": "pen",
+  "title": "Why Doorways Reset You",
+  "mechanism": "Event Boundaries",
+  "lines": [
+   {
+    "vo": "I stood up for my charger, and lost the thought at the doorway.",
+    "text": "DOORWAY RESET",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Every threshold acts like an event boundary.",
+    "text": "EVENT BOUNDARY",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Your brain archives the old room to make space for the new one.",
+    "text": "CLEARING STORAGE",
+    "actor": "hand_off",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "So the moment you cross, recent intentions get shelved.",
+    "text": "INTENTION SHELVED",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Before taking that step, pause and picture the charger on your nightstand.",
+    "text": "PICTURE THE SPOT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Holding the image carries your thought safely to the other side.",
+    "text": "CARRY IT ACROSS",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s539vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao buoc qua cua lai quen",
+  "title_vi": "Vì sao bước qua cửa lại quên",
+  "mechanism": "Event Boundaries",
+  "lines": [
+   {
+    "vo": "Vừa đứng dậy ra bếp lấy cốc nước, đến cửa bỗng đứng hình.",
+    "text": "VỪA ĐI ĐÃ QUÊN",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Cánh cửa phòng hoạt động như một ranh giới sự kiện.",
+    "text": "RANH GIỚI SỰ KIỆN",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Não tự động cất bối cảnh phòng cũ để chuẩn bị cho phòng mới.",
+    "text": "DỌN BỘ NHỚ TẠM",
+    "actor": "hand_off",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Chỉ một bước chân, ý định ban đầu bị đẩy vào kho lưu trữ.",
+    "text": "Ý ĐỊNH BỊ CẤT",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Trước khi bước qua cửa, hãy nhủ thầm hình ảnh cốc nước trên bàn.",
+    "text": "HÌNH DUNG TRƯỚC",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Liệu bạn có muốn thử neo lại hình ảnh này trước khi bước đi?",
+    "text": "THỬ NEO LẠI XEM",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s540",
+  "mascot": "buff",
+  "title": "Train Your Future Memory",
+  "mechanism": "Prospective Memory",
+  "lines": [
+   {
+    "vo": "Planning to grab a book in ten minutes? Good luck, buddy.",
+    "text": "SURE, BUDDY",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "That is prospective memory, and your brain loves dropping that barbell.",
+    "text": "DROPPING THE BAR",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Remembering past events is easy. Executing future intentions without alarms is brutal.",
+    "text": "FUTURE MEMORY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Without an external cue, delayed intentions dissolve in a few minutes.",
+    "text": "PLANS DISSOLVE",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Give your future self a spotter right now.",
+    "text": "SET A SPOTTER",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Hold an unusual object, like a bright marker, until the task is done.",
+    "text": "HOLD AN OBJECT",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Keep that physical trigger in your fist, or drop the rep.",
+    "text": "FINISH THE REP",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s540vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Cach nho viec can lam lat nua",
+  "title_vi": "Cách nhớ việc cần làm lát nữa",
+  "mechanism": "Prospective Memory",
+  "lines": [
+   {
+    "vo": "Tự nhủ mười phút nữa chuyển khoản tiền nhà. Ừ, tin đấy.",
+    "text": "Ừ, TIN ĐẤY",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Đó là trí nhớ tương lai, và não bạn vừa buông tạ giữa chừng.",
+    "text": "BUÔNG TẠ SỚM",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Việc hôm qua thì nhớ rõ, nhưng việc lát nữa làm thì biến mất rất nhanh.",
+    "text": "DỄ QUÊN VIỆC TỚI",
+    "actor": "think",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Không có chuông nhắc, ý định sẽ chìm nghỉm giữa hàng tá tin nhắn Zalo.",
+    "text": "TRÔI TIN NHẮN",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Muốn không quên, hãy đặt một người hỗ trợ vật lý ngay lập tức.",
+    "text": "CẦN VẬT BÁO HIỆU",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Cầm một cây bút dạ khác lạ trên tay cho tới khi chuyển khoản xong.",
+    "text": "CẦM BÚT TRÊN TAY",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Giữ chặt vật nhắc nhở trong tay, hoặc chấp nhận bị nhắc nợ.",
+    "text": "GIỮ CHẶT TRÊN TAY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "coin_stack"
+   }
+  ]
+ },
+ {
+  "id": "s541",
+  "mascot": "pen",
+  "title": "Why Bright Rooms Blank You",
+  "mechanism": "Context Shifts",
+  "lines": [
+   {
+    "vo": "Leaving a dim study for a bright kitchen often wipes your thoughts clean.",
+    "text": "MIND GOES BLANK",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Thoughts bind tightly to ambient lighting, background sounds, and room air.",
+    "text": "CONTEXT BOUND",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "When sensory scenery suddenly shifts, the mental scaffolding instantly collapses.",
+    "text": "SCAFFOLD COLLAPSE",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Speak the item color and shape out loud before walking.",
+    "text": "SAY IT OUT LOUD",
+    "color": "green",
+    "actor": "reading",
+    "prop": "target"
+   },
+   {
+    "vo": "A simple verbal shield carries the thought through changing light.",
+    "text": "VERBAL SHIELD",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s541vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Doi khong gian la quen sach",
+  "title_vi": "Đổi không gian là quên sạch",
+  "mechanism": "Context Shifts",
+  "lines": [
+   {
+    "vo": "Rời bàn làm việc điều hoà mát lạnh ra ban công, đầu bỗng trống rỗng.",
+    "text": "ĐẦU TRỐNG RỖNG",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Suy nghĩ của bạn vốn đang bám chặt vào ánh sáng và nhiệt độ phòng cũ.",
+    "text": "BÁM VÀO BỐI CẢNH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Sang một môi trường lạ, chiếc giàn giáo nâng đỡ suy nghĩ lập tức đổ sụp.",
+    "text": "MẤT ĐIỂM TỰA",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Hãy gọi to tên món đồ trước khi nhấc chân rời khỏi ghế.",
+    "text": "GỌI TÊN MÓN ĐỒ",
+    "color": "green",
+    "actor": "nervous_wave",
+    "prop": "target"
+   },
+   {
+    "vo": "Một cái tên được nói thành lời sẽ che chở cho ý định của bạn.",
+    "text": "CÂU CHỮ BẢO VỆ",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s542",
+  "mascot": "buff",
+  "title": "Keep Your Goal Firing",
+  "mechanism": "Goal Activation",
+  "lines": [
+   {
+    "vo": "Standing up for water, but forgetting why halfway there? Classic.",
+    "text": "CLASSIC SLIP",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "That is goal activation decay hitting you in ten seconds flat.",
+    "text": "GOAL DECAY",
+    "color": "red",
+    "actor": "panic",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "An active goal is like holding a heavy barbell at chest height.",
+    "text": "HOLD THE BARBELL",
+    "actor": "front",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Stop pumping neural energy, and the bar crashes onto the rack.",
+    "text": "BAR CRASHES DOWN",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Default thoughts rush in to claim that empty mental real estate.",
+    "text": "DISTRACTIONS WIN",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Time for subvocal rehearsal to lock your focus in place.",
+    "text": "CHANT THE WORDS",
+    "color": "green",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Chant a two-syllable word rhythmically under your breath all the way.",
+    "text": "RHYTHMIC LOOP",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "target"
+   },
+   {
+    "vo": "Keep that chant spinning, or stay thirsty on the couch.",
+    "text": "KEEP CHANTING",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s542vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Vi sao di vai buoc da quen viec",
+  "title_vi": "Vì sao đi vài bước đã quên việc",
+  "mechanism": "Goal Activation",
+  "lines": [
+   {
+    "vo": "Đứng lên định rót nước, đi được năm bước đã ngơ ngác. Quen chưa?",
+    "text": "ĐI LÀ QUÊN NGAY",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Đó là sự suy giảm kích hoạt mục tiêu chỉ sau mười giây.",
+    "text": "MỤC TIÊU BIẾN MẤT",
+    "color": "red",
+    "actor": "panic",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Giữ một ý định trong đầu nặng hệt như giữ tạ trước ngực.",
+    "text": "GIỮ TẠ TRƯỚC NGỰC",
+    "actor": "front",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Lơi tay một nhịp là tạ rơi thẳng xuống sàn ngay.",
+    "text": "LƠI TAY LÀ RƠI",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Mấy ý nghĩ linh tinh về deadline sẽ tràn vào lấp chỗ trống.",
+    "text": "SUY NGHĨ TẠP NHAM",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hãy kích hoạt vòng lặp âm thanh trong đầu bạn ngay.",
+    "text": "BẬT VÒNG LẶP ÂM",
+    "color": "green",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Lẩm nhẩm hai từ khoá đều đặn theo từng nhịp chân bước.",
+    "text": "LẨM NHẨM TỪ KHOÁ",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "target"
+   },
+   {
+    "vo": "Đọc đều theo nhịp chân, hoặc quay về bàn với cái đầu rỗng.",
+    "text": "GIỮ NHỊP BƯỚC ĐI",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s543",
+  "mascot": "pen",
+  "title": "Why Desk Chairs Hold Memories",
+  "mechanism": "Encoding Specifics",
+  "lines": [
+   {
+    "vo": "Ever notice how a lost thought returns the second you sit back down?",
+    "text": "THE THOUGHT POPS",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "sofa"
+   },
+   {
+    "vo": "That is encoding specificity unlocking your hidden mental file.",
+    "text": "ENCODING MATCH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Your ideas get woven directly into your seated posture and screen glare.",
+    "text": "WOVEN INTO POSTURE",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Stepping away leaves those sensory retrieval keys behind at your desk.",
+    "text": "KEYS LEFT BEHIND",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Instead of walking back, mentally reconstruct your monitor and posture.",
+    "text": "REBUILD CONTEXT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Can your mind rebuild the room before your feet take another lap?",
+    "text": "REBUILD IN MIND",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s543vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vua ngoi xuong ghe la nho ra",
+  "title_vi": "Vừa ngồi xuống ghế là nhớ ra",
+  "mechanism": "Encoding Specifics",
+  "lines": [
+   {
+    "vo": "Vừa đi tìm đồ không thấy, quay về ngồi xuống ghế làm việc lại nhớ ra.",
+    "text": "NGỒI LẠI LÀ NHỚ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Hiện tượng mã hoá đặc thù vừa mở lại chiếc khoá trí nhớ của bạn.",
+    "text": "MÃ HOÁ ĐẶC THÙ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Ý tưởng ban đầu bị khoá chặt vào màn hình máy tính và tư thế ngồi.",
+    "text": "KHOÁ VÀO TƯ THẾ",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Rời khỏi ghế, bạn đã để quên chiếc chìa khoá gợi nhớ ở lại bàn.",
+    "text": "QUÊN CHÌA KHOÁ",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Đừng lững thững đi lại, hãy nhắm mắt hình dung góc bàn và file đang mở.",
+    "text": "HÌNH DUNG GÓC BÀN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Chiếc chìa khoá vô hình đó có kéo ký ức về ngay lúc này không?",
+    "text": "TÌM LẠI CHÌA KHOÁ",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s544",
+  "mascot": "buff",
+  "title": "Hallway Clutter Steals Focus",
+  "mechanism": "Interference",
+  "lines": [
+   {
+    "vo": "Glance at a pile of laundry, and your original errand is gone.",
+    "text": "ERRAND GONE",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Cognitive interference just stripped fifty pounds right off your focus bar.",
+    "text": "FOCUS STRIPPED",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Working memory has strict limits, and clutter competes for your bandwidth.",
+    "text": "STRICT LIMITS",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Sudden visual noise hijacks attention before you can finish the set.",
+    "text": "VISUAL HIJACK",
+    "color": "red",
+    "actor": "sofa_scroll"
+   },
+   {
+    "vo": "Use auditory gating to block the noise.",
+    "text": "AUDITORY GATING",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Hum a steady rhythm down the hallway to protect your focus lane.",
+    "text": "HUM A RHYTHM",
+    "color": "green",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Block the visual noise, or let dirty laundry bench press your brain.",
+    "text": "GUARD YOUR FOCUS",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s544vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Nhin do bua bon la quen viec",
+  "title_vi": "Nhìn đồ bừa bộn là quên việc",
+  "mechanism": "Interference",
+  "lines": [
+   {
+    "vo": "Đi ngang qua đống quần áo chưa gấp, việc chính bỗng bay màu luôn.",
+    "text": "VIỆC CHÍNH BAY MÀU",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Nhiễu nhận thức vừa hất văng thanh tạ chú ý của bạn ra khỏi giá.",
+    "text": "HẤT VĂNG THANH TẠ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Dung lượng não có hạn, đống đồ lộn xộn lập tức tranh giành băng thông.",
+    "text": "TRANH BĂNG THÔNG",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Mớ việc nhà bất ngờ cướp mất hiệp nâng tạ trí não của bạn.",
+    "text": "BỊ CƯỚP CHÚ Ý",
+    "color": "red",
+    "actor": "sofa_scroll"
+   },
+   {
+    "vo": "Dùng cổng âm thanh để bịt mắt cho não bộ ngay.",
+    "text": "CHẮN BẰNG ÂM THANH",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Búng ngón tay hoặc ngâm nga một giai điệu suốt đoạn đường đi.",
+    "text": "BÚNG TAY THEO NHỊP",
+    "color": "green",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Tự tạo nhịp điệu riêng, hoặc để đống việc vặt nuốt chửng bạn.",
+    "text": "BẢO VỆ HIỆP TẬP",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s545",
+  "mascot": "pen",
+  "title": "Don't Rely on Shelves",
+  "mechanism": "Environmental Cues",
+  "lines": [
+   {
+    "vo": "Opening the fridge and staring at shelves will rarely jog your memory.",
+    "text": "STARING AT SHELVES",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "You are waiting for environmental cues to coach you through the moment.",
+    "text": "OUTSIDE CUES",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Holding an internal goal burns fuel, so your brain waits for prompts.",
+    "text": "BURNING FUEL",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "If the item is tucked away out of sight, your mind simply stalls.",
+    "text": "MIND STALLS OUT",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Jot the item keyword on a scrap of paper before leaving your desk.",
+    "text": "JOT IT ON PAPER",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "A tiny written clue in your palm guides you through every distraction.",
+    "text": "A TINY WRITTEN CUE",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s545vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Mo tu lanh roi dung hinh",
+  "title_vi": "Mở tủ lạnh rồi đứng hình",
+  "mechanism": "Environmental Cues",
+  "lines": [
+   {
+    "vo": "Mở cánh tủ lạnh ra rồi đứng ngây người nhìn chai trà sữa dở.",
+    "text": "MỞ TỦ ĐỨNG HÌNH",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Bạn đang thụ động chờ tín hiệu từ đồ vật nhắc lại việc cần làm.",
+    "text": "CHỜ TÍN HIỆU NGOÀI",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Giữ ý định tốn năng lượng, nên não chọn lười biếng chờ đợi gợi ý.",
+    "text": "NÃO LƯỜI GỢI NHỚ",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Món đồ nằm khuất phía trong là dòng suy nghĩ tắt ngúm ngay.",
+    "text": "ĐỒ KHUẤT LÀ TẮT",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Hãy viết nhanh tên món cần lấy vào mẩu giấy nhỏ trước khi đứng lên.",
+    "text": "VIẾT NHANH RA GIẤY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Một mẩu giấy nhỏ trên tay sẽ đưa bạn đi qua mọi sự xao nhãng.",
+    "text": "MẸO NHỎ DẪN ĐƯỜNG",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ }
+]

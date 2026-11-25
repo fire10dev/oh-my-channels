@@ -1,0 +1,116 @@
+{
+ "title": "L’équipage de Biosphère 2 a eu faim deux ans",
+ "hook": "DEUX ANS DE FAIM",
+ "asof": "Chiffres tirés des archives de 1991 à 1994",
+ "world": "bio",
+ "long": "IX006",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "JOUR 60",
+   "chip": "NOV. 1991",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "kitchen",
+     "you": "kitchen",
+     "s": "Imagine : tu ne manges que ce que tu cultives, pendant deux ans."
+    },
+    {
+     "v": "wide",
+     "s": "En 1991, huit personnes sont enfermées dans Biosphère 2."
+    },
+    {
+     "v": "farm",
+     "st": [
+      "0,2 hectare",
+      "pour nourrir 8 personnes"
+     ],
+     "s": "Leur ferme faisait environ 0,2 hectare."
+    },
+    {
+     "v": "goats",
+     "s": "Des chèvres pour le lait,"
+    },
+    {
+     "v": "goats",
+     "you": "goats",
+     "s": "des poules et des cochons,"
+    },
+    {
+     "v": "fish",
+     "s": "et du tilapia en bassin."
+    },
+    {
+     "v": "crops",
+     "s": "Mais surtout, des plantes."
+    },
+    {
+     "v": "kitchen",
+     "s": "Des patates douces. Beaucoup de patates douces."
+    },
+    {
+     "v": "kitchen",
+     "st": [
+      "ORANGE",
+      "la peau à cause des patates douces"
+     ],
+     "s": "La peau d’un membre de l’équipe a viré à l’orange."
+    },
+    {
+     "v": "coffee",
+     "you": "coffee",
+     "s": "Du café ? À peine une tasse toutes les quelques semaines."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "1 780",
+      "small": "calories par jour, les 6 premiers mois · PNAS, 1992"
+     },
+     "s": "Les six premiers mois, leur moyenne tournait autour de mille sept cent quatre-vingts calories par jour."
+    },
+    {
+     "v": "crops",
+     "you": "crops",
+     "s": "Et ils bossaient dur aux champs."
+    },
+    {
+     "v": "kitchen",
+     "s": "Les assiettes étaient léchées jusqu’à la dernière miette."
+    },
+    {
+     "d": {
+      "type": "compare",
+      "left": [
+       "AVANT",
+       "74 kg",
+       "hommes, moyenne"
+      ],
+      "right": [
+       "APRÈS 6 MOIS",
+       "62 kg",
+       "hommes, moyenne"
+      ],
+      "note": "PNAS, 1992"
+     },
+     "s": "Les hommes sont passés d’environ soixante-quatorze à soixante-deux kilos."
+    },
+    {
+     "v": "lab",
+     "you": "lab",
+     "st": [
+      "−36 %",
+      "cholestérol · PNAS 1992"
+     ],
+     "s": "Leur cholestérol a baissé d’environ un tiers."
+    },
+    {
+     "v": "berth",
+     "you": "berth",
+     "s": "Tu tiendrais deux ans avec si peu ?"
+    }
+   ]
+  }
+ ]
+}

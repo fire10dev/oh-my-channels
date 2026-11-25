@@ -1,0 +1,942 @@
+{
+ "id": "L19vi",
+ "lang": "vi",
+ "title": "Vì sao chọn người hẹn hò trên ứng dụng lại mệt đến vậy?",
+ "description": "Quẹt hàng trăm hồ sơ hẹn hò chỉ khiến bạn thêm kiệt sức thay vì hy vọng. Trong video này, chúng tôi giải mã tám cơ chế tâm lý đằng sau cảm giác đuối sức khi tìm người yêu và mẹo thực tế để lấy lại tự tin.",
+ "chapters": [
+  {
+   "title": "Mỏi tay vì quẹt",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nửa đêm nằm lướt mãi từng gương mặt, ngón tay tê dại mà lòng vẫn trống rỗng.",
+     "text": "MỎI TAY VÌ QUẸT",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen biến việc tìm người yêu thành bài chạy bền thâu đêm mà không thèm giãn cơ rồi.",
+     "text": "CÀY CUỐC KHÔNG NGHỈ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lên mạng tìm tình yêu, ai ngờ ngồi chấm điểm người lạ lại mệt đến thế.",
+     "text": "GÁNH NẶNG TÂM LÝ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì não bộ sinh ra đâu phải để xử lý một danh sách ứng viên dài dằng dặc.",
+     "text": "BỘ NÃO NGUYÊN BẢN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có lý do tâm lý nào khiến việc chọn một người lại kiệt sức đến thế không?",
+     "text": "SAO LẠI ĐUỐI SỨC?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có tám nút thắt tâm lý cần gỡ để lấy lại phương hướng khi tìm người yêu.",
+     "text": "TÁM BƯỚC ĐỔI TƯ DUY",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Quá tải lựa chọn",
+   "sources": [
+    "s01",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ăn tối xong nằm quẹt một hồi cả trăm hồ sơ, hoa cả mắt.",
+     "text": "1. QUÁ TẢI LỰA CHỌN",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng thấy ai thật cả, chọn nhắn cho một người cũng thấy tê liệt, áp lực.",
+     "text": "TÊ LIỆT TÂM TRÍ",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là quá tải lựa chọn, nó đốt sạch năng lượng điều hành của não đấy.",
+     "text": "QUÁ TẢI LỰA CHỌN",
+     "color": "red",
+     "actor": "front",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhiều lựa chọn hơn đáng lẽ phải giúp tìm người phù hợp dễ hơn chứ?",
+     "text": "CÀNG NHIỀU CÀNG TỐT?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sai lầm. Não người chỉ đánh giá tốt vài phương án cùng một lúc thôi.",
+     "text": "BỘ NHỚ CÓ HẠN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên xem hàng chục người liên tục khiến não mình bị quá tải giới hạn?",
+     "text": "CHẬP MẠCH TƯ DUY",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tổ tiên gắn kết trong bộ tộc nhỏ, đâu phải cái chợ ảo vô tận này.",
+     "text": "LÀNG XÃ NGÀY XƯA",
+     "color": "gold",
+     "actor": "34",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi quá tải ập đến, cảm xúc mình trơ lì và chẳng còn tha thiết gì.",
+     "text": "CẢM XÚC TRƠ LÌ",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não tự ngắt cầu dao để chống kiệt sức, dập tắt luôn sự đồng cảm.",
+     "text": "TỰ NGẮT CẦU DAO",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao thoát cơn mê lướt vô thức này để giữ năng lượng tinh thần?",
+     "text": "LÀM SAO ĐỂ DỪNG?",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giới hạn mỗi tuần chỉ nói chuyện với năm người tương hợp, xem kỹ rồi đóng ứng dụng.",
+     "text": "GIỚI HẠN NĂM NGƯỜI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dù thu hẹp lựa chọn, não Pen vẫn dễ sa vào bẫy tìm người hoàn hảo.",
+     "text": "ẢO TƯỞNG HOÀN HẢO",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "2. Bẫy tối đa hóa",
+   "sources": [
+    "s01",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hôm qua ghép đôi người rất ổn, mình lại nghĩ ngay liệu người sau có tốt hơn.",
+     "text": "2. BẪY TỐI ĐA HÓA",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là lại muốn lướt tiếp, phòng khi gặp được đối tượng điểm mười hoàn hảo.",
+     "text": "SỢ BỎ LỠ ĐIỂM MƯỜI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là bẫy tối đa hóa: lúc nào cũng muốn săn lùng người hoàn hảo nhất.",
+     "text": "BẪY TỐI ĐA HÓA",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng lẽ muốn tìm người bạn đời tốt nhất cho mình lại là sai?",
+     "text": "TÌM NGƯỜI TỐT NHẤT?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người tối đa hóa hay săm soi chi tiết, nên chỉ chuốc lấy nuối tiếc kéo dài.",
+     "text": "HỐI TIẾC KÉO DÀI",
+     "color": "red",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bảo sao vừa đi cà phê rất vui, về nhà lướt tiếp mình lại thấy hụt hẫng ngay.",
+     "text": "HỤT HẪNG KHÔNG RÕ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng sợ thiệt thòi lừa Pen mải đuổi theo một hình mẫu điểm mười ảo.",
+     "text": "HÌNH MẪU TRONG MƠ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So người thật với hình mẫu ảo làm mình mất sạch cảm giác rung động.",
+     "text": "DẬP TẮT RUNG ĐỘNG",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trúng tim đen rồi. Pen đốt sức chấm điểm lỗi thay vì thấu hiểu người trước mặt.",
+     "text": "BỚI LÔNG TÌM VẾT",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao đổi tư duy để không coi người hẹn hò như món hàng đánh giá?",
+     "text": "CÁCH ĐỔI TƯ DUY",
+     "color": "ink",
+     "actor": "coffee"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn ba giá trị cốt lõi, khi họ đạt chuẩn thì dừng tìm điểm cộng ảo.",
+     "text": "BA TIÊU CHÍ CỐT LÕI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Biết chấp nhận sự vừa vặn sẽ dẫn Pen tới một kỷ luật tâm lý cốt lõi.",
+     "text": "BIẾT THẾ NÀO LÀ VỪA",
+     "color": "gold",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "3. Nguyên tắc vừa đủ",
+   "sources": [
+    "s01",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Gặp người hợp tính rồi, mình vẫn sợ chọn họ nghĩa là chịu về nhì.",
+     "text": "3. NGUYÊN TẮC VỪA ĐỦ",
+     "color": "ink",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mạng xã hội luôn vẽ ra pháo hoa tình yêu, khiến chữ vừa đủ nghe như thua cuộc.",
+     "text": "ẢO TƯỞNG SÉT ĐÁNH",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là nguyên tắc vừa đủ. Dân tập chuyên nghiệp chọn mức tạ vừa sức chứ không ráng liều.",
+     "text": "BIẾT ĐỦ LÀ THẮNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chọn người vừa chuẩn là thắng lợi chứ đâu phải thỏa hiệp lười biếng?",
+     "text": "LỰA CHỌN KHÔN NGOAN?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đặt chuẩn rõ ràng, chạm ngưỡng là chốt ngay hiệp tập để phát triển cơ bắp thật.",
+     "text": "KHÓA HIỆP ĐÚNG LÚC",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn kẻ cầu toàn thì mắc kẹt trên máy chạy, luôn nghi ngờ quyết định của mình.",
+     "text": "MÁY CHẠY VÔ TẬN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tổ tiên sinh tồn nhờ dám gắn kết khi đã an toàn, chứ không chờ đợi vô vọng.",
+     "text": "DÁM CHỐT ĐỂ TỒN TẠI",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mà ứng dụng hẹn hò lại luôn bày ra hồ sơ lung linh để mời gọi.",
+     "text": "MỒI NHỬ LUNG LINH",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rõ như ban ngày. Thuật toán kiếm lời khi Pen độc thân để tiếp tục lướt chợ ảo.",
+     "text": "LỢI NHUẬN TỪ SỰ LƯỚT",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tuần này mình nên đặt ranh giới thực tế nào để tập thói quen biết đủ?",
+     "text": "RANH GIỚI THỰC TẾ",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ai chạm chuẩn thì hẹn gặp cà phê mười lăm phút ngay, đừng nhắn tin dây dưa.",
+     "text": "HẸN GẶP CÀ PHÊ NGAY",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhưng chỉ tập trung một người duy nhất cũng dễ tạo ra làn sóng phản kháng.",
+     "text": "ÁP LỰC KHI ĐỘC NHẤT",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "4. Ngại một lựa chọn",
+   "sources": [
+    "s01",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Chỉ ghép đôi đúng một người làm mình ngột ngạt, gửi một tin cũng sợ hỏng chuyện.",
+     "text": "4. NGẠI MỘT LỰA CHỌN",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù thấy đối phương rất dễ mến, việc không còn ai khác nhắn tin làm mình thấy ngột ngạt.",
+     "text": "ÁP LỰC NGỘT NGẠT",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là ác cảm một lựa chọn. Chỉ tập duy nhất một bài đẩy tạ thì cơ bắp rất dễ bế tắc.",
+     "text": "ÁC CẢM MỘT PHƯƠNG ÁN",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao chỉ có một người nhắn lại khiến mình chần chừ và muốn lùi bước?",
+     "text": "VÌ SAO CHẦN CHỪ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi đánh giá một phương án đơn độc, não thiếu mốc so sánh độ an toàn.",
+     "text": "THIẾU ĐỐI CHỨNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên tiềm thức tự coi người đó như ván cược được ăn cả ngã về không?",
+     "text": "VÁN CƯỢC TẤT TAY",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn rồi. Não xem lựa chọn duy nhất là tối hậu thư, sinh phản kháng ngay.",
+     "text": "TÂM LÝ PHẢN KHÁNG",
+     "color": "gold",
+     "actor": "34",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình ngồi soi từng dấu câu tin nhắn, sợ hỏng chuyện vì một sơ suất nhỏ.",
+     "text": "SOI TỪNG DẤU CHẤM",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen phóng đại mọi tin nhắn vì não thiếu bối cảnh để giữ góc nhìn thấu đáo.",
+     "text": "MẤT GÓC NHÌN",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tìm hiểu ai đó mà không bị cảm giác tất tay này bóp nghẹt?",
+     "text": "GIẢM BỚT ÁP LỰC",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giới hạn tối đa hai cuộc trò chuyện, hỏi mỗi người một câu để thử độ ăn ý.",
+     "text": "NÓI VỚI HAI NGƯỜI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhưng trò chuyện với người mới lại đẩy Pen tới một gáo nước lạnh tiếp theo.",
+     "text": "CÚ HẪNG TIẾP THEO",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "5. Sợ bị từ chối",
+   "sources": [
+    "s01",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Thấy người ta đã xem tin nhắn từ trưa mà không trả lời, bụng mình thắt lại.",
+     "text": "5. SỢ BỊ TỪ CHỐI",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Suy nghĩ lao dốc ngay, tự trách mình vụng về và kém thu hút.",
+     "text": "TỰ TRÁCH BẢN THÂN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vết nhói đó là độ nhạy bị từ chối. Thiếu tông giọng, não tự coi im lặng là lời chê bai.",
+     "text": "NHẠY CẢM BỊ TỪ CHỐI",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao bị người xa lạ chưa từng gặp mặt ngó lơ mà lại nhói lòng đến thế?",
+     "text": "VÌ SAO ĐAU LÒNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thời xưa bị bầy đàn bỏ rơi là cái chết, nên im lặng kích hoạt còi báo động.",
+     "text": "CÒI BÁO NGUY CỔ XƯA",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên não sinh tồn nhầm một tin chưa đọc là mình đang bị trục xuất khỏi bộ tộc?",
+     "text": "NỖI SỢ BỊ XUA ĐUỔI",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài rồi. Dù người đó ở tít xa và chưa từng gặp Pen ngoài đời.",
+     "text": "CHỈ LÀ NGƯỜI LẠ",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ mười phút mình lại tải lại màn hình, mong một đốm sáng thông báo an ủi.",
+     "text": "CHỜ ĐỢI THÔNG BÁO",
+     "color": "red",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Còi báo nguy giả đang đốt sạch năng lượng chỉ vì vài tiếng im lặng bình thường.",
+     "text": "TIÊU HAO NĂNG LƯỢNG",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có ranh giới nào cắt đứt vòng lặp chờ đợi thông báo ám ảnh này không?",
+     "text": "CẮT ĐỨT VÒNG LẶP",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đặt giờ như vào phòng tập: tắt thông báo, kiểm tra một lần lúc trưa rồi cất máy.",
+     "text": "ĐẶT GIỜ KIỂM TRA",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để tránh bị tổn thương, ta lại hay phán xét người khác trong chớp mắt.",
+     "text": "PHÁN XÉT CHỚP NHOÁNG",
+     "color": "gold",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "6. Phán đoán nhanh",
+   "sources": [
+    "s01",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình thường quẹt trái trong nửa giây chỉ vì ảnh chụp góc chết hoặc đeo kính râm che mặt.",
+     "text": "6. PHÁN ĐOÁN NHANH",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự thêu dệt nên cả tính cách người ta qua một góc ảnh không ăn hình.",
+     "text": "GÓC ẢNH VỤNG VỀ",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy một góc chụp lỗi là não Pen đã vội kết luận người ta lệch chuẩn toàn tập.",
+     "text": "LỆCH CHUẨN TOÀN TẬP",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Những phán xét vội vàng đó liệu có nhìn ra được con người thật của họ?",
+     "text": "CÓ ĐÚNG SỰ THẬT?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Manh mối nhỏ giúp né mối nguy, nhưng ảnh hồ sơ đang lợi dụng lối tắt đó.",
+     "text": "LỐI TẮT BỊ LẠM DỤNG",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là người chu đáo, ấm áp có thể bị loại chỉ vì chụp ảnh dở tệ?",
+     "text": "KHÔNG BIẾT TẠO DÁNG",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiển nhiên rồi. Pen bỏ qua sự hòa hợp chỉ vì người ta không biết căn góc sáng.",
+     "text": "BẪY GÓC CHỤP",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy phản xạ chớp nhoáng đang gạt bỏ người bạn đời tiềm năng vì lý do hời hợt?",
+     "text": "BỎ LỠ NGƯỜI TỐT",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gói gọn nhân cách vào tấm ảnh tạo thói quen lười biếng, bóp nghẹt tình cảm.",
+     "text": "THÓI QUEN LƯỜI BIẾNG",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để rèn luyện thói quen nhìn sâu hơn tấm ảnh đầu tiên?",
+     "text": "NHÌN SÂU HƠN TẤM ẢNH",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dừng lại năm giây trước khi quẹt: bấm vào xem hết ảnh và đọc dòng tự bạch đã.",
+     "text": "ĐỌC KỸ DÒNG TỰ BẠCH",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi đọc những lời đó, cẩn thận kẻo lại muốn tìm bản sao y hệt bản thân.",
+     "text": "BẪY TÌM BẢN SAO",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "7. Bẫy đồng điệu",
+   "sources": [
+    "s01",
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hôm nay mình lướt qua một người chỉ vì khác quê và sở thích lạ.",
+     "text": "7. BẪY ĐỒNG ĐIỆU",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy ai cùng quê quán hay cùng thói quen cuối tuần là mình an tâm hơn hẳn.",
+     "text": "AN TÂM KHI CÙNG QUÊ",
+     "color": "ink",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là bẫy đồng điệu, Pen biến tìm người yêu thành bài tập soi gương tự ngắm rồi.",
+     "text": "BẪY THU HÚT ĐỒNG ĐIỆU",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ưu tiên người cùng quê và phong tục quen thuộc thì có gì là sai chứ?",
+     "text": "CÙNG QUÊ CÓ TỐT?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cùng quê hay gu nhạc không đo được sự chín chắn và cách đối xử.",
+     "text": "SỞ THÍCH VÀ BẢN LĨNH",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là mình ưu tiên sự quen thuộc bề ngoài hơn nhân cách và gắn kết sâu sắc?",
+     "text": "QUEN THUỘC BỀ NỔI",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn ra rồi đấy. Não lười học điều mới vì ngại tốn nhiên liệu suy nghĩ.",
+     "text": "NÃO NGẠI SỰ KHÁC BIỆT",
+     "color": "gold",
+     "actor": "front",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và mình vô tình bỏ lỡ một nửa tuyệt vời chỉ vì khác biệt thói quen vùng miền?",
+     "text": "BỎ LỠ NGƯỜI PHÙ HỢP",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ chọn bản sao sẽ tước đi cơ hội học hỏi và những thế mạnh bù trừ.",
+     "text": "MẤT CƠ HỘI PHÁT TRIỂN",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy khi đọc hồ sơ, mình nên chú ý chi tiết nào thay vì tìm sở thích chung?",
+     "text": "NÊN ĐỌC CHI TIẾT NÀO?",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Soi cách họ đối xử với gia đình, bạn bè và công việc, đừng mải tìm đồng hương.",
+     "text": "CÁCH HỌ ĐỐI XỬ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cân bằng giữa hòa nhập và bản sắc riêng lại tạo ra căng thẳng tâm lý khác.",
+     "text": "BÀI TOÁN BẢN SẮC",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "8. Khác biệt vừa đủ",
+   "sources": [
+    "s01",
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Viết lời tự bạch khó ghê, cứ phân vân giữa văn mẫu và sở thích lập dị.",
+     "text": "8. KHÁC BIỆT VỪA ĐỦ",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Viết bình thường thì chìm nghỉm, khoe đam mê lạ lại sợ làm người ta chạy mất.",
+     "text": "MỜ NHẠT HAY DỊ BIỆT?",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là khác biệt tối ưu: vừa muốn thuộc về nhóm, vừa muốn nổi bật độc đáo.",
+     "text": "KHÁC BIỆT TỐI ƯU",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao cân bằng hòa nhập và cá tính trên hồ sơ lại đau đầu đến thế?",
+     "text": "ÁP LỰC VIẾT HỒ SƠ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sinh tồn cần thuộc về bộ tộc, nhưng chọn bạn đời lại cần khoe sức mạnh riêng.",
+     "text": "AN TOÀN VÀ ĐIỂM NHẤN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ai cũng ghi thích đi cà phê, lượn phố cuối tuần thì hồ sơ chìm nghỉm ngay.",
+     "text": "HỒ SƠ TÀNG HÌNH",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chứ còn gì nữa. Rập khuôn thì vô vị, mà quái đản quá lại bật đèn báo nguy.",
+     "text": "VĂN MẪU HAY NỔI LOẠN",
+     "color": "red",
+     "actor": "34",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy làm sao thể hiện cá tính mà không nhạt nhòa cũng không dọa người ta chạy?",
+     "text": "CÂN BẰNG NÉT RIÊNG",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não cần an toàn quen thuộc, nhưng tình cảm cần tia lửa riêng biệt. Phải có cả hai.",
+     "text": "AN TOÀN VÀ ĐỘC ĐÁO",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có công thức thực tế nào áp dụng ngay khi viết dòng tự bạch không?",
+     "text": "CÔNG THỨC THỰC TẾ",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để ba sở thích quen thuộc như cà phê vỉa hè, cộng một nét riêng như mê đàn tranh.",
+     "text": "GẦN GŨI VÀ ĐIỂM NHẤN",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉnh xong tám bánh răng tâm lý này, bạn sẽ làm chủ hoàn toàn chuyện hẹn hò.",
+     "text": "LÀM CHỦ CUỘC CHƠI",
+     "color": "gold",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "Tổng kết và thử thách",
+   "sources": [
+    "s01",
+    "s11"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nghĩ lại, kiệt sức khi dùng ứng dụng không phải do mình kém cỏi hay thiếu kỷ luật.",
+     "text": "TỔNG KẾT VÀ THỬ THÁCH",
+     "color": "ink",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rõ ràng rồi. Sinh học tổ tiên đang va chạm trực diện với phần mềm giữ Pen quẹt tiếp.",
+     "text": "VA CHẠM SINH HỌC",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhóm bẫy đầu tiên là quá tải lựa chọn, cầu toàn cực đoan và nỗi sợ cam chịu đúng không?",
+     "text": "BẪY QUÁ TẢI LỰA CHỌN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thu hẹp số lượng. Giới hạn lựa chọn, biết đủ theo chuẩn và dừng đuổi theo ảo tưởng.",
+     "text": "1. THU GỌN DANH SÁCH",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cản trở thứ hai là hoảng loạn khi độc thoại và đau nhói vì bị chối bỏ?",
+     "text": "HOẢNG LOẠN TÂM LÝ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Làm dịu nỗi sợ. Tạo điểm đối chứng và coi im lặng trên mạng như chuyện bình thường.",
+     "text": "2. HẠ NHIỆT NỖI SỢ",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thử thách cuối là đánh giá vội qua ảnh và cố tìm bản sao của chính mình?",
+     "text": "BỘ LỌC VỘI VÃ",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nâng cấp bộ lọc. Đọc kỹ hồ sơ, tìm tính cách thực và cân bằng lời tự bạch.",
+     "text": "3. NÂNG CẤP BỘ LỌC",
+     "color": "green",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày: chỉ giữ năm lượt ghép đôi, và hỏi một câu thật lòng về cuộc sống của họ.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đăng ký Lý Thuyết Chân Que để không bỏ lỡ buổi tập não hàng tuần.",
+     "text": "TẬP NÃO MỖI TUẦN",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

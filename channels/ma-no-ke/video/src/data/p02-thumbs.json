@@ -1,0 +1,390 @@
+{
+ "A": {
+  "bg": {
+   "src": "p02/img/N13.png",
+   "crop": [
+    0,
+    0,
+    2048
+   ]
+  },
+  "shade": "linear-gradient(90deg, rgba(0,0,0,0) 55%, rgba(5,5,25,.35) 100%)",
+  "cuts": [
+   {
+    "src": "p02/img/cut_N22_3.png",
+    "x": 820,
+    "y": 30,
+    "h": 1000,
+    "glow": "rgba(140,255,170,.45)"
+   }
+  ],
+  "texts": [
+   {
+    "t": "CÓ MẶT?",
+    "x": 40,
+    "y": 560,
+    "size": 120
+   }
+  ]
+ },
+ "B": {
+  "bg": {
+   "src": "p02/img/N15.png",
+   "crop": [
+    560,
+    629,
+    930
+   ]
+  },
+  "shade": "radial-gradient(ellipse at 50% 75%, rgba(0,0,0,0) 40%, rgba(0,0,20,.45) 100%)",
+  "card": {
+   "quad": [
+    [
+     848,
+     742
+    ],
+    [
+     1203,
+     742
+    ],
+    [
+     1312,
+     1090
+    ],
+    [
+     737,
+     1090
+    ]
+   ],
+   "w": 1000,
+   "h": 760,
+   "lines": [
+    {
+     "t": "NGUYỄN VĂN PHÁT",
+     "size": 74,
+     "color": "#1d1d1d"
+    },
+    {
+     "t": "CÓ MẶT",
+     "size": 170,
+     "color": "#d4161c"
+    },
+    {
+     "t": "03:00",
+     "size": 200,
+     "color": "#d4161c"
+    }
+   ]
+  }
+ },
+ "C": {
+  "bg": {
+   "src": "p02/img/N13.png",
+   "crop": [
+    560,
+    0,
+    1200
+   ]
+  },
+  "shade": "linear-gradient(90deg, rgba(0,0,0,0) 45%, rgba(5,5,25,.6) 75%, rgba(5,5,25,.75) 100%)",
+  "texts": [
+   {
+    "t": "NHẦM",
+    "x": 1250,
+    "y": 90,
+    "size": 170,
+    "anchor": "r"
+   },
+   {
+    "t": "NGƯỜI",
+    "x": 1250,
+    "y": 280,
+    "size": 170,
+    "anchor": "r"
+   }
+  ]
+ },
+ "T1": {
+  "bg": {
+   "src": "p02/img/N11.png",
+   "crop": [
+    0,
+    0,
+    2048
+   ]
+  },
+  "shade": "linear-gradient(180deg, rgba(0,0,0,0) 60%, rgba(0,0,10,.75) 100%)",
+  "cuts": [
+   {
+    "src": "p02/img/cut_N22_1.png",
+    "x": 1000,
+    "y": 190,
+    "h": 700,
+    "glow": "rgba(160,200,255,.35)"
+   }
+  ],
+  "texts": [
+   {
+    "t": "TRÙNG",
+    "x": 40,
+    "y": 575,
+    "size": 135,
+    "color": "#ffffff"
+   },
+   {
+    "t": "TANG",
+    "x": 590,
+    "y": 575,
+    "size": 135,
+    "color": "#e5141b"
+   }
+  ]
+ },
+ "T2": {
+  "bg": {
+   "src": "p02/img/N16.png",
+   "crop": [
+    0,
+    0,
+    2048
+   ]
+  },
+  "shade": "radial-gradient(ellipse at 0% 0%, rgba(0,0,10,.8) 0%, rgba(0,0,10,.45) 35%, rgba(0,0,0,0) 60%)",
+  "cuts": [
+   {
+    "src": "p02/img/cut_N22_1.png",
+    "x": 1045,
+    "y": 130,
+    "h": 660,
+    "glow": "rgba(160,200,255,.35)"
+   }
+  ],
+  "texts": [
+   {
+    "t": "TRÙNG",
+    "x": 30,
+    "y": 22,
+    "size": 125,
+    "color": "#ffffff"
+   },
+   {
+    "t": "TANG",
+    "x": 30,
+    "y": 150,
+    "size": 125,
+    "color": "#e5141b"
+   },
+   {
+    "t": "NHẦM NGƯỜI",
+    "x": 34,
+    "y": 285,
+    "size": 62,
+    "color": "#ffe14a"
+   }
+  ]
+ },
+ "U1": {
+  "bg": {
+   "src": "p02/img/N11.png",
+   "crop": [
+    0,
+    0,
+    2048
+   ]
+  },
+  "shade": "linear-gradient(90deg, rgba(0,0,0,.75) 0%, rgba(0,0,0,.45) 38%, rgba(0,0,0,0) 55%)",
+  "cuts": [
+   {
+    "src": "p02/img/cut_N22_1.png",
+    "x": 930,
+    "y": 60,
+    "h": 640
+   },
+   {
+    "src": "p02/img/cut_N23_1.png",
+    "x": 520,
+    "y": 250,
+    "h": 620
+   }
+  ],
+  "texts": [
+   {
+    "t": "TRÙNG",
+    "x": 36,
+    "y": 30,
+    "size": 200,
+    "color": "#ffffff",
+    "rot": -3,
+    "font": "bangers",
+    "rough": true,
+    "sw": 9
+   },
+   {
+    "t": "TANG",
+    "x": 40,
+    "y": 215,
+    "size": 230,
+    "color": "#e5141b",
+    "rot": -3,
+    "font": "bangers",
+    "rough": true,
+    "sw": 9
+   },
+   {
+    "t": "NHẦM NGƯỜI!",
+    "x": 40,
+    "y": 490,
+    "size": 96,
+    "color": "#111",
+    "rot": -5,
+    "font": "anton",
+    "rough": true,
+    "band": "#ffd400",
+    "under": "#e5141b"
+   }
+  ]
+ },
+ "U2": {
+  "bg": {
+   "src": "p02/img/N15.png",
+   "crop": [
+    380,
+    300,
+    1500
+   ]
+  },
+  "shade": "linear-gradient(180deg, rgba(0,0,0,.65) 0%, rgba(0,0,0,0) 35%)",
+  "card": {
+   "quad": [
+    [
+     848,
+     742
+    ],
+    [
+     1203,
+     742
+    ],
+    [
+     1312,
+     1090
+    ],
+    [
+     737,
+     1090
+    ]
+   ],
+   "w": 1000,
+   "h": 760,
+   "lines": [
+    {
+     "t": "NGUYỄN VĂN PHÁT",
+     "size": 74,
+     "color": "#222"
+    },
+    {
+     "t": "CÓ MẶT",
+     "size": 170,
+     "color": "#222"
+    },
+    {
+     "t": "03:00",
+     "size": 200,
+     "color": "#d4161c"
+    }
+   ]
+  },
+  "cuts": [
+   {
+    "src": "p02/img/cut_N22_3.png",
+    "x": -30,
+    "y": 150,
+    "h": 620
+   },
+   {
+    "src": "p02/img/cut_N23_2.png",
+    "x": 1000,
+    "y": 230,
+    "h": 540
+   }
+  ],
+  "texts": [
+   {
+    "t": "TRÙNG",
+    "x": 250,
+    "y": 14,
+    "size": 170,
+    "color": "#ffffff",
+    "rot": -3,
+    "font": "bangers",
+    "rough": true,
+    "sw": 9
+   },
+   {
+    "t": "TANG",
+    "x": 740,
+    "y": 14,
+    "size": 170,
+    "color": "#e5141b",
+    "rot": -3,
+    "font": "bangers",
+    "rough": true,
+    "sw": 9
+   }
+  ]
+ },
+ "U3": {
+  "bg": {
+   "src": "p02/img/N16.png",
+   "crop": [
+    0,
+    0,
+    2048
+   ]
+  },
+  "shade": "linear-gradient(90deg, rgba(0,0,0,.75) 0%, rgba(0,0,0,.45) 38%, rgba(0,0,0,0) 55%)",
+  "cuts": [
+   {
+    "src": "p02/img/cut_N22_2.png",
+    "x": 1010,
+    "y": 150,
+    "h": 600
+   }
+  ],
+  "texts": [
+   {
+    "t": "TRÙNG",
+    "x": 36,
+    "y": 30,
+    "size": 200,
+    "color": "#ffffff",
+    "rot": -3,
+    "font": "bangers",
+    "rough": true,
+    "sw": 9
+   },
+   {
+    "t": "TANG",
+    "x": 40,
+    "y": 215,
+    "size": 230,
+    "color": "#e5141b",
+    "rot": -3,
+    "font": "bangers",
+    "rough": true,
+    "sw": 9
+   },
+   {
+    "t": "\"NHƯ NGƯỜI NHÀ\"",
+    "x": 40,
+    "y": 490,
+    "size": 84,
+    "color": "#111",
+    "rot": -5,
+    "font": "anton",
+    "rough": true,
+    "band": "#ffd400",
+    "under": "#e5141b"
+   }
+  ]
+ }
+}

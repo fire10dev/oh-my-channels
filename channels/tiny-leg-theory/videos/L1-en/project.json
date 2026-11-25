@@ -1,0 +1,958 @@
+{
+  "version": 1,
+  "code": "L1-en",
+  "logline": "Vì sao ta cứ để mai, và cách bắt đầu ngay trong 2 phút",
+  "wpm": 185,
+  "ideas": [],
+  "scenes": [
+    {
+      "id": "s01",
+      "title": "intro",
+      "vo": "PEN: You sit down to write one email, and somehow end up reorganizing your desktop.\nBUFF: Then you call yourself lazy, like that explains anything. Sure, buddy.\nPEN: The task is still there, and now I feel bad about avoiding it too.\nBUFF: Today, we are breaking down eight reasons procrastination happens, and what helps you start.\nPEN: Not with a personality transplant. With small changes you can try in ordinary life.\nBUFF: First, let’s look at what you’re really avoiding.",
+      "visual": "",
+      "image": "storyboard/s01.jpg",
+      "seconds": 27,
+      "status": "draft",
+      "shots": [
+        {
+          "id": "s01-1",
+          "prompt": "typing_focused · laptop_file · \"THE EMAIL CAN WAIT\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s01-2",
+          "prompt": "arms_crossed_no · \"BLAME IS EASY\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s01-3",
+          "prompt": "worried_heart · \"GUILT JOINS IN\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s01-4",
+          "prompt": "point_viewer · \"NINE WAYS TO START\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s01-5",
+          "prompt": "small_step · \"SMALL CHANGES WORK\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s01-6",
+          "prompt": "think · \"START WITH THE FEELING\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": "The Feeling Behind the Delay",
+      "vo": "PEN: I have a form to fill out, and I keep finding other things to do first.\nPEN: It is only a few boxes, but one asks me to make an awkward decision.\nBUFF: That’s task aversiveness: one unpleasant piece can make the whole job feel bigger.\nBUFF: Procrastination can work like short-term mood repair. You switch tasks and feel better briefly.\nPEN: The relief is real, but the form stays open in the back of my mind.\nBUFF: The feeling right now can outweigh what matters later.\nPEN: So I can ask which exact part I keep trying to escape?\nBUFF: Yes. Write the unpleasant bit in plain words, like choose a date or answer honestly.\nPEN: Then I can do that piece first, or make its first move very small.\nBUFF: You don’t need to enjoy the task. You need a next move that feels doable.\nPEN: But what if even that first move feels too heavy to begin?\nBUFF: Then stop planning the whole workout. We’re only doing the warm-up.",
+      "visual": "",
+      "image": "storyboard/s02.jpg",
+      "seconds": 52,
+      "status": "draft",
+      "shots": [
+        {
+          "id": "s02-1",
+          "prompt": "confused_shrug · paper_mountain · \"2. THE FEELING\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s02-2",
+          "prompt": "think · \"ONE PART FEELS HEAVY\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s02-3",
+          "prompt": "arms_crossed_no · brain · \"TASK AVERSIVENESS\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s02-4",
+          "prompt": "phone_grin · \"QUICK MOOD REPAIR\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s02-5",
+          "prompt": "sofa_scroll · hourglass · \"RELIEF DOES NOT FINISH IT\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s02-6",
+          "prompt": "think · \"RIGHT NOW FEELS LOUD\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s02-7",
+          "prompt": "confused_shrug · \"NAME THE HARD PART\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s02-8",
+          "prompt": "writing · paper_mountain · \"MAKE IT SPECIFIC\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s02-9",
+          "prompt": "small_step · \"ONE SMALL PIECE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s02-10",
+          "prompt": "small_step · \"DOABLE BEATS PERFECT\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s02-11",
+          "prompt": "worried_heart · \"LOWER THE FIRST STEP\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s02-12",
+          "prompt": "dumbbell · \"WARM UP FIRST\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": "The First Rep Is the Hardest",
+      "vo": "PEN: When I picture the whole report, I imagine hours of effort and no clear starting point.\nBUFF: That’s perceived effort. The full set looks heavy before you even touch the bar.\nBUFF: Set a two-minute warm-up: open the file, name it, and write one rough sentence.\nPEN: Two minutes sounds small enough that I don’t have to promise the whole evening.\nBUFF: Exactly. Starting reduces the distance between thinking about work and actually doing a rep.\nPEN: I keep waiting to feel motivated, as if the feeling must arrive first.\nBUFF: Often, motivation follows a little action. It doesn’t always lead the parade.\nPEN: And if I stop after two minutes, that still counts as beginning?\nBUFF: You showed up. On a packed day, your floor can be one sentence, not the full report.\nPEN: I can choose the tiny version now, before my mind negotiates the entire job.\nBUFF: Keep the promise small enough to repeat. A warm-up is still a real rep.\nPEN: But sometimes I start only when the deadline is breathing down my neck.",
+      "visual": "",
+      "image": "storyboard/s03.jpg",
+      "seconds": 57,
+      "status": "draft",
+      "shots": [
+        {
+          "id": "s03-1",
+          "prompt": "future_tired · paper_mountain · \"3. THE FIRST REP\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s03-2",
+          "prompt": "arms_crossed_no · \"THE SET LOOKS HUGE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s03-3",
+          "prompt": "typing_focused · laptop_file · \"TWO MINUTES ONLY\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s03-4",
+          "prompt": "small_step · \"A SMALL PROMISE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s03-5",
+          "prompt": "sprint_start · \"STARTING CLOSES THE GAP\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s03-6",
+          "prompt": "sofa_scroll · \"WAITING TO FEEL READY\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s03-7",
+          "prompt": "jogging · \"ACTION CAN COME FIRST\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s03-8",
+          "prompt": "confused_shrug · \"BEGINNING STILL COUNTS\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s03-9",
+          "prompt": "small_step · checkbox_tick · \"SET A SMALL FLOOR\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s03-10",
+          "prompt": "writing · \"CHOOSE THE FIRST REP\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s03-11",
+          "prompt": "celebrate · \"MAKE IT REPEATABLE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s03-12",
+          "prompt": "nervous_wave · \"PRESSURE MOVES ME\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": "Deadlines Make the Future Real",
+      "vo": "PEN: I have three weeks for a presentation, so today it somehow feels optional.\nBUFF: That’s temporal discounting. A distant payoff often feels less urgent than a nearby one.\nPEN: Finishing later matters, but the distraction in front of me feels more vivid.\nBUFF: A deadline can make you move because it brings the consequence closer into view.\nPEN: That explains the last-minute sprint, but I don’t want panic doing all the coaching.\nBUFF: Make a checkpoint for tomorrow: choose the outline and have three sections named.\nPEN: Now there’s a visible finish line before the final deadline arrives.\nBUFF: Put that checkpoint in your calendar. Give the future a date and a small job.\nPEN: A smaller checkpoint seems kinder than leaving everything for one dramatic final push.\nBUFF: Use pressure as a signal to plan, not as your only source of movement.\nPEN: Another reason I stall is worrying that the first version won’t be good enough.",
+      "visual": "",
+      "image": "storyboard/s04.jpg",
+      "seconds": 52,
+      "status": "draft",
+      "shots": [
+        {
+          "id": "s04-1",
+          "prompt": "calendar_today · calendar_today · \"4. FUTURE REWARDS\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s04-2",
+          "prompt": "think · hourglass · \"TEMPORAL DISCOUNTING\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s04-3",
+          "prompt": "phone_grin · \"LATER FEELS FAR AWAY\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s04-4",
+          "prompt": "point_viewer · \"CLOSER FEELS LOUDER\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s04-5",
+          "prompt": "panic · \"PANIC IS A POOR PLAN\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s04-6",
+          "prompt": "writing · calendar_today · \"TOMORROW'S CHECKPOINT\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s04-7",
+          "prompt": "target · target · \"A NEARER FINISH LINE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s04-8",
+          "prompt": "typing_focused · calendar_today · \"PUT IT ON THE CALENDAR\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s04-9",
+          "prompt": "small_step · \"SMALLER STEPS, LESS DRAMA\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s04-10",
+          "prompt": "think · \"PLAN BEFORE THE SPRINT\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s04-11",
+          "prompt": "worried_heart · \"WHAT IF IT IS BAD?\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "title": "The Blank Page Feels Safer",
+      "vo": "PEN: I keep rewriting the first sentence because I want it to sound polished immediately.\nBUFF: Perfectionism can turn fear of a flawed result into a reason to delay making one.\nPEN: An empty page can’t be judged yet, so not starting feels strangely safer.\nBUFF: But the blank page gives you nothing to revise. That’s a lousy training partner.\nPEN: I could make a rough draft on purpose, without pretending it is the final version.\nBUFF: Give the draft a job: get the main idea down, even if the wording is clumsy.\nPEN: Then I can come back and improve it when there is something real to work with.\nBUFF: Set a short first pass. No polishing, no font hunt, no fake extra sets.\nPEN: It helps to separate making something from deciding whether it is any good.\nBUFF: Draft the rough version today. Editing is another rep, not permission to begin.\nPEN: I also notice my attention sliding away when I don’t know what to do next.",
+      "visual": "",
+      "image": "storyboard/s05.jpg",
+      "seconds": 54,
+      "status": "draft",
+      "shots": [
+        {
+          "id": "s05-1",
+          "prompt": "typing_focused · laptop_file · \"5. THE PERFECT FIRST DRAFT\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s05-2",
+          "prompt": "arms_crossed_no · \"PERFECTIONISM DELAYS\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s05-3",
+          "prompt": "worried_heart · \"BLANK FEELS SAFER\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s05-4",
+          "prompt": "arms_crossed_no · \"NOTHING TO REVISE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s05-5",
+          "prompt": "writing · \"ROUGH ON PURPOSE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s05-6",
+          "prompt": "typing_focused · paper_mountain · \"GET THE IDEA DOWN\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s05-7",
+          "prompt": "think · \"IMPROVE WHAT EXISTS\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s05-8",
+          "prompt": "small_step · \"FIRST PASS, NO POLISH\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s05-9",
+          "prompt": "writing · \"MAKE FIRST, REVIEW LATER\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s05-10",
+          "prompt": "celebrate · \"DRAFT IS THE START\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s05-11",
+          "prompt": "confused_shrug · \"WHEN ATTENTION DRIFTS\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "title": "Give Your Attention One Clear Job",
+      "vo": "PEN: I open the report, then check messages, the calendar, and somehow the snack drawer.\nBUFF: Holding attention on something unclear takes effort. Easy things keep waving from the sidelines.\nPEN: The report says research, but that could mean a hundred different things.\nBUFF: A vague target makes it harder to steer your attention. Give your focus one clear cue.\nPEN: I can write the next action on paper: find the latest customer notes.\nBUFF: Make it visible beside the screen. When you drift, return to that single line.\nPEN: So I don’t have to scold myself or rebuild the entire plan each time?\nBUFF: Right. Notice the drift, read the cue, do the next small action. That’s the set.\nPEN: I can also remove some of the distractions before I start.\nBUFF: Put the phone out of reach and leave the notes open. Shape the room around the task.\nPEN: Still, a clear task can be hard to start if everything I need is hidden.",
+      "visual": "",
+      "image": "storyboard/s06.jpg",
+      "seconds": 52,
+      "status": "draft",
+      "shots": [
+        {
+          "id": "s06-1",
+          "prompt": "sofa_scroll · smartphone_glow · \"6. ATTENTION DRIFTS\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s06-2",
+          "prompt": "think · \"EASY THINGS WAVE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s06-3",
+          "prompt": "confused_shrug · laptop_file · \"TOO VAGUE TO HOLD\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s06-4",
+          "prompt": "point_viewer · \"GIVE FOCUS A CUE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s06-5",
+          "prompt": "writing · paper_mountain · \"WRITE THE NEXT ACTION\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s06-6",
+          "prompt": "typing_focused · \"ONE LINE TO RETURN TO\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s06-7",
+          "prompt": "confused_shrug · \"RETURN WITHOUT SCOLDING\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s06-8",
+          "prompt": "small_step · \"NOTICE. RETURN. ACT.\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s06-9",
+          "prompt": "think · \"MAKE FOCUS EASIER\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s06-10",
+          "prompt": "arms_crossed_no · smartphone_glow · \"SET UP THE ROOM\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s06-11",
+          "prompt": "think · \"HIDE THE FRICTION\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "title": "Set Up the First Move",
+      "vo": "PEN: I sit down to work, then spend ten minutes looking for the right file.\nBUFF: That’s choice architecture. The setup quietly nudges what you do next.\nPEN: If the file is buried and my phone is glowing, the easy move wins.\nBUFF: Don’t make this a willpower audition. Move the phone and open the exact file tonight.\nPEN: I can leave the page, notes, and the tool I need ready on the screen.\nBUFF: Make the helpful action obvious and the detour take a few more steps.\nPEN: That turns tomorrow’s start into doing, rather than searching and deciding.\nBUFF: It’s like loading the bar before the set. Your first rep is waiting.\nPEN: I can also define what finished means, so I don’t drift around the task.\nBUFF: A better setup carries you into a clear finish line. Let’s name one.",
+      "visual": "",
+      "image": "storyboard/s07.jpg",
+      "seconds": 44,
+      "status": "draft",
+      "shots": [
+        {
+          "id": "s07-1",
+          "prompt": "typing_focused · laptop_file · \"7. FIRST MOVE READY\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s07-2",
+          "prompt": "think · \"CHOICE ARCHITECTURE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s07-3",
+          "prompt": "phone_grin · smartphone_glow · \"EASY MOVES WIN\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s07-4",
+          "prompt": "typing_focused · laptop_file · \"SET UP THE BAR\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s07-5",
+          "prompt": "writing · laptop_file · \"LEAVE THE TOOLS READY\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s07-6",
+          "prompt": "point_viewer · \"MAKE THE NEXT MOVE EASY\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s07-7",
+          "prompt": "small_step · \"LESS SEARCHING TOMORROW\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s07-8",
+          "prompt": "dumbbell · \"LOAD THE BAR FIRST\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s07-9",
+          "prompt": "think · \"KNOW WHEN IT ENDS\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s07-10",
+          "prompt": "target · target · \"PICK A FINISH LINE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "title": "Define What Done Looks Like",
+      "vo": "PEN: My plan says work on the presentation, but I can’t tell what counts as progress.\nBUFF: That’s a vague goal. Without a finish line, the set can feel endless or already done.\nPEN: I keep switching between slides, research, and colors, without completing a clear piece.\nBUFF: Goal setting helps when the target names a result you can actually see.\nPEN: For this session, I could finish a rough opening slide and three section headings.\nBUFF: Good. Write that down. It gives your effort a boundary and your brain a cue.\nPEN: Then I can stop when that result exists, instead of chasing a vague feeling of enough.\nBUFF: Specific beats heroic. Pick a result that fits today’s actual time and energy.\nPEN: And if a task stays in my head after I stop, I can give it a place to land?\nBUFF: Yes. A written next step and a time can help close the mental tab for now.",
+      "visual": "",
+      "image": "storyboard/s08.jpg",
+      "seconds": 48,
+      "status": "draft",
+      "shots": [
+        {
+          "id": "s08-1",
+          "prompt": "confused_shrug · paper_mountain · \"8. DEFINE DONE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s08-2",
+          "prompt": "think · \"VAGUE GOALS DRIFT\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s08-3",
+          "prompt": "typing_focused · \"BUSY IS NOT FINISHED\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s08-4",
+          "prompt": "target · target · \"NAME A VISIBLE RESULT\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s08-5",
+          "prompt": "writing · \"ONE SESSION, ONE RESULT\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s08-6",
+          "prompt": "writing · paper_mountain · \"WRITE THE FINISH LINE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s08-7",
+          "prompt": "small_step · \"STOP WHEN IT EXISTS\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s08-8",
+          "prompt": "think · \"FIT THE REAL DAY\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s08-9",
+          "prompt": "worried_heart · \"LET THE TASK REST\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s08-10",
+          "prompt": "writing · checkbox_tick · \"WRITE IT DOWN, CLOSE IT\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "title": "Close the Mental Tab",
+      "vo": "PEN: I send the email, then open Sent again because I’m unsure I got it right.\nBUFF: Rechecking can briefly ease uncertainty, but the doubt may return and ask for another look.\nPEN: The same unfinished reply also keeps tapping at my attention during dinner.\nBUFF: Open tasks can linger in your thoughts. A clear plan may help you set them aside.\nPEN: Before checking, I can decide to read the message once carefully, then leave it alone.\nBUFF: For the reply, write the next step and when you’ll do it. Put it outside your head.\nPEN: I don’t have to finish tonight to know where I’ll pick it up tomorrow.\nBUFF: Exactly. The plan is the bookmark. You can stop carrying the whole book around.\nPEN: And starting can be easier when another person knows what I said I’d do.\nBUFF: Let’s make that promise specific and small enough for a real week.",
+      "visual": "",
+      "image": "storyboard/s09.jpg",
+      "seconds": 46,
+      "status": "draft",
+      "shots": [
+        {
+          "id": "s09-1",
+          "prompt": "typing_focused · laptop_file · \"9. CLOSE THE TAB\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s09-2",
+          "prompt": "think · \"RELIEF CAN FADE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s09-3",
+          "prompt": "sofa_scroll · smartphone_glow · \"THE TASK FOLLOWS ME\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s09-4",
+          "prompt": "think · brain · \"OPEN TASKS LINGER\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s09-5",
+          "prompt": "reading · \"ONE CAREFUL LOOK\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s09-6",
+          "prompt": "writing · calendar_today · \"NEXT STEP, SET TIME\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s09-7",
+          "prompt": "sleeping · moon_stars · \"A PLAN CAN WAIT\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s09-8",
+          "prompt": "small_step · \"LEAVE A BOOKMARK\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s09-9",
+          "prompt": "nervous_wave · \"A SPOTTER CAN HELP\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s09-10",
+          "prompt": "point_viewer · \"MAKE A CLEAR PROMISE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "A Spotter and a Seven-Day Start",
+      "vo": "PEN: I’ve told myself I’ll start Monday, but nobody knows what that means.\nBUFF: Tell one person what you’ll finish and by when. Ask them to check in that day.\nPEN: I don’t need an audience. I need a clear promise that someone can understand.\nBUFF: Here’s the recap. First, name the feeling and shrink the first rep until it’s doable.\nPEN: Second, shape your space and attention, then define the result that means done.\nBUFF: Third, make a nearby checkpoint, write down the next step, and ask a spotter to check in.\nPEN: For seven days, choose one task each day and write its smallest useful first move.\nBUFF: Do that move, even if it’s only a warm-up. Mark it down and keep the floor small.\nPEN: At the end of the week, notice which setup made starting feel less difficult.\nBUFF: Tiny Leg Theory is here for more clear, practical psychology. Subscribe if that helps.",
+      "visual": "",
+      "image": "storyboard/s10.jpg",
+      "seconds": null,
+      "status": "draft",
+      "shots": [
+        {
+          "id": "s10-1",
+          "prompt": "confused_shrug · \"10. MAKE IT REAL\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s10-2",
+          "prompt": "phone_grin · smartphone_glow · \"ONE PERSON. ONE CHECK-IN.\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s10-3",
+          "prompt": "think · \"KEEP THE PROMISE CLEAR\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s10-4",
+          "prompt": "small_step · \"NAME IT. SHRINK IT.\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s10-5",
+          "prompt": "writing · checkbox_tick · \"SET UP. DEFINE DONE.\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s10-6",
+          "prompt": "point_viewer · calendar_today · \"PLAN. PARK IT. SHARE.\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s10-7",
+          "prompt": "writing · calendar_today · \"SEVEN DAYS, ONE MOVE\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s10-8",
+          "prompt": "small_step · checkbox_tick · \"TAKE THE SMALL REP\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s10-9",
+          "prompt": "think · \"NOTICE WHAT HELPS\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        },
+        {
+          "id": "s10-10",
+          "prompt": "point_viewer · \"MORE TINY LEG THEORY\"",
+          "camera": "",
+          "image": "",
+          "seconds": 0,
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "titles": [
+    {
+      "id": "t01",
+      "text": "Why You Procrastinate and How to Actually Start",
+      "chosen": true
+    }
+  ],
+  "thumbnails": [
+    {
+      "id": "th01",
+      "path": "thumbs/th01.jpg",
+      "text": "WHY YOU PUT IT OFF",
+      "chosen": true
+    }
+  ]
+}

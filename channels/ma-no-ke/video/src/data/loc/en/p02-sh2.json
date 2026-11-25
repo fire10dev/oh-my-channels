@@ -1,0 +1,391 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 43.758,
+"shots": [
+{
+"img": "p02/img/N08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 6.132,
+"a": [
+1203,
+743,
+460
+],
+"b": [
+1203,
+800,
+340
+],
+"flash": 1
+},
+{
+"img": "p02/img/N07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 6.132,
+"t1": 10.629,
+"a": [
+1587,
+576,
+648
+],
+"b": [
+1587,
+560,
+460
+]
+},
+{
+"img": "p02/img/N04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.629,
+"t1": 15.064,
+"a": [
+486,
+660,
+460
+],
+"b": [
+486,
+640,
+340
+]
+},
+{
+"img": "p02/img/N07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 15.064,
+"t1": 19.267,
+"a": [
+1357,
+743,
+460
+],
+"b": [
+1357,
+849,
+340
+]
+},
+{
+"img": "p02/img/N08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 19.267,
+"t1": 23.37,
+"a": [
+1203,
+743,
+460
+],
+"b": [
+1203,
+820,
+340
+]
+},
+{
+"img": "p02/img/N11.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.37,
+"t1": 27.103,
+"a": [
+345,
+520,
+460
+],
+"b": [
+345,
+480,
+340
+]
+},
+{
+"img": "p02/img/N08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 27.103,
+"t1": 30.789,
+"a": [
+1203,
+576,
+648
+],
+"b": [
+1203,
+743,
+460
+]
+},
+{
+"img": "p02/img/N07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 30.789,
+"t1": 34.11,
+"a": [
+324,
+576,
+648
+],
+"b": [
+230,
+560,
+460
+]
+},
+{
+"img": "p02/img/N07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 34.11,
+"t1": 36.543,
+"a": [
+1587,
+520,
+460
+],
+"b": [
+1587,
+500,
+340
+]
+},
+{
+"img": "p02/img/N10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 36.543,
+"t1": 39.192,
+"a": [
+742,
+609,
+460
+],
+"b": [
+1075,
+330,
+340
+]
+},
+{
+"img": "p02/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 39.192,
+"t1": 43.258,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p02/img/cut_B02.png",
+"size": 1344,
+"t0": 39.192,
+"t1": 43.258,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 1.855,
+"t1": 6.132,
+"text": "LIKE FAMILY",
+"color": "#c58bff"
+},
+{
+"t0": 17.48,
+"t1": 19.898,
+"text": "2:10 · AT THE FACTORY",
+"color": "#ffffff"
+},
+{
+"t0": 20.059,
+"t1": 23.37,
+"text": "→ 5:00 · AT HOME",
+"color": "#c58bff"
+},
+{
+"t0": 27.313,
+"t1": 29.105,
+"text": "REPORTED BY: NGUYEN VAN PHAT",
+"color": "#c58bff"
+},
+{
+"t0": 29.105,
+"t1": 30.789,
+"text": "RELATIONSHIP: LIKE FAMILY",
+"color": "#c58bff"
+},
+{
+"t0": 37.668,
+"t1": 39.192,
+"text": "CURSED HOUR",
+"color": "#ff5a4a"
+},
+{
+"t0": 39.192,
+"t1": 43.258,
+"text": "WHAT'S A CURSED HOUR?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.35
+},
+{
+"t": 1.855,
+"src": "p02/sfx/dau.wav",
+"vol": 0.7
+},
+{
+"t": 17.48,
+"src": "p02/sfx/but.wav",
+"vol": 0.7
+},
+{
+"t": 20.059,
+"src": "p02/sfx/but.wav",
+"vol": 0.7
+},
+{
+"t": 27.672,
+"src": "p02/sfx/but.wav",
+"vol": 0.6
+},
+{
+"t": 29.822,
+"src": "p02/sfx/dau.wav",
+"vol": 0.7
+},
+{
+"t": 37.668,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.4
+},
+{
+"t": 39.192,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 42.197,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 5.682,
+"text": "The boss wrote three words on the report: “like family.” The most expensive words of his life."
+},
+{
+"t": 6.132,
+"dur": 8.681,
+"text": "Die at work, on the clock, and it's a workplace accident. They have to pay. Inspectors would ask why the time clock has no clock-out button."
+},
+{
+"t": 15.064,
+"dur": 8.057,
+"text": "So that night, the boss filled out the report himself. Changed two ten to five a.m. Changed “at the factory” to “at home.”"
+},
+{
+"t": 23.37,
+"dur": 7.168,
+"text": "Loc's wife hadn't made it up from the countryside. The boss signed as the reporter, too. Relationship: “like family.”"
+},
+{
+"t": 30.789,
+"dur": 3.071,
+"text": "Team lead Hong stood behind the door. Saw everything."
+},
+{
+"t": 34.11,
+"dur": 1.833,
+"text": "Whatever the paper says, that's the truth."
+},
+{
+"t": 36.543,
+"dur": 2.249,
+"text": "Five a.m.… that's a cursed hour."
+},
+{
+"t": 39.192,
+"dur": 3.066,
+"text": "What's a cursed hour? I'll tell you next time. Follow along."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/en/vo/abb80cff9c.wav"
+},
+{
+"t": 6.132,
+"src": "loc/en/vo/2acb764eab.wav"
+},
+{
+"t": 15.064,
+"src": "loc/en/vo/c0e906aa3e.wav"
+},
+{
+"t": 23.37,
+"src": "loc/en/vo/2b4bd77383.wav"
+},
+{
+"t": 30.789,
+"src": "loc/en/vo/f868af32eb.wav"
+},
+{
+"t": 34.11,
+"src": "loc/en/vo/887aa6957b.wav"
+},
+{
+"t": 36.543,
+"src": "loc/en/vo/c72f23e2bd.wav"
+},
+{
+"t": 39.192,
+"src": "loc/en/vo/683391f710.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

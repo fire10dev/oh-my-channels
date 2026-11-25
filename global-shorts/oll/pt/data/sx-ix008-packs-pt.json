@@ -1,0 +1,78 @@
+{
+ "title": "Como pilotos do B-2 vão ao banheiro numa missão de 44 horas",
+ "hook": "DUAS BOLSAS POR HORA",
+ "asof": "Dados das missões de 2001 e 2025",
+ "world": "bomber",
+ "long": "IX008",
+ "chapters": [
+  {
+   "id": "toilet",
+   "hud": "HORA 30",
+   "chip": "00:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Quarenta e quatro horas num bombardeiro. Onde você vai?",
+     "v": "toilet",
+     "you": "toilet"
+    },
+    {
+     "s": "Em 2001, uma tripulação de B-2 voou 44,3 horas sem parar.",
+     "v": "sky",
+     "st": [
+      "44,3 HORAS",
+      "Out. 2001"
+     ]
+    },
+    {
+     "s": "O ar lá em cima é tão seco que pilotos bebem sem parar.",
+     "v": "water",
+     "you": "seats"
+    },
+    {
+     "s": "O jato tem um pequeno banheiro químico.",
+     "v": "toilet",
+     "you": "toilet"
+    },
+    {
+     "s": "Ele não comportava o necessário para 44 horas.",
+     "v": "toilet"
+    },
+    {
+     "s": "Então, a tripulação usava sacos absorventes.",
+     "v": "packs",
+     "plane": "packs:6"
+    },
+    {
+     "s": "Sacos com um pó que transforma a urina em gel.",
+     "v": "packs",
+     "plane": "packs:6"
+    },
+    {
+     "s": "O piloto disse que enchiam cerca de dois por hora.",
+     "v": "packs",
+     "plane": "packs:20",
+     "st": [
+      "2 POR HORA",
+      "sacos absorventes"
+     ]
+    },
+    {
+     "s": "Depois, calcularam quantos quilos teriam de descarregar.",
+     "v": "packs",
+     "plane": "packs:40"
+    },
+    {
+     "s": "Sem banho. Sem trocar de roupa.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "Você aguentaria 44 horas assim?",
+     "v": "cockpit",
+     "you": "seats"
+    }
+   ]
+  }
+ ]
+}

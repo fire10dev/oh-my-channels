@@ -1,0 +1,165 @@
+{
+ "title": "Marineros submarinistas comparten una cama caliente",
+ "hook": "CAMA CALIENTE",
+ "asof": "Cifras de 2026",
+ "world": "sub",
+ "long": "IX001",
+ "chapters": [
+  {
+   "id": "rack",
+   "hud": "DÍA 1",
+   "chip": "22:00",
+   "tod": "day",
+   "shots": [
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "En algunos submarinos, tu cama sigue caliente cuando te acuestas."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "Porque alguien acaba de levantarse."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Tu cama se llama litera."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "Es una litera estrecha, con tres niveles,"
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      4.2
+     ],
+     "s": "con cortina y un colchón delgado."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Debajo, un casillero pequeño."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      600,
+      1.8
+     ],
+     "s": "Ese es todo tu espacio personal."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      960,
+      550,
+      1.0
+     ],
+     "st": [
+      "77 días",
+      "patrulla promedio · Marina de EE. UU., 2025"
+     ],
+     "s": "Durante once semanas."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      960,
+      560,
+      1.12
+     ],
+     "s": "Y en los submarinos de ataque más pequeños,"
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "no siempre hay suficientes literas."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Así que los marineros más nuevos pueden compartir cama,"
+    },
+    {
+     "d": {
+      "type": "compare",
+      "left": [
+       "MARINERO A",
+       "EN LA LITERA",
+       "mientras B trabaja"
+      ],
+      "right": [
+       "MARINERO B",
+       "EN LA LITERA",
+       "mientras A trabaja"
+      ],
+      "note": "una cama · dos marineros"
+     },
+     "s": "por turnos."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "Cuando te metes, el colchón aún está caliente por quien salió."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "q": "CAMA CALIENTE",
+     "s": "Por eso le dicen cama caliente."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.2
+     ],
+     "s": "¿Podrías dormir en la cama tibia de un desconocido?"
+    }
+   ]
+  }
+ ]
+}

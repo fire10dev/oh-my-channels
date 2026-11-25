@@ -1,0 +1,702 @@
+[
+ {
+  "id": "s490",
+  "mascot": "buff",
+  "title": "Stop Carrying Everyone's Load",
+  "mechanism": "Role Overload",
+  "lines": [
+   {
+    "vo": "Waking up to a mountain of chores, emails, and family duties? Sure, buddy.",
+    "text": "MOUNTAIN OF CHORES",
+    "color": "red",
+    "actor": "panic",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "You lift everyone else's weight until your tank hits absolute zero.",
+    "text": "EMPTY TANK",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "That is role overload. Too many hats, not enough hours.",
+    "text": "ROLE OVERLOAD",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "When capacity breaks, your own recovery is the first rep you skip.",
+    "text": "FIRST TO DROP",
+    "actor": "arms_crossed_no",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Set a hard curfew at eight tonight. Secondary chores wait until morning.",
+    "text": "CHORE CURFEW",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Rack the weights. The dirty dishes can survive the night without you.",
+    "text": "RACK THE WEIGHTS",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s490vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Het pin vi ganh viec gium thien ha",
+  "title_vi": "Hết pin vì gánh việc giùm thiên hạ",
+  "mechanism": "Role Overload",
+  "lines": [
+   {
+    "vo": "Vừa việc công ty vừa việc nhà, định gánh cả thế giới à?",
+    "text": "GÁNH CẢ THẾ GIỚI",
+    "color": "red",
+    "actor": "panic",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Ai nhờ gì cũng gật, đến lúc bản thân kiệt sức như quả pin chai.",
+    "text": "PIN SẮP SẬP NGUỒN",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Quá nhiều vai trò đè nặng, ta luôn cắt giờ nghỉ của mình trước.",
+    "text": "CẮT XÉN GIỜ NGHỈ",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn coi bản thân như đồ thừa, việc ai cũng lo xong mới tới lượt mình.",
+    "text": "BẢN THÂN BỊ BỎ QUÊN",
+    "actor": "arms_crossed_no",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Đặt mốc tám giờ tối đóng sổ. Việc vặt chưa xong để sáng mai.",
+    "text": "ĐÓNG SỔ LÚC 8 GIỜ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Buông tạ xuống đi. Mấy cái bát chưa rửa qua đêm chẳng chết ai đâu.",
+    "text": "BUÔNG TẠ XUỐNG",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s491",
+  "mascot": "pen",
+  "title": "When Duties Collide",
+  "mechanism": "Role Conflict",
+  "lines": [
+   {
+    "vo": "Lacing up for an evening walk, but the family chat starts buzzing.",
+    "text": "EVENING CUT SHORT",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Ignoring it brings instant guilt, feeling like you let everyone down.",
+    "text": "HEAVY GUILT",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "This friction is role conflict: wanting to be supportive while needing quiet.",
+    "text": "ROLE CONFLICT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "When obligations clash, resting feels like betraying the people you love.",
+    "text": "TORN IN TWO",
+    "actor": "confused_shrug",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Yet running on empty makes you irritable with everyone eventually.",
+    "text": "RUNNING ON EMPTY",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Send a quick note before stepping out: offline until eight tonight.",
+    "text": "BROADCAST OFFLINE",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Letting others wait an hour is how you show up kinder tomorrow.",
+    "text": "KINDER TOMORROW",
+    "color": "gold",
+    "actor": "reading",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s491vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Muon nghi ngoi nhung so nguoi nha gian",
+  "title_vi": "Muốn nghỉ ngơi nhưng sợ người nhà giận",
+  "mechanism": "Role Conflict",
+  "lines": [
+   {
+    "vo": "Vừa định ra ngoài hóng gió, nhóm chat gia đình bỗng réo tên liên tục.",
+    "text": "TIN NHẮN RÉO LÊN",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Không mở máy thì áy náy, mà mở ra thì hết sạch buổi tối.",
+    "text": "ÁY NÁY DẰN VẶT",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Xung đột vai trò xảy ra khi bạn vừa muốn có hiếu, vừa cạn sức.",
+    "text": "XUNG ĐỘT VAI TRÒ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nỗi sợ làm người thân thất vọng khiến bạn gạt phăng nhu cầu nghỉ ngơi.",
+    "text": "SỢ LÀM THẤT VỌNG",
+    "actor": "confused_shrug",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Cố chiều mọi người lúc đang kiệt quệ chỉ khiến bạn dễ cáu gắt hơn.",
+    "text": "CẠN KIỆT NĂNG LƯỢNG",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Nhắn trước một câu: mình bận một tiếng, lát nữa sẽ đọc tin.",
+    "text": "BÁO BẬN TRƯỚC",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Biết từ chối đúng lúc có phải là cách để yêu thương bền bỉ hơn?",
+    "text": "YÊU THƯƠNG BỀN BỈ",
+    "color": "gold",
+    "actor": "reading",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s492",
+  "mascot": "buff",
+  "title": "Lock Your Downtime",
+  "mechanism": "Boundary Management",
+  "lines": [
+   {
+    "vo": "You sit down with a book, Slack pings, and you reply instantly.",
+    "text": "SLACK AT NIGHT",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "One ten-second reply fractures your brain into on-call security guard mode.",
+    "text": "ON CALL ALERT",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Weak boundaries mean you are lounging in the locker room, never recovering.",
+    "text": "ZERO RECOVERY",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Toss the phone in another room and silence all work pings.",
+    "text": "PHONE OUT",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Out of sight, out of mind. Guard downtime like heavy squats.",
+    "text": "GUARD YOUR REST",
+    "color": "gold",
+    "actor": "front",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s492vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dang xa hoi thi Zalo cong viec reo",
+  "title_vi": "Đang xả hơi thì Zalo công việc réo",
+  "mechanism": "Boundary Management",
+  "lines": [
+   {
+    "vo": "Vừa bật phim lên thì Zalo sếp nhảy tin. Lại tiện tay bấm vào xem.",
+    "text": "ZALO GIỜ NGHỈ",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Trả lời mất mười giây, nhưng não bạn sẽ trực chiến suốt cả tối.",
+    "text": "TRỰC CHIẾN CẢ TỐI",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Ranh giới mập mờ như ngồi lì phòng thay đồ: tạ không nâng, người chẳng nghỉ.",
+    "text": "RANH GIỚI MỎNG MANH",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Vứt điện thoại sang phòng khác, tắt sạch thông báo ngoài giờ.",
+    "text": "CẤT MÁY SANG PHÒNG",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Không nhìn thấy thì đỡ ngứa tay. Đã nghỉ thì phải dứt khoát.",
+    "text": "DỨT KHOÁT NGHỈ",
+    "color": "gold",
+    "actor": "front",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s493",
+  "mascot": "pen",
+  "title": "The Endless Chore Trap",
+  "mechanism": "Parkinson's Law",
+  "lines": [
+   {
+    "vo": "You promised to relax right after wiping this one counter.",
+    "text": "JUST ONE CHORE",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Then one wipe turns into scrubbing the oven and sorting every spice.",
+    "text": "ENDLESS CLEANING",
+    "color": "red",
+    "actor": "panic",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Why does sitting down still feel so uncomfortable without an excuse?",
+    "text": "AFRAID TO SIT",
+    "actor": "confused_shrug",
+    "prop": "sofa"
+   },
+   {
+    "vo": "That is Parkinson's law: chores expand to fill whatever time you have.",
+    "text": "PARKINSONS LAW",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Busywork feels morally safer than admitting you are allowed to rest.",
+    "text": "BUSYWORK SHIELD",
+    "actor": "worried_heart",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Set a hard twenty-minute timer for chores when evening comes.",
+    "text": "TIMEBOX CHORES",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "When the buzzer rings, drop the sponge and walk away immediately.",
+    "text": "DROP THE SPONGE",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "target"
+   },
+   {
+    "vo": "Two unwashed plates can wait. Your peace of mind cannot.",
+    "text": "PEACE COMES FIRST",
+    "color": "gold",
+    "actor": "reading",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s493vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Don dep mai de tron cam giac ngoi yen",
+  "title_vi": "Dọn dẹp mãi để trốn cảm giác ngồi yên",
+  "mechanism": "Parkinson's Law",
+  "lines": [
+   {
+    "vo": "Vừa định đặt lưng xuống giường, nhìn quanh phòng trọ bừa bộn lại không yên.",
+    "text": "PHÒNG TRỌ BỪA BỘN",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Thế là tiện tay quét nhà, lau bếp, dọn dẹp miết tới nửa đêm.",
+    "text": "DỌN DẸP TỚI KHUYA",
+    "color": "red",
+    "actor": "panic",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Cứ chuẩn bị ngồi nghỉ là trong lòng lại bứt rứt, không dám ngồi yên.",
+    "text": "NGỒI YÊN KHÓ THẾ",
+    "actor": "confused_shrug",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Đó là định luật Parkinson: việc vặt tự phình to để chiếm hết thời gian.",
+    "text": "ĐỊNH LUẬT PARKINSON",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Làm việc vặt đem lại cảm giác an toàn giả tạo hơn là cho phép mình nghỉ.",
+    "text": "ẢO GIÁC AN TÂM",
+    "actor": "worried_heart",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Hẹn giờ đúng hai mươi phút cho việc dọn dẹp mỗi buổi tối.",
+    "text": "HẸN GIỜ 20 PHÚT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Chuông reo thì buông cây lau nhà xuống, dừng lại ngay lập tức.",
+    "text": "CHUÔNG REO LÀ DỪNG",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "target"
+   },
+   {
+    "vo": "Phòng trọ bừa một chút không sao. Đầu óc bạn cần được nghỉ ngơi.",
+    "text": "ĐẦU ÓC CẦN NGHỈ",
+    "color": "gold",
+    "actor": "reading",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s494",
+  "mascot": "buff",
+  "title": "Stop Working In Your Head",
+  "mechanism": "Psychological Detachment",
+  "lines": [
+   {
+    "vo": "Lying on the couch, but mentally pulling a night shift? Stop kidding yourself.",
+    "text": "MENTAL OVERTIME",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "You clocked out, buddy, but your brain stayed behind for unpaid overtime.",
+    "text": "UNPAID OVERTIME",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Zero mental detachment. Body clocked out, but your head is pulling overtime.",
+    "text": "ZERO DETACHMENT",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Resting with open loops is like holding a loaded barbell between sets.",
+    "text": "LOADED BARBELL",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Run a shutdown ritual. Jot tomorrow's two main tasks, then close the notebook.",
+    "text": "SHUTDOWN RITUAL",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Shift is over. Close the file and leave work at work.",
+    "text": "SHIFT IS OVER",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s494vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Nam tren giuong van hop trong dau",
+  "title_vi": "Nằm trên giường vẫn họp trong đầu",
+  "mechanism": "Psychological Detachment",
+  "lines": [
+   {
+    "vo": "Nằm trên giường mà đầu vẫn chạy bài thuyết trình ngày mai? Tỉnh lại đi.",
+    "text": "HỌP TRONG ĐẦU",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Hết giờ làm rồi, tự nguyện tăng ca không lương trong suy nghĩ làm gì?",
+    "text": "TĂNG CA KHÔNG LƯƠNG",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Thiếu tách rời tâm lý: người đã về nhà nhưng đầu óc vẫn ở công ty.",
+    "text": "TÁCH RỜI TÂM LÝ",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Việc dở dang đè nặng trong đầu, làm bạn nằm nghỉ mà như đang vác tạ.",
+    "text": "VIỆC DỞ ĐÈ NẶNG",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Chốt việc bằng sổ tay: ghi hai việc chính ngày mai rồi gấp lại.",
+    "text": "ĐÓNG SỔ GIỜ VỀ",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Hết ca rồi. Gấp máy lại và để công việc ở nguyên trên bàn.",
+    "text": "HẾT CA THÌ VỀ",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s495",
+  "mascot": "pen",
+  "title": "Why Downtime Feels Guilty",
+  "mechanism": "Leisure Guilt",
+  "lines": [
+   {
+    "vo": "Skipping a late gathering to recharge, but guilt ruins the whole evening.",
+    "text": "SAYING NO HURTS",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "A quiet voice whispers that any hour without visible progress is wasted.",
+    "text": "GUILT OF REST",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "That is leisure guilt: tying your self-worth strictly to your output.",
+    "text": "LEISURE GUILT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hustle culture brainwashes you into thinking resting without permission is slacking.",
+    "text": "REST IS NOT GUILT",
+    "actor": "arms_crossed_no",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Schedule twenty minutes of pure play with zero score and zero goals.",
+    "text": "PLAY FOR FUN",
+    "color": "green",
+    "actor": "snack",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Rest is not a reward to earn. It keeps you human.",
+    "text": "STAY HUMAN",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s495vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Tai sao nam nghi lai thay toi loi?",
+  "title_vi": "Tại sao nằm nghỉ lại thấy tội lỗi?",
+  "mechanism": "Leisure Guilt",
+  "lines": [
+   {
+    "vo": "Từ chối chầu nhậu để ở nhà, nhưng nằm xuống lại thấy áy náy.",
+    "text": "TỪ CHỐI NHƯNG ÁY NÁY",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Trong đầu luôn có tiếng giục: người ta đang cày, sao mình lại lười?",
+    "text": "SỢ BỊ COI LÀ LƯỜI",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Đó là cảm giác tội lỗi khi nghỉ: hễ ngồi không lại thấy vô dụng.",
+    "text": "TỘI LỖI KHI NGHỈ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Áp lực xung quanh khiến bạn nghĩ hễ nghỉ ngơi là đang tụt hậu.",
+    "text": "SỢ BỊ TỤT HẬU",
+    "actor": "arms_crossed_no",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Dành hai mươi phút làm điều vô thưởng vô phạt: nghe nhạc, ngắm mây.",
+    "text": "CHƠI KHÔNG MỤC TIÊU",
+    "color": "green",
+    "actor": "snack",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Nghỉ ngơi không cần lý do chính đáng. Bạn cần nó để thở.",
+    "text": "CẦN NÓ ĐỂ THỞ",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s496",
+  "mascot": "buff",
+  "title": "Rushing On Your Day Off",
+  "mechanism": "Time Affluence",
+  "lines": [
+   {
+    "vo": "Chugging your Sunday coffee like you're twenty minutes late? Slow it down, buddy.",
+    "text": "RUSHING ON SUNDAY",
+    "color": "red",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Zero time affluence. Hours on paper, but zero calm in your bones.",
+    "text": "ZERO AFFLUENCE",
+    "color": "red",
+    "actor": "sprint_start",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Stashing cash means nothing if your calendar feels like serving a sentence.",
+    "text": "CALENDAR PRISON",
+    "actor": "arms_crossed_no",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Block out a thirty-minute white-space buffer between any plans.",
+    "text": "WHITE SPACE BUFFER",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Build margin into your calendar. Speed is for reps, not your peace.",
+    "text": "BUILD YOUR MARGIN",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s496vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Chu nhat ranh roi ma long van voi",
+  "title_vi": "Chủ nhật rảnh rỗi mà lòng vẫn vội",
+  "mechanism": "Time Affluence",
+  "lines": [
+   {
+    "vo": "Chiều Chủ nhật rảnh rỗi mà nhấp ngụm cà phê vội như sắp muộn làm.",
+    "text": "CÀ PHÊ CHÁY GIỜ",
+    "color": "red",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Bạn đang nghèo thời gian: lịch thì trống, nhưng đầu óc lúc nào cũng cuống cuồng.",
+    "text": "NGHÈO THỜI GIAN",
+    "color": "red",
+    "actor": "sprint_start",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Kiếm ra tiền mà lúc nào cũng vắt chân lên cổ thì chẳng có gì vui.",
+    "text": "BẬN RỘN VÔ NGHĨA",
+    "actor": "arms_crossed_no",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Chặn ngay ba mươi phút đệm giữa các lịch hẹn, cấm xếp việc vào.",
+    "text": "KHOẢNG ĐỆM 30 PHÚT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Chừa khoảng đệm trên lịch. Hùng hục là việc phòng tập, không phải lúc xả hơi.",
+    "text": "TẠO KHOẢNG ĐỆM",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ }
+]

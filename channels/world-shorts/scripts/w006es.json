@@ -1,0 +1,138 @@
+{
+ "id": "w006es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#2563eb",
+ "cover_frame": 60,
+ "source": "Fronteras: CIA World Factbook · Husos horarios: Gobierno de Francia",
+ "music": "shared/library/music/yt-audio-library/A New Adventure - Asher Fulero.mp3",
+ "beats": [
+  {
+   "say": "La frontera terrestre más larga de Francia no está en Europa.",
+   "title": "LA FRONTERA MÁS LARGA DE FRANCIA NO ESTÁ EN EUROPA",
+   "cam": {
+    "lon": 2.5,
+    "lat": 46.5,
+    "span": 22
+   },
+   "hl": [
+    {
+     "a3": "FRA",
+     "color": "#2563eb"
+    }
+   ]
+  },
+  {
+   "say": "Es con Brasil.",
+   "cam": {
+    "lon": -50,
+    "lat": 3,
+    "span": 40
+   },
+   "hl": [
+    {
+     "a3": "FRA",
+     "color": "#2563eb",
+     "label": "Francia"
+    },
+    {
+     "a3": "BRA",
+     "color": "#22c55e"
+    }
+   ]
+  },
+  {
+   "say": "La Guayana Francesa, en Sudamérica, no es una colonia. Es parte de Francia, usa el euro y forma parte de la Unión Europea.",
+   "cam": {
+    "lon": -53,
+    "lat": 4,
+    "span": 14
+   },
+   "hl": [
+    {
+     "a3": "FRA",
+     "color": "#2563eb",
+     "label": "Francia"
+    }
+   ]
+  },
+  {
+   "say": "Según el CIA World Factbook, la frontera con Brasil mide seiscientos cuarenta y nueve kilómetros. Apenas por delante de España.",
+   "cam": {
+    "lon": -53,
+    "lat": 4,
+    "span": 14
+   },
+   "hl": [
+    {
+     "a3": "FRA",
+     "color": "#2563eb"
+    },
+    {
+     "a3": "BRA",
+     "color": "#22c55e"
+    }
+   ],
+   "bars": {
+    "unit": " km",
+    "items": [
+     {
+      "label": "Brasil",
+      "value": 649,
+      "color": "#22c55e"
+     },
+     {
+      "label": "España",
+      "value": 646,
+      "color": "#ef4444"
+     },
+     {
+      "label": "Bélgica",
+      "value": 556,
+      "color": "#ffd23f"
+     },
+     {
+      "label": "Suiza",
+      "value": 525,
+      "color": "#94a3b8"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Suma islas en el Caribe, el océano Índico y el Pacífico, y Francia termina con doce husos horarios. Más que cualquier otro país.",
+   "cam": {
+    "lon": 0,
+    "lat": 10,
+    "span": 340
+   },
+   "hl": [
+    {
+     "a3": "FRA",
+     "color": "#2563eb"
+    }
+   ],
+   "big": {
+    "value": "12",
+    "label": "husos horarios"
+   }
+  },
+  {
+   "say": "En Francia el sol casi nunca se pone. Sígueme para más.",
+   "title": "EN FRANCIA NUNCA SE PONE EL SOL",
+   "cam": {
+    "lon": -20,
+    "lat": 20,
+    "span": 120
+   },
+   "hl": [
+    {
+     "a3": "FRA",
+     "color": "#2563eb"
+    }
+   ]
+  }
+ ]
+}

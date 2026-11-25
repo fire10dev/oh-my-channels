@@ -1,0 +1,758 @@
+[
+  {
+    "id": "s441",
+    "mascot": "pen",
+    "title": "Why Mornings Drain You",
+    "mechanism": "Decision Fatigue",
+    "lines": [
+      {
+        "vo": "You stare blankly at your closet, unable to pick a shirt.",
+        "text": "CLOSET PARALYSIS",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Every tiny choice silently drains your early mental fuel.",
+        "text": "DRAINING FUEL",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "By breakfast, your brain already feels completely spent.",
+        "text": "TIRED ALREADY",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Lay out one simple outfit before you sleep tonight.",
+        "text": "DECIDE TONIGHT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "moon_stars"
+      },
+      {
+        "vo": "Wake up and step directly into your morning routine.",
+        "text": "EASY AUTOPILOT",
+        "color": "green",
+        "actor": "front",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "What decision can you take off your morning plate?",
+        "text": "SAVE YOUR FUEL",
+        "color": "gold",
+        "actor": "think",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s441vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Sao Vua Day Da Met Nao?",
+    "title_vi": "Sao Vừa Dậy Đã Mệt Não?",
+    "mechanism": "Decision Fatigue",
+    "lines": [
+      {
+        "vo": "Đứng tần ngần trước tủ đồ mười phút vẫn chưa biết mặc gì.",
+        "text": "CHƯA BIẾT MẶC GÌ",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Mỗi quyết định vụn vặt đang bòn rút dần năng lượng đầu ngày.",
+        "text": "PIN NÃO CẠN DẦN",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Chưa kịp dắt xe ra ngõ mà đầu óc đã thấy đuối.",
+        "text": "CHƯA ĐI ĐÃ OẢI",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Tối nay chọn sẵn một bộ đồ treo ngay ngắn lên móc.",
+        "text": "CHỌN TỪ TỐI NAY",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "moon_stars"
+      },
+      {
+        "vo": "Sáng mai chỉ việc mặc vào rồi dắt xe đi làm.",
+        "text": "ĐỠ PHẢI NGHĨ",
+        "color": "green",
+        "actor": "front",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Sáng mai của bạn có bớt đi được một quyết định nào không?",
+        "text": "GIẢM QUYẾT ĐỊNH",
+        "color": "gold",
+        "actor": "think",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s442",
+    "mascot": "buff",
+    "title": "Fix Your Morning Setup",
+    "mechanism": "Choice Architecture",
+    "lines": [
+      {
+        "vo": "Making morning coffee feels like an obstacle course. Sure, buddy.",
+        "text": "OBSTACLE COURSE",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Your clean mug is buried under yesterday's messy dishes.",
+        "text": "BURIED GEAR",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Your sleepy brain always defaults to the easiest visual path.",
+        "text": "LAZY DEFAULTS",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "You designed your counter for failure instead of smooth reps.",
+        "text": "BAD SETUP",
+        "color": "red",
+        "actor": "panic",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Stage your mug and breakfast bowl tonight on the clean counter.",
+        "text": "SET THE STAGE",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Wake up to an instant win without opening cupboards.",
+        "text": "EASY REPS",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Clear the station tonight. Lift smooth tomorrow.",
+        "text": "CLEAR THE DECK",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s442vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Bay Luoi Trong Can Bep Nho",
+    "title_vi": "Bẫy Lười Trong Căn Bếp Nhỏ",
+    "mechanism": "Choice Architecture",
+    "lines": [
+      {
+        "vo": "Muốn pha gói cà phê mà tìm cái cốc mất năm phút. Ừ, tin.",
+        "text": "TÌM CỐC MẤT 5 PHÚT",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Cốc sạch bị chôn dưới đống bát đũa chưa rửa từ tối qua.",
+        "text": "BÁT ĐĨA CHỒNG CHẤT",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Mắt nhắm mắt mở thì não chỉ chọn đường dễ nhất thôi.",
+        "text": "CHỌN ĐƯỜNG DỄ",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Bạn tự dựng chướng ngại vật ngay trước giờ đi làm.",
+        "text": "TỰ LÀM KHÓ MÌNH",
+        "color": "red",
+        "actor": "panic",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Rửa sạch cái cốc rồi úp sẵn lên bàn ăn từ tối.",
+        "text": "ÚP SẴN TRÊN BÀN",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Sáng ra chỉ việc rót nước là xong một hiệp khởi động.",
+        "text": "KHỞI ĐỘNG XONG",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Dọn chỗ trước khi ngủ. Sáng mai đỡ quạu.",
+        "text": "DỌN TỪ TỐI NAY",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s443",
+    "mascot": "pen",
+    "title": "Stop The Morning Screen Trap",
+    "mechanism": "Nudge Theory",
+    "lines": [
+      {
+        "vo": "The alarm rings and your hand grabs the phone automatically.",
+        "text": "SCREEN TRAP",
+        "color": "red",
+        "actor": "bed_phone_night",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Twenty quiet minutes vanish into feeds before your feet touch ground.",
+        "text": "LOST MINUTES",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "A bedside phone is an aggressive nudge pulling you backward.",
+        "text": "HIDDEN PULL",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Plug that charger across the room before you sleep.",
+        "text": "CHARGE ACROSS",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Place a tall glass of water right beside it.",
+        "text": "ADD WATER",
+        "color": "green",
+        "actor": "front",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "A small distance turns a lazy trap into an easy start.",
+        "text": "START SMOOTH",
+        "color": "gold",
+        "actor": "meditating",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s443vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Thoat Bay Dien Thoai Dau Giuong",
+    "title_vi": "Thoát Bẫy Điện Thoại Đầu Giường",
+    "mechanism": "Nudge Theory",
+    "lines": [
+      {
+        "vo": "Vừa tắt chuông báo thức là ngón tay tự lướt mạng xã hội.",
+        "text": "TỰ ĐỘNG LƯỚT MẠNG",
+        "color": "red",
+        "actor": "bed_phone_night",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Mười lăm phút trôi vèo khi bạn vẫn nằm cuộn trong chăn.",
+        "text": "MẤT 15 PHÚT",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Chiếc điện thoại đầu giường là một cú hích kéo bạn chìm sâu.",
+        "text": "CÚ HÍCH NẰM LÌ",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Cắm sạc ở chiếc bàn đối diện giường trước khi ngủ.",
+        "text": "SẠC XA GIƯỜNG",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Đặt thêm cốc nước lọc ngay cạnh chiếc máy.",
+        "text": "THÊM CỐC NƯỚC",
+        "color": "green",
+        "actor": "front",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Muốn tắt chuông thì phải rời giường, thế là tỉnh.",
+        "text": "RỜI GIƯỜNG LÀ TỈNH",
+        "color": "gold",
+        "actor": "meditating",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s444",
+    "mascot": "buff",
+    "title": "Never Forget Your Keys Again",
+    "mechanism": "Prospective Memory",
+    "lines": [
+      {
+        "vo": "Sprint downstairs, hit the bus gate, no scan card. Classic.",
+        "text": "WHERE IS THE CARD",
+        "color": "red",
+        "actor": "panic",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Rush hour stress wipes your mental checklist clean.",
+        "text": "MEMORY CRASH",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Stop relying on memory when your brain is running cold.",
+        "text": "NO COLD REPS",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Clip your keys directly to the front door handle tonight.",
+        "text": "LOCK IT DOWN",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "You cannot leave without touching them. Bottleneck wins.",
+        "text": "BOTTLENECK WINS",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s444vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Quen The Xe Ngay Gio Cao Diem",
+    "title_vi": "Quên Thẻ Xe Ngay Giờ Cao Điểm",
+    "mechanism": "Prospective Memory",
+    "lines": [
+      {
+        "vo": "Xuống tới hầm gửi xe mới phát hiện quên thẻ tháng. Quen chưa.",
+        "text": "QUÊN THẺ GỬI XE",
+        "color": "red",
+        "actor": "panic",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Đầu óc đang cuống đi làm thì trí nhớ rớt đài ngay.",
+        "text": "TRÍ NHỚ RỚT ĐÀI",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đừng bắt bộ não gánh tạ lúc nó chưa khởi động.",
+        "text": "ĐỪNG BẮT NÃO GÁNH",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Tối nay móc luôn chìa khóa và thẻ xe vào tay nắm cửa.",
+        "text": "MÓC TAY NẮM CỬA",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Mở cửa là chạm tay vào. Khỏi chạy ngược lên phòng.",
+        "text": "CHẮC CHẮN KHÔNG QUÊN",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s445",
+    "mascot": "pen",
+    "title": "Why Good Intentions Fail",
+    "mechanism": "Action Planning",
+    "lines": [
+      {
+        "vo": "You promised yourself you would leave ten minutes early today.",
+        "text": "THE PROMISE",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Instead, you spend five minutes wandering around your kitchen.",
+        "text": "DRIFTING AROUND",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Vague intentions give your groggy brain room to negotiate delay.",
+        "text": "BRAIN NEGOTIATES",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "brain"
+      },
+      {
+        "vo": "Lock in a concrete if-then anchor instead of hoping.",
+        "text": "IF-THEN RULE",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "When I brush my teeth tonight, then I pack my laptop.",
+        "text": "LINK HABITS",
+        "color": "green",
+        "actor": "front",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "The existing habit pulls the new action smoothly forward.",
+        "text": "SMOOTH FLOW",
+        "color": "green",
+        "actor": "reading",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Which morning habit will you anchor tonight?",
+        "text": "ANCHOR IT",
+        "color": "gold",
+        "actor": "think",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s445vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Hua Roi Nha Som Nhung Bat Thanh",
+    "title_vi": "Hứa Rời Nhà Sớm Nhưng Bất Thành",
+    "mechanism": "Action Planning",
+    "lines": [
+      {
+        "vo": "Tối tự hứa mai sẽ đi làm sớm mười phút để tránh tắc đường.",
+        "text": "HỨA ĐI LÀM SỚM",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Sáng ra lại đứng ngơ ngác tìm đồ sạc, muộn thêm mười phút.",
+        "text": "NGƠ NGÁC TÌM ĐỒ",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Ý định mơ hồ luôn bị não bộ đem ra mặc cả.",
+        "text": "NÃO TỰ MẶC CẢ",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "brain"
+      },
+      {
+        "vo": "Thay vì tự nhủ chung chung, hãy khóa chặt điều kiện kích hoạt.",
+        "text": "KHÓA ĐIỀU KIỆN",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Hễ đánh răng tối xong, lập tức bỏ máy tính vào ba lô.",
+        "text": "ĐÁNH RĂNG XONG XẾP ĐỒ",
+        "color": "green",
+        "actor": "front",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Thói quen cũ sẽ tự kéo việc mới theo một cách tự nhiên.",
+        "text": "KÉO THEO THÓI QUEN",
+        "color": "green",
+        "actor": "reading",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Tối nay bạn sẽ gắn việc soạn đồ vào hành động nào?",
+        "text": "GẮN VÀO VIỆC NÀO?",
+        "color": "gold",
+        "actor": "think",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s446",
+    "mascot": "buff",
+    "title": "Set Up Visual Morning Cues",
+    "mechanism": "Cue Utilization",
+    "lines": [
+      {
+        "vo": "You roll out of bed and wander the hallway aimlessly.",
+        "text": "ZOMBIE WALK",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "No signposts. Just a groggy brain lifting heavy in the dark.",
+        "text": "NO SIGNPOSTS",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Habits do not fire without an obvious physical trigger.",
+        "text": "NEED TRIGGERS",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "You need a big visual cue right in your path.",
+        "text": "CLEAR TARGET",
+        "color": "green",
+        "actor": "point_viewer",
+        "prop": "target"
+      },
+      {
+        "vo": "Place your transit card directly on top of your phone screen.",
+        "text": "CARD ON SCREEN",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "When your hand reaches for the screen, you grab the pass.",
+        "text": "INSTANT GRAB",
+        "color": "green",
+        "actor": "front",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Zero thinking required. Autopilot executed perfectly.",
+        "text": "ZERO FRICTION",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "target"
+      },
+      {
+        "vo": "Set the cue tonight. Stop wandering tomorrow.",
+        "text": "SET THE CUE",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s446vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Mat Nham Mat Mo Di Quanh Nha",
+    "title_vi": "Mắt Nhắm Mắt Mở Đi Quanh Nhà",
+    "mechanism": "Cue Utilization",
+    "lines": [
+      {
+        "vo": "Vừa bước ra khỏi giường là đi lòng vòng không biết làm gì.",
+        "text": "ĐI LÒNG VÒNG",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Không có biển chỉ đường, bạn như tập tạ giữa phòng tối.",
+        "text": "TẬP GIỮA PHÒNG TỐI",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Thói quen buổi sáng cần tín hiệu thị giác đập thẳng vào mắt.",
+        "text": "CẦN TÍN HIỆU RÕ",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đừng tin vào phản xạ của cái đầu còn ngái ngủ.",
+        "text": "ĐẦU CÒN NGÁI NGỦ",
+        "color": "red",
+        "actor": "point_viewer",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Đặt luôn vé xe buýt lên trên màn hình điện thoại từ tối.",
+        "text": "ĐẶT VÉ LÊN MÀN HÌNH",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Sáng cầm điện thoại lên là vé nằm gọn trong tay.",
+        "text": "TIỆN TAY CẦM LUÔN",
+        "color": "green",
+        "actor": "front",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Xong một hiệp mượt mà không tốn nửa giây đắn đo.",
+        "text": "HIỆP ĐẦU MƯỢT MÀ",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "target"
+      },
+      {
+        "vo": "Đặt biển chỉ đường tối nay đi. Mai đỡ ngáo ngơ.",
+        "text": "ĐẶT TÍN HIỆU NGAY",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s447",
+    "mascot": "pen",
+    "title": "Why Morning Delays Trigger Rage",
+    "mechanism": "Friction Costs",
+    "lines": [
+      {
+        "vo": "A tangled laptop charger in your bag ruins your entire morning mood.",
+        "text": "TANGLED CORDS",
+        "color": "red",
+        "actor": "panic",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Tiny physical snags feel ten times heavier when you are rushing.",
+        "text": "HEAVY SNAGS",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Small barriers drain your remaining patience before you leave home.",
+        "text": "PATIENCE DRAINS",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Pack your charger and work gear completely before going to bed.",
+        "text": "PACK IT TONIGHT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Zip the backpack shut and set it directly by your shoes.",
+        "text": "ZIP BY THE SHOES",
+        "color": "green",
+        "actor": "front",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Removing tiny micro-hurdles gives your morning back its calm.",
+        "text": "REGAIN YOUR CALM",
+        "color": "gold",
+        "actor": "meditating",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s447vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Buc Minh Vi Day Sac Roi Tung",
+    "title_vi": "Bực Mình Vì Dây Sạc Rối Tung",
+    "mechanism": "Friction Costs",
+    "lines": [
+      {
+        "vo": "Dây sạc laptop cuộn rối mù trong ba lô làm bạn bực bội.",
+        "text": "DÂY SẠC RỐI TUNG",
+        "color": "red",
+        "actor": "panic",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Một rắc rối nhỏ ba mươi giây đủ đốt sạch kiên nhẫn đầu ngày.",
+        "text": "MẤT HẾT KIÊN NHẪN",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Trước giờ chen chúc kẹt xe, lực cản nhỏ cũng thành gánh nặng.",
+        "text": "LỰC CẢN VỤN VẶT",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Tối nay cuộn gọn dây sạc cất hẳn vào ngăn ba lô.",
+        "text": "CUỘN GỌN TỪ TỐI",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Kéo khóa cẩn thận rồi để cặp ngay cạnh đôi giày đi làm.",
+        "text": "ĐỂ CẠNH ĐÔI GIÀY",
+        "color": "green",
+        "actor": "front",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Gạt bỏ từng điểm nghẽn nhỏ, buổi sáng tự nhiên nhẹ nhõm hơn.",
+        "text": "BUỔI SÁNG NHẸ NHÀNG",
+        "color": "gold",
+        "actor": "meditating",
+        "prop": "lightbulb"
+      }
+    ]
+  }
+]

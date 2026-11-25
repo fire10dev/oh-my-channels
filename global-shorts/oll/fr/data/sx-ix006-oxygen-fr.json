@@ -1,0 +1,105 @@
+{
+ "title": "L’oxygène disparaissait dans Biosphère 2",
+ "hook": "PLUS D’OXYGÈNE",
+ "asof": "Données des archives de 1991 à 1994",
+ "world": "bio",
+ "long": "IX006",
+ "chapters": [
+  {
+   "id": "air",
+   "hud": "JOUR 480",
+   "chip": "JANV. 1993",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "gauge",
+     "plane": "o2:14.5",
+     "s": "Huit personnes enfermées, et l’oxygène a commencé à disparaître."
+    },
+    {
+     "v": "wide",
+     "s": "Voici Biosphère 2, en Arizona, au début des années 1990."
+    },
+    {
+     "v": "gauge",
+     "plane": "o2:20.9",
+     "s": "Dehors, l’air contient environ 21 % d’oxygène."
+    },
+    {
+     "v": "gauge",
+     "plane": "o2:18.0",
+     "s": "À l’intérieur, ce taux n’arrêtait pas de baisser."
+    },
+    {
+     "v": "gauge",
+     "plane": "o2:14.5",
+     "s": "Début 1993, il était tombé à environ 14,5 %."
+    },
+    {
+     "v": "sky",
+     "st": [
+      "~4,6 km",
+      "l’air, là-haut"
+     ],
+     "s": "Comme vivre à 4,6 kilomètres d’altitude."
+    },
+    {
+     "v": "berth",
+     "you": "berth",
+     "s": "L’équipe était épuisée en permanence."
+    },
+    {
+     "v": "berth",
+     "s": "Certains arrêtaient de respirer dans leur sommeil."
+    },
+    {
+     "v": "tech",
+     "s": "Mais si quelque chose consommait l’oxygène,"
+    },
+    {
+     "v": "tech",
+     "s": "le dioxyde de carbone aurait dû s’accumuler."
+    },
+    {
+     "v": "concrete",
+     "s": "Mais ce n’est pas ce qui s’est passé."
+    },
+    {
+     "v": "farm",
+     "s": "Premier coupable : la terre fertile des cultures."
+    },
+    {
+     "v": "crops",
+     "s": "Ses microbes consommaient l’oxygène et produisaient du dioxyde de carbone."
+    },
+    {
+     "v": "concrete",
+     "s": "Deuxième coupable : le béton à nu."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "MICROBES DU SOL",
+       "CONSOMMENT L’OXYGÈNE",
+       "PRODUISENT DU CO₂",
+       "LE BÉTON L’ABSORBE"
+      ],
+      "note": "Severinghaus et al., 1994"
+     },
+     "s": "Le béton absorbait le dioxyde de carbone et masquait les indices."
+    },
+    {
+     "v": "truck",
+     "plane": "pump",
+     "s": "En 1993, on a pompé de l’oxygène depuis l’extérieur."
+    },
+    {
+     "v": "airlock",
+     "you": "airlock",
+     "s": "Toi, tu serais resté à l’intérieur ?"
+    }
+   ]
+  }
+ ]
+}

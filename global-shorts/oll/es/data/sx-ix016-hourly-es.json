@@ -1,0 +1,70 @@
+{
+ "title": "Cada hora, se enfrentan a vientos de 161 km/h",
+ "hook": "AFUERA, CADA HORA",
+ "asof": "Cifras del Observatorio de Mount Washington y FOX Weather",
+ "world": "summit",
+ "long": "IX016",
+ "chapters": [
+  {
+   "id": "work",
+   "hud": "DÍA 2",
+   "chip": "05:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Cada hora, alguien sale a enfrentarse a esto.",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    },
+    {
+     "s": "La cima del Mount Washington, en New Hampshire.",
+     "v": "mountain"
+    },
+    {
+     "s": "La estación no está automatizada: el hielo y el viento dañan los instrumentos.",
+     "v": "rime",
+     "plane": "rime"
+    },
+    {
+     "s": "Así que cada hora, de día y de noche, alguien sale.",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    },
+    {
+     "s": "Un observador dijo que solo se quedan dentro si hay rayos.",
+     "v": "sky",
+     "plane": "lightning"
+    },
+    {
+     "s": "Suben a la torre, a unos 30 metros de altura,",
+     "v": "tower",
+     "plane": "wind",
+     "you": "tower"
+    },
+    {
+     "s": "y quitan el hielo con un mazo de goma o una barreta.",
+     "v": "tower",
+     "plane": "rime",
+     "you": "tower"
+    },
+    {
+     "s": "En 1934, midieron una ráfaga de 372 km/h.",
+     "v": "tower",
+     "plane": "wind",
+     "st": [
+      "372 KM/H",
+      "Abril de 1934"
+     ]
+    },
+    {
+     "s": "¿Saldrías ahí cada hora?",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    }
+   ]
+  }
+ ]
+}

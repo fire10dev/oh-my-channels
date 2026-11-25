@@ -1,0 +1,11 @@
+{"id":"w016","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#16a34a","cover_frame":60,
+ "source":"Areas & borders: CIA World Factbook · IBGE","music":"shared/library/music/yt-audio-library/A Serenade to Veracruz - Jimena Contreras.mp3",
+ "beats":[
+  {"say":"Brazil is bigger than the mainland United States.","title":"BRAZIL IS BIGGER THAN THE USA","cam":{"lon":-55,"lat":-12,"span":55},"hl":[{"a3":"BRA","color":"#16a34a"}]},
+  {"say":"Drop it on America at true size.","cam":{"lon":-98,"lat":39,"span":70},"hl":[{"a3":"USA","color":"#334155"}],"ghost":{"a3":"BRA","to":[-97,38],"color":"#16a34a"}},
+  {"say":"Brazil covers eight and a half million square kilometers. The lower forty eight states, about eight point one.","cam":{"lon":-97,"lat":38,"span":70},"ghost":{"a3":"BRA","to":[-97,38],"color":"#16a34a"},
+   "bars":{"unit":"M km²","items":[{"label":"Brazil","value":8.5,"color":"#16a34a"},{"label":"Lower 48 US states","value":8.1,"color":"#3b82f6"}]}},
+  {"say":"It touches ten countries. Every country in South America, except two: Chile and Ecuador.","cam":{"lon":-60,"lat":-18,"span":55},"hl":[{"a3":"BRA","color":"#16a34a"},{"a3":"CHL","color":"#ef4444","label":"Chile"},{"a3":"ECU","color":"#ef4444","label":"Ecuador"}],"big":{"value":"10","label":"neighbors"}},
+  {"say":"And about sixty percent of the Amazon rainforest is inside Brazil.","cam":{"lon":-60,"lat":-5,"span":40},"hl":[{"a3":"BRA","color":"#15803d"}],"big":{"value":"60%","label":"of the Amazon"}},
+  {"say":"A country the size of a continent. Follow for more.","title":"A COUNTRY THE SIZE OF A CONTINENT","cam":{"lon":-55,"lat":-12,"span":55},"hl":[{"a3":"BRA","color":"#16a34a"}]}
+ ]}

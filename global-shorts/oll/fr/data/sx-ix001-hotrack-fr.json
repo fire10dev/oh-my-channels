@@ -1,0 +1,165 @@
+{
+ "title": "Les sous-mariniers partagent un lit chaud",
+ "hook": "BANNETTE CHAUDE",
+ "asof": "Chiffres de 2026",
+ "world": "sub",
+ "long": "IX001",
+ "chapters": [
+  {
+   "id": "rack",
+   "hud": "JOUR 1",
+   "chip": "22:00",
+   "tod": "day",
+   "shots": [
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Dans certains sous-marins, ton lit est encore chaud quand tu t’y glisses."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "Quelqu’un vient juste d’en sortir."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Ton lit s’appelle une couchette."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "Une étroite étagère, empilée sur trois niveaux,"
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      4.2
+     ],
+     "s": "avec un rideau et un matelas fin."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Dessous, un petit casier."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      600,
+      1.8
+     ],
+     "s": "C’est tout ton espace personnel."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      960,
+      550,
+      1.0
+     ],
+     "st": [
+      "77 jours",
+      "patrouille moyenne · US Navy, 2025"
+     ],
+     "s": "Pendant onze semaines."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      960,
+      560,
+      1.12
+     ],
+     "s": "Et sur les petits sous-marins d’attaque,"
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "il n’y a pas toujours assez de couchettes."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Alors les marins les plus récents partagent parfois un lit,"
+    },
+    {
+     "d": {
+      "type": "compare",
+      "left": [
+       "MARIN A",
+       "DANS LE LIT",
+       "pendant que B travaille"
+      ],
+      "right": [
+       "MARIN B",
+       "DANS LE LIT",
+       "pendant que A travaille"
+      ],
+      "note": "un lit · deux marins"
+     },
+     "s": "à tour de rôle."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "Quand tu t’y glisses, le matelas est encore chaud de la personne d’avant."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "q": "LIT TOURNANT",
+     "s": "C’est pour ça qu’on appelle ça le « hot racking »."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.2
+     ],
+     "s": "Tu dormirais dans le lit encore chaud d’un inconnu ?"
+    }
+   ]
+  }
+ ]
+}

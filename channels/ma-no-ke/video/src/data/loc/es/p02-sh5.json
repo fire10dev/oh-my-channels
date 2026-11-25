@@ -1,0 +1,300 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 27.103,
+"shots": [
+{
+"img": "p02/img/N13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 2.553,
+"a": [
+1024,
+568,
+460
+],
+"b": [
+717,
+338,
+340
+],
+"shake": 6,
+"flash": 1
+},
+{
+"img": "p02/img/B04r.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 2.553,
+"t1": 6.389,
+"a": [
+716,
+700,
+760
+],
+"b": [
+716,
+600,
+560
+]
+},
+{
+"img": "p02/img/S01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 6.389,
+"t1": 9.669,
+"a": [
+920,
+576,
+648
+],
+"b": [
+920,
+420,
+460
+]
+},
+{
+"img": "p02/img/N11.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 9.669,
+"t1": 12.902,
+"a": [
+345,
+520,
+460
+],
+"b": [
+345,
+480,
+340
+]
+},
+{
+"img": "p02/img/N23.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 12.902,
+"t1": 14.681,
+"a": [
+1306,
+450,
+460
+],
+"b": [
+1306,
+360,
+340
+],
+"shake": 8
+},
+{
+"img": "p02/img/B04r.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 14.681,
+"t1": 18.959,
+"a": [
+716,
+650,
+700
+],
+"b": [
+716,
+600,
+560
+]
+},
+{
+"img": "p02/img/N19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 18.959,
+"t1": 21.986,
+"a": [
+1766,
+743,
+460
+],
+"b": [
+1766,
+819,
+340
+]
+},
+{
+"img": "p02/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 21.986,
+"t1": 26.603,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p02/img/cut_B02.png",
+"size": 1344,
+"t0": 21.986,
+"t1": 26.603,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 3.72,
+"t1": 6.389,
+"text": "LO QUE DIGA EL PAPEL, ESA ES LA VERDAD",
+"color": "#ffffff"
+},
+{
+"t0": 21.986,
+"t1": 26.603,
+"text": "¿QUÉ ME LLEVO? ↓",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "p02/sfx/rung.wav",
+"vol": 0.8
+},
+{
+"t": 0.15,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 3.72,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 15.084,
+"src": "p02/sfx/chuong.wav",
+"vol": 0.6
+},
+{
+"t": 20.728,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 21.986,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 25.531,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 2.004,
+"text": "Yo… sigo vivo. ¿Por qué me registras?"
+},
+{
+"t": 2.553,
+"dur": 3.335,
+"text": "Usted firmó el papel. Lo que diga, esa es la verdad."
+},
+{
+"t": 6.389,
+"dur": 6.263,
+"text": "Eso. Un error. Pero siguiendo el procedimiento. Gracias a ese error, la esposa de Loc duerme tranquila en el campo."
+},
+{
+"t": 12.902,
+"dur": 1.53,
+"text": "¡Perdóneme! ¡Le quemo un auto!"
+},
+{
+"t": 14.681,
+"dur": 4.027,
+"text": "Voy al trabajo en bicicleta. Aún no te toca. No me llevaré tu vida."
+},
+{
+"t": 18.959,
+"dur": 2.527,
+"text": "No me llevo vidas. Me llevo… otra cosa."
+},
+{
+"t": 21.986,
+"dur": 3.618,
+"text": "¿Qué se lleva? Adivina en los comentarios. Te cuento la próxima vez."
+}
+],
+"comments": [
+{
+"t": 0.15,
+"u": "🔔 relojcontrol",
+"c": "nguyen van phat — PRESENTE 03:00",
+"end": 2.553
+}
+],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/es/vo/40c026aee2.wav"
+},
+{
+"t": 2.553,
+"src": "loc/es/vo/3128e4fe2f.wav"
+},
+{
+"t": 6.389,
+"src": "loc/es/vo/427731eeea.wav"
+},
+{
+"t": 12.902,
+"src": "loc/es/vo/d6d0f01b35.wav"
+},
+{
+"t": 14.681,
+"src": "loc/es/vo/abbac749cf.wav"
+},
+{
+"t": 18.959,
+"src": "loc/es/vo/1cee6f4e3f.wav"
+},
+{
+"t": 21.986,
+"src": "loc/es/vo/52013c514d.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

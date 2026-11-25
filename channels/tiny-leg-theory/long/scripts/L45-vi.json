@@ -1,0 +1,801 @@
+{
+ "id": "L45vi",
+ "lang": "vi",
+ "title": "Dành thời gian cho mình sao cho không thấy ích kỷ?",
+ "description": "Bạn có thấy tội lỗi mỗi khi ngồi xuống nghỉ ngơi? Khám phá 8 cơ chế tâm lý (Role Overload, Role Conflict, Parkinson's Law...) và bài tập thực tế giúp bạn giữ trọn không gian riêng mà không áy náy.",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa ngồi xuống nghỉ một lát, đầu óc đã réo lên bảo bạn là kẻ lười biếng.",
+     "text": "TỘI LỖI KHI NGHỈ NGƠI",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn Pen. Đầu bạn coi một tiếng rảnh như trốn một buổi tập nặng vậy.",
+     "text": "NGHỈ KHÔNG PHẢI YẾU",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hết tin nhắn Zalo gia đình, việc nhà, lại đến việc sếp giao, nghỉ hai mươi phút thấy quá ích kỷ.",
+     "text": "TỰ THẤY MÌNH ÍCH KỶ",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy ích kỷ vì bạn chưa bao giờ học cách làm người đỡ tạ cho chính mình.",
+     "text": "HỒI PHỤC LÀ ĐỘNG CƠ",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy làm sao để giữ không gian riêng mà không bị cảm giác áy náy bám theo?",
+     "text": "CÂU HỎI LỚN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có tám lý do tâm lý rõ ràng, kèm bài tập cụ thể để bạn xử lý từng cái.",
+     "text": "TÁM CÁCH XỬ LÝ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Quá tải vai trò",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi sáng mở mắt ra là cả núi trách nhiệm từ công ty, gia đình đến dọn dẹp.",
+     "text": "1. QUÁ TẢI VAI TRÒ",
+     "color": "ink",
+     "actor": "34",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ôm đồm quá mức. Bạn dồn hết sức cho người khác, còn mình thì cạn kiệt.",
+     "text": "GÁNH HẾT CHO THIÊN HẠ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có phải vì thế mà ngồi nghỉ hai mươi phút là thấy như mình có lỗi với mọi người?",
+     "text": "SỢ LÀM NGƯỜI KHÁC BUỒN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là quá tải vai trò. Não bạn cộng dồn năm mươi việc rồi bắt bạn làm hết.",
+     "text": "QUÁ NHIỀU VAI TRÒ",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi đòi hỏi vượt quá sức chịu đựng, nhu cầu của bản thân luôn bị gạt đi đầu tiên.",
+     "text": "BỎ RƠI BẢN THÂN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì bạn coi mình như hiệp phụ làm thêm, thay vì là trụ đỡ cho cả buổi tập.",
+     "text": "BẠN LÀ NỀN TẢNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy làm sao để không nhận thêm việc khi ngày nào cũng ngập đầu hả Buff?",
+     "text": "DỪNG LẠI Ở ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chốt giờ tan ca dứt khoát. Đúng tám giờ tối là dừng hết việc vặt đến sáng mai.",
+     "text": "GIỜ CHỐT VIỆC",
+     "color": "green",
+     "actor": "writing",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là việc không gấp thì cứ để sáng mai, dù tối nay vẫn chưa xong?",
+     "text": "VIỆC CỨ CHỜ ĐÃ",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gác tạ lại. Giới hạn việc thì tốt, nhưng còn phải xem khi hai trách nhiệm đụng nhau.",
+     "text": "HAI VIỆC ĐỤNG NHAU",
+     "color": "gold",
+     "actor": "celebrate"
+    }
+   ]
+  },
+  {
+   "title": "2. Xung đột vai trò",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa định đi dạo buổi tối thì nhóm chat gia đình đã réo chuông giục việc gấp.",
+     "text": "2. XUNG ĐỘT VAI TRÒ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Còn nếu tắt mạng không trả lời, cảm giác tội lỗi đè nặng như rơi tạ vào ngực.",
+     "text": "TỘI LỖI ĐÈ NẶNG",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đúng thế. Chọn nghỉ ngơi làm mình có cảm giác như đang quay lưng với người thân.",
+     "text": "THẤY MÌNH CÓ LỖI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là xung đột vai trò. Não bạn sợ làm mất lòng, nên coi việc nghỉ ngơi bằng không.",
+     "text": "ƯU TIÊN BẰNG KHÔNG",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhiều bạn trẻ giằng xé giữa việc làm người con tròn bổn phận và giữ cho mình không kiệt sức.",
+     "text": "BỊ XÉ LÀM ĐÔI",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ bê hồi phục chỉ làm bạn sập nguồn rồi hỏng việc cả hai bên về lâu dài.",
+     "text": "GIỮ VỮNG THỂ LỰC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy bài tập nào giúp mình chọn bên nào khi chuyện gì cũng có vẻ gấp gáp?",
+     "text": "CHỌN BÊN NÀO?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Báo trước giờ nghỉ. Nhắn trước với mọi người là bạn bận, để việc im lặng không bị coi là ngó lơ.",
+     "text": "THÔNG BÁO TỪ TRƯỚC",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói rõ trước giờ nghỉ thì người khác sẽ không nghĩ là mình vô tâm hay bỏ mặc?",
+     "text": "NÓI TRƯỚC RÕ RÀNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Báo trước giúp giữ vững vị trí, nhưng muốn yên tĩnh thì phải biết dựng rào.",
+     "text": "DỰNG HÀNG RÀO",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "3. Quản lý ranh giới",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa ngồi xuống đọc sách thì tin nhắn Zalo công việc rung bần bật trên màn hình.",
+     "text": "3. QUẢN LÝ RANH GIỚI",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Và bạn vồ lấy ngay vì nghĩ trả lời tin nhắn chỉ mất có mười giây đúng không.",
+     "text": "CHỈ MƯỜI GIÂY THÔI?",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chứ sao nữa. Trả lời một câu cho đồng nghiệp thì ảnh hưởng gì đến thời gian nghỉ chứ?",
+     "text": "CÓ HẠI GÌ ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ranh giới mập mờ làm đầu óc bị xé nhỏ. Một nửa não vẫn căng ra chờ chuông reo tiếp.",
+     "text": "ĐẦU ÓC BỊ PHÂN TÁN",
+     "color": "red",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thành ra dù đang nằm trên ghế, đầu óc mình vẫn như đang làm thêm giờ.",
+     "text": "VẪN NHƯ ĐANG ĐI LÀM",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giống như cứ đứng lảng vảng ở phòng thay đồ mà chưa chịu về nhà nghỉ ngơi.",
+     "text": "CHƯA HỀ ĐƯỢC NGHỈ",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ cần úp màn hình xuống là được, hay phải làm biện pháp mạnh hơn?",
+     "text": "ÚP MẶT MÁY XUỐNG?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bài tập tách rời điện thoại. Để máy ở phòng khác và tắt hết thông báo không khẩn cấp.",
+     "text": "TÁCH RỜI ĐIỆN THOẠI",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khuất mắt trông coi sẽ giúp đầu óc mình nhẹ nhõm hơn hẳn sao?",
+     "text": "GIẢM BỚT ÁP LỰC",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chắc chắn rồi. Chặn người ngoài xong, coi chừng đầu bạn lại tự đẻ việc ra để trốn nghỉ.",
+     "text": "CẨN THẬN BÔI VIỆC",
+     "color": "gold",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "4. Định luật nở việc",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình tự nhủ lau sạch bếp xong là sẽ thảnh thơi ngồi nghỉ cả tối.",
+     "text": "4. ĐỊNH LUẬT NỞ VIỆC",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để đoán xem. Lau bàn bếp xong bạn lại lôi tủ lạnh ra cọ rồi xếp từng lọ gia vị.",
+     "text": "XOÁY SÂU VÀO VIỆC NHÀ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chuẩn luôn. Cứ chuẩn bị được ngồi xuống là đầu mình lại nghĩ ra đủ thứ để dọn.",
+     "text": "TỰ ĐẺ THÊM VIỆC",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Định luật nở việc. Công việc tự kéo dài ra vì bận rộn làm bạn đỡ thấy có lỗi hơn là ngồi yên.",
+     "text": "LẤY VIỆC CHE TỘI",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra mình cứ cặm cụi lau dọn chỉ để trốn cảm giác tội lỗi khi không làm gì?",
+     "text": "SỢ CẢM GIÁC RẢNH RỖI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn cứ khởi động mãi để trốn bài tập chính là thả lỏng cái đầu.",
+     "text": "TRỐN TRÁNH NGHỈ NGƠI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao cắt đứt cơn cuồng dọn dẹp trước khi nó nuốt trọn cả buổi tối?",
+     "text": "DỪNG LẠI THẾ NÀO?",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chặn giờ dứt khoát. Hẹn đồng hồ đúng hai mươi phút dọn dẹp, chuông reo là buông tay.",
+     "text": "CHỈ HAI MƯƠI PHÚT",
+     "color": "green",
+     "actor": "writing",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kể cả trong bồn rửa vẫn còn hai cái chảo chưa cọ sao?",
+     "text": "BỒN CÒN CHẢO BẨN?",
+     "color": "green",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ để đó. Rời việc nhà thì dễ, nhưng cái đầu vẫn sẽ tua việc cơ quan nếu không biết buông.",
+     "text": "BUÔNG MIẾNG RỬA BÁT",
+     "color": "gold",
+     "actor": "celebrate"
+    }
+   ]
+  },
+  {
+   "title": "5. Tách rời tâm lý",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nằm nghe nhạc trên ghế nhưng trong đầu mình đang tự chuẩn bị bài báo cáo ngày mai.",
+     "text": "5. TÁCH RỜI TÂM LÝ",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thân ở nhà nhưng não Pen vẫn ở lại công ty tăng ca không lương. Chưa chịu buông việc.",
+     "text": "ĐẦU TĂNG CA KHÔNG CÔNG",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao cứ hễ thả lỏng là đầu mình lại tua đi tua lại mấy dự án còn dang dở?",
+     "text": "CỨ NGHĨ VỀ VIỆC DỞ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Việc dở dang tạo ra những vòng lặp trong trí nhớ, liên tục kéo sự chú ý của bạn quay lại.",
+     "text": "VÒNG LẶP CHƯA XONG",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đầu óc không thể thực sự hồi sức khi mấy vòng lặp đó vẫn cứ tiếp tục nhảy múa.",
+     "text": "KHÔNG THỂ HỒI SỨC",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghỉ ngơi mà đầu còn vướng việc giống như ngồi nghỉ giữa hiệp mà vẫn ôm khư khư thanh tạ.",
+     "text": "ÔM TẠ GIỮA HIỆP",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để thuyết phục đầu óc rằng việc ngày mai cứ yên tâm gác lại tối nay?",
+     "text": "LÀM SAO ĐỂ TẠM DỪNG?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tạo nghi thức chốt việc. Viết ra đúng hai việc chính cho ngày mai, gấp sổ lại rồi đứng dậy.",
+     "text": "NGHI THỨC CHỐT VIỆC",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hành động gấp sổ lại sẽ báo hiệu cho não bộ là ca làm việc đã thực sự kết thúc?",
+     "text": "CA LÀM ĐÃ KẾT THÚC",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn xác. Khép việc lại giúp nhẹ đầu, nhưng coi chừng áp lực xung quanh làm bạn thấy tội lỗi.",
+     "text": "CHO ĐẦU ÓC NGHỈ NGƠI",
+     "color": "gold",
+     "actor": "meditating"
+    }
+   ]
+  },
+  {
+   "title": "6. Cảm giác tội lỗi khi nghỉ ngơi",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi từ chối đi ăn họ hàng hay không xem tin nhắn tối để nghỉ, tội lỗi lập tức ập tới.",
+     "text": "6. TỘI LỖI NGHỈ NGƠI",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là mặc cảm khi rảnh rỗi, cái suy nghĩ độc hại rằng phút nào không làm ra kết quả là lãng phí.",
+     "text": "ÁM ẢNH TẠO KẾT QUẢ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình luôn có cảm giác phải đi giúp người nhà, làm việc này việc kia cho vừa lòng người khác.",
+     "text": "LÚC NÀO CŨNG ÁP LỰC",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thói quen xung quanh dạy bạn rằng nghỉ ngơi khi chưa ai cho phép là lười biếng và ích kỷ.",
+     "text": "NGHỈ KHÔNG PHẢI LƯỜI",
+     "color": "ink",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ coi nghỉ ngơi là vô bổ thì càng nghỉ lại càng thấy mệt mỏi và bức bối thêm.",
+     "text": "NGHỈ KHÔNG LÃNG PHÍ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cơ bắp không cho hồi là đứt. Thả lỏng không phải lười, mà là bảo dưỡng bắt buộc.",
+     "text": "BẢO DƯỠNG BẮT BUỘC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao dập tắt giọng nói trong đầu cứ trách mình làm người khác thất vọng?",
+     "text": "TẮT TIẾNG NÓI PHÁN XÉT",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lên lịch chơi xả hơi. Dành hai mươi phút xếp hình, vẽ linh tinh hoặc nghe nhạc mà không cần khoe ai.",
+     "text": "CHƠI KHÔNG MỤC ĐÍCH",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là làm một việc chỉ để vui, không cần khoe với ai hay có thành tựu gì?",
+     "text": "KHÔNG CẦN KẾT QUẢ",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Tách giá trị bản thân khỏi năng suất sẽ xóa tan tội lỗi, nếu bạn thoát được thói quen vội vã.",
+     "text": "BUÔNG BỎ MẶC CẢM",
+     "color": "gold",
+     "actor": "celebrate"
+    }
+   ]
+  },
+  {
+   "title": "7. Dư dả thời gian",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngay cả chiều Chủ nhật rảnh rỗi, mình vẫn uống vội cốc cà phê như sắp muộn giờ.",
+     "text": "7. DƯ DẢ THỜI GIAN",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghèo thời gian đấy Pen. Lịch trống trên giấy nhưng trong người chẳng có chút thong thả nào.",
+     "text": "NGHÈO NÀN THỜI GIAN",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dư dả thời gian là gì, và tại sao có giờ rảnh mà vẫn thấy như đang chạy đua?",
+     "text": "CỨ THẤY VỘI VÃ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là cảm giác bạn có đủ không gian để tự chọn nhịp sống mà không hoảng hốt.",
+     "text": "KHOẢNG TRỐNG ĐỂ THỞ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác có thời gian mang lại hạnh phúc thật sự hơn là có thêm một khoản tiền.",
+     "text": "QUÝ HƠN TIỀN BẠC",
+     "color": "gold",
+     "actor": "34",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kiếm nhiều tiền làm gì nếu lịch cả tuần nghẹt thở không có lấy một hiệp xả hơi?",
+     "text": "LỊCH TẬP NGHẸT THỞ",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tập cho cơ thể chậm lại khi vội vã đã thành thói quen ăn sâu?",
+     "text": "LÀM SAO ĐỂ CHẬM LẠI?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ khoảng đệm thời gian. Để trống ba mươi phút giữa các việc để có chậm trễ cũng không cuống.",
+     "text": "KHOẢNG ĐỆM NGHỈ NGƠI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có khoảng trống trên lịch sẽ giúp mình thoát khỏi cảm giác lúc nào cũng sắp trễ?",
+     "text": "KHOẢNG THỞ CẦN THIẾT",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chắc chắn. Tạo khoảng đệm giúp lấy lại nhịp thở, nhưng dùng giờ đó thế nào mới quyết định hồi sức.",
+     "text": "LẤY LẠI NHỊP SỐNG",
+     "color": "gold",
+     "actor": "celebrate"
+    }
+   ]
+  },
+  {
+   "title": "8. Thỏa mãn nhu cầu",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhiều khi có một tiếng rảnh, mình chỉ nằm lướt điện thoại đến mức người đờ đẫn.",
+     "text": "8. THỎA MÃN NHU CẦU",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hồi sức rác đấy Pen. Đốt thời gian mà không nạp được chút nhu cầu thật sự nào.",
+     "text": "HỒI SỨC RÁC",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thời gian nghỉ ngơi cần đáp ứng nhu cầu tâm lý nào để mình thấy hồi phục?",
+     "text": "MÌNH CẦN ĐIỀU GÌ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý học chỉ ra ba nhu cầu: tự chủ thời gian, thấy mình thạo việc, và kết nối bạn bè.",
+     "text": "BA NHU CẦU CỐT LÕI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lướt mạng thụ động không có quyền chọn, chẳng tiến bộ gì mà lại thấy lạc lõng.",
+     "text": "BẪY TIÊU THỤ THỤ ĐỘNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Toàn calo rỗng thôi. Bạn đang nạp đồ ăn vặt rác rưởi thay vì ăn ức gà đạm sạch.",
+     "text": "CALO RỖNG",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hồi phục chủ động trong một buổi tối bận rộn thường ngày thì trông như thế nào?",
+     "text": "HỒI PHỤC CHỦ ĐỘNG",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi sang hồi phục chủ động. Tự tay làm đồ thủ công, dọn bàn làm việc hoặc đi bộ thả lỏng.",
+     "text": "HÀNH ĐỘNG CHỦ ĐỘNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như là tỉa cây, nấu một món ăn đơn giản, hay chạy bộ một vòng ngoài trời?",
+     "text": "TAY LÀM HOẶC CHẠY BỘ",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính nó. Dùng khả năng tự nhiên của mình sẽ sạc đầy bình thay vì rút cạn tia năng lượng cuối cùng.",
+     "text": "NẠP ĐẦY NĂNG LƯỢNG",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Recap and Challenge",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại thì dành thời gian cho mình chưa bao giờ là quay lưng với những người bạn yêu quý.",
+     "text": "TẬP NGHỈ CHO BẢN THÂN",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bước một, dựng rào chắn trước việc ngoài giờ, thông báo Zalo và việc nhà không tên.",
+     "text": "DỰNG RÀO BẢO VỆ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bước hai, xả áp lực bằng cách viết sổ việc dở dang và chừa khoảng đệm trên lịch.",
+     "text": "XẢ BỚT NỖI LO NỘI TÂM",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bước ba, dẹp lướt mạng vô thức, đổi sang hồi phục chủ động để nạp lại năng lượng.",
+     "text": "HỒI SỨC CÓ CHỌN LỌC",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy thử thách bảy ngày để bắt đầu rèn luyện thói quen này là gì?",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trong bảy ngày tới, khóa đúng hai mươi phút riêng tư không bị làm phiền vào mỗi tối.",
+     "text": "HAI MƯƠI PHÚT MỖI TỐI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không đụng điện thoại công việc, gác việc nhà lại, và không áy náy khi tự nạp pin.",
+     "text": "KHÔNG CHÚT ÁY NÁY",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là cách bạn làm người đỡ tạ cho mình, để sau đó còn đủ sức gánh việc cùng người khác.",
+     "text": "TỰ ĐỠ TẠ CHO MÌNH",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hai mươi phút riêng trên lịch mỗi tối, bắt đầu ngay từ hôm nay.",
+     "text": "BẮT ĐẦU TỪ TỐI NAY",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Nếu muốn rèn luyện tinh thần cùng chúng mình mỗi tuần, nhớ bấm đăng ký kênh nhé.",
+     "text": "THAM GIA CÙNG ĐỘI",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}

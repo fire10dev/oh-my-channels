@@ -1,0 +1,997 @@
+{
+ "id": "L25vi",
+ "lang": "vi",
+ "title": "Vì sao về nhà là bạn lại trở về vai cũ trong gia đình?",
+ "description": "Có bao giờ bạn tự hỏi vì sao cứ bước chân về nhà là bạn lại biến thành đứa trẻ ngỗ nghịch ngày xưa? Cùng khám phá tám cơ chế tâm lý kéo bạn vào những vai diễn cũ và các bài tập thực tế để giữ vững bản lĩnh trong mỗi buổi họp mặt gia đình.",
+ "chapters": [
+  {
+   "title": "Bước vào cửa",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đi làm mình quản lý cả nhóm, tự quyết mọi việc lớn.",
+     "text": "BƯỚC VÀO CỬA",
+     "color": "ink",
+     "actor": "front",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế mà vừa bước chân về nhà, mình lại biến thành đứa trẻ hay dỗi hờn.",
+     "text": "BIẾN THÀNH CON NÍT",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn Pen. Ngửi mùi cơm nhà là bao công sức trưởng thành bay sạch.",
+     "text": "TỤT DỐC TỨC THÌ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Này Buff, vì sao cứ ngồi vào mâm cơm gia đình là mình lại mất hết vẻ điềm tĩnh?",
+     "text": "VÌ SAO LẠI THẾ?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì hệ thống gia đình chạy tự động. Bạn đang kẹt trong tám cơ chế quen thuộc.",
+     "text": "TÁM CƠ CHẾ CŨ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay ta tập cơ nhận diện vai diễn để giữ vững phong độ.",
+     "text": "RÈN LUYỆN BẢN LĨNH",
+     "color": "green",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "1. Quán tính vai trò",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa tắt thông báo việc cơ quan về tới cổng, mẹ đã giục chạy đi mua hành.",
+     "text": "1. QUÁN TÍNH VAI TRÒ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chưa đầy hai phút, mình đã nằm bẹp trên ghế, mặt phụng phịu.",
+     "text": "MẶT MÀY SƯNG SỈA",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là quán tính vai trò. Cả nhà giữ nguyên cái nhãn dán cho bạn từ nhỏ.",
+     "text": "NHÃN CŨ TỪ NHỎ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù ở thành phố mình đã tự lập đi làm bao lâu rồi?",
+     "text": "DÙ ĐÃ TỰ LẬP?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Càng như vậy. Gia đình cần sự ổn định hơn là bạn tiến bộ.",
+     "text": "CẦN SỰ ỔN ĐỊNH",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu bạn luôn mang tiếng hậu đậu, mọi người sẽ biết rõ cách đối xử.",
+     "text": "VAI DIỄN ĐỊNH SẴN",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên nếu mình tỏ ra chín chắn, cả nhà lại thấy gượng gạo à?",
+     "text": "GƯỢNG GẠO KHÓ CHỊU",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Bạn đổi tư thế là làm xáo trộn thế cân bằng của cả nhà.",
+     "text": "PHÁ VỠ CÂN BẰNG",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là họ sẽ phản ứng ngay khi mình vừa bước ra khỏi khung cũ?",
+     "text": "SẼ BỊ PHẢN ĐỐI?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cả guồng máy luôn tạo lực cản khi có một mắt xích muốn đổi hướng.",
+     "text": "LỰC CẢN HỆ THỐNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp khởi động: khi bị sai việc như con nít, hãy từ chối khéo.",
+     "text": "TỪ CHỐI KHÉO LÉO",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói rõ con vừa về tới nơi, để con chào hỏi mọi người đã, không bao biện hay đùn đẩy.",
+     "text": "TỪ CHỐI RÕ RÀNG",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ vững hiệp này, bạn sẽ nhận ra một bài ca quen thuộc đang chờ.",
+     "text": "BÀI CA QUEN THUỘC",
+     "color": "gold",
+     "actor": "meditating",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "2. Kịch bản xã hội",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ đến bữa giỗ Tết, cô dì lại hỏi chừng nào lập gia đình, bao giờ mua nhà.",
+     "text": "2. KỊCH BẢN XÃ HỘI",
+     "color": "ink",
+     "actor": "front",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và lần nào mình cũng lặp lại đúng cái bài thanh minh quen thuộc.",
+     "text": "BÀI THANH MINH CŨ",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kịch bản xã hội điển hình. Cả họ thuộc lòng màn này như diễn kịch.",
+     "text": "DIỄN LẠI VỞ KỊCH",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao hai bên cứ lặp lại mấy câu thoại khiến ai cũng phát bực thế?",
+     "text": "SAO CỨ THOẠI MÃI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiết kiệm năng lượng thôi Pen. Bộ não chọn lối mòn khi gặp áp lực quen.",
+     "text": "TIẾT KIỆM NĂNG LƯỢNG",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đọc lại bài cũ chẳng tốn chút sức lực nào, dù cả nhà đều phát mệt.",
+     "text": "KHÔNG TỐN CHÚT SỨC",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là thật ra chẳng ai chịu lắng nghe nhau đang nói gì?",
+     "text": "CHẲNG AI LẮNG NGHE",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghe gì đâu. Bạn chỉ canh đúng nhịp để bắn ra câu phân trần có sẵn.",
+     "text": "CHỜ ĐÚNG NHỊP THOẠI",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu mình im lặng thì người lớn có hỏi dồn thêm không?",
+     "text": "IM LẶNG ĐƯỢC KHÔNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Im lặng họ lại tưởng bạn dỗi. Bạn phải chủ động bẻ lái để cắt màn này.",
+     "text": "CHỦ ĐỘNG BẺ LÁI",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp phản xạ: trả lời ngắn gọn, cảm ơn lịch sự, rồi hỏi ngược sang chuyện của cô.",
+     "text": "CHUYỂN HƯỚNG NGAY",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đổi chủ đề khéo léo sẽ phá vỡ kịch bản mà không mất hòa khí?",
+     "text": "GIỮ GÌN HÒA KHÍ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cắt được kịch bản đó, nhưng hãy cẩn thận với thế so kè giữa anh em.",
+     "text": "THẾ SO KÈ ANH EM",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "3. Phân vai anh em",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Anh trai mình là con trưởng gương mẫu, trong mắt bố mẹ chẳng bao giờ sai.",
+     "text": "3. PHÂN VAI ANH EM",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hễ anh vừa bước vào là mình lại thành đứa út vô tích sự, chỉ biết ngồi bấm điện thoại.",
+     "text": "ĐỨA EM BẤT CẦN",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là sự phân cực giữa anh em. Tự chia làn để khỏi va chạm.",
+     "text": "TỰ CHIA LÀN RIÊNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên từ bé hai anh em đã tạo hai tính cách trái ngược để tranh sự chú ý?",
+     "text": "HAI TÍNH CÁCH NGƯỢC",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Con trưởng gánh vác việc hương hỏa, con út liền nhận vai tự do bất cần.",
+     "text": "CON TRƯỞNG CON ÚT",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hồi nhỏ thì đỡ cãi nhau, nhưng giờ lớn rồi vẫn cố thủ trong cái hào cũ.",
+     "text": "CỐ THỦ TRONG HÀO CŨ",
+     "color": "red",
+     "actor": "34",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ ngồi chung mâm giỗ là hai bên tự bật lại trạng thái đối đầu à?",
+     "text": "BẬT CHẾ ĐỘ ĐỐI ĐẦU",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào thế ngay. Bạn đo giá trị của mình bằng những thứ người kia không làm.",
+     "text": "ĐO BẰNG ĐỐI PHƯƠNG",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao nghe người lớn khen anh ấy kiếm tiền giỏi mà lòng mình cứ nhói lên?",
+     "text": "SAO LÒNG CỨ NHÓI?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì cái tính con nít tưởng lời khen là miếng bánh có hạn, bị giật mất.",
+     "text": "BẪY SO BÌ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào hiệp này: gật đầu chúc mừng bình thản, thở đều và giữ nhịp tim ổn định.",
+     "text": "GẬT ĐẦU BÌNH THẢN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng biến mâm cơm thành sàn đấu mà người này thắng thì người kia thua.",
+     "text": "BỎ BẢNG ĐIỂM XUỐNG",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiếp theo, hãy xem chính góc nhà quen thuộc kéo cơ thể bạn lười đi thế nào.",
+     "text": "GÓC NHÀ KÉO LƯỜI",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "4. Quán tính hành vi",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ ngả lưng xuống chiếc ghế quen thuộc ở nhà là toàn thân mình mềm nhũn.",
+     "text": "4. QUÁN TÍNH HÀNH VI",
+     "color": "ink",
+     "actor": "front",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chưa tới một tiếng là bỏ tập tành, nằm lướt mạng xã hội liền mấy giờ.",
+     "text": "NẰM LƯỚT MẤY GIỜ",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quán tính hành vi. Đang nằm yên thì sẽ nằm tiếp, nhất là trên đệm quen.",
+     "text": "NGỒI ĐÂU NẰM ĐÓ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao chỉ cái góc phòng lại xóa sạch bao kỷ luật mình rèn luyện bấy lâu?",
+     "text": "XÓA SẠCH KỶ LUẬT?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý quen bối cảnh. Não bạn đã gắn góc phòng đó với sự lười biếng cũ.",
+     "text": "PHẢN XẠ BỐI CẢNH",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không gian quen làm giảm lực cản, biến việc nằm ườn thành lối đi dễ nhất.",
+     "text": "LỐI ĐI LƯỜI NHẤT",
+     "color": "red",
+     "actor": "34",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là môi trường bật công tắc lười trước khi lý trí kịp nhận ra?",
+     "text": "MÔI TRƯỜNG DẪN DẮT",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lần nào cũng vậy. Bạn không thể thắng cơn lười nếu cứ dính vào nệm.",
+     "text": "DÍNH CHẶT VÀO NỆM",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bảo sao cứ cố mở máy tính làm việc ở nhà là y như rằng thất bại?",
+     "text": "LÀM VIỆC LÀ THẤT BẠI",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng rồi. Ý chí suông không đấu lại thói quen nằm lì từ nhỏ đâu.",
+     "text": "Ý CHÍ BẤT LỰC",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp né đòn: vừa bước chân qua cửa thì tuyệt đối không ngồi xuống ngay.",
+     "text": "ĐỪNG VỘI NGỒI XUỐNG",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đi rót nước, phụ dọn mâm bát, giữ cơ thể vận động cho tới bữa ăn.",
+     "text": "GIỮ CƠ THỂ VẬN ĐỘNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vận động sẽ che chắn cho bạn khỏi một cái bẫy cảm xúc còn nặng nề hơn.",
+     "text": "TRÁNH BẪY CẢM XÚC",
+     "color": "gold",
+     "actor": "meditating",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "5. Mắc kẹt vai diễn",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần nhà tất bật chuẩn bị cỗ bàn, mình như hút trọn mọi âu lo.",
+     "text": "5. MẮC KẸT VAI DIỄN",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình quay cuồng đi làm dịu cảm xúc người khác mà quên mất bản thân.",
+     "text": "LÀM VỪA LÒNG TẤT CẢ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bị vai diễn nuốt chửng. Bạn để cái nhãn hòa giải xóa sạch bản thân mình.",
+     "text": "BỊ VAI DIỄN NUỐT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao việc cố giữ cho cả nhà yên ấm lại vắt kiệt sức mình đến thế?",
+     "text": "VẮT KIỆT SỨC LỰC?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì nhận cái vai bảo mẫu cảm xúc là bạn đang gánh tạ thay cho cả nhà.",
+     "text": "GÁNH TẠ CHO CẢ NHÀ",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bạn xem chuyện bất hòa của người khác là việc khẩn cấp của chính mình.",
+     "text": "BÁO ĐỘNG GIẢ TẠO",
+     "color": "ink",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên hễ không khí căng thẳng là mình tự thấy có lỗi nếu không xoa dịu?",
+     "text": "TỰ THẤY CÓ LỖI?",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng rồi. Bạn tự biến mình thành tổng đài cứu hộ thay vì ngồi ăn ngon.",
+     "text": "TỔNG ĐÀI CỨU HỘ",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu mình không chen vào dàn xếp, nhỡ mọi người to tiếng thì sao?",
+     "text": "NHỠ HỌ CÃI NHAU?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kệ họ. Người lớn phải tự chịu trách nhiệm cho cơn bão cảm xúc của chính mình.",
+     "text": "TỰ CHỊU TRÁCH NHIỆM",
+     "color": "gold",
+     "actor": "front",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp tập này: dựng ranh giới trong đầu, đừng vội giải cứu khoảng lặng ngượng ngùng.",
+     "text": "ĐẶT RANH GIỚI RÕ",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ ngồi yên ăn phần cơm của mình, không đỡ lời thay ai, để họ tự giải quyết.",
+     "text": "RỜI KHỎI TÂM CHẤN",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nỗi bất an đó đâu bắt đầu từ bạn, nó được truyền lại qua nhiều đời rồi.",
+     "text": "TRUYỀN QUA NHIỀU ĐỜI",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "6. Tiếng vọng thế hệ",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bố mình lúc nào cũng cằn nhằn chuyện tiền nong, y hệt như bà nội xưa.",
+     "text": "6. TIẾNG VỌNG THẾ HỆ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giờ đi cà phê hay mở ứng dụng chuyển tiền, mình cũng kiểm tra ba lần vì nỗi bất an đó.",
+     "text": "NỖI LO TRUYỀN ĐỜI",
+     "color": "red",
+     "actor": "wallet_worry"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiếng vọng thế hệ. Gia đình truyền lại nếp nghĩ phòng thân hệt như món gia bảo.",
+     "text": "CẨM NANG SINH TỒN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên phản ứng của người lớn thành bản năng mặc định của mình từ lúc nào?",
+     "text": "BẢN NĂNG MẶC ĐỊNH?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Trẻ con thấy bố mẹ lo sợ rồi coi nỗi lo đó là chân lý.",
+     "text": "HẤP THỤ NỖI SỢ",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu thế hệ trước dùng nỗi lo để phòng thân, nhà bạn giờ vẫn quen cách đó.",
+     "text": "THÓI QUEN LO ÂU",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là những lời cằn nhằn của bố mẹ chỉ là tiếng vọng từ quá khứ?",
+     "text": "TIẾNG VỌNG QUÁ KHỨ?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gần như vậy. Hiểu được gốc rễ nỗi lo sẽ giúp bạn bớt thấy tổn thương.",
+     "text": "GIẢM BỚT TỔN THƯƠNG",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bởi vậy nên mỗi khi mình dùng lý lẽ để khuyên can đều vô tác dụng?",
+     "text": "LÝ LẼ VÔ TÁC DỤNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không thể dùng lý sự cãi lại thói quen cảm xúc. Họ cần an lòng hơn.",
+     "text": "ĐỪNG TRANH LUẬN LÝ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp phòng thủ: công nhận nỗi lo của bố mẹ bằng một câu trung tính, rồi dừng lại.",
+     "text": "CÔNG NHẬN TRUNG TÍNH",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói là con hiểu bố mẹ đang lo, rồi dừng lại để không khí tự lắng xuống.",
+     "text": "ĐỂ IM LẶNG LÊN TIẾNG",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ hãy nhìn cách những phản xạ này lặp lại trong nghi thức gia đình.",
+     "text": "NGHI THỨC GIA ĐÌNH",
+     "color": "gold",
+     "actor": "meditating",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "7. Nghi thức tương tác",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ đến bữa cỗ là có người khơi chuyện đất cát, rồi cả nhà cãi nhau to.",
+     "text": "7. NGHI THỨC TƯƠNG TÁC",
+     "color": "ink",
+     "actor": "front",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mọi người thở dài, chia phe, rồi tuôn ra đúng nỗi bực dọc năm ngoái.",
+     "text": "CHIA PHE TRANH CÃI",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghi thức tương tác. Dù mệt mỏi nhưng cuộc cãi vã kéo cả nhà chú ý nhau.",
+     "text": "KÉO SỰ CHÚ Ý",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng lẽ mọi người thật sự thích lặp lại trận cãi vã mỗi dịp gặp nhau?",
+     "text": "THÍCH CÃI NHAU SAO?",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não gắn kết qua sự tập trung. Cãi nhau quen tạo cảm giác gắn bó giả.",
+     "text": "GẮN BÓ GIẢ TẠO",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xung đột tạo sự chú ý. Với nhiều nhà, cãi cọ quen còn dễ hơn ngồi im.",
+     "text": "SỢ SỰ IM LẶNG",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên nếu mình lớn tiếng cãi lại là đang tiếp thêm củi cho cái lò nghi thức?",
+     "text": "TIẾP CỦI CHO LÒ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Bạn vào đúng vai diễn được giao, nuôi sống vở tuồng ầm ĩ đó.",
+     "text": "ĐÚNG KỊCH BẢN CŨ",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nếu mình bực bội bỏ đi khi mọi người bắt đầu to tiếng thì sao?",
+     "text": "BỎ ĐI CÓ ĐƯỢC?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đùng đùng bỏ đi chỉ càng thêm chuyện. Đỉnh cao là ngồi yên, không cắn câu.",
+     "text": "KHÔNG CẮN CÂU",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào hiệp: giữ nguyên tư thế, lắng nghe trong bình thản, không chen lời tranh luận.",
+     "text": "NGỒI YÊN BẤT BIẾN",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhấp một ngụm trà chậm rãi, để những câu khiêu khích rơi vào khoảng không.",
+     "text": "RƠI VÀO KHOẢNG KHÔNG",
+     "color": "green",
+     "actor": "front",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi bạn lùi lại, bạn sẽ thấy cách họ kéo bạn vào lại cái bẫy định kiến.",
+     "text": "BẪY KÉO TRỞ LẠI",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "8. Vòng lặp xác nhận",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Họ hàng luôn coi mình vụng về, làm việc gì người lớn cũng săm soi.",
+     "text": "8. VÒNG LẶP XÁC NHẬN",
+     "color": "ink",
+     "actor": "front",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là mình nản lòng buông xuôi, chẳng thèm phụ việc gì nữa.",
+     "text": "BUÔNG XUÔI TẤT CẢ",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xác nhận hành vi. Người ta đối xử theo định kiến đến khi bạn làm y như vậy.",
+     "text": "LỜI TIÊN TRI TỰ ỨNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là sự coi thường của họ lại nhào nặn ra hành vi vụng về của mình?",
+     "text": "NHÀO NẶN HÀNH VI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vòng lặp tự ứng nghiệm. Càng bị soi xét, bạn càng mất tự nhiên rồi làm hỏng việc.",
+     "text": "BẪY TỰ ỨNG NGHIỆM",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bị săm soi chờ lỗi sai, bạn sẽ căng thẳng và lóng ngóng cả việc đơn giản.",
+     "text": "LÓNG NGÓNG VÌ LO SỢ",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao phá vỡ định kiến khi người lớn đã đóng đinh suy nghĩ về mình?",
+     "text": "PHÁ VỠ ĐỊNH KIẾN?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngừng dùng lời phân bua, cứ lẳng lặng hoàn thành công việc thật chu toàn.",
+     "text": "LÀM VIỆC CHUẨN CHỈ",
+     "color": "ink",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình có nên kể chuyện thăng chức hay khoe tài khoản tiết kiệm không?",
+     "text": "CÓ NÊN CHỨNG MINH?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng cố tìm kiếm sự công nhận. Càng phân bua càng tỏ ra đuối lý và bị soi thêm.",
+     "text": "ĐỪNG CẦU CÔNG NHẬN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào hiệp: tự hoàn thành một việc từ đầu đến cuối, không xin phép hay đợi khen.",
+     "text": "TỰ LÀM TRỌN VẸN",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi bạn không cần ai công nhận, định kiến cũ kỹ của họ sẽ tự khắc tan.",
+     "text": "ĐỊNH KIẾN TỰ TAN",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Luyện chắc phản xạ này là bạn đã sẵn sàng gom giáo án cho trận đấu lớn.",
+     "text": "GOM ĐỦ GIÁO ÁN",
+     "color": "gold",
+     "actor": "meditating",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "Kế hoạch hành động",
+   "sources": [
+    "s01",
+    "s02",
+    "s03",
+    "s04",
+    "s05",
+    "s06",
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vậy là mỗi lần về quê, mình phải đối mặt bao quán tính, vai diễn và nghi thức.",
+     "text": "KẾ HOẠCH HÀNH ĐỘNG",
+     "color": "ink",
+     "actor": "front",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gom tám cái bẫy đó vào ba trụ cột để giữ cái đầu lạnh khi vào trận.",
+     "text": "BA TRỤ CỘT CHÍNH",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột thân thể: phá vỡ cơn lười nằm lì, giữ vững tư thế người lớn.",
+     "text": "VỮNG VÀNG THÂN THỂ",
+     "color": "ink",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột vai diễn: dẹp bảng so kè anh em, ngừng làm bảo mẫu cảm xúc.",
+     "text": "GIỮ VỮNG RANH GIỚI",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột kịch bản: không châm dầu vào cãi vã, không cuốn theo nỗi lo truyền đời.",
+     "text": "BẺ GÃY KỊCH BẢN",
+     "color": "ink",
+     "actor": "meditating",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế bữa cơm gia đình tới đây mình nên bắt đầu tập từ đâu?",
+     "text": "BẮT ĐẦU TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách một tuần: chọn một phản xạ cũ và giữ vững tư thế người lớn khi về nhà.",
+     "text": "THỬ THÁCH MỘT TUẦN",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ vững tư thế, nói bằng giọng người lớn, và bảo vệ bình yên trong lòng bạn.",
+     "text": "GIỮ VỮNG BÌNH YÊN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký Lý Thuyết Chân Que để cùng rèn luyện tâm lý mỗi tuần.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "gold",
+     "actor": "front",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

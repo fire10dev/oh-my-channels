@@ -1,0 +1,88 @@
+{
+ "title": "Petroleiros dividem cabine com um estranho",
+ "hook": "COLEGA DE CABINE",
+ "asof": "Dados de 2026",
+ "world": "rig",
+ "long": "IX004",
+ "chapters": [
+  {
+   "id": "cabin",
+   "hud": "DIA 1",
+   "chip": "19:00",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "No Mar do Norte, você pode dividir a cabine com alguém que mal vê."
+    },
+    {
+     "v": "cabin",
+     "s": "Duas camas, uma mesa e armários."
+    },
+    {
+     "v": "shower",
+     "s": "Banheiro compartilhado com a cabine ao lado."
+    },
+    {
+     "v": "cabin2",
+     "plane": "night",
+     "s": "Você trabalha de dia. Seu colega de cabine, à noite."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Então, quase sempre um de vocês está trabalhando."
+    },
+    {
+     "v": "drill",
+     "you": "drill",
+     "s": "Doze horas trabalhando."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Doze horas de folga."
+    },
+    {
+     "v": "office",
+     "st": [
+      "ON82",
+      "Orientações da HSE, maio de 2026"
+     ],
+     "s": "O órgão regulador britânico atualizou as regras em maio de 2026."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "9 m²",
+      "small": "mínimo para cabine dupla · HSE, 2026"
+     },
+     "s": "Menos de nove metros quadrados? Em geral, é pequeno demais para dois."
+    },
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "No máximo duas pessoas por vez."
+    },
+    {
+     "v": "rig",
+     "s": "Na Noruega, Ekofisk foi além."
+    },
+    {
+     "v": "cabin",
+     "st": [
+      "2008",
+      "Ekofisk: cabines individuais"
+     ],
+     "s": "Desde 2008, todas as cabines de lá são individuais."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Você dividiria um quarto por duas semanas?"
+    }
+   ]
+  }
+ ]
+}

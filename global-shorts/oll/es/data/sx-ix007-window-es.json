@@ -1,0 +1,84 @@
+{
+ "title": "La ventana de 10 cm en el único supermax federal de EE. UU.",
+ "hook": "UNA VENTANA ESTRECHA",
+ "asof": "Datos de la inspección de DC CIC de 2018",
+ "world": "supermax",
+ "long": "IX007",
+ "chapters": [
+  {
+   "id": "window",
+   "hud": "DÍA 1",
+   "chip": "11:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Esta es la única ventana que tendrás por años.",
+     "v": "window",
+     "you": "window"
+    },
+    {
+     "s": "Está en una celda de ADX Florence, Colorado.",
+     "v": "wide"
+    },
+    {
+     "s": "La única prisión supermax federal de Estados Unidos.",
+     "v": "fence"
+    },
+    {
+     "s": "La ventana mide unos 107 centímetros de alto,",
+     "v": "window"
+    },
+    {
+     "s": "y 10 centímetros de ancho.",
+     "v": "window",
+     "st": [
+      "10 CM",
+      "de ancho · CIC 2018"
+     ]
+    },
+    {
+     "s": "Está inclinada a propósito.",
+     "v": "window",
+     "you": "window"
+    },
+    {
+     "s": "Solo puedes ver el cielo.",
+     "v": "sky"
+    },
+    {
+     "s": "Ni el suelo ni las montañas de afuera.",
+     "v": "mountains"
+    },
+    {
+     "s": "La celda mide 2 por 3,7 metros.",
+     "v": "cell",
+     "you": "cell",
+     "st": [
+      "2×3,7 M",
+      "toda la celda"
+     ]
+    },
+    {
+     "s": "La cama, el escritorio y el banco son de concreto.",
+     "v": "desk",
+     "you": "desk"
+    },
+    {
+     "s": "La mayoría pasa al menos 22 horas al día adentro.",
+     "v": "cell",
+     "you": "cell",
+     "plane": "dark"
+    },
+    {
+     "s": "Esa franja de cielo es el mundo exterior.",
+     "v": "sky"
+    },
+    {
+     "s": "¿Podrías vivir con una vista de 10 centímetros?",
+     "v": "window",
+     "you": "window"
+    }
+   ]
+  }
+ ]
+}

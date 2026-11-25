@@ -1,0 +1,680 @@
+[
+  {
+    "id": "s350",
+    "mascot": "buff",
+    "title": "Why You Become an Errand Boy Again",
+    "mechanism": "Role Inertia",
+    "lines": [
+      {
+        "vo": "Walked in with a work laptop, yet mom sent me for scallions.",
+        "text": "ERRAND BOY AGAIN",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Two minutes home, and you are sulking on the couch.",
+        "text": "INSTANT REGRESSION",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Role inertia. Families prefer predictable patterns over your adult growth.",
+        "text": "ROLE INERTIA",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Acting mature actually makes the old room feel off balance.",
+        "text": "SYSTEM SHOCK",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Warm up rep. Decline the chore politely without making excuses.",
+        "text": "WARM UP REP",
+        "color": "green",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Hold that line. Let them adjust to the new weight.",
+        "text": "HOLD YOUR GROUND",
+        "color": "gold",
+        "actor": "small_step"
+      }
+    ]
+  },
+  {
+    "id": "s350vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Ve nha lai thanh dua tre sai vat",
+    "title_vi": "Về nhà lại thành đứa trẻ sai vặt",
+    "mechanism": "Role Inertia",
+    "lines": [
+      {
+        "vo": "Đi làm quản lý cả chục người, về giỗ vẫn bị sai đi nhặt rau.",
+        "text": "BỊ SAI NHẶT RAU",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Năm phút trước oai vệ, vừa bước qua cửa đã ngồi phụng phịu.",
+        "text": "LẬP TỨC PHỤNG PHỊU",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Quán tính vai diễn. Gia đình luôn muốn bạn ở nguyên cái nhãn cũ.",
+        "text": "QUÁN TÍNH VAI CŨ",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Bạn đột ngột đổi nếp, cả nhà sẽ thấy hụt hẫng ngay.",
+        "text": "LỆCH NHỊP QUEN",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Hiệp khởi động. Từ chối khéo việc vặt, không xin lỗi, không giải thích.",
+        "text": "HIỆP KHỞI ĐỘNG",
+        "color": "green",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Giữ vững tư thế. Để cả nhà quen dần với người lớn mới.",
+        "text": "GIỮ NGUYÊN TƯ THẾ",
+        "color": "gold",
+        "actor": "small_step"
+      }
+    ]
+  },
+  {
+    "id": "s351",
+    "mascot": "pen",
+    "title": "Why Holiday Questions Feel Scripted",
+    "mechanism": "Social Scripts",
+    "lines": [
+      {
+        "vo": "Every holiday dinner, your aunt asks when you are buying a house.",
+        "text": "THE SAME QUESTION",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "And you recite the exact defensive speech you gave last year.",
+        "text": "REHEARSED DEFENSE",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Social scripts. Both sides follow lines rehearsed for years.",
+        "text": "SOCIAL SCRIPTS",
+        "actor": "reading"
+      },
+      {
+        "vo": "Neither person is listening. You just wait for your cue.",
+        "text": "WAITING FOR CUES",
+        "actor": "bored_yawn"
+      },
+      {
+        "vo": "Silence feels like sulking, but arguing keeps the theater open.",
+        "text": "ENDLESS THEATER",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Give a calm one word answer, then ask about her garden.",
+        "text": "GENTLE PIVOT",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "What happens if you simply refuse to deliver your old line?",
+        "text": "DROP THE SCRIPT",
+        "color": "gold",
+        "actor": "think",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s351vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Kich ban cu rich ngay gio Tet",
+    "title_vi": "Kịch bản cũ rích ngày giỗ Tết",
+    "mechanism": "Social Scripts",
+    "lines": [
+      {
+        "vo": "Vừa ngồi xuống mâm cỗ, bác họ đã hỏi bao giờ cưới.",
+        "text": "CÂU HỎI QUEN THUỘC",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Bạn lại cất lên bài thanh minh y hệt Tết năm ngoái.",
+        "text": "LỜI THOẠI CŨ",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Kịch bản xã hội. Não chọn lối mòn quen thuộc để đỡ tốn sức.",
+        "text": "KỊCH BẢN XÃ HỘI",
+        "actor": "reading",
+        "prop": "brain"
+      },
+      {
+        "vo": "Thực ra chẳng ai nghe ai. Người hỏi chỉ đợi bạn phản ứng.",
+        "text": "CHỜ ĐÚNG TÍN HIỆU",
+        "actor": "bored_yawn"
+      },
+      {
+        "vo": "Nếu im lặng sẽ ngột ngạt, còn đôi co lại biến thành cãi vã.",
+        "text": "TRANH CÃI KHÔNG ĐÁNG",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Đáp nhẹ một câu bận rộn, rồi hỏi thăm ngay vườn cây của bác.",
+        "text": "CHUYỂN HƯỚNG NHẸ",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Liệu bạn có thể buông vai diễn quen thuộc này một lần?",
+        "text": "BUÔNG VAI DIỄN",
+        "color": "gold",
+        "actor": "think",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s352",
+    "mascot": "buff",
+    "title": "Stop Competing with the Golden Child",
+    "mechanism": "Sibling Roles",
+    "lines": [
+      {
+        "vo": "Your brother walks in, and parents treat him like a saint.",
+        "text": "THE GOLDEN CHILD",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Instantly, you turn into the rebel slacker rolling your eyes.",
+        "text": "INSTANT REBEL",
+        "color": "red",
+        "actor": "snack"
+      },
+      {
+        "vo": "Sibling roles. As kids, you picked opposite lanes to avoid competition.",
+        "text": "SIBLING ROLES",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Your set. Nod at his achievement, keep breathing, and stay calm.",
+        "text": "NEUTRAL NOD",
+        "color": "green",
+        "actor": "front",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Family dinner is not a scoreboard. Drop the imaginary match.",
+        "text": "DROP THE MATCH",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s352vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Bay so sanh anh chi em trong nha",
+    "title_vi": "Bẫy so sánh anh chị em trong nhà",
+    "mechanism": "Sibling Roles",
+    "lines": [
+      {
+        "vo": "Anh trai vừa về đến cửa, bố mẹ đã khen nức nở.",
+        "text": "CON NGOAN TRÒ GIỎI",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Bạn bỗng thấy mình thành đứa con cá biệt hay cãi.",
+        "text": "ĐỨA CON CÁ BIỆT",
+        "color": "red",
+        "actor": "snack"
+      },
+      {
+        "vo": "Vai diễn anh em. Từ bé, hai người đã chọn hai thái cực khác nhau.",
+        "text": "VAI DIỄN ANH EM",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Hiệp này của bạn. Gật đầu chúc mừng anh một câu, giữ nhịp thở đều.",
+        "text": "GIỮ NHỊP THỞ",
+        "color": "green",
+        "actor": "front",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Mâm cơm không phải bảng thi đấu. Buông chiếc cúp ảo đó xuống.",
+        "text": "KHÔNG CẦN TRANH CÚP",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s353",
+    "mascot": "pen",
+    "title": "Why Your Parents Couch Erases Discipline",
+    "mechanism": "Behavioral Inertia",
+    "lines": [
+      {
+        "vo": "The second you hit your parents couch, your body melts.",
+        "text": "INSTANT COUCH LOCK",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Workout plans vanish. You scroll social media for four hours.",
+        "text": "HOURS DRIFT BY",
+        "color": "red",
+        "actor": "bed_phone_night",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Behavioral inertia. An object at rest tends to stay at rest.",
+        "text": "BEHAVIORAL INERTIA",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Your brain paired that cushion with teenage lazy afternoons.",
+        "text": "TEENAGE HABITS",
+        "actor": "bored_yawn"
+      },
+      {
+        "vo": "Willpower cannot easily defeat twenty years of conditioned physical posture.",
+        "text": "POSTURE TRAP",
+        "actor": "future_tired",
+        "prop": "brain"
+      },
+      {
+        "vo": "Break the cue early. Do not sit down right away.",
+        "text": "DO NOT SIT YET",
+        "color": "green",
+        "actor": "sprint_start"
+      },
+      {
+        "vo": "Keep shoes on, or offer to pour water in the kitchen.",
+        "text": "STAY ON YOUR FEET",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Physical momentum keeps old teenage ghosts from taking your seat.",
+        "text": "PROTECT MOMENTUM",
+        "color": "gold",
+        "actor": "small_step"
+      }
+    ]
+  },
+  {
+    "id": "s353vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Vi sao vua ve nha da nam uon?",
+    "title_vi": "Vì sao vừa về nhà đã nằm ườn?",
+    "mechanism": "Behavioral Inertia",
+    "lines": [
+      {
+        "vo": "Ở phố làm việc năng nổ, về đến nhà là chỉ muốn nằm bẹp.",
+        "text": "NẰM BẸP TRÊN GIƯỜNG",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Kế hoạch học tập biến mất, bạn lướt mạng xã hội suốt buổi chiều.",
+        "text": "LƯỚT MẠNG VÔ THỨC",
+        "color": "red",
+        "actor": "bed_phone_night",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Quán tính hành vi. Não bộ kích hoạt ngay trạng thái lười thời đi học.",
+        "text": "QUÁN TÍNH HÀNH VI",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Góc phòng quen thuộc khiến bạn tự động rơi vào sự uể oải.",
+        "text": "BỐI CẢNH CŨ KỸ",
+        "actor": "bored_yawn"
+      },
+      {
+        "vo": "Ý chí khó thắng được thói quen thân thể đã hình thành mười mấy năm.",
+        "text": "Ý CHÍ BẤT LỰC",
+        "actor": "future_tired",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đổi tín hiệu ngay lúc bước vào cửa. Đừng vội ngả lưng.",
+        "text": "ĐỪNG VỘI NẰM",
+        "color": "green",
+        "actor": "sprint_start"
+      },
+      {
+        "vo": "Xuống bếp rót nước, hoặc giúp bố mẹ dọn mâm cơm trước.",
+        "text": "GIỮ ĐÀ VẬN ĐỘNG",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Giữ đôi chân chuyển động sẽ ngăn cơn lười cũ kéo bạn xuống.",
+        "text": "CHỦ ĐỘNG ĐỨNG LÊN",
+        "color": "gold",
+        "actor": "small_step"
+      }
+    ]
+  },
+  {
+    "id": "s354",
+    "mascot": "buff",
+    "title": "Drop the Family Peacemaker Badge",
+    "mechanism": "Role Engulfment",
+    "lines": [
+      {
+        "vo": "Mom panics about cooking, and your heart races like it is yours.",
+        "text": "PANIC IS CONTAGIOUS",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "You rush around putting out fires, completely exhausting yourself.",
+        "text": "FIREMAN SYNDROME",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Role engulfment. You let the family peacemaker badge swallow your boundaries.",
+        "text": "ROLE ENGULFMENT",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Other adults can handle their own bad weather without your rescue.",
+        "text": "NOT YOUR STORM",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Your rep. When voices rise, step out and wash your hands.",
+        "text": "EXIT THE BLAST ZONE",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Leave the room. Stop carrying emotional weights that are not yours.",
+        "text": "DROP THEIR WEIGHT",
+        "color": "gold",
+        "actor": "point_viewer",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s354vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Met moi vi lam hoa giai vien gia dinh",
+    "title_vi": "Mệt mỏi vì làm hòa giải viên gia đình",
+    "mechanism": "Role Engulfment",
+    "lines": [
+      {
+        "vo": "Mẹ cáu gắt chuyện làm cỗ, tim bạn cũng đập thình thịch theo.",
+        "text": "LO LẮNG LÂY LAN",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Bạn cuống cuồng dàn xếp cho mọi người, rồi kiệt sức một mình.",
+        "text": "KIỆT SỨC VÌ CẢ NỂ",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Cuốn vào vai diễn. Bạn tự nhận trách nhiệm hòa giải mọi rắc rối.",
+        "text": "CUỐN VÀO VAI DIỄN",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Người lớn phải tự chịu trách nhiệm cho cảm xúc bực dọc của họ.",
+        "text": "KHÔNG PHẢI VIỆC BẠN",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Hiệp này. Khi người nhà bắt đầu to tiếng, đi rửa tay ngay.",
+        "text": "RỜI VÙNG VA CHẠM",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Rời khỏi chỗ đó. Đừng gánh mức tạ không thuộc về mình.",
+        "text": "BUÔNG TẠ KHÔNG TÊN",
+        "color": "gold",
+        "actor": "point_viewer",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s355",
+    "mascot": "pen",
+    "title": "Why You Inherited Your Parents Worry",
+    "mechanism": "Generation Echoes",
+    "lines": [
+      {
+        "vo": "Your dad frets over pennies, just like your grandmother always did.",
+        "text": "INHERITED WORRY",
+        "color": "red",
+        "actor": "wallet_worry",
+        "prop": "coin_stack"
+      },
+      {
+        "vo": "Now you catch yourself checking receipts three times in panic.",
+        "text": "THE SAME ANXIETY",
+        "color": "red",
+        "actor": "panic",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Generational transmission. Families pass down survival anxiety like old heirlooms.",
+        "text": "GENERATION ECHOES",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Past hardship taught them to stay vigilant against sudden disaster.",
+        "text": "OLD SURVIVAL CODE",
+        "actor": "reading",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Their criticism is often just their own fear talking out loud.",
+        "text": "FEAR IN DISGUISE",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Do not debate with logic. Validate their worry with one nod.",
+        "text": "VALIDATE AND PAUSE",
+        "color": "green",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Seeing where the fear began helps you put it down.",
+        "text": "PUT DOWN THE FEAR",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s355vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Noi lo tich cop truyen qua nhieu doi",
+    "title_vi": "Nỗi lo tích cóp truyền qua nhiều đời",
+    "mechanism": "Generation Echoes",
+    "lines": [
+      {
+        "vo": "Bố hay càu nhàu chuyện tiền nong, y như bà nội ngày xưa.",
+        "text": "NỖI LO TRUYỀN ĐỜI",
+        "color": "red",
+        "actor": "wallet_worry",
+        "prop": "coin_stack"
+      },
+      {
+        "vo": "Giờ mua mớ rau bạn cũng so đo rồi thấy bất an.",
+        "text": "NỖI BẤT AN CŨ",
+        "color": "red",
+        "actor": "panic",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Tiếng vọng thế hệ. Gia đình truyền lại sự lo âu như đồ gia bảo.",
+        "text": "TIẾNG VỌNG THẾ HỆ",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Những năm tháng thiếu thốn dạy ông bà phải luôn đề phòng rủi ro.",
+        "text": "BẢN NĂNG PHÒNG THỦ",
+        "actor": "reading",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Lời cằn nhằn của bố mẹ thực ra là nỗi sợ chưa nguôi.",
+        "text": "NỖI SỢ LÊN TIẾNG",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Đừng cãi lý lẽ. Hãy gật đầu ghi nhận rồi im lặng lắng nghe.",
+        "text": "LẮNG NGHE YÊN LẶNG",
+        "color": "green",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Hiểu được gốc rễ nỗi sợ, lòng mình tự nhiên nhẹ nhõm hơn.",
+        "text": "HIỂU ĐỂ BUÔNG BỎ",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s356",
+    "mascot": "buff",
+    "title": "Do Not Feed the Holiday Argument Ritual",
+    "mechanism": "Interaction Ritual",
+    "lines": [
+      {
+        "vo": "Someone mentions politics, and family dinner turns into a warzone.",
+        "text": "THE SAME OLD FIGHT",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Everyone claims a corner and yells their rehearsed lines.",
+        "text": "FAMILY WARZONE",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Interaction ritual. Predictable friction feels safer to groups than awkward silence.",
+        "text": "INTERACTION RITUAL",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Tactical rep. Sip your water and give zero theatrical reactions.",
+        "text": "SIP YOUR WATER",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Let their baits hit empty air. Do not enter their ring.",
+        "text": "STAY OUT OF RING",
+        "color": "gold",
+        "actor": "small_step",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s356vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Tranh cai dat dai quen thuoc ngay gio",
+    "title_vi": "Tranh cãi đất đai quen thuộc ngày giỗ",
+    "mechanism": "Interaction Ritual",
+    "lines": [
+      {
+        "vo": "Đang ăn cơm, có người khơi chuyện đất đai là mâm cỗ thành bãi chiến trường.",
+        "text": "CHIẾN TRƯỜNG MÂM CỖ",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Ai cũng lớn tiếng, lặp lại đúng những câu cãi vã từ năm ngoái.",
+        "text": "VỞ KỊCH NĂM NGOÁI",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Nghi thức tương tác. Tranh cãi quen thuộc đem lại cảm giác gắn kết giả tạo.",
+        "text": "NGHI THỨC TƯƠNG TÁC",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Bài tập này. Nhấp một ngụm trà, ngồi yên và tuyệt đối không tranh luận.",
+        "text": "UỐNG MỘT NGỤM TRÀ",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Để lời khiêu khích rơi vào khoảng không. Bạn không cần bước lên võ đài.",
+        "text": "KHÔNG LÊN VÕ ĐÀI",
+        "color": "gold",
+        "actor": "small_step",
+        "prop": "target"
+      }
+    ]
+  }
+]

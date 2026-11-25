@@ -1,0 +1,875 @@
+{
+ "id": "L23vi",
+ "lang": "vi",
+ "title": "Làm sao giữ tình bạn khi mỗi người sống một nơi?",
+ "description": "Chuyển đến thành phố mới đi học, đi làm xa hay xuất khẩu lao động không có nghĩa là phải đánh mất những người bạn thân nhất. Trong video này, Lý Thuyết Chân Que phân tích tám thói quen thực tế giúp bạn duy trì tình bạn bền chặt dù cách xa vạn dặm: vượt qua bẫy trôi dạt (drift trap), cân bằng vốn quan hệ (social capital), tránh bẫy một ứng dụng và làm chủ nhịp lệch múi giờ. Giữ lửa tình bạn sâu sắc mà không hề kiệt sức.",
+ "chapters": [
+  {
+   "title": "Mở đầu",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngồi giữa đống thùng các tông nơi đất khách, lướt điện thoại mới nhận ra bạn thân chẳng hề gọi.",
+     "text": "PHÒNG TRỌ XA NHÀ",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Từng hứa chuyển đi xa sẽ không đổi thay, nhưng khoảng lặng giờ nghe rõ mồn một.",
+     "text": "KHOẢNG LẶNG LỚN DẦN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gói đồ thì dễ Pen ơi, chứ giữ tình bạn phương xa phải nâng tạ đều mỗi tuần.",
+     "text": "PHẢI LUYỆN ĐỀU ĐẶN",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao bạn thân gắn bó bỗng thấy gượng gạo và đuối sức chỉ sau một tháng xa nhau?",
+     "text": "SAO BỖNG GƯỢNG GẠO?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khoảng cách địa lý làm tăng ma sát. Để Buff chỉ cho tám thói quen giữ lửa tình bạn.",
+     "text": "TÁM CÁCH GIỮ LỬA",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cầm khăn lau mồ hôi rồi cùng khởi động, rèn lại cơ bắp cho tình bạn nào.",
+     "text": "RÈN THỂ LỰC TÌNH BẠN",
+     "color": "green",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "1. Bẫy trôi dạt",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mở hộp tin nhắn thấy dòng cuối cách đây ba tuần, tự nhiên thấy tội lỗi ghê.",
+     "text": "1. BẪY TRÔI DẠT",
+     "color": "red",
+     "actor": "think",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hồi còn ở gần, chẳng cần lên lịch mà ngày nào tụi mình cũng gặp nhau.",
+     "text": "XƯA GẦN CHẲNG CẦN LO",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ở gần như có máy trợ lực, còn ở xa là phải tự nâng tạ Pen à.",
+     "text": "PHẢI TỰ NÂNG TẠ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng lẽ trước giờ tụi mình thân nhau chỉ vì tiện đường gặp gỡ thôi sao?",
+     "text": "CHỈ VÌ TIỆN ĐƯỜNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiện lợi nhen lửa, chăm sóc mới giữ bền. Không gặp là não tự thả trôi ngay.",
+     "text": "NÃO TỰ THẢ TRÔI",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không chủ động giữ liên lạc, não sẽ tự động xếp bạn thân thành người quen xã giao.",
+     "text": "DẦN THÀNH NGƯỜI QUEN",
+     "color": "ink",
+     "actor": "34",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần định mở lời kể hết chuyện dạo này, mình thấy nặng nề ngột ngạt ghê.",
+     "text": "KỂ HẾT THÌ QUÁ NẶNG",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng gánh tạ nặng lúc cơ còn nguội. Xem tin nhắn như một hiệp khởi động nhẹ.",
+     "text": "KHỞI ĐỘNG NHẸ NHÀNG",
+     "color": "green",
+     "actor": "phone_grin",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gửi tấm ảnh ly cà phê sáng, không cần ép bạn phải trả lời dông dài.",
+     "text": "GỬI ẢNH ĐƠN GIẢN",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một tín hiệu nhỏ để biết nhau còn đó, khỏi lo áp lực phải gọi cả tiếng.",
+     "text": "KHÔNG BỊ ÁP LỰC",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp phụ nhỏ xíu giúp giữ ấm tình bạn, trước khi cả hai thành người dưng.",
+     "text": "GIỮ ẤM MỐI DÂY",
+     "color": "green",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "2. Vốn quan hệ",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Chuyển đi xa học hành làm việc, vòng tròn bạn bè quen thuộc bỗng chốc bốc hơi sạch bách.",
+     "text": "2. VỐN QUAN HỆ",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là mình mong đứa bạn chí cốt lấp đầy mọi khoảng trống buồn bã trong ngày.",
+     "text": "LẤP MỌI KHOẢNG TRỐNG",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là thiếu hụt quan hệ xã hội. Một người ở xa không thể gánh hết cả vòng bạn bè.",
+     "text": "KHÔNG THỂ GÁNH HẾT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bắt bạn ở xa vừa tâm sự vừa hứng hết bực dọc của mình là quá tải hả Buff?",
+     "text": "ĐÈ BẸP TÌNH BẠN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tình bạn sâu vẫn còn, nhưng cậu thiếu những câu chuyện phiếm với người xung quanh.",
+     "text": "THIẾU GIAO TIẾP GẦN",
+     "color": "red",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý ta vừa cần bạn tri kỷ sâu đậm, vừa cần bạn bè quanh mình để cân bằng.",
+     "text": "CẦN SỰ CÂN BẰNG",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy lúc thấy cô đơn ở phòng trọ, mình không nên trút hết tâm sự lên bạn à?",
+     "text": "ĐỪNG TRÚT LÊN BẠN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng bắt một người ở xa gánh cả phòng tập. Đòn tạ nào cũng gãy đôi thôi.",
+     "text": "GÃY ĐÒN TẠ NẶNG",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ bạn cũ cho chuyện sâu lắng, chuyện lặt vặt thì kiếm bạn tập hay đồng nghiệp.",
+     "text": "TÌM BẠN QUANH MÌNH",
+     "color": "gold",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm vậy vừa che chở tình bạn cũ, vừa giúp mình cắm rễ ở chỗ ở mới.",
+     "text": "CẮM RỄ NƠI MỚI",
+     "color": "ink",
+     "actor": "meditating",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Phân bổ năng lượng ra, và chọn đúng kênh liên lạc chứ đừng làm ngột ngạt.",
+     "text": "CHỌN ĐÚNG CÁCH NÓI",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "3. Bẫy chọn kênh",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hẹn gọi thấy hình mỗi tuần, mà nhìn màn hình mệt mỏi hệt như họp hành với sếp.",
+     "text": "3. BẪY CHỌN KÊNH",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhắn tin hoài thì nguội ngắt, mà ngồi giữ điện thoại hai tiếng thì đuối sức.",
+     "text": "ĐUỐI VÌ NGỒI GỌI",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là chọn sai bài tập. Cậu đang ráng đẩy năm trăm ký khi chưa làm nóng người.",
+     "text": "CHỌN SAI DỤNG CỤ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao cứ nhìn thẳng vào ống kính lại làm câu chuyện cứng đơ như khúc gỗ?",
+     "text": "CỨNG ĐƠ NHƯ KHÚC GỖ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gọi thấy hình bắt hai đứa nhìn nhau liên tục. Ngoài đời bạn thân ngồi cạnh ngắm phố.",
+     "text": "NGOÀI ĐỜI NGỒI CẠNH",
+     "color": "red",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Còn chữ viết mất sạch hơi ấm, khiến não bộ rất dễ nghĩ là bạn lạnh nhạt.",
+     "text": "DỄ NGHĨ SAI GIỌNG",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có cách nào giữ liên lạc nhẹ nhàng mà không phải ép nhau vào cuộc gọi mệt mỏi?",
+     "text": "CÁCH NÀO NHẸ NHÀNG?",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi sang gửi đoạn phim mười giây. Quay gánh hủ tiếu hay lúc đi dạo, không cần diễn.",
+     "text": "ĐOẠN PHIM MƯỜI GIÂY",
+     "color": "green",
+     "actor": "phone_grin",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cho bạn thấy góc phố thật của mình, khỏi cần lên đồ diễn thuyết cả tiếng.",
+     "text": "KHÔNG GIAN CHÂN THẬT",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một thoáng đời thường giúp bạn đồng hành cùng mình, chẳng còn cảm giác phải gồng mình.",
+     "text": "KHÔNG CẦN PHẢI GỒNG",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lực cản thấp mà gần gũi. Nhưng cũng đừng tự nhốt tình bạn vào đúng một ứng dụng.",
+     "text": "ĐỪNG NHỐT MỘT CHỖ",
+     "color": "green",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "4. Bẫy một ứng dụng",
+   "sources": [
+    "s01",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Suốt cả năm qua, mình với bạn thân chỉ nhắn tin qua đúng một ứng dụng duy nhất.",
+     "text": "4. BẪY MỘT ỨNG DỤNG",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi khung trò chuyện đó im bặt mấy ngày, mình thấy tình bạn như nguội tắt.",
+     "text": "KHUNG TIN IM BẶT",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là bẫy dồn hết vào một chỗ. Cậu đang treo cả đòn tạ lên một sợi dây cáp mỏng.",
+     "text": "DÂY CÁP QUÁ MỎNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trò chuyện rải rác trên nhiều nơi khác nhau thực sự giúp tình bạn bền hơn sao Buff?",
+     "text": "NHIỀU NƠI GIÚP BỀN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tình bạn thân tự nhiên lan tỏa qua nhiều góc, chứ không bám chặt một chỗ.",
+     "text": "LAN TỎA NHIỀU NƠI",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xã giao mới gò bó một ứng dụng. Bạn thân là gửi ảnh chế, chia sẻ bài hát, rủ lập đội chơi.",
+     "text": "ẢNH HÀI VÀ BÀI HÁT",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là chỉ có một dòng tin sẽ biến mỗi lần hỏi thăm thành gánh nặng tâm lý à?",
+     "text": "GÁNH NẶNG TÂM LÝ?",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng rồi. Mở rộng điểm chạm để tình bạn thở tự nhiên theo nhịp sống mỗi ngày.",
+     "text": "MỞ RỘNG ĐIỂM CHẠM",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lập danh sách nhạc chung, thả bài hát cậu thích vào đó mà không cần gõ chữ xã giao.",
+     "text": "DANH SÁCH NHẠC CHUNG",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế thì tụi mình tình cờ chạm mặt cả tuần, y như hồi còn đi học ngày xưa.",
+     "text": "CHẠM MẶT TỰ NHIÊN",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chạm mặt tạo đà tốt, nhưng vẫn cần những mốc cố định trên lịch không thể bỏ lỡ.",
+     "text": "CẦN MỐC CỐ ĐỊNH",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "5. Lịch hẹn định kỳ",
+   "sources": [
+    "s01",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Lúc nào cũng hẹn hôm nào rảnh cà phê nhé, nhưng cái hôm đó chẳng bao giờ tới cả.",
+     "text": "5. LỊCH HẸN ĐỊNH KỲ",
+     "color": "red",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bốn tháng trôi qua trong im lặng, làm mình tự hỏi có phải tình bạn đang tan biến.",
+     "text": "BỐN THÁNG IM LẶNG",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hẹn tùy hứng xa nhau là toang ngay. Muốn bền thì phải chốt khung giờ định kỳ.",
+     "text": "KỶ LUẬT VÀ KHUNG GIỜ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cài lịch hẹn định kỳ lên điện thoại có biến tình bạn thành công việc máy móc không Buff?",
+     "text": "MÁY MÓC QUÁ KHÔNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có lịch tập mới không bị việc bận cuốn đi. Cứ để tùy hứng là ý tốt bay màu ngay.",
+     "text": "KỶ LUẬT BẢO VỆ",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lịch hẹn định kỳ tạo cảm giác an tâm, gạt bỏ hết sự ngần ngại mỗi lần xếp lịch.",
+     "text": "GẠT BỎ MỎI MỆT",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm thế nào để tạo nhịp điệu đều đặn mà không biến bạn bè thành bài tập về nhà?",
+     "text": "KHÔNG THÀNH BÀI TẬP",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn một cái mốc cố định, như năm phút trò chuyện vào sáng chủ nhật đầu tháng.",
+     "text": "NĂM PHÚT ĐẦU THÁNG",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ ngày hẹn chuẩn chỉ như giờ tập, nhưng thời lượng thì thật ngắn gọn và linh hoạt.",
+     "text": "NGẮN GỌN LINH HOẠT",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có sẵn nhịp điệu sẽ xua tan nỗi lo không biết bao giờ mới nên mở lời hỏi thăm.",
+     "text": "XUA TAN NỖI LO",
+     "color": "gold",
+     "actor": "meditating",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đều đặn tạo sức bền. Nhưng lỡ bạn bận đột xuất, thì đừng ngồi ghi sổ so đo hơn thua.",
+     "text": "ĐỪNG GHI SỔ HƠN THUA",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "6. Tính toán hơn thua",
+   "sources": [
+    "s01",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hai tuần trước mình nhắn một tràng dài, mà nó chỉ thả đúng một biểu tượng thích.",
+     "text": "6. TÍNH TOÁN HƠN THUA",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giờ mình không thèm nhắn nữa, vì cảm giác mối quan hệ này chỉ có một bên vun vén.",
+     "text": "CẢM GIÁC BẤT CÔNG",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dính ngay vào bẫy so đo đáp đền. Ném cái bảng điểm tính toán đó vào sọt rác đi.",
+     "text": "VỨT BẢNG ĐIỂM ĐI",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng lẽ tình bạn chân chính không phải là chia đều năm mươi năm mươi sao?",
+     "text": "NĂM MƯƠI NĂM MƯƠI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Về lâu dài thì có. Nhưng không ai bỏ bạn tập chỉ vì người ta lỡ vắng một buổi.",
+     "text": "LỠ MỘT BUỔI TẬP",
+     "color": "ink",
+     "actor": "front",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có khi bạn cậu đang ngập trong việc tăng ca, tiền nhà, hay kiệt sức sau một ngày làm.",
+     "text": "BẬN RỘN MỎI MỆT",
+     "color": "red",
+     "actor": "34",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ ngồi canh xem tới lượt ai nhắn trước làm mình toàn nghĩ xấu là bạn hết coi trọng.",
+     "text": "TOÀN NGHĨ TIÊU CỰC",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghĩ là bạn bận chứ đâu phải lơ mình. Đổi góc nhìn là đầu óc nhẹ nhõm ngay.",
+     "text": "BẠN BẬN CHỨ ĐÂU QUÊN",
+     "color": "green",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi thăm bằng lòng rộng lượng mà không đòi hỏi đáp lại ngay tức thì. Xóa sổ nợ đi.",
+     "text": "XÓA NGAY SỔ NỢ",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là nhắn hỏi thăm vì thật lòng quý bạn, chứ không phải để đòi món nợ tình cảm ảo.",
+     "text": "KHÔNG ĐÒI NỢ ẢO",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bao dung mở toang cánh cửa. Nhưng cũng đừng biến mọi buổi trò chuyện thành chuyện xưa tích cũ.",
+     "text": "ĐỪNG MÃI CHUYỆN XƯA",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "7. Bẫy hoài niệm",
+   "sources": [
+    "s01",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần hiếm hoi nói chuyện, hai đứa chỉ toàn nhắc chuyện cũ rích thời còn đi học.",
+     "text": "7. BẪY HOÀI NIỆM",
+     "color": "ink",
+     "actor": "snack",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy ấm áp được năm phút đầu, rồi sau đó là khoảng im lặng gượng gạo bao trùm.",
+     "text": "LẶNG NGẮT GƯỢNG GẠO",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cậu đang đốt nốt chút củi cũ từ quá khứ mà chẳng chịu nạp thêm nhiên liệu mới.",
+     "text": "ĐỐT CỦI CŨ QUÁ KHỨ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tình bạn có sống nổi không khi mọi khoảnh khắc đẹp nhất đều kẹt lại ở thời học sinh?",
+     "text": "KẸT LẠI TRONG QUÁ KHỨ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kỷ niệm gắn kết rất tốt, nhưng cứ nhốt nhau trong bảo tàng thì chán chết Pen ơi.",
+     "text": "SỐNG TRONG BẢO TÀNG",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mối quan hệ sẽ teo tóp nếu hai người không chịu cập nhật hình ảnh hiện tại của nhau.",
+     "text": "CẬP NHẬT HÌNH ẢNH",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để vừa trân trọng quá khứ, vừa gắn kết với con người thật của nhau bây giờ?",
+     "text": "CON NGƯỜI BÂY GIỜ?",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng kỷ niệm cũ làm đường băng cất cánh, chứ đừng coi là điểm đến. Nối tới hôm nay.",
+     "text": "NỐI TỚI HÔM NAY",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khơi lại một câu đùa cũ, rồi gắn liền với rắc rối cậu đang gặp với sếp hôm nay.",
+     "text": "CHUYỆN ĐỜI THỰC TẾ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách đó đưa bạn vào cuộc sống hiện tại của mình, thay vì cứ đóng băng hình ảnh ngày xưa.",
+     "text": "BƯỚC VÀO HIỆN TẠI",
+     "color": "gold",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ rễ cây thật sâu, nhưng hãy để những cành nhánh mới vươn dài qua khắp phương trời.",
+     "text": "VƯƠN XA PHƯƠNG TRỜI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "8. Lệch múi giờ",
+   "sources": [
+    "s02",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Từ hồi bạn mình đi xuất khẩu lao động xa, chuyện lệch múi giờ chặn đứng mọi cuộc gọi.",
+     "text": "8. LỆCH MÚI GIỜ",
+     "color": "red",
+     "actor": "bed_phone_night",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lúc bên đó tan ca về tới phòng thì bên này mình đã buồn ngủ díp mắt lên giường.",
+     "text": "LỆCH GIỜ SINH HOẠT",
+     "color": "ink",
+     "actor": "sleeping",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là lực cản thời gian. Cậu đang cố vật nhau với đồng hồ thay vì tận dụng nhịp lệch pha.",
+     "text": "VẬT NHAU VỚI ĐỒNG HỒ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có thực tế không khi lịch sinh hoạt hai bên lệch nhau đến mức chẳng thể trùng khớp một giờ?",
+     "text": "KHÔNG KHỚP GIỜ NÀO?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quá được luôn. Chỉ cần cởi trói bản thân khỏi cái gông cùm phải trò chuyện cùng một lúc.",
+     "text": "KHÔNG CẦN CÙNG LÚC",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhắn tin lệch giờ vẫn tạo sự gắn kết bền chặt, miễn là hai đứa dám chia sẻ cảm xúc thật.",
+     "text": "CHIA SẺ THẬT LÒNG",
+     "color": "ink",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là hai đứa không nhất thiết phải cùng sáng đèn trên mạng một lúc?",
+     "text": "KHÔNG CẦN CÙNG SÁNG",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xem tin nhắn thoại như bức thư gửi gắm. Thu trước khi ngủ, để bạn nghe lúc thức dậy.",
+     "text": "BỨC THƯ GỬI GẮM",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn nghe lúc ngồi xe buýt đi làm, rồi thong thả nhắn lại mà chẳng hề thấy áp lực.",
+     "text": "NGHE TRÊN XE BUÝT",
+     "color": "ink",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biến lệch múi giờ thành một cuộc chạy tiếp sức thong dong, thay vì bức tường ngăn cách.",
+     "text": "CHẠY TIẾP SỨC NHẸ",
+     "color": "gold",
+     "actor": "meditating",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khớp nhịp tim chứ đừng khớp kim đồng hồ Pen à. Giờ thì cùng điểm lại giáo án hôm nay nào.",
+     "text": "KHỚP NHỊP TRÁI TIM",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Tổng kết bài học",
+   "sources": [
+    "s01",
+    "s02",
+    "s03",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Chuyển đi xa làm đổi thay môi trường, nhưng khoảng cách không có nghĩa là phải xa mặt cách lòng.",
+     "text": "GIỮ CHẶT TÌNH BẠN",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhớ kỹ ba nguyên tắc vàng để giữ tình bạn phương xa luôn bền bỉ và nhẹ nhõm.",
+     "text": "BA NGUYÊN TẮC VÀNG",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một là kiếm bạn quanh mình, kết nối nhiều nơi chứ đừng nhốt trong một ứng dụng.",
+     "text": "1. ĐA DẠNG KÊNH NÓI",
+     "color": "green",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai là chốt lịch hẹn định kỳ, và vứt ngay cuốn sổ tính toán hơn thua.",
+     "text": "2. BỎ TÍNH HƠN THUA",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba là chia sẻ đời sống hiện tại và gửi tin nhắn thoại thay vì vật lộn với lệch giờ.",
+     "text": "3. GỬI TIN NHẮN THOẠI",
+     "color": "green",
+     "actor": "34",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế thử thách bảy ngày cho những ai đang nhớ đứa bạn phương xa là gì vậy Buff?",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trong bảy ngày tới, hãy gửi một tin nhắn thoại cho bạn cũ, nhắn họ lúc nào tiện hãy trả lời.",
+     "text": "LỜI NHẮN BẢY NGÀY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm theo dõi kênh, chăm chỉ luyện tập mỗi tuần để giữ tình bạn luôn bền chặt.",
+     "text": "LUYỆN TẬP MỖI TUẦN",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

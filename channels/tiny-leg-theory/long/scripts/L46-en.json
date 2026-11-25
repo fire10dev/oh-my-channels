@@ -1,0 +1,929 @@
+{
+ "id": "L46",
+ "lang": "en",
+ "title": "Why Your Weekends Disappear: 8 Brain Traps Explained",
+ "description": "Do your weekends vanish in a blur of chores and mindless scrolling? In this video, we explore eight psychological mechanisms that explain why free time slips away and how to reclaim genuine rest. Learn practical ways to structure your days, restore your energy, and finish Sunday feeling refreshed.",
+ "chapters": [
+  {
+   "title": "Weekend Vanished",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Friday night you had big plans to recharge. Now it is Sunday night, and you are exhausted.",
+     "text": "WEEKEND VANISHED",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Classic weekend wipeout, buddy. You did not rest, you just lost forty-eight hours.",
+     "text": "WEEKEND WIPEOUT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I stayed home and ran chores, but my battery feels just as exhausted as Friday.",
+     "text": "BATTERY STILL EMPTY",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your schedule was open, but your brain got trapped in low-effort habits that drain you.",
+     "text": "LOW-EFFORT DEFAULTS",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Is there an actual psychological reason why forty-eight hours of free time evaporates so fast?",
+     "text": "WHERE DID TIME GO?",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research reveals eight distinct reasons your weekend disappears, and today we fix each one.",
+     "text": "EIGHT HIDDEN TRAPS",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Show me where my hours went, starting with that lazy blur on Saturday morning.",
+     "text": "SATURDAY MORNING",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "1. Time Perception",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Saturday morning felt slow on the sofa, but now the whole afternoon is gone.",
+     "text": "1. TIME PERCEPTION",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Welcome to the holiday paradox. Monotonous hours feel slow now, but vanish in memory.",
+     "text": "THE TIME PARADOX",
+     "color": "red",
+     "actor": "front",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does my brain erase Saturday if I was just relaxing quietly at home?",
+     "text": "ERASING SATURDAY",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Memory judges time by novelty. Without new reference points, a quiet day shrinks down to nothing.",
+     "text": "NOVELTY SETS TIME",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So three hours of mindless scrolling feels like fifteen minutes when night arrives.",
+     "text": "SCROLLING BLACK HOLE",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Repetitive indoor comfort gives your mental recording system zero distinct impressions to stamp.",
+     "text": "NOTHING TO STAMP",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does staying home doom my weekend to feeling like an instantaneous, forgettable flash?",
+     "text": "DOOMED TO BLINK?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Not if you give the morning shape. Your brain craves fresh sensory landmarks to anchor time.",
+     "text": "NEED FRESH INPUT",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I make my morning feel expansive without tiring myself out with heavy tasks?",
+     "text": "EXPAND THE MORNING",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Plant one novel sensory landmark before noon: walk an unfamiliar street or try a fresh bakery.",
+     "text": "SENSORY LANDMARK",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So one unfamiliar detail creates a solid mental bookmark for the entire morning.",
+     "text": "A MENTAL BOOKMARK",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "One novelty rep stretches subjective time, but novel memories still need clean borders between activities.",
+     "text": "NEEDS CLEAR EDGES",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "2. Event Segmentation",
+   "sources": [
+    "s01",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I spent Saturday morning tackling all the leftover chores I postponed during the work week.",
+     "text": "2. EVENT SEGMENTATION",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That blur is failed event segmentation. Your brain treats the day like endless chore soup.",
+     "text": "ENDLESS CHORE SOUP",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does the human mind really need sharp borders between chores and downtime on Saturday?",
+     "text": "NEED SHARP BORDERS?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests our minds naturally slice time into distinct chapters using physical environment shifts.",
+     "text": "COGNITIVE CHAPTERS",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When I fold clothes while watching videos, my brain never closes the chore chapter.",
+     "text": "NEVER ENDING CHORE",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are mixing work signals with rest signals, turning your downtime into mental static.",
+     "text": "MENTAL STATIC",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So my afternoon feels messy because pending tasks bleed into my relaxation without stopping?",
+     "text": "BLEEDING TOGETHER",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Without a clear whistle between reps, your mental engine stays idling in gear all day.",
+     "text": "ENGINE STILL IDLING",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I build real borders when I am just staying inside my small apartment?",
+     "text": "HOW TO BUILD WALLS?",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use physical transitions: change your shirt, close your laptop, and step outdoors for two minutes.",
+     "text": "MARK THE BOUNDARY",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That simple physical reset signals to my brain that chore time is officially finished.",
+     "text": "SIGNAL THE SHIFT",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Clean borders create clear chapters, but how you finish those chapters decides how you remember them.",
+     "text": "FINISH WITH INTENT",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "3. Peak-End Rule",
+   "sources": [
+    "s01",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sunday night hits, and I feel a heavy dread that erases every pleasant Saturday moment.",
+     "text": "3. PEAK-END RULE",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is the peak-end rule in action. Your memory judges the weekend by its finish line.",
+     "text": "THE FINISH LINE",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even if Saturday was great, a miserable Sunday night ruins the entire forty-eight hours?",
+     "text": "SUNDAY RUINS ALL?",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The brain does not average hours. It samples the emotional peak and the final notes.",
+     "text": "PEAK AND END ONLY",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And my typical Sunday ending is folding laundry while dreading my early Monday morning alarm.",
+     "text": "DREADING MONDAY",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are giving your weekend a terrible finale. That stamps the whole experience as grim.",
+     "text": "A TERRIBLE FINALE",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Is that why Monday morning feels so heavy before the work week even officially starts?",
+     "text": "HEAVY MONDAYS",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A rough ending rewrites the whole story, buddy. You remember the landing, not the flight.",
+     "text": "THE LANDING COUNTS",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sunday nights feel held hostage by my inbox, so I just end up doomscrolling in bed.",
+     "text": "HOSTAGE TO MONDAY",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Build a dedicated Sunday evening ritual: cook a favorite meal, play cards, or call an old friend.",
+     "text": "SUNDAY NIGHT RITUAL",
+     "color": "green",
+     "actor": "snack",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That way, the final recorded memory of my weekend is warm and nourishing instead of tense.",
+     "text": "WARM FINAL NOTE",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Finish on a high note, because identical reruns during the day will still drain your enthusiasm.",
+     "text": "NO IDENTICAL RERUNS",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "4. Variety Seeking",
+   "sources": [
+    "s01",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I noticed I order the same takeout delivery and watch the same shows every single Saturday.",
+     "text": "4. VARIETY SEEKING",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are falling into the default comfort rut. Safe, predictable, and completely forgettable.",
+     "text": "THE DEFAULT RUT",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I tell myself I am exhausted, so repeating comfortable habits feels soothing in the moment.",
+     "text": "COMFORT VS HABIT",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Passive sameness feels comfortable, but it gives your brain nothing to spark interest or enthusiasm.",
+     "text": "SAMENESS NUMBS YOU",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Is that why an entire forty-eight hour weekend feels like it never even happened?",
+     "text": "WHY TIME EVAPORATES",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain needs contrast. Without fresh anchors, repetitive days melt into a single blur.",
+     "text": "CONTRAST MATTERS",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Do I have to schedule exhausting road trips just to shake off that mental fog?",
+     "text": "EXHAUSTING TRIPS?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "No way, buddy. You do not need a marathon when two light reps will do.",
+     "text": "NO MARATHON NEEDED",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What counts as a light rep of variety during a normal weekend at home?",
+     "text": "LIGHT VARIETY REPS",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Go to an outdoor morning market instead of your usual convenience store, or walk a new route.",
+     "text": "MORNING MARKET TRIP",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Just seeing fresh market stalls and smelling street food wakes up my attention without draining energy.",
+     "text": "WAKE UP ATTENTION",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Small variations pay off big, but spontaneity needs a basic scaffold, or choice paralysis takes over.",
+     "text": "NEEDS A SCAFFOLD",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "5. Leisure Planning",
+   "sources": [
+    "s01",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I love having zero plans on Saturday, but then I spend hours deciding what to do.",
+     "text": "5. LEISURE PLANNING",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is the paradox of unscheduled time. Blank freedom often paralyzes your willpower.",
+     "text": "FREEDOM PARALYSIS",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does scheduling my weekend like work defeat the entire purpose of having relaxing free time?",
+     "text": "FEELS LIKE WORK?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rigid schedules kill the mood, but total emptiness surrenders your day to mindless scrolling.",
+     "text": "RIGID VS EMPTY",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Because falling into my phone requires zero effort and zero uncomfortable decision making.",
+     "text": "ZERO EFFORT DEFAULT",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Path of least resistance always wins when your mental tank is sitting on empty.",
+     "text": "LEAST RESISTANCE",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I just drift between rooms and realize half the afternoon slipped away without any satisfaction.",
+     "text": "DRIFTING AWAY",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is why you need a structural game plan, not an over-scheduled calendar.",
+     "text": "STRUCTURAL PLAN",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I guide my free day without feeling trapped by a rigid schedule?",
+     "text": "STRUCTURE FREE TIME",
+     "color": "gold",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Book just two non-negotiable anchors: coffee at ten, a walk at four. Leave the rest blank.",
+     "text": "TWO DAILY ANCHORS",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Meeting a friend for morning coffee, then shopping for fresh food without rushing.",
+     "text": "FLEXIBLE SPACES",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Anchors give your day a spine, but your activities still need to genuinely restore your brain.",
+     "text": "TRUE RESTORATION",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "6. Restorative Rest",
+   "sources": [
+    "s01",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I spent six hours lying completely still in bed, yet I woke up feeling heavy and sluggish.",
+     "text": "6. RESTORATIVE REST",
+     "color": "ink",
+     "actor": "sleeping",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lying down is a physical pause, not mental recovery. You confused resting muscles with resetting your mind.",
+     "text": "BODY VS MIND",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What is the real difference between lying on the sofa and actually restoring mental energy?",
+     "text": "WHAT RESTORES US?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Psychologists find deep recovery requires genuine detachment and rich sensory engagement, not just idle lying down.",
+     "text": "GENUINE DETACHMENT",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So staying inside the exact same apartment walls keeps my brain trapped in weekday mode.",
+     "text": "SAME STALE WALLS",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your surroundings trigger habitual thoughts. Staying in your work cave keeps background stress running.",
+     "text": "WORK CAVE HABITS",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even if I am just doing light chores around the house, my thoughts stay wired to work?",
+     "text": "WIRED TO WORK",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You cannot recover in the space that exhausts you. You need physical displacement.",
+     "text": "CHANGE YOUR SPACE",
+     "color": "gold",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I trigger that deep psychological feeling of being truly away from everyday pressure?",
+     "text": "BEING FULLY AWAY",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Change your physical environment: sit by a lake, visit a greenhouse, or wander a lively farmers market.",
+     "text": "CHANGE ENVIRONMENT",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A rich physical shift pulls your senses outward without demanding any mental effort.",
+     "text": "GENTLE ABSORPTION",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Deload your neural circuits outside the gym, champ. That primes your focus for a real rebuild.",
+     "text": "DELOAD OUTSIDE",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "7. Attention Restore",
+   "sources": [
+    "s01",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I only meant to reply to one message, but my peace vanished for the whole afternoon.",
+     "text": "7. ATTENTION RESTORE",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That tiny chore triggered mental overload. Quick check-ins drain your battery faster than real work.",
+     "text": "MENTAL OVERLOAD",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How can paying one simple bill or sending one message drain my weekend energy so severely?",
+     "text": "JUST ONE MESSAGE?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Every open task forces your focus to stay locked on target. That effort silently wears you out.",
+     "text": "FOCUS STAYS LOCKED",
+     "color": "red",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So my brain stays on alert, juggling task reminders while I try to rest.",
+     "text": "CONSTANT ALERT",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are holding a mental dumbbell all day without realizing your focus muscle is burning.",
+     "text": "BURNING FOCUS",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I thought clearing pending chores on Saturday would relax me, but it just created more static.",
+     "text": "CHORES BREED STATIC",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Every unfinished task keeps your directed focus flexing. You never give that muscle a true rest day.",
+     "text": "NO FOCUS REST DAY",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I let my exhausted prefrontal cortex completely step down and recharge?",
+     "text": "LET FOCUS REST",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Give directed focus a break with soft fascination: step outside, watch traffic, or water your house plants.",
+     "text": "SOFT FASCINATION",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Involuntary attention takes over, allowing my directed focus to sit on the bench and recover.",
+     "text": "BENCH THE FOCUS",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Fifteen minutes of soft fascination reloads your focus, but only if you actually savor those peaceful moments.",
+     "text": "SAVOR THE PEACE",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "8. Savoring",
+   "sources": [
+    "s01",
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Even when I sit down with good coffee, I am already mentally driving to the market.",
+     "text": "8. SAVORING",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are swallowing your downtime whole without chewing. You have zero savoring habit, buddy.",
+     "text": "ZERO SAVORING",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why is my mind always rushing ahead to the next pending item on the list?",
+     "text": "RUSHING TO NEXT",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Humans are wired for anticipatory stress. The brain treats leisure like another box to check off.",
+     "text": "CHECKLIST MINDSET",
+     "color": "red",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When I treat my leisure like another chore, it delivers zero emotional refreshment.",
+     "text": "LEISURE AS A CHORE",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Savoring is the psychological muscle that converts an everyday pleasant experience into durable happiness.",
+     "text": "CONVERT TO JOY",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So without savoring, forty-eight hours of good moments just slide right off like water on glass?",
+     "text": "SLIDING OFF",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. You need to hold the rep at the top to stimulate real growth.",
+     "text": "HOLD THE REP",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I actually train myself to savor when my thoughts keep sprinting ahead?",
+     "text": "HOW TO PRACTICE?",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Run a simple savoring set: look forward to your morning coffee, smell the roast, and remember it later.",
+     "text": "THE THREE-PART SET",
+     "color": "green",
+     "actor": "writing",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Anticipating my morning coffee, smelling the beans, and remembering how warm it felt.",
+     "text": "FEEL THE MOMENT",
+     "color": "gold",
+     "actor": "snack",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Extract the value while it happens, buddy. Now let us build your complete weekend playbook.",
+     "text": "EXTRACT THE VALUE",
+     "color": "green",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "Weekend Playbook",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "It turns out reclaiming our weekend is not about doing nothing, but actively shaping our mental space.",
+     "text": "WEEKEND PLAYBOOK",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rule one is structure: set daily anchor points and draw real borders between chores and rest.",
+     "text": "RULE 1: STRUCTURE",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rule two is depth: swap the repetitive indoor rut for outdoor markets, fresh scenery, and soft fascination.",
+     "text": "RULE 2: DEPTH",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "And rule three: nail the finish. Protect Sunday night rituals like your favorite personal record.",
+     "text": "RULE 3: FINISH WELL",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What is my specific training challenge for this upcoming Saturday and Sunday?",
+     "text": "THE 7-DAY CHALLENGE",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your seven-day challenge: lock in two simple anchors on Saturday, and guard one quiet ritual on Sunday.",
+     "text": "THE WEEKEND RESET",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Two protected anchors during the day, and one nourishing evening closing the weekend on my own terms.",
+     "text": "A NOURISHING END",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lock in that rep, and subscribe to Tiny Leg Theory for your weekly mental training.",
+     "text": "LOCK IN THE REP",
+     "color": "green",
+     "actor": "hand_off"
+    }
+   ]
+  }
+ ]
+}

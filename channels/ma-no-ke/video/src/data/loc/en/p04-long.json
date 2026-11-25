@@ -1,0 +1,2128 @@
+{
+"w": 1920,
+"h": 1080,
+"duration": 206.672,
+"shots": [
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.3,
+"t1": 2.95,
+"a": [
+675,
+600,
+1350
+],
+"b": [
+675,
+640,
+1350
+],
+"dark": 0.15
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 2.95,
+"t1": 4.3,
+"a": [
+960,
+898,
+900
+],
+"b": [
+960,
+938,
+760
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.3,
+"t1": 6.818,
+"a": [
+675,
+500,
+1350
+],
+"b": [
+675,
+500,
+1350
+],
+"blur": 14,
+"dark": 0.5
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 6.818,
+"t1": 10.826,
+"a": [
+500,
+620,
+1000
+],
+"b": [
+540,
+660,
+820
+]
+},
+{
+"img": "p04/img/S01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.826,
+"t1": 13.757,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+920,
+420,
+1350
+]
+},
+{
+"img": "p04/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.757,
+"t1": 16.656,
+"a": [
+900,
+480,
+1350
+],
+"b": [
+820,
+360,
+1000
+]
+},
+{
+"img": "p04/img/S34.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.656,
+"t1": 18.855,
+"a": [
+880,
+420,
+1350
+],
+"b": [
+880,
+330,
+1000
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 18.855,
+"t1": 24.156,
+"a": [
+500,
+620,
+1000
+],
+"b": [
+540,
+660,
+820
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 24.156,
+"t1": 27.735,
+"a": [
+540,
+660,
+820
+],
+"b": [
+540,
+640,
+700
+]
+},
+{
+"img": "p04/img/G12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 27.735,
+"t1": 31.304,
+"a": [
+700,
+700,
+1350
+],
+"b": [
+576,
+700,
+1000
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 31.304,
+"t1": 40.195,
+"a": [
+540,
+660,
+1000
+],
+"b": [
+540,
+640,
+640
+]
+},
+{
+"img": "p04/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 40.195,
+"t1": 45.592,
+"a": [
+900,
+480,
+1350
+],
+"b": [
+820,
+360,
+1000
+]
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 45.592,
+"t1": 48.592,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+550,
+520,
+1100
+]
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 48.592,
+"t1": 51.556,
+"a": [
+1296,
+360,
+1100
+],
+"b": [
+1456,
+760,
+1000
+]
+},
+{
+"img": "p04/img/G12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 51.556,
+"t1": 56.721,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+600,
+700,
+1200
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 56.721,
+"t1": 60.114,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1100,
+560,
+1350
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 60.114,
+"t1": 63.503,
+"a": [
+540,
+660,
+820
+],
+"b": [
+540,
+650,
+700
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 63.503,
+"t1": 65.82,
+"a": [
+880,
+520,
+1000
+],
+"b": [
+880,
+500,
+800
+]
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 65.82,
+"t1": 68.005,
+"a": [
+1456,
+840,
+1100
+],
+"b": [
+1456,
+820,
+900
+],
+"dark": 0.25
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 68.005,
+"t1": 70.142,
+"a": [
+900,
+450,
+1350
+],
+"b": [
+1200,
+400,
+1350
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 70.142,
+"t1": 73.632,
+"a": [
+1392,
+500,
+1000
+],
+"b": [
+1392,
+480,
+800
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 73.632,
+"t1": 76.194,
+"a": [
+880,
+500,
+800
+],
+"b": [
+880,
+500,
+640
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 76.194,
+"t1": 79.841,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+600,
+1350
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 79.841,
+"t1": 83.488,
+"a": [
+1260,
+680,
+900
+],
+"b": [
+1260,
+700,
+700
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 83.488,
+"t1": 87.077,
+"a": [
+500,
+700,
+1000
+],
+"b": [
+420,
+680,
+800
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 87.077,
+"t1": 89.36,
+"a": [
+1360,
+620,
+900
+],
+"b": [
+1360,
+600,
+700
+]
+},
+{
+"img": "p04/img/G05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 89.36,
+"t1": 92.073,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1050,
+500,
+1350
+]
+},
+{
+"img": "p04/img/G05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 92.073,
+"t1": 94.786,
+"a": [
+840,
+720,
+900
+],
+"b": [
+840,
+720,
+700
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 94.786,
+"t1": 97.481,
+"a": [
+990,
+1180,
+700
+],
+"b": [
+990,
+1150,
+560
+]
+},
+{
+"img": "p04/img/G07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 97.481,
+"t1": 101.161,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+700,
+640,
+1350
+]
+},
+{
+"img": "p04/img/G07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 101.161,
+"t1": 104.776,
+"a": [
+620,
+520,
+900
+],
+"b": [
+620,
+500,
+700
+]
+},
+{
+"img": "p04/img/G07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 104.776,
+"t1": 108.755,
+"a": [
+1280,
+440,
+1100
+],
+"b": [
+1150,
+480,
+900
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 108.755,
+"t1": 112.691,
+"a": [
+540,
+660,
+820
+],
+"b": [
+540,
+650,
+700
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 112.691,
+"t1": 114.821,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1200,
+640,
+1350
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 114.821,
+"t1": 116.903,
+"a": [
+1548,
+800,
+1000
+],
+"b": [
+1560,
+780,
+800
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 116.903,
+"t1": 118.868,
+"a": [
+900,
+700,
+1350
+],
+"b": [
+1000,
+842,
+1100
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 118.868,
+"t1": 121.318,
+"a": [
+1000,
+842,
+1100
+],
+"b": [
+1000,
+884,
+950
+],
+"dark": 0.2
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 121.318,
+"t1": 124.106,
+"a": [
+1300,
+500,
+1350
+],
+"b": [
+1320,
+480,
+1350
+],
+"blur": 14,
+"dark": 0.5
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 124.106,
+"t1": 126.428,
+"a": [
+512,
+520,
+900
+],
+"b": [
+512,
+500,
+760
+]
+},
+{
+"img": "p04/img/G06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 126.428,
+"t1": 129.43,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1200,
+400,
+1350
+]
+},
+{
+"img": "p04/img/G06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 129.43,
+"t1": 131.977,
+"a": [
+1480,
+440,
+900
+],
+"b": [
+1480,
+420,
+700
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 131.977,
+"t1": 136.346,
+"a": [
+500,
+700,
+1000
+],
+"b": [
+420,
+680,
+800
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 136.346,
+"t1": 139.19,
+"a": [
+1360,
+620,
+800
+],
+"b": [
+1360,
+600,
+640
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 139.19,
+"t1": 144.015,
+"a": [
+540,
+660,
+1000
+],
+"b": [
+540,
+640,
+640
+]
+},
+{
+"img": "p04/img/G08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 144.015,
+"t1": 146.115,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+500,
+1350
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 146.115,
+"t1": 148.942,
+"a": [
+1498,
+500,
+1100
+],
+"b": [
+1500,
+480,
+900
+],
+"shake": 5,
+"dark": 0.6
+},
+{
+"img": "p04/img/G12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 148.942,
+"t1": 153.551,
+"a": [
+700,
+700,
+1350
+],
+"b": [
+576,
+700,
+1000
+],
+"dark": 0.3
+},
+{
+"img": "p04/img/G09.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 153.551,
+"t1": 158.065,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+675,
+450,
+1350
+],
+"shake": 6
+},
+{
+"img": "p04/img/G09.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 158.065,
+"t1": 160.246,
+"a": [
+608,
+420,
+1000
+],
+"b": [
+608,
+400,
+800
+],
+"blur": 4,
+"dark": 0.2
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 160.246,
+"t1": 166.692,
+"a": [
+540,
+660,
+820
+],
+"b": [
+540,
+640,
+700
+]
+},
+{
+"img": "p04/img/G09.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 166.692,
+"t1": 168.758,
+"a": [
+1504,
+520,
+900
+],
+"b": [
+1504,
+500,
+700
+]
+},
+{
+"img": "p04/img/G10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 168.758,
+"t1": 171.551,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+700,
+560,
+1350
+]
+},
+{
+"img": "p04/img/G10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 171.551,
+"t1": 174.302,
+"a": [
+450,
+800,
+900
+],
+"b": [
+350,
+840,
+700
+]
+},
+{
+"img": "p04/img/G10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 174.302,
+"t1": 176.412,
+"a": [
+1300,
+560,
+1350
+],
+"b": [
+1350,
+560,
+1350
+],
+"blur": 5,
+"dark": 0.25
+},
+{
+"img": "p04/img/G10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 176.412,
+"t1": 180.174,
+"a": [
+900,
+600,
+1350
+],
+"b": [
+940,
+870,
+1000
+]
+},
+{
+"img": "p04/img/G10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 180.174,
+"t1": 183.9,
+"a": [
+940,
+898,
+900
+],
+"b": [
+940,
+972,
+640
+]
+},
+{
+"img": "p04/img/G10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 183.9,
+"t1": 185.769,
+"a": [
+1648,
+300,
+800
+],
+"b": [
+1680,
+290,
+600
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 185.769,
+"t1": 187.534,
+"a": [
+540,
+660,
+820
+],
+"b": [
+540,
+640,
+700
+]
+},
+{
+"img": "p04/img/S33.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 187.534,
+"t1": 189.605,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1300,
+520,
+1350
+]
+},
+{
+"img": "p04/img/S34.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 189.605,
+"t1": 191.635,
+"a": [
+880,
+420,
+1350
+],
+"b": [
+880,
+330,
+1000
+]
+},
+{
+"img": "p04/img/B07.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 191.635,
+"t1": 198.797,
+"a": [
+672,
+896,
+1344
+],
+"b": [
+672,
+800,
+1000
+]
+},
+{
+"img": "p04/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 198.797,
+"t1": 205.872,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+576,
+2048
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p04/img/cut_G11_1.png",
+"size": 412,
+"t0": 4.3,
+"t1": 6.818,
+"from": [
+1354,
+126,
+1.141
+],
+"to": [
+1354,
+86,
+1.141
+],
+"bob": false,
+"wob": 2
+},
+{
+"img": "p04/img/cut_G11_0.png",
+"size": 485,
+"t0": 51.556,
+"t1": 56.721,
+"from": [
+1442,
+126,
+1.095
+],
+"to": [
+1442,
+86,
+1.095
+],
+"bob": false,
+"wob": 2
+},
+{
+"img": "p04/img/cut_G11_1.png",
+"size": 412,
+"t0": 121.318,
+"t1": 124.106,
+"from": [
+96,
+126,
+1.141
+],
+"to": [
+96,
+86,
+1.141
+],
+"bob": false,
+"wob": 2
+},
+{
+"img": "p04/img/cut_G11_2.png",
+"size": 493,
+"t0": 158.065,
+"t1": 160.246,
+"from": [
+1247,
+126,
+1.17
+],
+"to": [
+1247,
+86,
+1.17
+],
+"bob": false,
+"wob": 5
+},
+{
+"img": "p04/img/cut_G11_3.png",
+"size": 390,
+"t0": 174.302,
+"t1": 176.412,
+"from": [
+1368,
+126,
+1.17
+],
+"to": [
+1368,
+86,
+1.17
+],
+"bob": false,
+"wob": 2
+},
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 198.797,
+"t1": 205.872,
+"from": [
+260,
+1100,
+0.8
+],
+"to": [
+260,
+160,
+0.8
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.42,
+"t1": 2.95,
+"text": "DINNER · DAY THREE",
+"color": "#ffd84a"
+},
+{
+"t0": 6.978,
+"t1": 10.826,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 15.012,
+"t1": 16.656,
+"text": "FIRST LOSS",
+"color": "#ff5a4a"
+},
+{
+"t0": 20.371,
+"t1": 24.156,
+"text": "JOB: HIDING PEOPLE",
+"color": "#ffd84a"
+},
+{
+"t0": 26.224,
+"t1": 31.304,
+"text": "RULE: BANG TRAY · CALL NAME → RETURN",
+"color": "#ffd84a"
+},
+{
+"t0": 31.737,
+"t1": 40.195,
+"text": "DEADLINE: DAWN, DAY FOUR",
+"color": "#ff5a4a"
+},
+{
+"t0": 43.133,
+"t1": 45.592,
+"text": "APT 27-08",
+"color": "#ffffff"
+},
+{
+"t0": 49.592,
+"t1": 51.556,
+"text": "3 PEOPLE · 3 SCREENS",
+"color": "#ffd84a"
+},
+{
+"t0": 51.802,
+"t1": 56.721,
+"text": "FENG SHUI BRASS TRAY",
+"color": "#ffd84a"
+},
+{
+"t0": 62.814,
+"t1": 63.503,
+"text": "EASY.",
+"color": "#ffffff"
+},
+{
+"t0": 63.503,
+"t1": 64.33,
+"text": "DAY 1",
+"color": "#ffffff"
+},
+{
+"t0": 64.433,
+"t1": 64.785,
+"text": "9:00 PM",
+"color": "#ffd84a"
+},
+{
+"t0": 64.785,
+"t1": 65.157,
+"text": "10:00 PM",
+"color": "#ffd84a"
+},
+{
+"t0": 65.157,
+"t1": 65.82,
+"text": "MIDNIGHT",
+"color": "#ff5a4a"
+},
+{
+"t0": 66.024,
+"t1": 70.142,
+"text": "DAY 1 · 0 CALLS",
+"color": "#ff5a4a"
+},
+{
+"t0": 76.194,
+"t1": 79.383,
+"text": "DAY 2",
+"color": "#ffffff"
+},
+{
+"t0": 79.383,
+"t1": 82.787,
+"text": "LEAVE AT STAIRWELL",
+"color": "#ffd84a"
+},
+{
+"t0": 84.169,
+"t1": 87.077,
+"text": "SECRET BASE",
+"color": "#7dff9a"
+},
+{
+"t0": 91.721,
+"t1": 94.083,
+"text": "MUD BIN",
+"color": "#ffd84a"
+},
+{
+"t0": 94.083,
+"t1": 97.481,
+"text": "OBVIOUSLY FAKE",
+"color": "#ffffff"
+},
+{
+"t0": 99.594,
+"t1": 102.412,
+"text": "A WEEK OF HOMEWORK DONE",
+"color": "#7dff9a"
+},
+{
+"t0": 102.976,
+"t1": 104.776,
+"text": "GOOD AS A STATUE",
+"color": "#ffd84a"
+},
+{
+"t0": 110.756,
+"t1": 112.691,
+"text": "BETTER BEHAVED",
+"color": "#ff5a4a"
+},
+{
+"t0": 133.212,
+"t1": 136.346,
+"text": "I'LL GO HOME TOMORROW",
+"color": "#ffd84a"
+},
+{
+"t0": 139.19,
+"t1": 141.02,
+"text": "2:00 AM",
+"color": "#ffd84a"
+},
+{
+"t0": 141.02,
+"t1": 144.015,
+"text": "3 HOURS LEFT",
+"color": "#ff5a4a"
+},
+{
+"t0": 156.927,
+"t1": 158.065,
+"text": "BANG!",
+"color": "#ffd84a"
+},
+{
+"t0": 160.246,
+"t1": 163.344,
+"text": "CALLED HIM… FOR A FLASHLIGHT",
+"color": "#ffffff"
+},
+{
+"t0": 163.654,
+"t1": 165.513,
+"text": "TRAY BANGED ✔ · NAME CALLED ✔",
+"color": "#7dff9a"
+},
+{
+"t0": 165.513,
+"t1": 166.692,
+"text": "→ RETURN",
+"color": "#ffd84a"
+},
+{
+"t0": 181.479,
+"t1": 183.9,
+"text": "BACK TO THEIR PHONES",
+"color": "#ff5a4a"
+},
+{
+"t0": 185.568,
+"t1": 187.534,
+"text": "MA GIAU SCHOOL — WE MAKE GOOD KIDS",
+"color": "#ffd84a"
+},
+{
+"t0": 191.843,
+"t1": 198.797,
+"text": "NEXT TIME",
+"color": "#ffd84a"
+},
+{
+"t0": 199.091,
+"t1": 205.872,
+"text": "SUBSCRIBE",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.42,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 1.02,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 1.62,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 10.826,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 11.105,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.35
+},
+{
+"t": 27.053,
+"src": "p04/sfx/boong.wav",
+"vol": 0.7
+},
+{
+"t": 31.737,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 39.513,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 45.878,
+"src": "p04/sfx/hop.wav",
+"vol": 0.6
+},
+{
+"t": 47.306,
+"src": "p04/sfx/chotdon.wav",
+"vol": 0.6
+},
+{
+"t": 53.276,
+"src": "p04/sfx/boong.wav",
+"vol": 0.35
+},
+{
+"t": 56.225,
+"src": "sh6/sfx/pops.wav",
+"vol": 0.5
+},
+{
+"t": 54.505,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 55.734,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 60.176,
+"src": "p04/sfx/cua.wav",
+"vol": 0.7
+},
+{
+"t": 64.433,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 64.785,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 65.157,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 79.383,
+"src": "p04/sfx/ting.wav",
+"vol": 0.7
+},
+{
+"t": 90.148,
+"src": "p04/sfx/nan.wav",
+"vol": 0.6
+},
+{
+"t": 91.565,
+"src": "p04/sfx/nan.wav",
+"vol": 0.6
+},
+{
+"t": 105.895,
+"src": "sh6/sfx/pops.wav",
+"vol": 0.5
+},
+{
+"t": 106.268,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 107.573,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 110.756,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.4
+},
+{
+"t": 118.978,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 119.528,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 120.078,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 125.764,
+"src": "p04/sfx/hop.wav",
+"vol": 0.4
+},
+{
+"t": 139.19,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 140.106,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 141.02,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 141.935,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 142.851,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 143.308,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 143.537,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 145.214,
+"src": "p04/sfx/cauda.wav",
+"vol": 1
+},
+{
+"t": 145.295,
+"src": "p02/sfx/mayoff.wav",
+"vol": 0.5
+},
+{
+"t": 147.403,
+"src": "p04/sfx/dapcua.wav",
+"vol": 0.9
+},
+{
+"t": 147.919,
+"src": "p04/sfx/dapcua.wav",
+"vol": 0.9
+},
+{
+"t": 148.433,
+"src": "p04/sfx/dapcua.wav",
+"vol": 1
+},
+{
+"t": 156.927,
+"src": "p04/sfx/boong2.wav",
+"vol": 1
+},
+{
+"t": 166.692,
+"src": "p04/sfx/cua.wav",
+"vol": 0.5
+},
+{
+"t": 168.758,
+"src": "p03/sfx/sang.wav",
+"vol": 0.4
+},
+{
+"t": 172.041,
+"src": "p04/sfx/dat.wav",
+"vol": 0.7
+},
+{
+"t": 186.873,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 191.843,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 204.555,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 4.3,
+"dur": 2.268,
+"text": "Hurry up and eat, Bin. Mom's live."
+},
+{
+"t": 6.818,
+"dur": 3.208,
+"text": "Keep rushing him. He could chew all day… you still won't hear a thing."
+},
+{
+"t": 10.826,
+"dur": 5.58,
+"text": "Back again, huh? Today's guest hides people for a living. First loss in eight hundred years."
+},
+{
+"t": 16.656,
+"dur": 1.699,
+"text": "And it still doesn't know who beat it."
+},
+{
+"t": 18.855,
+"dur": 5.05,
+"text": "I'm a ma giau — a hiding ghost. I hide people, mostly kids who won't quit playing."
+},
+{
+"t": 24.156,
+"dur": 6.899,
+"text": "Simple rules. I hide them, their family looks. Bang the brass tray, call their name. One bang and I bring them back. That's a game."
+},
+{
+"t": 31.304,
+"dur": 8.642,
+"text": "There's a deadline, too. The family has to look before dawn on day four. If nobody comes, the kid walks home, and eight hundred years at my job… becomes a joke."
+},
+{
+"t": 40.195,
+"dur": 4.896,
+"text": "Eight hundred years without a single miss. Then apartment two seven zero eight."
+},
+{
+"t": 45.592,
+"dur": 5.714,
+"text": "Dad's on a video call. Mom's livestreaming. The kid's gaming. Three people, three screens, one couch."
+},
+{
+"t": 51.556,
+"dur": 4.915,
+"text": "Feng shui brass tray! One bang brings good fortune! Just three left! Sold!"
+},
+{
+"t": 56.721,
+"dur": 6.282,
+"text": "Friday night, Bin skips homework to game in the stairwell. I shut the door and hide him from the whole family. Easy."
+},
+{
+"t": 63.503,
+"dur": 2.068,
+"text": "I waited for the tray. Nine. Ten. Midnight."
+},
+{
+"t": 65.82,
+"dur": 4.071,
+"text": "No one banged. Dad thought Bin was with Mom. Mom thought Bin was with Dad."
+},
+{
+"t": 70.142,
+"dur": 3.241,
+"text": "You skipping homework too, mister? Can you get our Wi-Fi out here?"
+},
+{
+"t": 73.632,
+"dur": 2.061,
+"text": "Eight hundred years, and nobody's asked me that."
+},
+{
+"t": 76.194,
+"dur": 10.634,
+"text": "Day two, Bin ordered milk tea, with a note: leave it by the stairwell door on floor twenty-seven. He borrowed power from a maintenance outlet. Called this place his secret base."
+},
+{
+"t": 87.077,
+"dur": 1.783,
+"text": "Am I a hiding ghost or a babysitter?"
+},
+{
+"t": 89.36,
+"dur": 7.87,
+"text": "I made a Bin out of plant-pot dirt and sent him to the couch. Two little seed eyes. Obviously fake. His family would spot him and go looking."
+},
+{
+"t": 97.481,
+"dur": 7.045,
+"text": "By day three, the mud kid had finished a whole week's homework. No arguing. No phone requests. Good as a statue."
+},
+{
+"t": 104.776,
+"dur": 3.729,
+"text": "Our kid's so responsible, everyone! Secret's in the link below."
+},
+{
+"t": 108.755,
+"dur": 3.337,
+"text": "His family noticed, all right. They noticed… this kid behaved better."
+},
+{
+"t": 112.691,
+"dur": 3.962,
+"text": "Dinner on day three. The mud kid sat in the right seat, holding the right tablet."
+},
+{
+"t": 116.903,
+"dur": 1.665,
+"text": "Four people. Three chewing sounds."
+},
+{
+"t": 121.318,
+"dur": 2.539,
+"text": "Bin's so good today. Hasn't asked for a thing."
+},
+{
+"t": 124.106,
+"dur": 2.072,
+"text": "Yeah. I'm gonna turn my camera off."
+},
+{
+"t": 126.428,
+"dur": 3.549,
+"text": "I stood out on the balcony. For the first time in my life… I was scared."
+},
+{
+"t": 131.977,
+"dur": 4.119,
+"text": "I'm out of milk tea. I'll go home in the morning. Did my mom ask about me?"
+},
+{
+"t": 136.346,
+"dur": 2.045,
+"text": "I didn't answer. I hide people. I don't lie."
+},
+{
+"t": 139.19,
+"dur": 4.575,
+"text": "Two a.m. Three hours till dawn. If this family won't bang the tray, I'll make them."
+},
+{
+"t": 144.015,
+"dur": 1.599,
+"text": "I cut the power to the whole floor."
+},
+{
+"t": 146.115,
+"dur": 2.576,
+"text": "Then I banged on the stairwell door. Bang. Bang. Bang."
+},
+{
+"t": 148.942,
+"dur": 8.874,
+"text": "Mom thought a thief was stealing her stock. She grabbed the nearest thing on the shelf: the feng shui brass tray. And slammed it into the stairwell door."
+},
+{
+"t": 158.065,
+"dur": 1.931,
+"text": "Where's Bin? Get Mom the flashlight!"
+},
+{
+"t": 160.246,
+"dur": 6.196,
+"text": "She called his name to make him fetch a flashlight. The rules don't ask why. Tray bang, name called. I return him."
+},
+{
+"t": 166.692,
+"dur": 1.466,
+"text": "Mom… were you looking for me?"
+},
+{
+"t": 168.758,
+"dur": 5.294,
+"text": "By morning, sunlight hit the couch. The mud kid crumbled into a pile of potting soil."
+},
+{
+"t": 174.302,
+"dur": 1.71,
+"text": "What a shame. He was so good."
+},
+{
+"t": 176.412,
+"dur": 7.238,
+"text": "The real Bin got two sentences into his three days at the secret base. Then everyone looked back down at their phones."
+},
+{
+"t": 183.9,
+"dur": 3.033,
+"text": "The mud kid made the honor roll. I'm thinking of opening a school."
+},
+{
+"t": 187.534,
+"dur": 3.502,
+"text": "At dinner tonight, count how many chewing sounds your family makes."
+},
+{
+"t": 191.635,
+"dur": 6.912,
+"text": "Next time: an illegal sand dock in flood season, and a ma da — river ghost — stuck on shift for seven years."
+},
+{
+"t": 198.797,
+"dur": 5.875,
+"text": "Hit subscribe. Or tomorrow, when your mom bangs the tray, the one who comes back might not be you."
+}
+],
+"comments": [
+{
+"t": 54.505,
+"u": "@taylor.h",
+"c": "I'll take one, girl!",
+"end": 56.721
+},
+{
+"t": 55.734,
+"u": "@nina.b",
+"c": "DM me the price",
+"end": 56.721
+},
+{
+"t": 106.268,
+"u": "@mom.su",
+"c": "What's the secret? 😍",
+"end": 108.755
+},
+{
+"t": 107.573,
+"u": "@hannah.n",
+"c": "Link please!!!",
+"end": 108.755
+}
+],
+"voice": [
+{
+"t": 4.3,
+"src": "loc/en/vo/f1bb506d6a.wav"
+},
+{
+"t": 6.818,
+"src": "loc/en/vo/9d01a620c2.wav"
+},
+{
+"t": 10.826,
+"src": "loc/en/vo/7164f431c7.wav"
+},
+{
+"t": 16.656,
+"src": "loc/en/vo/d36b985648.wav"
+},
+{
+"t": 18.855,
+"src": "loc/en/vo/4f0b2c746e.wav"
+},
+{
+"t": 24.156,
+"src": "loc/en/vo/1ba4f9bfce.wav"
+},
+{
+"t": 31.304,
+"src": "loc/en/vo/56797b4171.wav"
+},
+{
+"t": 40.195,
+"src": "loc/en/vo/bbbab39297.wav"
+},
+{
+"t": 45.592,
+"src": "loc/en/vo/af4ca5b5f6.wav"
+},
+{
+"t": 51.556,
+"src": "loc/en/vo/bfe20a928a.wav"
+},
+{
+"t": 56.721,
+"src": "loc/en/vo/2587dce9a3.wav"
+},
+{
+"t": 63.503,
+"src": "loc/en/vo/efe1c49521.wav"
+},
+{
+"t": 65.82,
+"src": "loc/en/vo/08afce9f6f.wav"
+},
+{
+"t": 70.142,
+"src": "loc/en/vo/ba2f1229c1.wav"
+},
+{
+"t": 73.632,
+"src": "loc/en/vo/9f0a7381ea.wav"
+},
+{
+"t": 76.194,
+"src": "loc/en/vo/75c5686b61.wav"
+},
+{
+"t": 87.077,
+"src": "loc/en/vo/963c37419b.wav"
+},
+{
+"t": 89.36,
+"src": "loc/en/vo/02c4111ffa.wav"
+},
+{
+"t": 97.481,
+"src": "loc/en/vo/5803056af2.wav"
+},
+{
+"t": 104.776,
+"src": "loc/en/vo/8b316ad6b6.wav"
+},
+{
+"t": 108.755,
+"src": "loc/en/vo/c8a813a1f9.wav"
+},
+{
+"t": 112.691,
+"src": "loc/en/vo/4a0d368423.wav"
+},
+{
+"t": 116.903,
+"src": "loc/en/vo/6ece1e7a1d.wav"
+},
+{
+"t": 121.318,
+"src": "loc/en/vo/90bade3405.wav"
+},
+{
+"t": 124.106,
+"src": "loc/en/vo/ec9ff58369.wav"
+},
+{
+"t": 126.428,
+"src": "loc/en/vo/3c130f3596.wav"
+},
+{
+"t": 131.977,
+"src": "loc/en/vo/8a7b8fa411.wav"
+},
+{
+"t": 136.346,
+"src": "loc/en/vo/96260a7485.wav"
+},
+{
+"t": 139.19,
+"src": "loc/en/vo/f5660c2191.wav"
+},
+{
+"t": 144.015,
+"src": "loc/en/vo/5db8aaacef.wav"
+},
+{
+"t": 146.115,
+"src": "loc/en/vo/6aebafcac3.wav"
+},
+{
+"t": 148.942,
+"src": "loc/en/vo/127096e98d.wav"
+},
+{
+"t": 158.065,
+"src": "loc/en/vo/c7b5528a02.wav"
+},
+{
+"t": 160.246,
+"src": "loc/en/vo/f38172f443.wav"
+},
+{
+"t": 166.692,
+"src": "loc/en/vo/ef9c2ba568.wav"
+},
+{
+"t": 168.758,
+"src": "loc/en/vo/36c6a52eb3.wav"
+},
+{
+"t": 174.302,
+"src": "loc/en/vo/95d97c9ac7.wav"
+},
+{
+"t": 176.412,
+"src": "loc/en/vo/0789be23cc.wav"
+},
+{
+"t": 183.9,
+"src": "loc/en/vo/0e12945a0c.wav"
+},
+{
+"t": 187.534,
+"src": "loc/en/vo/ef8dd8448d.wav"
+},
+{
+"t": 191.635,
+"src": "loc/en/vo/1762c8714b.wav"
+},
+{
+"t": 198.797,
+"src": "loc/en/vo/de807bdce4.wav"
+}
+],
+"mutes": [
+[
+0.1,
+2.95
+],
+[
+2.75,
+4.3
+],
+[
+4.1,
+6.818
+],
+[
+112.491,
+116.903
+],
+[
+116.703,
+118.868
+],
+[
+118.668,
+121.318
+],
+[
+121.118,
+124.106
+],
+[
+123.906,
+126.428
+],
+[
+126.228,
+131.977
+],
+[
+131.777,
+136.346
+],
+[
+136.146,
+139.19
+],
+[
+138.99,
+144.015
+],
+[
+143.815,
+146.115
+],
+[
+145.915,
+148.942
+],
+[
+148.742,
+158.065
+],
+[
+157.865,
+160.246
+]
+],
+"live": [
+[
+4.3,
+6.818
+],
+[
+51.556,
+56.721
+],
+[
+104.776,
+108.755
+]
+],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

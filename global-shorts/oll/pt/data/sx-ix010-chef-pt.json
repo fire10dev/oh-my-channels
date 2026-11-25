@@ -1,0 +1,67 @@
+{
+ "title": "Quem cozinha para oficiais de mísseis nucleares a 18 metros de profundidade",
+ "hook": "ALMOÇO NO SUBSOLO",
+ "asof": "Dados da Força Aérea dos EUA e do Serviço Nacional de Parques",
+ "world": "capsule",
+ "long": "IX010",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "HORA 6",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "A 18 metros de profundidade, não há cozinha.",
+     "v": "capsule"
+    },
+    {
+     "s": "Esses oficiais protegem mísseis nucleares por 24 horas seguidas.",
+     "v": "console",
+     "you": "console"
+    },
+    {
+     "s": "Então, quem alimenta essa equipe?",
+     "v": "meal"
+    },
+    {
+     "s": "Lá em cima, num prédio que parece uma casa de fazenda,",
+     "v": "house"
+    },
+    {
+     "s": "um cozinheiro de mísseis prepara comida para todos no local.",
+     "v": "kitchen",
+     "you": "chef"
+    },
+    {
+     "s": "Um cozinheiro sozinho atende de 10 a 20 pessoas.",
+     "v": "kitchen",
+     "st": [
+      "1 COZINHEIRO",
+      "10–20 pessoas · Minot"
+     ]
+    },
+    {
+     "s": "A equipe escolhe o cardápio antes de descer.",
+     "v": "meal"
+    },
+    {
+     "s": "Depois, o cozinheiro leva a comida em horários definidos.",
+     "v": "meal",
+     "plane": "meal"
+    },
+    {
+     "s": "Para muitas equipes, esse é o único rosto que veem no dia.",
+     "v": "meal",
+     "plane": "meal",
+     "you": "capsule"
+    },
+    {
+     "s": "Você aceitaria esse trabalho?",
+     "v": "kitchen",
+     "you": "chef"
+    }
+   ]
+  }
+ ]
+}

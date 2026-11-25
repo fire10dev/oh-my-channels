@@ -1,0 +1,12 @@
+{"id":"w007","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#e11d48","cover_frame":60,
+ "source":"Length & width: CIA World Factbook · Encyclopaedia Britannica","music":"shared/library/music/yt-audio-library/Exploring The Crystal Caves - Asher Fulero.mp3",
+ "beats":[
+  {"say":"Chile is the strangest shaped country on Earth.","title":"CHILE MAKES NO SENSE","cam":{"lon":-70,"lat":-35,"span":45},"hl":[{"a3":"CHL","color":"#e11d48"}]},
+  {"say":"It's about four thousand three hundred kilometers long, but on average only around one hundred eighty kilometers wide.","cam":{"lon":-70,"lat":-35,"span":45},"hl":[{"a3":"CHL","color":"#e11d48"}],
+   "bars":{"unit":" km","items":[{"label":"Length","value":4300,"color":"#e11d48"},{"label":"Average width","value":180,"color":"#ffd23f"}]}},
+  {"say":"Now drop it on Europe, at the same size.","cam":{"lon":5,"lat":45,"span":60},"ghost":{"a3":"CHL","to":[12,50],"color":"#e11d48"}},
+  {"say":"It would stretch from the Arctic in Norway almost down to North Africa.","cam":{"lon":10,"lat":50,"span":55},"ghost":{"a3":"CHL","to":[12,50],"color":"#e11d48"}},
+  {"say":"In the north, the Atacama, one of the driest deserts on Earth. In the south, glaciers and fjords.","cam":{"lon":-70,"lat":-35,"span":45},"hl":[{"a3":"CHL","color":"#e11d48"}],
+   "pins":[{"lon":-69.5,"lat":-23.5,"text":"Atacama Desert"},{"lon":-73.5,"lat":-50.5,"text":"Glaciers"}]},
+  {"say":"One country, almost every climate on the planet. Follow for more.","title":"ONE COUNTRY. EVERY CLIMATE.","cam":{"lon":-70,"lat":-35,"span":45},"hl":[{"a3":"CHL","color":"#e11d48"}]}
+ ]}

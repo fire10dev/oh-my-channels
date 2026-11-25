@@ -1,0 +1,78 @@
+{
+ "title": "Comment les pilotes de B-2 font pipi en mission pendant 44 heures",
+ "hook": "DEUX SACS PAR HEURE",
+ "asof": "Chiffres des missions de 2001 et 2025",
+ "world": "bomber",
+ "long": "IX008",
+ "chapters": [
+  {
+   "id": "toilet",
+   "hud": "HEURE 30",
+   "chip": "00:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Quarante-quatre heures en bombardier. Tu fais comment ?",
+     "v": "toilet",
+     "you": "toilet"
+    },
+    {
+     "s": "En 2001, un équipage de B-2 a volé 44,3 heures sans escale.",
+     "v": "sky",
+     "st": [
+      "44,3 H",
+      "Oct. 2001"
+     ]
+    },
+    {
+     "s": "L’air là-haut est si sec que les pilotes boivent sans arrêt.",
+     "v": "water",
+     "you": "seats"
+    },
+    {
+     "s": "L’avion a un petit cabinet chimique.",
+     "v": "toilet",
+     "you": "toilet"
+    },
+    {
+     "s": "Il ne pouvait pas tenir pour 44 heures.",
+     "v": "toilet"
+    },
+    {
+     "s": "Alors l’équipage utilisait des sacs à pipi.",
+     "v": "packs",
+     "plane": "packs:6"
+    },
+    {
+     "s": "Ils contiennent une poudre qui transforme l’urine en gel.",
+     "v": "packs",
+     "plane": "packs:6"
+    },
+    {
+     "s": "Le pilote dit qu’ils en remplissaient environ deux par heure.",
+     "v": "packs",
+     "plane": "packs:20",
+     "st": [
+      "2 PAR HEURE",
+      "sacs à pipi"
+     ]
+    },
+    {
+     "s": "Puis ils ont calculé combien de kilos il faudrait décharger.",
+     "v": "packs",
+     "plane": "packs:40"
+    },
+    {
+     "s": "Pas de douche. Pas de vêtements de rechange.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "Tu tiendrais 44 heures comme ça ?",
+     "v": "cockpit",
+     "you": "seats"
+    }
+   ]
+  }
+ ]
+}

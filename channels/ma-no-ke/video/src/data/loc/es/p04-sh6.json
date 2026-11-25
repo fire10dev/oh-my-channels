@@ -1,0 +1,385 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 30.633,
+"shots": [
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 2.65,
+"a": [
+448,
+576,
+648
+],
+"b": [
+448,
+600,
+460
+],
+"dark": 0.15
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 2.65,
+"t1": 4.974,
+"a": [
+400,
+576,
+648
+],
+"b": [
+450,
+576,
+648
+],
+"blur": 14,
+"dark": 0.5
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 4.974,
+"t1": 8.962,
+"a": [
+560,
+700,
+760
+],
+"b": [
+540,
+660,
+560
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 8.962,
+"t1": 11.609,
+"a": [
+1000,
+743,
+460
+],
+"b": [
+960,
+849,
+340
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 11.609,
+"t1": 13.859,
+"a": [
+1020,
+480,
+340
+],
+"b": [
+1020,
+460,
+340
+],
+"dark": 0.2
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.859,
+"t1": 16.522,
+"a": [
+448,
+520,
+460
+],
+"b": [
+448,
+500,
+340
+]
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.522,
+"t1": 18.398,
+"a": [
+512,
+480,
+340
+],
+"b": [
+512,
+470,
+340
+]
+},
+{
+"img": "p04/img/G06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 18.398,
+"t1": 23.023,
+"a": [
+1480,
+440,
+460
+],
+"b": [
+1480,
+440,
+340
+]
+},
+{
+"img": "p04/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.023,
+"t1": 30.233,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p04/img/cut_G11_1.png",
+"size": 412,
+"t0": 2.65,
+"t1": 4.974,
+"from": [
+268,
+808,
+1.323
+],
+"to": [
+268,
+768,
+1.323
+],
+"bob": false,
+"wob": 2
+},
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 23.023,
+"t1": 30.233,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.12,
+"t1": 2.65,
+"text": "4 PERSONAS · 3 SONIDOS AL MASTICAR",
+"color": "#ffd84a"
+},
+{
+"t0": 5.148,
+"t1": 8.962,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 23.023,
+"t1": 26.628,
+"text": "¿DÓNDE ESTÁ EL BIN DE VERDAD?",
+"color": "#ffd84a"
+},
+{
+"t0": 26.628,
+"t1": 30.233,
+"text": "▼ EPISODIO COMPLETO: ENLACE ABAJO",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.12,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 0.72,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 1.32,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 11.709,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 12.209,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 12.709,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 17.823,
+"src": "p04/sfx/hop.wav",
+"vol": 0.4
+},
+{
+"t": 23.023,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 28.913,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 2.65,
+"dur": 2.074,
+"text": "Come y apúrate, Bin. Mamá está en vivo."
+},
+{
+"t": 4.974,
+"dur": 3.489,
+"text": "Sigue apurándolo. Puede masticar toda la vida… no vas a oír nada."
+},
+{
+"t": 8.962,
+"dur": 2.347,
+"text": "Cuatro personas. Tres sonidos al masticar."
+},
+{
+"t": 13.859,
+"dur": 2.413,
+"text": "Bin se porta tan bien hoy. No ha pedido nada."
+},
+{
+"t": 16.522,
+"dur": 1.626,
+"text": "Sí. Voy a apagar la cámara."
+},
+{
+"t": 18.398,
+"dur": 3.125,
+"text": "Me quedé en el balcón. Por primera vez en mi vida… tuve miedo."
+},
+{
+"t": 23.023,
+"dur": 6.011,
+"text": "Mamá dice que Bin se porta bien. Entonces, ¿dónde está el Bin de verdad? Episodio completo: enlace abajo."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 2.65,
+"src": "loc/es/vo/cfe1103404.wav"
+},
+{
+"t": 4.974,
+"src": "loc/es/vo/89c2a81d34.wav"
+},
+{
+"t": 8.962,
+"src": "loc/es/vo/8dbd624014.wav"
+},
+{
+"t": 13.859,
+"src": "loc/es/vo/30433eb211.wav"
+},
+{
+"t": 16.522,
+"src": "loc/es/vo/2cb5af5190.wav"
+},
+{
+"t": 18.398,
+"src": "loc/es/vo/27cb459239.wav"
+},
+{
+"t": 23.023,
+"src": "loc/es/vo/23cc6fe174.wav"
+}
+],
+"mutes": [
+[
+0.0,
+2.65
+],
+[
+2.45,
+4.974
+],
+[
+8.762,
+11.609
+],
+[
+11.409,
+13.859
+],
+[
+13.659,
+16.522
+],
+[
+16.322,
+18.398
+],
+[
+18.198,
+23.023
+]
+],
+"live": [
+[
+2.65,
+4.974
+]
+],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

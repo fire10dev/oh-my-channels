@@ -1,0 +1,976 @@
+{
+ "id": "L16",
+ "lang": "en",
+ "title": "Why You Feel Guilty Spending on Yourself (8 Traps)",
+ "description": "Do you hesitate before buying nice shoes or even an extra coffee? Here are eight psychological reasons spending on yourself triggers instant guilt and how to reframe your budget. Learn to separate thoughtful spending from automatic self-denial.",
+ "chapters": [
+  {
+   "title": "Why Spending Hurts",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You tap your card for a twelve dollar lunch, look down, and feel like you stole from your future.",
+     "text": "WHY SPENDING HURTS",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. You earned that money, but your brain treats lunch like an armed bank robbery.",
+     "text": "THE ROBBERY ALARM",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does buying basic comfort feel like I am failing my family or future self?",
+     "text": "WHO DID I FAIL?",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because your survival wiring turns normal self-care into high-stakes moral danger.",
+     "text": "SURVIVAL WIRING",
+     "color": "gold",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I enjoy what I earn without that constant wave of regret?",
+     "text": "STOPPING THE REGRET",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Eight hidden alarms are hijacking your wallet, but we can retrain every single one.",
+     "text": "8 HIDDEN TRAPS",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Show me the first trap, because every time I tap that payment terminal, my stomach drops.",
+     "text": "FIRST REP: UNLOCK",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    }
+   ]
+  },
+  {
+   "title": "1. Pain of Paying",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Every time I hand over cash or check my bank balance, I flinch.",
+     "text": "1. PAIN OF PAYING",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That flinch is real. Your brain registers paying cash as an immediate physical loss.",
+     "text": "PAIN IS NEURAL",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So buying lunch feels like getting a paper cut on my wallet?",
+     "text": "WALLET PAPERCUT?",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Your brain interprets spending as lost security, firing alarm signals similar to physical pain.",
+     "text": "LOSS ALARM FIRES",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Especially when money feels tight or when family pressures weigh heavily on my mind.",
+     "text": "FAMILY PRESSURE",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When you watch your balance drop in real time, the mental burn doubles.",
+     "text": "REAL-TIME BURN",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I stop flinching every time I buy something I genuinely need?",
+     "text": "HOW TO STOP PAIN?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Preload a dedicated weekly spending account. When money is fenced off beforehand, spending it follows your plan.",
+     "text": "PRE-AUTHORIZE IT",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So if I set aside fifty dollars on Monday, that money has explicit permission to be spent?",
+     "text": "PLANNED PERMISSION",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. You authorized the rep in advance, so executing it brings zero shame.",
+     "text": "ZERO GUILT REP",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So pre-authorizing the expense takes the immediate sting out of payment.",
+     "text": "THE STING IS GONE",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spot on. But once cash sits safely in your balance, your mind starts building fake walls around it.",
+     "text": "IMAGINARY WALLS",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "brain"
+    }
+   ]
+  },
+  {
+   "title": "2. Mental Budgeting",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I will easily spend fifty dollars treating friends to dinner, but agonize over eight dollars for fresh undershirts.",
+     "text": "2. MENTAL BUDGETING",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Classic mental budgeting. Your brain creates fake accounts in your head and guards them with totally different rules.",
+     "text": "FAKE ACCOUNTS",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why do I treat fifty dollars in one category as nothing, but eight dollars elsewhere as reckless?",
+     "text": "ARBITRARY RULES",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because social dinners get tagged as essential bonding, while personal comfort gets tagged as selfish indulgence.",
+     "text": "BONDING VS SELFISH",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even though all that cash comes out of the exact same bank balance.",
+     "text": "SAME ONE BALANCE",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. Money is fungible, but your mind treats every dollar like it has a personal moral destiny.",
+     "text": "FUNGIBLE TRUTH",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I break these rigid mental buckets so I can buy basic necessities guilt-free?",
+     "text": "BREAKING BUCKETS",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Create an explicit maintenance category. Quality gear, comfortable bedding, and nutritious groceries belong in essential upkeep.",
+     "text": "MAINTENANCE FUND",
+     "color": "green",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So framing it as maintenance makes it an operational cost rather than a reward?",
+     "text": "OPERATIONAL COST",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You service your car so it runs, and you service your body so you do not break down.",
+     "text": "SERVICE THE ENGINE",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Categorizing personal care as maintenance stops me from feeling like a criminal.",
+     "text": "ESSENTIAL UPKEEP",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Right. But watch what happens the minute that maintenance money lands in your savings account.",
+     "text": "SAVINGS GET FROZEN",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "3. Endowment Effect",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Once cash enters my savings account, taking even fifty dollars back out feels like losing a possession.",
+     "text": "3. ENDOWMENT EFFECT",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Endowment effect. Once savings sit untouched, your brain stops seeing buying power and guards balance like territory.",
+     "text": "GUARDING TERRITORY",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So the number on the screen starts feeling like private property I have to defend?",
+     "text": "DEFENDING A NUMBER",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Spending feels like a defeat because your mind treats your account balance as an earned trophy.",
+     "text": "THE TROPHY TRAP",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So even if I saved that money specifically to buy a new work computer, spending it hurts.",
+     "text": "SAVED BUT FROZEN",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spot on. Your mind attaches to the highest balance you hit, turning savings into frozen museum pieces.",
+     "text": "MUSEUM MONEY",
+     "color": "red",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I get my brain to let go and use money for its intended mission?",
+     "text": "UNFREEZING FUNDS",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Set an expiration trigger on savings goals. When your fund hits the target, spend it within two weeks.",
+     "text": "EXPIRATION TRIGGER",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So give myself a two-week window to buy the item before the money turns untouchable?",
+     "text": "TWO-WEEK WINDOW",
+     "color": "ink",
+     "actor": "writing",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Deadlines force action. Money is a tool to be deployed, not a trophy on a shelf.",
+     "text": "DEPLOY THE TOOL",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Setting an expiration date makes spending feel like following through instead of losing ground.",
+     "text": "FOLLOWING THROUGH",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. But even when savings are freed, you still face the heavy shadow of family expectations.",
+     "text": "FAMILY EXPECTATIONS",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "4. Guilt Aversion",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Whenever I buy new work shoes, I feel guilty thinking I should have sent that cash to family.",
+     "text": "4. GUILT AVERSION",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is guilt aversion. You avoid personal choices simply to dodge anticipated moral regret.",
+     "text": "AVOIDING REGRET",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Every dollar I spend on myself feels stolen from my parents, like I am being selfish.",
+     "text": "STOLEN FROM FAMILY",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain imagines someone shaking their head in disapproval, and you punish yourself in advance.",
+     "text": "PUNISHING IN ADVANCE",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even if my parents never actually asked for that specific fifty dollars?",
+     "text": "UNSPOKEN RULES",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghost expectations are always heavier than reality. You carry debts that nobody actually billed.",
+     "text": "GHOST EXPECTATIONS",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I balance being a supportive family member with taking care of my own basic life?",
+     "text": "BALANCING BOTH",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Automate your family support first, then treat personal upkeep as protecting the provider. A broken provider protects nobody.",
+     "text": "PROTECT THE PROVIDER",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So taking care of my health and basic gear actually strengthens my ability to help back home?",
+     "text": "STRENGTHENING HOME",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spot on. If you run yourself into the ground, the entire family loses its safety net.",
+     "text": "KEEP ENGINE RUNNING",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Protecting the provider means taking care of myself is part of helping my family.",
+     "text": "MUTUAL RESILIENCE",
+     "color": "ink",
+     "actor": "meditating",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "You got it. Yet even with duty covered, childhood survival habits can still hijack your cart.",
+     "text": "OLD HABITS LURK",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "low_battery"
+    }
+   ]
+  },
+  {
+   "title": "5. Scarcity Mindset",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Even with a steady paycheck, I spend twenty minutes agonizing over five-dollar shampoo.",
+     "text": "5. SCARCITY MINDSET",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Scarcity mindset. When you grow up watching every penny, your brain treats every routine expense like an emergency.",
+     "text": "EVERYDAY EMERGENCY",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So my nervous system is still reacting to old financial stress that is no longer happening?",
+     "text": "FIGHTING OLD GHOSTS",
+     "color": "ink",
+     "actor": "panic",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Scarcity creates tunnel vision. Your mind treats five-dollar shampoo like an urgent threat to your survival.",
+     "text": "TUNNEL VISION",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I end up suffering through cheap shoes that ruin my posture, thinking I am being virtuous.",
+     "text": "EXPENSIVE SUFFERING",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Classic trap. Saving ten dollars on terrible shoes only to replace them every month is fake thrift.",
+     "text": "FALSE FRUGALITY",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I convince my survival instincts that my actual financial reality has improved?",
+     "text": "UPDATING REALITY",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Run small calibration tests. Upgrade one everyday grocery item by two dollars this week to test your reaction.",
+     "text": "CALIBRATION TESTS",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Like buying fresh fruit instead of picking through the bruised discount pile?",
+     "text": "TINY UPGRADES",
+     "color": "ink",
+     "actor": "snack",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "One small upgrade. Notice that your bank balance survives and your daily energy actually improves.",
+     "text": "THE SKY STAYS UP",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Small calibration tests show my brain that spending two extra dollars does not cause ruin.",
+     "text": "REALITY CONFIRMED",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. But once you start buying better goods, a new voice whispers that you are getting vain.",
+     "text": "VANITY WHISPERS",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "6. Self-Signaling",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "When I buy a slightly nicer coat, I instantly worry that I am turning into a shallow person.",
+     "text": "6. SELF-SIGNALING",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Self-signaling. You treat every receipt like a moral report card, proving you are still humble and disciplined.",
+     "text": "MORAL REPORT CARD",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So I believe shivering in an old coat proves I have superior work ethic?",
+     "text": "SUFFERING AS VIRTUE",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "You confuse deprivation with character. Enduring unnecessary pain does not make you a better person.",
+     "text": "PAIN IS NOT VIRTUE",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "It is true. I feel like deliberate discomfort is proof that I possess real discipline.",
+     "text": "DISCIPLINE TRAP",
+     "color": "ink",
+     "actor": "think",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. Real discipline is fueling the athlete, not sabotaging your performance to prove humility.",
+     "text": "FUEL THE ATHLETE",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I separate my self-respect from how much hardship I can tolerate?",
+     "text": "DETACHING WORTH",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Run the utility test. If an item protects your health or saves working hours, buying it is professional maintenance.",
+     "text": "THE UTILITY TEST",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So getting proper winter gear is just equipping the worker, not moral decay?",
+     "text": "EQUIP THE WORKER",
+     "color": "ink",
+     "actor": "reading",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "You do not run marathons in broken shoes to look humble. You gear up to perform.",
+     "text": "GEAR UP TO PERFORM",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Viewing quality gear as professional maintenance frees me from confusing suffering with virtue.",
+     "text": "TOOLS OVER VIRTUE",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spot on. But at checkout, your emotional gut will still try to outrun your rational calculations.",
+     "text": "GUT OUTRUNS LOGIC",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "7. Affect Heuristic",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "The second I see a price tag over fifty dollars, cold dread hits before I even evaluate it.",
+     "text": "7. AFFECT HEURISTIC",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Affect heuristic. You substitute a complex value calculation with a fast emotional gut check.",
+     "text": "THE FAST GUT CHECK",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So instead of asking whether a tool saves twenty hours, I just feel guilty and flee?",
+     "text": "FEELING OVER LOGIC",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain takes a lazy shortcut. A quick spike of fear tricks you into thinking the purchase is bad.",
+     "text": "FEAR TRICKS LOGIC",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "And later I waste entire weekends struggling with broken equipment because I let anxiety decide for me.",
+     "text": "WASTING HOURS LATER",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your emotional compass is calibrated to fear, not to efficiency.",
+     "text": "CALIBRATED TO FEAR",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I slow down and calculate the actual return on investment instead of panicking?",
+     "text": "HOW TO SLOW DOWN?",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Run a cost-per-use audit at the shelf. Divide the total price by how many days you will use it.",
+     "text": "DIVIDE BY USES",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So if a fifty-dollar desk lamp protects my eyes during long study hours, the daily cost is tiny.",
+     "text": "PENNIES PER DAY",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now you are running the numbers. Logic takes over, and the emotional spike disappears.",
+     "text": "NUMBERS BEAT FEAR",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Calculating the cost per day overrides the panic and lets logic make the call.",
+     "text": "LOGIC WINS OUT",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "That cools the panic. But you still harbor the toxic belief that your rest steals from tomorrow.",
+     "text": "REST IS NOT THEFT",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "8. Zero-Sum Thinking",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Whenever I spend money to rest, I feel like I am stealing directly from my future security.",
+     "text": "8. ZERO-SUM THINKING",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Classic zero-sum trap. You assume any dollar spent recharging today leaves tomorrow completely bankrupt.",
+     "text": "THE BANKRUPT MYTH",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I feel like taking an afternoon off or buying a quiet coffee means my future collapses.",
+     "text": "REST EQUALS RUIN?",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is toxic arithmetic. Depleting yourself today does not guarantee a richer tomorrow.",
+     "text": "TOXIC ARITHMETIC",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "In fact, when I burn out from non-stop deprivation, I become exhausted, cranky, and far less productive.",
+     "text": "BURNOUT AND ANGER",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A dead battery powers nothing, and chronic self-denial actually sabotages your long-term output.",
+     "text": "DEAD BATTERY TRAP",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I switch from zero-sum guilt to seeing personal recovery as an investment?",
+     "text": "RECOVERY AS GROWTH",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Reframe recovery as essential fuel. You cannot build long-term security when your own engine is running on empty.",
+     "text": "RECOVERY IS FUEL",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Because when my energy, physical health, and focus are restored, my future earning power actually grows.",
+     "text": "EXPANDING CAPACITY",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A fueled athlete runs faster and lasts longer. Starving yourself on the track wins zero trophies.",
+     "text": "FUEL WINS RACES",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Refueling my tank creates the energy and stability I need to keep building.",
+     "text": "ENERGY TO BUILD",
+     "color": "ink",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now you see the whole board. Let us lock in your daily training plan.",
+     "text": "THE DAILY PLAN",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "The Guilt Reset",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Looking back at these eight traps, my spending guilt was never proof of wisdom or financial discipline.",
+     "text": "THE GUILT RESET",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Three core moves: automate your spending allowance, treat your body like equipment, and stop treating suffering as virtue.",
+     "text": "3 CORE MOVES",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Money is not a moral scoreboard, it is just fuel to keep my life running cleanly.",
+     "text": "A TOOL NOT A SCORE",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spot on. For your seven-day challenge, make one purchase under ten dollars that upgrades your daily routine.",
+     "text": "7-DAY CHALLENGE",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A quality lunch, better work socks, or fresh coffee without apologizing to anyone?",
+     "text": "ONE CLEAN UPGRADE",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. One clean rep to prove to your nervous system that you are safe.",
+     "text": "ONE CLEAN REP",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If this breakdown lifted a weight off your shoulders, tap subscribe and build better habits with us.",
+     "text": "JOIN THE CHANNEL",
+     "color": "ink",
+     "actor": "celebrate",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Stop treating your basic needs like an unauthorized expense. Fuel the engine, and we will see you next set.",
+     "text": "FUEL THE ENGINE",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": null
+    }
+   ]
+  }
+ ]
+}

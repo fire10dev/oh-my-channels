@@ -1,0 +1,165 @@
+{
+ "id": "w018es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#0ea5e9",
+ "cover_frame": 60,
+ "source": "Altitud y fronteras: CIA World Factbook · Gobierno de Lesoto",
+ "music": "shared/library/music/yt-audio-library/A Distant Call - Dan _Lebo_ Lebowitz, Tone Seeker.mp3",
+ "beats": [
+  {
+   "say": "Hay un país completamente atrapado dentro de otro país.",
+   "title": "UN PAÍS DENTRO DE OTRO PAÍS",
+   "cam": {
+    "lon": 25,
+    "lat": -29,
+    "span": 22
+   },
+   "hl": [
+    {
+     "a3": "ZAF",
+     "color": "#334155"
+    },
+    {
+     "a3": "LSO",
+     "color": "#0ea5e9"
+    }
+   ]
+  },
+  {
+   "say": "Es Lesoto. Todas sus fronteras son con Sudáfrica.",
+   "cam": {
+    "lon": 27.8,
+    "lat": -29.6,
+    "span": 9
+   },
+   "hl": [
+    {
+     "a3": "ZAF",
+     "color": "#f59e0b",
+     "label": "Sudáfrica"
+    },
+    {
+     "a3": "LSO",
+     "color": "#0ea5e9",
+     "label": "Lesoto"
+    }
+   ]
+  },
+  {
+   "say": "Solo tres países del mundo están rodeados así: Lesoto, San Marino y el Vaticano. Y Lesoto es, por mucho, el más grande.",
+   "cam": {
+    "lon": 27.8,
+    "lat": -29.6,
+    "span": 9
+   },
+   "hl": [
+    {
+     "a3": "LSO",
+     "color": "#0ea5e9"
+    }
+   ],
+   "big": {
+    "value": "3",
+    "label": "países totalmente rodeados"
+   }
+  },
+  {
+   "say": "Lo llaman el Reino en el Cielo. Su punto más bajo está a unos mil cuatrocientos metros sobre el nivel del mar.",
+   "cam": {
+    "lon": 28.2,
+    "lat": -29.5,
+    "span": 6
+   },
+   "hl": [
+    {
+     "a3": "LSO",
+     "color": "#0ea5e9"
+    }
+   ],
+   "big": {
+    "value": "1400 m",
+    "label": "punto más bajo"
+   }
+  },
+  {
+   "say": "Es el punto más bajo más alto de cualquier país del mundo. Aquí nieva en invierno, en África.",
+   "cam": {
+    "lon": 28.2,
+    "lat": -29.5,
+    "span": 6
+   },
+   "hl": [
+    {
+     "a3": "LSO",
+     "color": "#e0f2fe"
+    }
+   ]
+  },
+  {
+   "say": "Lesoto le vende agua a Sudáfrica por túneles enormes, desde las presas de sus montañas hasta Johannesburgo.",
+   "cam": {
+    "lon": 28,
+    "lat": -27.8,
+    "span": 9
+   },
+   "hl": [
+    {
+     "a3": "LSO",
+     "color": "#0ea5e9"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      28.5,
+      -29.3
+     ],
+     [
+      28.3,
+      -28.6
+     ],
+     [
+      28.1,
+      -27.6
+     ],
+     [
+      28.04,
+      -26.2
+     ]
+    ],
+    "color": "#38bdf8",
+    "arrow": true,
+    "label": "Agua"
+   },
+   "pins": [
+    {
+     "lon": 28.04,
+     "lat": -26.2,
+     "text": "Johannesburgo"
+    }
+   ]
+  },
+  {
+   "say": "Un reino en el cielo, rodeado por todos lados. Sígueme para más.",
+   "title": "RODEADO POR TODOS LADOS",
+   "cam": {
+    "lon": 25,
+    "lat": -29,
+    "span": 22
+   },
+   "hl": [
+    {
+     "a3": "ZAF",
+     "color": "#334155"
+    },
+    {
+     "a3": "LSO",
+     "color": "#0ea5e9"
+    }
+   ]
+  }
+ ]
+}

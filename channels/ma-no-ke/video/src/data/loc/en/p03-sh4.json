@@ -1,0 +1,390 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 41.278,
+"shots": [
+{
+"img": "p03/img/X02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 3.724,
+"a": [
+432,
+576,
+648
+],
+"b": [
+432,
+520,
+460
+]
+},
+{
+"img": "p03/img/X02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 3.724,
+"t1": 7.34,
+"a": [
+1450,
+576,
+648
+],
+"b": [
+1450,
+480,
+460
+]
+},
+{
+"img": "p03/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 7.34,
+"t1": 14.91,
+"a": [
+900,
+576,
+648
+],
+"b": [
+820,
+420,
+460
+],
+"shake": 6
+},
+{
+"img": "p03/img/X03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.91,
+"t1": 18.391,
+"a": [
+560,
+490,
+460
+],
+"b": [
+560,
+470,
+340
+]
+},
+{
+"img": "p03/img/X03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 18.391,
+"t1": 21.803,
+"a": [
+1056,
+743,
+460
+],
+"b": [
+1056,
+849,
+340
+]
+},
+{
+"img": "p03/img/X02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 21.803,
+"t1": 24.228,
+"a": [
+1450,
+576,
+648
+],
+"b": [
+1450,
+576,
+648
+],
+"blur": 4,
+"dark": 0.2
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 24.228,
+"t1": 25.478,
+"a": [
+893,
+760,
+340
+],
+"b": [
+893,
+720,
+340
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 25.478,
+"t1": 29.601,
+"a": [
+440,
+950,
+700
+],
+"b": [
+440,
+950,
+520
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 29.601,
+"t1": 36.174,
+"a": [
+560,
+1080,
+800
+],
+"b": [
+640,
+1240,
+620
+]
+},
+{
+"img": "p03/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 36.174,
+"t1": 40.878,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_X11_0.png",
+"size": 381,
+"t0": 21.803,
+"t1": 24.228,
+"from": [
+149,
+818,
+2.053
+],
+"to": [
+149,
+768,
+2.053
+],
+"bob": false,
+"wob": 3
+},
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 36.174,
+"t1": 40.878,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 1.418,
+"t1": 3.545,
+"text": "KEEP THE OLD QUARTER ALIVE",
+"color": "#ffd84a"
+},
+{
+"t0": 3.545,
+"t1": 5.317,
+"text": "2,000,000 VND / NIGHT",
+"color": "#ffffff"
+},
+{
+"t0": 5.317,
+"t1": 7.34,
+"text": "+50K VND ALTAR PHOTOS",
+"color": "#ff8fb1"
+},
+{
+"t0": 15.441,
+"t1": 21.803,
+"text": "60 BILLION VND",
+"color": "#ffd84a"
+},
+{
+"t0": 24.328,
+"t1": 25.478,
+"text": "MA XO",
+"color": "#ffd84a"
+},
+{
+"t0": 27.471,
+"t1": 29.601,
+"text": "NOT FOR SALE.",
+"color": "#ff5a4a"
+},
+{
+"t0": 36.174,
+"t1": 38.276,
+"text": "HOW'D IT GUARD IT?",
+"color": "#ffd84a"
+},
+{
+"t0": 38.276,
+"t1": 40.878,
+"text": "▼ FULL EPISODE: LINK BELOW",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 5.814,
+"src": "p03/sfx/tach.wav",
+"vol": 0.8
+},
+{
+"t": 6.38,
+"src": "p03/sfx/tach.wav",
+"vol": 0.8
+},
+{
+"t": 15.441,
+"src": "p03/sfx/xu.wav",
+"vol": 0.7
+},
+{
+"t": 17.235,
+"src": "p03/sfx/khoan.wav",
+"vol": 0.45
+},
+{
+"t": 24.278,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.6
+},
+{
+"t": 36.174,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 39.609,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 7.09,
+"text": "Welcome! A three-generation home, keeping the old quarter's soul alive. Two million dong a night. Altar photos, fifty thousand dong extra."
+},
+{
+"t": 7.34,
+"dur": 7.17,
+"text": "Keeping the old quarter's soul alive by charging admission to see an altar. Great-great-grandpa would charge you too."
+},
+{
+"t": 14.91,
+"dur": 6.643,
+"text": "Sixty billion dong. Gut the whole inside. Keep the mossy gate for Western tourists to photograph as heritage."
+},
+{
+"t": 21.803,
+"dur": 2.124,
+"text": "Sign! Gut the kitchen too, for all I care."
+},
+{
+"t": 25.478,
+"dur": 3.322,
+"text": "Sell the house, and the house's things leave. I have to keep them here."
+},
+{
+"t": 29.601,
+"dur": 5.973,
+"text": "Great-great-grandpa gave me one job: our whole fortune's in the jar under the kitchen. Guard it. So I did."
+},
+{
+"t": 36.174,
+"dur": 3.505,
+"text": "And it really guarded the house. How? Full story on the channel."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/en/vo/3d761d803c.wav"
+},
+{
+"t": 7.34,
+"src": "loc/en/vo/b80bc5ad70.wav"
+},
+{
+"t": 14.91,
+"src": "loc/en/vo/05250decb3.wav"
+},
+{
+"t": 21.803,
+"src": "loc/en/vo/68b02fe825.wav"
+},
+{
+"t": 25.478,
+"src": "loc/en/vo/1564a53ae0.wav"
+},
+{
+"t": 29.601,
+"src": "loc/en/vo/500c4fd934.wav"
+},
+{
+"t": 36.174,
+"src": "loc/en/vo/a7a8a912f1.wav"
+}
+],
+"mutes": [
+[
+25.278,
+29.601
+],
+[
+29.401,
+36.174
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

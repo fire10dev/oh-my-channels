@@ -1,0 +1,77 @@
+{
+ "title": "Comment les repas arrivent dans une cellule du seul supermax fédéral américain",
+ "hook": "PAR LA FENTE",
+ "asof": "D’après les chiffres de l’inspection DC CIC de 2018",
+ "world": "supermax",
+ "long": "IX007",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "JOUR 2",
+   "chip": "06:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "Ici, le dîner passe par une fente dans la porte.",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "ADX Florence, au Colorado. Le seul supermax fédéral américain.",
+     "v": "wide"
+    },
+    {
+     "s": "Pas de réfectoire.",
+     "v": "range"
+    },
+    {
+     "s": "Les repas vont de la cuisine à chaque porte de cellule.",
+     "v": "cart"
+    },
+    {
+     "s": "Le plateau glisse par la fente.",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "Tu manges seul, à un bureau en béton.",
+     "v": "desk",
+     "you": "desk",
+     "plane": "tray"
+    },
+    {
+     "s": "Le budget nourriture : environ 3,50 dollars par jour et par détenu.",
+     "v": "cart",
+     "st": [
+      "3,50 $",
+      "par jour · 2017"
+     ]
+    },
+    {
+     "s": "Les cuisiniers sont des détenus du camp voisin.",
+     "v": "cart"
+    },
+    {
+     "s": "Environ un tiers des hommes interrogés se plaignaient des repas.",
+     "v": "desk",
+     "you": "desk"
+    },
+    {
+     "s": "L’un d’eux a dit : « On ne voit le personnel que quand il nous sert,",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "quand il reprend les plateaux et pendant la récréation. »",
+     "v": "rec",
+     "you": "rec"
+    },
+    {
+     "s": "Tu pourrais manger seul à chaque repas pendant des années ?",
+     "v": "desk",
+     "you": "desk"
+    }
+   ]
+  }
+ ]
+}

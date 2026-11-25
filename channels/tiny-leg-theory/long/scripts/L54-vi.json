@@ -1,0 +1,920 @@
+{
+ "id": "L54vi",
+ "lang": "vi",
+ "title": "Vì sao vừa nằm xuống là đầu óc bạn lại rối bời?",
+ "description": "Cả ngày đầu óc vẫn yên ổn, nhưng hễ tắt đèn đi ngủ là suy nghĩ lại bắt đầu chạy đua? Cùng tìm hiểu tám lý do tâm lý khiến bạn bỗng dưng tỉnh như sáo lúc nửa đêm, bao gồm kích thích nhận thức (cognitive arousal), bẫy chú ý (attention capture), hiệu ứng việc dang dở (Zeigarnik effect), nỗi lo bất chợt (intrusive thoughts), lệch nhịp sinh học (clock entrainment), mạng não mặc định (default mode network), kiểm soát kích thích (stimulus control) và càng cố càng thức (bedroom arousal). Khám phá lý do và cách viết ra việc đầu tiên cần làm vào ngày mai để giúp não bộ nghỉ ngơi đúng giờ.",
+ "chapters": [
+  {
+   "title": "MỆT NHƯNG NÃO TỈNH",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cả ngày mệt nhoài mong ngủ, vừa đặt lưng xuống giường là mắt lại tỉnh như sáo.",
+     "text": "MỆT NHƯNG VẪN TỈNH",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quen quá rồi. Cơ bắp vừa xả hơi thì cái đầu lại đòi tập hiệp phụ.",
+     "text": "TẬP HIỆP PHỤ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao cứ tắt đèn là mọi chuyện trên đời lại ùa về cùng lúc thế Buff?",
+     "text": "SAO LẠI LÚC NÀY?",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì ban ngày não chạy hết tốc lực, nhưng tối về Pen lại quên bài hạ nhiệt.",
+     "text": "QUÊN HẠ NHIỆT",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Điều gì khiến suy nghĩ cứ chạy loạn đúng lúc Pen muốn ngủ?",
+     "text": "TẠI SAO LẠI RỐI?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có tám lý do khiến não thao thức, và đây là các bài tập để dập tắt chúng.",
+     "text": "TÁM NGUYÊN NHÂN",
+     "color": "green",
+     "actor": "celebrate"
+    }
+   ]
+  },
+  {
+   "title": "1. KÍCH THÍCH NÃO BỘ",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa gập máy sau khi chốt tin nhắn Zalo công việc, đầu Pen vẫn chạy hết tốc lực.",
+     "text": "1. KÍCH THÍCH NÃO BỘ",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kích thích nhận thức đấy. Pen buông tạ rồi nhưng thần kinh vẫn gồng hết cỡ.",
+     "text": "THẦN KINH VẪN GỒNG",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Pen tưởng nằm yên một chỗ là não tự hiểu ngày làm việc đã hết chứ?",
+     "text": "NẰM YÊN LÀ XONG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cơ bắp nghỉ không có nghĩa là não nghỉ. Muốn bớt căng thì phải chủ động hạ nhiệt.",
+     "text": "PHẢI HẠ NHIỆT TRƯỚC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cày việc sát giờ ngủ làm thần kinh của Pen kẹt ở mức báo động à?",
+     "text": "KẸT Ở MỨC BÁO ĐỘNG",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bắt não chạy hết ga cả tối rồi phanh gấp, làm sao mà ngủ được.",
+     "text": "ĐẠP PHANH QUÁ GẤP",
+     "color": "ink",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để bảo cái đầu giảm tốc trước khi lên giường hả Buff?",
+     "text": "LÀM SAO ĐỂ GIẢM TỐC?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tạo vùng đệm hai mươi phút. Đọc sách giấy, giãn cơ và tránh xa màn hình ra.",
+     "text": "VÙNG ĐỆM NGHỈ NGƠI",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hạ nhiệt giúp cái đầu dịu xuống trước khi nằm ngủ hả Buff?",
+     "text": "HẠ NHIỆT TỪ TỪ",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Gánh tạ nặng xong chẳng ai về ngay mà không giãn cơ cả.",
+     "text": "NHỚ GIÃN CƠ",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù đã nghỉ, sao phòng càng yên tĩnh Pen lại càng thấy ngột ngạt?",
+     "text": "CÀNG YÊN CÀNG NGỘT?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì phòng tối đen là não Pen tự vặn loa nghe ngóng lên mức tối đa.",
+     "text": "VẶN LOA HẾT CỠ",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "2. BẪY CHÚ Ý",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đèn vừa tắt là từng tiếng động nhỏ bỗng vang lên như còi báo động.",
+     "text": "2. BẪY CHÚ Ý",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy chú ý đấy. Hết chuyện ban ngày, tiếng động nhỏ cũng chiếm trọn sàn tập.",
+     "text": "KẺ CƯỚP CHÚ Ý",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tiếng nước nhỏ giọt ngoài sân bỗng to hơn cả nhạc ngoài phố sao Buff?",
+     "text": "TIẾNG ĐỘNG PHÓNG ĐẠI",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phòng yên ắng làm não hạ ngưỡng cảm nhận, biến tiếng kẽo kẹt thành chuông báo.",
+     "text": "NGƯỠNG CẢM NHẬN GIẢM",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sự chú ý bám vào tiếng động vì không còn gì khác để tập trung à?",
+     "text": "SÂN KHẤU TRỐNG TRƠN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Não ghét khoảng trống nên phóng đại mọi tạp âm vặt vãnh.",
+     "text": "GHÉT KHOẢNG TRỐNG",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao giữ tâm trí không giật mình trước mọi âm thanh vụn vặt?",
+     "text": "GIỮ TÂM TRÍ VỮNG?",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tạo nền âm thanh đều đặn. Tiếng quạt rì rầm sẽ giúp neo chặt sự chú ý.",
+     "text": "TIẾNG QUẠT RÌ RẦM",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Âm thanh đơn điệu sẽ ngăn tiếng động lạ cướp mất sự chú ý à?",
+     "text": "CHE ĐI TẠP ÂM",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Tiếng rè đều đặn lấp tạp âm, giúp đầu óc không phải dỏng tai hóng hớt.",
+     "text": "ĐẦU ÓC THƯ THÁI",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bật quạt rồi mà đầu Pen vẫn dính chặt vào việc ngày mai.",
+     "text": "TIN NHẮN NGÀY MAI",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bởi vì một việc còn dang dở sẽ át hết mọi tiếng ồn xung quanh.",
+     "text": "VIỆC DANG DỞ SẼ ÁT",
+     "color": "ink",
+     "actor": "hand_off"
+    }
+   ]
+  },
+  {
+   "title": "3. HIỆU ỨNG DANG DỞ",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sao cứ kéo chăn lên là Pen lại nhớ tin nhắn chưa gửi cho sếp?",
+     "text": "3. HIỆU ỨNG DANG DỞ",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng việc dang dở đấy. Não không chịu buông khi bài tập chưa xong.",
+     "text": "HIỆP TẬP DANG DỞ",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dự án làm dở ban ngày vẫn âm thầm chạy ngầm trong đầu sao?",
+     "text": "CHẠY NGẦM BÊN TRONG",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Việc chưa xong tạo cảm giác bứt rứt, liên tục réo gọi tới khi Pen chốt xong kế hoạch.",
+     "text": "CĂNG THẲNG MỤC TIÊU",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như chục việc chưa xong cứ đòi giải quyết lúc đi ngủ.",
+     "text": "QUÁ NHIỀU VIỆC TỒN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não cứ ghim việc đó lại, trừ khi Pen cho nó tín hiệu hoàn tất.",
+     "text": "GHIM TRONG TÂM TRÍ",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng lẽ Pen phải cày xong hết việc mới được đi ngủ?",
+     "text": "PHẢI CÀY HẾT ĐÊM?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không cần. Dành hai phút viết bước đầu tiên của ngày mai ra giấy.",
+     "text": "VIẾT RA TRANG GIẤY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Viết một việc ra giấy là đủ để não yên tâm buông xuống à?",
+     "text": "ĐƠN GIẢN THẾ SAO?",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Viết ra là tín hiệu đóng việc. Bộ nhớ sẽ yên tâm đặt tạ xuống nghỉ.",
+     "text": "ĐẶT TẠ XUỐNG GIÁ",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ghi việc ra giấy rồi, nhưng còn nỗi lo viển vông cứ ùa tới thì sao?",
+     "text": "NỖI SỢ TỰ ĐẾN",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là những vị khách không mời tự tiện xông vào võ đài tâm trí.",
+     "text": "KHÁCH KHÔNG MỜI",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "4. NỖI LO BẤT CHỢT",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tự dưng đầu Pen nghĩ quẩn, nhỡ tháng sau sếp đuổi rồi tiền trọ tính sao.",
+     "text": "4. NỖI LO BẤT CHỢT",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Suy nghĩ bất chợt đấy Pen. Cơn lo hay đánh lén đúng lúc cơ thể mất cảnh giác.",
+     "text": "CƠN LO ĐÁNH LÉN",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao cái đầu cứ vẽ kịch bản tồi tệ đúng lúc Pen muốn thư giãn?",
+     "text": "KỊCH BẢN TỒI TỆ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Máy quét hiểm họa đang bật. Không thấy nguy hiểm thật, nó tự vẽ ra tai họa.",
+     "text": "DÒ TÌM NGUY HIỂM",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là Pen lại hoảng vì thấy mình lo, khiến tim đập nhanh hơn.",
+     "text": "VÒNG XOÁY HOẢNG SỢ",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đấu với lo âu như quẫy trong cát lún. Càng giãy thì càng lún sâu.",
+     "text": "GIÃY TRONG CÁT LÚN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cố gạt phăng ý nghĩ xấu ra khỏi đầu chỉ làm mọi chuyện tệ hơn à?",
+     "text": "CÀNG ÉP CÀNG TỆ?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi nỗi sợ như kẻ phá đám. Chỉ cần gọi tên nó, thả lỏng quai hàm rồi thở chậm ra.",
+     "text": "THẢ LỎNG VÀ THỞ RA",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ cần dán nhãn suy nghĩ chứ không nhảy vào đôi co à?",
+     "text": "KHÔNG ĐÔI CO",
+     "color": "gold",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế. Đừng so găng với mọi đối thủ lạ mặt mò vào phòng tập.",
+     "text": "KHÔNG CẦN SO GĂNG",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lòng đã yên rồi, sao có những đêm mắt Pen vẫn cứ mở chong chong?",
+     "text": "VẪN MỞ CHONG CHONG?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì đồng hồ sinh học bên trong vẫn đinh ninh bây giờ là giữa trưa.",
+     "text": "ĐỒNG HỒ TƯỞNG TRƯA",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "5. LỆCH NHỊP SINH HỌC",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mười giờ đêm Pen lên giường, nhưng người ngợm lại tràn trề năng lượng.",
+     "text": "5. LỆCH NHỊP SINH HỌC",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhịp sinh học đấy. Đồng hồ bên trong chạy theo ánh sáng, không theo ý muốn.",
+     "text": "CHẠY THEO ÁNH SÁNG",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên dù muốn ngủ sớm, cơ thể vẫn tưởng trời đang còn sáng à?",
+     "text": "TƯỞNG TRỜI CÒN SÁNG",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đèn sáng ban tối làm chậm tín hiệu buồn ngủ, đẩy lùi giờ ngủ của Pen.",
+     "text": "CHẬM CƠN BUỒN NGỦ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Pen vừa nằm dài bấm điện thoại lướt mạng cả tiếng trước khi đi ngủ.",
+     "text": "NẰM LƯỚT ĐIỆN THOẠI",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đòn chí mạng đấy. Ánh sáng chặn cơn buồn ngủ, còn nội dung giật gân lại bơm hưng phấn.",
+     "text": "BƠM SỰ HƯNG PHẤN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao chỉnh đồng hồ bên trong khớp với giờ ngủ hả Buff?",
+     "text": "CHỈNH LẠI ĐỒNG HỒ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hạ bớt đèn hai tiếng trước khi ngủ, và đón mười phút nắng mỗi sáng.",
+     "text": "BỚT SÁNG VÀ ĐÓN NẮNG",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nắng buổi sáng quyết định mức tỉnh táo khi nằm ngủ ban đêm sao?",
+     "text": "NẮNG SỚM GIÚP NGỦ?",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lặp lại đều đặn sẽ khóa nhịp. Đồng hồ sinh học rất chuộng lịch tập cố định.",
+     "text": "LỊCH TẬP ĐỀU ĐẶN",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhịp sinh học chuẩn rồi, sao đầu vẫn chiếu lại mấy chuyện xấu hổ hồi xưa?",
+     "text": "CHUYỆN CŨ XẤU HỔ?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì hễ ngừng việc bên ngoài, người kể chuyện trong não sẽ bật dậy ngay.",
+     "text": "NGƯỜI KỂ CHUYỆN BẬT",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    }
+   ]
+  },
+  {
+   "title": "6. MẠNG NÃO MẶC ĐỊNH",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa buông điện thoại là đầu Pen tua lại vụ lỡ lời trong nhóm lớp cũ.",
+     "text": "6. MẠNG NÃO MẶC ĐỊNH",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mạng não mặc định đấy. Như máy chạy bộ chưa ngắt điện, bánh đà cứ thế quay.",
+     "text": "MÁY TỰ ĐỘNG CHẠY",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi hết việc bên ngoài, tâm trí lại quay vào săm soi bản thân à?",
+     "text": "SĂM SOI CHÍNH MÌNH",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nó chuyên chiếu lại ký ức, tự phán xét và lo chuyện ngày mai khi não rảnh.",
+     "text": "CỖ MÁY NHÀN RỖI",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bảo sao mấy chuyện ngớ ngẩn ngày xưa cứ chọn nửa đêm để tìm mình.",
+     "text": "CHUYỆN CŨ ĐẾN TÌM",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nó không hại Pen đâu. Não chỉ xem lại băng hình cũ để rút kinh nghiệm thôi.",
+     "text": "XEM LẠI BĂNG HÌNH",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có việc gì vô hại để giao cho người kể chuyện trong đầu không?",
+     "text": "ĐỔI HƯỚNG SUY NGHĨ?",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử mẹo xáo chữ. Lấy chữ NGỦ, tìm ba món đồ bắt đầu bằng N, G, rồi U.",
+     "text": "MẸO XÁO CHỮ CÁI",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trò chơi đơn giản này chiếm chỗ tâm trí mà không gây xúc động à?",
+     "text": "KHÔNG GÂY CĂNG THẲNG",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Giữ đầu óc bận rộn mà không kích động, giúp Pen thiếp đi nhanh chóng.",
+     "text": "KHÔNG GÂY KỊCH TÍNH",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mẹo đó có tác dụng nếu Pen vẫn ôm việc lên giường không?",
+     "text": "LÀM VIỆC TRÊN GIƯỜNG?",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không có cửa đâu. Pen vừa tập cho chiếc giường một phản xạ sai lệch rồi.",
+     "text": "THÓI QUEN TRÊN GIƯỜNG",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "7. PHẢN XẠ SAI LỆCH",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Pen hay ngồi trên giường gõ việc, ăn đêm rồi xem phim tới muộn.",
+     "text": "7. PHẢN XẠ SAI LỆCH",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mất kiểm soát kích thích đấy Pen. Chiếc giường ngủ bị biến thành bàn làm việc mất rồi.",
+     "text": "GIƯỜNG THÀNH BÀN LÀM",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nệm ngủ bị biến thành bàn làm việc phụ thay vì chỗ nghỉ ngơi à?",
+     "text": "NỆM HÓA BÀN LÀM VIỆC",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thần kinh tạo liên kết rất nhanh. Làm việc ở đâu, chỗ đó bật chế độ tỉnh táo.",
+     "text": "LIÊN KẾT MẠNH MẼ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thảo nào cứ chui vào chăn là tim Pen đập thình thịch.",
+     "text": "TIM ĐẬP TRÊN GIƯỜNG",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen tập cho não thói quen hễ đặt đầu xuống gối là phải gồng cơ gánh việc.",
+     "text": "THÓI QUEN CĂNG THẲNG",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao dạy cho não hiểu giường chỉ để ngủ hả Buff?",
+     "text": "DẠY LẠI CHO NÃO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dọn sạch dấu vết công việc. Đưa máy tính, sổ sách ra khỏi phòng ngủ ngay.",
+     "text": "DỌN SẠCH CÔNG VIỆC",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giữ giường chỉ để nghỉ ngơi để tạo tín hiệu ngủ mỗi khi ngả lưng à?",
+     "text": "TÍN HIỆU NGHỈ NGƠI",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một tín hiệu, một phản xạ. Giữ chiếc giường làm góc xả cơ duy nhất trong phòng.",
+     "text": "NÚT TẮT NGUỒN",
+     "color": "green",
+     "actor": "front",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dẹp hết đồ việc rồi mà Pen vẫn trằn trọc thì sao?",
+     "text": "VẪN CỨ TRẰN TRỌC?",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là dính bẫy gượng ép, khi việc cố ngủ lại làm Pen mất ngủ.",
+     "text": "BẪY CỐ GẮNG QUÁ SỨC",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "moon_stars"
+    }
+   ]
+  },
+  {
+   "title": "8. CÀNG CỐ CÀNG THỨC",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngồi ghế thì ngáp ngắn ngáp dài, vừa trèo lên giường là tỉnh queo.",
+     "text": "8. CÀNG CỐ CÀNG THỨC",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phản xạ tỉnh ngủ đấy Pen. Càng nghiến răng ép mình ngủ thì thần kinh càng hoảng.",
+     "text": "CÀNG ÉP CÀNG HOẢNG",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nằm trơ mắt ép mình ngủ biến chiếc giường thành bài thi áp lực sao?",
+     "text": "BÀI THI ÁP LỰC?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cố ngủ như nâng tạ sai tư thế. Càng nghiến răng gồng thì ngủ càng xa.",
+     "text": "GỒNG ÉP SAI TƯ THẾ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rồi Pen lại nhìn đồng hồ, đếm từng giờ ngủ quý giá trôi qua.",
+     "text": "ĐẾM TỪNG GIỜ TRÔI",
+     "color": "red",
+     "actor": "panic",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn đồng hồ gây bực bội, kích hoạt trạng thái bồn chồn khó ngủ.",
+     "text": "BỰC BỘI VÌ ĐỒNG HỒ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao khi càng trằn trọc lại càng bực bội hả Buff?",
+     "text": "LÀM SAO KHI BỰC TỨC?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xoay đồng hồ vào tường. Thấy bực quá thì rời giường ra ghế ngồi một lát.",
+     "text": "XOAY MẶT ĐỒNG HỒ",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đang mệt mà lại bắt rời giường nghe ngược đời quá nhỉ?",
+     "text": "CÓ VẺ NGƯỢC ĐỜI?",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đọc sách giấy dưới đèn mờ. Phải bảo vệ chiếc giường như giữ kỷ luật phòng tập.",
+     "text": "GIỮ GÌN PHONG ĐỘ",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tối nay Pen nên kết hợp các bài tập này thế nào?",
+     "text": "KẾT HỢP THẾ NÀO?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cùng gom tám bài tập này thành kế hoạch buổi tối gọn gàng.",
+     "text": "KẾ HOẠCH BUỔI TỐI",
+     "color": "gold",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "KẾ HOẠCH BUỔI TỐI",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra đầu Pen không hỏng, chỉ là đang nhận tín hiệu lẫn lộn à?",
+     "text": "KẾ HOẠCH BUỔI TỐI",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột một là đường băng: hạ tốc độ sớm bằng đèn dịu và âm thanh đều đặn.",
+     "text": "1. TẠO ĐƯỜNG BĂNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn việc dang dở với những nỗi lo bất chợt thì sao?",
+     "text": "VIỆC DỞ VÀ NỖI LO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột hai là giải tỏa tâm trí: ghi việc dở ra giấy và buông nỗi sợ.",
+     "text": "2. DỌN SẠCH TÂM TRÍ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn nếu vẫn trằn trọc không ngủ được thì sao hả Buff?",
+     "text": "NẾU VẪN MẤT NGỦ?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trụ cột ba là trả lại giường ngủ: cấm làm việc trên đệm, bực quá thì rời giường.",
+     "text": "3. TRẢ LẠI GIƯỜNG NGỦ",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tối nay Pen nên bắt đầu thử từ đâu trước?",
+     "text": "BẮT ĐẦU TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày: viết một việc ngày mai ra giấy trước khi tắt đèn.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một việc trên giấy là đủ để não hết giờ làm và nghỉ ngơi à?",
+     "text": "CHO PHÉP NGHỈ NGƠI",
+     "color": "gold",
+     "actor": "meditating",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đăng ký Lý Thuyết Chân Que để xem mẹo tâm lý bổ ích, và cho đầu óc nghỉ ngơi.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "green",
+     "actor": "celebrate"
+    }
+   ]
+  }
+ ]
+}

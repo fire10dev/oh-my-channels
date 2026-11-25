@@ -1,0 +1,831 @@
+{
+"EN-THUMB-P01": {
+"w": 1280,
+"h": 720,
+"p": {
+"bg": {
+"src": "p01/img/S27.png",
+"crop": [
+520,
+60,
+1528
+],
+"filter": "brightness(1.1) contrast(1.08)"
+},
+"shade": "linear-gradient(270deg, rgba(5,7,13,.92) 0%, rgba(5,7,13,.7) 32%, rgba(0,0,0,0) 52%)",
+"texts": [
+{
+"t": "MOM'S HEAD",
+"x": 1250,
+"y": 110,
+"size": 119,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"rot": 3,
+"anchor": "r"
+},
+{
+"t": "IS IN THE",
+"x": 1250,
+"y": 265,
+"size": 120,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"rot": 2,
+"anchor": "r"
+},
+{
+"t": "RICE COOKER",
+"x": 1250,
+"y": 430,
+"size": 108,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"band": "#b3121b",
+"rot": -2,
+"anchor": "r"
+}
+]
+}
+},
+"EN-THUMB-COMP-01": {
+"w": 1280,
+"h": 720,
+"p": {
+"bg": {
+"src": "loc/en/img/B01.png",
+"crop": [
+0,
+200,
+2048
+],
+"filter": "brightness(1.1) contrast(1.08)"
+},
+"shade": "linear-gradient(0deg, rgba(5,7,13,.92) 0%, rgba(5,7,13,.6) 30%, rgba(0,0,0,0) 50%)",
+"texts": [
+{
+"t": "GHOSTS",
+"x": 640,
+"y": 400,
+"size": 150,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"rot": -2,
+"anchor": "c"
+},
+{
+"t": "ROAST THE LIVING",
+"x": 640,
+"y": 560,
+"size": 110,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"band": "#b3121b",
+"rot": 1,
+"anchor": "c"
+}
+]
+}
+},
+"EN-THUMB-P02": {
+"w": 1280,
+"h": 720,
+"p": {
+"bg": {
+"src": "p02/img/N11.png",
+"crop": [
+0,
+0,
+2048
+]
+},
+"shade": "linear-gradient(90deg, rgba(0,0,0,.75) 0%, rgba(0,0,0,.45) 38%, rgba(0,0,0,0) 55%)",
+"cuts": [
+{
+"src": "p02/img/cut_N22_1.png",
+"x": 930,
+"y": 60,
+"h": 640
+},
+{
+"src": "p02/img/cut_N23_1.png",
+"x": 520,
+"y": 250,
+"h": 620
+}
+],
+"texts": [
+{
+"t": "ROLL",
+"x": 36,
+"y": 30,
+"size": 200,
+"color": "#ffffff",
+"rot": -3,
+"font": "bangers",
+"rough": true,
+"sw": 9
+},
+{
+"t": "CALL",
+"x": 40,
+"y": 215,
+"size": 230,
+"color": "#e5141b",
+"rot": -3,
+"font": "bangers",
+"rough": true,
+"sw": 9
+},
+{
+"t": "WRONG GUY!",
+"x": 40,
+"y": 490,
+"size": 96,
+"color": "#111",
+"rot": -5,
+"font": "anton",
+"rough": true,
+"band": "#ffd400",
+"under": "#e5141b"
+}
+]
+}
+},
+"EN-THUMB-P03": {
+"w": 1280,
+"h": 720,
+"p": {
+"bg": {
+"src": "p03/img/B05.png",
+"sw": 1344,
+"crop": [
+-156,
+640,
+1500
+],
+"filter": "brightness(1.12) contrast(1.12) saturate(1.05)"
+},
+"shade": "linear-gradient(90deg, rgba(5,7,13,1) 0%, rgba(5,7,13,.6) 9%, rgba(0,0,0,0) 22%), linear-gradient(270deg, rgba(10,0,0,.6) 0%, rgba(0,0,0,0) 40%)",
+"texts": [
+{
+"t": "DON'T",
+"x": 1250,
+"y": 140,
+"size": 200,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "r",
+"rot": -4
+},
+{
+"t": "OPEN",
+"x": 1250,
+"y": 350,
+"size": 240,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "r",
+"band": "#b3121b",
+"rot": 3
+}
+]
+}
+},
+"EN-THUMB-P04": {
+"w": 1280,
+"h": 720,
+"p": {
+"bg": {
+"src": "p04/img/G06.png",
+"crop": [
+948,
+60,
+1100
+],
+"filter": "brightness(1.12) contrast(1.08)"
+},
+"shade": "linear-gradient(90deg, rgba(5,7,13,.92) 0%, rgba(5,7,13,.7) 28%, rgba(0,0,0,0) 48%)",
+"texts": [
+{
+"t": "WHO'S",
+"x": 40,
+"y": 170,
+"size": 150,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"rot": -3
+},
+{
+"t": "THAT?",
+"x": 40,
+"y": 350,
+"size": 230,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"band": "#b3121b",
+"rot": 2
+}
+]
+}
+},
+"EN-COVER-P03-SH1": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p03/img/B05.png",
+"crop": [
+180,
+370,
+800
+],
+"filter": "brightness(1.12) contrast(1.06)",
+"sw": 1344
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+"texts": [
+{
+"t": "GHOST FILE",
+"x": 540,
+"y": 50,
+"size": 210,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "MA XO",
+"x": 540,
+"y": 250,
+"size": 240,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P03-SH2": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p03/img/X06.png",
+"crop": [
+593,
+85,
+600
+],
+"filter": "brightness(1.12) contrast(1.06)"
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+"texts": [
+{
+"t": "HOUSE",
+"x": 540,
+"y": 140,
+"size": 210,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "GHOST?",
+"x": 540,
+"y": 340,
+"size": 240,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P03-SH3": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p03/img/X06.png",
+"crop": [
+1050,
+0,
+648
+],
+"filter": "brightness(1.12) contrast(1.06)"
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+"texts": [
+{
+"t": "BRIBE",
+"x": 540,
+"y": 20,
+"size": 210,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "A GHOST?",
+"x": 540,
+"y": 220,
+"size": 240,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P03-SH4": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p03/img/X02.png",
+"crop": [
+200,
+0,
+648
+],
+"filter": "brightness(1.12) contrast(1.06)"
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+"texts": [
+{
+"t": "ALTAR",
+"x": 540,
+"y": 130,
+"size": 210,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "TOURS?",
+"x": 540,
+"y": 330,
+"size": 240,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P03-SH5": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p03/img/X04.png",
+"crop": [
+1100,
+0,
+648
+],
+"filter": "brightness(1.12) contrast(1.06)"
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+"texts": [
+{
+"t": "30 FEET",
+"x": 540,
+"y": 150,
+"size": 210,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "…?",
+"x": 540,
+"y": 350,
+"size": 240,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P03-SH6": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p03/img/X10.png",
+"crop": [
+1236,
+0,
+648
+],
+"filter": "brightness(1.35) contrast(1.1)"
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+"texts": [
+{
+"t": "WHO'S",
+"x": 540,
+"y": 1120,
+"size": 210,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "COUNTING?",
+"x": 540,
+"y": 1320,
+"size": 236,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P03-SH7": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p03/img/X12.png",
+"crop": [
+700,
+0,
+648
+],
+"filter": "brightness(1.12) contrast(1.06)"
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+"texts": [
+{
+"t": "WHOSE",
+"x": 540,
+"y": 900,
+"size": 210,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "JAR?",
+"x": 540,
+"y": 1100,
+"size": 240,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P04-SH1": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p04/img/B06.png",
+"crop": [
+40,
+0,
+1008
+],
+"filter": "brightness(1.12) contrast(1.08)",
+"sw": 1344
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+"texts": [
+{
+"t": "GHOST FILE",
+"x": 540,
+"y": 60,
+"size": 200,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "MA GIAU",
+"x": 540,
+"y": 270,
+"size": 230,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P04-SH2": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p04/img/G03.png",
+"crop": [
+760,
+0,
+648
+],
+"filter": "brightness(1.12) contrast(1.08)"
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+"texts": [
+{
+"t": "HIDDEN BY",
+"x": 540,
+"y": 60,
+"size": 200,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "A GHOST?",
+"x": 540,
+"y": 270,
+"size": 230,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P04-SH3": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p04/img/G07.png",
+"crop": [
+300,
+0,
+648
+],
+"filter": "brightness(1.12) contrast(1.08)"
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+"texts": [
+{
+"t": "PERFECT",
+"x": 540,
+"y": 60,
+"size": 190,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "KID HACK",
+"x": 540,
+"y": 270,
+"size": 180,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P04-SH4": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p04/img/G12.png",
+"crop": [
+256,
+0,
+648
+],
+"filter": "brightness(1.12) contrast(1.08)"
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+"texts": [
+{
+"t": "LUCKY",
+"x": 540,
+"y": 60,
+"size": 200,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "TRAY?",
+"x": 540,
+"y": 270,
+"size": 230,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P04-SH5": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p04/img/G02.png",
+"crop": [
+170,
+0,
+648
+],
+"filter": "brightness(1.12) contrast(1.08)"
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+"texts": [
+{
+"t": "CAMERA OFF",
+"x": 540,
+"y": 60,
+"size": 190,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "3 DAYS",
+"x": 540,
+"y": 270,
+"size": 210,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P04-SH6": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p04/img/G01.png",
+"crop": [
+1300,
+0,
+648
+],
+"filter": "brightness(1.12) contrast(1.08)"
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+"texts": [
+{
+"t": "4 PEOPLE",
+"x": 540,
+"y": 60,
+"size": 200,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "3 CHEWING",
+"x": 540,
+"y": 270,
+"size": 150,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+},
+"EN-COVER-P04-SH7": {
+"w": 1080,
+"h": 1920,
+"p": {
+"bg": {
+"src": "p04/img/G08.png",
+"crop": [
+560,
+0,
+648
+],
+"filter": "brightness(1.12) contrast(1.08)"
+},
+"shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+"texts": [
+{
+"t": "2 AM",
+"x": 540,
+"y": 60,
+"size": 170,
+"font": "bangers",
+"rough": true,
+"color": "#ffffff",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+},
+{
+"t": "POWER CUT",
+"x": 540,
+"y": 270,
+"size": 210,
+"font": "bangers",
+"rough": true,
+"color": "#ffe14a",
+"anchor": "c",
+"sw": 14,
+"rot": -3
+}
+]
+}
+}
+}

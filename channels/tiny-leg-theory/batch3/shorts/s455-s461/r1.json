@@ -1,0 +1,698 @@
+[
+ {
+  "id": "s455",
+  "mascot": "pen",
+  "title": "Why You Polish Forever",
+  "mechanism": "Perfectionism",
+  "lines": [
+   {
+    "vo": "I spent three nights rewriting one sentence because the rhythm felt awkward.",
+    "text": "ONE SENTENCE",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Readers will skim that sentence in two seconds flat.",
+    "text": "TWO SECONDS",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Perfectionism is rarely about high standards. It is an emotional shield.",
+    "text": "SHIELD MODE",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "If your work stays unfinished, nobody can ever criticize your best effort.",
+    "text": "SAFE IN HIDING",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Give your final edit a sixty-minute timer, then export the file.",
+    "text": "SET A TIMER",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "A published draft teaches you more than an imaginary masterpiece in your head.",
+    "text": "DONE IS BETTER",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s455vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Benh sua mai khong dam dang",
+  "title_vi": "Bệnh sửa mãi không dám đăng",
+  "mechanism": "Perfectionism",
+  "lines": [
+   {
+    "vo": "Bạn thức trắng ba đêm chỉ để sửa một đoạn mở đầu.",
+    "text": "THỨC BA ĐÊM",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Người lướt mạng đọc qua đoạn đó đúng hai giây rồi quên.",
+    "text": "LƯỚT TRONG 2 GIÂY",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Cầu toàn không phải tiêu chuẩn cao, mà là tấm khiên trốn tránh.",
+    "text": "TRỐN ĐÁNH GIÁ",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Để bản nháp dở dang, bạn sẽ không sợ ai chê mình kém.",
+    "text": "SỢ BỊ CHÊ",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Hẹn giờ đúng sáu mươi phút sửa lần cuối, rồi bấm đăng.",
+    "text": "HẸN GIỜ XUẤT BẢN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Một tác phẩm hoàn thành luôn dạy bạn nhiều hơn bản nháp hoàn hảo.",
+    "text": "DÁM HOÀN THÀNH",
+    "color": "gold",
+    "actor": "writing"
+   }
+  ]
+ },
+ {
+  "id": "s456",
+  "mascot": "buff",
+  "title": "Nobody Is Zooming In",
+  "mechanism": "Spotlight Effect",
+  "lines": [
+   {
+    "vo": "Zooming in on one crooked pixel again? Sure, buddy.",
+    "text": "SURE, BUDDY",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "You think everyone is holding a magnifying glass to your post.",
+    "text": "NOBODY CARES",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "That is the spotlight effect. You assume everyone shares your hyper-focus.",
+    "text": "SPOTLIGHT EFFECT",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Most people scroll past your post while walking their dog.",
+    "text": "QUICK SCROLL",
+    "actor": "sofa_scroll"
+   },
+   {
+    "vo": "Try the arm-length test. Look at your draft for five seconds.",
+    "text": "ARM LENGTH TEST",
+    "color": "green",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "If you cannot spot the flaw instantly, nobody else will.",
+    "text": "GOOD ENOUGH",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "This upload is just a warm-up set. Ship it.",
+    "text": "WARM-UP REP",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s456vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Ao tuong ai cung dang soi ban",
+  "title_vi": "Ảo tưởng ai cũng đang soi bạn",
+  "mechanism": "Spotlight Effect",
+  "lines": [
+   {
+    "vo": "Phóng to bức tranh soi từng nét vẽ bị lệch. Ừ, rảnh thật.",
+    "text": "SOI TỪNG NÉT",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Tưởng cả mạng xã hội đang đeo kính lúp chờ bạn đăng bài.",
+    "text": "AI ĐÂU MÀ SOI",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Tâm lý học gọi đây là hiệu ứng đèn sân khấu.",
+    "text": "ĐÈN SÂN KHẤU",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Người ta vừa đi đường vừa lướt mạng, chẳng ai rảnh dừng lại soi.",
+    "text": "LƯỚT VỘI VÃ",
+    "actor": "sofa_scroll"
+   },
+   {
+    "vo": "Cầm điện thoại cách một sải tay, nhìn đúng năm giây.",
+    "text": "THỬ NĂM GIÂY",
+    "color": "green",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Mắt thường không thấy ngay, thì bài đã đạt chuẩn.",
+    "text": "VẬY LÀ ĐƯỢC",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Đăng đi. Đây chỉ là một hiệp khởi động thôi.",
+    "text": "KHỞI ĐỘNG THÔI",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s457",
+  "mascot": "pen",
+  "title": "Why You Hide Your Drafts",
+  "mechanism": "Loss Aversion",
+  "lines": [
+   {
+    "vo": "Hiding your project in a private folder feels like protecting a masterpiece.",
+    "text": "HIDDEN DRAFT",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Loss aversion makes potential criticism hurt far more than praise feels good.",
+    "text": "LOSS AVERSION",
+    "color": "red",
+    "actor": "panic",
+    "prop": "brain"
+   },
+   {
+    "vo": "An unreleased file protects your ego, but stays completely invisible.",
+    "text": "SAFE IN THE DARK",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Give yourself a strict limit of three revision rounds.",
+    "text": "THREE REVISIONS",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Is staying completely safe worth leaving your best ideas unshared?",
+    "text": "WORTH HIDING?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s457vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ly do ban giau nhem tac pham",
+  "title_vi": "Lý do bạn giấu nhẹm tác phẩm",
+  "mechanism": "Loss Aversion",
+  "lines": [
+   {
+    "vo": "Vẽ xong bức tranh hay dựng xong video, bạn lại bấm lưu vào bản nháp.",
+    "text": "CHỈ DÁM LƯU NHÁP",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Tâm lý sợ mất mát khiến nỗi sợ bị chê lấn át mọi hy vọng.",
+    "text": "SỢ MẤT MÁT",
+    "color": "red",
+    "actor": "panic",
+    "prop": "brain"
+   },
+   {
+    "vo": "Sợ đăng lên không ai xem, sợ bạn bè lướt qua chê vụng về.",
+    "text": "SỢ BỊ PHÁN XÉT",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Đặt ra giới hạn chỉ sửa đúng ba lần trước khi công khai.",
+    "text": "SỬA ĐÚNG 3 LẦN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Giữ an toàn trong bóng tối có đáng để ý tưởng nằm im mãi?",
+    "text": "CÓ ĐÁNG GIẤU?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s458",
+  "mascot": "buff",
+  "title": "Why Your Draft Feels Boring",
+  "mechanism": "Habituation",
+  "lines": [
+   {
+    "vo": "Reviewing your draft for the fortieth time today? Stop right there.",
+    "text": "STOP REVIEWING",
+    "color": "red",
+    "actor": "front",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Your work did not turn bad. You just chewed the flavor out.",
+    "text": "LOST THE TASTE",
+    "color": "red",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Your brain experiences habituation. Repetition numbs your excitement.",
+    "text": "HABITUATION",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Because you feel bored, you assume your audience will hate it.",
+    "text": "FALSE ALARM",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Close the laptop right now and walk away until tomorrow.",
+    "text": "WALK AWAY",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Or change the font or playback speed to trick your senses.",
+    "text": "RESET YOUR EYES",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Muscles grow during recovery between workouts, not during the lift.",
+    "text": "REST TO GROW",
+    "color": "green",
+    "actor": "meditating",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Give the draft twenty-four hours of rest. Then ship it.",
+    "text": "REST THEN SHIP",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s458vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Cang ngam cang thay chan",
+  "title_vi": "Càng ngắm càng thấy chán",
+  "mechanism": "Habituation",
+  "lines": [
+   {
+    "vo": "Ngồi xem lại cái video vừa dựng lần thứ bốn mươi. Dừng lại.",
+    "text": "DỪNG LẠI NGAY",
+    "color": "red",
+    "actor": "front",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Không phải bài dở đi, mà do mắt nhìn nhiều quá nên chai cảm xúc.",
+    "text": "CHAI CẢM XÚC",
+    "color": "red",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Hiện tượng thích ứng khiến mọi kích thích lặp lại đều vô vị.",
+    "text": "THÍCH ỨNG TÂM LÝ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn thấy chán rồi nghĩ người xem cũng chán, thế là muốn xoá.",
+    "text": "TỰ NGHĨ RA",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Gập máy lại, đi uống cốc nước rồi ngủ một giấc.",
+    "text": "GẬP MÁY LẠI",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Hoặc đổi màn hình hiển thị để mắt nhìn thấy điểm mới.",
+    "text": "ĐỔI GÓC NHÌN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Cơ bắp lớn lên khi nghỉ ngơi, tác phẩm cũng vậy.",
+    "text": "NGHỈ ĐỂ LỚN",
+    "color": "green",
+    "actor": "meditating",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Cho bản thân hai mươi tư giờ phục hồi, mai bấm đăng.",
+    "text": "MAI BẤM ĐĂNG",
+    "color": "gold",
+    "actor": "sprint_start"
+   }
+  ]
+ },
+ {
+  "id": "s459",
+  "mascot": "pen",
+  "title": "The Fake Productivity Trap",
+  "mechanism": "Progress Principle",
+  "lines": [
+   {
+    "vo": "I spent five hours adjusting font spacing while avoiding the final chapter.",
+    "text": "FIVE HOURS LOST",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "When progress is invisible, our motivation quietly evaporates.",
+    "text": "ZERO MOMENTUM",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "The progress principle shows that small visible wins sustain creative energy.",
+    "text": "PROGRESS PRINCIPLE",
+    "actor": "reading",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tiny formatting tweaks feel like work, but give zero sense of completion.",
+    "text": "BUSYWORK TRAP",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Write out three core sections on scrap paper and cross them off.",
+    "text": "CROSS THEM OFF",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "What tangible step can you cross off before touching formatting again?",
+    "text": "WHAT STEP FIRST?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s459vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ban ron gia vo khi lam viec",
+  "title_vi": "Bận rộn giả vờ khi làm việc",
+  "mechanism": "Progress Principle",
+  "lines": [
+   {
+    "vo": "Dành cả buổi tối chỉnh phông chữ nhưng nội dung chưa viết xong.",
+    "text": "CHỈNH PHÔNG CẢ TỐI",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Không thấy kết quả rõ ràng, năng lượng trong bạn sẽ tụt dốc.",
+    "text": "HẾT NĂNG LƯỢNG",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Nguyên lý tiến trình chỉ ra não cần thấy tiến độ để giữ lửa.",
+    "text": "TIẾN TRÌNH RÕ RÀNG",
+    "actor": "reading",
+    "prop": "brain"
+   },
+   {
+    "vo": "Chỉnh phông chỉnh lề cả buổi chỉ là bận rộn ảo để trốn việc khó.",
+    "text": "BẬN RỘN ẢO",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Ghi ra giấy ba việc quan trọng và gạch bỏ từng dòng.",
+    "text": "GẠCH TỪNG DÒNG",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Bước tiếp theo bạn có thể gạch bỏ hôm nay là gì?",
+    "text": "BƯỚC NÀO TRƯỚC?",
+    "color": "gold",
+    "actor": "think"
+   }
+  ]
+ },
+ {
+  "id": "s460",
+  "mascot": "buff",
+  "title": "Panic Near The Finish Line",
+  "mechanism": "Goal Gradient",
+  "lines": [
+   {
+    "vo": "Your project is practically finished, and you suddenly want to rewrite everything? Classic panic.",
+    "text": "ALMOST FINISHED",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "The goal gradient effect spikes your urgency near the finish line.",
+    "text": "GOAL GRADIENT",
+    "actor": "sprint_start",
+    "prop": "brain"
+   },
+   {
+    "vo": "Near the end, tiny imperfections feel like catastrophic disasters.",
+    "text": "PANIC TWEAKING",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Call a hard freeze twenty-four hours before shipping. Zero new ideas.",
+    "text": "HARD FREEZE",
+    "color": "green",
+    "actor": "arms_crossed_no",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "When the round ends, drop the barbell. Put the editing tools down.",
+    "text": "DROP THE WEIGHT",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s460vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Cang gan dich cang muon dap di",
+  "title_vi": "Càng gần đích càng muốn đập đi",
+  "mechanism": "Goal Gradient",
+  "lines": [
+   {
+    "vo": "Vừa làm xong xuôi hết thì đùng một cái muốn xoá đi làm lại. Quen quá.",
+    "text": "SẮP XONG LẠI XOÁ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Hiệu ứng dốc mục tiêu đẩy sự sốt ruột lên cao khi sắp tới đích.",
+    "text": "DỐC MỤC TIÊU",
+    "actor": "sprint_start",
+    "prop": "brain"
+   },
+   {
+    "vo": "Sắp phải đối mặt dư luận, hạt cát cũng hoá thành ngọn núi.",
+    "text": "HOẢNG LOẠN",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Áp dụng lệnh đóng băng nội dung một ngày trước khi đăng.",
+    "text": "LỆNH ĐÓNG BĂNG",
+    "color": "green",
+    "actor": "arms_crossed_no",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Hết hiệp đấu thì đặt tạ xuống. Rời bàn phím và bấm gửi.",
+    "text": "ĐẶT TẠ XUỐNG",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s461",
+  "mascot": "pen",
+  "title": "Why Keeping Secrets Fails",
+  "mechanism": "Public Commitment",
+  "lines": [
+   {
+    "vo": "I never tell anyone what I am making, so nobody can ask when it is done.",
+    "text": "SECRET PROJECTS",
+    "actor": "bed_phone_night",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "If nobody knows you are building it, nobody sees you abandon it.",
+    "text": "EASY TO QUIT",
+    "color": "red",
+    "actor": "sofa_scroll"
+   },
+   {
+    "vo": "Without public commitment, our brains naturally choose comfortable delays.",
+    "text": "PUBLIC PROMISE",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Humans naturally crave consistency between spoken promises and real action.",
+    "text": "SOCIAL PRESSURE",
+    "actor": "think"
+   },
+   {
+    "vo": "Tell a close friend the exact day you will publish.",
+    "text": "TELL A FRIEND",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "A single person waiting turns a fuzzy wish into a concrete deadline.",
+    "text": "REAL DEADLINE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Gentle public accountability might be the quiet push your craft needs.",
+    "text": "THE GENTLE PUSH",
+    "color": "gold",
+    "actor": "nervous_wave"
+   }
+  ]
+ },
+ {
+  "id": "s461vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ly do ban giau kin du an",
+  "title_vi": "Lý do bạn giấu kín dự án",
+  "mechanism": "Public Commitment",
+  "lines": [
+   {
+    "vo": "Làm gì cũng giấu nhẹm vì sợ người ta hỏi bao giờ xong.",
+    "text": "GIẤU MỌI DỰ ÁN",
+    "actor": "bed_phone_night",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Không ai biết bạn đang làm, thì lúc bỏ cuộc chẳng ai hay.",
+    "text": "LẶNG LẼ BỎ CUỘC",
+    "color": "red",
+    "actor": "sofa_scroll"
+   },
+   {
+    "vo": "Thiếu cam kết công khai, não sẽ chọn con đường trì hoãn êm ái.",
+    "text": "CAM KẾT CÔNG KHAI",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tâm lý con người luôn muốn giữ uy tín trước lời đã nói.",
+    "text": "GIỮ ĐÚNG LỜI HỨA",
+    "actor": "think"
+   },
+   {
+    "vo": "Nhắn cho bạn thân ngày giờ bạn sẽ gửi sản phẩm hoàn thiện.",
+    "text": "HẸN MỘT NGƯỜI BẠN",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Có người đợi xem, dự định mông lung lập tức thành hạn chót.",
+    "text": "HẠN CHÓT THẬT SỰ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Đôi khi, chút áp lực từ bên ngoài là điều bạn đang cần.",
+    "text": "MỘT CHÚT ÁP LỰC",
+    "color": "gold",
+    "actor": "nervous_wave"
+   }
+  ]
+ }
+]

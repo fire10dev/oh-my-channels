@@ -1,0 +1,160 @@
+{
+ "title": "Pourquoi les sous-mariniers ne peuvent pas toujours tirer la chasse",
+ "hook": "NE TIRE PAS",
+ "asof": "Données de 2026",
+ "world": "sub",
+ "long": "IX001",
+ "chapters": [
+  {
+   "id": "flush",
+   "hud": "JOUR 31",
+   "chip": "09:30",
+   "tod": "day",
+   "shots": [
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "À bord d’un sous-marin, parfois, tu n’as pas le droit de tirer la chasse."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Voilà pourquoi."
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      960,
+      540,
+      1.0
+     ],
+     "s": "Un sous-marin nucléaire lanceur d’engins doit rester invisible."
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      960,
+      560,
+      1.12
+     ],
+     "s": "Il ne peut donc pas laisser de déchets derrière lui."
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Les déchets secs sont broyés,"
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "puis tassés dans des boîtes métalliques spéciales,"
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "et lestés pour couler."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "COMPACTEUR",
+       "BOÎTE EN MÉTAL",
+       "+ LEST",
+       "TUBE TDU ↓"
+      ],
+      "note": "les boîtes coulent jusqu’au fond de la mer"
+     },
+     "s": "Ensuite, les boîtes sont éjectées par un tube sous le sous-marin,"
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1500,
+      650,
+      1.8
+     ],
+     "s": "droit vers le fond de la mer."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Les déchets humains vont ailleurs : dans une cuve sanitaire."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "De temps en temps, l’équipage vide la cuve à l’air comprimé."
+    },
+    {
+     "d": {
+      "type": "note",
+      "title": "ATTENTION !",
+      "lines": [
+       "VIDANGE SANITAIRE",
+       "NE TIRE PAS LA CHASSE"
+      ],
+      "stamp": "NON"
+     },
+     "s": "Pendant l’opération, une pancarte est posée sur chaque toilette."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      4.2
+     ],
+     "q": "NE TIRE PAS LA CHASSE",
+     "s": "Vidange sanitaire. Ne tire pas la chasse."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Ignore-la,"
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "et tu comprendras très vite pourquoi elle est là."
+    }
+   ]
+  }
+ ]
+}

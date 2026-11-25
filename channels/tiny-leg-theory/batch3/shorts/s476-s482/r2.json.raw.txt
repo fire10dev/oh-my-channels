@@ -1,0 +1,763 @@
+REBUTTAL:
+1 accept
+2 accept
+3 accept
+4 accept
+5 accept
+6 accept
+7 accept
+8 accept
+9 accept
+10 reject: Line 7 is already an imperative punchline, and the suggested VI fix ends in a question, breaking Buff's strict rule.
+11 accept
+12 accept
+13 accept
+14 accept
+15 accept
+RESULT:
+[
+  {
+    "id": "s476",
+    "mascot": "buff",
+    "title": "Why Study Hard Fails",
+    "mechanism": "Clear Targets",
+    "lines": [
+      {
+        "vo": "I will study hard this month. Sure, buddy.",
+        "text": "STUDY HARD?",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Study hard is not a goal. It is just wishful thinking.",
+        "text": "NOT A GOAL",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "brain"
+      },
+      {
+        "vo": "Without exact weight on the bar, your brain defaults to saving energy.",
+        "text": "EMPTY BARBELL",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Give today a concrete boundary. Lock in the exact set.",
+        "text": "EXACT SET",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Two drills and twenty flashcards before lunch. Done.",
+        "text": "SHARP TARGET",
+        "color": "green",
+        "actor": "writing",
+        "prop": "target"
+      },
+      {
+        "vo": "Hit the rep, take the win, and walk away.",
+        "text": "TAKE THE WIN",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s476vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Hoc cham chi khong phai muc tieu",
+    "title_vi": "Học chăm chỉ không phải mục tiêu",
+    "mechanism": "Clear Targets",
+    "lines": [
+      {
+        "vo": "Tháng này quyết tâm cày tiếng Anh. Ừ, tin.",
+        "text": "QUYẾT TÂM CÀY?",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Cày chăm chỉ không phải mục tiêu. Đó là lời hứa suông.",
+        "text": "HỨA SUÔNG",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Không có mức tạ rõ ràng, não rất dễ trôi về lướt mạng.",
+        "text": "KHÔNG MỨC TẠ",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Đừng nói chung chung. Đặt định mức cụ thể cho sáng nay.",
+        "text": "ĐẶT ĐỊNH MỨC",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Giải xong hai bài đọc trước khi mở Shopee săn sale.",
+        "text": "CHỈ TIÊU RÕ",
+        "color": "green",
+        "actor": "writing",
+        "prop": "target"
+      },
+      {
+        "vo": "Tập xong đúng hiệp đó thì nghỉ. Khỏi cần cố quá.",
+        "text": "XONG LÀ THẮNG",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s477",
+    "mascot": "pen",
+    "title": "The Midnight Busywork Trap",
+    "mechanism": "The Goal Ladder",
+    "lines": [
+      {
+        "vo": "You stare at practice tests at midnight, wondering why you bother.",
+        "text": "MIDNIGHT DOUBT",
+        "color": "red",
+        "actor": "panic",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "It feels like meaningless busywork that leads nowhere.",
+        "text": "EMPTY EFFORT",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Your mind needs a ladder connecting today's grind to your future.",
+        "text": "GOAL LADDER",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "When daily grind disconnects from who you want to become, energy vanishes.",
+        "text": "BROKEN LINK",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Write a two-line bridge across the top of your page.",
+        "text": "TWO-LINE BRIDGE",
+        "color": "green",
+        "actor": "writing",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Remind yourself this gritty drill builds the freedom you want.",
+        "text": "NAME PURPOSE",
+        "color": "green",
+        "actor": "reading",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "What future self are you building with tonight's notes?",
+        "text": "YOUR LADDER",
+        "color": "gold",
+        "actor": "front",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s477vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Hoc nua dem de lam gi?",
+    "title_vi": "Học nửa đêm để làm gì?",
+    "mechanism": "The Goal Ladder",
+    "lines": [
+      {
+        "vo": "Một giờ sáng ngồi giải đề chứng chỉ, bạn tự hỏi học để làm gì.",
+        "text": "THỨC TRẮNG ĐÊM",
+        "color": "red",
+        "actor": "panic",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Lý thuyết khô khốc, công việc ngày mai thì vẫn ngập đầu.",
+        "text": "VIỆC VẪN NGẬP",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Khi mất sợi dây nối với tương lai, não coi việc này là vô bổ.",
+        "text": "MẤT KẾT NỐI",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Bạn cần một chiếc thang nối bài tập nhỏ với mục tiêu lớn.",
+        "text": "CHIẾC THANG",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Ghi hai dòng ở đầu vở: bài tập này mở ra cánh cửa nhảy việc nào.",
+        "text": "GHI HAI DÒNG",
+        "color": "green",
+        "actor": "writing",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Từng trang tài liệu đêm nay là một viên gạch xây nền móng.",
+        "text": "TỪNG VIÊN GẠCH",
+        "color": "green",
+        "actor": "reading",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Bạn đang đặt viên gạch này cho ai trong tương lai?",
+        "text": "XÂY CHO MAI SAU",
+        "color": "gold",
+        "actor": "front",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s478",
+    "mascot": "buff",
+    "title": "Don't Max Out on Day One",
+    "mechanism": "Milestone Slices",
+    "lines": [
+      {
+        "vo": "Tried tackling the hardest chapter on week one and completely froze?",
+        "text": "ROOKIE MOVE",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "You walked into the gym and slapped maximum plates on the bar.",
+        "text": "TOO HEAVY",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Giant early roadblocks overload your head, so you end up scrolling.",
+        "text": "MENTAL FREEZE",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Front-load early wins. Start with light warm-up sets.",
+        "text": "WARM-UP SETS",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Earn the heavy barbell. Clear the light plates first.",
+        "text": "LIGHT PLATES",
+        "color": "gold",
+        "actor": "sprint_start",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s478vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung voi ganh ta qua suc",
+    "title_vi": "Đừng vội gánh tạ quá sức",
+    "mechanism": "Milestone Slices",
+    "lines": [
+      {
+        "vo": "Tuần đầu học đã vác nguyên đề thi thật ra làm. Quá nóng vội.",
+        "text": "QUÁ NÓNG VỘI",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Mới vào phòng tập đã đòi gánh tạ kịch khung thì sập nguồn.",
+        "text": "SẬP NGUỒN",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Gặp bài khó, não hoảng loạn rồi trốn đi lướt video ngắn cả buổi.",
+        "text": "LƯỚT ĐIỆN THOẠI",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Chia nhỏ hiệp tập. Khởi động bằng mấy bài tạ nhẹ trước.",
+        "text": "TẬP TẠ NHẸ",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Gánh vững mức tạ khởi điểm rồi mới nâng số cân.",
+        "text": "NÂNG TỪ TỪ",
+        "color": "gold",
+        "actor": "sprint_start",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s479",
+    "mascot": "pen",
+    "title": "Why Mock Tests Hurt",
+    "mechanism": "Feedback Loops",
+    "lines": [
+      {
+        "vo": "You failed a mock test after two weeks, and feel crushed.",
+        "text": "FAILED TEST",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "That is the feedback trap. You are measuring anxiety, not skill.",
+        "text": "FEEDBACK TRAP",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Your ego treats a wrong mark like personal failure.",
+        "text": "EGO BRUISE",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Stop obsessing over the score. Treat red marks like error logs.",
+        "text": "ERROR LOGS",
+        "color": "green",
+        "actor": "think",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Ask which concept tripped you, then patch that single leak.",
+        "text": "PATCH THE LEAK",
+        "color": "green",
+        "actor": "reading",
+        "prop": "target"
+      },
+      {
+        "vo": "Every red mark is just information, never a verdict on you.",
+        "text": "DATA NOT VERDICT",
+        "color": "gold",
+        "actor": "front",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s479vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Diem thi thu chi la du lieu",
+    "title_vi": "Điểm thi thử chỉ là dữ liệu",
+    "mechanism": "Feedback Loops",
+    "lines": [
+      {
+        "vo": "Mới ôn được hai tuần, giải thử đề thi thì điểm thấp thảm hại.",
+        "text": "ĐIỂM KÉM",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Bạn thấy hụt hẫng, muốn tắt máy đi ngủ rồi từ bỏ luôn.",
+        "text": "MUỐN TỪ BỎ",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đo lường quá sớm chỉ đo được sự lo lắng của bạn thôi.",
+        "text": "ĐO SỰ LO LẮNG",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Đổi góc nhìn: đừng chăm chăm vào con số đỗ hay trượt.",
+        "text": "ĐỪNG NHÌN ĐIỂM",
+        "color": "green",
+        "actor": "think",
+        "prop": "target"
+      },
+      {
+        "vo": "Mở lại xem mình sai vì bẫy đề thi hay hổng kiến thức.",
+        "text": "TÌM LỖ HỔNG",
+        "color": "green",
+        "actor": "reading",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Mực đỏ chỉ là dữ liệu chỉ đường, không phải phán xét bản thân.",
+        "text": "DỮ LIỆU CHỈ ĐƯỜNG",
+        "color": "gold",
+        "actor": "front",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s480",
+    "mascot": "buff",
+    "title": "Whose Goal Are You Lifting?",
+    "mechanism": "True Motives",
+    "lines": [
+      {
+        "vo": "You started this course because everyone online said it was elite.",
+        "text": "TREND CHASER",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Borrowed goals only ever give you borrowed stamina.",
+        "text": "BORROWED FUEL",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Lifting someone else's barbell drains double the willpower.",
+        "text": "HEAVY BURDEN",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Drop the urge to impress strangers on your feed.",
+        "text": "DROP THE EGO",
+        "actor": "hand_off",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Find what real leverage or freedom this skill buys you.",
+        "text": "REAL FREEDOM",
+        "color": "green",
+        "actor": "think",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Train for your own craft, and showing up feels effortless.",
+        "text": "TRAIN FOR CRAFT",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Lift for your own capability. Never for the bleachers.",
+        "text": "LIFT FOR YOU",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s480vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Ban dang ganh muc tieu cua ai?",
+    "title_vi": "Bạn đang gánh mục tiêu của ai?",
+    "mechanism": "True Motives",
+    "lines": [
+      {
+        "vo": "Đăng ký học vì thấy người ta khoe chứng chỉ trên mạng. Trông cũng oách đấy.",
+        "text": "ĐU THEO MẠNG",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Mượn mục tiêu của người khác thì lấy đâu ra kiên trì của mình.",
+        "text": "MỤC TIÊU VAY MƯỢN",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Gánh áp lực đồng trang lứa, mỗi tối ngồi học như tra tấn.",
+        "text": "GÁNH ÁP LỰC",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Bỏ ngay ý nghĩ học chỉ để chụp ảnh đăng lên mạng đi.",
+        "text": "BỎ SỐNG ẢO",
+        "actor": "hand_off",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Tìm xem kỹ năng này giúp bạn làm việc nhẹ hơn chỗ nào.",
+        "text": "ÍCH LỢI THỰC TẾ",
+        "color": "green",
+        "actor": "think",
+        "prop": "coin_stack"
+      },
+      {
+        "vo": "Thấy rõ lợi ích cho chính mình, bạn sẽ tự giác ngồi vào bàn.",
+        "text": "TỰ GIÁC VÀO VIỆC",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Rèn nghề để nâng giá trị bản thân, đừng rèn để diễn cho thiên hạ.",
+        "text": "RÈN CHO BẢN THÂN",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s481",
+    "mascot": "pen",
+    "title": "The Mountain Peak Trap",
+    "mechanism": "Visible Proof",
+    "lines": [
+      {
+        "vo": "You have studied six straight weeks, yet hundreds of pages remain.",
+        "text": "STILL SO FAR",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Looking only at the giant unfinished pile makes progress feel invisible.",
+        "text": "INVISIBLE GAINS",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Your mind mistakes a long road for zero accomplishment.",
+        "text": "MIND TRICK",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Stop staring only at the summit.",
+        "text": "LOOK DOWN",
+        "actor": "hand_off",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Invert your scoreboard by tracking what you have accumulated.",
+        "text": "LOG EFFORT",
+        "color": "green",
+        "actor": "writing",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Cross off each completed hour on a real wall calendar.",
+        "text": "RED TICKS",
+        "color": "green",
+        "actor": "reading",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "A chain of marked days proves to your eyes that you moved.",
+        "text": "PHYSICAL PROOF",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "You have climbed much farther across these weeks than you realize.",
+        "text": "YOU MOVED",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s481vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Dung de lo trinh lam ban ngop",
+    "title_vi": "Đừng để lộ trình làm bạn ngợp",
+    "mechanism": "Visible Proof",
+    "lines": [
+      {
+        "vo": "Cày chứng chỉ cả tháng mà nhìn lộ trình thăng tiến vẫn mờ tịt.",
+        "text": "LỘ TRÌNH MỜ MỊT",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Nhìn KPI cuối năm của sếp giao, bạn ngỡ công sức vừa qua biến mất.",
+        "text": "CÔNG SỨC BIẾN MẤT",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Não hay lừa rằng chưa chạm đích nghĩa là chưa làm được gì.",
+        "text": "BẪY TÂM LÝ",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Tạm dừng ngó lên đỉnh núi một chút.",
+        "text": "DỪNG NHÌN ĐỈNH",
+        "actor": "hand_off",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Đổi cách đo lường: ghi lại từng giờ thực học bạn đã tích lũy.",
+        "text": "GHI TÍCH LŨY",
+        "color": "green",
+        "actor": "writing",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Lấy bút gạch chéo từng buổi hoàn thành lên cuốn lịch bàn.",
+        "text": "GẠCH LỊCH BÀN",
+        "color": "green",
+        "actor": "reading",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Dãy dấu tích đỏ là bằng chứng bạn không hề giậm chân tại chỗ.",
+        "text": "BẰNG CHỨNG THẬT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Nhìn lại xem, bạn đã đi xa hơn bạn tưởng rất nhiều.",
+        "text": "ĐÃ ĐI RẤT XA",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s482",
+    "mascot": "buff",
+    "title": "Why Panic Is Your Only Fuel",
+    "mechanism": "The Finish Line",
+    "lines": [
+      {
+        "vo": "Ten hours of focus last night, but zero focus today?",
+        "text": "EXAM CRUNCH",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Your engine fires hardest when the finish line is in sight.",
+        "text": "GOAL GRADIENT",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "When the real exam is months away, your brain coasts in neutral.",
+        "text": "COASTING MODE",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Stop waiting for panic to kick in.",
+        "text": "STOP WAITING",
+        "actor": "arms_crossed_no",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Build an artificial finish line every fourteen days.",
+        "text": "14-DAY SPRINT",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Lock in a two-week target, smash it, and grab your reward.",
+        "text": "RUN THE SPRINT",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s482vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Tu tao vach dich moi hai tuan",
+    "title_vi": "Tự tạo vạch đích mỗi hai tuần",
+    "mechanism": "The Finish Line",
+    "lines": [
+      {
+        "vo": "Mai thi thì thức trắng đêm cày được, còn hôm nay ngồi năm phút là ngáp.",
+        "text": "NƯỚC ĐẾN CHÂN",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Não bộ thường bốc hỏa mạnh nhất khi thấy vạch đích sát nút.",
+        "text": "SÁT VẠCH ĐÍCH",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Kỳ thi còn tận nửa năm, não sẽ tự động về số mo.",
+        "text": "VỀ SỐ MO",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Đừng đợi nước đến chân mới cuống cuồng thức trắng.",
+        "text": "NGỪNG CHỜ ĐỢI",
+        "actor": "arms_crossed_no",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Tự tạo vạch đích giả mỗi mười bốn ngày.",
+        "text": "ĐÍCH MỖI 14 NGÀY",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Cày hết tốc lực hai tuần, xong chặng thì tự thưởng bữa lẩu.",
+        "text": "XONG LÀ TỰ THƯỞNG",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "checkbox_tick"
+      }
+    ]
+  }
+]

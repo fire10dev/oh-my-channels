@@ -1,0 +1,369 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 29.23,
+"shots": [
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 3.729,
+"a": [
+1100,
+576,
+648
+],
+"b": [
+1392,
+520,
+460
+],
+"flash": 1
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 3.729,
+"t1": 6.047,
+"a": [
+880,
+520,
+460
+],
+"b": [
+880,
+500,
+340
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 6.047,
+"t1": 8.271,
+"a": [
+1392,
+520,
+460
+],
+"b": [
+1392,
+500,
+340
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 8.271,
+"t1": 11.762,
+"a": [
+1100,
+576,
+648
+],
+"b": [
+1392,
+520,
+460
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 11.762,
+"t1": 14.122,
+"a": [
+880,
+520,
+460
+],
+"b": [
+880,
+500,
+340
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.122,
+"t1": 17.279,
+"a": [
+1260,
+680,
+460
+],
+"b": [
+1260,
+700,
+340
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.279,
+"t1": 20.988,
+"a": [
+500,
+576,
+648
+],
+"b": [
+420,
+700,
+460
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 20.988,
+"t1": 23.571,
+"a": [
+1360,
+640,
+460
+],
+"b": [
+1360,
+600,
+340
+]
+},
+{
+"img": "p04/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.571,
+"t1": 28.83,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 23.571,
+"t1": 28.83,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 3.729,
+"text": "HIDDEN BY A MA GIAU?",
+"color": "#ffd84a"
+},
+{
+"t0": 3.729,
+"t1": 4.556,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 5.384,
+"t1": 6.047,
+"text": "MIDNIGHT",
+"color": "#ff5a4a"
+},
+{
+"t0": 6.153,
+"t1": 8.271,
+"text": "1. ASK FOR WI-FI",
+"color": "#ffffff"
+},
+{
+"t0": 14.268,
+"t1": 17.279,
+"text": "2. ORDER MILK TEA",
+"color": "#ffffff"
+},
+{
+"t0": 17.444,
+"t1": 19.099,
+"text": "3. BORROW A CHARGER",
+"color": "#ffffff"
+},
+{
+"t0": 19.264,
+"t1": 20.988,
+"text": "SECRET BASE",
+"color": "#7dff9a"
+},
+{
+"t0": 20.988,
+"t1": 21.701,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 23.571,
+"t1": 26.006,
+"text": "NOBODY LOOKING?",
+"color": "#ffd84a"
+},
+{
+"t0": 26.006,
+"t1": 28.83,
+"text": "▼ FULL EPISODE: LINK BELOW",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 4.659,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 5.011,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 5.384,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 15.866,
+"src": "p04/sfx/ting.wav",
+"vol": 0.7
+},
+{
+"t": 23.571,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 27.549,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 3.529,
+"text": "How to survive a ma giau. Learn from Bin, age ten."
+},
+{
+"t": 3.729,
+"dur": 2.068,
+"text": "I waited for the tray. Nine. Ten. Midnight."
+},
+{
+"t": 6.047,
+"dur": 2.124,
+"text": "One. Don't panic. Ask for Wi-Fi."
+},
+{
+"t": 8.271,
+"dur": 3.241,
+"text": "You skipping homework too, mister? Can you get our Wi-Fi out here?"
+},
+{
+"t": 11.762,
+"dur": 2.061,
+"text": "Eight hundred years, and nobody's asked me that."
+},
+{
+"t": 14.122,
+"dur": 2.906,
+"text": "Two. Order milk tea. Note: leave at the stairwell."
+},
+{
+"t": 17.279,
+"dur": 3.309,
+"text": "Three. Borrow a maintenance outlet. Call it a secret base."
+},
+{
+"t": 20.988,
+"dur": 1.783,
+"text": "Am I a hiding ghost or a babysitter?"
+},
+{
+"t": 23.571,
+"dur": 4.059,
+"text": "His family didn't look for him for three days. Full story on the channel."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/en/vo/e6332edc85.wav"
+},
+{
+"t": 3.729,
+"src": "loc/en/vo/efe1c49521.wav"
+},
+{
+"t": 6.047,
+"src": "loc/en/vo/cb5deff880.wav"
+},
+{
+"t": 8.271,
+"src": "loc/en/vo/ba2f1229c1.wav"
+},
+{
+"t": 11.762,
+"src": "loc/en/vo/9f0a7381ea.wav"
+},
+{
+"t": 14.122,
+"src": "loc/en/vo/52d6896ff6.wav"
+},
+{
+"t": 17.279,
+"src": "loc/en/vo/9d4bc5b27c.wav"
+},
+{
+"t": 20.988,
+"src": "loc/en/vo/963c37419b.wav"
+},
+{
+"t": 23.571,
+"src": "loc/en/vo/8c1f8d39f9.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

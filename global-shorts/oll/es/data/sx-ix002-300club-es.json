@@ -1,0 +1,107 @@
+{
+ "title": "El Club de los 300 del Polo Sur",
+ "hook": "CLUB DE 300",
+ "asof": "Datos de 2026",
+ "world": "pole",
+ "long": "IX002",
+ "chapters": [
+  {
+   "id": "club",
+   "hud": "DÍA 150",
+   "chip": "−73 °C",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "thermo",
+     "fx": "wind",
+     "st": [
+      "−73 °C",
+      "la cifra mágica"
+     ],
+     "s": "Para entrar al club, necesitas −73 grados."
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "Y casi nada de ropa."
+    },
+    {
+     "v": "wide",
+     "s": "Este es el Polo Sur, en invierno."
+    },
+    {
+     "v": "thermo",
+     "s": "Algunos días, baja de −73 grados Celsius."
+    },
+    {
+     "v": "station",
+     "s": "Entonces, parte del equipo intenta algo extremo."
+    },
+    {
+     "v": "sauna",
+     "you": "sauna",
+     "s": "Se sientan en una sauna a 93 grados."
+    },
+    {
+     "v": "hall",
+     "s": "Luego salen."
+    },
+    {
+     "v": "thermo",
+     "fx": "wind",
+     "s": "Al frío de −73 grados."
+    },
+    {
+     "d": {
+      "type": "compare",
+      "left": [
+       "SAUNA",
+       "+93 °C",
+       "por minutos"
+      ],
+      "right": [
+       "AFUERA",
+       "−73 °C",
+       "por segundos"
+      ],
+      "note": "166 GRADOS"
+     },
+     "s": "Un cambio de 166 grados."
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "Con botas,"
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "y casi nada más,"
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "corren hasta el marcador del Polo Sur."
+    },
+    {
+     "v": "hall",
+     "s": "Y vuelven."
+    },
+    {
+     "v": "sauna",
+     "you": "sauna",
+     "s": "Ese es el Club de los 300."
+    },
+    {
+     "v": "thermo",
+     "s": "Algunos inviernos, nunca hace suficiente frío para intentarlo."
+    },
+    {
+     "v": "pole",
+     "you": "pole",
+     "s": "¿Te atreverías a hacerlo?"
+    }
+   ]
+  }
+ ]
+}

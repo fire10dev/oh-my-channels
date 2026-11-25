@@ -1,0 +1,311 @@
+{
+ "_channel": {
+  "name": "Paradojas del Mapa",
+  "handles": [
+   "@ParadojasDelMapa",
+   "@ParadojasMapa",
+   "@MapaParadoja"
+  ],
+  "footer": "Datos de mapa: Natural Earth (dominio público). Narración: voz de IA (Kokoro). Música: Biblioteca de audio de YouTube.\n#mapas #geografia #shorts"
+ },
+ "w001es": {
+  "title": "Londres está más al norte que Canadá 🤯 #mapas",
+  "hook": "Europa está mucho más al norte de lo que crees.",
+  "desc": "Londres (51,5°N) está más al norte que Calgary, Vancouver, Toronto y Montreal. París está más al norte que Seattle, y Roma más arriba que Nueva York.\n¿Por qué Europa es templada? La corriente del Golfo ayuda, pero la investigación (Seager et al., 2002) muestra que pesan más los vientos del oeste sobre un océano cálido.\n\nFuentes: coordenadas de Natural Earth; Seager R. et al. (2002), Quarterly Journal of the Royal Meteorological Society.",
+  "tags": [
+   "geografía",
+   "mapas",
+   "latitud",
+   "europa",
+   "canadá",
+   "corriente del golfo",
+   "datos curiosos"
+  ],
+  "comment": "¿Qué ciudad te sorprendió más? 👇"
+ },
+ "w002es": {
+  "title": "África es 14 veces más grande que Groenlandia 🌍 #mapas",
+  "hook": "Este mapa te ha mentido toda tu vida.",
+  "desc": "En el mapa de Mercator, Groenlandia parece tan grande como África. En realidad África (30,4 millones de km²) es unas 14 veces más grande que Groenlandia (2,2 millones). Estados Unidos, China e India juntos caben dentro de África.\n\nFuentes: CIA World Factbook; proyección de Mercator (Gerardus Mercator, 1569).",
+  "tags": [
+   "mercator",
+   "tamaño real",
+   "áfrica",
+   "groenlandia",
+   "proyección",
+   "mapas",
+   "geografía"
+  ],
+  "comment": "¿Qué país crees que está más deformado en los mapas?"
+ },
+ "w003es": {
+  "title": "2 de cada 3 canadienses viven en esta franja 🇨🇦 #mapas",
+  "hook": "Canadá es el segundo país más grande del mundo, pero casi nadie vive en él.",
+  "desc": "Cerca de dos tercios de los canadienses viven a menos de 100 km de la frontera con EE. UU. Canadá tiene unos 41,5 millones de habitantes, casi igual que California (39,4 millones).\n\nFuentes: Statistics Canada (análisis 2017; estimación 2025); US Census Bureau (2024).",
+  "tags": [
+   "canadá",
+   "población",
+   "geografía",
+   "mapas",
+   "california",
+   "datos curiosos"
+  ],
+  "comment": "¿Vivirías en el norte de Canadá? 🥶"
+ },
+ "w004es": {
+  "title": "Rusia es más grande que Plutón 🪐 #mapas",
+  "hook": "Rusia es más grande que toda la superficie de Plutón.",
+  "desc": "Rusia mide 17,1 millones de km²; la superficie de Plutón, unos 16,7 millones. Tiene 11 husos horarios: las 8:00 en Kaliningrado son las 18:00 en Kamchatka. Unos tres de cada cuatro rusos viven al oeste de los Urales.\n\nFuentes: CIA World Factbook; NASA; base de datos de husos horarios IANA.",
+  "tags": [
+   "rusia",
+   "plutón",
+   "husos horarios",
+   "siberia",
+   "geografía",
+   "mapas",
+   "espacio"
+  ],
+  "comment": "¿Cuál es el país más grande que has visitado?"
+ },
+ "w005es": {
+  "title": "El 20 % del petróleo del mundo pasa por aquí ⛽ #mapas",
+  "hook": "Una quinta parte de todo el petróleo que usa el mundo pasa por este pequeño hueco.",
+  "desc": "Unos 20 millones de barriles diarios, cerca del 20 % del consumo mundial, cruzan el estrecho de Ormuz (2024). En su punto más estrecho mide unos 33 km, con carriles de navegación de unos 3 km por sentido. Los oleoductos alternativos solo llevan una pequeña parte.\n\nFuente: Administración de Información Energética de EE. UU. (EIA), 2024–2025.",
+  "tags": [
+   "estrecho de ormuz",
+   "petróleo",
+   "geopolítica",
+   "economía",
+   "mapas",
+   "medio oriente"
+  ],
+  "comment": "¿Qué paso estratégico mapeamos después?"
+ },
+ "w006es": {
+  "title": "La frontera más larga de Francia es con… Brasil 🇫🇷🇧🇷 #mapas",
+  "hook": "La frontera terrestre más larga de Francia no está en Europa.",
+  "desc": "La Guayana Francesa es parte de Francia (y de la UE), así que Francia comparte 649 km de frontera con Brasil, apenas más que con España (646 km), según el CIA World Factbook. Con sus territorios de ultramar, Francia tiene 12 husos horarios, más que ningún otro país.\n\nFuentes: CIA World Factbook; Gobierno de Francia.",
+  "tags": [
+   "francia",
+   "brasil",
+   "guayana francesa",
+   "fronteras",
+   "husos horarios",
+   "geografía",
+   "mapas"
+  ],
+  "comment": "¿Sabías que en la Guayana Francesa se paga en euros? 💶"
+ },
+ "w007es": {
+  "title": "Chile encima de Europa es una locura 🇨🇱 #mapas",
+  "hook": "Chile es el país con la forma más extraña del mundo.",
+  "desc": "Chile mide unos 4300 km de largo, pero en promedio solo unos 180 km de ancho. Puesto sobre Europa a tamaño real, iría desde el Ártico noruego hasta casi el norte de África. Del desierto de Atacama a los glaciares del sur.\n\nFuentes: CIA World Factbook; Encyclopaedia Britannica.",
+  "tags": [
+   "chile",
+   "tamaño real",
+   "europa",
+   "atacama",
+   "geografía",
+   "mapas"
+  ],
+  "comment": "¿Qué país ponemos sobre Europa la próxima vez?"
+ },
+ "w008es": {
+  "title": "Indonesia es más ancha que Estados Unidos 🇮🇩 #mapas",
+  "hook": "Indonesia es más ancha que Estados Unidos.",
+  "desc": "Indonesia mide más de 5000 km de oeste a este, más que el territorio continental de EE. UU. Tiene más de 17 000 islas y unos 280 millones de habitantes, la cuarta población del mundo.\n\nFuentes: Agencia de Información Geoespacial de Indonesia (BIG); CIA World Factbook.",
+  "tags": [
+   "indonesia",
+   "tamaño real",
+   "estados unidos",
+   "islas",
+   "geografía",
+   "mapas"
+  ],
+  "comment": "¿Has estado en Indonesia? 🏝️"
+ },
+ "w009es": {
+  "title": "El 95 % de Egipto vive en esta línea 🇪🇬 #mapas",
+  "hook": "",
+  "desc": "Cerca del 95 % de los egipcios vive a menos de 20 km del Nilo y su delta; el resto del país es el Sahara. El Nilo corre más de 6000 km hacia el norte y Egipto es el último país al que llega.\n\nFuentes: CIA World Factbook; CAPMAS (2024).",
+  "tags": [
+   "egipto",
+   "nilo",
+   "sahara",
+   "población",
+   "geografía",
+   "mapas"
+  ],
+  "comment": "¿Vivirías en el desierto o junto al río? 🏜️"
+ },
+ "w010es": {
+  "title": "Esta zanja de 82 km ahorra 12 600 km 🚢 #mapas",
+  "hook": "",
+  "desc": "El canal de Panamá recorta 12 668 km el viaje Nueva York–San Francisco. Las esclusas suben los barcos 26 m hasta el lago Gatún; cada tránsito usa unos 200 millones de litros de agua dulce, por eso la sequía de 2023 obligó a reducir el tráfico. Cerca del 5 % del comercio marítimo mundial pasa por aquí.\n\nFuentes: Autoridad del Canal de Panamá; Encyclopaedia Britannica.",
+  "tags": [
+   "canal de panamá",
+   "comercio",
+   "barcos",
+   "geografía",
+   "mapas",
+   "economía"
+  ],
+  "comment": "¿Suez o Panamá, cuál es más importante? 🤔"
+ },
+ "w011es": {
+  "title": "El país más vacío del mundo 🇲🇳 #mapas",
+  "hook": "",
+  "desc": "Mongolia (1,56 millones de km²) es más grande que Francia, Alemania, Italia y el Reino Unido juntos, pero tiene solo unos 3,5 millones de habitantes, unas 2 personas por km². Casi la mitad vive en Ulán Bator, la capital más fría del mundo.\n\nFuentes: Oficina Nacional de Estadística de Mongolia; CIA World Factbook.",
+  "tags": [
+   "mongolia",
+   "ulán bator",
+   "densidad",
+   "geografía",
+   "mapas"
+  ],
+  "comment": "¿Aguantarías un invierno en Ulán Bator? 🥶"
+ },
+ "w012es": {
+  "title": "Australia vs Estados Unidos a tamaño real 🇦🇺 #mapas",
+  "hook": "",
+  "desc": "Australia (7,7 millones de km²) es casi tan grande como EE. UU. continental (8,1 millones), pero tiene unos 27 millones de habitantes frente a 340 millones. Cerca del 85 % vive a menos de 50 km de la costa.\n\nFuentes: Oficina de Estadística de Australia; Geoscience Australia; US Census Bureau.",
+  "tags": [
+   "australia",
+   "estados unidos",
+   "tamaño real",
+   "población",
+   "geografía",
+   "mapas"
+  ],
+  "comment": "¿Qué ciudad australiana elegirías? 🦘"
+ },
+ "w013es": {
+  "title": "La ruta de petróleo más transitada mide 2,8 km ⛽ #mapas",
+  "hook": "",
+  "desc": "Unos 23,7 millones de barriles diarios cruzaron el estrecho de Malaca en 2023, más que Ormuz, sobre todo hacia China, Japón y Corea del Sur. Cerca de Singapur, el canal Phillips se estrecha a unos 2,8 km.\n\nFuente: Administración de Información Energética de EE. UU. (EIA).",
+  "tags": [
+   "estrecho de malaca",
+   "singapur",
+   "petróleo",
+   "geopolítica",
+   "mapas",
+   "economía"
+  ],
+  "comment": "¿Malaca u Ormuz, cuál importa más?"
+ },
+ "w014es": {
+  "title": "Este lago tiene más agua que los 5 Grandes Lagos 💧 #mapas",
+  "hook": "",
+  "desc": "El lago Baikal guarda unos 23 600 km³ de agua, más que los cinco Grandes Lagos juntos (unos 22 700 km³), cerca del 20 % del agua dulce superficial no congelada. Es el más profundo (1642 m) y el más antiguo (unos 25 millones de años).\n\nFuentes: UNESCO; USGS; EPA de EE. UU.",
+  "tags": [
+   "lago baikal",
+   "grandes lagos",
+   "siberia",
+   "agua dulce",
+   "geografía",
+   "mapas"
+  ],
+  "comment": "¿Te bañarías en el Baikal? 🥶"
+ },
+ "w015es": {
+  "title": "EE. UU. compró Alaska a 2 centavos el acre 🇺🇸 #mapas",
+  "hook": "",
+  "desc": "En 1867 Estados Unidos compró Alaska a Rusia por 7,2 millones de dólares, unos 2 centavos por acre. Alaska (1,72 millones de km²) es más grande que Texas, California y Montana juntos. Las islas Diómedes están a menos de 4 km.\n\nFuentes: Archivos Nacionales de EE. UU.; US Census Bureau.",
+  "tags": [
+   "alaska",
+   "rusia",
+   "historia",
+   "geografía",
+   "mapas",
+   "estados unidos"
+  ],
+  "comment": "¿El mejor o el peor negocio de la historia?"
+ },
+ "w016es": {
+  "title": "Brasil es más grande que Estados Unidos 🇧🇷 #mapas",
+  "hook": "",
+  "desc": "Brasil (8,5 millones de km²) es más grande que los 48 estados continentales de EE. UU. (8,1 millones). Tiene frontera con 10 países —todos los de Sudamérica menos Chile y Ecuador— y alberga cerca del 60 % de la Amazonía.\n\nFuentes: CIA World Factbook; IBGE.",
+  "tags": [
+   "brasil",
+   "tamaño real",
+   "estados unidos",
+   "amazonía",
+   "sudamérica",
+   "geografía",
+   "mapas"
+  ],
+  "comment": "Nombra a los 10 vecinos 👇"
+ },
+ "w017es": {
+  "title": "Un barco frenó 9600 millones al día 🚢 #mapas",
+  "hook": "",
+  "desc": "En marzo de 2021, el Ever Given bloqueó el canal de Suez seis días y frenó unos 9600 millones de dólares en comercio diario (Lloyd's List). El canal de 193 km mueve cerca del 12 % del comercio mundial; rodear África suma unos 10 días.\n\nFuentes: Autoridad del Canal de Suez; Lloyd's List (2021).",
+  "tags": [
+   "canal de suez",
+   "ever given",
+   "comercio",
+   "egipto",
+   "mapas",
+   "economía"
+  ],
+  "comment": "¿Te acuerdas de los memes del Ever Given? 😅"
+ },
+ "w018es": {
+  "title": "Un país atrapado dentro de otro país 🇱🇸 #mapas",
+  "hook": "",
+  "desc": "Lesoto está totalmente rodeado por Sudáfrica, uno de los tres únicos países enclavados (con San Marino y el Vaticano). Su punto más bajo está a unos 1400 m, el más alto de cualquier país, y vende agua a Sudáfrica.\n\nFuentes: CIA World Factbook; Gobierno de Lesoto.",
+  "tags": [
+   "lesoto",
+   "sudáfrica",
+   "enclave",
+   "fronteras",
+   "geografía",
+   "mapas"
+  ],
+  "comment": "¿Sabías que nieva en África? ❄️"
+ },
+ "w019es": {
+  "title": "El lago más grande del mundo se llama mar 🌊 #mapas",
+  "hook": "",
+  "desc": "El mar Caspio (unos 371 000 km²) no tiene salida al océano y es más grande que Alemania. Lo comparten cinco países y, por su petróleo y gas, importa si es mar o lago: la convención de 2018 le dio un estatus especial.\n\nFuentes: Encyclopaedia Britannica; Convención sobre el estatus jurídico del mar Caspio (2018).",
+  "tags": [
+   "mar caspio",
+   "lago",
+   "petróleo",
+   "kazajistán",
+   "irán",
+   "geografía",
+   "mapas"
+  ],
+  "comment": "¿Mar o lago? Vota 👇"
+ },
+ "w020es": {
+  "title": "España tiene frontera con África 🇪🇸🇲🇦 #mapas",
+  "hook": "",
+  "desc": "Ceuta y Melilla son ciudades españolas en la costa africana, parte de España y de la UE: las únicas fronteras terrestres de la Unión en el continente africano. Europa y África están a unos 14 km en el estrecho de Gibraltar, y Gibraltar es británico.\n\nFuentes: CIA World Factbook; Encyclopaedia Britannica.",
+  "tags": [
+   "españa",
+   "marruecos",
+   "ceuta",
+   "melilla",
+   "gibraltar",
+   "fronteras",
+   "mapas"
+  ],
+  "comment": "¿Has cruzado el estrecho de Gibraltar? ⛴️"
+ },
+ "w021es": {
+  "title": "Japón es más grande que Alemania 🇯🇵 #mapas",
+  "hook": "",
+  "desc": "Japón (unos 378 000 km²) es más grande que Alemania (357 600 km²), Italia o el Reino Unido. Puesto sobre Europa a tamaño real se extiende unos 3000 km. Cerca de tres cuartas partes son montañas, por eso la gente vive en las costas.\n\nFuentes: CIA World Factbook; Oficina de Estadística de Japón.",
+  "tags": [
+   "japón",
+   "alemania",
+   "tamaño real",
+   "europa",
+   "geografía",
+   "mapas"
+  ],
+  "comment": "¿Qué país comparamos después?"
+ }
+}

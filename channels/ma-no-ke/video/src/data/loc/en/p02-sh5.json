@@ -1,0 +1,300 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 26.819,
+"shots": [
+{
+"img": "p02/img/N13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 3.06,
+"a": [
+1024,
+568,
+460
+],
+"b": [
+717,
+338,
+340
+],
+"shake": 6,
+"flash": 1
+},
+{
+"img": "p02/img/B04r.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 3.06,
+"t1": 6.445,
+"a": [
+716,
+700,
+760
+],
+"b": [
+716,
+600,
+560
+]
+},
+{
+"img": "p02/img/S01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 6.445,
+"t1": 9.456,
+"a": [
+920,
+576,
+648
+],
+"b": [
+920,
+420,
+460
+]
+},
+{
+"img": "p02/img/N11.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 9.456,
+"t1": 12.443,
+"a": [
+345,
+520,
+460
+],
+"b": [
+345,
+480,
+340
+]
+},
+{
+"img": "p02/img/N23.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 12.443,
+"t1": 14.337,
+"a": [
+1306,
+450,
+460
+],
+"b": [
+1306,
+360,
+340
+],
+"shake": 8
+},
+{
+"img": "p02/img/B04r.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 14.337,
+"t1": 18.742,
+"a": [
+716,
+650,
+700
+],
+"b": [
+716,
+600,
+560
+]
+},
+{
+"img": "p02/img/N19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 18.742,
+"t1": 21.88,
+"a": [
+1766,
+743,
+460
+],
+"b": [
+1766,
+819,
+340
+]
+},
+{
+"img": "p02/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 21.88,
+"t1": 26.319,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p02/img/cut_B02.png",
+"size": 1344,
+"t0": 21.88,
+"t1": 26.319,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 4.069,
+"t1": 6.445,
+"text": "WHATEVER THE PAPER SAYS, THAT'S THE TRUTH",
+"color": "#ffffff"
+},
+{
+"t0": 21.88,
+"t1": 26.319,
+"text": "WHAT DO I TAKE? ↓",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "p02/sfx/rung.wav",
+"vol": 0.8
+},
+{
+"t": 0.15,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 4.069,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 14.753,
+"src": "p02/sfx/chuong.wav",
+"vol": 0.6
+},
+{
+"t": 20.588,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 21.88,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 25.251,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 2.511,
+"text": "I… I'm still alive. Why are you checking me in?"
+},
+{
+"t": 3.06,
+"dur": 2.884,
+"text": "You signed the paper. Whatever it says, that's the truth."
+},
+{
+"t": 6.445,
+"dur": 5.749,
+"text": "There. A mistake. But by the book. Thanks to that mistake, Loc's wife back home sleeps soundly."
+},
+{
+"t": 12.443,
+"dur": 1.643,
+"text": "Spare me! I'll burn a car for you!"
+},
+{
+"t": 14.337,
+"dur": 4.154,
+"text": "I ride my bike to work. Your time isn't up. I'm not taking your life."
+},
+{
+"t": 18.742,
+"dur": 2.638,
+"text": "I don't take lives. I take… something else."
+},
+{
+"t": 21.88,
+"dur": 3.44,
+"text": "What does he take? Guess in the comments. I'll tell you next time."
+}
+],
+"comments": [
+{
+"t": 0.15,
+"u": "🔔 TimeClock",
+"c": "nguyen van phat — PRESENT 03:00",
+"end": 3.06
+}
+],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/en/vo/8a1f735314.wav"
+},
+{
+"t": 3.06,
+"src": "loc/en/vo/86c635ad3b.wav"
+},
+{
+"t": 6.445,
+"src": "loc/en/vo/ee3179ea55.wav"
+},
+{
+"t": 12.443,
+"src": "loc/en/vo/75562176b5.wav"
+},
+{
+"t": 14.337,
+"src": "loc/en/vo/e1709520f2.wav"
+},
+{
+"t": 18.742,
+"src": "loc/en/vo/70d7dd0174.wav"
+},
+{
+"t": 21.88,
+"src": "loc/en/vo/c84f38bc32.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

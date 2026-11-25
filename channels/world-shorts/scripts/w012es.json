@@ -1,0 +1,150 @@
+{
+ "id": "w012es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#eab308",
+ "cover_frame": 60,
+ "source": "Población y costa: Oficina de Estadística de Australia · Superficie: Geoscience Australia",
+ "music": "shared/library/music/yt-audio-library/A Stroll Alone - Everet Almond.mp3",
+ "beats": [
+  {
+   "say": "Australia es casi tan grande como Estados Unidos continental.",
+   "title": "AUSTRALIA ES ENORME (Y VACÍA)",
+   "cam": {
+    "lon": 134,
+    "lat": -26,
+    "span": 55
+   },
+   "hl": [
+    {
+     "a3": "AUS",
+     "color": "#eab308"
+    }
+   ]
+  },
+  {
+   "say": "Ponla encima de Estados Unidos, a tamaño real.",
+   "cam": {
+    "lon": -98,
+    "lat": 39,
+    "span": 70
+   },
+   "hl": [
+    {
+     "a3": "USA",
+     "color": "#334155"
+    }
+   ],
+   "ghost": {
+    "a3": "AUS",
+    "to": [
+     -97,
+     38
+    ],
+    "color": "#eab308"
+   }
+  },
+  {
+   "say": "Encaja casi perfecto. Pero Estados Unidos tiene unos trescientos cuarenta millones de habitantes. Australia, unos veintisiete millones.",
+   "cam": {
+    "lon": -97,
+    "lat": 38,
+    "span": 70
+   },
+   "ghost": {
+    "a3": "AUS",
+    "to": [
+     -97,
+     38
+    ],
+    "color": "#eab308"
+   },
+   "bars": {
+    "unit": "M",
+    "items": [
+     {
+      "label": "EE. UU.",
+      "value": 340,
+      "color": "#3b82f6"
+     },
+     {
+      "label": "Australia",
+      "value": 27,
+      "color": "#eab308"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Y casi todos los australianos viven en el borde. Cerca del ochenta y cinco por ciento vive a menos de cincuenta kilómetros de la costa.",
+   "cam": {
+    "lon": 134,
+    "lat": -27,
+    "span": 50
+   },
+   "hl": [
+    {
+     "a3": "AUS",
+     "color": "#78716c"
+    }
+   ],
+   "pins": [
+    {
+     "lon": 151.21,
+     "lat": -33.87,
+     "text": "Sídney"
+    },
+    {
+     "lon": 144.96,
+     "lat": -37.81,
+     "text": "Melbourne"
+    },
+    {
+     "lon": 153.03,
+     "lat": -27.47,
+     "text": "Brisbane"
+    },
+    {
+     "lon": 115.86,
+     "lat": -31.95,
+     "text": "Perth"
+    }
+   ],
+   "big": {
+    "value": "85%",
+    "label": "viven cerca de la costa"
+   }
+  },
+  {
+   "say": "El centro es el outback: desierto, matorral y tierra roja hasta donde alcanza la vista.",
+   "cam": {
+    "lon": 133,
+    "lat": -25,
+    "span": 35
+   },
+   "hl": [
+    {
+     "a3": "AUS",
+     "color": "#b45309"
+    }
+   ]
+  },
+  {
+   "say": "Un continente entero viviendo en la playa. Sígueme para más.",
+   "title": "UN CONTINENTE EN LA PLAYA",
+   "cam": {
+    "lon": 134,
+    "lat": -26,
+    "span": 55
+   },
+   "hl": [
+    {
+     "a3": "AUS",
+     "color": "#eab308"
+    }
+   ]
+  }
+ ]
+}

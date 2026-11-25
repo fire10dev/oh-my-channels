@@ -1,0 +1,368 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 44.159,
+"shots": [
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 0.0,
+"t1": 4.614,
+"a": [
+560,
+1080,
+800
+],
+"b": [
+600,
+1150,
+640
+],
+"flash": 1
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.614,
+"t1": 11.709,
+"a": [
+700,
+576,
+648
+],
+"b": [
+893,
+720,
+340
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 11.709,
+"t1": 14.954,
+"a": [
+960,
+576,
+648
+],
+"b": [
+960,
+640,
+460
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 14.954,
+"t1": 18.932,
+"a": [
+440,
+950,
+700
+],
+"b": [
+440,
+950,
+520
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 18.932,
+"t1": 23.641,
+"a": [
+640,
+992,
+900
+],
+"b": [
+560,
+1000,
+600
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.641,
+"t1": 25.753,
+"a": [
+1560,
+330,
+340
+],
+"b": [
+1560,
+302,
+340
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 25.753,
+"t1": 31.5,
+"a": [
+1300,
+576,
+648
+],
+"b": [
+1520,
+420,
+460
+],
+"dark": 0.3
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 31.5,
+"t1": 37.52,
+"a": [
+560,
+1080,
+800
+],
+"b": [
+640,
+1240,
+620
+]
+},
+{
+"img": "p03/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 37.52,
+"t1": 43.759,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 37.52,
+"t1": 43.759,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 4.614,
+"text": "EXPEDIENTE: MA XO",
+"color": "#ffd84a"
+},
+{
+"t0": 4.955,
+"t1": 11.709,
+"text": "1. RINCÓN DE LA COCINA",
+"color": "#ffffff"
+},
+{
+"t0": 11.866,
+"t1": 14.954,
+"text": "2. CUIDA LAS COSAS",
+"color": "#ffffff"
+},
+{
+"t0": 19.163,
+"t1": 23.641,
+"text": "3. EDUCADÍSIMO Y DA MIEDO",
+"color": "#ffffff"
+},
+{
+"t0": 26.007,
+"t1": 28.53,
+"text": "4. CUENTA TODA LA NOCHE",
+"color": "#ffffff"
+},
+{
+"t0": 28.782,
+"t1": 31.5,
+"text": "QUIZÁ NO ES DINERO",
+"color": "#ff5a4a"
+},
+{
+"t0": 34.48,
+"t1": 37.52,
+"text": "FORTUNA = FRASCO",
+"color": "#ffd84a"
+},
+{
+"t0": 37.52,
+"t1": 40.543,
+"text": "¿413 DE QUÉ?",
+"color": "#ffd84a"
+},
+{
+"t0": 40.543,
+"t1": 43.759,
+"text": "▼ EPISODIO COMPLETO: ENLACE ABAJO",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.0,
+"src": "p03/sfx/chuonggio.wav",
+"vol": 0.5
+},
+{
+"t": 15.138,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 27.268,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 37.52,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 42.459,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 4.414,
+"text": "Expediente ma xo. Si tu familia lleva tres generaciones aquí, escucha bien."
+},
+{
+"t": 4.614,
+"dur": 6.845,
+"text": "Uno. Es un niño sentado en una esquina, casi siempre en la cocina. Está ahí desde los tiempos del tatarabuelo. Nunca se ha ido."
+},
+{
+"t": 11.709,
+"dur": 3.146,
+"text": "Dos. Cuida las cosas de la familia. Nada sale de la casa."
+},
+{
+"t": 14.954,
+"dur": 3.679,
+"text": "Si venden la casa, sus cosas se van. Tengo que mantenerlas aquí."
+},
+{
+"t": 18.932,
+"dur": 4.608,
+"text": "Tres. Es muy educado. Se llama «tu hijo» y te dice «señor». Da miedo de tan educado."
+},
+{
+"t": 23.641,
+"dur": 1.813,
+"text": "No asusto a nadie. Solo cuento."
+},
+{
+"t": 25.753,
+"dur": 5.046,
+"text": "Cuatro. ¿Oyes que cuentan detrás de la pared a medianoche? No te alegres. Quizá no sea dinero."
+},
+{
+"t": 31.5,
+"dur": 5.42,
+"text": "El tatarabuelo me encargó una cosa: toda la fortuna está en el frasco bajo la cocina. Cuídalo. Y lo hice."
+},
+{
+"t": 37.52,
+"dur": 5.039,
+"text": "En casa del señor Khai, contó hasta cuatrocientos trece. Historia completa en el canal."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/es/vo/dcebdc24e3.wav"
+},
+{
+"t": 4.614,
+"src": "loc/es/vo/bbfd02e7e4.wav"
+},
+{
+"t": 11.709,
+"src": "loc/es/vo/fe935878f1.wav"
+},
+{
+"t": 14.954,
+"src": "loc/es/vo/1a8ce9e584.wav"
+},
+{
+"t": 18.932,
+"src": "loc/es/vo/59ac7e4671.wav"
+},
+{
+"t": 23.641,
+"src": "loc/es/vo/3478250dcb.wav"
+},
+{
+"t": 25.753,
+"src": "loc/es/vo/d84f075aac.wav"
+},
+{
+"t": 31.5,
+"src": "loc/es/vo/e2ceb975ed.wav"
+},
+{
+"t": 37.52,
+"src": "loc/es/vo/ba1075cf30.wav"
+}
+],
+"mutes": [
+[
+14.76,
+18.932
+],
+[
+31.3,
+37.52
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

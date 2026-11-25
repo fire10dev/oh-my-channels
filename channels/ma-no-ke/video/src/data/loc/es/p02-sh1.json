@@ -1,0 +1,382 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 44.995,
+"shots": [
+{
+"img": "p02/img/N04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 4.21,
+"a": [
+486,
+660,
+460
+],
+"b": [
+486,
+640,
+340
+],
+"flash": 1
+},
+{
+"img": "p02/img/N01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.21,
+"t1": 7.484,
+"a": [
+870,
+576,
+648
+],
+"b": [
+870,
+650,
+460
+]
+},
+{
+"img": "p02/img/N01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 7.484,
+"t1": 10.755,
+"a": [
+384,
+650,
+460
+],
+"b": [
+384,
+640,
+340
+]
+},
+{
+"img": "p02/img/N03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.755,
+"t1": 14.496,
+"a": [
+1150,
+576,
+648
+],
+"b": [
+1150,
+470,
+460
+]
+},
+{
+"img": "p02/img/N12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.496,
+"t1": 19.587,
+"a": [
+700,
+420,
+460
+],
+"b": [
+660,
+360,
+340
+],
+"shake": 5
+},
+{
+"img": "p02/img/N05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 19.587,
+"t1": 25.917,
+"a": [
+900,
+576,
+648
+],
+"b": [
+666,
+640,
+460
+]
+},
+{
+"img": "p02/img/N06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 25.917,
+"t1": 30.797,
+"a": [
+1664,
+576,
+648
+],
+"b": [
+1664,
+600,
+460
+]
+},
+{
+"img": "p02/img/N05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 30.797,
+"t1": 32.842,
+"a": [
+1434,
+460,
+460
+],
+"b": [
+1434,
+440,
+340
+]
+},
+{
+"img": "p02/img/N03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 32.842,
+"t1": 36.019,
+"a": [
+1150,
+470,
+460
+],
+"b": [
+1150,
+440,
+340
+]
+},
+{
+"img": "p02/img/N04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 36.019,
+"t1": 39.194,
+"a": [
+1075,
+420,
+460
+],
+"b": [
+1075,
+360,
+340
+]
+},
+{
+"img": "p02/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 39.194,
+"t1": 44.495,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p02/img/cut_B02.png",
+"size": 1344,
+"t0": 39.194,
+"t1": 44.495,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.15,
+"t1": 4.21,
+"text": "ENTRADA ✔ · SALIDA ✖",
+"color": "#ffd84a"
+},
+{
+"t0": 12.849,
+"t1": 14.496,
+"text": "LA FÁBRICA ES EL HOGAR ❤",
+"color": "#ff8fb1"
+},
+{
+"t0": 17.075,
+"t1": 19.587,
+"text": "BONO DE ASISTENCIA DESCONTADO",
+"color": "#ff5a4a"
+},
+{
+"t0": 39.194,
+"t1": 44.495,
+"text": "¿QUÉ TRAMABA EL JEFE?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.35
+},
+{
+"t": 2.782,
+"src": "sh6/sfx/snap.wav",
+"vol": 0.5
+},
+{
+"t": 4.21,
+"src": "p02/sfx/may.wav",
+"vol": 0.45
+},
+{
+"t": 23.234,
+"src": "p02/sfx/mayoff.wav",
+"vol": 0.6
+},
+{
+"t": 25.917,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 39.194,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 43.41,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 3.76,
+"text": "Este reloj de fábrica solo tiene botón de entrada. No de salida."
+},
+{
+"t": 4.21,
+"dur": 6.294,
+"text": "Expediente. Fábrica de ropa Phat Dat. Trescientos trabajadores. Turno nocturno hasta las dos de la mañana."
+},
+{
+"t": 10.755,
+"dur": 3.491,
+"text": "Director Phat. Su frase favorita: «La fábrica es el hogar»."
+},
+{
+"t": 14.496,
+"dur": 4.691,
+"text": "¡Las horas extra son dedicación! ¡Si sales temprano, pierdes el bono de asistencia!"
+},
+{
+"t": 19.587,
+"dur": 6.079,
+"text": "Tran Van Loc. Equipo de costura tres. Jueves, dos y diez de la mañana. Se desplomó sobre su máquina."
+},
+{
+"t": 25.917,
+"dur": 4.281,
+"text": "No volvió a levantarse. El registro dice: dos y diez. En la fábrica."
+},
+{
+"t": 30.797,
+"dur": 1.545,
+"text": "Señor Loc… señor Loc."
+},
+{
+"t": 32.842,
+"dur": 6.103,
+"text": "Lo primero que preguntó el jefe no fue cómo estaba Loc. Preguntó si la cámara alcanzaba a grabar ese lugar."
+},
+{
+"t": 39.194,
+"dur": 4.302,
+"text": "¿Qué tramaba el jefe? Te cuento la próxima vez. Historia completa en el canal."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/es/vo/89eacdef4e.wav"
+},
+{
+"t": 4.21,
+"src": "loc/es/vo/77ee3dedb4.wav"
+},
+{
+"t": 10.755,
+"src": "loc/es/vo/174db2587e.wav"
+},
+{
+"t": 14.496,
+"src": "loc/es/vo/17b27864f0.wav"
+},
+{
+"t": 19.587,
+"src": "loc/es/vo/ff3308bd2a.wav"
+},
+{
+"t": 25.917,
+"src": "loc/es/vo/7c6f991b3a.wav"
+},
+{
+"t": 30.797,
+"src": "loc/es/vo/cf72ddfee9.wav"
+},
+{
+"t": 32.842,
+"src": "loc/es/vo/312e102998.wav"
+},
+{
+"t": 39.194,
+"src": "loc/es/vo/973317e77a.wav"
+}
+],
+"mutes": [
+[
+25.717,
+30.797
+],
+[
+30.597,
+32.842
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

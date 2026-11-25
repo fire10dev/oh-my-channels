@@ -1,0 +1,216 @@
+[
+  {
+    "id": "s511",
+    "mascot": "pen",
+    "title": "Why The Last Room Isn't Special",
+    "mechanism": "Scarcity Trap",
+    "lines": [
+      {"vo": "Only one hotel room left, flashing in bright red.", "text": "LAST ROOM LEFT", "color": "red", "actor": "panic", "prop": "laptop_file"},
+      {"vo": "I booked it instantly without reading a single review.", "text": "PANIC BOOKING", "color": "red", "actor": "typing_focused"},
+      {"vo": "When something seems scarce, your mind automatically assumes higher value.", "text": "SCARCITY TRAP", "actor": "think", "prop": "brain"},
+      {"vo": "Websites often highlight fake shortages to rush your checkout.", "text": "FAKE SHORTAGE", "color": "red", "actor": "shocked", "prop": "hourglass"},
+      {"vo": "Next time, close the browser tab and take a quiet walk.", "text": "STEP AWAY", "color": "green", "actor": "small_step"},
+      {"vo": "Three equal rooms will quietly appear tomorrow morning.", "text": "ROOMS REMAIN", "color": "gold", "actor": "front"}
+    ]
+  },
+  {
+    "id": "s511vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Vi sao phong cuoi chua chac da hiem?",
+    "title_vi": "Vì sao phòng cuối chưa chắc đã hiếm?",
+    "mechanism": "Scarcity Trap",
+    "lines": [
+      {"vo": "Ứng dụng du lịch nhấp nháy dòng chữ chỉ còn đúng một phòng.", "text": "CHỈ CÒN 1 PHÒNG", "color": "red", "actor": "panic", "prop": "smartphone_glow"},
+      {"vo": "Mình vội bấm đặt ngay dù chưa kịp đọc đánh giá.", "text": "CHỐT VỘI VÀNG", "color": "red", "actor": "typing_focused"},
+      {"vo": "Thấy hiếm, não ta dễ tự phóng đại giá trị món đồ.", "text": "BẪY KHAN HIẾM", "actor": "think", "prop": "brain"},
+      {"vo": "Nhiều ứng dụng cố tình tạo cảm giác hết hàng để giục giã.", "text": "CƠN SỐT ẢO", "color": "red", "actor": "shocked", "prop": "hourglass"},
+      {"vo": "Hãy tắt điện thoại và ra ngoài đi dạo mười lăm phút.", "text": "ĐI DẠO MƯỜI PHÚT", "color": "green", "actor": "small_step"},
+      {"vo": "Khách sạn tốt luôn còn nhiều hơn ta tưởng.", "text": "VẪN CÒN PHÒNG", "color": "gold", "actor": "front"}
+    ]
+  },
+  {
+    "id": "s512",
+    "mascot": "buff",
+    "title": "The 60-Second Live Trap",
+    "mechanism": "Reactance",
+    "lines": [
+      {"vo": "Sixty seconds left on a discounted charger you never wanted.", "text": "COUNTDOWN PANIC", "color": "red", "actor": "shocked", "prop": "smartphone_glow"},
+      {"vo": "Now you desperately want it. Classic psychological reactance.", "text": "REACTANCE", "color": "red", "actor": "arms_crossed_no", "prop": "brain"},
+      {"vo": "When someone restricts your freedom, your brain rebels by buying.", "text": "FAKE CONTROL", "actor": "confused_shrug"},
+      {"vo": "You think you won, but the seller scripted your move.", "text": "HOST SCRIPTED", "color": "red", "actor": "facepalm"},
+      {"vo": "Kill the stream. Keeping your cash is the ultimate power lift.", "text": "KEEP YOUR CASH", "color": "gold", "actor": "celebrate", "prop": "dumbbell"}
+    ]
+  },
+  {
+    "id": "s512vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Bay dem nguoc tren phien live",
+    "title_vi": "Bẫy đếm ngược trên phiên live",
+    "mechanism": "Reactance",
+    "lines": [
+      {"vo": "Người bán gào lên còn sáu mươi giây cho chiếc cáp sạc.", "text": "CÒN 60 GIÂY", "color": "red", "actor": "shocked", "prop": "smartphone_glow"},
+      {"vo": "Mười phút trước không cần, giờ cuống cuồng chốt đơn.", "text": "MẮC BẪY NGHỊCH LÝ", "color": "red", "actor": "panic"},
+      {"vo": "Bị ép thời gian, não phản kháng bằng cách mua để nắm quyền.", "text": "PHẢN KHÁNG TÂM LÝ", "actor": "arms_crossed_no", "prop": "brain"},
+      {"vo": "Tắt luồng trực tiếp ngay. Đó là bài tập hạ nhiệt hôm nay.", "text": "TẮT PHIÊN LIVE", "color": "green", "actor": "small_step"},
+      {"vo": "Giữ chặt tiền trong ví mới là bản lĩnh thực sự.", "text": "GIỮ CHẶT VÍ TIỀN", "color": "gold", "actor": "celebrate", "prop": "dumbbell"}
+    ]
+  },
+  {
+    "id": "s513",
+    "mascot": "pen",
+    "title": "Why Popups Make You Panic",
+    "mechanism": "Social Exclusion",
+    "lines": [
+      {"vo": "A stream popup flashes fifty names buying the deal right now.", "text": "BUYERS TICKER", "color": "red", "actor": "phone_grin", "prop": "smartphone_glow"},
+      {"vo": "A quiet panic hits. Everyone is joining, and you are outside.", "text": "LEFT OUT", "color": "red", "actor": "worried_heart"},
+      {"vo": "That is anticipated social exclusion pulling your tribal instincts.", "text": "HERD FEAR", "actor": "think", "prop": "brain"},
+      {"vo": "Our ancestors survived by staying glued to the moving group.", "text": "OLD INSTINCT", "actor": "confused_shrug"},
+      {"vo": "Stream counters amplify that crowd noise on purpose.", "text": "NOISY CROWD", "color": "red", "actor": "shocked", "prop": "notification_bell"},
+      {"vo": "Mute the broadcast alerts for a full day.", "text": "MUTE ALERTS", "color": "green", "actor": "hand_off"},
+      {"vo": "Without the flashing crowd, did you ever truly want it?", "text": "DO YOU NEED IT?", "color": "gold", "actor": "think"}
+    ]
+  },
+  {
+    "id": "s513vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Noi so bi bo roi khi xem live",
+    "title_vi": "Nỗi sợ bị bỏ rơi khi xem live",
+    "mechanism": "Social Exclusion",
+    "lines": [
+      {"vo": "Màn hình liên tục nhảy thông báo người này người kia vừa mua.", "text": "NGƯỜI KHÁC ĐANG MUA", "color": "red", "actor": "phone_grin", "prop": "smartphone_glow"},
+      {"vo": "Tự dưng thấy lo lắng như thể cả thế giới đang gom hết.", "text": "SỢ BỊ BỎ LẠI", "color": "red", "actor": "worried_heart"},
+      {"vo": "Não người xưa sợ nhất là bị bầy đàn bỏ rơi.", "text": "TÂM LÝ BẦY ĐÀN", "actor": "think", "prop": "brain"},
+      {"vo": "Những dòng thông báo nhảy số chỉ để kích hoạt nỗi sợ đó.", "text": "DÒNG CHỮ ĐẨY HÀNG", "color": "red", "actor": "shocked", "prop": "notification_bell"},
+      {"vo": "Tắt thông báo của ứng dụng mua sắm một ngày.", "text": "TẮT THÔNG BÁO", "color": "green", "actor": "hand_off"},
+      {"vo": "Cơn sốt ảo lập tức tan biến khi màn hình im lặng.", "text": "CƠN SỐT TAN BIẾN", "color": "green", "actor": "small_step"},
+      {"vo": "Nếu không có đám đông kia, bạn có thật sự muốn mua?", "text": "CÓ THẬT SỰ CẦN?", "color": "gold", "actor": "think"}
+    ]
+  },
+  {
+    "id": "s514",
+    "mascot": "buff",
+    "title": "The Midnight Sale Panic",
+    "mechanism": "Regret Aversion",
+    "lines": [
+      {"vo": "Staring at an expiring electronics sale for two solid hours.", "text": "SALE HOVERING", "color": "red", "actor": "bed_phone_night", "prop": "smartphone_glow"},
+      {"vo": "Terrified you will kick yourself next week. Sure, buddy.", "text": "FEAR OF REGRET", "color": "red", "actor": "arms_crossed_no"},
+      {"vo": "Your mind overestimates the pain of missing a bargain.", "text": "EXAGGERATED PAIN", "actor": "think", "prop": "brain"},
+      {"vo": "You are paying eighty dollars just to dodge ten minutes of worry.", "text": "PAYING FOR RELIEF", "color": "red", "actor": "wallet_worry", "prop": "coin_stack"},
+      {"vo": "Picture unboxing that gadget two weeks from today.", "text": "TWO WEEKS LATER", "actor": "future_tired"},
+      {"vo": "The novelty is gone. The clutter sits on your desk.", "text": "USELESS CLUTTER", "color": "red", "actor": "facepalm", "prop": "paper_mountain"},
+      {"vo": "Buyer remorse lasts for months. Missed sales vanish by morning.", "text": "REMORSE LASTS", "actor": "confused_shrug"},
+      {"vo": "Close the cart. Take the clean win.", "text": "TAKE THE WIN", "color": "gold", "actor": "celebrate"}
+    ]
+  },
+  {
+    "id": "s514vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung de noi so tiec nuoi moc vi",
+    "title_vi": "Đừng để nỗi sợ tiếc nuối móc ví",
+    "mechanism": "Regret Aversion",
+    "lines": [
+      {"vo": "Nằm lướt đợt giảm giá đồ công nghệ suốt hai tiếng nửa đêm.", "text": "CANH SALE NỬA ĐÊM", "color": "red", "actor": "bed_phone_night", "prop": "smartphone_glow"},
+      {"vo": "Sợ mai hết hạn thì tiếc hùi hụi. Nghe quen chưa.", "text": "SỢ BỎ LỠ TIẾC", "color": "red", "actor": "arms_crossed_no"},
+      {"vo": "Não thường thổi phồng cảm giác tiếc nuối khi trượt giảm giá.", "text": "TIẾC ẢO TƯỞNG", "actor": "think", "prop": "brain"},
+      {"vo": "Bỏ tiền triệu ra chỉ để mua sự yên tâm trong mười phút.", "text": "MUA YÊN TÂM NGẮN", "color": "red", "actor": "wallet_worry", "prop": "coin_stack"},
+      {"vo": "Thử tưởng tượng hai tuần nữa khi bóc hộp món đồ này.", "text": "HAI TUẦN NỮA", "actor": "future_tired"},
+      {"vo": "Hết hào hứng, nó lại nằm bám bụi một góc bàn.", "text": "BÁM BỤI GÓC BÀN", "color": "red", "actor": "facepalm", "prop": "paper_mountain"},
+      {"vo": "Hối hận vì mua nhầm dai dẳng hơn tiếc vì không mua nhiều.", "text": "TIẾC NUỐI TẬN CÙNG", "actor": "confused_shrug"},
+      {"vo": "Xoá giỏ hàng đi. Ngủ sớm cho hồi sức.", "text": "XOÁ GIỎ HÀNG NGAY", "color": "gold", "actor": "celebrate"}
+    ]
+  },
+  {
+    "id": "s515",
+    "mascot": "pen",
+    "title": "Why Small Deadlines Hijack You",
+    "mechanism": "Mere Urgency",
+    "lines": [
+      {"vo": "Sitting down to pay the electric bill, then dropping it entirely.", "text": "FORGOTTEN BILL", "color": "red", "actor": "shocked", "prop": "laptop_file"},
+      {"vo": "All to grab a five-minute coffee coupon.", "text": "COFFEE COUPON", "color": "red", "actor": "coffee", "prop": "hourglass"},
+      {"vo": "The mere urgency effect makes trivial tasks with deadlines feel urgent.", "text": "MERE URGENCY", "actor": "think", "prop": "brain"},
+      {"vo": "Completing a ticking timer gives your brain an easy hit.", "text": "EASY QUICK HIT", "color": "red", "actor": "confused_shrug", "prop": "alarm_clock"},
+      {"vo": "Next time a clock ticks, ask: is this important, or merely urgent?", "text": "TRULY IMPORTANT?", "color": "gold", "actor": "meditating"}
+    ]
+  },
+  {
+    "id": "s515vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Bo viec lon di giat ma tra sua",
+    "title_vi": "Bỏ việc lớn đi giật mã trà sữa",
+    "mechanism": "Mere Urgency",
+    "lines": [
+      {"vo": "Đang mở máy tính đóng tiền điện thì bỏ dở giữa chừng.", "text": "QUÊN TIỀN ĐIỆN", "color": "red", "actor": "shocked", "prop": "laptop_file"},
+      {"vo": "Chỉ để vào giật mã giảm giá trà sữa mười nghìn đồng.", "text": "MÃ TRÀ SỮA", "color": "red", "actor": "coffee", "prop": "hourglass"},
+      {"vo": "Việc lặt vặt có đồng hồ đếm ngược luôn dễ cướp sự chú ý.", "text": "HIỆU ỨNG CẤP BÁCH", "actor": "think", "prop": "brain"},
+      {"vo": "Bấm kịp đồng hồ cho não cảm giác hoàn thành giả tạo.", "text": "ẢO GIÁC CHIẾN THẮNG", "color": "red", "actor": "confused_shrug", "prop": "alarm_clock"},
+      {"vo": "Trước khi vội vã, thử hỏi: việc này quan trọng, hay chỉ gấp gáp?", "text": "QUAN TRỌNG KHÔNG?", "color": "gold", "actor": "meditating"}
+    ]
+  },
+  {
+    "id": "s516",
+    "mascot": "buff",
+    "title": "The 5-Minute Cart Panic",
+    "mechanism": "Deadline Effect",
+    "lines": [
+      {"vo": "The store gives you five minutes to checkout or lose your cart.", "text": "CART LOCK TIMER", "color": "red", "actor": "panic", "prop": "hourglass"},
+      {"vo": "You rush through and miss a hefty twenty-dollar shipping fee.", "text": "HIDDEN FEES", "color": "red", "actor": "wallet_worry"},
+      {"vo": "That is the deadline effect. Time pressure locks you in tunnel vision.", "text": "DEADLINE TUNNEL", "actor": "shocked", "prop": "brain"},
+      {"vo": "Your rational brain runs out of gas under an artificial clock.", "text": "BRAIN GASSED OUT", "color": "red", "actor": "facepalm"},
+      {"vo": "Take a strict sixty-second breath test before tapping confirm.", "text": "SIXTY SECONDS", "color": "green", "actor": "hand_off"},
+      {"vo": "Letting the cart expire costs zero. Panic shopping empties your wallet.", "text": "ZERO COST LOSS", "color": "gold", "actor": "celebrate", "prop": "coin_stack"}
+    ]
+  },
+  {
+    "id": "s516vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Cai gia cua viec chot don voi",
+    "title_vi": "Cái giá của việc chốt đơn vội",
+    "mechanism": "Deadline Effect",
+    "lines": [
+      {"vo": "Ứng dụng giữ đơn hàng đúng năm phút kẻo bạn mất lượt.", "text": "GIỮ ĐƠN NĂM PHÚT", "color": "red", "actor": "panic", "prop": "hourglass"},
+      {"vo": "Cuống cuồng thanh toán, quên nhìn phí vận chuyển năm mươi nghìn.", "text": "PHÍ SHIP TRÊN TRỜI", "color": "red", "actor": "wallet_worry"},
+      {"vo": "Đồng hồ đếm ngược đẩy bạn vào tầm nhìn đường hầm.", "text": "HIỆU ỨNG HẠN CHÓT", "actor": "shocked", "prop": "brain"},
+      {"vo": "Áp lực thời gian khiến bạn chỉ muốn kịp giờ mà quên tính toán.", "text": "MẤT TỈNH TÁO", "color": "red", "actor": "facepalm"},
+      {"vo": "Bỏ tay khỏi màn hình một phút để kiểm tra lại tổng tiền.", "text": "DỪNG LẠI MỘT PHÚT", "color": "green", "actor": "hand_off"},
+      {"vo": "Đơn hàng hết hạn tốn không đồng. Bấm vội mất nửa ngày lương.", "text": "ĐỪNG MẤT TIỀN OAN", "color": "gold", "actor": "celebrate", "prop": "coin_stack"}
+    ]
+  },
+  {
+    "id": "s517",
+    "mascot": "pen",
+    "title": "The Crossed-Out Price Trick",
+    "mechanism": "Price Anchoring",
+    "lines": [
+      {"vo": "A jacket marked down from three hundred dollars to eighty.", "text": "MASSIVE DISCOUNT", "color": "red", "actor": "shocked", "prop": "coin_stack"},
+      {"vo": "It feels like saving two hundred and twenty dollars instantly.", "text": "INSTANT SAVINGS?", "color": "red", "actor": "phone_grin"},
+      {"vo": "Price anchoring at work. The first number sets your perception.", "text": "PRICE ANCHORING", "actor": "think", "prop": "brain"},
+      {"vo": "Original prices are often inflated just to make standard tags shine.", "text": "INFLATED ANCHOR", "color": "red", "actor": "confused_shrug"},
+      {"vo": "You did not save two hundred dollars. You spent eighty.", "text": "SPENT EIGHTY", "color": "red", "actor": "wallet_worry"},
+      {"vo": "Try the cash test: would you hand over real paper bills?", "text": "CASH TEST", "color": "green", "actor": "small_step"},
+      {"vo": "Real value is measured by your budget, never their anchor.", "text": "MEASURE BY BUDGET", "color": "gold", "actor": "front"}
+    ]
+  },
+  {
+    "id": "s517vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Ao giac giam gia tu muc gia goc",
+    "title_vi": "Ảo giác giảm giá từ mức giá gốc",
+    "mechanism": "Price Anchoring",
+    "lines": [
+      {"vo": "Chiếc áo khoác gắn mác giảm từ hai triệu xuống bốn trăm nghìn.", "text": "GIẢM SỐC HAI TRIỆU", "color": "red", "actor": "shocked", "prop": "coin_stack"},
+      {"vo": "Cảm giác như mình vừa hời được một triệu sáu trăm nghìn.", "text": "TƯỞNG ĐƯỢC HỜI", "color": "red", "actor": "phone_grin"},
+      {"vo": "Đó là hiệu ứng mỏ neo giá. Con số đầu tiên chi phối nhận thức.", "text": "MỎ NEO GIÁ", "actor": "think", "prop": "brain"},
+      {"vo": "Giá gốc thường bị đẩy lên cao để mức giảm trông thật hời.", "text": "GIÁ GỐC ẢO", "color": "red", "actor": "confused_shrug"},
+      {"vo": "Bạn không tiết kiệm được triệu nào, mà vừa mất bốn trăm nghìn.", "text": "MẤT BỐN TRĂM NGHÌN", "color": "red", "actor": "wallet_worry"},
+      {"vo": "Nếu phải rút bốn tờ tiền mặt ra trả, bạn có muốn mua không?", "text": "THỬ RÚT TIỀN MẶT", "color": "green", "actor": "small_step"},
+      {"vo": "Giá trị nằm ở túi tiền của mình, không nằm ở vết gạch đỏ.", "text": "NHÌN VÀO TÚI TIỀN", "color": "gold", "actor": "front"}
+    ]
+  }
+]

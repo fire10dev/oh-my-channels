@@ -1,0 +1,394 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 44.414,
+"shots": [
+{
+"img": "p02/img/N10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 4.901,
+"a": [
+742,
+609,
+340
+],
+"b": [
+1075,
+420,
+460
+],
+"flash": 1
+},
+{
+"img": "p02/img/N09.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.901,
+"t1": 9.727,
+"a": [
+1075,
+576,
+648
+],
+"b": [
+1075,
+420,
+460
+]
+},
+{
+"img": "p02/img/N07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 9.727,
+"t1": 13.93,
+"a": [
+1357,
+743,
+460
+],
+"b": [
+1357,
+849,
+340
+]
+},
+{
+"img": "p02/img/N08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.93,
+"t1": 18.035,
+"a": [
+1203,
+743,
+460
+],
+"b": [
+1203,
+820,
+340
+]
+},
+{
+"img": "p02/img/N11.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 18.035,
+"t1": 21.243,
+"a": [
+345,
+576,
+648
+],
+"b": [
+345,
+520,
+460
+]
+},
+{
+"img": "p02/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 21.243,
+"t1": 25.49,
+"a": [
+900,
+576,
+648
+],
+"b": [
+820,
+420,
+460
+],
+"shake": 8
+},
+{
+"img": "p02/img/N12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 25.49,
+"t1": 30.358,
+"a": [
+700,
+420,
+460
+],
+"b": [
+660,
+360,
+340
+],
+"shake": 6
+},
+{
+"img": "p02/img/S19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 30.358,
+"t1": 36.154,
+"a": [
+1550,
+576,
+648
+],
+"b": [
+1600,
+480,
+460
+]
+},
+{
+"img": "p02/img/N14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 36.154,
+"t1": 39.758,
+"a": [
+1229,
+576,
+648
+],
+"b": [
+1229,
+420,
+460
+]
+},
+{
+"img": "p02/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 39.758,
+"t1": 43.914,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p02/img/cut_B02.png",
+"size": 1344,
+"t0": 39.758,
+"t1": 43.914,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.15,
+"t1": 4.901,
+"text": "CURSED HOUR",
+"color": "#ff5a4a"
+},
+{
+"t0": 12.145,
+"t1": 14.562,
+"text": "2:10 · AT THE FACTORY",
+"color": "#ffffff"
+},
+{
+"t0": 14.724,
+"t1": 18.035,
+"text": "→ 5:00 · AT HOME",
+"color": "#c58bff"
+},
+{
+"t0": 28.953,
+"t1": 30.358,
+"text": "PAY DOCKED",
+"color": "#ff5a4a"
+},
+{
+"t0": 32.854,
+"t1": 36.154,
+"text": "-50%",
+"color": "#ffd84a"
+},
+{
+"t0": 36.304,
+"t1": 39.758,
+"text": "3:00 AM",
+"color": "#ffd84a"
+},
+{
+"t0": 39.758,
+"t1": 43.914,
+"text": "WHO GETS CHECKED IN?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "p02/sfx/mo.wav",
+"vol": 0.8
+},
+{
+"t": 9.386,
+"src": "p02/sfx/mo.wav",
+"vol": 0.8
+},
+{
+"t": 12.145,
+"src": "p02/sfx/but.wav",
+"vol": 0.7
+},
+{
+"t": 14.724,
+"src": "p02/sfx/but.wav",
+"vol": 0.7
+},
+{
+"t": 21.441,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.6
+},
+{
+"t": 32.854,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.6
+},
+{
+"t": 37.956,
+"src": "p02/sfx/mo3.wav",
+"vol": 0.9
+},
+{
+"t": 39.758,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 42.851,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 4.451,
+"text": "Die at this hour, and I must return to check in one more family member."
+},
+{
+"t": 4.901,
+"dur": 4.577,
+"text": "I don't read clocks. I read paper. Paper is procedure. Procedure is me."
+},
+{
+"t": 9.727,
+"dur": 8.057,
+"text": "So that night, the boss filled out the report himself. Changed two ten to five a.m. Changed “at the factory” to “at home.”"
+},
+{
+"t": 18.035,
+"dur": 2.409,
+"text": "Loc's family: one wife. Back home."
+},
+{
+"t": 21.243,
+"dur": 3.946,
+"text": "Wait. The boss changes the paperwork, and that guy's family pays?"
+},
+{
+"t": 25.49,
+"dur": 4.619,
+"text": "That cursed death stuff is superstition! Take time off for ghosts, lose your pay!"
+},
+{
+"t": 30.358,
+"dur": 5.545,
+"text": "The fortune teller at the end of the street is selling cursed-death bracelets, half off. Same guy."
+},
+{
+"t": 36.154,
+"dur": 3.004,
+"text": "Saturday, three a.m. I go to the factory."
+},
+{
+"t": 39.758,
+"dur": 3.156,
+"text": "Who gets checked in? I'll tell you next time. Follow along."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/en/vo/3f5e0a9390.wav"
+},
+{
+"t": 4.901,
+"src": "loc/en/vo/c69ab57c4d.wav"
+},
+{
+"t": 9.727,
+"src": "loc/en/vo/c0e906aa3e.wav"
+},
+{
+"t": 18.035,
+"src": "loc/en/vo/0bb1029de4.wav"
+},
+{
+"t": 21.243,
+"src": "loc/en/vo/c459ec7298.wav"
+},
+{
+"t": 25.49,
+"src": "loc/en/vo/3eff76fa38.wav"
+},
+{
+"t": 30.358,
+"src": "loc/en/vo/3dd1ef0725.wav"
+},
+{
+"t": 36.154,
+"src": "loc/en/vo/43f5f842bc.wav"
+},
+{
+"t": 39.758,
+"src": "loc/en/vo/d0a05f138e.wav"
+}
+],
+"mutes": [
+[
+17.835,
+21.243
+],
+[
+35.954,
+39.758
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

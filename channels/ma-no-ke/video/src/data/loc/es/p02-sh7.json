@@ -1,0 +1,385 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 47.193,
+"shots": [
+{
+"img": "p02/img/N20.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 2.983,
+"a": [
+1024,
+470,
+460
+],
+"b": [
+1024,
+430,
+340
+],
+"flash": 1
+},
+{
+"img": "p02/img/N19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 2.983,
+"t1": 7.171,
+"a": [
+700,
+576,
+648
+],
+"b": [
+614,
+420,
+460
+]
+},
+{
+"img": "p02/img/N19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 7.171,
+"t1": 11.324,
+"a": [
+1100,
+743,
+460
+],
+"b": [
+1200,
+700,
+340
+]
+},
+{
+"img": "p02/img/N10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 11.324,
+"t1": 17.97,
+"a": [
+1075,
+576,
+648
+],
+"b": [
+1075,
+420,
+460
+]
+},
+{
+"img": "p02/img/N21.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.97,
+"t1": 22.03,
+"a": [
+870,
+576,
+648
+],
+"b": [
+1485,
+676,
+460
+]
+},
+{
+"img": "p02/img/N20.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 22.03,
+"t1": 24.792,
+"a": [
+1024,
+470,
+460
+],
+"b": [
+1024,
+430,
+340
+]
+},
+{
+"img": "p02/img/N22.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 24.792,
+"t1": 27.447,
+"a": [
+1792,
+420,
+460
+],
+"b": [
+1792,
+400,
+340
+]
+},
+{
+"img": "p02/img/S33.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 27.447,
+"t1": 30.644,
+"a": [
+1300,
+576,
+648
+],
+"b": [
+1300,
+520,
+460
+]
+},
+{
+"img": "p02/img/S34.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 30.644,
+"t1": 33.786,
+"a": [
+880,
+576,
+648
+],
+"b": [
+880,
+420,
+460
+]
+},
+{
+"img": "p02/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 33.786,
+"t1": 40.987,
+"a": [
+517,
+992,
+900
+],
+"b": [
+517,
+950,
+600
+]
+},
+{
+"img": "p02/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 40.987,
+"t1": 46.693,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p02/img/cut_B02.png",
+"size": 1344,
+"t0": 40.987,
+"t1": 46.693,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 5.411,
+"t1": 11.324,
+"text": "2:10 · EN LA FÁBRICA ✔",
+"color": "#7dff9a"
+},
+{
+"t0": 19.303,
+"t1": 22.03,
+"text": "SALIDA ✔",
+"color": "#7dff9a"
+},
+{
+"t0": 24.92,
+"t1": 27.447,
+"text": "BONO DE ASISTENCIA DESCONTADO",
+"color": "#ff5a4a"
+},
+{
+"t0": 34.133,
+"t1": 40.987,
+"text": "LA PRÓXIMA VEZ",
+"color": "#ffd84a"
+},
+{
+"t0": 41.212,
+"t1": 46.693,
+"text": "SUSCRÍBETE",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "p02/sfx/mo.wav",
+"vol": 0.8
+},
+{
+"t": 5.411,
+"src": "p02/sfx/but.wav",
+"vol": 0.6
+},
+{
+"t": 17.4,
+"src": "p02/sfx/lat.wav",
+"vol": 0.7
+},
+{
+"t": 19.303,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.6
+},
+{
+"t": 19.494,
+"src": "sh6/sfx/cheer.wav",
+"vol": 0.25,
+"dur": 2.5
+},
+{
+"t": 26.75,
+"src": "p02/sfx/mo.wav",
+"vol": 0.9
+},
+{
+"t": 34.133,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 40.987,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 44.366,
+"src": "p02/sfx/in.wav",
+"vol": 0.7
+},
+{
+"t": 45.402,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 2.534,
+"text": "No me llevo su vida. Me llevo su horario."
+},
+{
+"t": 2.983,
+"dur": 8.091,
+"text": "La noche cuarenta y ocho, corrigió el informe. Dos y diez. En la fábrica. Accidente laboral. La indemnización llegó a manos de la esposa de Loc."
+},
+{
+"t": 11.324,
+"dur": 6.396,
+"text": "Las dos y diez no son una hora maldita. Ya no hay familiares en el expediente. Mi autoridad termina aquí."
+},
+{
+"t": 17.97,
+"dur": 3.809,
+"text": "Ahora el reloj tiene botón de salida. Las horas extra se pagan."
+},
+{
+"t": 22.03,
+"dur": 4.817,
+"text": "Ah. Se arrodilló tarde tres noches. Este mes, descuéntale el bono de asistencia."
+},
+{
+"t": 27.447,
+"dur": 6.089,
+"text": "Trescientos años sentado en armarios y es la primera vez que veo al inframundo ser más puntual que una empresa."
+},
+{
+"t": 33.786,
+"dur": 6.951,
+"text": "La próxima vez: un niño que guarda el tesoro de tres generaciones en una casa antigua, y un frasco que nadie puede abrir."
+},
+{
+"t": 40.987,
+"dur": 4.506,
+"text": "Suscríbete. Si no, esta noche a las tres, el reloj de tu casa imprimirá tu nombre."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/es/vo/8cdf9e6b5a.wav"
+},
+{
+"t": 2.983,
+"src": "loc/es/vo/2745b406a4.wav"
+},
+{
+"t": 11.324,
+"src": "loc/es/vo/0e9f7c4c00.wav"
+},
+{
+"t": 17.97,
+"src": "loc/es/vo/d4f68b4ae4.wav"
+},
+{
+"t": 22.03,
+"src": "loc/es/vo/8a758c1470.wav"
+},
+{
+"t": 27.447,
+"src": "loc/es/vo/da7721d639.wav"
+},
+{
+"t": 33.786,
+"src": "loc/es/vo/d7538e8ddc.wav"
+},
+{
+"t": 40.987,
+"src": "loc/es/vo/416fe50804.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

@@ -1,0 +1,66 @@
+{
+ "title": "Quand le NORAD s’est confiné dans la montagne",
+ "hook": "PIÉGÉS SOUS TERRE",
+ "asof": "Chiffres tirés d’articles de l’US Air Force et de l’US Space Force",
+ "world": "mountain",
+ "long": "IX014",
+ "chapters": [
+  {
+   "id": "covid",
+   "hud": "30e JOUR",
+   "chip": "MARS 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "En 2020, des équipes ont été enfermées dans une montagne.",
+     "v": "tunnel",
+     "you": "tunnel"
+    },
+    {
+     "s": "Voici Cheyenne Mountain, le bunker anti-nucléaire du NORAD, au Colorado.",
+     "v": "mountain"
+    },
+    {
+     "s": "D’habitude, personne n’y dort. Les équipes rentrent après leur service.",
+     "v": "gate"
+    },
+    {
+     "s": "Avec le COVID, le NORAD et le Northern Command ont confiné leurs équipes clés.",
+     "v": "tunnel",
+     "you": "tunnel"
+    },
+    {
+     "s": "Elles se sont d’abord isolées et ont passé des tests.",
+     "v": "clinic"
+    },
+    {
+     "s": "Puis elles ont travaillé sur place pendant des semaines.",
+     "v": "command",
+     "you": "command"
+    },
+    {
+     "s": "Environ 130 personnes se relayaient par quarts de douze heures.",
+     "v": "command",
+     "st": [
+      "~130",
+      "en service"
+     ]
+    },
+    {
+     "s": "Derrière des portes blindées de 23 tonnes.",
+     "v": "door",
+     "plane": "door:shut"
+    },
+    {
+     "s": "Sous près de 550 mètres de granite.",
+     "v": "mountain"
+    },
+    {
+     "s": "Tu pourrais travailler tout un service sans voir le soleil ?",
+     "v": "tunnel",
+     "you": "tunnel"
+    }
+   ]
+  }
+ ]
+}

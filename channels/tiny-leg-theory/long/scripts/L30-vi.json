@@ -1,0 +1,856 @@
+{
+ "id": "L30vi",
+ "lang": "vi",
+ "title": "Khi chức vụ không còn định nghĩa giá trị của bạn",
+ "description": "Nếu bạn thấy mình kém cỏi mỗi khi công việc chững lại, có thể giá trị bản thân đang bị trói vào chức danh. Trong video này, chúng ta cùng mổ xẻ tám cơ chế tâm lý gắn chặt lòng tự trọng vào sự nghiệp: giá trị phụ thuộc (contingent worth), đóng khung sớm (early foreclosure), bản dạng trung tâm (central identity), vai diễn nuốt chửng (role engulfment), gương soi xã hội (reflected appraisal), đa dạng bản thân (self-complexity), tự khẳng định (self-affirmation), và làm rõ giá trị (values clarification). Từ đó, học cách xây dựng một bản sắc rộng lớn hơn để thành tựu nghề nghiệp không đè bẹp đời bạn.",
+ "chapters": [
+  {
+   "title": "Bẫy Chức Danh",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đi ăn cưới hay họp lớp ai hỏi làm nghề gì, ruột gan tôi lại thắt lại.",
+     "text": "BẪY CHỨC DANH",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì hễ công việc dở dang, bạn liền thấy mình vô dụng cùng cực.",
+     "text": "TRỐNG RỖNG",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi dự án thắng lợi thì bay bổng, lúc gặp sự cố lại sụp đổ hoàn toàn.",
+     "text": "TÀU LƯỢN CẢM XÚC",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Bạn trói tự trọng vào dòng tiểu sử mạng xã hội với chiếc thẻ đeo công ty.",
+     "text": "TRÓI CHỨC DANH",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi muốn hết lòng với nghề mà không để ngày tệ hại nghiền nát tâm hồn.",
+     "text": "TÌM CÂN BẰNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là tám chuyển dịch tách phẩm giá khỏi danh phận, kỳ vọng gia đình và chức vụ.",
+     "text": "TÁM CHUYỂN DỊCH",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "1. Giá Trị Phụ Thuộc",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sếp đọc tin nhắn mà im lặng, cả kỳ nghỉ cuối tuần của tôi coi như tan nát.",
+     "text": "1. GIÁ TRỊ PHỤ THUỘC",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là tự trọng bấp bênh, khi bạn coi giá trị mình như biểu đồ chứng khoán.",
+     "text": "BẢNG ĐIỂM BẤP BÊNH",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một ngày được khen thì như người hùng, một ngày bị chê lại thấy mình vô tích sự.",
+     "text": "LÊN CAO XUỐNG DỐC",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bạn thèm sự chắc chắn, nên nó bám vào điểm số thấy được để đo giá trị.",
+     "text": "BÁM ĐIỂM SỐ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn thì có vẻ đo lường được, nhưng làm tôi hoàn toàn phụ thuộc vào lời khen chê.",
+     "text": "GIÁ TRỊ MỎNG MANH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn Pen. Đi tập mà ngày nào cũng đòi phá kỷ lục thì hai tuần là nản.",
+     "text": "THƯỚC ĐO SAI",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để lòng tự trọng không trồi sụt theo từng đợt đánh giá ở cơ quan?",
+     "text": "THÁO NỐI DÂY",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi lại ba việc bạn làm tử tế hôm nay mà cấp trên hay khách hàng không chấm điểm.",
+     "text": "GHI NHẬN NỖ LỰC",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trân trọng việc kiên trì có mặt và nỗ lực, dù kết quả có thể chưa trọn vẹn.",
+     "text": "TÍNH TỪNG HIỆP",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn xác. Bạn luôn là người nâng tạ, chứ không phải thanh sắt trên giá đỡ.",
+     "text": "BẠN LÀ NGƯỜI NÂNG",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng nhiều người trong chúng ta chọn nghề từ lúc chưa hiểu rõ bản thân mình là ai.",
+     "text": "CHỌN QUÁ VỘI",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "2. Đóng Khung Sớm",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mâm cơm họ hàng ngày bé, người lớn ai cũng khen tôi sau này sẽ làm kỹ sư.",
+     "text": "2. ĐÓNG KHUNG SỚM",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là đóng khung sớm. Bạn khóa chặt kịch bản cuộc đời trước khi kịp khám phá.",
+     "text": "KỊCH BẢN ĐỊNH SẴN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi ôm tấm mác trường chuyên lớp chọn suốt tuổi trẻ chỉ để gia đình nở mày nở mặt.",
+     "text": "NỞ MÀY NỞ MẶT",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não chọn an toàn thay vì trải nghiệm để tránh xung đột với gia đình và đỡ hoang mang.",
+     "text": "TRÁNH XUNG ĐỘT",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giờ tôi kẹt trong bộ đồ công sở do một đứa mười tám tuổi ngây ngô chọn giùm.",
+     "text": "BỘ ĐỒ QUÁ CHẬT",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng coi bộ đồng phục cũ như giáo án tập cả đời. Khởi động bài mới đi Pen.",
+     "text": "KHỞI ĐỘNG BÀI MỚI",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tôi tìm lại bản thân mà không mạo hiểm vứt bỏ chén cơm manh áo hiện tại?",
+     "text": "TÌM LỐI ĐI MỚI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tuần này thử một bài tập bổ trợ mới toanh, không dính dáng một chút nào đến chuyên môn.",
+     "text": "BÀI TẬP BỔ TRỢ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dành một giờ vẽ tranh, vào bếp hoặc cắm hoa, nơi bằng cấp chẳng ai bận tâm đo lường.",
+     "text": "THỬ VAI TRÒ MỚI",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xem điều gì khiến bạn tò mò hôm nay, đừng bám vào kỳ vọng của phụ huynh.",
+     "text": "SỰ TÒ MÒ HÔM NAY",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng chức danh vẫn luôn là thứ đầu tiên tôi mang ra giới thiệu với mọi người.",
+     "text": "TẤM NHÃN CHÍNH",
+     "color": "ink",
+     "actor": "34",
+     "prop": "laptop_file"
+    }
+   ]
+  },
+  {
+   "title": "3. Bản Dạng Trung Tâm",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Người ta hỏi là tôi xưng trưởng phòng ngay, chứ chẳng bao giờ dám nhận mình thích làm bánh.",
+     "text": "3. BẢN DẠNG TRUNG TÂM",
+     "color": "ink",
+     "actor": "front",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là bản dạng trung tâm. Bạn để công việc ngồi chễm chệ ở ghế lái cái tôi.",
+     "text": "GHẾ LÁI CÁI TÔI",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mọi vai trò khác như người con, người bạn bỗng hóa thành mờ nhạt ngoài lề.",
+     "text": "VAI PHỤ NGOÀI LỀ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xã hội trọng danh vọng, nên não bạn tự động xếp công việc lên làm bộ mặt chính.",
+     "text": "THÈM DANH VỌNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hễ việc công ty trục trặc, cả con người tôi như lãnh trọn một đòn chí mạng.",
+     "text": "CÚ ĐÒN CHÍ MẠNG",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ chăm đẩy ngực mà bỏ quên lưng, bê thùng nước là trẹo cột sống ngay.",
+     "text": "LỆCH CƠ BẮP",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao sắp xếp lại thứ tự ưu tiên mà không phải giả vờ là công việc chẳng quan trọng?",
+     "text": "SẮP XẾP LẠI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn lại ba quyết định tuần này bạn đã hy sinh sức khỏe chỉ để giữ thể diện cơ quan.",
+     "text": "SOI LẠI LỰA CHỌN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Để xem tôi đã vì chút oai phong cơ quan mà cáu gắt với người thân bao nhiêu lần.",
+     "text": "TỰ SOI LÒNG MÌNH",
+     "color": "green",
+     "actor": "writing",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi công việc như một bài tập trong giáo án, chứ đừng biến nó thành cả buổi tập.",
+     "text": "MỘT BÀI TẬP THÔI",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trừ khi công việc bắt đầu tràn vào bữa cơm gia đình, giấc ngủ và những ngày nghỉ ngơi.",
+     "text": "LẤN SÂN ĐỜI THƯỜNG",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "4. Vai Diễn Nuốt Chửng",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ăn bát phở sáng vẫn thao thao chuyện công ty, nửa đêm giật mình mơ thấy báo cáo.",
+     "text": "4. VAI DIỄN NUỐT CHỬNG",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là vai diễn nuốt chửng. Áo đồng phục công sở đã dính chặt vào da thịt bạn.",
+     "text": "DÍNH CHẶT ĐỒNG PHỤC",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đi nghỉ mát mà hai mươi phút lại mở tin nhắn công việc một lần cho an tâm.",
+     "text": "BẤN AN KHI NGHỈ",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gồng mình làm việc vẫn dễ hơn đối mặt với khoảng lặng của chính mình.",
+     "text": "SỢ KHOẢNG LẶNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ban đầu tưởng tiện lợi, nhưng dần dà tôi quên mất cách sống như một người bình thường.",
+     "text": "QUÊN CÁCH LÀM NGƯỜI",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn cần bài tập xả cơ tâm trí mỗi chiều khi tan giờ làm ở công ty.",
+     "text": "BÀI TẬP XẢ CƠ",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một bài xả cơ để thoát vai trong đời sống hằng ngày trông như thế nào, Buff?",
+     "text": "CÁCH THOÁT VAI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gập máy tính lại, để điện thoại công việc ở phòng ngoài rồi thay ngay bộ đồ mặc nhà.",
+     "text": "RÀO CHẮN THỰC TẾ",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một ranh giới cụ thể giúp hệ thần kinh hiểu rằng ca làm việc đã kết thúc.",
+     "text": "HẾT CA LÀM VIỆC",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rời phòng tạ là tháo đai lưng ra. Đừng có đeo nó về tận bàn ăn.",
+     "text": "THÁO ĐAI BẢO HỘ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng áp lực càng nặng nề hơn khi xung quanh ai cũng mang địa vị ra phán xét.",
+     "text": "ÁP LỰC ĐỊA VỊ",
+     "color": "ink",
+     "actor": "sofa_scroll"
+    }
+   ]
+  },
+  {
+   "title": "5. Gương Soi Xã Hội",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Về quê hay họp lớp, câu đầu tiên người ta hỏi luôn là làm chức gì rồi.",
+     "text": "5. GƯƠNG SOI XÃ HỘI",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng gương soi. Bạn vẽ chân dung mình qua ánh mắt người khác.",
+     "text": "GƯƠNG SOI MƯỢN TẠM",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy họ trầm trồ thì tôi tự hào, thấy họ hờ hững là tôi tự động thu mình lại.",
+     "text": "NỞ RA THU VÀO",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não coi việc bị chê bai như mối đe dọa trực tiếp đến sự gắn kết và chỗ đứng của bạn.",
+     "text": "SỢ BỊ LOẠI TRỪ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên tôi hay nhầm lẫn giữa tràng pháo tay bên ngoài với sự an ổn thực sự bên trong.",
+     "text": "ẢO TƯỞNG VỖ TAY",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người ta chỉ vỗ tay cho vẻ hào nhoáng, chứ đâu quan tâm bạn kiệt sức.",
+     "text": "ÁNH HÀO QUANG ẢO",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao cai được thói quen ngóng chờ những cái gật đầu khen ngợi từ đám đông?",
+     "text": "CAI CƠN THÈM KHEN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trước khi kể chuyện với ai, tự hỏi xem bạn đã nỗ lực hết mình và tử tế chưa.",
+     "text": "TỰ HỎI CHÍNH MÌNH",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự chấm điểm nỗ lực của mình trong thầm lặng trước khi mở mạng xem ai thả tim.",
+     "text": "TỰ CHẤM ĐIỂM MÌNH",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự sắm lấy cái gương chuẩn của mình, việc gì phải mượn gương méo của thiên hạ để ngắm.",
+     "text": "TỰ SOI GƯƠNG THẬT",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu cuộc đời chỉ tựa vào một cột trụ, một cơn giông là sập tất cả.",
+     "text": "MỘT CỘT TRỤ ĐƠN ĐỘC",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "6. Đa Dạng Bản Thân",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tháng trước dự án tâm huyết bị hủy, tôi cảm giác cả cuộc đời mình phá sản hoàn toàn.",
+     "text": "6. ĐA DẠNG BẢN THÂN",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn đang thiếu đa dạng bản thân. Bạn bỏ hết trứng cảm xúc vào một giỏ công ty.",
+     "text": "BỎ HẾT VÀO MỘT GIỎ",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu mất đi cái mác làm việc giỏi giang, tôi thấy mình như một con số không tròn trĩnh.",
+     "text": "MẤT HẾT DANH PHẬN",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có nhiều vai trò độc lập sẽ giúp bạn đỡ đòn khi một mảng gặp trục trặc.",
+     "text": "TẤM ĐỆM GIẢM SỐC",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là khi một góc cuộc sống bị tổn thương, các góc còn lại vẫn đứng vững?",
+     "text": "PHÂN TÁN RỦI RO",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Tập nhiều nhóm cơ bổ trợ để lỡ có căng một sợi gân thì người vẫn không tàn.",
+     "text": "TẬP BỔ TRỢ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách thực tế nhất để bắt đầu đa dạng bản thân trong tháng này là gì?",
+     "text": "BẮT ĐẦU MỞ RỘNG",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xây thêm hai góc sống riêng biệt mà sóng gió công việc không thể chạm tới được.",
+     "text": "HAI GÓC SỐNG RIÊNG",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như chạy bộ cuối tuần, tập trồng cây ban công hay tham gia nhóm thiện nguyện quanh xóm.",
+     "text": "CHĂM SÓC GÓC KHÁC",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cho những góc đó thời gian thật trên lịch, để lúc sự nghiệp lung lay bạn vẫn còn điểm tựa.",
+     "text": "LÊN LỊCH TẬP ĐỀU",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng những tuần áp lực cao, tâm trí tôi vẫn gào lên rằng tôi là kẻ bất tài vô dụng.",
+     "text": "NỖI SỢ THẤT BẠI",
+     "color": "ink",
+     "actor": "worried_heart"
+    }
+   ]
+  },
+  {
+   "title": "7. Tự Khẳng Định",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hễ nhận góp ý gay gắt từ cấp trên, đầu óc tôi lập tức rơi vào trạng thái hoảng loạn.",
+     "text": "7. TỰ KHẲNG ĐỊNH",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự nhắc lại giá trị của mình đi Pen. Họ chê bản thảo của bạn, chứ không chê con người bạn.",
+     "text": "TÁCH LỜI PHÊ BÌNH",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi hoặc là nhảy dựng lên cãi lại, hoặc là chìm nghỉm trong suy nghĩ mình bất tài.",
+     "text": "XÙ LÔNG HAY TỰ TI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hệ thần kinh hay hiểu lầm lời chê trách chuyên môn thành mối nguy sống còn đối với bạn.",
+     "text": "BÁO ĐỘNG SINH TỒN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để đầu óc hiểu một lời nhận xét khó nghe không phải là dấu chấm hết?",
+     "text": "KHÔNG PHẢI ÁN TỬ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chủ động nhớ về điểm mạnh khác của bạn ngay trước hoặc sau những phút căng thẳng đó.",
+     "text": "NHỚ ĐIỂM TỰA KHÁC",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như nhắc mình vẫn là người biết lắng nghe, một người con hiếu thảo và người bạn tốt?",
+     "text": "GIÁ TRỊ CỐT LÕI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Viết ra một phẩm chất bạn đã sống trọn vẹn tuần này trước khi mở thư nhận xét.",
+     "text": "VIẾT RA PHẨM CHẤT",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nó neo tôi lại, để lời chê chỉ chạm vào tay nghề chứ không chạm vào phẩm giá.",
+     "text": "CHẠM VÀO TAY NGHỀ",
+     "color": "gold",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phân biệt cho rõ giữa một hiệp nâng tạ bị hụt hơi với phẩm giá làm người của bạn.",
+     "text": "HIỆP TẠ VÀ PHẨM GIÁ",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và điều đó hiệu quả nhất khi bạn thực sự biết điều gì đáng giá ngoài bốn bức tường văn phòng.",
+     "text": "NGOÀI VĂN PHÒNG",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "8. Làm Rõ Giá Trị",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mười năm cày cuốc thăng chức, đến ngày cầm quyết định bổ nhiệm lại thấy trống rỗng kỳ lạ.",
+     "text": "8. LÀM RÕ GIÁ TRỊ",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phải siết lại hệ giá trị ngay, kẻo bạn lại hì hục bắc thang trèo nhầm bức tường.",
+     "text": "BỨC TƯỜNG SAI",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi mải miết đuổi theo chức danh vì đinh ninh nó sẽ đem lại bình yên trong lòng.",
+     "text": "CHIẾC CÚP RỖNG",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cơn say danh vọng tan rất nhanh vì não quen dần, nhưng sống đúng giá trị mới tạo sự bền bỉ.",
+     "text": "HÀI LÒNG BỀN BỈ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giữ chức danh oai mà xa rời giá trị thật thì khác nào khoác áo giáp vàng nặng trĩu?",
+     "text": "ÁO GIÁP VÀNG NẶNG",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Áo giáp nặng chỉ làm bạn chậm chạp thôi Pen. Xác định giá trị cốt lõi rồi tập luyện theo nó.",
+     "text": "TẬP THEO GIÁ TRỊ",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao phân biệt rõ giá trị thực của bản thân với những chỉ tiêu doanh số của công ty?",
+     "text": "BÓC TÁCH MỤC TIÊU",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Viết ra ba phẩm chất, rồi tìm một việc mỗi ngày chứng minh từng điều mà không cần tiền lương.",
+     "text": "HÀNH ĐỘNG HẰNG NGÀY",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu chọn tử tế làm cốt lõi, việc thật lòng đỡ lời đồng nghiệp cũng đáng tự hào như đạt chỉ tiêu.",
+     "text": "SỐNG VỚI GIÁ TRỊ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi sống đúng giá trị, mất dự án hay mất chức danh có thể đau, nhưng gốc rễ không lung lay.",
+     "text": "GỐC RỄ VỮNG VÀNG",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tất cả ghép lại thành một bức tranh toàn diện và khỏe khoắn hơn về con người chúng ta.",
+     "text": "BỨC TRANH TOÀN DIỆN",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "Bức Tranh Toàn Cảnh",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vậy là việc gỡ giá trị bản thân khỏi công việc tóm gọn trong ba nguyên tắc tập luyện.",
+     "text": "BỨC TRANH TOÀN CẢNH",
+     "color": "ink",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một, thôi để bảng điểm cơ quan hay nấc thang chức danh định giá con người bạn.",
+     "text": "BUÔNG BẢNG ĐIỂM",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hai, mở rộng cuộc sống ra ngoài công sở bằng bạn bè chân thành và ranh giới dứt khoát.",
+     "text": "MỞ RỘNG BẢN THÂN",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba, neo giữ bản thân vào giá trị bền bỉ thay vì những chiếc cúp thi đua ngắn hạn.",
+     "text": "NEO VÀO GIÁ TRỊ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giáo án tập luyện bảy ngày tới của chúng ta cụ thể là gì vậy Buff?",
+     "text": "KẾ HOẠCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trong bảy ngày, mỗi ngày dành hai mươi phút làm một việc không tính chuyện thắng thua.",
+     "text": "HAI MƯƠI PHÚT",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có thể là vẽ nguệch ngoạc, đi dạo không đeo tai nghe, hoặc nấu bữa cơm cho người thân.",
+     "text": "CỨ THỰC HIỆN",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kiên trì vào hiệp mỗi ngày, phẩm giá làm người của bạn sẽ vững chãi hơn mọi chức danh.",
+     "text": "NỀN TẢNG VỮNG VÀNG",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu tập này giúp bạn dễ thở hơn, hãy bấm đăng ký để tiếp tục rèn luyện cùng chúng tôi.",
+     "text": "RÈN LUYỆN CÙNG NHAU",
+     "color": "ink",
+     "actor": "nervous_wave"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "id": "w004es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#a855f7",
+ "cover_frame": 60,
+ "source": "Superficie: CIA World Factbook · Plutón: NASA · Husos: base de datos IANA",
+ "music": "shared/library/music/yt-audio-library/Deep Space Sector 9 - Ezra Lipp.mp3",
+ "beats": [
+  {
+   "say": "Rusia es más grande que toda la superficie de Plutón.",
+   "title": "RUSIA ES MÁS GRANDE QUE PLUTÓN",
+   "cam": {
+    "lon": 95,
+    "lat": 60,
+    "span": 150
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    }
+   ]
+  },
+  {
+   "say": "Rusia mide diecisiete millones cien mil kilómetros cuadrados. La superficie entera de Plutón, unos dieciséis millones setecientos mil.",
+   "cam": {
+    "lon": 95,
+    "lat": 60,
+    "span": 150
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    }
+   ],
+   "bars": {
+    "unit": "M km²",
+    "items": [
+     {
+      "label": "Rusia",
+      "value": 17.1,
+      "color": "#a855f7"
+     },
+     {
+      "label": "Plutón (toda su superficie)",
+      "value": 16.7,
+      "color": "#94a3b8"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Se extiende por once husos horarios.",
+   "cam": {
+    "lon": 95,
+    "lat": 58,
+    "span": 160
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    }
+   ],
+   "big": {
+    "value": "11",
+    "label": "husos horarios"
+   }
+  },
+  {
+   "say": "Cuando son las ocho de la mañana en Kaliningrado, ya son las seis de la tarde en Kamchatka.",
+   "cam": {
+    "lon": 90,
+    "lat": 58,
+    "span": 175
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    }
+   ],
+   "pins": [
+    {
+     "lon": 20.5,
+     "lat": 54.7,
+     "text": "8:00"
+    },
+    {
+     "lon": 158.6,
+     "lat": 53.0,
+     "text": "18:00"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      20.5,
+      54.7
+     ],
+     [
+      60,
+      60
+     ],
+     [
+      100,
+      62
+     ],
+     [
+      140,
+      60
+     ],
+     [
+      158.6,
+      53
+     ]
+    ],
+    "color": "#ffd23f"
+   }
+  },
+  {
+   "say": "Pero casi toda esa tierra está vacía. Cerca de tres de cada cuatro rusos viven al oeste de los montes Urales, en la parte europea.",
+   "cam": {
+    "lon": 50,
+    "lat": 56,
+    "span": 80
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      59,
+      68
+     ],
+     [
+      60,
+      62
+     ],
+     [
+      59.5,
+      56
+     ],
+     [
+      58,
+      51
+     ]
+    ],
+    "color": "#ffd23f"
+   },
+   "pins": [
+    {
+     "lon": 37.6,
+     "lat": 55.75,
+     "text": "Moscú"
+    }
+   ]
+  },
+  {
+   "say": "Al este de esa línea está Siberia, uno de los lugares más vacíos del planeta.",
+   "cam": {
+    "lon": 110,
+    "lat": 62,
+    "span": 110
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#64748b"
+    }
+   ]
+  },
+  {
+   "say": "Más grande que un planeta y más vacía que un desierto. Sígueme para más.",
+   "title": "MÁS GRANDE QUE UN PLANETA",
+   "cam": {
+    "lon": 95,
+    "lat": 60,
+    "span": 150
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    }
+   ]
+  }
+ ]
+}

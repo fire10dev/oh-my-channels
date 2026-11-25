@@ -1,0 +1,159 @@
+{
+ "id": "w014es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#06b6d4",
+ "cover_frame": 60,
+ "source": "Volumen y profundidad: UNESCO · USGS · Grandes Lagos: EPA de EE. UU.",
+ "music": "shared/library/music/yt-audio-library/Exploring The Crystal Caves - Asher Fulero.mp3",
+ "beats": [
+  {
+   "say": "Este lago tiene más agua que los cinco Grandes Lagos juntos.",
+   "title": "UN LAGO > LOS 5 GRANDES LAGOS",
+   "cam": {
+    "lon": 107.5,
+    "lat": 53.5,
+    "span": 14
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#334155"
+    }
+   ],
+   "pins": [
+    {
+     "lon": 108.1,
+     "lat": 53.6,
+     "text": "Lago Baikal"
+    }
+   ]
+  },
+  {
+   "say": "Es el lago Baikal, en Siberia. Es largo y delgado, así que en el mapa parece pequeño.",
+   "cam": {
+    "lon": 107.5,
+    "lat": 53.5,
+    "span": 10
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#334155"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      103.8,
+      51.5
+     ],
+     [
+      106,
+      52.2
+     ],
+     [
+      107.8,
+      53.5
+     ],
+     [
+      109.3,
+      55.3
+     ],
+     [
+      109.8,
+      55.8
+     ]
+    ],
+    "color": "#06b6d4"
+   }
+  },
+  {
+   "say": "Pero es el lago más profundo del mundo, con más de un kilómetro y seiscientos metros de profundidad.",
+   "cam": {
+    "lon": 107.5,
+    "lat": 53.5,
+    "span": 10
+   },
+   "big": {
+    "value": "1642 m",
+    "label": "punto más profundo"
+   }
+  },
+  {
+   "say": "El Baikal guarda unos veintitrés mil seiscientos kilómetros cúbicos de agua. Los cinco Grandes Lagos juntos, unos veintidós mil setecientos.",
+   "cam": {
+    "lon": -84,
+    "lat": 45,
+    "span": 22
+   },
+   "hl": [
+    {
+     "a3": "USA",
+     "color": "#334155"
+    },
+    {
+     "a3": "CAN",
+     "color": "#334155"
+    }
+   ],
+   "bars": {
+    "unit": " km³",
+    "items": [
+     {
+      "label": "Lago Baikal",
+      "value": 23600,
+      "color": "#06b6d4"
+     },
+     {
+      "label": "Los 5 Grandes Lagos",
+      "value": 22700,
+      "color": "#3b82f6"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Es más o menos una quinta parte de toda el agua dulce no congelada de la superficie del planeta.",
+   "cam": {
+    "lon": 107.5,
+    "lat": 53.5,
+    "span": 14
+   },
+   "big": {
+    "value": "20%",
+    "label": "del agua dulce superficial"
+   }
+  },
+  {
+   "say": "También es el lago más antiguo del mundo, con unos veinticinco millones de años.",
+   "cam": {
+    "lon": 107.5,
+    "lat": 53.5,
+    "span": 12
+   },
+   "big": {
+    "value": "25 M",
+    "label": "años de antigüedad"
+   }
+  },
+  {
+   "say": "Pequeño en el mapa, gigante por dentro. Sígueme para más.",
+   "title": "PEQUEÑO EN EL MAPA. GIGANTE ABAJO.",
+   "cam": {
+    "lon": 107.5,
+    "lat": 53.5,
+    "span": 14
+   },
+   "pins": [
+    {
+     "lon": 108.1,
+     "lat": 53.6,
+     "text": "Lago Baikal"
+    }
+   ]
+  }
+ ]
+}

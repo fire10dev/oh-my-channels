@@ -3,12 +3,12 @@
 # Usage: tools/codex_image_review.sh <vid> <sheets-dir> <round> ["custom attachment order text" — for re-reviews of a subset]
 #   sheets-dir: s00.jpg..sNN.jpg = 2x2 grids of img-01.. in order (TL, TR, BL, BR), last grids end with clip-1/2/3.jpg;
 #   clip1.jpg..clip3.jpg = 4-frame strips of clip-N.mp4.
-# Output: docs/reviews/<VID>-img-r<round>.md. Stdout: VERDICT + 🔴/🟠 lines.
+# Output: <episode>/reviews/<VID>-img-r<round>.md. Stdout: VERDICT + 🔴/🟠 lines.
 set -euo pipefail
 vid="${1:?vid}"; dir="${2:?sheets dir}"; round="${3:?round}"; order="${4:-}"
 repo="$(cd "$(dirname "$0")/.." && pwd)"; VID=$(echo "$vid" | tr a-z A-Z)
-out="$repo/docs/reviews/$VID-img-r$round.md"; log="${TMPDIR:-/tmp}/codex-img-$vid-r$round.log"
-script=$(ls "$repo"/scripts/$VID-*.md | head -1)
+rev="$(python3 "$repo/tools/ep.py" "$VID")/reviews"; mkdir -p "$rev"; out="$rev/$VID-img-r$round.md"; log="${TMPDIR:-/tmp}/codex-img-$vid-r$round.log"
+script=$(python3 "$repo/tools/ep.py" "$VID" script)
 imgs=(); for f in "$dir"/s*.jpg "$dir"/clip[0-9].jpg; do imgs+=(-i "$f"); done
 
 read -r -d '' PROMPT <<EOF || true

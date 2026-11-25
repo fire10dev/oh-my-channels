@@ -1,0 +1,731 @@
+REBUTTAL:
+1 accept
+2 accept
+3 accept
+4 accept
+5 accept
+6 accept
+7 accept
+8 accept
+9 accept
+10 accept
+11 accept
+12 accept
+13 accept
+14 accept
+15 accept
+RESULT:
+[
+  {
+    "id": "s567",
+    "mascot": "pen",
+    "title": "The Silent Cost of Late Rent",
+    "mechanism": "The Unwritten Rules",
+    "lines": [
+      {
+        "vo": "You paid rent two days late and thought it was fine.",
+        "text": "TWO DAYS LATE",
+        "color": "red",
+        "actor": "wallet_worry",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "No written contract, yet an icy silence took over.",
+        "text": "ICY SILENCE",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Unspoken rules form an invisible contract inside every relationship.",
+        "text": "UNWRITTEN RULES",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "When you miss a silent expectation, their sense of safety breaks.",
+        "text": "BROKEN SAFETY",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Sit down tonight and write one clear deadline together.",
+        "text": "NAME THE RULE",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "The rules you leave unsaid are the ones that hurt the most.",
+        "text": "SAY IT OUT LOUD",
+        "color": "gold",
+        "actor": "think",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s567vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Luat ngam trong tinh cam",
+    "title_vi": "Luật ngầm trong tình cảm",
+    "mechanism": "The Unwritten Rules",
+    "lines": [
+      {
+        "vo": "Hứa cuối tuần về ăn cơm chung rồi lại báo bận.",
+        "text": "BỎ BỮA CƠM CHUNG",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Bạn nghĩ chỉ là bữa ăn, nhưng đối phương im lặng cả tối.",
+        "text": "CHIẾN TRANH LẠNH",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Mỗi người đều mang theo những luật ngầm chưa từng nói ra.",
+        "text": "LUẬT NGẦM",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Một lần lỡ hẹn đủ làm người ta nghĩ mình không còn trong ưu tiên.",
+        "text": "KHÔNG ĐƯỢC ƯU TIÊN",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Hẹn rõ lịch bận tuần này lên lịch chung, đừng để đối phương phải đoán.",
+        "text": "CHỐT LỊCH TUẦN NÀY",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Những luật ngầm không nói ra mới là thứ làm đau nhau nhất.",
+        "text": "NÓI THẲNG RA",
+        "color": "gold",
+        "actor": "think",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s568",
+    "mascot": "buff",
+    "title": "Stop Waiting for Tension to Vanish",
+    "mechanism": "Initiating Repair",
+    "lines": [
+      {
+        "vo": "You offered coffee with a grin, acting like nothing happened.",
+        "text": "ACTING NORMAL",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Hoping time heals a broken promise is pure fantasy.",
+        "text": "TIME FIXES NOTHING",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Unaddressed tension is dropping the barbell and walking away.",
+        "text": "DROPPED WEIGHT",
+        "actor": "facepalm",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Step up first. Set a five-minute check-in today.",
+        "text": "START THE TALK",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Break the silence before they have to drag it out.",
+        "text": "SPEAK UP FIRST",
+        "color": "gold",
+        "actor": "front",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s568vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung cho tu het gian",
+    "title_vi": "Đừng chờ tự hết giận",
+    "mechanism": "Initiating Repair",
+    "lines": [
+      {
+        "vo": "Pha ly cà phê rồi cười trừ làm lành. Né tránh thế là cùng.",
+        "text": "CƯỜI TRỪ NÉ TRÁNH",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Chờ thời gian tự xoá lỗi là ảo tưởng.",
+        "text": "KHÔNG TỰ HẾT GIẬN",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Né tránh nói chuyện chẳng khác nào buông tạ bỏ chạy.",
+        "text": "BUÔNG TẠ BỎ CHẠY",
+        "actor": "facepalm",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Mở lời trước. Hẹn nói chuyện nghiêm túc năm phút.",
+        "text": "NÓI CHUYỆN NĂM PHÚT",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Tự phá băng ngay, đừng để người ta phải cạy miệng.",
+        "text": "TỰ PHÁ BĂNG NGAY",
+        "color": "gold",
+        "actor": "front",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s569",
+    "mascot": "pen",
+    "title": "Why Fast Apologies Can Backfire",
+    "mechanism": "Effective Apology",
+    "lines": [
+      {
+        "vo": "You apologized immediately, but their arms stayed firmly crossed.",
+        "text": "APOLOGY REJECTED",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Tacking on traffic excuses turns an apology into a defense.",
+        "text": "STOP EXCUSES",
+        "color": "red",
+        "actor": "hand_off",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "They do not hear your good intentions.",
+        "text": "NO EXCUSES HEARD",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "They only feel the disruption to their own day.",
+        "text": "THEIR TIME LOST",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Name the exact mistake and acknowledge the impact.",
+        "text": "OWN THE IMPACT",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "State what happened, then give them the silence to respond.",
+        "text": "HOLD THE SILENCE",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "A clean sorry leaves room for real listening.",
+        "text": "CLEAN APOLOGY",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s569vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Loi xin loi kem ly do",
+    "title_vi": "Lời xin lỗi kèm lý do",
+    "mechanism": "Effective Apology",
+    "lines": [
+      {
+        "vo": "Vừa xin lỗi xong, bạn tuôn ngay lý do kẹt xe.",
+        "text": "XIN LỖI KÈM LÝ DO",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Đối phương khoanh tay, quay đi còn bực hơn.",
+        "text": "CÀNG THÊM BỰC",
+        "color": "red",
+        "actor": "hand_off",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Người ta không cần nghe chuyện sếp bạn dí việc.",
+        "text": "KHÔNG CẦN GIẢI THÍCH",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Họ chỉ thấy cả tiếng chờ đợi bị coi nhẹ.",
+        "text": "MẤT CÔNG CHỜ ĐỢI",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Nhận thẳng phần lỗi làm vỡ kế hoạch của họ.",
+        "text": "NHẬN LỖI THẲNG THẮN",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Nói rõ điều đã xảy ra, rồi im lặng lắng nghe.",
+        "text": "LẮNG NGHE HỌ",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Xin lỗi tử tế là nhận trọn phần sai, không phân trần nửa câu.",
+        "text": "KHÔNG BÀO CHỮA",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s570",
+    "mascot": "buff",
+    "title": "Saying Sorry Does Not Pay Rent",
+    "mechanism": "Restitution",
+    "lines": [
+      {
+        "vo": "You raided the emergency stash for a gadget. Weak form, buddy.",
+        "text": "RAIDING SAVINGS",
+        "color": "red",
+        "actor": "snack",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Saying sorry does not balance the bank account.",
+        "text": "EMPTY WORDS",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "coin_stack"
+      },
+      {
+        "vo": "Empty apologies leave your partner spotting your unpaid weight.",
+        "text": "UNPAID WEIGHT",
+        "actor": "wallet_worry",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Real restitution means putting every single dollar back today.",
+        "text": "PAY IT BACK",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Pay the shared bills this month yourself. No split. Full weight.",
+        "text": "CARRY THE WEIGHT",
+        "color": "green",
+        "actor": "sprint_start"
+      },
+      {
+        "vo": "Settle the ledger before you ask for trust back.",
+        "text": "CLEAR THE DEBT",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s570vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Rut tien tiet kiem chung",
+    "title_vi": "Rút tiền tiết kiệm chung",
+    "mechanism": "Restitution",
+    "lines": [
+      {
+        "vo": "Lén rút quỹ chung mua đồ cá nhân. Chơi vậy ai chơi lại?",
+        "text": "RÚT QUỸ CHUNG",
+        "color": "red",
+        "actor": "snack",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Xin lỗi gãy lưỡi cũng không làm tài khoản đầy lại.",
+        "text": "LỜI NÓI SUÔNG",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "coin_stack"
+      },
+      {
+        "vo": "Để người khác gánh nợ giùm thì uy tín rớt đáy.",
+        "text": "GÁNH NỢ HỘ BẠN",
+        "actor": "wallet_worry",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Bắn trả lại tài khoản ngay hôm nay, không hứa hẹn.",
+        "text": "TRẢ TIỀN NGAY",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Tự bỏ tiền túi bao luôn tiền điện tháng này.",
+        "text": "TỰ CHỊU THIỆT",
+        "color": "green",
+        "actor": "sprint_start"
+      },
+      {
+        "vo": "Sòng phẳng trước, nói chuyện tin tưởng sau.",
+        "text": "SÒNG PHẲNG ĐI",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s571",
+    "mascot": "pen",
+    "title": "When Good Intentions Drop the Ball",
+    "mechanism": "Competence Trust",
+    "lines": [
+      {
+        "vo": "You promised to finish the bookshelf by Saturday afternoon.",
+        "text": "BIG PROMISE",
+        "color": "red",
+        "actor": "sprint_start",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Sunday arrives, parts cover the floor, untouched.",
+        "text": "ZERO PROGRESS",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "sofa"
+      },
+      {
+        "vo": "They know you love them, but your promises have no follow-through.",
+        "text": "NO FOLLOW THROUGH",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Romantic trust cannot replace competence trust.",
+        "text": "COMPETENCE MATTERS",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Unfinished promises turn partners into exhausted managers.",
+        "text": "UNPAID MANAGER",
+        "actor": "future_tired",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Schedule just one small chore on a shared calendar.",
+        "text": "ONE CHORE TODAY",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Finish it thirty minutes early without asking for praise.",
+        "text": "FINISH QUIETLY",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Trust returns when your hands match your words.",
+        "text": "EXECUTION FIRST",
+        "color": "gold",
+        "actor": "reading"
+      }
+    ]
+  },
+  {
+    "id": "s571vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Hua hen cho xong chuyen",
+    "title_vi": "Hứa hẹn cho xong chuyện",
+    "mechanism": "Competence Trust",
+    "lines": [
+      {
+        "vo": "Hứa sửa xong cửa trước chiều thứ Bảy rồi quên bẵng.",
+        "text": "HỨA RỒI ĐỂ ĐÓ",
+        "color": "red",
+        "actor": "sprint_start",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Chủ nhật đến, mọi thứ vẫn ngổn ngang còn bạn thì lờ đi.",
+        "text": "BỎ DỞ VIỆC CHUNG",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Biết bạn thương họ, nhưng thất hứa hoài ai mà tin?",
+        "text": "NÓI TRƯỚC QUÊN SAU",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Tình cảm ngọt ngào không bù được sự tin cậy trong hành động.",
+        "text": "TÌNH YÊU CHƯA ĐỦ",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Thất hứa nhiều lần biến đối phương thành người quản lý bất đắc dĩ.",
+        "text": "QUẢN LÝ BẤT ĐẮC DĨ",
+        "actor": "future_tired",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Chọn đúng một việc nhỏ cần làm hôm nay.",
+        "text": "MỘT VIỆC NHỎ",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Làm xong sớm ba mươi phút, đừng đòi khen ngợi.",
+        "text": "LÀM XONG IM LẶNG",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Lòng tin xây bằng hành động, không phải lời hứa suông.",
+        "text": "LÀM THAY VÌ HỨA",
+        "color": "gold",
+        "actor": "reading"
+      }
+    ]
+  },
+  {
+    "id": "s572",
+    "mascot": "buff",
+    "title": "Drop the Fake Cover Story",
+    "mechanism": "Integrity Trust",
+    "lines": [
+      {
+        "vo": "Stuck in traffic, so you faked an urgent meeting? Weak lift.",
+        "text": "FAKE MEETING",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "White lies are just fake plates on your barbell.",
+        "text": "FAKE PLATES",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "A delay annoys them, but a discovered lie destroys integrity.",
+        "text": "LIES DESTROY TRUST",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Once they catch a cover-up, every future text sounds like a lie.",
+        "text": "ZERO CREDIBILITY",
+        "actor": "future_tired",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Text the exact delay the second plans slip.",
+        "text": "SEND EARLY ALERT",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Drop the fake excuses early, or don't expect anyone to trust your word.",
+        "text": "OWN THE TRUTH",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s572vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung bia ly do tre hen",
+    "title_vi": "Đừng bịa lý do trễ hẹn",
+    "mechanism": "Integrity Trust",
+    "lines": [
+      {
+        "vo": "Ngủ quên trễ hẹn rồi đổ tại sếp họp gấp. Non tay lắm.",
+        "text": "ĐỔ TẠI SẾP HỌP",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Bịa lý do chỉ là chiêu gắn tạ giả để làm màu.",
+        "text": "GẮN TẠ GIẢ",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Đến muộn chỉ gây khó chịu, nhưng bịa lý do là tự tay vứt bỏ lòng tin.",
+        "text": "TỰ VỨT LÒNG TIN",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Bị bắt quả tang một lần, mọi tin nhắn sau này đều thành đáng ngờ.",
+        "text": "MẤT HẾT NIỀM TIN",
+        "actor": "future_tired",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Lỡ giờ thì báo thẳng ngay lập tức, kèm giờ đến chính xác.",
+        "text": "BÁO THẲNG GIỜ ĐẾN",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Dám nhận lỗi sớm, đừng để người ta bắt quả tang.",
+        "text": "DÁM NHẬN LỖI",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s573",
+    "mascot": "pen",
+    "title": "Fixing Fights to Save Yourself",
+    "mechanism": "True Benevolence",
+    "lines": [
+      {
+        "vo": "You rushed to clean up your mess just to end the fighting.",
+        "text": "DODGING FIGHTS",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "They can tell you are managing discomfort, not caring for them.",
+        "text": "SELFISH CLEANUP",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Real care looks like protecting their peace, not rushing your own relief.",
+        "text": "THEIR PEACE FIRST",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Pushing them to move on just makes them feel unseen.",
+        "text": "THEY FEEL UNSEEN",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Spot something stressing them today and fix it quietly.",
+        "text": "HELP IN SILENCE",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Expect zero praise and bring up no past scores.",
+        "text": "NO SCOREKEEPING",
+        "color": "green",
+        "actor": "front"
+      },
+      {
+        "vo": "Are you repairing their heart, or just your day?",
+        "text": "REPAIR FOR THEM",
+        "color": "gold",
+        "actor": "think",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s573vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Lam lanh de yen than",
+    "title_vi": "Làm lành để yên thân",
+    "mechanism": "True Benevolence",
+    "lines": [
+      {
+        "vo": "Bạn nhận lỗi cuống cuồng chỉ để người ta bớt cằn nhằn.",
+        "text": "NHẬN LỖI ĐỂ YÊN THÂN",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Họ cảm nhận được ngay sự vội vã muốn xong chuyện đó.",
+        "text": "VỘI VÃ CHO XONG",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Thương thật lòng là muốn họ nhẹ lòng, không phải để mình hết áy náy.",
+        "text": "VÌ HỌ HAY VÌ MÌNH",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Ép họ bỏ qua sớm chỉ làm họ thấy tủi thân thêm.",
+        "text": "HỌ THẤY TỦI THÂN",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Hãy để ý điều họ đang mệt mỏi và đỡ đần trong âm thầm.",
+        "text": "ĐỠ ĐẦN ÂM THẦM",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Không nhắc lại chuyện cũ, không cần một lời khen.",
+        "text": "KHÔNG CẦN KHEN",
+        "color": "green",
+        "actor": "front"
+      },
+      {
+        "vo": "Bạn đang xoa dịu họ, hay chỉ muốn cứu lấy sự yên ổn của mình?",
+        "text": "VÌ HỌ HAY VÌ BẠN",
+        "color": "gold",
+        "actor": "think",
+        "prop": "lightbulb"
+      }
+    ]
+  }
+]

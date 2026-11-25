@@ -1,0 +1,341 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 33.377,
+"shots": [
+{
+"img": "p01/img/S15.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 4.058,
+"a": [
+1600,
+780,
+460
+],
+"b": [
+1600,
+760,
+340
+],
+"flash": 1
+},
+{
+"img": "p01/img/S15.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.058,
+"t1": 8.529,
+"a": [
+1000,
+576,
+648
+],
+"b": [
+1000,
+520,
+460
+]
+},
+{
+"img": "p01/img/S17.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 8.529,
+"t1": 11.873,
+"a": [
+800,
+576,
+648
+],
+"b": [
+800,
+450,
+460
+]
+},
+{
+"img": "p01/img/S19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 11.873,
+"t1": 16.037,
+"a": [
+500,
+576,
+648
+],
+"b": [
+420,
+500,
+460
+]
+},
+{
+"img": "p01/img/S19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.037,
+"t1": 20.17,
+"a": [
+1550,
+576,
+648
+],
+"b": [
+1540,
+480,
+460
+]
+},
+{
+"img": "p01/img/S20.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 20.17,
+"t1": 24.649,
+"a": [
+1100,
+576,
+648
+],
+"b": [
+1400,
+420,
+460
+]
+},
+{
+"img": "p01/img/S18.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 24.649,
+"t1": 28.482,
+"a": [
+700,
+576,
+648
+],
+"b": [
+560,
+520,
+460
+],
+"dark": 0.1
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 28.482,
+"t1": 32.877,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p01/img/cut_B02.png",
+"size": 1344,
+"t0": 28.482,
+"t1": 32.877,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.15,
+"t1": 4.058,
+"text": "2:07 AM",
+"color": "#ffd84a"
+},
+{
+"t0": 6.168,
+"t1": 8.529,
+"text": "OCHO HORAS DE SANACIÓN",
+"color": "#ffffff"
+},
+{
+"t0": 17.908,
+"t1": 20.17,
+"text": "50% DE DESCUENTO",
+"color": "#ffd84a"
+},
+{
+"t0": 28.482,
+"t1": 32.877,
+"text": "¿QUÉ CUATRO SEGUNDOS?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.963,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 2.046,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 3.048,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 10.385,
+"src": "sh6/sfx/snap.wav",
+"vol": 0.4
+},
+{
+"t": 23.972,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 28.482,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 31.808,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 2.708,
+"text": "A las dos y siete, estallaron los comentarios."
+},
+{
+"t": 4.058,
+"dur": 4.221,
+"text": "Mi hijo transmitía mientras yo dormía. Ocho horas de sanación con mamá."
+},
+{
+"t": 8.529,
+"dur": 3.094,
+"text": "Al día siguiente, puso otra luz. Directo a la ventana."
+},
+{
+"t": 11.873,
+"dur": 8.047,
+"text": "Internet enloqueció. La gente amplió cada píxel. Un experto en feng shui vendía pulseras contra ma lai con cincuenta por ciento de descuento."
+},
+{
+"t": 20.17,
+"dur": 3.88,
+"text": "La gente teme a los fantasmas. Los fantasmas temen al algoritmo."
+},
+{
+"t": 24.649,
+"dur": 3.033,
+"text": "La noche siguiente, la cámara captó cuatro segundos."
+},
+{
+"t": 28.482,
+"dur": 3.395,
+"text": "¿Qué captaron esos cuatro segundos? Te cuento la próxima vez."
+}
+],
+"comments": [
+{
+"t": 0.963,
+"u": "@vale.mx",
+"c": "eh, ¿qué acaba de pasar volando por la ventana??",
+"end": 4.058
+},
+{
+"t": 2.046,
+"u": "@juan_c23",
+"c": "ponlo a 0.25x, admin",
+"end": 4.058
+},
+{
+"t": 3.048,
+"u": "@luz.be",
+"c": "¿alguien más cree que parece una persona?",
+"end": 4.058
+}
+],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/es/vo/859400ea77.wav"
+},
+{
+"t": 4.058,
+"src": "loc/es/vo/cf802be28b.wav"
+},
+{
+"t": 8.529,
+"src": "loc/es/vo/fc2a1c5746.wav"
+},
+{
+"t": 11.873,
+"src": "loc/es/vo/a8d7f0a8b4.wav"
+},
+{
+"t": 20.17,
+"src": "loc/es/vo/4fbe023ae9.wav"
+},
+{
+"t": 24.649,
+"src": "loc/es/vo/89381c580e.wav"
+},
+{
+"t": 28.482,
+"src": "loc/es/vo/1dd5a34216.wav"
+}
+],
+"mutes": [
+[
+24.449,
+28.482
+]
+],
+"live": [
+[
+0.15,
+4.058
+],
+[
+4.058,
+8.529
+],
+[
+24.649,
+28.482
+]
+],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

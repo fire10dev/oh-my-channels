@@ -1,0 +1,67 @@
+{
+ "title": "Qui nourrit les officiers sous terre ?",
+ "hook": "REPAS SOUS TERRE",
+ "asof": "Données de l’US Air Force et du National Park Service",
+ "world": "capsule",
+ "long": "IX010",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "HEURE 6",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "À 18 mètres sous terre, aucune cuisine.",
+     "v": "capsule"
+    },
+    {
+     "s": "Ces officiers gardent des missiles nucléaires pendant vingt-quatre heures.",
+     "v": "console",
+     "you": "console"
+    },
+    {
+     "s": "Alors, qui les nourrit ?",
+     "v": "meal"
+    },
+    {
+     "s": "En haut, dans un bâtiment qui ressemble à un ranch,",
+     "v": "house"
+    },
+    {
+     "s": "un cuisinier prépare les repas de toute l’équipe.",
+     "v": "kitchen",
+     "you": "chef"
+    },
+    {
+     "s": "Un seul cuisinier, pour dix à vingt personnes.",
+     "v": "kitchen",
+     "st": [
+      "1 CUISINIER",
+      "10–20 personnes · Minot"
+     ]
+    },
+    {
+     "s": "L’équipe choisit son menu avant de descendre.",
+     "v": "meal"
+    },
+    {
+     "s": "Puis le cuisinier apporte les repas à heures fixes.",
+     "v": "meal",
+     "plane": "meal"
+    },
+    {
+     "s": "Pour beaucoup, c’est le seul visage vu de la journée.",
+     "v": "meal",
+     "plane": "meal",
+     "you": "capsule"
+    },
+    {
+     "s": "Tu accepterais ce boulot ?",
+     "v": "kitchen",
+     "you": "chef"
+    }
+   ]
+  }
+ ]
+}

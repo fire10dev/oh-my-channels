@@ -1,0 +1,374 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 38.371,
+"shots": [
+{
+"img": "p01/img/S14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 2.218,
+"a": [
+760,
+480,
+460
+],
+"b": [
+720,
+460,
+340
+],
+"flash": 1
+},
+{
+"img": "p01/img/S10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 2.218,
+"t1": 7.499,
+"a": [
+680,
+576,
+648
+],
+"b": [
+680,
+480,
+460
+]
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 7.499,
+"t1": 12.613,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 10,
+"dark": 0.45
+},
+{
+"img": "p01/img/S11.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 12.613,
+"t1": 16.865,
+"a": [
+1100,
+576,
+648
+],
+"b": [
+1100,
+420,
+460
+]
+},
+{
+"img": "p01/img/S12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.865,
+"t1": 19.948,
+"a": [
+1000,
+576,
+648
+],
+"b": [
+1000,
+576,
+648
+]
+},
+{
+"img": "p01/img/S12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 19.948,
+"t1": 22.944,
+"a": [
+1360,
+720,
+460
+],
+"b": [
+1360,
+700,
+340
+]
+},
+{
+"img": "p01/img/S13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 22.944,
+"t1": 25.273,
+"a": [
+800,
+576,
+648
+],
+"b": [
+800,
+420,
+460
+]
+},
+{
+"img": "p01/img/S14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 25.273,
+"t1": 29.674,
+"a": [
+760,
+576,
+648
+],
+"b": [
+720,
+460,
+460
+]
+},
+{
+"img": "p01/img/S14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 29.674,
+"t1": 31.749,
+"a": [
+1420,
+420,
+460
+],
+"b": [
+1420,
+400,
+340
+]
+},
+{
+"img": "p01/img/S14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 31.749,
+"t1": 33.974,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1024,
+500,
+460
+]
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 33.974,
+"t1": 37.871,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p01/img/cut_S11.png",
+"size": 2048,
+"t0": 7.499,
+"t1": 12.613,
+"from": [
+-250,
+600,
+1.0
+],
+"to": [
+-1750,
+380,
+1.0
+],
+"bob": false
+},
+{
+"img": "p01/img/cut_B02.png",
+"size": 1344,
+"t0": 33.974,
+"t1": 37.871,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 27.14,
+"t1": 29.674,
+"text": "NO TAPES EL CUELLO DE MAMÁ",
+"color": "#ff5a4a"
+},
+{
+"t0": 33.974,
+"t1": 37.871,
+"text": "¿QUÉ NOCHE LO OLVIDÓ?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.4
+},
+{
+"t": 6.784,
+"src": "sh6/sfx/wind.wav",
+"vol": 0.7
+},
+{
+"t": 27.14,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.6
+},
+{
+"t": 33.974,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 36.813,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 1.668,
+"text": "Mamá solo me dio una regla."
+},
+{
+"t": 2.218,
+"dur": 10.145,
+"text": "Soy una ma lai, un fantasma cuya cabeza vuela sola. A las dos de la madrugada, mi cabeza se desprende y sale volando por la ventana. Me la pongo de nuevo antes de que cante el gallo."
+},
+{
+"t": 12.613,
+"dur": 4.002,
+"text": "Ahora es difícil volar por la ciudad. Hay cámaras por todas partes."
+},
+{
+"t": 16.865,
+"dur": 5.829,
+"text": "¿Qué como? Pescado estofado que quedó en la basura. Lo comparto con una gata atigrada. Está embarazada."
+},
+{
+"t": 22.944,
+"dur": 1.929,
+"text": "Mi abuela me dio una sola regla."
+},
+{
+"t": 25.273,
+"dur": 4.151,
+"text": "Escúchame, hijo. Cuando esté dormida, no me subas la manta hasta el cuello."
+},
+{
+"t": 29.674,
+"dur": 1.825,
+"text": "Mamá, eso es pura superstición."
+},
+{
+"t": 31.749,
+"dur": 1.625,
+"text": "Se rio. Y luego lo olvidó."
+},
+{
+"t": 33.974,
+"dur": 2.897,
+"text": "¿Qué noche lo olvidó? Te cuento la próxima vez. Sígueme."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/es/vo/0eb2aba2a1.wav"
+},
+{
+"t": 2.218,
+"src": "loc/es/vo/d360776631.wav"
+},
+{
+"t": 12.613,
+"src": "loc/es/vo/8f44d922fc.wav"
+},
+{
+"t": 16.865,
+"src": "loc/es/vo/c346171db6.wav"
+},
+{
+"t": 22.944,
+"src": "loc/es/vo/393ede1845.wav"
+},
+{
+"t": 25.273,
+"src": "loc/es/vo/9974cc9886.wav"
+},
+{
+"t": 29.674,
+"src": "loc/es/vo/e80e98b119.wav"
+},
+{
+"t": 31.749,
+"src": "loc/es/vo/b11655aed1.wav"
+},
+{
+"t": 33.974,
+"src": "loc/es/vo/aa9ebb5415.wav"
+}
+],
+"mutes": [
+[
+31.549,
+33.974
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

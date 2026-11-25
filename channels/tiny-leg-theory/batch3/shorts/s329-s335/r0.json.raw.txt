@@ -1,0 +1,646 @@
+[
+  {
+    "id": "s329",
+    "mascot": "pen",
+    "title": "Why Silence In Group Chats Stings",
+    "mechanism": "The Need to Belong",
+    "lines": [
+      {
+        "vo": "You drop a meme in the group chat, and nobody replies.",
+        "text": "GROUP CHAT QUIET",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "It is just silence, yet your chest tightens with quiet dread.",
+        "text": "TIGHT CHEST",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "That ache is an ancient drive called the need to belong.",
+        "text": "NEED TO BELONG",
+        "prop": "brain"
+      },
+      {
+        "vo": "Our ancestors needed the tribe just to survive the freezing cold.",
+        "text": "LEFT IN THE COLD",
+        "actor": "front",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Skip the silent crowd and send one direct message to one person.",
+        "text": "TEXT ONE FRIEND",
+        "color": "green",
+        "actor": "typing_focused"
+      },
+      {
+        "vo": "One real conversation is enough to remind your brain you belong.",
+        "text": "YOU ARE SAFE",
+        "color": "gold",
+        "actor": "reading",
+        "prop": "coffee_mug"
+      }
+    ]
+  },
+  {
+    "id": "s329vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Khi nhom chat bong nhien im lang",
+    "title_vi": "Khi nhóm chat bỗng nhiên im lặng",
+    "mechanism": "The Need to Belong",
+    "lines": [
+      {
+        "vo": "Bạn gửi một tin nhắn vui vào nhóm, nhưng chỉ nhận lại chữ đã xem.",
+        "text": "ĐÃ XEM IM LẶNG",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Chỉ là tin nhắn chưa ai trả lời, mà lồng ngực bỗng thấy nghẹn lại.",
+        "text": "NGỰC NGHẸN LẠI",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Cảm giác này bắt nguồn từ nhu cầu thuộc về một tập thể.",
+        "text": "NHU CẦU KẾT NỐI",
+        "prop": "brain"
+      },
+      {
+        "vo": "Thời xa xưa, lạc lõng khỏi bầy đàn đồng nghĩa với nguy hiểm cận kề.",
+        "text": "NỖI SỢ CÔ ĐỘC",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Đừng đợi cả nhóm, hãy nhắn riêng cho một người bạn thấy gần gũi.",
+        "text": "NHẮN RIÊNG MỘT NGƯỜI",
+        "color": "green",
+        "actor": "typing_focused"
+      },
+      {
+        "vo": "Chỉ một kết nối ấm áp là đủ để lòng bạn thấy bình yên trở lại.",
+        "text": "BÌNH YÊN TRỞ LẠI",
+        "color": "gold",
+        "actor": "reading",
+        "prop": "coffee_mug"
+      }
+    ]
+  },
+  {
+    "id": "s330",
+    "mascot": "buff",
+    "title": "When The Lunch Table Freezes",
+    "mechanism": "Social Exclusion",
+    "lines": [
+      {
+        "vo": "You walk up to the lunch table, and everyone suddenly stops talking.",
+        "text": "SUDDEN SILENCE",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Someone slides their chair away, and your gut takes a heavy hit.",
+        "text": "PHYSICAL STING",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "That is social exclusion: the brain processes rejection like physical pain.",
+        "text": "SOCIAL EXCLUSION",
+        "prop": "brain"
+      },
+      {
+        "vo": "Do not waste energy forcing conversation with people turning their backs.",
+        "text": "DO NOT BEG",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Pick up your tray, exit cleanly, and sit where you are welcomed.",
+        "text": "WALK AWAY CLEAN",
+        "color": "gold",
+        "actor": "sprint_start",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s330vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Khi ca ban an bong im bat",
+    "title_vi": "Khi cả bàn ăn bỗng im bặt",
+    "mechanism": "Social Exclusion",
+    "lines": [
+      {
+        "vo": "Bạn vừa bước tới bàn ăn trưa, cả hội liền im bặt.",
+        "text": "CẢ BÀN IM BẶT",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Có người vờ lướt điện thoại. Ngực bạn nhói lên như vừa dính đòn.",
+        "text": "NHÓI NHƯ TRÚNG ĐÒN",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Bộ não xử lý sự tẩy chay y hệt một vết thương thể xác.",
+        "text": "TỔN THƯƠNG THẬT SỰ",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đừng cố gượng cười hay xin xỏ từng chút chú ý gượng gạo.",
+        "text": "ĐỪNG CỐ GƯỢNG CƯỜI",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Cầm cốc nước lên, xoay người dứt khoát và tìm bàn khác ngồi.",
+        "text": "ĐỨNG DẬY BƯỚC ĐI",
+        "color": "gold",
+        "actor": "sprint_start",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s331",
+    "mascot": "pen",
+    "title": "When Friends Pretend You Are Invisible",
+    "mechanism": "Ostracism",
+    "lines": [
+      {
+        "vo": "Your texts sit on delivered, and in person they walk right past.",
+        "text": "LEFT ON DELIVERED",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "You feel completely invisible, as if you are made of glass.",
+        "text": "TOTALLY INVISIBLE",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Being yelled at hurts, but complete silence feels far heavier.",
+        "text": "HEAVIER THAN WORDS",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "This is ostracism, and the brain reads quiet rejection as danger.",
+        "text": "SILENT OSTRACISM",
+        "actor": "front",
+        "prop": "brain"
+      },
+      {
+        "vo": "Put your phone down instead of sending another frantic message.",
+        "text": "DROP THE PHONE",
+        "color": "green",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Reclaim your evening with an activity you genuinely enjoy.",
+        "text": "RECLAIM YOUR TIME",
+        "color": "green",
+        "actor": "reading",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Why beg at a locked door when other rooms are open?",
+        "text": "FIND WELCOMING ROOMS",
+        "color": "gold",
+        "actor": "think"
+      }
+    ]
+  },
+  {
+    "id": "s331vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Khi ban bong thanh nguoi vo hinh",
+    "title_vi": "Khi bạn bỗng thành người vô hình",
+    "mechanism": "Ostracism",
+    "lines": [
+      {
+        "vo": "Tin nhắn gửi đi không hồi âm, gặp mặt ngoài hành lang họ lờ đi.",
+        "text": "KHÔNG MỘT HỒI ÂM",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Bạn thấy mình như biến thành người vô hình giữa những người từng thân.",
+        "text": "NGƯỜI VÔ HÌNH",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Một lời cãi cọ còn dễ chịu hơn sự im lặng lạnh tanh này.",
+        "text": "IM LẶNG LẠNH TANH",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Sự phớt lờ khiến tâm trí cảm thấy mình hoàn toàn bị gạt bỏ.",
+        "text": "BỊ GẠT RA NGOÀI",
+        "actor": "front",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đừng gửi thêm tin nhắn nào để gặng hỏi mình đã làm sai điều gì.",
+        "text": "ĐỪNG NHẮN GẶNG HỎI",
+        "color": "green",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Hãy cất điện thoại và dành buổi tối cho một sở thích riêng.",
+        "text": "CHĂM SÓC BẢN THÂN",
+        "color": "green",
+        "actor": "reading",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Tại sao phải gõ một cánh cửa đã cố tình khép lại?",
+        "text": "CÁNH CỬA KHÉP LẠI",
+        "color": "gold",
+        "actor": "think"
+      }
+    ]
+  },
+  {
+    "id": "s332",
+    "mascot": "buff",
+    "title": "When The Group Has A Secret Club",
+    "mechanism": "In-Group Favoritism",
+    "lines": [
+      {
+        "vo": "The squad plans a trip, but three people book a private cabin.",
+        "text": "SECRET CABIN",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "They share private jokes while handing you the leftover chores.",
+        "text": "LEFTOVER DETAILS",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "That is in-group favoritism: a clique locking their private circle.",
+        "text": "IN-GROUP FAVORITISM",
+        "prop": "target"
+      },
+      {
+        "vo": "Brains have limited bandwidth, so they only invest in their favorites.",
+        "text": "LIMITED BANDWIDTH",
+        "prop": "brain"
+      },
+      {
+        "vo": "Stop expecting VIP passes from people who treat you like casuals.",
+        "text": "STOP EXPECTING VIP",
+        "color": "green",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Match their energy, drop the expectations, and keep your peace.",
+        "text": "MATCH THEIR ENERGY",
+        "color": "gold",
+        "actor": "small_step",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s332vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Khi nhom ban co nhom kin rieng",
+    "title_vi": "Khi nhóm bạn có nhóm kín riêng",
+    "mechanism": "In-Group Favoritism",
+    "lines": [
+      {
+        "vo": "Rủ nhau đi chơi xa, nhưng mấy người tự lập nhóm riêng đặt phòng xịn.",
+        "text": "NHÓM KÍN RIÊNG",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Họ có trò đùa riêng, còn bạn chỉ nhận lại lịch trình thừa thãi.",
+        "text": "LỊCH TRÌNH THỪA",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Đó là thiên vị nhóm nhỏ, nơi người ta tự vẽ ra vòng tròn ưu tiên.",
+        "text": "VÒNG TRÒN ƯU TIÊN",
+        "prop": "target"
+      },
+      {
+        "vo": "Não bộ có hạn, họ chỉ dồn năng lượng cho vài người thân nhất.",
+        "text": "NĂNG LƯỢNG CÓ HẠN",
+        "prop": "brain"
+      },
+      {
+        "vo": "Bớt đòi hỏi quyền lợi thân thiết từ những người chỉ coi mình là xã giao.",
+        "text": "BỚT ĐÒI HỎI LẠI",
+        "color": "green",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Đáp lại đúng mức độ thân thiết của họ và giữ lấy sự thanh thản.",
+        "text": "GIỮ LẤY THANH THẢN",
+        "color": "gold",
+        "actor": "small_step",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s333",
+    "mascot": "pen",
+    "title": "When Your Friends Dress Identical",
+    "mechanism": "Social Identity",
+    "lines": [
+      {
+        "vo": "Everyone in your crew suddenly buys the exact same vintage sneakers.",
+        "text": "MATCHING SHOES",
+        "color": "red",
+        "actor": "front"
+      },
+      {
+        "vo": "You kept your own style, and suddenly you feel like a stranger.",
+        "text": "FEELING OUTSIDER",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Must you mimic their taste just to keep your seat?",
+        "text": "DO I NEED TO COPY",
+        "actor": "think"
+      },
+      {
+        "vo": "This is social identity: groups invent badges to define their tribe.",
+        "text": "SOCIAL IDENTITY",
+        "prop": "target"
+      },
+      {
+        "vo": "Staying original can subconsciously feel like a threat to their group brand.",
+        "text": "THE TRIBE BRAND",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Yet erasing yourself just to fit in is an exhausting trade.",
+        "text": "EXHAUSTING TRADE",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Enjoy their company without copying every trend they chase.",
+        "text": "KEEP YOUR TASTE",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "You can stand with the team without losing your own soul.",
+        "text": "KEEP YOUR SOUL",
+        "color": "gold",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s333vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Khi nhom ban co dong phuc vo hinh",
+    "title_vi": "Khi nhóm bạn có đồng phục vô hình",
+    "mechanism": "Social Identity",
+    "lines": [
+      {
+        "vo": "Cả nhóm bỗng nhiên rủ nhau mặc một kiểu và nói chung một kiểu từ lóng.",
+        "text": "ĐỒNG PHỤC VÔ HÌNH",
+        "color": "red",
+        "actor": "front"
+      },
+      {
+        "vo": "Bạn giữ gu riêng của mình, rồi tự thấy mình lạc lõng giữa bạn cũ.",
+        "text": "LẠC LÕNG GIỮA BẠN CŨ",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Liệu có nhất thiết phải bắt chước họ để tiếp tục được chơi chung?",
+        "text": "CÓ CẦN BẮT CHƯỚC?",
+        "actor": "think"
+      },
+      {
+        "vo": "Tâm lý học gọi đây là bản sắc xã hội, nơi nhóm dựng nên phù hiệu riêng.",
+        "text": "BẢN SẮC XÃ HỘI",
+        "prop": "target"
+      },
+      {
+        "vo": "Khi bạn khác biệt, họ vô thức thấy sự gắn kết của nhóm bị đe dọa.",
+        "text": "LO NGẠI KHÁC BIỆT",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Nhưng cố ép mình giống hệt người khác là một sự đánh đổi kiệt sức.",
+        "text": "ĐÁNH ĐỔI KIỆT SỨC",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Bạn vẫn có thể tôn trọng họ mà không cần từ bỏ sở thích riêng.",
+        "text": "GIỮ SỞ THÍCH RIÊNG",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Chơi cùng một đội không có nghĩa là phải đánh mất chính mình.",
+        "text": "KHÔNG MẤT CHÍNH MÌNH",
+        "color": "gold",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s334",
+    "mascot": "buff",
+    "title": "When You Break The Group Rules",
+    "mechanism": "Group Norms",
+    "lines": [
+      {
+        "vo": "Suggest cheap street noodles instead of the expensive cafe, and silence hits.",
+        "text": "TOTAL SILENCE",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Awkward side-eyes and cleared throats make you feel like a criminal.",
+        "text": "AWKWARD SIDE-EYES",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "That is group norms: an unwritten rulebook every squad protects fiercely.",
+        "text": "GROUP NORMS",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Stop trying to turn a heavy freight train all by yourself.",
+        "text": "DO NOT FORCE IT",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Skip the debate, grab your noodles, and invite just one curious friend.",
+        "text": "INVITE JUST ONE",
+        "color": "gold",
+        "actor": "point_viewer",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s334vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Khi ban lo pha luat ngam cua nhom",
+    "title_vi": "Khi bạn lỡ phá luật ngầm của nhóm",
+    "mechanism": "Group Norms",
+    "lines": [
+      {
+        "vo": "Rủ ra quán vỉa hè thay vì quán xịn quen thuộc, cả nhóm bỗng nín bặt.",
+        "text": "CẢ NHÓM NÍN BẶT",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Vài cái liếc mắt ái ngại làm bạn ngỡ mình vừa phạm tội lớn.",
+        "text": "NHỮNG CÁI LIẾC MẮT",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Đó là chuẩn mực nhóm, cuốn luật bất thành văn mà họ luôn giữ khư khư.",
+        "text": "LUẬT NGẦM CỦA NHÓM",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Một mình bạn không thể bẻ lái cả một thói quen lâu năm.",
+        "text": "ĐỪNG BẺ LÁI CẢ NHÓM",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Bỏ qua tranh cãi, cứ đi ăn món bạn thích và rủ riêng một người tò mò.",
+        "text": "RỦ RIÊNG MỘT NGƯỜI",
+        "color": "gold",
+        "actor": "point_viewer",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s335",
+    "mascot": "pen",
+    "title": "When Two Friends Form An Alliance",
+    "mechanism": "Coalition Formation",
+    "lines": [
+      {
+        "vo": "Two friends walk in whispering, then freeze the second you say hello.",
+        "text": "WHISPERING IN PAIRS",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Later you find out they bought concert tickets without telling anyone.",
+        "text": "SECRET CONCERT",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "It feels like a secret private alliance formed under your nose.",
+        "text": "PRIVATE ALLIANCE",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "This is coalition formation: humans naturally pair up for mutual security.",
+        "text": "COALITION FORMATION",
+        "prop": "brain"
+      },
+      {
+        "vo": "They are not plotting against you, just securing personal backup.",
+        "text": "MUTUAL BACKUP",
+        "prop": "target"
+      },
+      {
+        "vo": "Never try to wedge yourself into an already locked pair.",
+        "text": "DO NOT FORCE IN",
+        "color": "green",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Why not invest your energy in friends who also feel outside?",
+        "text": "SEEK OTHER ALLIES",
+        "color": "gold",
+        "actor": "think",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s335vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Khi hai nguoi ban lap hoi kin",
+    "title_vi": "Khi hai người bạn lập hội kín",
+    "mechanism": "Coalition Formation",
+    "lines": [
+      {
+        "vo": "Hai người bạn đang thì thầm, vừa thấy bạn bước tới liền im bặt.",
+        "text": "THÌ THẦM IM BẶT",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Sau đó bạn mới biết họ vừa cùng nhau mua vé xem ca nhạc riêng.",
+        "text": "MUA VÉ RIÊNG",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Cảm giác như một liên minh bí mật vừa được lập ra sau lưng mình.",
+        "text": "LIÊN MINH BÍ MẬT",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Đây là sự hình thành liên minh nhằm tìm kiếm cảm giác an toàn vững chắc.",
+        "text": "TÌM SỰ AN TOÀN",
+        "prop": "brain"
+      },
+      {
+        "vo": "Họ không cố tình chống lại bạn, chỉ là đang tìm một chỗ dựa vững chắc.",
+        "text": "TÌM CHỖ DỰA RIÊNG",
+        "prop": "target"
+      },
+      {
+        "vo": "Đừng cố chen chân vào giữa một cặp đôi đã khép kín vòng tròn.",
+        "text": "ĐỪNG CỐ CHEN VÀO",
+        "color": "green",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Sao không dành sự quan tâm cho những người cũng đang đứng ngoài lề?",
+        "text": "KẾT NỐI NGƯỜI KHÁC",
+        "color": "gold",
+        "actor": "think",
+        "prop": "lightbulb"
+      }
+    ]
+  }
+]

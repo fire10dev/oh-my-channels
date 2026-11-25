@@ -3,7 +3,7 @@
 Kênh: **Tiny Leg Theory** (`@TinyLegTheory`) · kênh Việt: **Lý Thuyết Chân Que** (`@LyThuyetChanQue`) — 2 kênh đã tạo 2026-11-14 (Brand Account của fire10.dev).
 Logo: `logo/logo_L1..L4.png` (đề xuất L1). Metadata đăng: `upload-metadata.csv` (EN), `upload-metadata-vi.csv` (VI). Xem nhanh từng clip: `review/<id>.jpg`.
 
-## Đã đăng (Công khai, không lên lịch)
+## Đã đăng (batch 1, đợt đầu)
 
 | id | Kênh | Link |
 |---|---|---|

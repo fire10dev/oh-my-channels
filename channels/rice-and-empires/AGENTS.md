@@ -12,6 +12,23 @@ Background research and decisions: `docs/research/` (snapshots from the owner's 
 - Owner: Luân. Writes Vietnamese, **not fluent in English** → every script has a Vietnamese review column; explain things in Vietnamese.
 - Published so far: 1 Short (test, travel tips, off-niche) https://youtube.com/shorts/v1DX0NAPdEg.
 
+## 1b. Where files live — one folder per episode (owner 2026-11-24)
+```
+episodes/Ep09-Nanyue/            one LONG = one episode (EpNN = LNNN)
+  ep.json                        {"code": "L009", "vid": "l009", "name", "channel"}
+  long/      script.md · plan.md · say.json · render/ (final mp4, preview, contact sheet)
+  shorts/    script.md · SH1/ … SH7/ (mp4 + sheet; build/ = TTS)
+  assets/    images + clips (Remotion reads them through the symlink shorts/public/l009 → here)
+  metadata/  long.md · shorts.md · scheduler.md (generated from YT Hub) · thumbnails/ · *-description.txt
+  reviews/   Codex/agy fact-check + image reviews
+episodes/standalone-shorts/S013-Funan/   script.md · plan.md · say.json · assets/ · render/ · metadata/ · reviews/
+```
+- Path of anything: `python3 tools/ep.py L009 [script|say|<rel path>]`. New episode: create `episodes/EpNN-<Name>/ep.json` first; tools create
+  `assets/` + the `shorts/public/<vid>` symlink. Code stays in `shorts/src/` (Remotion compositions + generated `<vid>.json`), `tools/`.
+- After any `ythub set` (title, description, schedule): `python3 ../../shared/episodes/ep_meta.py episodes/EpNN-*/` rewrites `metadata/*.md`.
+  Hand-written schedule plans go below `## Ghi chú` in `scheduler.md` (kept on regeneration).
+- `shorts/out/` = render scratch only (raw files, experiments); finals go into the episode.
+
 ## 2. Working rules (owner's standing rules — follow exactly)
 - **Language**: reply to the owner in Vietnamese. Every final reply has 3 headings:
   `**Tóm tắt vừa làm:**` (actions only) · `**Giải thích kết quả:**` (verdict first, table if comparing, caveats tagged 🔴/🟠/🟡) ·
@@ -25,10 +42,10 @@ Background research and decisions: `docs/research/` (snapshots from the owner's 
 - **Never delete a YouTube channel.** To retire one, use *Hide channel*. (Incident 2026-11-07: deleting the personal channel's YouTube
   content also deleted the Brand Account "Rice & Empires"; restored via `myaccount.google.com/brandaccounts?sf=1`. See research note §2e.)
 - **No invented history.** `docs/FACT-CHECK.md` is mandatory: claim table with sources *before* narration. Unsure → mark it, don't smooth it over.
-- Prefer local tools; scratch files in a temp dir, not in the repo. Do not commit `shorts/out/` (renders) or narration wav (regenerated).
+- Prefer local tools; scratch files in a temp dir, not in the repo. Do not commit renders, images or narration wav (regenerated).
 - **Music = made in Flow Music** (owner 2026-11-15, after a Content ID claim on Scott Buckley's 'Shadows And Dust' in L007): no stock/CC library tracks. Agent writes Flow Music prompts with similar material (cinematic orchestral, calm / tense / ending moods, length per chapter) in `PROMPTS.md`; owner makes the tracks → `shorts/public/bgm/<vid>-*.mp3` → `<vid>.music.json`.
-- **Heavy output never goes to git** (owner 2026-11-07): images/audio/video for S002+ live in git-ignored `shorts/public/sNNN/`,
-  `shorts/public/bgm/`, `shorts/out/`. Git gets only md, json, code, review logs. Image prompts are kept in the script md.
+- **Heavy output never goes to git** (owner 2026-11-07): images/audio/video live in git-ignored `episodes/**/{assets,render,build,thumbnails}/`,
+  `shorts/public/bgm/`, `shorts/out/` (scratch). Git gets only md, json, code, review logs. Image prompts are kept in the script md.
 - **Overnight runs** (owner 2026-11-07): no subagents; no wasted tokens; work sequentially until 5h limit / owner says stop / queue done.
   Claude directs; Codex (`tools/codex_review.sh <script> <round>`) only fact-checks, **max 3 rounds**; 🔴 left after round 3 → cut or hedge.
 - **Length & pace**: Shorts length follows content (≤ 3 min = YouTube Shorts limit). Kokoro speed 1.0, target ≤ 160 wpm, never rushed.
@@ -43,11 +60,11 @@ Background research and decisions: `docs/research/` (snapshots from the owner's 
 ## 4. Pipeline (works end-to-end, verified 2026-11-07)
 | Step | Tool | Output |
 |---|---|---|
-| 1 Research + claim table | web search, scholarly sources | `scripts/SNNN-*.md` §Claims |
-| 2 Script | EN narration + VI review column, `say` column for TTS spelling | `scripts/SNNN-*.md`, `shorts/src/sNNN.json` |
-| 3 Voice | Kokoro (free, Apache-2.0) `tools/tts_kokoro.py`, voice `af_heart`, speed 1.1–1.2. ElevenLabs later (owner will buy) | `shorts/public/sNNN/vo-*.wav` + `timeline.json` |
+| 1 Research + claim table | web search, scholarly sources | `<episode>/script.md` §Claims |
+| 2 Script | EN narration + VI review column, `say` column for TTS spelling | `<episode>/script.md` + `say.json`, `shorts/src/sNNN.json` |
+| 3 Voice | Kokoro (free, Apache-2.0) `tools/tts_kokoro.py`, voice `af_heart`, speed 1.1–1.2. ElevenLabs later (owner will buy) | `<episode>/assets/vo-*.wav` + `timeline.json` |
 | 4 Images | `tools/imagegen/gen.mjs` (Playwright: AI Studio → Gemini → Flow, same Google account) — API image quota is 0 on free tier. 🔴 2026-11-08: Google blocks sign-in in the Playwright Chrome → not usable yet; fallback = AI Studio worker in the built-in browser (`tools/aistudio_helpers.js`) | `$TMPDIR/stage/sNNN-img-*.jpg` → `make_short.sh` |
-| 5 Render | Remotion 4.0.535, `shorts/src/ListShort.tsx` (Shorts 1080×1920) | `shorts/out/*.mp4` |
+| 5 Render | Remotion 4.0.535, `shorts/src/ListShort.tsx` (Shorts 1080×1920) | `<episode>/render/*.mp4` (LONG: `long/render/`) |
 | 6 Loudness | `ffmpeg -af loudnorm=I=-14:TP=-1.5:LRA=11` | final mp4 |
 | 7 Upload | owner drags file into Studio upload dialog; agent fills title/description/settings | public video |
 

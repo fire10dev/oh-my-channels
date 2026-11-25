@@ -1,0 +1,430 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 48.169,
+"shots": [
+{
+"img": "p03/img/X12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 6.6,
+"a": [
+896,
+743,
+460
+],
+"b": [
+896,
+849,
+340
+],
+"flash": 1
+},
+{
+"img": "p03/img/X12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 6.6,
+"t1": 10.947,
+"a": [
+700,
+576,
+648
+],
+"b": [
+576,
+520,
+460
+]
+},
+{
+"img": "p03/img/X14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.947,
+"t1": 15.195,
+"a": [
+470,
+576,
+648
+],
+"b": [
+470,
+450,
+460
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 15.195,
+"t1": 18.058,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1024,
+420,
+460
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 18.058,
+"t1": 24.752,
+"a": [
+990,
+743,
+460
+],
+"b": [
+990,
+849,
+340
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 24.752,
+"t1": 27.283,
+"a": [
+1000,
+849,
+340
+],
+"b": [
+1000,
+849,
+340
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 27.283,
+"t1": 29.708,
+"a": [
+1100,
+560,
+460
+],
+"b": [
+1100,
+576,
+648
+]
+},
+{
+"img": "p03/img/X14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 29.708,
+"t1": 32.384,
+"a": [
+470,
+576,
+648
+],
+"b": [
+470,
+450,
+460
+]
+},
+{
+"img": "p03/img/X14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 32.384,
+"t1": 35.019,
+"a": [
+1520,
+440,
+460
+],
+"b": [
+1520,
+400,
+340
+]
+},
+{
+"img": "p03/img/X12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 35.019,
+"t1": 40.126,
+"a": [
+576,
+560,
+460
+],
+"b": [
+576,
+520,
+340
+]
+},
+{
+"img": "p03/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 40.126,
+"t1": 47.769,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 40.126,
+"t1": 47.769,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 6.6,
+"text": "OPEN THE JAR!",
+"color": "#ff5a4a"
+},
+{
+"t0": 15.195,
+"t1": 16.109,
+"text": "MA XO",
+"color": "#ffd84a"
+},
+{
+"t0": 16.5,
+"t1": 18.058,
+"text": "413 I.O.U.S",
+"color": "#ff5a4a"
+},
+{
+"t0": 18.251,
+"t1": 20.248,
+"text": "GREAT-GREAT-GRANDPA",
+"color": "#ffffff"
+},
+{
+"t0": 20.248,
+"t1": 22.374,
+"text": "GRANDPA",
+"color": "#ffffff"
+},
+{
+"t0": 22.374,
+"t1": 24.752,
+"text": "DAD",
+"color": "#ffffff"
+},
+{
+"t0": 27.801,
+"t1": 29.708,
+"text": "COLLATERAL: THIS HOUSE",
+"color": "#ff5a4a"
+},
+{
+"t0": 31.228,
+"t1": 35.019,
+"text": "LENDERS: HALF THE BLOCK",
+"color": "#ffd84a"
+},
+{
+"t0": 38.153,
+"t1": 40.126,
+"text": "DEAL OFF · DEPOSIT FORFEITED",
+"color": "#ff5a4a"
+},
+{
+"t0": 40.126,
+"t1": 43.992,
+"text": "WHAT ADDENDUM?",
+"color": "#ffd84a"
+},
+{
+"t0": 43.992,
+"t1": 47.769,
+"text": "▼ FULL EPISODE: LINK BELOW",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 3.78,
+"src": "p03/sfx/hu.wav",
+"vol": 0.8
+},
+{
+"t": 6.6,
+"src": "p03/sfx/sang.wav",
+"vol": 0.5
+},
+{
+"t": 10.772,
+"src": "p03/sfx/hu.wav",
+"vol": 0.8
+},
+{
+"t": 16.5,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 18.251,
+"src": "p02/sfx/lat.wav",
+"vol": 0.6
+},
+{
+"t": 20.248,
+"src": "p02/sfx/lat.wav",
+"vol": 0.6
+},
+{
+"t": 22.374,
+"src": "p02/sfx/lat.wav",
+"vol": 0.6
+},
+{
+"t": 27.801,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 29.708,
+"src": "p02/sfx/riram.wav",
+"vol": 0.6
+},
+{
+"t": 38.153,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 40.126,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 46.439,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 6.3,
+"text": "A jar nobody dared open for three generations. This morning, half the neighborhood watched it open."
+},
+{
+"t": 6.6,
+"dur": 8.344,
+"text": "Saturday morning. The storage room door opened by itself. They dug up the jar in front of the buyers, their lawyer, and half the neighborhood."
+},
+{
+"t": 15.195,
+"dur": 2.613,
+"text": "Four hundred thirteen papers. I.O.U.s, sir."
+},
+{
+"t": 18.058,
+"dur": 6.444,
+"text": "Great-great-grandpa borrowed to buy land. Grandpa borrowed to cover the interest. Your dad borrowed to refinance."
+},
+{
+"t": 24.752,
+"dur": 4.358,
+"text": "Three generations. Not one payment. Every time, they put up… this very house."
+},
+{
+"t": 29.708,
+"dur": 5.06,
+"text": "The lenders live right here. It's the old quarter. Every house still has the paperwork."
+},
+{
+"t": 35.019,
+"dur": 4.607,
+"text": "A notary can't sign off on a disputed house. We're out. You forfeit the deposit."
+},
+{
+"t": 40.126,
+"dur": 6.442,
+"text": "Remember that addendum Mr. Khai wrote himself? It came back to bite him. Full episode right below."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/en/vo/6b94556dba.wav"
+},
+{
+"t": 6.6,
+"src": "loc/en/vo/0e48f11620.wav"
+},
+{
+"t": 15.195,
+"src": "loc/en/vo/2a432e42b1.wav"
+},
+{
+"t": 18.058,
+"src": "loc/en/vo/b24bdb6e4a.wav"
+},
+{
+"t": 24.752,
+"src": "loc/en/vo/f027f7581b.wav"
+},
+{
+"t": 29.708,
+"src": "loc/en/vo/54070e5636.wav"
+},
+{
+"t": 35.019,
+"src": "loc/en/vo/7290099b25.wav"
+},
+{
+"t": 40.126,
+"src": "loc/en/vo/138f899ee2.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

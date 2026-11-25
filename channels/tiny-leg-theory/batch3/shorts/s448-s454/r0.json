@@ -1,0 +1,728 @@
+[
+ {
+  "id": "s448",
+  "mascot": "buff",
+  "title": "Why Your First Idea Sucks",
+  "mechanism": "DIVERGENT THINKING",
+  "lines": [
+   {
+    "vo": "Rewriting the same boring headline ten times? Sure, buddy.",
+    "text": "SAME OLD LINE",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Your brain hates uncertainty, so it grabs the nearest familiar shortcut.",
+    "text": "LAZY SHORTCUT",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "You are locking the door before divergent thinking even starts.",
+    "text": "SHUTTING DOWN",
+    "actor": "confused_shrug",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Time for a bad idea volume set.",
+    "text": "VOLUME SET",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Ban quality for five minutes. Write twenty terrible ideas on purpose.",
+    "text": "WRITE 20 BAD ONES",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Turn off your inner critic, stack the reps, and sort them later.",
+    "text": "STACK THE REPS",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s448vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Bi y tuong khi viet bai",
+  "title_vi": "Bí ý tưởng khi viết bài",
+  "mechanism": "DIVERGENT THINKING",
+  "lines": [
+   {
+    "vo": "Ngồi xóa đi viết lại một cái mở đầu cả chục lần. Quen không?",
+    "text": "VIET DI XOA LAI",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Vì lười mông lung, não cứ nhả ra mấy câu sáo rỗng quen thuộc.",
+    "text": "LOI MON CU",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn đang dập tắt luồng nghĩ rộng ngay từ phút đầu tiên.",
+    "text": "DAP TAT Y TUONG",
+    "actor": "confused_shrug",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Khởi động ngay một hiệp xả ý tưởng rác.",
+    "text": "XA HIEP RAC",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Cấm viết câu hay. Viết liên tục hai mươi câu dở tệ nhất có thể.",
+    "text": "CAM VIET HAY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Tắt phán xét, gom đủ số lượng rồi mới tính chuyện lọc kim cương.",
+    "text": "GOM DU SO LUONG",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s449",
+  "mascot": "pen",
+  "title": "How to Pick the Best Idea",
+  "mechanism": "CONVERGENT THINKING",
+  "lines": [
+   {
+    "vo": "A giant list of messy ideas, and now you feel totally paralyzed.",
+    "text": "IDEA OVERLOAD",
+    "color": "red",
+    "actor": "panic",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Brainstorming is fun, but leaving every door open drains your mind.",
+    "text": "TOO MANY DOORS",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Creativity needs divergent mess, but it survives on convergent selection.",
+    "text": "THE FILTER STEP",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Our brain hates letting go because choosing one means abandoning the rest.",
+    "text": "FEAR OF LOSS",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Score each idea on two tests: unexpected, and solves the problem.",
+    "text": "TWO SIMPLE TESTS",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Cut the list in half without looking back.",
+    "text": "CUT IN HALF",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "target"
+   },
+   {
+    "vo": "Real focus begins the moment you give yourself permission to discard.",
+    "text": "DARING TO CUT",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s449vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "So mo y tuong hon don",
+  "title_vi": "Sợ mớ ý tưởng hỗn độn",
+  "mechanism": "CONVERGENT THINKING",
+  "lines": [
+   {
+    "vo": "Ghi kín cả trang giấy ghi chú rồi hoang mang không biết chọn gì.",
+    "text": "NGAP TRONG GHI CHU",
+    "color": "red",
+    "actor": "panic",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Cái gì cũng muốn giữ, thành ra dự án không bao giờ chốt nổi.",
+    "text": "KHONG THE CHOT",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Não sợ tiếc nuối, chọn một hướng là phải buông bỏ những hướng khác.",
+    "text": "SO TIEC NUOI",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Sáng tạo thực sự không chỉ là gom nhặt, mà là dũng cảm gọt tỉa.",
+    "text": "GIAI DOAN GOT TIA",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Chấm điểm theo hai điều: có mới lạ không, và có giải quyết việc không?",
+    "text": "HAI DIEU KIEN LOC",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Gạch bỏ một nửa danh sách mà không cần đắn đo.",
+    "text": "GACH BO MOT NUA",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "target"
+   },
+   {
+    "vo": "Đôi khi sự sắc bén chỉ đến khi ta dám buông bớt.",
+    "text": "DAM BUONG BOT",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s450",
+  "mascot": "buff",
+  "title": "Break Boring Default Ideas",
+  "mechanism": "ASSOCIATIVE MIND",
+  "lines": [
+   {
+    "vo": "Brainstorming a coffee brand and your brain offers morning and mug. Groundbreaking.",
+    "text": "GROUNDBREAKING",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Associative thinking runs on worn tracks because defaults burn zero energy.",
+    "text": "DEFAULT TRACKS",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "brain"
+   },
+   {
+    "vo": "To hit original ideas, you have to jump past the automatic wave.",
+    "text": "JUMP THE GAP",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "List five direct associations, then force ideas only from the fifth word.",
+    "text": "FIFTH LINK RULE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "The first four are warm-ups. Real gold lives on outer branches.",
+    "text": "OUTER BRANCHES",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s450vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Nghi ra y tuong khac biet",
+  "title_vi": "Nghĩ ra ý tưởng khác biệt",
+  "mechanism": "ASSOCIATIVE MIND",
+  "lines": [
+   {
+    "vo": "Nghĩ logo quán cà phê lại vẽ hạt với khói bay. Quá cũ.",
+    "text": "LOI MON CU KIECH",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Não quen đi đường tắt cho đỡ tốn sức, nên cứ nhả liên tưởng gần.",
+    "text": "DUONG TAT DE DI",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "brain"
+   },
+   {
+    "vo": "Muốn khác biệt thì phải ép não bước qua vùng liên tưởng hiển nhiên.",
+    "text": "BUOC QUA VUNG AN",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Liệt kê năm từ liên quan, rồi chỉ đào sâu từ thứ năm.",
+    "text": "QUY TAC TU THU NAM",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Bốn từ đầu chỉ là khởi động. Ý tưởng hay nằm ở mắt xích xa.",
+    "text": "MAT XICH XA XOI",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s451",
+  "mascot": "pen",
+  "title": "Why Grinding Kills Creativity",
+  "mechanism": "INCUBATION BREAK",
+  "lines": [
+   {
+    "vo": "Four hours glued to this chair, and your skull feels completely numb.",
+    "text": "BRAIN FREEZE",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Staring harder at the cursor only makes every single idea worse.",
+    "text": "FORCE IS FAILING",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Conscious focus gets trapped in loops, obsessing over early dead ends.",
+    "text": "MENTAL FIXATION",
+    "actor": "think",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Step away and let the incubation effect do the heavy lifting.",
+    "text": "INCUBATION TIME",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "brain"
+   },
+   {
+    "vo": "Subconscious networks connect dots while your active attention is offline.",
+    "text": "BACKGROUND WORK",
+    "color": "green",
+    "actor": "meditating",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Take a quiet shower or a brisk walk with zero phone checks.",
+    "text": "NO PHONE CHECKS",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Low demand physical movement breaks the grip of mental fixation.",
+    "text": "RESET THE LOOP",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "What if stepping away is actually where the real work happens?",
+    "text": "STEPPING AWAY",
+    "color": "gold",
+    "actor": "front",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s451vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ngoi ly mot cho van bi",
+  "title_vi": "Ngồi lỳ một chỗ vẫn bí",
+  "mechanism": "INCUBATION BREAK",
+  "lines": [
+   {
+    "vo": "Ngồi ôm máy bốn tiếng liền, mắt mỏi nhừ mà đầu óc trống rỗng.",
+    "text": "OM MAY BON TIENG",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Càng ép mình tập trung, ý tưởng viết ra trông càng gượng gạo.",
+    "text": "CANG EP CANG TAC",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Sự chú ý đang bị kẹt trong vòng lặp của những lối mòn bế tắc.",
+    "text": "VONG LAP BE TAC",
+    "actor": "think",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Đứng dậy rời bàn làm việc. Để vùng ấp ủ dưới tiềm thức tự chạy.",
+    "text": "VUNG AP U",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "brain"
+   },
+   {
+    "vo": "Não ngầm chắp nối dữ liệu tốt hơn khi ta không săm soi vào nó.",
+    "text": "DE NAO TU CHAY",
+    "color": "green",
+    "actor": "meditating",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Tản bộ mười phút, tuyệt đối không cầm điện thoại lướt mạng.",
+    "text": "KHONG CAM DIEN THOAI",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Chuyển động nhẹ nhàng giúp xóa tan cảm giác bế tắc đang đè nặng.",
+    "text": "THOAT KHOI LOI MON",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Liệu rời bàn một lúc có phải là cách nhanh nhất để thông suốt?",
+    "text": "ROI BAN DUNG LUC",
+    "color": "gold",
+    "actor": "front",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s452",
+  "mascot": "buff",
+  "title": "Stop Making Boring Slides",
+  "mechanism": "FIXED THINKING",
+  "lines": [
+   {
+    "vo": "Every presentation slide you make is a title and three bullet points.",
+    "text": "THREE BULLETS",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Classic functional fixedness. You treat software like a glorified typewriter.",
+    "text": "FUNCTIONAL TRAP",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Your brain locks tools into narrow categories just to conserve daily energy.",
+    "text": "LAZY EFFICIENCY",
+    "actor": "think",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Time to break the default routine.",
+    "text": "BREAK DEFAULTS",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Ban bullet points and text boxes completely from your next five slides.",
+    "text": "BAN THE BOXES",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "target"
+   },
+   {
+    "vo": "Force yourself to use only a single image or a timeline. Adapt or fail.",
+    "text": "FORCE NEW FORMS",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s452vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Slide bao cao don dieu",
+  "title_vi": "Slide báo cáo đơn điệu",
+  "mechanism": "FIXED THINKING",
+  "lines": [
+   {
+    "vo": "Làm slide báo cáo sếp là lại chèn tiêu đề với ba gạch đầu dòng.",
+    "text": "BA GACH DAU DONG",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Tư duy cố định. Bạn coi phần mềm thuyết trình như cái máy đánh chữ.",
+    "text": "CAI MAY DANH CHU",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Não thích đóng khung công cụ vào công năng cũ để đỡ tốn sức nghĩ.",
+    "text": "DONG KHUNG CONG CU",
+    "actor": "think",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Muốn trình bày cuốn hút, phải cấm cửa thói quen mặc định.",
+    "text": "CAM THOI QUEN CU",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Thử làm năm trang tiếp theo mà không dùng bất kỳ gạch đầu dòng nào.",
+    "text": "KHONG GACH DAU DONG",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "target"
+   },
+   {
+    "vo": "Dùng duy nhất một con số hoặc sơ đồ trục ngang. Thử ngay.",
+    "text": "THAY DOI HOAN TOAN",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s453",
+  "mascot": "pen",
+  "title": "Why Total Freedom Freezes You",
+  "mechanism": "BOX CONSTRAINTS",
+  "lines": [
+   {
+    "vo": "The client said you have total creative freedom, and you completely froze.",
+    "text": "TOTAL FREEDOM",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Endless possibilities sound great, but they paralyze your working memory.",
+    "text": "ENDLESS CHOICES",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Without boundaries, your brain burns all its fuel just evaluating directions.",
+    "text": "DECISION FATIGUE",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Creativity actually thrives when you place deliberate fences around the sandbox.",
+    "text": "DELIBERATE FENCES",
+    "color": "green",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Lock down your limits: design with two colors, or write fifty words.",
+    "text": "STRICT LIMITS",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "target"
+   },
+   {
+    "vo": "Narrow borders eliminate hesitation and force raw resourcefulness to surface.",
+    "text": "NARROW THE FIELD",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "A tight frame is not a prison. It is where momentum begins.",
+    "text": "MOMENTUM BEGINS",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s453vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Khach bao tuy em muon lam gi",
+  "title_vi": "Khách bảo tùy em muốn làm gì",
+  "mechanism": "BOX CONSTRAINTS",
+  "lines": [
+   {
+    "vo": "Khách nhắn làm tự do sáng tạo tùy thích, và bạn đứng hình luôn.",
+    "text": "HOAN TOAN DUNG HINH",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Tự do vô hạn nghe thì thích, thực ra lại khiến đầu óc tê liệt.",
+    "text": "TE LIET QUYET DINH",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Không có giới hạn, não tốn sạch năng lượng để phân vân giữa trăm ngả.",
+    "text": "PHAN VAN TRAM NGA",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Sáng tạo chỉ bùng nổ khi bạn tự dựng lên những hàng rào kỷ luật.",
+    "text": "HANG RAO KY LUAT",
+    "color": "green",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tự đặt khuôn khổ: thiết kế hai tông màu, hoặc viết đúng năm mươi chữ.",
+    "text": "HAI TONG MAU",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "target"
+   },
+   {
+    "vo": "Khi các lối rẽ thừa bị chặn lại, sức tập trung mới dồn về.",
+    "text": "DON VAO MOT DIEM",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Một cái khung hẹp không giam cầm ta, mà giúp ta cất cánh.",
+    "text": "KHUNG HEP CAT CANH",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s454",
+  "mascot": "buff",
+  "title": "How to Steal Like a Pro",
+  "mechanism": "ANALOGY TRANSFER",
+  "lines": [
+   {
+    "vo": "Writing a video hook and your draft sounds like a college lecture.",
+    "text": "COLLEGE LECTURE",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Copying scripts from your own niche just produces the same generic clones.",
+    "text": "GENERIC CLONES",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Use analogical transfer. Steal a battle-tested structure from a totally different world.",
+    "text": "ANALOGY TRANSFER",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Watch how video games reward players in their first two minutes.",
+    "text": "GAME ONBOARDING",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Borrow that exact reward pacing for your intro. Copy systems, not sentences.",
+    "text": "COPY THE SYSTEM",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s454vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Viet mo dau video sao cho cuon",
+  "title_vi": "Viết mở đầu video sao cho cuốn",
+  "mechanism": "ANALOGY TRANSFER",
+  "lines": [
+   {
+    "vo": "Viết kịch bản video mà đọc lên nghe khô khốc như giáo trình.",
+    "text": "GIAO TRINH KHO KHOC",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Cứ tham khảo các kênh cùng ngành thì muôn đời chỉ sao chép văn mẫu.",
+    "text": "VAN MAU TRUNG LAP",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Muốn cuốn hút thì phải chuyển giao cấu trúc từ lĩnh vực hoàn toàn khác.",
+    "text": "MUON CAU TRUC LA",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Nhìn cách một tựa game trao thưởng cho tân thủ trong hai phút đầu.",
+    "text": "PHAN THUONG GAME",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bê nguyên nhịp trả thưởng dồn dập vào mở đầu. Học cơ chế, đừng chép chữ.",
+    "text": "HOC DUNG CO CHE",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "lightbulb"
+   }
+  ]
+ }
+]

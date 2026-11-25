@@ -1,0 +1,229 @@
+{
+ "id": "w013es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#f97316",
+ "cover_frame": 60,
+ "source": "Flujos y anchos: Administración de Información Energética de EE. UU. (2023–2024)",
+ "music": "shared/library/music/yt-audio-library/Future Glider - Brian Bolger.mp3",
+ "beats": [
+  {
+   "say": "Por este canal pasa más petróleo que por cualquier otro lugar del mundo.",
+   "title": "LA RUTA DE PETRÓLEO MÁS TRANSITADA",
+   "cam": {
+    "lon": 101,
+    "lat": 3,
+    "span": 16
+   },
+   "hl": [
+    {
+     "a3": "MYS",
+     "color": "#f97316"
+    },
+    {
+     "a3": "IDN",
+     "color": "#22c55e"
+    },
+    {
+     "a3": "SGP",
+     "color": "#ffd23f"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      95.5,
+      6
+     ],
+     [
+      98.5,
+      4.5
+     ],
+     [
+      100.5,
+      2.8
+     ],
+     [
+      103,
+      1.4
+     ],
+     [
+      104.3,
+      1.25
+     ],
+     [
+      105,
+      1.8
+     ]
+    ],
+    "color": "#ffd23f",
+    "arrow": true,
+    "label": "Petroleros"
+   }
+  },
+  {
+   "say": "Es el estrecho de Malaca, entre Malasia y la isla indonesia de Sumatra.",
+   "cam": {
+    "lon": 101,
+    "lat": 3,
+    "span": 16
+   },
+   "hl": [
+    {
+     "a3": "MYS",
+     "color": "#f97316",
+     "label": "Malasia"
+    },
+    {
+     "a3": "IDN",
+     "color": "#22c55e"
+    }
+   ]
+  },
+  {
+   "say": "Por aquí pasan unos veintitrés millones de barriles de petróleo al día, más que por el estrecho de Ormuz.",
+   "cam": {
+    "lon": 101,
+    "lat": 3,
+    "span": 16
+   },
+   "big": {
+    "value": "23,7 M",
+    "label": "barriles al día"
+   },
+   "bars": {
+    "unit": "M b/d",
+    "items": [
+     {
+      "label": "Malaca",
+      "value": 23.7,
+      "color": "#f97316"
+     },
+     {
+      "label": "Ormuz",
+      "value": 20.9,
+      "color": "#94a3b8"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Casi todo va hacia China, Japón y Corea del Sur, y viene de Medio Oriente.",
+   "cam": {
+    "lon": 95,
+    "lat": 15,
+    "span": 75
+   },
+   "line": {
+    "pts": [
+     [
+      56.5,
+      26
+     ],
+     [
+      60,
+      20
+     ],
+     [
+      75,
+      8
+     ],
+     [
+      95.5,
+      6
+     ],
+     [
+      103.8,
+      1.3
+     ],
+     [
+      110,
+      8
+     ],
+     [
+      118,
+      20
+     ],
+     [
+      122,
+      30
+     ]
+    ],
+    "color": "#f97316",
+    "arrow": true
+   },
+   "hl": [
+    {
+     "a3": "CHN",
+     "color": "#ef4444"
+    },
+    {
+     "a3": "JPN",
+     "color": "#ef4444"
+    },
+    {
+     "a3": "KOR",
+     "color": "#ef4444"
+    }
+   ]
+  },
+  {
+   "say": "Cerca de Singapur, el canal principal se estrecha a menos de tres kilómetros.",
+   "cam": {
+    "lon": 103.8,
+    "lat": 1.25,
+    "span": 1.4
+   },
+   "hl": [
+    {
+     "a3": "SGP",
+     "color": "#ffd23f",
+     "label": "Singapur"
+    }
+   ],
+   "big": {
+    "value": "2,8 km",
+    "label": "Canal Phillips"
+   }
+  },
+  {
+   "say": "Por eso la pequeña Singapur se convirtió en una de las ciudades portuarias más ricas del mundo.",
+   "cam": {
+    "lon": 103.8,
+    "lat": 1.35,
+    "span": 1.4
+   },
+   "hl": [
+    {
+     "a3": "SGP",
+     "color": "#ffd23f"
+    }
+   ]
+  },
+  {
+   "say": "Tres kilómetros entre las fábricas de Asia y su combustible. Sígueme para más.",
+   "title": "3 KM QUE ALIMENTAN A ASIA",
+   "cam": {
+    "lon": 101,
+    "lat": 3,
+    "span": 16
+   },
+   "hl": [
+    {
+     "a3": "MYS",
+     "color": "#f97316"
+    },
+    {
+     "a3": "IDN",
+     "color": "#22c55e"
+    },
+    {
+     "a3": "SGP",
+     "color": "#ffd23f"
+    }
+   ]
+  }
+ ]
+}

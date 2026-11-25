@@ -1,0 +1,248 @@
+{
+ "SH1": {
+  "bg": {
+   "src": "p03/img/B05.png",
+   "crop": [
+    180,
+    370,
+    800
+   ],
+   "filter": "brightness(1.12) contrast(1.06)",
+   "sw": 1344
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "MA NÓ KỂ",
+    "x": 540,
+    "y": 1085,
+    "size": 46,
+    "anchor": "c",
+    "color": "#ffffff",
+    "sw": 5
+   },
+   {
+    "t": "HỒ SƠ MA XÓ",
+    "x": 540,
+    "y": 1180,
+    "size": 150,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "band": "#b3121b",
+    "rot": -2
+   }
+  ]
+ },
+ "SH2": {
+  "bg": {
+   "src": "p03/img/X06.png",
+   "crop": [
+    593,
+    85,
+    600
+   ],
+   "filter": "brightness(1.12) contrast(1.06)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "MA NÓ KỂ",
+    "x": 540,
+    "y": 325,
+    "size": 46,
+    "anchor": "c",
+    "color": "#ffffff",
+    "sw": 5
+   },
+   {
+    "t": "NHÀ CÓ MA XÓ?",
+    "x": 540,
+    "y": 420,
+    "size": 130,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "band": "#b3121b",
+    "rot": -2
+   }
+  ]
+ },
+ "SH3": {
+  "bg": {
+   "src": "p03/img/X06.png",
+   "crop": [
+    800,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.06)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "MA NÓ KỂ",
+    "x": 540,
+    "y": 1055,
+    "size": 46,
+    "anchor": "c",
+    "color": "#ffffff",
+    "sw": 5
+   },
+   {
+    "t": "HỐI LỘ MA XÓ?",
+    "x": 540,
+    "y": 1150,
+    "size": 130,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "band": "#b3121b",
+    "rot": -2
+   }
+  ]
+ },
+ "SH4": {
+  "bg": {
+   "src": "p03/img/X02.png",
+   "crop": [
+    200,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.06)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "MA NÓ KỂ",
+    "x": 540,
+    "y": 1105,
+    "size": 46,
+    "anchor": "c",
+    "color": "#ffffff",
+    "sw": 5
+   },
+   {
+    "t": "VÉ XEM BÀN THỜ",
+    "x": 540,
+    "y": 1200,
+    "size": 128,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "band": "#b3121b",
+    "rot": -2
+   }
+  ]
+ },
+ "SH5": {
+  "bg": {
+   "src": "p03/img/X04.png",
+   "crop": [
+    1100,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.06)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "MA NÓ KỂ",
+    "x": 540,
+    "y": 1105,
+    "size": 46,
+    "anchor": "c",
+    "color": "#ffffff",
+    "sw": 5
+   },
+   {
+    "t": "10 MÉT… ?",
+    "x": 540,
+    "y": 1200,
+    "size": 170,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "band": "#b3121b",
+    "rot": -2
+   }
+  ]
+ },
+ "SH6": {
+  "bg": {
+   "src": "p03/img/X10.png",
+   "crop": [
+    1236,
+    0,
+    648
+   ],
+   "filter": "brightness(1.35) contrast(1.1)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "MA NÓ KỂ",
+    "x": 540,
+    "y": 1055,
+    "size": 46,
+    "anchor": "c",
+    "color": "#ffffff",
+    "sw": 5
+   },
+   {
+    "t": "AI ĐANG ĐẾM?",
+    "x": 540,
+    "y": 1150,
+    "size": 140,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "band": "#b3121b",
+    "rot": -2
+   }
+  ]
+ },
+ "SH7": {
+  "bg": {
+   "src": "p03/img/X12.png",
+   "crop": [
+    700,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.06)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "MA NÓ KỂ",
+    "x": 540,
+    "y": 855,
+    "size": 46,
+    "anchor": "c",
+    "color": "#ffffff",
+    "sw": 5
+   },
+   {
+    "t": "MỞ HŨ!",
+    "x": 540,
+    "y": 950,
+    "size": 190,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "band": "#b3121b",
+    "rot": -2
+   }
+  ]
+ }
+}

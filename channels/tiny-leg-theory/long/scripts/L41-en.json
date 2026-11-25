@@ -1,0 +1,945 @@
+{
+ "id": "L41",
+ "lang": "en",
+ "title": "How to Disagree at Work Without Making It Personal: Eight Key Shifts",
+ "description": "Disagreeing on a project does not have to ruin your work relationships. Learn eight simple psychology shifts to challenge ideas respectfully, defuse tension, and build trust with your team. Here is how to keep tough conversations focused on the work instead of your ego.",
+ "chapters": [
+  {
+   "title": "Why Work Fights Hurt",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You question a single slide in the team sync, and your coworker glares at you like you stole their wallet.",
+     "text": "WHY WORK FIGHTS HURT",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Your stomach drops, and a simple conversation about a deadline suddenly feels like an attack on your character.",
+     "text": "ATTACK ON CHARACTER",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. Your survival brain treats a calendar debate like a threat from a hungry predator.",
+     "text": "ANCIENT DEFENSE",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So every minor critique turns into defensive panic, guarded silence, and tense emails?",
+     "text": "COLD EMAILS",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Clumsy form turns an honest disagreement into a bitter personal war that drains your entire week.",
+     "text": "WASTED SWEAT",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do we challenge weak ideas hard without destroying our working relationships?",
+     "text": "PUSH BACK CLEANLY?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Today we train eight mental shifts to critique ideas with power while keeping your team unified.",
+     "text": "EIGHT SMARTER SHIFTS",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "1. Attack The Problem",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You share your presentation draft, and a teammate immediately questions every single bullet point.",
+     "text": "1. ATTACK THE PROBLEM",
+     "color": "ink",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My chest tightens because it feels like they are saying I am incompetent at my job.",
+     "text": "FEELS PERSONAL",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Check the weights, rookie. That is task conflict, not a personal brawl.",
+     "text": "NAME THE FRICTION",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Wait, so challenging my numbers does not mean they hate working with me?",
+     "text": "NOT AN ENEMY?",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Not at all. Research suggests task conflict helps teams make smarter decisions when separated from personal ego.",
+     "text": "HEALTHY FRICTION",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then why does my pride hear an insult whenever someone critiques my timeline?",
+     "text": "PRIDE ON GUARD",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because your ego glues your identity to your slide deck like cheap tape.",
+     "text": "EGO ATTACHMENT",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I redirect the debate to the slides instead of defending my honor?",
+     "text": "REDIRECT THE ROOM",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Step back from the barbell. Ask, here is our shared target, what risks should we test together?",
+     "text": "TEST RISKS TOGETHER",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That puts both of us on the same side of the table inspecting the plan.",
+     "text": "SIDE BY SIDE",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Solid first rep, but next you have to stop assuming their motives are evil.",
+     "text": "CHECK MOTIVES",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "2. Drop The Labels",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "A coworker sends back a blunt, one word reply to my detailed proposal.",
+     "text": "2. DROP THE LABELS",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My immediate reaction is that they are arrogant, rude, and deliberately trying to derail my project.",
+     "text": "VILLAIN NARRATIVE",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You just slipped into the fundamental attribution trap without your spotter.",
+     "text": "ATTRIBUTION TRAP",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What makes that an attribution trap?",
+     "text": "WHAT IS THE TRAP?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When you are brief, you were slammed with work. When they are brief, they are hostile.",
+     "text": "DOUBLE STANDARD",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So I judge myself by my workload, but I judge them by their character?",
+     "text": "HARSH JUDGMENT",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Attributional debiasing means forcing your brain to check external pressure before labeling someone a villain.",
+     "text": "DEBIAS YOUR BRAIN",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When my blood boils, my brain automatically defaults to fighting an enemy.",
+     "text": "FIGHTING PHANTOMS",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Break the habit with a quick drill. Name two hidden job pressures that could cause that tone.",
+     "text": "NAME TWO PRESSURES",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Maybe their server crashed, or leadership dropped an emergency quarterly review on their desk.",
+     "text": "HIDDEN FIRES",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Once you drop the villain story, you are ready to explore their actual view.",
+     "text": "THEIR ANGLE",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "3. Sit In Their Chair",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I designed a clean interface for our dashboard, but our lead developer rejected it immediately.",
+     "text": "3. SIT IN THEIR CHAIR",
+     "color": "ink",
+     "actor": "front",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "They said it would overload server queries, and we argued for forty minutes without budging.",
+     "text": "TOTAL DEADLOCK",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because both of you were lifting alone instead of spotting each other.",
+     "text": "LIFTING ALONE",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why is it so hard to care about their server limits when my design is getting cut?",
+     "text": "MY METRICS FIRST",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Perspective taking takes real fuel. Your brain naturally prioritizes the exact numbers your own boss tracks.",
+     "text": "TRACKING OWN GOALS",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So their pushback is not sabotage, it is just them protecting system reliability under stress.",
+     "text": "REAL PRESSURES",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests actively walking in their shoes calms defensive hostility and unlocks creative compromise.",
+     "text": "PERSPECTIVE TAKING",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What words should I use during the meeting to show that I get it?",
+     "text": "WHAT TO SAY?",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Play back their goal first. Say, your priority is server speed, and my priority is user clarity.",
+     "text": "ALIGN PRIORITIES",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Once they hear me validate their workload, we can weigh trade offs without anyone feeling defeated.",
+     "text": "FIND THE BALANCE",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Solid rep. Yet perspective fails if you assume your own view is complete, objective reality.",
+     "text": "THE OBJECTIVE TRAP",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "4. You Do Not See All",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "To me, the flaw in our rollout schedule was completely obvious to anyone with eyes.",
+     "text": "4. YOU DO NOT SEE ALL",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When my director disagreed with my warning, I honestly believed they were being willfully blind.",
+     "text": "WILLFULLY BLIND?",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That stubborn arrogance is a classic symptom of naive realism, buddy.",
+     "text": "NAIVE REALISM",
+     "color": "red",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Naive realism sounds harsh. What does it actually mean in the office?",
+     "text": "WHAT DOES IT MEAN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You believe you see facts objectively, so anyone who disagrees must be misinformed or biased.",
+     "text": "THE BIASED LENS",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So I assume I hold pure reality while everyone else carries irrational opinions?",
+     "text": "MY UNBIASED TRUTH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Everyone makes that mistake. You only see the narrow slice of data right in front of you.",
+     "text": "NARROW FIELD",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I forgot that our director monitors client contracts while I only monitor system performance.",
+     "text": "DIFFERENT SIGNALS",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Two spotters watching the same squat see different form flaws from different angles.",
+     "text": "DIFFERENT ANGLES",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I shake myself out of that illusion before I start arguing?",
+     "text": "SHAKE ILLUSIONS",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ask for their data diet. Say, what signals are you watching that I might be missing?",
+     "text": "WHAT SIGNALS?",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That replaces an ego clash with a shared puzzle where we piece together the truth.",
+     "text": "PUZZLE PIECES",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now bring both sides under the exact same flag before territory wars break out.",
+     "text": "UNDER ONE FLAG",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "5. We Are One Team",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Marketing and engineering sit on opposite sides of the conference table with arms crossed.",
+     "text": "5. WE ARE ONE TEAM",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Instead of solving bugs, we spend the entire hour defending our own departmental boundaries.",
+     "text": "DEFENDING TURF",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tribal instinct at work. You split one training gym into two rival squads.",
+     "text": "DIVIDED GYM",
+     "color": "red",
+     "actor": "think",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does the workplace turn into us versus them so quickly under stress?",
+     "text": "US VERSUS THEM",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Evolutionary wiring. When resources feel scarce, the brain retreats to its smallest familiar tribe.",
+     "text": "TRIBAL WIRING",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And then any suggestion from the other department feels like a threat to our resources?",
+     "text": "THEY FEEL THREATENING",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Psychologists call it common ingroup identity. Zoom out until both squads wear the same jersey.",
+     "text": "ONE COMMON JERSEY",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When we wear different jerseys, every healthy question sounds like hostile sabotage.",
+     "text": "SUSPICIOUS MINDS",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "To snap out of it, set one shared target that neither team can reach alone.",
+     "text": "ONE SCOREBOARD",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do we frame that shared goal without sounding like cheap corporate slogans?",
+     "text": "KEEP IT REAL",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Anchor on customer results. Remind the room that both teams lose if the client walks away.",
+     "text": "CUSTOMER FIRST",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When we share one scoreboard, pointing fingers suddenly feels like wasted sweat.",
+     "text": "UNIFIED FOCUS",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Even unified teammates bump elbows, so you must learn how to repair collisions fast.",
+     "text": "REPAIR FAST",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "6. Fix The Cracks Fast",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I once made a sharp, sarcastic comment during a budget review, and the room went dead silent.",
+     "text": "6. FIX THE CRACKS FAST",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I felt terrible, but I just looked down at my notepad and pretended nothing happened.",
+     "text": "PRETEND IT IS FINE",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That hesitation lets small micro cracks spread into broken team foundations.",
+     "text": "CRACKS SPREAD",
+     "color": "red",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why is apologizing in the heat of a meeting so agonizingly uncomfortable?",
+     "text": "EGO DISCOMFORT",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your fragile ego treats admitting a verbal foul like dropping the bar right on your throat.",
+     "text": "EGO FREEZE",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So we sweep the tension under the rug and pray that people forget about it tomorrow?",
+     "text": "UNDER THE RUG",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It never dissolves. Unchecked friction quietly turns into stubborn grudges.",
+     "text": "STUBBORN GRUDGES",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And during the very next project meeting, that buried bitterness resurfaces as cold resistance.",
+     "text": "BITTER RESURFACING",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use conversational repair. A quick tap on the brakes resets the room before defensiveness spreads.",
+     "text": "TAP THE BRAKES",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I step in immediately without making the atmosphere even more awkward?",
+     "text": "WHAT TO SAY?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Call your own foul immediately. Say that came out sharper than I intended, let me rephrase that.",
+     "text": "LET ME REPHRASE",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A ten second apology stops silent grudges from poisoning the next three months of work.",
+     "text": "CLEAR THE AIR",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "With the air clear, test your ideas against real pressure.",
+     "text": "TEST UNDER LOAD",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "7. Hunt Blind Spots",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Whenever I present a strategic plan, I deliberately highlight only the data that proves I am right.",
+     "text": "7. HUNT BLIND SPOTS",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When someone points out a glaring operational flaw, I dismiss it as annoying noise.",
+     "text": "DISMISSING FLAWS",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are only lifting what feels light. That builds zero functional strength in business.",
+     "text": "LIFT HEAVY TRUTHS",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why do we defend our initial proposals so fiercely even when warning lights flash?",
+     "text": "WARNING LIGHTS",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Confirmation bias. Your brain hates discarding effort, so it protects your starting hunch at all costs.",
+     "text": "CONFIRMATION BIAS",
+     "color": "red",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So admitting my plan has a blind spot feels like total personal defeat?",
+     "text": "FEAR OF DEFEAT",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Flip the script. Top performers actively hunt for disconfirming evidence to bulletproof their strategy.",
+     "text": "HUNT FOR FLAWS",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When I ignore contradictory facts, I am just gambling with the team project.",
+     "text": "BLIND GAMBLING",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "True strength welcomes the stress test. You want the weak welds exposed before shipping.",
+     "text": "TEST THE WELDS",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I invite that critique without looking incompetent?",
+     "text": "INVITE CRITIQUE",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Run a premortem. Ask the room what broke first if this launch fails in six months.",
+     "text": "RUN A PREMORTEM",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That turns criticism into an essential safety inspection that saves us from catastrophic failure.",
+     "text": "SAFETY CHECK",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Just remember, logic alone fails if you misread their emotional strain.",
+     "text": "CHECK THE ROOM",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "8. Read The Silence",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sometimes I think we are having an energized debate, but my coworker suddenly goes completely quiet.",
+     "text": "8. READ THE SILENCE",
+     "color": "ink",
+     "actor": "34",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I assume silence means agreement, only to discover later that they were furious and exhausted.",
+     "text": "SILENCE IS NOT YES",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You crashed into an egocentric empathy gap, rookie. You misread the room completely.",
+     "text": "EMPATHY GAP",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "An empathy gap? But I felt completely energized and relaxed during the discussion.",
+     "text": "I FELT CALM",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is the trap. When your energy is high, you assume everyone else is breathing easy too.",
+     "text": "BLIND TO STRESS",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I thought we were having fun, but they were actually feeling trapped and overwhelmed.",
+     "text": "FEELING TRAPPED",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Power dynamics or project stakes make disagreements feel far heavier for some teammates.",
+     "text": "HEAVY STAKES",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So while I am enjoying intellectual sparring, they are quietly burning out in survival mode.",
+     "text": "QUIET BURNOUT",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are overloading their bar without checking their grip. That burns out valuable teammates fast.",
+     "text": "CHECK THEIR GRIP",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I spot that gap before the relationship breaks down?",
+     "text": "SPOT THE STRAIN",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pace your sets. Pause the debate and ask how they are feeling about where we are landing.",
+     "text": "PAUSE AND CHECK",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giving them permission to tap the brakes prevents quiet compliance from turning into bitter resentment.",
+     "text": "SAFE BRAKES",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now let us bundle these eight drills into a simple daily standard.",
+     "text": "THE DAILY STANDARD",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "How To Disagree Well",
+   "sources": [
+    "s01",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Disagreeing at work used to feel like stepping into a boxing ring without headgear.",
+     "text": "HOW TO DISAGREE WELL",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mastering it comes down to three disciplined training movements, buddy.",
+     "text": "THREE CORE MOVES",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "First, separate the person from the problem by focusing on tasks, checking motives, and sharing one identity.",
+     "text": "SEPARATE THE PERSON",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Second, test your blind spots by taking their perspective, dropping naive realism, and hunting contradictory evidence.",
+     "text": "TEST BLIND SPOTS",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Third, protect team trust by repairing conversational slips immediately and watching for quiet emotional exhaustion.",
+     "text": "PROTECT TEAM TRUST",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What is my training challenge for this week?",
+     "text": "THE WEEKLY DRILL",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For seven days, pause before pushing back and ask what part of this worries them most.",
+     "text": "SEVEN DAY CHALLENGE",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Subscribe to Tiny Leg Theory for more honest mental toolkits every week.",
+     "text": "SUBSCRIBE FOR MORE",
+     "color": "ink",
+     "actor": "celebrate",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Put in the reps, stay curious, and protect your team.",
+     "text": "PUT IN THE REPS",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

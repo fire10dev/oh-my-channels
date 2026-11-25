@@ -1,0 +1,354 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 29.003,
+"shots": [
+{
+"img": "p04/img/G07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 2.471,
+"a": [
+900,
+576,
+648
+],
+"b": [
+1100,
+520,
+460
+],
+"flash": 1
+},
+{
+"img": "p04/img/G05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 2.471,
+"t1": 5.248,
+"a": [
+1100,
+576,
+648
+],
+"b": [
+1152,
+560,
+460
+]
+},
+{
+"img": "p04/img/G05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 5.248,
+"t1": 7.961,
+"a": [
+840,
+720,
+460
+],
+"b": [
+840,
+720,
+340
+]
+},
+{
+"img": "p04/img/G07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 7.961,
+"t1": 14.048,
+"a": [
+620,
+576,
+648
+],
+"b": [
+620,
+520,
+460
+]
+},
+{
+"img": "p04/img/G07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.048,
+"t1": 16.631,
+"a": [
+1280,
+440,
+460
+],
+"b": [
+1280,
+420,
+340
+]
+},
+{
+"img": "p04/img/G05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.631,
+"t1": 19.048,
+"a": [
+840,
+720,
+340
+],
+"b": [
+840,
+700,
+340
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 19.048,
+"t1": 23.717,
+"a": [
+560,
+700,
+760
+],
+"b": [
+540,
+660,
+560
+]
+},
+{
+"img": "p04/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.717,
+"t1": 28.603,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 23.717,
+"t1": 28.603,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 2.471,
+"text": "¿NIÑO BUENO GRACIAS A…?",
+"color": "#ffd84a"
+},
+{
+"t0": 2.471,
+"t1": 4.567,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 4.829,
+"t1": 7.961,
+"text": "FALSO A SIMPLE VISTA",
+"color": "#ffffff"
+},
+{
+"t0": 10.004,
+"t1": 14.048,
+"text": "TAREA DE TODA LA SEMANA",
+"color": "#7dff9a"
+},
+{
+"t0": 16.955,
+"t1": 19.048,
+"text": "SECRETO = BARRO",
+"color": "#ff5a4a"
+},
+{
+"t0": 21.133,
+"t1": 23.717,
+"text": "HACEMOS NIÑOS BUENOS",
+"color": "#ffd84a"
+},
+{
+"t0": 23.717,
+"t1": 25.929,
+"text": "¿DÓNDE ESTÁ EL BIN DE VERDAD?",
+"color": "#ffd84a"
+},
+{
+"t0": 25.929,
+"t1": 28.603,
+"text": "▼ EPISODIO COMPLETO: ENLACE ABAJO",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 1.111,
+"src": "sh6/sfx/pops.wav",
+"vol": 0.4
+},
+{
+"t": 2.995,
+"src": "p04/sfx/nan.wav",
+"vol": 0.6
+},
+{
+"t": 14.703,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 15.576,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 16.955,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 23.135,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 23.717,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 27.329,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 2.221,
+"text": "¡Nuestro hijo es muy responsable, gente!"
+},
+{
+"t": 2.471,
+"dur": 5.24,
+"text": "Hice un Bin con tierra de una maceta. Falso a simple vista. Su familia seguro se daría cuenta."
+},
+{
+"t": 7.961,
+"dur": 5.837,
+"text": "Esa tarde, el niño de barro terminó la tarea de toda la semana. Sin discutir, sin pedir el teléfono."
+},
+{
+"t": 14.048,
+"dur": 2.183,
+"text": "El secreto está en el enlace de abajo."
+},
+{
+"t": 16.631,
+"dur": 1.617,
+"text": "El secreto es el barro."
+},
+{
+"t": 19.048,
+"dur": 4.17,
+"text": "Al niño de barro le dieron diploma de honor. Estoy pensando en abrir una escuela."
+},
+{
+"t": 23.717,
+"dur": 3.685,
+"text": "¿Y dónde está el Bin de verdad? Episodio completo: enlace abajo."
+}
+],
+"comments": [
+{
+"t": 14.703,
+"u": "@mom.su",
+"c": "¿Cuál es el secreto? 😍",
+"end": 16.631
+},
+{
+"t": 15.576,
+"u": "@hannah.n",
+"c": "¡¡¡Pasa el enlace!!!",
+"end": 16.631
+}
+],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/es/vo/e5a5af485c.wav"
+},
+{
+"t": 2.471,
+"src": "loc/es/vo/ab5d4d0a7a.wav"
+},
+{
+"t": 7.961,
+"src": "loc/es/vo/3fbc54a465.wav"
+},
+{
+"t": 14.048,
+"src": "loc/es/vo/192a9aa629.wav"
+},
+{
+"t": 16.631,
+"src": "loc/es/vo/91349010d3.wav"
+},
+{
+"t": 19.048,
+"src": "loc/es/vo/521e812a20.wav"
+},
+{
+"t": 23.717,
+"src": "loc/es/vo/b1a3ab069e.wav"
+}
+],
+"mutes": [],
+"live": [
+[
+0.0,
+2.471
+],
+[
+14.048,
+16.631
+]
+],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

@@ -1,0 +1,382 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 42.371,
+"shots": [
+{
+"img": "p02/img/N16.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 5.056,
+"a": [
+947,
+420,
+460
+],
+"b": [
+947,
+330,
+340
+],
+"flash": 1
+},
+{
+"img": "p02/img/N19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 5.056,
+"t1": 6.971,
+"a": [
+1766,
+743,
+460
+],
+"b": [
+1766,
+819,
+340
+]
+},
+{
+"img": "p02/img/N16.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 6.971,
+"t1": 10.905,
+"a": [
+1200,
+576,
+648
+],
+"b": [
+1280,
+700,
+460
+]
+},
+{
+"img": "p02/img/N16.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.905,
+"t1": 14.828,
+"a": [
+947,
+420,
+460
+],
+"b": [
+947,
+360,
+340
+]
+},
+{
+"img": "p02/img/N17.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.828,
+"t1": 16.997,
+"a": [
+600,
+576,
+648
+],
+"b": [
+512,
+420,
+460
+]
+},
+{
+"img": "p02/img/N17.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.997,
+"t1": 19.09,
+"a": [
+1400,
+440,
+460
+],
+"b": [
+1400,
+420,
+340
+]
+},
+{
+"img": "p02/img/N15.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 19.09,
+"t1": 22.894,
+"a": [
+1024,
+743,
+460
+],
+"b": [
+1024,
+849,
+340
+],
+"shake": 6
+},
+{
+"img": "p02/img/N15.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 22.894,
+"t1": 26.623,
+"a": [
+1024,
+849,
+340
+],
+"b": [
+1024,
+820,
+340
+],
+"shake": 10,
+"flash": 1
+},
+{
+"img": "p02/img/N23.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 26.623,
+"t1": 28.449,
+"a": [
+1741,
+450,
+460
+],
+"b": [
+1741,
+430,
+340
+]
+},
+{
+"img": "p02/img/B04r.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 28.449,
+"t1": 37.009,
+"a": [
+716,
+800,
+900
+],
+"b": [
+716,
+600,
+520
+]
+},
+{
+"img": "p02/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 37.009,
+"t1": 41.871,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p02/img/cut_B02.png",
+"size": 1344,
+"t0": 37.009,
+"t1": 41.871,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.15,
+"t1": 5.056,
+"text": "3:00 AM · CADA NOCHE",
+"color": "#ffd84a"
+},
+{
+"t0": 18.037,
+"t1": 19.09,
+"text": "?",
+"color": "#ffffff"
+},
+{
+"t0": 21.274,
+"t1": 24.188,
+"text": "NGUYEN VAN PHAT — PRESENTE",
+"color": "#ff5a4a"
+},
+{
+"t0": 24.188,
+"t1": 26.623,
+"text": "NGUYEN VAN PHAT ×49",
+"color": "#ff5a4a"
+},
+{
+"t0": 37.009,
+"t1": 41.871,
+"text": "¿CORRIGIÓ LOS PAPELES?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.35
+},
+{
+"t": 5.965,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 17.837,
+"src": "p02/sfx/de.wav",
+"vol": 0.7
+},
+{
+"t": 21.274,
+"src": "p02/sfx/indon.wav",
+"vol": 0.9
+},
+{
+"t": 24.188,
+"src": "p02/sfx/indon.wav",
+"vol": 0.9
+},
+{
+"t": 36.054,
+"src": "p02/sfx/mo.wav",
+"vol": 0.9
+},
+{
+"t": 37.009,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 40.794,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 4.606,
+"text": "El jefe se arrodilla para llorar a su propio trabajador. Cada noche, a las tres."
+},
+{
+"t": 5.056,
+"dur": 1.515,
+"text": "Me llevaré tu horario."
+},
+{
+"t": 6.971,
+"dur": 7.607,
+"text": "La familia tiene que guardar luto. Cada noche, a las tres, ponte el pañuelo de luto y arrodíllate ante la foto de Loc. Como su hijo."
+},
+{
+"t": 14.828,
+"dur": 4.011,
+"text": "Reuniones con clientes de día. El pañuelo de luto no se puede quitar."
+},
+{
+"t": 19.09,
+"dur": 7.283,
+"text": "Cada vez que se queda dormido, el reloj imprime su nombre solo. Al amanecer, las puertas de la fábrica están cubiertas con él."
+},
+{
+"t": 26.623,
+"dur": 1.426,
+"text": "¿Cuándo se acaba esto?"
+},
+{
+"t": 28.449,
+"dur": 7.76,
+"text": "Cuando los papeles estén en orden. Si siguen mal después de cuarenta y nueve días, te registro otra vez. Esa vez, sin credencial."
+},
+{
+"t": 37.009,
+"dur": 3.862,
+"text": "¿Corrigió los papeles el jefe? Historia completa en el canal. Sígueme."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/es/vo/a793bd85ab.wav"
+},
+{
+"t": 5.056,
+"src": "loc/es/vo/9fa8d6f408.wav"
+},
+{
+"t": 6.971,
+"src": "loc/es/vo/2a593ace40.wav"
+},
+{
+"t": 14.828,
+"src": "loc/es/vo/c21421ab27.wav"
+},
+{
+"t": 19.09,
+"src": "loc/es/vo/e9b96bd8cb.wav"
+},
+{
+"t": 26.623,
+"src": "loc/es/vo/49ee217a60.wav"
+},
+{
+"t": 28.449,
+"src": "loc/es/vo/6986f1f878.wav"
+},
+{
+"t": 37.009,
+"src": "loc/es/vo/3bb0117e5f.wav"
+}
+],
+"mutes": [
+[
+28.249,
+37.009
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

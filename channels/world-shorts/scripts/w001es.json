@@ -1,0 +1,317 @@
+{
+ "id": "w001es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#ff4d4d",
+ "source": "Coordenadas: Natural Earth · Clima: Seager et al. 2002 (QJRMS)",
+ "music": "shared/library/music/yt-audio-library/Future Glider - Brian Bolger.mp3",
+ "beats": [
+  {
+   "say": "Europa está mucho más al norte de lo que crees.",
+   "title": "EUROPA ESTÁ MUCHO MÁS AL NORTE DE LO QUE CREES",
+   "cam": {
+    "lon": -55,
+    "lat": 50,
+    "span": 130
+   },
+   "hl": [
+    {
+     "a3": "GBR",
+     "color": "#ff4d4d"
+    },
+    {
+     "a3": "CAN",
+     "color": "#3b82f6"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      20,
+      51.5
+     ],
+     [
+      -140,
+      51.5
+     ]
+    ],
+    "color": "#ffd23f"
+   }
+  },
+  {
+   "say": "Mira Londres. Ahora sigue su línea hacia el oeste, cruzando el Atlántico.",
+   "cam": {
+    "lon": -2,
+    "lat": 51.5,
+    "span": 26
+   },
+   "hl": [
+    {
+     "a3": "GBR",
+     "color": "#ff4d4d"
+    }
+   ],
+   "pins": [
+    {
+     "lon": -0.13,
+     "lat": 51.51,
+     "text": "Londres 51,5°N"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      8,
+      51.5
+     ],
+     [
+      -20,
+      51.5
+     ],
+     [
+      -60,
+      51.5
+     ],
+     [
+      -120,
+      51.5
+     ]
+    ],
+    "color": "#ffd23f"
+   }
+  },
+  {
+   "say": "Calgary queda más al sur. Londres está más al norte que Calgary, Vancouver, Toronto y Montreal.",
+   "cam": {
+    "lon": -100,
+    "lat": 48,
+    "span": 60
+   },
+   "hl": [
+    {
+     "a3": "CAN",
+     "color": "#3b82f6"
+    }
+   ],
+   "pins": [
+    {
+     "lon": -114.07,
+     "lat": 51.05,
+     "text": "Calgary 51,0°N"
+    },
+    {
+     "lon": -79.38,
+     "lat": 43.65,
+     "text": "Toronto 43,7°N"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      -60,
+      51.5
+     ],
+     [
+      -140,
+      51.5
+     ]
+    ],
+    "color": "#ffd23f"
+   }
+  },
+  {
+   "say": "París está más al norte que Seattle. Y Roma, más arriba que Nueva York.",
+   "cam": {
+    "lon": -55,
+    "lat": 45,
+    "span": 185
+   },
+   "pins": [
+    {
+     "lon": 2.35,
+     "lat": 48.86,
+     "text": "París 48,9°N"
+    },
+    {
+     "lon": -122.33,
+     "lat": 47.61,
+     "text": "Seattle 47,6°N",
+     "color": "#3b82f6"
+    },
+    {
+     "lon": 12.5,
+     "lat": 41.9,
+     "text": "Roma 41,9°N"
+    },
+    {
+     "lon": -74.0,
+     "lat": 40.71,
+     "text": "Nueva York 40,7°N",
+     "color": "#3b82f6"
+    }
+   ]
+  },
+  {
+   "say": "¿Entonces por qué Europa es tan templada? Casi todos dicen que por la corriente del Golfo. Ayuda, pero no es la razón principal.",
+   "cam": {
+    "lon": -35,
+    "lat": 42,
+    "span": 85
+   },
+   "line": {
+    "pts": [
+     [
+      -80,
+      25.5
+     ],
+     [
+      -79.5,
+      30
+     ],
+     [
+      -75,
+      35
+     ],
+     [
+      -68,
+      38.5
+     ],
+     [
+      -55,
+      41
+     ],
+     [
+      -40,
+      45
+     ],
+     [
+      -25,
+      50
+     ],
+     [
+      -12,
+      55
+     ],
+     [
+      2,
+      61
+     ],
+     [
+      10,
+      66
+     ]
+    ],
+    "color": "#ff8a3d",
+    "label": "Corriente del Golfo",
+    "arrow": true
+   }
+  },
+  {
+   "say": "La razón más grande: los vientos del oeste soplan sobre un océano que sigue cálido todo el invierno y llevan ese calor a Europa.",
+   "title": "VIENTOS DEL OESTE + OCÉANO CÁLIDO",
+   "cam": {
+    "lon": -20,
+    "lat": 50,
+    "span": 55
+   },
+   "line": {
+    "pts": [
+     [
+      -45,
+      48
+     ],
+     [
+      -30,
+      49
+     ],
+     [
+      -15,
+      50
+     ],
+     [
+      0,
+      51
+     ],
+     [
+      12,
+      52
+     ]
+    ],
+    "color": "#7dd3fc",
+    "label": "Vientos del oeste",
+    "arrow": true
+   }
+  },
+  {
+   "say": "Canadá recibe lo contrario: aire helado directo del continente congelado.",
+   "cam": {
+    "lon": -90,
+    "lat": 55,
+    "span": 70
+   },
+   "hl": [
+    {
+     "a3": "CAN",
+     "color": "#3b82f6"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      -100,
+      72
+     ],
+     [
+      -95,
+      62
+     ],
+     [
+      -88,
+      52
+     ],
+     [
+      -80,
+      45
+     ]
+    ],
+    "color": "#a5f3fc",
+    "label": "Aire ártico",
+    "arrow": true
+   }
+  },
+  {
+   "say": "Misma latitud. Mundos completamente distintos. Sígueme para más mapas que te vuelan la cabeza.",
+   "title": "MISMA LATITUD. MUNDOS DISTINTOS.",
+   "cam": {
+    "lon": -55,
+    "lat": 46,
+    "span": 140
+   },
+   "hl": [
+    {
+     "a3": "GBR",
+     "color": "#ff4d4d"
+    },
+    {
+     "a3": "CAN",
+     "color": "#3b82f6"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      20,
+      51.5
+     ],
+     [
+      -140,
+      51.5
+     ]
+    ],
+    "color": "#ffd23f"
+   }
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "title": "A equipe da Biosfera 2 passou fome por dois anos",
+ "hook": "FOME POR ANOS",
+ "asof": "Dados de registros de 1991 a 1994",
+ "world": "bio",
+ "long": "IX006",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "DIA 60",
+   "chip": "NOV. 1991",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "kitchen",
+     "you": "kitchen",
+     "s": "Imagine comer por dois anos só o que você planta."
+    },
+    {
+     "v": "wide",
+     "s": "Em 1991, oito pessoas foram isoladas dentro da Biosfera 2."
+    },
+    {
+     "v": "farm",
+     "st": [
+      "0,2 hectare",
+      "para alimentar 8 pessoas"
+     ],
+     "s": "A fazenda deles tinha cerca de 0,2 hectare."
+    },
+    {
+     "v": "goats",
+     "s": "Cabras para dar leite,"
+    },
+    {
+     "v": "goats",
+     "you": "goats",
+     "s": "galinhas e porcos,"
+    },
+    {
+     "v": "fish",
+     "s": "e tilápias em tanques."
+    },
+    {
+     "v": "crops",
+     "s": "Mas, principalmente, plantas."
+    },
+    {
+     "v": "kitchen",
+     "s": "Batata-doce. Muita batata-doce."
+    },
+    {
+     "v": "kitchen",
+     "st": [
+      "LARANJA",
+      "pele por causa da batata-doce"
+     ],
+     "s": "A pele de uma pessoa da equipe ficou laranja."
+    },
+    {
+     "v": "coffee",
+     "you": "coffee",
+     "s": "Café? Mais ou menos uma xícara a cada poucas semanas."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "1.780",
+      "small": "calorias por dia, primeiros 6 meses · PNAS, 1992"
+     },
+     "s": "Nos primeiros seis meses, cada um consumiu em média 1.780 calorias por dia."
+    },
+    {
+     "v": "crops",
+     "you": "crops",
+     "s": "Enquanto fazia um trabalho pesado na fazenda."
+    },
+    {
+     "v": "kitchen",
+     "s": "Os pratos eram lambidos até ficarem limpos."
+    },
+    {
+     "d": {
+      "type": "compare",
+      "left": [
+       "ANTES",
+       "74 kg",
+       "média dos homens"
+      ],
+      "right": [
+       "APÓS 6 MESES",
+       "62 kg",
+       "média dos homens"
+      ],
+      "note": "PNAS, 1992"
+     },
+     "s": "Os homens foram de cerca de 74 para 62 quilos."
+    },
+    {
+     "v": "lab",
+     "you": "lab",
+     "st": [
+      "−36%",
+      "colesterol · PNAS, 1992"
+     ],
+     "s": "O colesterol deles caiu cerca de um terço."
+    },
+    {
+     "v": "berth",
+     "you": "berth",
+     "s": "Você conseguiria viver assim por dois anos?"
+    }
+   ]
+  }
+ ]
+}

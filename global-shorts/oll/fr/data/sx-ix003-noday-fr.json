@@ -1,0 +1,106 @@
+{
+ "title": "Les équipages de croisière n’ont pas de jour de repos",
+ "hook": "ZÉRO REPOS",
+ "asof": "Chiffres de 2026",
+ "world": "cruise",
+ "long": "IX003",
+ "chapters": [
+  {
+   "id": "work",
+   "hud": "40e JOUR",
+   "chip": "05:30",
+   "tod": "dawn",
+   "shots": [
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "Sur un bateau de croisière, l’équipage bosse tous les jours."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "TOUS LES JOURS",
+      "small": "pendant des mois · sans vrai jour de repos"
+     },
+     "s": "Pendant des mois."
+    },
+    {
+     "v": "office",
+     "s": "La plupart des contrats n’offrent aucun vrai jour de repos."
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "Des journées de douze heures, c’est courant."
+    },
+    {
+     "v": "buffet",
+     "you": "buffet",
+     "s": "Certains postes sont en horaires coupés."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "AU BOULOT : MATIN",
+       "PAUSE",
+       "AU BOULOT : SOIR"
+      ],
+      "note": "horaires coupés"
+     },
+     "s": "Quelques heures le matin, une pause, puis tu reprends le soir."
+    },
+    {
+     "v": "galley",
+     "s": "En cuisine, tu peux commencer avant le petit-déjeuner,"
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "et finir après le nettoyage de nuit."
+    },
+    {
+     "v": "office",
+     "s": "Alors, il y a une limite ?"
+    },
+    {
+     "v": "office",
+     "you": "office",
+     "s": "Oui. La convention du travail maritime en fixe une."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "10 h",
+      "small": "de repos minimum par période de 24 h · MLC 2006"
+     },
+     "s": "Au moins dix heures de repos par période de vingt-quatre heures."
+    },
+    {
+     "v": "office",
+     "st": [
+      "77 h",
+      "de repos minimum par période de 7 jours"
+     ],
+     "s": "Au moins soixante-dix-sept heures de repos par période de sept jours."
+    },
+    {
+     "v": "lifeboat",
+     "plane": "alarm",
+     "s": "Et les exercices de sécurité ?"
+    },
+    {
+     "v": "lifeboat",
+     "you": "lifeboat",
+     "plane": "alarm",
+     "s": "Ils tombent souvent pendant ton temps de repos."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Tu tiendrais six mois à bosser tous les jours ?"
+    }
+   ]
+  }
+ ]
+}

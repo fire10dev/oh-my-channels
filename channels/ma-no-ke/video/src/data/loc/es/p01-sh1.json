@@ -1,0 +1,395 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 41.569,
+"shots": [
+{
+"img": "p01/img/S04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 5.168,
+"a": [
+1450,
+600,
+460
+],
+"b": [
+1450,
+576,
+648
+],
+"flash": 1
+},
+{
+"img": "p01/img/S03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 5.168,
+"t1": 9.358,
+"a": [
+900,
+576,
+648
+],
+"b": [
+900,
+520,
+460
+]
+},
+{
+"img": "p01/img/S03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 9.358,
+"t1": 13.513,
+"a": [
+1400,
+820,
+460
+],
+"b": [
+1420,
+840,
+340
+]
+},
+{
+"img": "p01/img/S02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.513,
+"t1": 16.98,
+"a": [
+1000,
+600,
+460
+],
+"b": [
+980,
+700,
+460
+]
+},
+{
+"img": "p01/img/S04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.98,
+"t1": 22.671,
+"a": [
+1450,
+576,
+648
+],
+"b": [
+1450,
+600,
+460
+]
+},
+{
+"img": "p01/img/S04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 22.671,
+"t1": 24.888,
+"a": [
+1340,
+520,
+460
+],
+"b": [
+1340,
+480,
+340
+]
+},
+{
+"img": "p01/img/S07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 24.888,
+"t1": 28.809,
+"a": [
+1200,
+576,
+648
+],
+"b": [
+1200,
+640,
+460
+]
+},
+{
+"img": "p01/img/S05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 28.809,
+"t1": 33.972,
+"a": [
+900,
+576,
+648
+],
+"b": [
+960,
+600,
+460
+]
+},
+{
+"img": "p01/img/S05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 33.972,
+"t1": 35.8,
+"a": [
+960,
+600,
+460
+],
+"b": [
+960,
+540,
+340
+]
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 35.8,
+"t1": 41.069,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p01/img/cut_B02.png",
+"size": 1344,
+"t0": 35.8,
+"t1": 41.069,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.15,
+"t1": 5.168,
+"text": "3.000.000 ESPECTADORES",
+"color": "#ffd84a"
+},
+{
+"t0": 7.334,
+"t1": 9.358,
+"text": "CENA CON MAMÁ",
+"color": "#ffffff"
+},
+{
+"t0": 35.8,
+"t1": 41.069,
+"text": "¿CUÁL ES SU SECRETO?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.4
+},
+{
+"t": 14.478,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 15.443,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 16.409,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 16.98,
+"src": "sh6/sfx/snap.wav",
+"vol": 0.4
+},
+{
+"t": 35.8,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 39.984,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 4.618,
+"text": "Tres millones vieron comer a una anciana. Nadie vio a su hijo tirar la comida."
+},
+{
+"t": 5.168,
+"dur": 3.939,
+"text": "Hace tres meses, mi hijo abrió un canal. Lo llamó La cena con mamá."
+},
+{
+"t": 9.358,
+"dur": 3.905,
+"text": "En cada comida: pescado estofado, sopa de cangrejo y huevos fritos."
+},
+{
+"t": 13.513,
+"dur": 3.218,
+"text": "Tres millones de espectadores. Lloraban. Mandaban dinero."
+},
+{
+"t": 16.98,
+"dur": 5.441,
+"text": "Apenas apagaba la cámara, recogía todo. A una bolsa de plástico y de vuelta al restaurante."
+},
+{
+"t": 22.671,
+"dur": 1.967,
+"text": "Yo comía arroz blanco aguado."
+},
+{
+"t": 24.888,
+"dur": 3.671,
+"text": "No es malo. Le debe a una app. El teléfono le vibra todo el día."
+},
+{
+"t": 28.809,
+"dur": 5.014,
+"text": "No estoy enojada. Yo también tengo un secreto. Todas las noches me escapo a comer algo."
+},
+{
+"t": 33.972,
+"dur": 1.227,
+"text": "Solo con la cabeza."
+},
+{
+"t": 35.8,
+"dur": 4.269,
+"text": "¿Cuál es su secreto? Te cuento la próxima vez. Historia completa en el canal."
+}
+],
+"comments": [
+{
+"t": 14.478,
+"u": "@vale.anh",
+"c": "estoy llorando de verdad 😭",
+"end": 16.98
+},
+{
+"t": 15.443,
+"u": "@juan.t",
+"c": "le mando 500 mil a la abuelita",
+"end": 16.98
+},
+{
+"t": 16.409,
+"u": "@cam.bee",
+"c": "ojalá mi mamá siguiera aquí",
+"end": 16.98
+}
+],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/es/vo/c80b6a8662.wav"
+},
+{
+"t": 5.168,
+"src": "loc/es/vo/9227db880b.wav"
+},
+{
+"t": 9.358,
+"src": "loc/es/vo/187cea8b3b.wav"
+},
+{
+"t": 13.513,
+"src": "loc/es/vo/c0daef2cda.wav"
+},
+{
+"t": 16.98,
+"src": "loc/es/vo/3391a1dc44.wav"
+},
+{
+"t": 22.671,
+"src": "loc/es/vo/435353b6ae.wav"
+},
+{
+"t": 24.888,
+"src": "loc/es/vo/fc18668dc0.wav"
+},
+{
+"t": 28.809,
+"src": "loc/es/vo/7050ce6b51.wav"
+},
+{
+"t": 33.972,
+"src": "loc/es/vo/63fda6a791.wav"
+},
+{
+"t": 35.8,
+"src": "loc/es/vo/540c4ea3b1.wav"
+}
+],
+"mutes": [
+[
+33.761,
+35.8
+]
+],
+"live": [
+[
+5.168,
+9.358
+],
+[
+9.358,
+13.513
+],
+[
+13.513,
+16.98
+]
+],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

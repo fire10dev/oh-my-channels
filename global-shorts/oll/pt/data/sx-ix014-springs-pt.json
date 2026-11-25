@@ -1,0 +1,82 @@
+{
+ "title": "Os prédios dentro da Montanha Cheyenne ficam sobre molas gigantes",
+ "hook": "PRÉDIOS SOBRE MOLAS",
+ "asof": "Dados de artigos da Força Aérea e da Força Espacial dos EUA",
+ "world": "mountain",
+ "long": "IX014",
+ "chapters": [
+  {
+   "id": "springs",
+   "hud": "DIA 1",
+   "chip": "09:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Estes prédios ficam sobre molas gigantes de aço.",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "Eles ficam dentro da Montanha Cheyenne, no Colorado.",
+     "v": "mountain"
+    },
+    {
+     "s": "Um bunker de comando feito para sobreviver a uma guerra nuclear.",
+     "v": "cave"
+    },
+    {
+     "s": "Há quinze prédios numa caverna escavada no granito.",
+     "v": "cave",
+     "st": [
+      "15",
+      "prédios"
+     ]
+    },
+    {
+     "s": "Eles não encostam na rocha. Há um vão de uns 46 centímetros.",
+     "v": "gap",
+     "st": [
+      "46 CM",
+      "da rocha"
+     ]
+    },
+    {
+     "s": "Em vez disso, ficam sobre mais de mil e trezentas molas.",
+     "v": "springs",
+     "st": [
+      "1.300+",
+      "molas"
+     ]
+    },
+    {
+     "s": "Cada uma pesa mais de 450 quilos.",
+     "v": "spring"
+    },
+    {
+     "s": "Se uma explosão ou um terremoto sacudir a montanha,",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "os prédios balançam em vez de desabar.",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "A porta da frente pesa 23 toneladas.",
+     "v": "door",
+     "plane": "door:shut",
+     "st": [
+      "23 TONELADAS",
+      "porta antiexplosão"
+     ]
+    },
+    {
+     "s": "Você se sentiria seguro lá dentro?",
+     "v": "command",
+     "you": "command"
+    }
+   ]
+  }
+ ]
+}

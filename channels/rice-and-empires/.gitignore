@@ -14,3 +14,14 @@ shorts/public/bgm/
 shorts/public/l0*/
 shorts/public/sfxlib/
 shorts/public/vfx/
+# episodes/: md/json tracked; media (images, renders, TTS build, thumbnails) stays local
+episodes/**/assets/**
+!episodes/**/assets/
+!episodes/**/assets/*.md
+episodes/**/render/
+episodes/**/build/
+episodes/**/thumbnails/
+episodes/**/*.jpg
+episodes/**/*.png
+episodes/**/*.txt
+!episodes/standalone-shorts/S001-*/assets/**

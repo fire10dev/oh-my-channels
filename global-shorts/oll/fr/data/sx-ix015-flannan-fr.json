@@ -1,0 +1,70 @@
+{
+ "title": "Les trois gardiens disparus en 1900",
+ "hook": "LE PHARE S’ÉTEINT",
+ "asof": "Histoire tirée des Archives nationales d’Écosse",
+ "world": "lighthouse",
+ "long": "IX015",
+ "chapters": [
+  {
+   "id": "flannan",
+   "hud": "DÉC. 1900",
+   "chip": "26 DÉC. 1900",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "En décembre 1900, un phare écossais s’est éteint.",
+     "v": "flannan",
+     "tod": "night"
+    },
+    {
+     "s": "Les îles Flannan, perdues dans l’Atlantique.",
+     "v": "flannan"
+    },
+    {
+     "s": "Un bateau de passage a remarqué l’absence de lumière.",
+     "v": "flannan",
+     "tod": "night"
+    },
+    {
+     "s": "Le 26 décembre, le remplaçant Joseph Moore a débarqué.",
+     "v": "flannan",
+     "you": "flannan"
+    },
+    {
+     "s": "La station était vide.",
+     "v": "kitchen"
+    },
+    {
+     "s": "Lampes nettoyées, prêtes. Cuisine impeccable.",
+     "v": "kitchen"
+    },
+    {
+     "s": "Deux tenues de mer manquaient.",
+     "v": "store"
+    },
+    {
+     "s": "Les trois gardiens n’ont jamais été retrouvés.",
+     "v": "flannan",
+     "st": [
+      "3",
+      "gardiens jamais retrouvés"
+     ]
+    },
+    {
+     "s": "L’enquête a relevé des dégâts de tempête à l’embarcadère.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "Elle a conclu qu’une énorme vague les avait probablement emportés.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "À ton avis, que s’est-il passé ?",
+     "v": "flannan"
+    }
+   ]
+  }
+ ]
+}

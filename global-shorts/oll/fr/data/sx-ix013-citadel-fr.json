@@ -1,0 +1,68 @@
+{
+ "title": "La pièce secrète où l’équipage se cache des pirates",
+ "hook": "VERROUILLE LA CITADELLE",
+ "asof": "Règles de la MLC 2006 · données arrêtées en 2025",
+ "world": "boxship",
+ "long": "IX013",
+ "chapters": [
+  {
+   "id": "pirates",
+   "hud": "JOUR 75",
+   "chip": "03:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Si des pirates montent à bord, l’équipage a un endroit où se réfugier.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Ça s’appelle la citadelle.",
+     "v": "citadel"
+    },
+    {
+     "s": "Une pièce sécurisée, verrouillée au cœur du navire.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Les recommandations prévoient de quoi tenir au moins trois jours.",
+     "v": "citadel",
+     "st": [
+      "3 JOURS",
+      "vivres et eau"
+     ]
+    },
+    {
+     "s": "En novembre 2025, des pirates ont abordé un pétrolier au large de la Somalie.",
+     "v": "sea",
+     "plane": "skiff"
+    },
+    {
+     "s": "Les vingt-quatre membres d’équipage se sont enfermés dedans.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Les pirates n’ont pas réussi à les atteindre.",
+     "v": "sea",
+     "plane": "skiff"
+    },
+    {
+     "s": "Ils ont renoncé et sont partis.",
+     "v": "sea"
+    },
+    {
+     "s": "Tout le monde était sain et sauf.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Tu tiendrais le coup là-dedans ?",
+     "v": "citadel",
+     "you": "citadel"
+    }
+   ]
+  }
+ ]
+}

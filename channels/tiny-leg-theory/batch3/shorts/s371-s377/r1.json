@@ -1,0 +1,697 @@
+[
+ {
+  "id": "s371",
+  "mascot": "pen",
+  "title": "Why Peer Success Stings",
+  "mechanism": "Upward Comparison",
+  "lines": [
+   {
+    "vo": "I keep watching creators who seem ten years ahead of me.",
+    "text": "ALWAYS BEHIND",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Their big wins make my daily routine feel tiny and pointless.",
+    "text": "FEELS POINTLESS",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "That is upward comparison. Your brain naturally tracks the top performers.",
+    "text": "UPWARD BENCHMARK",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "In ancient groups, you only compared yourself to a few dozen campmates.",
+    "text": "FEW RIVALS",
+    "actor": "panic"
+   },
+   {
+    "vo": "It makes no sense to measure your quiet start against their absolute peak.",
+    "text": "RESET THE TARGET",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "The only healthy benchmark is your own logged effort from six months ago.",
+    "text": "BEAT PAST YOU",
+    "color": "gold",
+    "actor": "writing",
+    "prop": "calendar_today"
+   }
+  ]
+ },
+ {
+  "id": "s371vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Thay ban be mua nha som",
+  "title_vi": "Thấy bạn bè mua nhà sớm",
+  "mechanism": "Upward Comparison",
+  "lines": [
+   {
+    "vo": "Lướt mạng thấy bạn bè khoe mua nhà, tự nhiên thấy mình tụt lại.",
+    "text": "THẤY TỤT LẠI",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Công việc hằng ngày của mình bỗng dưng trở nên bé nhỏ.",
+    "text": "MẤT ĐỘNG LỰC",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Đó là so sánh hướng lên. Não có thói quen nhìn người giỏi nhất.",
+    "text": "SO SÁNH NGẦM",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nhưng bảng tin bây giờ bắt bạn đọ sức với vô số người thành đạt.",
+    "text": "QUÁ NHIỀU ĐỐI THỦ",
+    "actor": "panic"
+   },
+   {
+    "vo": "Thật không công bằng khi lấy vạch xuất phát của mình đo với ngày huy hoàng của họ.",
+    "text": "ĐỔI HỆ QUY CHIẾU",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Thước đo công bằng nhất là so với chính mình của nửa năm trước.",
+    "text": "TIẾN BỘ TỪNG NGÀY",
+    "color": "gold",
+    "actor": "writing",
+    "prop": "calendar_today"
+   }
+  ]
+ },
+ {
+  "id": "s372",
+  "mascot": "buff",
+  "title": "The Luxury Tour Trap",
+  "mechanism": "Contrast Effect",
+  "lines": [
+   {
+    "vo": "Your apartment felt great until that penthouse tour dropped. Sure, buddy.",
+    "text": "SUDDENLY BROKE",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Classic contrast effect. Gray looks dirty right next to pure white.",
+    "text": "CONTRAST EFFECT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nothing changed in your apartment except the shiny standard you picked.",
+    "text": "WRONG BENCHMARK",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Drop the visual flexing. Test functional reps instead.",
+    "text": "TEST FUNCTION",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Name two things in this room doing their job without complaining.",
+    "text": "NAME TWO OBJECTS",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "target"
+   },
+   {
+    "vo": "If that chair holds your back comfortably, it wins. Done.",
+    "text": "UTILITY WINS",
+    "color": "gold",
+    "actor": "front",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s372vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Phong tro bong thay chat",
+  "title_vi": "Phòng trọ bỗng thấy chật",
+  "mechanism": "Contrast Effect",
+  "lines": [
+   {
+    "vo": "Phòng đang yên ổn, xem xong video căn hộ sang bỗng thấy chật chội.",
+    "text": "BỖNG THẤY CHẬT",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Hiệu ứng tương phản. Đặt màu xám cạnh màu trắng thì thành bẩn.",
+    "text": "HIỆU ỨNG TƯƠNG PHẢN",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Phòng bạn chẳng đổi gì cả, chỉ có mắt bạn vừa bị lóa.",
+    "text": "MẮT BỊ LÓA",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bỏ cái chuẩn bóng bẩy đi. Kiểm tra độ hiệu quả hằng ngày.",
+    "text": "ƯU TIÊN CÔNG NĂNG",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Chỉ ra hai món đồ trong phòng đang phục vụ bạn tốt mỗi ngày.",
+    "text": "TÌM HAI MÓN ĐỒ",
+    "color": "green",
+    "actor": "point_viewer",
+    "prop": "target"
+   },
+   {
+    "vo": "Cái ghế nâng đỡ cột sống cả ngày là ăn đứt ghế cẩm thạch. Tắt máy đi tập.",
+    "text": "CÔNG NĂNG ĂN ĐỨT",
+    "color": "gold",
+    "actor": "front",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s373",
+  "mascot": "pen",
+  "title": "The Comparison Radar",
+  "mechanism": "Social Comparison",
+  "lines": [
+   {
+    "vo": "Some people ignore peer updates, but I track every single milestone.",
+    "text": "TRACKING PEERS",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "A younger coworker gets promoted, and my chest tightens with worry.",
+    "text": "TIGHT CHEST",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Your mind has an active radar built to track group belonging.",
+    "text": "SOCIAL RADAR",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "It helps with empathy, until digital feeds blast it with noise.",
+    "text": "SIGNAL OVERLOAD",
+    "actor": "panic",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Tune that radar by creating a personal daily scoreboard.",
+    "text": "YOUR SCOREBOARD",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Track pages read, steps walked, and hours of focused work.",
+    "text": "DEFINE WINS",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "If their triumph is not on your board, why give it points?",
+    "text": "WHO SCORES THIS?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s373vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ap luc tuoi tac ban be",
+  "title_vi": "Áp lực tuổi tác bạn bè",
+  "mechanism": "Social Comparison",
+  "lines": [
+   {
+    "vo": "Vừa mở Zalo thấy đứa bạn cùng bàn cấp ba vừa lên chức giám đốc.",
+    "text": "BẠN LÊN CHỨC",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Tự nhiên ngực nghẹn lại, thấy mình dậm chân tại chỗ.",
+    "text": "NGỰC NGHẸN LẠI",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Não bạn có một chiếc ra đa để định vị chỗ đứng tập thể.",
+    "text": "RA ĐA XÃ HỘI",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nhưng mạng xã hội đang làm chiếc ra đa đó quá tải tin tức.",
+    "text": "QUÁ TẢI TÍN HIỆU",
+    "actor": "panic",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Hãy lập một bảng điểm của riêng bạn thay vì nhìn người khác.",
+    "text": "BẢNG ĐIỂM RIÊNG",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Đếm số trang sách đọc xong và giờ làm việc thật tập trung.",
+    "text": "TẬP TRUNG VIỆC MÌNH",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Nếu thành tích đó không thuộc bảng điểm của bạn, sao phải bận lòng?",
+    "text": "SAO PHẢI BẬN LÒNG?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s374",
+  "mascot": "buff",
+  "title": "The Staged Feed Trap",
+  "mechanism": "Curated Posts",
+  "lines": [
+   {
+    "vo": "Every profile looks like endless cafe check-ins and effortless success.",
+    "text": "EFFORTLESS SUCCESS",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Sure, buddy. You are watching a polished highlight reel.",
+    "text": "JUST HIGHLIGHTS",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "People broadcast the podium and hide the messy training sessions.",
+    "text": "HIDING THE GRIND",
+    "actor": "think",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "That breezy resort shot took fifty awkward takes and heavy filtering.",
+    "text": "FIFTY FAILED TAKES",
+    "actor": "shocked",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Picture the awkward tripods and the tense silence between takes.",
+    "text": "SEE THE BACKSTAGE",
+    "color": "green",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Stop competing with a staged movie. Get back to work.",
+    "text": "BACK TO WORK",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s374vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Su that sau anh song ao",
+  "title_vi": "Sự thật sau ảnh sống ảo",
+  "mechanism": "Curated Posts",
+  "lines": [
+   {
+    "vo": "Lướt mạng thấy ai cũng thảnh thơi đi cà phê sang chảnh.",
+    "text": "CÀ PHÊ SANG CHẢNH",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Ừ, tin. Bạn đang xem thước phim quảng cáo của họ thôi.",
+    "text": "PHIM QUẢNG CÁO",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Ai cũng thích khoe huy chương và giấu nhẹm mồ hôi tập luyện.",
+    "text": "GIẤU NHẸM HẬU TRƯỜNG",
+    "actor": "think",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Bức ảnh đi chơi đó cần chụp năm mươi lần và chỉnh cả buổi.",
+    "text": "NĂM MƯƠI TẤM ẢNH",
+    "actor": "shocked",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Hãy hình dung cảnh dựng chân máy vụng về và nụ cười gượng gạo.",
+    "text": "CƯỜI GƯỢNG TẠO DÁNG",
+    "color": "green",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Đừng thi đấu với một kịch bản dựng sẵn. Tập trung việc mình.",
+    "text": "TẬP TRUNG VIỆC MÌNH",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s375",
+  "mascot": "pen",
+  "title": "Illusion of Everyone Winning",
+  "mechanism": "Availability Trap",
+  "lines": [
+   {
+    "vo": "Wedding invites arrive weekly and colleagues buy brand new cars.",
+    "text": "EVERYONE ADVANCING",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "It feels like everyone is winning while you stay stuck.",
+    "text": "FEELING LEFT BEHIND",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "That is the availability trap. Repetition tricks your brain.",
+    "text": "AVAILABILITY TRAP",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "The brain mistakes things seen frequently on screen for the whole reality.",
+    "text": "SCREEN ILLUSION",
+    "actor": "panic",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "A handful of people throw loud online celebrations.",
+    "text": "A FEW CELEBRATE",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Meanwhile, an endless sea of people quietly work and post nothing.",
+    "text": "MOST LIVE QUIET",
+    "actor": "reading",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Whenever envy spikes, remember to check the real denominator.",
+    "text": "CHECK DENOMINATOR",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "The quiet ordinary routine is the vast ocean of human life.",
+    "text": "ORDINARY IS NORMAL",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s375vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Cam giac ai cung giau len",
+  "title_vi": "Cảm giác ai cũng giàu lên",
+  "mechanism": "Availability Trap",
+  "lines": [
+   {
+    "vo": "Cả tháng nhận mấy cái thiệp cưới, bạn bè đua nhau sắm ô tô.",
+    "text": "BẠN BÈ MUA XE",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bạn ngồi ở bàn làm việc và thấy mình tụt lại phía sau.",
+    "text": "THẤY MÌNH BỎ LẠI",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Đó là bẫy sẵn có. Thấy lặp lại nhiều, não tưởng là phổ biến.",
+    "text": "BẪY SẴN CÓ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cái gì đập vào mắt liên tục, não liền tưởng cả xã hội đều như vậy.",
+    "text": "ẢO TƯỞNG QUAN SÁT",
+    "actor": "panic",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Một nhóm nhỏ khoe tiệc tùng linh đình trên mạng.",
+    "text": "SỐ ÍT KHOE TRÊN MẠNG",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Ngoài đời, vô số người lặng lẽ đi làm, về nhà nấu cơm.",
+    "text": "SỐ ĐÔNG SỐNG LẶNG LẼ",
+    "actor": "reading",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Mỗi khi thấy sốt ruột, hãy nhớ kiểm tra mẫu số thực tế.",
+    "text": "NHÌN VÀO MẪU SỐ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Một ngày bình dị trôi qua mới là bức tranh rộng lớn nhất.",
+    "text": "BÌNH DỊ LÀ CHUẨN MỰC",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s376",
+  "mascot": "buff",
+  "title": "Why One Comment Stings",
+  "mechanism": "Negativity Bias",
+  "lines": [
+   {
+    "vo": "A flood of praise, but one snarky reply ruins your entire night.",
+    "text": "ONE MEAN COMMENT",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Negativity bias. Ancient survival prioritized predators over fresh berries.",
+    "text": "NEGATIVITY BIAS",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Your nervous system treats internet snark like an attacking tiger.",
+    "text": "FALSE ALARM",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Time for a mandatory cool-down set. Close the app right now.",
+    "text": "SHUT THE APP",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Sleep on it for one night. Clear the spike first.",
+    "text": "SLEEP ON IT",
+    "color": "gold",
+    "actor": "sleeping",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s376vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Mat ngu vi mot loi che",
+  "title_vi": "Mất ngủ vì một lời chê",
+  "mechanism": "Negativity Bias",
+  "lines": [
+   {
+    "vo": "Bao nhiêu lời khen trôi tuột, đúng một câu móc mỉa làm bạn thức trắng.",
+    "text": "MỘT CÂU MÓC MỈA",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Thiên kiến tiêu cực. Não tổ tiên cảnh giác thú dữ hơn hái quả.",
+    "text": "THIÊN KIẾN TIÊU CỰC",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Hệ thần kinh coi một câu móc mỉa như nguy hiểm tính mạng.",
+    "text": "BÁO ĐỘNG GIẢ",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Khóa tạ lại. Đặt lệnh giới nghiêm hai mươi tư giờ không vào đọc lại.",
+    "text": "CÁCH LY 24 GIỜ",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Ngủ một giấc cho xong hiệp này. Mai rồi tính.",
+    "text": "MAI RỒI TÍNH",
+    "color": "gold",
+    "actor": "sleeping",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s377",
+  "mascot": "pen",
+  "title": "Why We Search Rivals",
+  "mechanism": "Selective Exposure",
+  "lines": [
+   {
+    "vo": "Just checked your low bank balance? Time to stalk your wealthiest peer.",
+    "text": "STALKING RIVALS",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "It hurts my mood, yet my fingers keep tapping on their profiles.",
+    "text": "COMPULSIVE TAPPING",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "That is selective exposure. Insecurity hunts for proof you are falling behind.",
+    "text": "CONFIRMING FEARS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Your brain craves certainty, even when that certainty makes you feel miserable.",
+    "text": "CRAVING CLOSURE",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Put an intentional brake on the search bar next time.",
+    "text": "HIT THE BRAKE",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Before typing their name, write down what you actually hope to gain.",
+    "text": "NAME THE MOTIVE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Will inspecting their life truly help you build your own?",
+    "text": "DOES THIS HELP YOU?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s377vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Thoi quen soi trang nguoi khac",
+  "title_vi": "Thói quen soi trang người khác",
+  "mechanism": "Selective Exposure",
+  "lines": [
+   {
+    "vo": "Ví vừa cạn tiền là ngón tay lại mò vào trang đứa bạn thành đạt.",
+    "text": "VÍ CẠN VẪN SOI",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Càng xem càng thấy nặng lòng, nhưng tay vẫn không ngừng lướt.",
+    "text": "NẶNG LÒNG VẪN LƯỚT",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Đó là tiếp xúc có chọn lọc. Nỗi bất an đang tìm bằng chứng xác nhận.",
+    "text": "TÌM KIẾM BẰNG CHỨNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Não muốn một câu trả lời chắc chắn, dù câu trả lời đó làm bạn đau.",
+    "text": "TỰ LÀM MÌNH ĐAU",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Hãy đặt một cái phanh hãm trước khi gõ tên họ.",
+    "text": "DỪNG LẠI MỘT NHỊP",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Viết ra một lý do thật lòng xem việc nhìn vào đó đem lại điều gì.",
+    "text": "GỌI TÊN ĐỘNG CƠ",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Soi cuộc sống người khác có thực sự giúp ích cho cuộc đời bạn không?",
+    "text": "CÓ THỰC SỰ GIÚP BẠN?",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ }
+]

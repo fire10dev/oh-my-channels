@@ -1,0 +1,42 @@
+v2 sửa theo agy (`debate/08-scripts/p61-agy.md`):
+- Chốt môn thi là Ngữ văn, tự luận. Bút không ra mực khi chép bài văn mẫu thuộc lòng là hợp lý (môn trắc nghiệm thì không).
+- Kết bỏ giọng giáo điều. Bà Hạnh xót tiền, nhận ra "may mà con không nghe mẹ".
+- Thầy Viên không hiện ra nói như người sống. Chỉ có tiếng gõ bút và tiếng thì thầm sau gáy.
+@@
+| G01/toàn (trống trường, giám thị phát đề, Nam mở đề) | **MN**: Ngày thi. Phòng mười hai. Nam mở đề. | trống trường, lật đề |
+| G08/cận (tờ đề thi thật; bên cạnh trong đầu Nam là xấp đáp án đã thuộc, không khớp) | **MN**: Không giống. Không một câu nào giống. Đề mua là đề giả. Nhóm kín bán cùng một bộ cho mấy trăm phụ huynh. | |
+%%
+| G01/toàn (trống trường, giám thị phát đề, Nam mở đề) | **MN**: Ngày thi. Phòng mười hai. Môn Ngữ văn. Nam mở đề. | trống trường, lật đề |
+| G08/cận (tờ đề thi thật; bên cạnh trong đầu Nam là bài văn mẫu đã thuộc, không khớp) | **MN**: Không giống. Đề mua bảo nghị luận một tác phẩm. Đề thật ra tác phẩm khác. Đề mua là đề giả. Nhóm kín bán cùng một bộ cho mấy trăm phụ huynh. | |
+@@
+| G02/cực cận (ngòi bút đặt vào dòng, cào, không ra mực) | **MN**: Nam đặt bút định viết dòng đáp án thuộc lòng. Ngòi bút cào trên giấy. Không ra mực. | bút cào khô · nhạc tắt |
+%%
+| G02/cực cận (ngòi bút đặt vào dòng, cào, không ra mực) | **MN**: Nam đặt bút định chép bài văn mẫu thuộc lòng, ráng gò cho hợp đề. Ngòi bút cào trên giấy. Không ra mực. | bút cào khô · nhạc tắt |
+@@
+| G02/cực cận (đặt lại vào dòng đáp án: khô) | **MN**: Đặt lại vào dòng đáp án. Khô. | bút cào khô |
+%%
+| G02/cực cận (đặt lại vào dòng văn mẫu: khô) | **MN**: Đặt lại vào câu văn mẫu. Khô. | bút cào khô |
+@@
+| G07/cận (thầy Viên mờ đứng cuối phòng, sau lưng Nam) | **VIEN**: Viết cái con đã học. | |
+%%
+| G01/cận (sau gáy Nam, không thấy ai, chỉ một làn hơi lạnh) | **VIEN** *(thì thầm sau gáy)*: Viết cái con đã học. | thì thầm, bút đỏ gõ "cộc" |
+@@
+| G07/cận (thầy Viên mờ đứng cuối một hành lang trường, kính gọng đen, bút đỏ) | **VIEN**: Mùa thi nào tôi cũng về một phòng. Năm nay… phòng mười hai. | |
+%%
+| G07/cận (cuối hành lang trường vắng, chỉ có tiếng bút gõ vào lan can) | **MN**: Mùa thi nào hành lang trường huyện cũng có tiếng bút đỏ gõ vào lan can. Năm nay, tiếng gõ dừng ở cửa phòng mười hai. | bút gõ lan can "cộc cộc" |
+@@
+| G04/cận-bà Hạnh nhìn con | **HANH**: Năm mươi triệu… mua cái giả. Còn cái thật thì… ở ngay trong nhà. | |
+| G07/cận | **VIEN**: Đề mua được. Một năm thì không mua được. | |
+| S33/toàn → S34/cận | **MN**: Muốn con đỗ thì mua cho nó cái quạt, cái đèn. Năm mươi triệu mua đề thì nhớ: đề có thể giả. Con mày thì thật. Mà thầy Viên thì… rảnh lắm. | rít điếu cày |
+%%
+| G04/cận-bà Hạnh nhìn con, xót | **HANH**: Năm mươi triệu… Đủ mua cái xe máy cho nó đi học đại học. May mà nó không nghe mẹ. | |
+| G07/cận (hành lang, tiếng bút gõ xa dần) | | bút gõ "cộc cộc" xa dần |
+| S33/toàn → S34/cận | **MN**: Năm nay nhóm bán đề giả bán được mấy trăm bộ. Tao đề nghị năm sau thầy Viên đi coi thi cả huyện. Thầy rảnh mà. | rít điếu cày |
+@@
+| SH5 | Đề mua là đề giả | G08 | Không câu nào giống | **VIEN**: "Viết cái con đã học." |
+%%
+| SH5 | Đề mua là đề giả | G08 | Văn mẫu không khớp | thì thầm sau gáy: "Viết cái con đã học." |
+@@
+| SH7 | Một năm thì không mua được | G07 | Kết → teaser rải đinh | đăng ký |
+%%
+| SH7 | Năm mươi triệu đủ mua xe máy | G04 | Kết → teaser rải đinh | đăng ký |

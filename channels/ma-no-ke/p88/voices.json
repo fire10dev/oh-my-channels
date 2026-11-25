@@ -1,0 +1,22 @@
+{
+ "MN": {
+  "preset": "Thiện Minh",
+  "fx": "atempo=0.92,asetrate=48000*0.97,aresample=48000,aecho=0.8:0.6:60:0.25"
+ },
+ "THINH": {
+  "preset": "Adam bựa",
+  "fx": "atempo=1.03"
+ },
+ "TU": {
+  "preset": "Ngọc Huyền",
+  "fx": "atempo=0.95,asetrate=48000*0.95,aresample=48000,aecho=0.8:0.5:60:0.3"
+ },
+ "KHACH": {
+  "preset": "Hải Đăng",
+  "fx": "anull"
+ },
+ "CHU": {
+  "preset": "Minh Đức",
+  "fx": "atempo=1.05"
+ }
+}

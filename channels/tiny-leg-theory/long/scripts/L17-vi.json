@@ -1,0 +1,931 @@
+{
+ "id": "L17vi",
+ "lang": "vi",
+ "title": "Muốn tiết kiệm nhưng bạn bè rủ đi chơi thì làm sao?",
+ "description": "Đi chơi cùng bạn bè dễ khiến ví tiền hao hụt nhanh chóng. Trong video này, chúng ta sẽ bóc tách tám cái bẫy tâm lý khi chi tiêu nhóm và cách bảo vệ túi tiền mà không cần ru rú ở nhà.",
+ "chapters": [
+  {
+   "title": "Tin nhắn nhóm réo chuông",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Điện thoại rung lên vì tin nhắn rủ ăn lẩu. Bạn thót tim khi tiền trọ sắp đến hạn.",
+     "text": "TIN NHẮN RỦ RÊ",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vừa hứa sẽ tiết kiệm, nhưng bạn đã xỏ giày trước khi kịp suy nghĩ.",
+     "text": "LẠI THẾ NỮA RỒI",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khởi động thì hăng lắm, đến khi hội bạn lắp thêm bánh tạ rủ rê là sụp tạ ngay.",
+     "text": "ÁP LỰC ĐỒNG TRANG LỨA",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao cứ hễ bạn thân rủ đi chơi là ví tiền lại không nghe lời?",
+     "text": "TẠI SAO LẠI THẾ?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não coi việc hòa nhập như sự sống còn, còn số dư tài khoản chỉ là ảo ảnh.",
+     "text": "BẢN NĂNG HAY VÍ TIỀN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên ta cứ vung tay để khỏi cảm thấy mình là kẻ lạc loài.",
+     "text": "SỢ BỊ RA RÌA",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có tám cái bẫy khiến bạn rỗng túi, cùng bài tập để siết lại ngân sách.",
+     "text": "PHÒNG THỦ CUỐI TUẦN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Thiên kiến hiện tại",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa ngồi xuống quán nướng, mọi người đã thi nhau gọi món ngập bàn.",
+     "text": "1. THIÊN KIẾN HIỆN TẠI",
+     "color": "ink",
+     "actor": "snack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Định uống trà đá cho rẻ, nhưng mùi thịt nướng thơm lừng làm lung lay ý chí.",
+     "text": "CÁM DỖ ĐỒ ĂN",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiên kiến hiện tại đấy, làm cái lợi trước mắt phình to gấp mười lần.",
+     "text": "HIỆN TẠI LẤN ÁT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao đĩa bò mấy trăm nghìn trước mắt bỗng dưng trông hấp dẫn đến mức không nỡ tiếc tiền?",
+     "text": "BẪY THƯỞNG TỨC THÌ",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não chỉ thèm món ăn nóng hổi, quên sạch hậu quả xa xôi của tháng sau.",
+     "text": "QUÊN LUÔN NGÀY MAI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đến khi chuyền tay nhau gọi tráng miệng thì tiền trọ tuần sau như chuyện đùa.",
+     "text": "TIỀN TRỌ XA VỜI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cơn sướng tức thì hiện ra rực rỡ, còn mục tiêu tiết kiệm mờ như sương.",
+     "text": "RỰC RỠ HAY MỜ MỊT",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Phục vụ cầm phiếu gọi món đứng chờ ngay cạnh thì giữ kỷ luật kiểu gì đây Buff?",
+     "text": "KHOẢNH KHẮC GỌI MÓN",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khởi động nhẹ nhàng từ nhà đi. Mở thực đơn lên xem giá trước khi bước ra cửa.",
+     "text": "KHỞI ĐỘNG TẠI NHÀ",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chốt món khi đầu còn lạnh, rồi đến quán cứ đúng thế mà gọi.",
+     "text": "CHỐT LUÔN MÓN ĂN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chốt trước thì đỡ tốn bữa này, nhưng sao tôi vẫn dễ dàng tặc lưỡi cho tuần sau?",
+     "text": "BỎ QUA TUẦN SAU",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tuần sau nhẹ bẫng vì não tự bẻ cong nỗi đau cho tới khi thấy êm ru.",
+     "text": "BẺ CONG THỜI GIAN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "2. Xem nhẹ tương lai",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Lúc chia tiền, tốn mấy trăm nghìn vẫn thấy nhẹ tênh vì nghĩ mua được kỷ niệm vui vẻ.",
+     "text": "2. XEM NHẸ TƯƠNG LAI",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi tự nhủ bản thân sau này sẽ cày cuốc bù lại và ăn uống kham khổ hơn.",
+     "text": "MAI NÀY RỒI TÍNH",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiện tượng chiết khấu thời gian đấy. Não tự gạt phắt nỗi lo ngày mai để chiều chuộng cái miệng hôm nay.",
+     "text": "COI NHẸ NỖI ĐAU",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi luôn xem bản thân trong tương lai như một người xa lạ chẳng biết mệt.",
+     "text": "NGƯỜI LẠ BẤT TẬN",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não coi bản thân ngày mai như người lạ, thản nhiên chất tạ nặng cho kẻ khác gánh hộ.",
+     "text": "NGƯỜI XA LẠ TRONG ĐẦU",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn chất thêm tạ nặng lên lưng người khác, rồi nghĩ họ gánh ngon lành.",
+     "text": "ĐÈ TẠ LÊN NGƯỜI KHÁC",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra tôi đang bắt chính mình của ngày mai trả nợ cho bữa vui tối nay.",
+     "text": "ĐẨY NỢ CHO TƯƠNG LAI",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để thấy xót cho ngày mai trước khi rút ví chuyển khoản?",
+     "text": "KÉO NGÀY MAI VỀ ĐÂY",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quy toàn bộ số tiền đó ra số giờ làm việc vất vả trước khi quét mã.",
+     "text": "CÔNG THỨC GIỜ CÔNG",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi năm trăm nghìn bằng hai tiếng cày cuốc, cảm giác tiền từ trên trời rơi xuống sẽ tan biến.",
+     "text": "HAI TIẾNG TĂNG CA",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tính giờ làm thì tỉnh đấy, nhưng lỡ cả bàn ai cũng vung tiền không tiếc thì sao?",
+     "text": "KỲ VỌNG TRÊN BÀN ĂN",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Áp lực đó sinh ra từ việc bạn tự đoán mò túi tiền của người khác.",
+     "text": "ẢO TƯỞNG NGẦM ĐỊNH",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "3. Chuẩn mực xã hội",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Chẳng ai buồn nhìn giá, có người còn hào hứng gọi thêm cả đống món đắt tiền.",
+     "text": "3. CHUẨN MỰC XÃ HỘI",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Xin cốc nước lọc thì sợ bị coi là bủn xỉn, cứ nghĩ ai cũng rủng rỉnh tiền tiêu.",
+     "text": "ẢO TƯỞNG ĐỒNG THUẬN",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn mực xã hội đấy. Bạn mặc định tiêu xài hoang phí mới là luật của nhóm.",
+     "text": "TIÊU CHUẨN TỰ NGHĨ",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lên tiếng về chuyện tiền nong cứ như đang phá vỡ tình bạn thân thiết.",
+     "text": "KỊCH BẢN NGẦM",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thật ra khối đứa quanh bàn ăn cũng đang toát mồ hôi lo cho cái hóa đơn.",
+     "text": "NỖI LO GIẤU KÍN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không ai nói gì thì lại hùa theo đứa chịu chi nhất, tưởng im lặng là đồng lòng.",
+     "text": "HIỂU LẦM SỰ IM LẶNG",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là cả đám cùng diễn một màn kịch sang chảnh mà chẳng ai muốn gánh.",
+     "text": "VỞ KỊCH ĐẮT ĐỎ",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao phá vỡ ảo tưởng đó mà không bị xem là kẻ phá đám?",
+     "text": "PHÁ VỠ ẢO TƯỞNG",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Làm đội trưởng dẫn nhịp đi. Đưa ra mức chi tiêu nhẹ nhàng trước khi ai kịp gọi món.",
+     "text": "DẪN NHỊP CẢ ĐỘI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ nói thẳng hôm nay kẹt tiền ăn nhẹ thôi. Nhiều đứa nhẹ cả người rồi tập theo nhịp của bạn ngay.",
+     "text": "BẮT CHƯỚC NHỊP TẬP",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bàn ăn thì đỡ, nhưng những chuyến du lịch cùng nhóm bạn vẫn dễ bị cuốn đi.",
+     "text": "QUÁN TÍNH NHÓM BẠN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quán tính đó xảy ra vì lựa chọn của từng người cứ kích thích lẫn nhau thành vòng lặp.",
+     "text": "VÒNG LẶP PHẢN HỒI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "4. Vòng lặp đối ứng",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Một đứa gợi ý đi Đà Lạt, đứa khác liền đòi đặt phòng biệt thự sang chảnh.",
+     "text": "4. VÒNG LẶP ĐỐI ỨNG",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là mọi người bị cuốn theo, rủ nhau thuê xe riêng rồi ăn nhà hàng xịn.",
+     "text": "NÂNG CẤP TỐN KÉM",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là vòng lặp tác động qua lại. Nhóm bạn nắn ví tiền, rồi ví tiền lại xoay vòng nhóm.",
+     "text": "VÒNG XOẮN TƯƠNG TÁC",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sự nhiệt tình vô tình biến thành cuộc đua chi tiêu không hồi kết.",
+     "text": "ĐUA NHAU NÂNG TẦM",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mỗi tin nhắn hưởng ứng lại phát tín hiệu đồng tình, khiến đứa sau gợi ý món đắt hơn.",
+     "text": "PHÁT TÍN HIỆU TIÊU",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không ai muốn dập tắt hào hứng, nên chuyến đi cứ thế phình to vì sự cả nể.",
+     "text": "SỰ IM LẶNG LỊCH SỰ",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Im lặng khiến tôi thành kẻ tiếp tay cho một khoản nợ thủng cả ví tiền.",
+     "text": "IM LẶNG ĐỒNG LÕA",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao kéo cả nhóm hạ nhiệt bớt mà không làm tụt hứng của mọi người?",
+     "text": "HẠ NHIỆT CẢ NHÓM",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chặn ngay từ đầu bằng phương án khác trước khi ai đó bấm đặt cọc tiền phòng.",
+     "text": "ĐỀ XUẤT TỪ SỚM",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gợi ý chọn nhà nghỉ bình dân, đi xe khách giường nằm và tự nấu ăn thay vì thuê biệt thự sang chảnh.",
+     "text": "LỰA CHỌN BÌNH DÂN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Muốn gặp gỡ bạn bè, nhưng sao cứ phải gắn liền với việc tiêu tiền thế nhỉ?",
+     "text": "GẮN KẾT VÀ TIỀN BẠC",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mối liên kết đó hình thành khi niềm vui gặp gỡ bị buộc chặt vào chuyện mua sắm.",
+     "text": "THÓI QUEN GÓI KÈM",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    }
+   ]
+  },
+  {
+   "title": "5. Gói kèm cám dỗ",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hễ cứ tụ tập bạn bè là lại kéo nhau vào quán cà phê sang chảnh, trà sữa hay quán nhậu.",
+     "text": "5. GÓI KÈM CÁM DỖ",
+     "color": "ink",
+     "actor": "snack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như phải trả vài trăm nghìn làm phí vào cửa để được trò chuyện vui vẻ.",
+     "text": "THUẾ TÌNH BẠN",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn ghép nhầm bài tập rồi. Buộc tình bạn vào hóa đơn đắt đỏ thì ví chỉ có kiệt sức.",
+     "text": "BUỘC SAI MỐI HÀNG",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Việc kéo nhau vào hàng quán bỗng thành thói quen tự động, thay vì chỉ đơn giản là ngồi tâm sự.",
+     "text": "MẶC ĐỊNH PHẢI TIÊU",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quán xá bán sự tiện lợi, dọn dẹp sẵn cho cái đầu đang mệt mỏi của bạn lười nghĩ.",
+     "text": "ĐỊA ĐIỂM TIỆN LỢI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lâu dần, não bạn dán chặt tiếng cười đùa vào tờ hóa đơn thanh toán.",
+     "text": "GẮN VUI VỚI HÓA ĐƠN",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao áp dụng gói kèm cám dỗ đúng cách mà không phải từ mặt bạn bè?",
+     "text": "GÓI CÁM DỖ ĐÚNG CÁCH",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phải đảo chiều bài tập này. Dùng buổi tụ tập làm phần thưởng kẹp chung với một thói quen kỷ luật.",
+     "text": "KẸP THÈM VÀO KỶ LUẬT",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Như rủ bạn về phòng cùng nấu nướng, chơi cờ bàn thay vì ném tiền vào nhà hàng sang chảnh.",
+     "text": "TỰ NẤU ĂN TẠI NHÀ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vừa có trọn vẹn niềm vui kết nối, vừa không phải trả thêm tiền dịch vụ quán xá.",
+     "text": "KHÔNG MẤT PHÍ QUÁN",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự nấu thì vui, nhưng thi thoảng vẫn có tiệc sinh nhật bắt buộc phải đi nhà hàng.",
+     "text": "BỮA TIỆC BẮT BUỘC",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Buộc phải đi thì chia nhỏ tiền ra từng ngăn trước khi bước chân ra khỏi nhà.",
+     "text": "CHIA VÍ TỪ TRƯỚC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "6. Gắn nhãn tiền bạc",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tối thứ sáu ting ting nhận lương, thấy tài khoản đầy ắp là ngỡ mình đại gia.",
+     "text": "6. GẮN NHÃN TIỀN BẠC",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đến tối chủ nhật, bữa tiệc sinh nhật đã nuốt trọn số tiền định dành mua đồ ăn cả tháng.",
+     "text": "TIỀN LẪN LỘN",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hậu quả khi tiền không có tên. Bạn phải phân chia ranh giới rõ ràng trong đầu cho từng món.",
+     "text": "TIỀN VÔ DANH",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Não tôi coi mọi đồng tiền trong tài khoản chính đều có thể đem đi quẩy cuối tuần.",
+     "text": "TIỀN NÀO CŨNG XÀI",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiền được đặt tên sẽ tạo ra hàng rào tâm lý khiến bạn chùn tay không dám tiêu phạm.",
+     "text": "HÀNG RÀO TÂM LÝ",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dồn hết vào một hũ giống như tập tạ không đếm hiệp, bạn sẽ vung tay cạn kiệt mà không biết giới hạn.",
+     "text": "BẪY TIỀN DƯ DẢ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không dán nhãn, não tôi lấy luôn tiền thuê trọ đi chiêu đãi bạn bè đêm thứ sáu.",
+     "text": "TIỀN TRỌ HÓA BỮA TIỆC",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mở thêm nhiều tài khoản ngân hàng nghe lích kích quá Buff.",
+     "text": "MỞ THÊM TÀI KHOẢN",
+     "color": "ink",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tạo một tài khoản phụ tên Đi Chơi, nhận lương là chuyển thẳng vào đó hạn mức cố định.",
+     "text": "TÀI KHOẢN ĐI CHƠI",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tài khoản đó về số không là chạm ngưỡng tạ, khóa đòn nghỉ tập, cấm cố thêm hiệp nào nữa.",
+     "text": "HẾT TIỀN THÌ NGHỈ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chia ví thì hay, nhưng giờ quét mã thanh toán tiện quá, cứ giơ điện thoại là xong.",
+     "text": "QUẸT MÃ DỄ NHƯ CHƠI",
+     "color": "ink",
+     "actor": "wallet_worry"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiện quá hóa nguy hiểm. Bạn phải tự gắn thêm rào cản ma sát vào từng cú chạm.",
+     "text": "CÀI THÊM RÀO CẢN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "7. Chi phí ma sát",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Quét mã chuyển khoản trên điện thoại loáng cái chưa đầy một giây.",
+     "text": "7. CHI PHÍ MA SÁT",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng thấy xót ruột gì, cho tới sáng thứ bảy mở ứng dụng ngân hàng mới tá hỏa.",
+     "text": "MẤT TIỀN KHÔNG HAY",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiêu tiền quá mượt làm bạn mất phanh. Phải dựng thêm chướng ngại vật để não kịp giật mình.",
+     "text": "LẮP LẠI PHANH HÃM",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rút tiền mặt đếm từng tờ trao tay đau hơn nhiều so với việc bấm chạm màn hình.",
+     "text": "NỖI ĐAU TIỀN MẶT",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiền mặt tạo ra nỗi đau mất mát tức thì, thứ mà mấy cái chạm màn hình đã che giấu.",
+     "text": "NỖI ĐAU XÓT TIỀN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chạm điện thoại xóa sạch cảm giác tốn kém, đánh lừa não rằng chầu nước này miễn phí.",
+     "text": "TIÊU TIỀN VÔ THỨC",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Công nghệ vô tình biến việc tiêu tiền thành phản xạ vô thức, bỏ qua lý trí.",
+     "text": "PHẢN XẠ MÙ QUÁNG",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tạo ma sát khi ra ngoài mà không phải cầm theo một bọc tiền mặt?",
+     "text": "TẠO GỜ GIẢM TỐC",
+     "color": "ink",
+     "actor": "wallet_worry"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gỡ ứng dụng ngân hàng khỏi màn chính, tắt vân tay để mỗi lần chuyển tiền phải gõ mật khẩu dài.",
+     "text": "TĂNG BƯỚC BẢO MẬT",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mấy chục giây loay hoay bấm mật khẩu sẽ kéo não tỉnh lại để kịp rút tay về.",
+     "text": "KHOẢNG DỪNG VẬT LÝ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dừng lại được lúc đầu, nhưng càng về khuya nói cười mệt lử thì ý chí lại tan biến.",
+     "text": "ĐÊM MUỘN RÃ RỜI",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nửa đêm đuối sức thì đừng cậy vào ý chí. Phải khóa chốt an toàn từ sớm để khỏi bị tạ đè.",
+     "text": "TRIỆT TIÊU LỰA CHỌN",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "8. Công cụ cam kết",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tầm nửa đêm, sau mấy tiếng cười đùa, bao nhiêu quyết tâm tiết kiệm bốc hơi sạch.",
+     "text": "8. CÔNG CỤ CAM KẾT",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi sẵn sàng chia tiền xe đi lại rồi gọi thêm chầu ăn đêm mà chẳng thèm nghĩ ngợi.",
+     "text": "HÀO PHÓNG ĐÊM MUỘN",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dân tập chuyên nghiệp chẳng ai dựa vào ý chí lúc nửa đêm. Họ khóa chốt kỷ luật từ sớm.",
+     "text": "ĐỪNG TRÔNG VÀO Ý CHÍ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lúc đó đầu óc vừa kiệt sức vừa đang hưng phấn, ý chí coi như vứt đi.",
+     "text": "Ý CHÍ BẰNG KHÔNG",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là quyết định khi còn tỉnh táo, triệt tiêu mọi khả năng tiêu lố về sau.",
+     "text": "TỰ TRÓI TAY MÌNH",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn tự trói tay lúc sáng suốt để tự cứu mình khỏi cái đầu bốc đồng đêm khuya.",
+     "text": "BẢO VỆ CHÍNH MÌNH",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tức là tự khóa cửa trước khi bữa tiệc bắt đầu để khỏi tự hại mình.",
+     "text": "KHÓA CỬA TỪ SỚM",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ tôi một bài tập cam kết chắc chắn để áp dụng cho lần đi chơi tới đi.",
+     "text": "BÀI TẬP CAM KẾT",
+     "color": "ink",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào ứng dụng ngân hàng hạ hạn mức chi tiêu trong ngày xuống trước khi bước chân ra cửa.",
+     "text": "CÀI HẠN MỨC NGÀY",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nửa đêm tài khoản tự từ chối giao dịch vượt mức, ngân sách tự động được bảo vệ.",
+     "text": "KỊCH TRẦN TỰ ĐỘNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khóa hạn mức từ trước vừa giữ được tiền tiết kiệm, vừa không làm mất vui cả buổi.",
+     "text": "GIỮ NGUYÊN VÍ TIỀN",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khóa chặt cam kết từ sớm, giờ là lúc bạn đưa trọn bộ bài tập này vào thực tế.",
+     "text": "SẴN SÀNG HÀNH ĐỘNG",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Kế hoạch hành động",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại thì tiết kiệm khi đi chơi không phải là nhốt mình ở nhà hay keo kiệt.",
+     "text": "KẾ HOẠCH HÀNH ĐỘNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tất cả gói gọn trong ba bài tập cốt lõi để bạn rèn luyện mỗi tuần.",
+     "text": "BA BÀI TẬP CỐT LÕI",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một, bắt bài thiên kiến hiện tại và thói xem nhẹ tương lai biến tiền thật thành ảo.",
+     "text": "1. BẮT BÀI TÂM LÝ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai, đổi cách gặp gỡ bằng việc dán nhãn ví tiền và gợi ý những chỗ chơi tiết kiệm.",
+     "text": "2. ĐỔI CÁCH GẶP GỠ",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba, cài thêm rào cản thanh toán và khóa chốt cam kết trước khi bước ra cửa.",
+     "text": "3. KHÓA CHỐT CAM KẾT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để đưa các bài tập này vào áp dụng ngay trong tuần tới?",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bảy ngày tới, hãy là người đầu tiên trong nhóm nhắn tin chốt chỗ đi chơi vừa túi tiền.",
+     "text": "DẪN ĐẦU NHÓM BẠN",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập cơ bắp tài chính, bảo vệ tương lai và tận hưởng trọn vẹn những buổi đi chơi cùng bạn.",
+     "text": "XÂY CƠ BẮP TÀI CHÍNH",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhớ đăng ký Lý Thuyết Chân Que để cùng giải mã tâm lý hành vi mỗi tuần nhé.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "gold",
+     "actor": "nervous_wave",
+     "prop": "lightbulb"
+    }
+   ]
+  }
+ ]
+}

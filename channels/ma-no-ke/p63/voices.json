@@ -1,0 +1,18 @@
+{
+ "MN": {
+  "preset": "Thiện Minh",
+  "fx": "atempo=0.92,asetrate=48000*0.97,aresample=48000,aecho=0.8:0.6:60:0.25"
+ },
+ "TU": {
+  "preset": "Adam bựa",
+  "fx": "atempo=1.02,asetrate=48000*0.96,aresample=48000"
+ },
+ "BAN": {
+  "preset": "Hải Đăng",
+  "fx": "atempo=1.05,anull"
+ },
+ "CU": {
+  "preset": "Ngọc Huyền",
+  "fx": "atempo=0.95,asetrate=48000*0.95,aresample=48000"
+ }
+}

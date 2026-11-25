@@ -1,4 +1,5 @@
 import AppKit
+import AVKit
 import SwiftUI
 
 // MARK: - Theme pieces (BBSnap Retro Terminal look)
@@ -192,6 +193,10 @@ struct ContentView: View {
   var body: some View {
     let p = Palette.forScheme(scheme)
     ZStack(alignment: .topLeading) {
+      if let sid = model.studioVideoId, let v = model.videos.first(where: { $0.id == sid }),
+         let dir = model.channelDir(v.channelId), !v.code.isEmpty {
+        StudioWorkspace(video: v, dir: dir) { model.studioVideoId = nil }.id(sid)
+      } else {
       VStack(spacing: 0) {
         topBar(p)
         HRail(p: p)
@@ -213,6 +218,7 @@ struct ContentView: View {
       if channelsOpen {
         Color.black.opacity(0.001).onTapGesture { channelsOpen = false }
         channelPanel(p).padding(.leading, 84).padding(.top, 50)
+      }
       }
     }
     .ignoresSafeArea(.container, edges: .top)
@@ -442,8 +448,10 @@ struct ContentView: View {
                   Section {
                     ForEach(items) { v in
                       VideoRow(video: v, channelName: channelId == nil ? model.channel(v.channelId)?.name : nil,
-                               waiting: model.userTasks(videoId: v.id).count, selected: v.id == selected, p: p)
+                               waiting: model.userTasks(videoId: v.id).count, selected: v.id == selected, p: p,
+                               thumb: v.thumbPath.isEmpty ? "" : model.absolute(v.thumbPath))
                         .id(v.id)
+                        .onTapGesture(count: 2) { selected = v.id; model.openStudio(v) }
                         .onTapGesture { selected = v.id }
                     }
                   } header: {
@@ -485,12 +493,10 @@ struct ContentView: View {
       // Rebuilt when the DB copy changes (reload after the CLI wrote), not on our own saves.
       VideoDetail(video: v).id("\(v.id)-\(v.updatedAt)")
     } else {
-      VStack(spacing: 8) {
-        Image(systemName: "play.rectangle").font(.system(size: 30)).foregroundStyle(p.line)
-        Text("Chọn một video").font(.ui(13, weight: .semibold)).foregroundStyle(p.ink)
-        Text("↑ ↓ để chuyển video · mọi ô có nút Copy").font(.ui(11)).foregroundStyle(p.muted)
-      }
-      .frame(maxWidth: .infinity, maxHeight: .infinity)
+      Dashboard(channelId: channelId, open: { v in selected = v.id }, pickChannel: { c, g in
+        side = .channel(c)
+        group = g
+      }, p: p)
     }
   }
 }
@@ -528,11 +534,21 @@ struct VideoRow: View {
   var waiting = 0
   let selected: Bool
   let p: Palette
+  var thumb = ""  // absolute path of the thumbnail, "" = placeholder
 
   var body: some View {
     let c = video.group.color(p)
-    HStack(alignment: .top, spacing: 10) {
+    HStack(alignment: .center, spacing: 12) {
       Rectangle().fill(c).frame(width: selected ? 4 : 2)
+      ZStack {
+        Rectangle().fill(p.paperDeep)
+        if let img = ImageCache.shared.image(thumb, max: 240) {
+          Image(nsImage: img).resizable().aspectRatio(contentMode: .fill)
+        } else {
+          Image(systemName: video.kind == .short ? "rectangle.portrait" : "film").foregroundStyle(p.line)
+        }
+      }
+      .frame(width: 96, height: 54).clipShape(Rectangle())
       VStack(alignment: .leading, spacing: 3) {
         HStack(spacing: 6) {
           Text(video.kind == .long ? "LONG" : "SHORT").font(.ui(9, weight: .bold)).foregroundStyle(p.muted)
@@ -568,6 +584,7 @@ struct VideoDetail: View {
   @Environment(\.colorScheme) private var scheme
   @Local private var draft: Video
   @Local private var confirmDelete = false
+  @Local private var seek: Seek? = nil
 
   /// Channel and kind are fixed at creation; the code only while it is still empty (new video).
   private let codeEditable: Bool
@@ -586,14 +603,31 @@ struct VideoDetail: View {
     ScrollView {
       VStack(alignment: .leading, spacing: 22) {
         header(p)
+        let videoPath = (draft.filePath as NSString).expandingTildeInPath
+        if !draft.filePath.isEmpty, FileManager.default.fileExists(atPath: videoPath) {
+          VideoPreview(url: URL(fileURLWithPath: videoPath), seek: seek)
+            .aspectRatio(draft.kind == .short ? 9.0 / 16.0 : 16.0 / 9.0, contentMode: .fit)
+            .frame(maxWidth: .infinity, maxHeight: 420)
+            .id(videoPath)
+        }
         StageStepper(stage: $draft.stage, p: p)
         if draft.stage != .published {
-          RetroButton(title: "Đánh dấu đã đăng", symbol: "checkmark.seal", primary: true) {
-            draft.stage = .published
-            if draft.publishedAt.isEmpty { draft.publishedAt = nowStamp() }
+          HStack(spacing: 10) {
+            RetroButton(title: "Đánh dấu đã đăng", symbol: "checkmark.seal", primary: true) {
+              draft.stage = .published
+              if draft.publishedAt.isEmpty { draft.publishedAt = nowStamp() }
+            }
+            if !draft.ytUrl.isEmpty {
+              Text("Đã có link YouTube nhưng chưa đánh dấu đã đăng").font(.ui(11)).foregroundStyle(p.coral)
+            }
           }
         }
 
+        if let m = model.manifest(videoId: draft.id), let path = model.manifestPath(videoId: draft.id) {
+          section("Dựng", p) {
+            BuildSection(manifest: m, path: path, seek: $seek, p: p)
+          }
+        }
         section("Việc còn lại", p) {
           TaskEditor(video: draft, p: p)
         }
@@ -606,6 +640,27 @@ struct VideoDetail: View {
                   Text(f.key).font(.ui(11)).foregroundStyle(p.muted)
                   Text(f.value).font(.ui(11, weight: .bold)).foregroundStyle(p.ink).textSelection(.enabled)
                 }
+              }
+            }
+          }
+        }
+
+        let linked = model.assets(videoId: draft.id)
+        if !linked.isEmpty {
+          section("Ghi công / asset", p, trailing: AnyView(creditButton(linked))) {
+            ForEach(linked) { a in
+              VStack(alignment: .leading, spacing: 3) {
+                HStack(spacing: 8) {
+                  Text((a.role.isEmpty ? a.kind : a.role).uppercased()).font(.ui(9, weight: .bold)).foregroundStyle(p.sun)
+                  Text((a.path as NSString).lastPathComponent).font(.ui(11)).foregroundStyle(p.ink).lineLimit(1)
+                  Spacer()
+                  RetroButton(title: "Finder", symbol: "folder", compact: true) {
+                    NSWorkspace.shared.activateFileViewerSelecting([URL(fileURLWithPath: model.absolute(a.path))])
+                  }
+                  CopyButton(text: a.attribution, label: "Copy ghi công")
+                }
+                Text(a.license + (a.attribution.isEmpty ? "" : " — \(a.attribution)"))
+                  .font(.ui(10)).foregroundStyle(p.muted).textSelection(.enabled)
               }
             }
           }
@@ -659,6 +714,23 @@ struct VideoDetail: View {
     }
   }
 
+  /// Appends the credit lines the description does not cover yet. A track counts as credited when its
+  /// title (the quoted part of "'Title' by Artist …") is in the description — credits are often merged
+  /// into one line ("Music: 'A', 'B' by …").
+  private func creditButton(_ linked: [LinkedAsset]) -> some View {
+    let missing = linked.map(\.attribution).filter { line in
+      guard !line.isEmpty else { return false }
+      let parts = line.split(separator: "'", omittingEmptySubsequences: false)
+      let title = parts.count > 2 ? String(parts[1]) : line
+      return !draft.description.localizedCaseInsensitiveContains(title)
+    }
+    return RetroButton(title: missing.isEmpty ? "Mô tả đã đủ ghi công" : "Thêm \(missing.count) ghi công vào mô tả",
+                       symbol: "text.append", compact: true) {
+      draft.description += (draft.description.isEmpty ? "" : "\n\n") + missing.joined(separator: "\n")
+    }
+    .disabled(missing.isEmpty)
+  }
+
   private func header(_ p: Palette) -> some View {
     VStack(alignment: .leading, spacing: 6) {
       HStack(spacing: 8) {
@@ -673,6 +745,10 @@ struct VideoDetail: View {
         }
         Text(model.channel(draft.channelId)?.name ?? "").font(.ui(11)).foregroundStyle(p.muted)
         Spacer()
+        RetroButton(title: "Mở Studio", symbol: "film.stack", primary: true) { model.openStudio(draft) }
+          .disabled(draft.code.isEmpty || model.channelDir(draft.channelId) == nil)
+          .help(draft.code.isEmpty ? "Đặt mã video trước" : model.channelDir(draft.channelId) == nil
+                ? "Kênh chưa có thư mục (ythub channel … --repo)" : "Mở dự án video: brainstorm, kịch bản, storyboard, shot, title, dựng, đăng (nhấp đúp ở danh sách)")
         RetroButton(symbol: "trash", compact: true) { confirmDelete = true }.help("Xoá video")
       }
       Text(draft.title.isEmpty ? "(chưa có title)" : draft.title)
@@ -724,6 +800,35 @@ struct StageStepper: View {
   }
 }
 
+/// Inline player for the rendered file; never autoplays, stops when the detail goes away.
+struct VideoPreview: NSViewRepresentable {
+  let url: URL
+  var seek: Seek?
+
+  final class Coordinator { var lastSeek = 0 }
+  func makeCoordinator() -> Coordinator { Coordinator() }
+
+  func makeNSView(context: Context) -> AVPlayerView {
+    let v = AVPlayerView()
+    v.player = AVPlayer(url: url)
+    v.controlsStyle = .inline
+    v.showsFullScreenToggleButton = true
+    return v
+  }
+
+  func updateNSView(_ v: AVPlayerView, context: Context) {
+    guard let seek, seek.n != context.coordinator.lastSeek else { return }
+    context.coordinator.lastSeek = seek.n
+    v.player?.seek(to: CMTime(seconds: seek.t, preferredTimescale: 600), toleranceBefore: .zero, toleranceAfter: .zero)
+    v.player?.play()
+  }
+
+  static func dismantleNSView(_ v: AVPlayerView, coordinator: Coordinator) {
+    v.player?.pause()
+    v.player = nil
+  }
+}
+
 struct CopyField: View {
   enum Action { case none, openURL, reveal }
 
@@ -756,6 +861,14 @@ struct CopyField: View {
           }
           .disabled(URL(string: text)?.scheme == nil)
         case .reveal:
+          if !text.isEmpty, FileManager.default.fileExists(atPath: expandedPath) {
+            // Drag straight into the YouTube Studio upload box (or any app that takes files).
+            Label("Kéo", systemImage: "hand.draw")
+              .font(.ui(11, weight: .semibold)).foregroundStyle(p.paperDeep)
+              .padding(.horizontal, 7).frame(height: 26).bg(p.accent)
+              .onDrag { NSItemProvider(contentsOf: URL(fileURLWithPath: expandedPath)) ?? NSItemProvider() }
+              .help("Kéo file này thả vào ô tải lên của YouTube Studio")
+          }
           RetroButton(title: "Finder", symbol: "folder", compact: true) {
             NSWorkspace.shared.activateFileViewerSelecting([URL(fileURLWithPath: expandedPath)])
           }

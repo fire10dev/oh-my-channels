@@ -19,8 +19,13 @@ MainActor.assumeIsolated {
   win.titleVisibility = .hidden
   win.appearance = NSAppearance(named: dark ? .darkAqua : .aqua)
   let state = args.count > 5 ? args[5] : ""
+  if state.hasPrefix("studio:") {  // studio:<video id>[:<page>]
+    let parts = state.split(separator: ":")
+    model.studioVideoId = Int64(parts[1])
+    if parts.count > 2 { UserDefaults.standard.set(String(parts[2]), forKey: "studioPage") }
+  }
   let view = ContentView(channelsOpen: state == "channels", selected: Int64(state))
-  let host = NSHostingView(rootView: view.environmentObject(model))
+  let host = NSHostingView(rootView: view.environmentObject(model).environmentObject(model.jobs))
   win.contentView = host
   win.orderFrontRegardless()
   RunLoop.main.run(until: Date().addingTimeInterval(1.5))

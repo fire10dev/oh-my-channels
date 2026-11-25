@@ -1,0 +1,12 @@
+{"id":"w020","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#dc2626","cover_frame":60,
+ "source":"Borders & strait width: CIA World Factbook · Encyclopaedia Britannica","music":"shared/library/music/yt-audio-library/A Serenade to Veracruz - Jimena Contreras.mp3",
+ "beats":[
+  {"say":"Spain has a land border with Morocco, in Africa.","title":"SPAIN BORDERS AFRICA","cam":{"lon":-4.5,"lat":36,"span":8},"hl":[{"a3":"ESP","color":"#dc2626"},{"a3":"MAR","color":"#16a34a"}]},
+  {"say":"Two Spanish cities sit on the African coast: Ceuta and Melilla.","cam":{"lon":-4,"lat":35.6,"span":6},"hl":[{"a3":"ESP","color":"#dc2626"},{"a3":"MAR","color":"#16a34a","label":"Morocco"}],
+   "pins":[{"lon":-5.32,"lat":35.89,"text":"Ceuta"},{"lon":-2.94,"lat":35.29,"text":"Melilla"}]},
+  {"say":"They're full parts of Spain, and of the European Union. The EU's only land borders in mainland Africa.","cam":{"lon":-4,"lat":35.6,"span":6},"pins":[{"lon":-5.32,"lat":35.89,"text":"Ceuta"},{"lon":-2.94,"lat":35.29,"text":"Melilla"}]},
+  {"say":"Across the water, Europe and Africa are only fourteen kilometers apart, at the Strait of Gibraltar.","cam":{"lon":-5.5,"lat":36,"span":2},"hl":[{"a3":"ESP","color":"#dc2626"},{"a3":"MAR","color":"#16a34a"}],
+   "line":{"pts":[[-5.6,36.01],[-5.6,35.88]],"color":"#ffd23f"},"big":{"value":"14 km","label":"Europe to Africa"}},
+  {"say":"And the Rock of Gibraltar, on the Spanish side, belongs to Britain.","cam":{"lon":-5.4,"lat":36.1,"span":1},"hl":[{"a3":"GIB","color":"#2563eb","label":"UK"},{"a3":"ESP","color":"#dc2626"}]},
+  {"say":"So Spain has a piece of Africa, and Britain has a piece of Spain. Follow for more.","title":"BORDERS MAKE NO SENSE","cam":{"lon":-4.5,"lat":36,"span":8},"hl":[{"a3":"ESP","color":"#dc2626"},{"a3":"MAR","color":"#16a34a"},{"a3":"GIB","color":"#2563eb"}]}
+ ]}

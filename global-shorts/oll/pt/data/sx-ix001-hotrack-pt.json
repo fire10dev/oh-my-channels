@@ -1,0 +1,165 @@
+{
+ "title": "Marinheiros de submarino dividem a mesma cama",
+ "hook": "CAMA QUENTE",
+ "asof": "Dados de 2026",
+ "world": "sub",
+ "long": "IX001",
+ "chapters": [
+  {
+   "id": "rack",
+   "hud": "DIA 1",
+   "chip": "22:00",
+   "tod": "day",
+   "shots": [
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Em alguns submarinos, sua cama ainda está quente quando você deita."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "Porque alguém acabou de sair dela."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Sua cama é chamada de beliche."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "É uma prateleira estreita, com três níveis empilhados,"
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      4.2
+     ],
+     "s": "com cortina e colchão fino."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Embaixo, um armário pequeno."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      600,
+      1.8
+     ],
+     "s": "Esse é todo o seu espaço pessoal."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      960,
+      550,
+      1.0
+     ],
+     "st": [
+      "77 dias",
+      "patrulha média · Marinha dos EUA, 2025"
+     ],
+     "s": "Por onze semanas."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      960,
+      560,
+      1.12
+     ],
+     "s": "E nos submarinos de ataque menores,"
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "nem sempre há beliches suficientes."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "s": "Então os marinheiros mais novos podem dividir a cama,"
+    },
+    {
+     "d": {
+      "type": "compare",
+      "left": [
+       "MARINHEIRO A",
+       "NO BELICHE",
+       "enquanto B trabalha"
+      ],
+      "right": [
+       "MARINHEIRO B",
+       "NO BELICHE",
+       "enquanto A trabalha"
+      ],
+      "note": "uma cama · dois marinheiros"
+     },
+     "s": "em turnos."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.7
+     ],
+     "s": "Quando você se deita, o colchão ainda está quente do ocupante anterior."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      3.6
+     ],
+     "q": "CAMA QUENTE",
+     "s": "Por isso chamam isso de cama quente."
+    },
+    {
+     "sc": "sleep1",
+     "view": [
+      790,
+      615,
+      2.2
+     ],
+     "s": "Você dormiria na cama quente de um desconhecido?"
+    }
+   ]
+  }
+ ]
+}

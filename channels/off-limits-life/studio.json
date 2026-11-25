@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "actions": [
+    {"id": "pace", "stage": "render", "label": "Pace check", "symbol": "speedometer", "run": ["python3", "tools/pace_check.py"], "kind": "review"}
+  ],
+  "prompts": [
+    {"stage": "idea", "label": "Brainstorm 10 nơi off-limits", "text": "Brainstorm 10 chủ đề 'How X eat/sleep/... inside <nơi cấm>' chưa có trong scripts/. Mỗi cái: title, 3 sự thật gây sốc, nguồn tư liệu."},
+    {"stage": "script", "label": "Tạo shots từ kịch bản", "text": "Từ kịch bản {script}, tạo file shots .txt theo format tools/build_shots.py rồi chạy build_shots. Báo lệnh đã chạy."},
+    {"stage": "render", "label": "Render long", "text": "Render {code} bằng tools/render_long.sh (tự suy COMP/VID/OUTNAME từ src/ và scripts/), báo kết quả teardown gate."}
+  ],
+  "editors": [
+    {"id": "remotion", "label": "Remotion Studio", "run": ["npx", "remotion", "studio", "--port", "{port}", "--no-open"], "url": "http://localhost:{port}"}
+  ]
+}

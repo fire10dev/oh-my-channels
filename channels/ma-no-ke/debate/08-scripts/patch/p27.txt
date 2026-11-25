@@ -1,0 +1,34 @@
+v2 sửa theo agy (`debate/08-scripts/p27-agy.md`):
+- Rắn thần không nói câu nào. Sự hiện diện chỉ là tiếng thở ngầm, bóng dưới nước, và lời Ma Nó.
+- Thêm cảnh Tiến thử bịt ống thì nứt sàn, hút cạn thì đêm nước tự đùn lên. Hết cách mới khoan lại giếng.
+- Kết: Tiến bán vé "múc nước giếng cổ chữa lành" năm trăm nghìn cho khách. Làng vẫn gánh miễn phí lúc năm giờ sáng.
+@@
+| RAN | Rắn thần giếng: chỉ thấy bóng dài dưới nước và đôi mắt vàng; nói rất chậm, rất ít, như nước chảy trong lòng đất | vẽ mới | Thiền Tâm Đức, cao −4, tốc −20% | `aecho=0.8:0.7:120:0.4` + nước ngầm |
+%%
+| — | Rắn thần giếng: không thoại. Chỉ có bóng dài dưới nước, đôi mắt vàng, tiếng thở ngầm | vẽ mới | không | SFX "thở ngầm": nước ùng ục trầm, chậm, đều như hơi thở |
+@@
+| J09/cận (đôi mắt vàng dưới nước, không thấy đầu) | **RAN**: Ta… thở… được rồi. | nước ngầm ùng ục |
+%%
+| J09/cận (đôi mắt vàng dưới nước, không thấy đầu) | *(một hơi thở rất dài từ dưới lòng đất, như người vừa trồi lên mặt nước sau ba năm)* | thở ngầm dài 3 s |
+@@
+| J06/cận | **TIEN**: Đây là bể bơi năm sao! Không phải giếng làng! | |
+| J09/cận | **RAN**: Ngươi… lấp giếng của làng. Thì bể của ngươi… là giếng của làng. | |
+%%
+| J06/cận | **TIEN**: Đây là bể bơi năm sao! Không phải giếng làng! Bịt ống thoát lại! | |
+| J07/cận (sàn bê tông quanh bể nứt một đường dài, nước rỉ lên) | **MN**: Bịt ống thoát, sáng ra sàn quanh bể nứt một đường, nước rỉ lên qua kẽ gạch. Hút cạn bể, đêm ấy nước tự đùn lên đầy. Giếng thở bằng cách nào cũng được. | bê tông nứt "rắc" · thở ngầm |
+| S26/cận | **MN**: Ông Tiến lấp giếng của làng. Thì bể của ông… là giếng của làng. | |
+@@
+| J01/toàn (bể bơi nước xanh ấm, khách bơi vui) | **MN**: Bể bơi ấm lại. Khách năm sao bơi. Năm giờ sáng thì nhường sảnh cho các cụ gánh nước. Ảnh check-in đông nhất resort là cái giếng. | |
+| S33/toàn → S34/cận | **MN**: Lấp cái gì của làng thì nhớ chừa cho nó cái lỗ thở. Không chừa, nó thở qua chỗ mày quý nhất. | rít điếu cày |
+%%
+| J01/toàn (bể bơi nước xanh ấm, khách bơi vui) | **MN**: Bể bơi ấm lại. Năm giờ sáng, sảnh nhường cho các cụ gánh nước. Miễn phí, vì đó là điều kiện. | |
+| J06/cận-Tiến đứng cạnh giếng, sau lưng tấm biển giá vé | **TIEN**: Từ tám giờ, khách năm sao trải nghiệm "múc nước giếng cổ chữa lành". Năm trăm nghìn một gầu. Kín lịch tới tháng sau. | |
+| S33/toàn → S34/cận | **MN**: Làng gánh không mất tiền. Khách năm sao trả năm trăm nghìn để kéo đúng cái gầu ấy. Ông thần dưới giếng chắc đang cười. Mà cười thì… cũng chỉ nghe như nước sôi. | rít điếu cày · thở ngầm |
+@@
+| SH4 | Bóng dài hơn bề ngang bể | J08 | Đêm, đáy sâu 1,2 m, mặt nước không gợn | **RAN**: "Ta… thở… được rồi." |
+| SH5 | Bể vô cực thành giếng vô cực | J10 | Nước tràn về làng, dân xách xô lên | **RAN**: "Bể của ngươi là giếng của làng." |
+| SH6 | Giếng làng giữa sảnh 5 sao | J12 | Khoan lại giếng, 5 giờ sáng gánh nước | **MN**: "Ảnh check-in đông nhất là cái giếng." |
+%%
+| SH4 | Bóng dài hơn bề ngang bể | J08 | Đêm, đáy sâu 1,2 m, mặt nước không gợn | hơi thở dài từ lòng đất |
+| SH5 | Bể vô cực thành giếng vô cực | J10 | Nước tràn về làng, bịt ống thì nứt sàn | **MN**: "Bể của ông là giếng của làng." |
+| SH6 | 500 nghìn một gầu nước giếng | J12 | Làng gánh miễn phí, khách trả 500k | **MN**: "Ông thần chắc đang cười." |

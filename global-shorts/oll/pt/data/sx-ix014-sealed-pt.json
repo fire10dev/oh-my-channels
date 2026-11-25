@@ -1,0 +1,66 @@
+{
+ "title": "Quando o NORAD isolou suas equipes dentro da montanha Cheyenne",
+ "hook": "PRESOS NA MONTANHA",
+ "asof": "Dados de artigos da Força Aérea e da Força Espacial dos EUA",
+ "world": "mountain",
+ "long": "IX014",
+ "chapters": [
+  {
+   "id": "covid",
+   "hud": "DIA 30",
+   "chip": "MAR 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Em 2020, equipes ficaram isoladas dentro de uma montanha.",
+     "v": "tunnel",
+     "you": "tunnel"
+    },
+    {
+     "s": "Esta é a montanha Cheyenne, bunker nuclear do NORAD, no Colorado.",
+     "v": "mountain"
+    },
+    {
+     "s": "Normalmente, ninguém dorme aqui. As equipes vão para casa após o turno.",
+     "v": "gate"
+    },
+    {
+     "s": "Mas, com a COVID, NORAD e Comando Norte levaram equipes essenciais para dentro.",
+     "v": "tunnel",
+     "you": "tunnel"
+    },
+    {
+     "s": "Primeiro, elas se isolaram e fizeram testes.",
+     "v": "clinic"
+    },
+    {
+     "s": "Depois, trabalharam lá dentro por semanas.",
+     "v": "command",
+     "you": "command"
+    },
+    {
+     "s": "Cerca de cento e trinta pessoas fizeram turnos de doze horas.",
+     "v": "command",
+     "st": [
+      "~130",
+      "de plantão"
+     ]
+    },
+    {
+     "s": "Atrás de uma porta antiexplosão de vinte e cinco toneladas.",
+     "v": "door",
+     "plane": "door:shut"
+    },
+    {
+     "s": "Sob cerca de quinhentos e cinquenta metros de granito.",
+     "v": "mountain"
+    },
+    {
+     "s": "Você trabalharia um turno inteiro sem ver o sol?",
+     "v": "tunnel",
+     "you": "tunnel"
+    }
+   ]
+  }
+ ]
+}

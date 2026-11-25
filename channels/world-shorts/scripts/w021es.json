@@ -1,0 +1,148 @@
+{
+ "id": "w021es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#e11d48",
+ "cover_frame": 60,
+ "source": "Superficies: CIA World Factbook · Oficina de Estadística de Japón",
+ "music": "shared/library/music/yt-audio-library/Future Rennaisance - Godmode.mp3",
+ "beats": [
+  {
+   "say": "Japón es más grande que Alemania.",
+   "title": "JAPÓN ES MÁS GRANDE QUE ALEMANIA",
+   "cam": {
+    "lon": 137,
+    "lat": 37,
+    "span": 28
+   },
+   "hl": [
+    {
+     "a3": "JPN",
+     "color": "#e11d48"
+    }
+   ]
+  },
+  {
+   "say": "En los mapas del mundo parecen unas islitas. Pongámoslo sobre Europa, a tamaño real.",
+   "cam": {
+    "lon": 10,
+    "lat": 48,
+    "span": 40
+   },
+   "hl": [
+    {
+     "a3": "DEU",
+     "color": "#334155"
+    }
+   ],
+   "ghost": {
+    "a3": "JPN",
+    "to": [
+     12,
+     46
+    ],
+    "color": "#e11d48"
+   }
+  },
+  {
+   "say": "Se extiende unos tres mil kilómetros, desde Dinamarca hasta casi el sur de Italia.",
+   "cam": {
+    "lon": 12,
+    "lat": 46,
+    "span": 40
+   },
+   "ghost": {
+    "a3": "JPN",
+    "to": [
+     12,
+     46
+    ],
+    "color": "#e11d48"
+   }
+  },
+  {
+   "say": "Japón mide unos trescientos setenta y ocho mil kilómetros cuadrados. Alemania, trescientos cincuenta y siete mil.",
+   "cam": {
+    "lon": 12,
+    "lat": 46,
+    "span": 40
+   },
+   "ghost": {
+    "a3": "JPN",
+    "to": [
+     12,
+     46
+    ],
+    "color": "#e11d48"
+   },
+   "bars": {
+    "unit": " km²",
+    "items": [
+     {
+      "label": "Japón",
+      "value": 377975,
+      "color": "#e11d48"
+     },
+     {
+      "label": "Alemania",
+      "value": 357600,
+      "color": "#ffd23f"
+     },
+     {
+      "label": "Italia",
+      "value": 301340,
+      "color": "#22c55e"
+     },
+     {
+      "label": "R. U.",
+      "value": 243610,
+      "color": "#3b82f6"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Pero cerca de tres cuartas partes de Japón son montañas, así que sus más de ciento veinte millones de habitantes se apiñan en las costas planas.",
+   "cam": {
+    "lon": 138,
+    "lat": 36,
+    "span": 18
+   },
+   "hl": [
+    {
+     "a3": "JPN",
+     "color": "#e11d48"
+    }
+   ],
+   "pins": [
+    {
+     "lon": 139.69,
+     "lat": 35.69,
+     "text": "Tokio"
+    },
+    {
+     "lon": 135.5,
+     "lat": 34.69,
+     "text": "Osaka"
+    }
+   ]
+  },
+  {
+   "say": "Pequeño en el mapa, enorme en la vida real. Sígueme para más.",
+   "title": "NO TAN PEQUEÑO",
+   "cam": {
+    "lon": 137,
+    "lat": 37,
+    "span": 28
+   },
+   "hl": [
+    {
+     "a3": "JPN",
+     "color": "#e11d48"
+    }
+   ]
+  }
+ ]
+}

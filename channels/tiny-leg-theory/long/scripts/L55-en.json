@@ -1,0 +1,923 @@
+{
+ "id": "L55",
+ "lang": "en",
+ "title": "How to Turn Notes into Knowledge: 8 Ways to Make Studying Stick",
+ "description": "Taking notes is only useful if your brain can actually retrieve the information when it counts. In this video, we break down eight proven mechanisms to turn passive scribbles into active working knowledge using a two-column cue layout. Try our simple daily challenge to transform your study habits.",
+ "chapters": [
+  {
+   "title": "The Note-Taking Trap",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I spend hours taking neat notes in class, but during exams my mind goes completely blank.",
+     "text": "THE NOTE-TAKING TRAP",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. You are just giving your hand a workout while your brain sleeps on the bench.",
+     "text": "PASSIVE COPYING",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It feels so productive while I write, so why does none of that information actually stick?",
+     "text": "FALSE PROGRESS",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because passive copying is not lifting. Real memory formation requires active cognitive strain and effort.",
+     "text": "NO STRAIN NO GAIN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I have binders of summaries, but they feel completely useless when I sit down to test myself.",
+     "text": "USELESS SUMMARIES",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here are eight proven mechanisms to turn passive notes into real mental muscle and recall.",
+     "text": "EIGHT MECHANISMS",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Generative Learning",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Whenever my professor speaks in lecture, I rush to copy down every single spoken word.",
+     "text": "1. GENERATIVE LEARNING",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Congratulations, you are a human photocopier. Your fingers are moving while your intellect is asleep.",
+     "text": "HUMAN PHOTOCOPIER",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If I do not write down every detail immediately, won't I forget everything later?",
+     "text": "FEAR OF FORGETTING",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research on generative learning suggests you retain information best when you produce it yourself.",
+     "text": "PRODUCE NOT COPY",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So capturing the teacher's exact words is actually working against my own memory?",
+     "text": "EXACT WORDS FAIL",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "The brain conserves energy on passive inputs, but builds sturdy neural connections when generating answers.",
+     "text": "BUILD CONNECTIONS",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What should I do during the lecture instead of transcribing the presentation slides?",
+     "text": "WHAT IS THE PLAY?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Listen closely for two minutes, look away from the screen, and write your own summary.",
+     "text": "WRITE FROM MEMORY",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Writing from memory right away feels like a heavy mental workout.",
+     "text": "MENTAL WORKOUT",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Good. That mental friction is how you know your brain is doing actual work.",
+     "text": "MENTAL FRICTION",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So summarizing facts in my own words creates the foundation of the topic.",
+     "text": "OWN WORDS ONLY",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Generating facts is step one, but isolated facts collapse unless you actively anchor them to concepts you already know.",
+     "text": "LINK TO SOMETHING",
+     "color": "ink",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "2. Elaboration",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I have pages of vocabulary definitions from my online course, but each one feels completely isolated.",
+     "text": "2. ELABORATION",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Isolated bullet points are like gym memberships you never use. They vanish within a week.",
+     "text": "VANISHING POINTS",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does my memory discard separate facts so quickly after I review them?",
+     "text": "MEMORY DISCARD",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is elaboration failure. The brain needs to anchor new concepts to real things you already know.",
+     "text": "ANCHOR TO REALITY",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So if a fact stands alone, it has nowhere to latch on?",
+     "text": "NO LATCH POINT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. The mind discards orphan facts, but protects information that connects with what you already grasp.",
+     "text": "PROTECT THE WEB",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I add elaboration into my notebook without writing whole extra essays?",
+     "text": "PRACTICAL FIX",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Next to each definition, write one sentence explaining how it connects to a personal experience.",
+     "text": "LINK TO EXPERIENCE",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Like explaining how inflation affected my grocery bill last Saturday?",
+     "text": "GROCERY BILL",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bingo. Tying a dry formula to your real wallet gives your brain a permanent anchor.",
+     "text": "PERMANENT ANCHOR",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Now the concept feels meaningful rather than just a bunch of random textbook words.",
+     "text": "MEANINGFUL WEB",
+     "color": "green",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Connecting concepts is great, but messy pages will still scatter your focus into pieces.",
+     "text": "SCATTERED FOCUS",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "3. Organization Effect",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "My notebook looks like a tornado hit it, with random notes scribbled all over the margins.",
+     "text": "3. ORGANIZATION EFFECT",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is not a notebook, buddy. That is a visual crime scene giving you instant fatigue.",
+     "text": "CRIME SCENE",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does the physical organization of my notes really impact how well I recall them?",
+     "text": "DOES FORMAT COUNT?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cognitive science suggests structured material is often much easier for the mind to encode and retrieve.",
+     "text": "CHUNKING BEATS CHAOS",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does our brain care so much about clean categories and visual structure?",
+     "text": "BRAIN ON CHUNKS",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Working memory has tight limits. Organizing details into logical groups frees up precious mental bandwidth.",
+     "text": "FREE BANDWIDTH",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How can I set up my pages so the structure actually works for me?",
+     "text": "PAGE TEMPLATE",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use the Cornell cue layout: notes on the right, and write question cues on the left right after class.",
+     "text": "TWO-COLUMN CUES",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So the right side holds core facts, and the left side has recall questions?",
+     "text": "QUESTION AND FACT",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Yes. That layout transforms an ordinary piece of paper into an instant self-testing station.",
+     "text": "TESTING STATION",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Covering the right column turns reviewing notes into an immediate active quiz.",
+     "text": "COVER AND QUIZ",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Structure organizes your thoughts, but relying only on written words leaves half your sensory power unused.",
+     "text": "UNLOCK BOTH EYES",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "4. Dual Coding",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I have pages of dense handwriting, but after ten minutes my eyes glaze over completely.",
+     "text": "4. DUAL CODING",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Walls of plain text put anyone to sleep. You are bench pressing with one arm, buddy.",
+     "text": "BENCH WITH ONE ARM",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What is that second engine I should be using when I take notes?",
+     "text": "SECOND ARM",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dual coding. The human brain stores verbal descriptions and visual images in two separate processing pathways.",
+     "text": "TWO BRAIN HIGHWAYS",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So words and images create two different access points to the same memory?",
+     "text": "TWO ACCESS POINTS",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests combining a simple sketch with words often substantially boosts recall.",
+     "text": "BOOST RECALL",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The problem is that I am completely terrible at drawing anything artistic.",
+     "text": "BAD AT DRAWING",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nobody cares about art here. A basic box, an arrow, or a stick figure does the job.",
+     "text": "STICK FIGURES WIN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So sketching a tiny timeline or flow diagram gives my eye an immediate anchor?",
+     "text": "FLOW DIAGRAM",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Combining text with a simple sketch gives your brain two separate pathways to retrieve that same memory.",
+     "text": "DUAL PATHWAYS",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Now reviewing feels like navigating an illustrated map instead of wandering a desert.",
+     "text": "ILLUSTRATED MAP",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sketches give you a map, but skimming them without deep mental effort leaves you stranded.",
+     "text": "AVOID SKIMMING",
+     "color": "red",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "5. Depth of Processing",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I often find myself re-reading the exact same page three times while absorbing absolutely zero information.",
+     "text": "5. DEPTH OF PROCESSING",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your eyeballs are scanning, but your cognitive processor is turned completely off. Pure autopilot.",
+     "text": "PURE AUTOPILOT",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does passive reading feel like real studying when it clearly produces zero results?",
+     "text": "THE ILLUSION",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It boils down to levels of processing. Surface inspection never penetrates deep enough to form lasting memories.",
+     "text": "SURFACE VS MEANING",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What actually happens when we move from shallow processing to deep processing?",
+     "text": "SHALLOW TO DEEP",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Shallow processing notes visual shapes and sounds. Deep processing extracts meaning, context, and real-world significance.",
+     "text": "EXTRACT MEANING",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I trigger deep semantic processing while I am writing my study notes?",
+     "text": "TRIGGER DEPTH",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Force yourself to write down why the concept matters and what happens if it fails.",
+     "text": "ASK WHY IT MATTERS",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Asking what happens when it fails forces me to evaluate the core mechanics.",
+     "text": "FIND BREAK POINTS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Evaluating meaning burns calories, but that mental effort is what locks knowledge into place.",
+     "text": "LOCK IT IN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So true understanding requires digging beneath the words to find the practical function.",
+     "text": "FIND THE FUNCTION",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Understanding the function is vital, but you never truly know it until you can explain it aloud.",
+     "text": "EXPLAIN IT ALOUD",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "6. Self Explanation",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I watch video lectures and nod my head, feeling like I understand every single idea effortlessly.",
+     "text": "6. SELF EXPLANATION",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nodding along feels easy, but psychologists call this the illusion of explanatory depth.",
+     "text": "ILLUSION OF DEPTH",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then why do I completely freeze up the second I sit down to do practice problems?",
+     "text": "EXAM FREEZE",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You skipped self-explanation. Explaining concepts to yourself forces your brain to identify missing puzzle pieces.",
+     "text": "EXPOSE BLIND SPOTS",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So listening to an explanation is completely different from generating the explanation myself?",
+     "text": "PASSIVE LISTENING",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Night and day. Comprehension feels smooth until you try putting the moving parts into words.",
+     "text": "PUT PARTS IN WORDS",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What is the best way to practice self-explanation during a study session?",
+     "text": "HOW TO PRACTICE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Look at your notes, close the book, and explain the mechanism aloud in your own words.",
+     "text": "TEACH IT ALOUD",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The second I stumble over a phrase, I instantly notice where my knowledge breaks.",
+     "text": "EXPOSE THE CRACKS",
+     "color": "green",
+     "actor": "shocked",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spotting the cracks is the entire goal. Now you know exactly what notes need another pass.",
+     "text": "FIX THE CRACKS",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Speaking it out loud turns foggy theory into crisp, confident understanding.",
+     "text": "CONFIDENT RECALL",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Speaking aloud builds confidence, but rehearsing one single skill in isolation leaves you unprepared for real tests.",
+     "text": "DON'T ISOLATE",
+     "color": "red",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "7. Interleaving",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I usually spend entire afternoons drilling one single type of math problem until it feels effortless.",
+     "text": "7. INTERLEAVING",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Effortless practice is deceptive, buddy. Doing thirty identical reps just puts your brain into standby mode.",
+     "text": "STANDBY MODE",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why is practicing the same topic repeatedly bad if I am getting all the answers right?",
+     "text": "REPEATED PRACTICE",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Look at interleaving research. Mixing different topics forces you to decide which strategy applies to each problem.",
+     "text": "SHUFFLE THE ORDER",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So when all problems look the same, I never actually practice choosing the strategy?",
+     "text": "CHOOSING STRATEGIES",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Block practice tells you the answer before you even read the question. Real tests never do that.",
+     "text": "TESTS NEVER DO THAT",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I organize my notes and practice sets to start interleaving effectively?",
+     "text": "MIX THE DECK",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When testing your cue column, jump between pages from three different chapters at random instead of reading in order.",
+     "text": "JUMP BETWEEN PAGES",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Switching topics feels much harder, but it forces me to think critically on every single page.",
+     "text": "CRITICAL THINKING",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cognitive science calls that friction desirable difficulty. It builds durable, flexible recall for test day.",
+     "text": "DESIRABLE DIFFICULTY",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So mixing up the practice creates skills that can handle unexpected questions.",
+     "text": "HANDLE SURPRISES",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Interleaving trains your tactical choice, but foreign concepts still require a mental model to make sense.",
+     "text": "NEED A MODEL",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "8. Analogical Thinking",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Whenever I encounter high-level abstract theory, the dense academic terminology completely shuts my brain down.",
+     "text": "8. ANALOGICAL THINKING",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Academics love twenty-dollar words. Your job is to strip off the jargon and find the actual machinery.",
+     "text": "STRIP OFF JARGON",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How can I understand complicated mechanics when the entire subject matter feels totally alien to me?",
+     "text": "TOTALLY ALIEN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use analogical reasoning. Your mind decodes unfamiliar systems by mapping their structure onto familiar daily experiences.",
+     "text": "MAP THE UNFAMILIAR",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Like understanding computer memory by thinking of a librarian sorting books into shelves?",
+     "text": "LIBRARIAN AND SHELVES",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly that. Suddenly the mysterious technical jargon transforms into an intuitive physical process you already understand.",
+     "text": "INTUITIVE PICTURE",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I embed these analogies directly into my everyday study notes?",
+     "text": "NOTEBOOK METAPHORS",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Whenever you write down a hard concept, write a one-line real-world metaphor in the margin.",
+     "text": "METAPHOR IN MARGIN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So when I review, the metaphor triggers the technical explanation instantly.",
+     "text": "INSTANT RETRIEVAL",
+     "color": "green",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain relies on familiar patterns. Analogies build instant bridges across the gap of abstraction.",
+     "text": "BRIDGE THE GAP",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That makes even the most intimidating textbook topics feel accessible and straightforward.",
+     "text": "ACCESSIBLE TOPICS",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Analogies unlock tough ideas, but eight separate tools mean nothing without an actual daily routine to practice them.",
+     "text": "NEED A ROUTINE",
+     "color": "ink",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "The Seven-Day Reset",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Eight mechanisms is a lot of new techniques to process all at once.",
+     "text": "THE SEVEN-DAY RESET",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Do not overthink it. Rule one: build two-column cue notes instead of copying slides.",
+     "text": "GENERATE AND CHUNK",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And rule two turns those flat words into deep memory anchors?",
+     "text": "DEEP ANCHORS",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rule two: sketch visual diagrams and connect concepts with intuitive personal analogies.",
+     "text": "SKETCH AND CONNECT",
+     "color": "green",
+     "actor": "writing",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And what is the third rule to test if it actually stuck?",
+     "text": "FLEXIBLE RECALL",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rule three: test yourself aloud and shuffle diverse topics so your recall stays flexible under pressure.",
+     "text": "TEST AND SHUFFLE",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That makes it clear, but how do I actually begin without feeling overwhelmed?",
+     "text": "HOW TO START?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Take our seven-day challenge: create one two-column cue page every day, fold it, and quiz yourself before each study session.",
+     "text": "SEVEN DAY CHALLENGE",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "One page every day, testing cues instead of passive re-reading.",
+     "text": "DAILY REPS",
+     "color": "green",
+     "actor": "reading",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Subscribe to Tiny Leg Theory for more practical mental reps to power up your brain every single week.",
+     "text": "SUBSCRIBE FOR REPS",
+     "color": "green",
+     "actor": "front",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

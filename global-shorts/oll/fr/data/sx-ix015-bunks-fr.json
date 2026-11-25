@@ -1,0 +1,75 @@
+{
+ "title": "Dans la chambre ronde d’un phare #shorts",
+ "hook": "3 HOMMES, 1 CHAMBRE",
+ "asof": "Histoire : Archives nationales d’Écosse",
+ "world": "lighthouse",
+ "long": "IX015",
+ "chapters": [
+  {
+   "id": "sleep",
+   "hud": "JOUR 2",
+   "chip": "02:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Trois hommes dormaient dans cette pièce ronde, en pleine mer.",
+     "v": "bedroom",
+     "you": "bunk"
+    },
+    {
+     "s": "Voici le phare de Bell Rock, au large de l’Écosse, achevé en 1810.",
+     "v": "wide",
+     "st": [
+      "1810",
+      "Bell Rock éclairé"
+     ]
+    },
+    {
+     "s": "La chambre fait environ quatre mètres de diamètre.",
+     "v": "bedroom",
+     "st": [
+      "4 M",
+      "chambre ronde"
+     ]
+    },
+    {
+     "s": "Trois couchettes épousaient la courbe du mur.",
+     "v": "bunk"
+    },
+    {
+     "s": "Un rideau pour garder un peu d’intimité.",
+     "v": "bunk",
+     "plane": "curtain",
+     "you": "bunk"
+    },
+    {
+     "s": "Entre les rondes de nuit, ils remontaient l’horloge de la lampe toutes les trente minutes.",
+     "v": "clock"
+    },
+    {
+     "s": "L’eau douce était rationnée : ni douche ni bain.",
+     "v": "store",
+     "you": "store"
+    },
+    {
+     "s": "Le rocher n’a eu ses toilettes qu’en 1964.",
+     "v": "store",
+     "st": [
+      "1964",
+      "premières toilettes"
+     ]
+    },
+    {
+     "s": "Dehors, la mer martelait la tour.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "Tu pourrais y dormir un mois ?",
+     "v": "bunk",
+     "you": "bunk"
+    }
+   ]
+  }
+ ]
+}

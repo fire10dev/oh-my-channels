@@ -1,0 +1,269 @@
+{
+ "SH1": {
+  "bg": {
+   "src": "p03/img/B05.png",
+   "crop": [
+    180,
+    370,
+    800
+   ],
+   "filter": "brightness(1.12) contrast(1.06)",
+   "sw": 1344
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "HỒ SƠ",
+    "x": 540,
+    "y": 50,
+    "size": 210,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "MA XÓ",
+    "x": 540,
+    "y": 250,
+    "size": 240,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ },
+ "SH2": {
+  "bg": {
+   "src": "p03/img/X06.png",
+   "crop": [
+    593,
+    85,
+    600
+   ],
+   "filter": "brightness(1.12) contrast(1.06)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "NHÀ CÓ",
+    "x": 540,
+    "y": 140,
+    "size": 210,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "MA XÓ?",
+    "x": 540,
+    "y": 340,
+    "size": 240,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ },
+ "SH3": {
+  "bg": {
+   "src": "p03/img/X06.png",
+   "crop": [
+    1050,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.06)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "ĂN OẢN",
+    "x": 540,
+    "y": 20,
+    "size": 210,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "KHÔNG?",
+    "x": 540,
+    "y": 220,
+    "size": 240,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ },
+ "SH4": {
+  "bg": {
+   "src": "p03/img/X02.png",
+   "crop": [
+    200,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.06)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "BÁN VÉ",
+    "x": 540,
+    "y": 130,
+    "size": 210,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "XEM?",
+    "x": 540,
+    "y": 330,
+    "size": 240,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ },
+ "SH5": {
+  "bg": {
+   "src": "p03/img/X04.png",
+   "crop": [
+    1100,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.06)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "10 MÉT",
+    "x": 540,
+    "y": 150,
+    "size": 210,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "…?",
+    "x": 540,
+    "y": 350,
+    "size": 240,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ },
+ "SH6": {
+  "bg": {
+   "src": "p03/img/X10.png",
+   "crop": [
+    1236,
+    0,
+    648
+   ],
+   "filter": "brightness(1.35) contrast(1.1)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "AI ĐANG",
+    "x": 540,
+    "y": 1120,
+    "size": 210,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "ĐẾM?",
+    "x": 540,
+    "y": 1320,
+    "size": 240,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ },
+ "SH7": {
+  "bg": {
+   "src": "p03/img/X12.png",
+   "crop": [
+    700,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.06)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 85%, rgba(0,0,0,.35) 100%)",
+  "texts": [
+   {
+    "t": "HŨ CỦA",
+    "x": 540,
+    "y": 900,
+    "size": 210,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "AI?",
+    "x": 540,
+    "y": 1100,
+    "size": 240,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "id": "w016es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#16a34a",
+ "cover_frame": 60,
+ "source": "Superficies y fronteras: CIA World Factbook · IBGE",
+ "music": "shared/library/music/yt-audio-library/A Serenade to Veracruz - Jimena Contreras.mp3",
+ "beats": [
+  {
+   "say": "Brasil es más grande que Estados Unidos continental.",
+   "title": "BRASIL ES MÁS GRANDE QUE EE. UU.",
+   "cam": {
+    "lon": -55,
+    "lat": -12,
+    "span": 55
+   },
+   "hl": [
+    {
+     "a3": "BRA",
+     "color": "#16a34a"
+    }
+   ]
+  },
+  {
+   "say": "Ponlo encima de Estados Unidos, a tamaño real.",
+   "cam": {
+    "lon": -98,
+    "lat": 39,
+    "span": 70
+   },
+   "hl": [
+    {
+     "a3": "USA",
+     "color": "#334155"
+    }
+   ],
+   "ghost": {
+    "a3": "BRA",
+    "to": [
+     -97,
+     38
+    ],
+    "color": "#16a34a"
+   }
+  },
+  {
+   "say": "Brasil mide ocho millones y medio de kilómetros cuadrados. Los cuarenta y ocho estados continentales, unos ocho millones cien mil.",
+   "cam": {
+    "lon": -97,
+    "lat": 38,
+    "span": 70
+   },
+   "ghost": {
+    "a3": "BRA",
+    "to": [
+     -97,
+     38
+    ],
+    "color": "#16a34a"
+   },
+   "bars": {
+    "unit": "M km²",
+    "items": [
+     {
+      "label": "Brasil",
+      "value": 8.5,
+      "color": "#16a34a"
+     },
+     {
+      "label": "Los 48 estados continentales",
+      "value": 8.1,
+      "color": "#3b82f6"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Tiene frontera con diez países. Con todos los de Sudamérica, menos dos: Chile y Ecuador.",
+   "cam": {
+    "lon": -60,
+    "lat": -18,
+    "span": 55
+   },
+   "hl": [
+    {
+     "a3": "BRA",
+     "color": "#16a34a"
+    },
+    {
+     "a3": "CHL",
+     "color": "#ef4444",
+     "label": "Chile"
+    },
+    {
+     "a3": "ECU",
+     "color": "#ef4444",
+     "label": "Ecuador"
+    }
+   ],
+   "big": {
+    "value": "10",
+    "label": "vecinos"
+   }
+  },
+  {
+   "say": "Y cerca del sesenta por ciento de la selva amazónica está dentro de Brasil.",
+   "cam": {
+    "lon": -60,
+    "lat": -5,
+    "span": 40
+   },
+   "hl": [
+    {
+     "a3": "BRA",
+     "color": "#15803d"
+    }
+   ],
+   "big": {
+    "value": "60%",
+    "label": "de la Amazonía"
+   }
+  },
+  {
+   "say": "Un país del tamaño de un continente. Sígueme para más.",
+   "title": "UN PAÍS DEL TAMAÑO DE UN CONTINENTE",
+   "cam": {
+    "lon": -55,
+    "lat": -12,
+    "span": 55
+   },
+   "hl": [
+    {
+     "a3": "BRA",
+     "color": "#16a34a"
+    }
+   ]
+  }
+ ]
+}

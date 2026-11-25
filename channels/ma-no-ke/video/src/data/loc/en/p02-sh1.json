@@ -1,0 +1,382 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 41.973,
+"shots": [
+{
+"img": "p02/img/N04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 4.413,
+"a": [
+486,
+660,
+460
+],
+"b": [
+486,
+640,
+340
+],
+"flash": 1
+},
+{
+"img": "p02/img/N01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.413,
+"t1": 7.257,
+"a": [
+870,
+576,
+648
+],
+"b": [
+870,
+650,
+460
+]
+},
+{
+"img": "p02/img/N01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 7.257,
+"t1": 10.13,
+"a": [
+384,
+650,
+460
+],
+"b": [
+384,
+640,
+340
+]
+},
+{
+"img": "p02/img/N03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.13,
+"t1": 13.412,
+"a": [
+1150,
+576,
+648
+],
+"b": [
+1150,
+470,
+460
+]
+},
+{
+"img": "p02/img/N12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.412,
+"t1": 17.665,
+"a": [
+700,
+420,
+460
+],
+"b": [
+660,
+360,
+340
+],
+"shake": 5
+},
+{
+"img": "p02/img/N05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.665,
+"t1": 23.874,
+"a": [
+900,
+576,
+648
+],
+"b": [
+666,
+640,
+460
+]
+},
+{
+"img": "p02/img/N06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.874,
+"t1": 28.086,
+"a": [
+1664,
+576,
+648
+],
+"b": [
+1664,
+600,
+460
+]
+},
+{
+"img": "p02/img/N05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 28.086,
+"t1": 30.506,
+"a": [
+1434,
+460,
+460
+],
+"b": [
+1434,
+440,
+340
+]
+},
+{
+"img": "p02/img/N03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 30.506,
+"t1": 33.432,
+"a": [
+1150,
+470,
+460
+],
+"b": [
+1150,
+440,
+340
+]
+},
+{
+"img": "p02/img/N04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 33.432,
+"t1": 36.375,
+"a": [
+1075,
+420,
+460
+],
+"b": [
+1075,
+360,
+340
+]
+},
+{
+"img": "p02/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 36.375,
+"t1": 41.473,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p02/img/cut_B02.png",
+"size": 1344,
+"t0": 36.375,
+"t1": 41.473,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.15,
+"t1": 4.413,
+"text": "CLOCK IN ✔ · CLOCK OUT ✖",
+"color": "#ffd84a"
+},
+{
+"t0": 11.949,
+"t1": 13.412,
+"text": "THE FACTORY IS HOME ❤",
+"color": "#ff8fb1"
+},
+{
+"t0": 15.531,
+"t1": 17.665,
+"text": "ATTENDANCE BONUS DOCKED",
+"color": "#ff5a4a"
+},
+{
+"t0": 36.375,
+"t1": 41.473,
+"text": "WHAT'S THE BOSS UP TO?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.35
+},
+{
+"t": 2.924,
+"src": "sh6/sfx/snap.wav",
+"vol": 0.5
+},
+{
+"t": 4.413,
+"src": "p02/sfx/may.wav",
+"vol": 0.45
+},
+{
+"t": 21.24,
+"src": "p02/sfx/mayoff.wav",
+"vol": 0.6
+},
+{
+"t": 23.874,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 36.375,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 40.392,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 3.963,
+"text": "This factory time clock only has a clock-in button. No clock-out."
+},
+{
+"t": 4.413,
+"dur": 5.466,
+"text": "Case file. Phat Dat Garment Factory. Three hundred workers. Night shift till two a.m."
+},
+{
+"t": 10.13,
+"dur": 3.032,
+"text": "Director Phat. His catchphrase: “The factory is home.”"
+},
+{
+"t": 13.412,
+"dur": 3.853,
+"text": "Overtime is dedication! Leave early, lose your attendance bonus!"
+},
+{
+"t": 17.665,
+"dur": 5.958,
+"text": "Tran Van Loc. Sewing team three. Thursday, two ten a.m. He slumped over his sewing machine."
+},
+{
+"t": 23.874,
+"dur": 3.612,
+"text": "He didn't get back up. The log says: two ten. At the factory."
+},
+{
+"t": 28.086,
+"dur": 1.92,
+"text": "Mr. Loc… Mr. Loc."
+},
+{
+"t": 30.506,
+"dur": 5.62,
+"text": "The first thing the boss asked wasn't how Loc was doing. He asked if the camera covered that spot."
+},
+{
+"t": 36.375,
+"dur": 4.098,
+"text": "What was the boss up to? I'll tell you next time. Full story on the channel."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/en/vo/3f4f4a58de.wav"
+},
+{
+"t": 4.413,
+"src": "loc/en/vo/4c735acf96.wav"
+},
+{
+"t": 10.13,
+"src": "loc/en/vo/443f8994d4.wav"
+},
+{
+"t": 13.412,
+"src": "loc/en/vo/8f0670bd5d.wav"
+},
+{
+"t": 17.665,
+"src": "loc/en/vo/666c8876ed.wav"
+},
+{
+"t": 23.874,
+"src": "loc/en/vo/8be516f1d7.wav"
+},
+{
+"t": 28.086,
+"src": "loc/en/vo/eae7de0c50.wav"
+},
+{
+"t": 30.506,
+"src": "loc/en/vo/e3e0e8907a.wav"
+},
+{
+"t": 36.375,
+"src": "loc/en/vo/2729a6e681.wav"
+}
+],
+"mutes": [
+[
+23.674,
+28.086
+],
+[
+27.886,
+30.506
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

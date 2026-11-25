@@ -1,0 +1,744 @@
+[
+ {
+  "id": "s413",
+  "mascot": "pen",
+  "title": "Why That Simple Email Stalls",
+  "mechanism": "Decision Avoidance",
+  "lines": [
+   {
+    "vo": "A simple email sits unanswered for three days because you freeze choosing a reply.",
+    "text": "FROZEN OVER EMAIL",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "It is simple, yet typing a reply feels strangely heavy.",
+    "text": "FEELS SO HEAVY",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "That is decision avoidance. Your brain can easily mistake choosing for danger.",
+    "text": "THREAT RESPONSE",
+    "color": "red",
+    "actor": "panic",
+    "prop": "brain"
+   },
+   {
+    "vo": "Postponing brings relief, but that open loop quietly drains you.",
+    "text": "OPEN LOOPS DRAIN",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Try the three-minute rule. Send one rough draft right away.",
+    "text": "THREE-MINUTE RULE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "A finished reply clears your mind better than waiting for perfection.",
+    "text": "DONE BEATS PERFECT",
+    "color": "gold",
+    "actor": "think",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s413vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao ban ngai tra loi tin nhan?",
+  "title_vi": "Vì sao bạn ngại trả lời tin nhắn?",
+  "mechanism": "Decision Avoidance",
+  "lines": [
+   {
+    "vo": "Tin nhắn Zalo đã xem từ hôm qua, mà bạn chưa gõ nổi câu trả lời.",
+    "text": "HIỆN ĐÃ XEM",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Sợ nói sai ý sếp nên mở khung chat lên là thấy nặng trĩu.",
+    "text": "SỢ NÓI SAI Ý",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Đó là né tránh quyết định. Não rất dễ phóng đại việc lựa chọn thành nguy cơ.",
+    "text": "NÉ TRÁNH LỰA CHỌN",
+    "color": "red",
+    "actor": "panic",
+    "prop": "brain"
+   },
+   {
+    "vo": "Trì hoãn giúp nhẹ nhõm tức thì, nhưng lại âm thầm rút cạn pin của bạn.",
+    "text": "RÚT CẠN NĂNG LƯỢNG",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Thử quy tắc ba phút. Gõ một câu ngắn gọn rồi bấm gửi luôn.",
+    "text": "QUY TẮC 3 PHÚT",
+    "color": "green",
+    "actor": "writing",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Gửi đi một câu chưa hoàn hảo có nhẹ lòng hơn ôm mãi lo âu?",
+    "text": "GỬI LUÔN CHO NHẸ?",
+    "color": "gold",
+    "actor": "think",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s414",
+  "mascot": "buff",
+  "title": "The Group Chat Dinner Freeze",
+  "mechanism": "Diffusion of Blame",
+  "lines": [
+   {
+    "vo": "Someone asks where to eat in group chat. Total silence.",
+    "text": "GROUP CHAT SILENCE",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Diffusion of blame. If nobody chooses, nobody takes the heat.",
+    "text": "BLAME DIFFUSION",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Everyone waits for a volunteer while their stomachs growl.",
+    "text": "EVERYONE STARVING",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Stop asking open questions. Pitch two choices: tacos or pizza by seven.",
+    "text": "GIVE TWO OPTIONS",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Pick two and set a timer. Treat deciding like a quick warm-up rep.",
+    "text": "ONE QUICK REP",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s414vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Hom nay an gi ma khong ai chiu chot?",
+  "title_vi": "Hôm nay ăn gì mà không ai chịu chốt?",
+  "mechanism": "Diffusion of Blame",
+  "lines": [
+   {
+    "vo": "Nhóm bạn hỏi trưa nay ăn gì, lập tức cả lũ im bặt.",
+    "text": "TRƯA NAY ĂN GÌ?",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Tâm lý sợ gánh trách nhiệm. Chọn quán dở thì mang tiếng, nên im.",
+    "text": "SỢ GÁNH TRÁCH NHIỆM",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Ai cũng đợi đứa khác mở lời, còn bụng thì đói meo.",
+    "text": "ĐÓI MEO CẢ LŨ",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Đừng hỏi câu mở. Quăng luôn hai lựa chọn: cơm tấm hay bún chả.",
+    "text": "CHỐT 2 QUÁN THÔI",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Hạn chót mười hai giờ trưa. Coi như bài khởi động, chốt xong đi ăn.",
+    "text": "BÀI KHỞI ĐỘNG",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s415",
+  "mascot": "pen",
+  "title": "Why You Always Order What They Get",
+  "mechanism": "The Default Effect",
+  "lines": [
+   {
+    "vo": "My coworker asks for my coffee order, and I mumble whatever.",
+    "text": "WHATEVER YOU GET",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "I secretly want tea, but repeating their routine takes zero effort.",
+    "text": "ZERO EFFORT ROUTINE",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "That is the default effect. We treat existing setups like rules.",
+    "text": "THE DEFAULT EFFECT",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Your brain lazily assumes everyone else knows better than you.",
+    "text": "ASSUMING THEY KNOW",
+    "color": "red",
+    "actor": "think",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Pre-commit your order before anyone even asks.",
+    "text": "PRE-COMMIT EARLY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Locking in a personal default removes all hesitation in the moment.",
+    "text": "LOCK YOUR CHOICE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Deciding for yourself feels natural once you decide in advance.",
+    "text": "DECIDE IN ADVANCE",
+    "color": "gold",
+    "actor": "front",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s415vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao ban luon uong mon nguoi khac goi?",
+  "title_vi": "Sao bạn luôn uống món người khác gọi?",
+  "mechanism": "The Default Effect",
+  "lines": [
+   {
+    "vo": "Phòng gom đơn trà sữa, bạn lại bảo uống gì cũng được cho tiện.",
+    "text": "UỐNG GÌ CŨNG ĐƯỢC",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Thực ra thèm hồng trà ít đường, nhưng lặp lại món người khác thấy nhàn hơn.",
+    "text": "NGẠI NÓI Ý MÌNH",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Hiệu ứng mặc định khiến não trôi theo phương án có sẵn ít tốn sức.",
+    "text": "HIỆU ỨNG MẶC ĐỊNH",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Ta hay vô thức tin rằng người khác chọn hộ sẽ hợp lý hơn.",
+    "text": "TƯỞNG NGƯỜI TA ĐÚNG",
+    "color": "red",
+    "actor": "think",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Hãy chốt sẵn món ruột của mình từ trước khi mở ứng dụng.",
+    "text": "CHỐT MÓN RUỘT TRƯỚC",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Khi ai hỏi, câu trả lời đã nằm sẵn ngay đầu lưỡi.",
+    "text": "CÓ SẴN CÂU TRẢ LỜI",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Tự chọn món yêu thích là bước đầu tiên để giữ quyền tự chủ.",
+    "text": "GIỮ QUYỀN TỰ CHỦ",
+    "color": "gold",
+    "actor": "front",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s416",
+  "mascot": "buff",
+  "title": "Why You Eat the Exact Same Lunch",
+  "mechanism": "Status Quo Bias",
+  "lines": [
+   {
+    "vo": "Same noodles at the same counter for two years. Thrilling, buddy.",
+    "text": "SAME LUNCH AGAIN",
+    "color": "red",
+    "actor": "snack",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Status quo bias. Your brain treats familiar boredom as safe.",
+    "text": "STATUS QUO BIAS",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "You fear one disappointing meal far more than missing something amazing.",
+    "text": "FEARING BAD MEALS",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Staying in this rut costs you variety, energy, and excitement.",
+    "text": "THE HIDDEN RUT",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Commit to a tiny trial run. Try one new stall this Thursday.",
+    "text": "ONE TEST RUN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "One rep outside your comfort zone won't break you. Move your feet.",
+    "text": "MOVE YOUR FEET",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s416vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "An mai mot quan vi ngai doi moi?",
+  "title_vi": "Ăn mãi một quán vì ngại đổi mới?",
+  "mechanism": "Status Quo Bias",
+  "lines": [
+   {
+    "vo": "Trưa nào cũng đúng quán cơm bình dân dưới sảnh suốt một năm. Ổn định ghê.",
+    "text": "ĂN MÃI MỘT QUÁN",
+    "color": "red",
+    "actor": "snack",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Thiên kiến hiện trạng. Não coi sự quen thuộc là an toàn tuyệt đối.",
+    "text": "BÁM LẤY QUEN THUỘC",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Sợ ăn phải bữa dở nhiều hơn là mong tìm được quán ngon.",
+    "text": "SỢ GẶP QUÁN DỞ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Cứ bám lấy vòng an toàn thì vị giác hay cuộc sống cũng thành nhạt nhẽo.",
+    "text": "VÒNG LẶP NHẠT NHẼO",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Không cần đổi cả đời. Thứ năm này thử đúng một quán mới đối diện.",
+    "text": "THỬ ĐÚNG 1 LẦN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Coi như một hiệp tập đổi gió. Nhấc chân lên đi thử xem nào.",
+    "text": "BƯỚC KHỎI LỐI MÒN",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s417",
+  "mascot": "pen",
+  "title": "Frozen Between Two Good Choices",
+  "mechanism": "Inner Ambivalence",
+  "lines": [
+   {
+    "vo": "Last night I spent forty minutes comparing two laptop bags online.",
+    "text": "FORTY MINUTES LOST",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "One looked sharper. The other had better pockets. Complete freeze.",
+    "text": "FROZEN BETWEEN TWO",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Inner ambivalence strikes when two equal desires pull you apart.",
+    "text": "INNER AMBIVALENCE",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Picking option A stings because you give up the perks of option B.",
+    "text": "LEAVING PERKS BEHIND",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "When you are stuck in a tie, just flip a coin.",
+    "text": "FLIP A COIN",
+    "color": "green",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "While the coin is mid-air, you will instantly realize your real wish.",
+    "text": "FEEL YOUR GUT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "If you feel disappointed by the outcome, your answer is clear.",
+    "text": "THE ANSWER EMERGES",
+    "color": "green",
+    "actor": "front",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Which choice were you secretly hoping would win?",
+    "text": "WHAT DID YOU HOPE?",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "brain"
+   }
+  ]
+ },
+ {
+  "id": "s417vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao so sanh mai khong chon duoc?",
+  "title_vi": "Vì sao so sánh mãi không chọn được?",
+  "mechanism": "Inner Ambivalence",
+  "lines": [
+   {
+    "vo": "Lướt sàn thương mại đến nửa đêm để so hai cái balo rồi tắt app.",
+    "text": "SO SÁNH NỬA ĐÊM",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Một cái đẹp mã, một cái nhiều ngăn. Não bạn hoàn toàn tê liệt.",
+    "text": "HOÀN TOÀN TÊ LIỆT",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Lưỡng lự nội tâm xuất hiện khi hai mong muốn ngang ngửa giằng xé bạn.",
+    "text": "LƯỠNG LỰ NỘI TÂM",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Chọn món này làm ta tiếc hùi hụi những điểm tốt của món kia.",
+    "text": "TIẾC MÓN BỎ LẠI",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Cách gỡ nút thắt rất đơn giản: hãy tung một đồng xu.",
+    "text": "TUNG ĐỒNG XU LÊN",
+    "color": "green",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Khoảnh khắc đồng xu bay trên không, bạn sẽ biết lòng mình nghiêng đâu.",
+    "text": "LẮNG NGHE TRỰC GIÁC",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Nếu thấy hụt hẫng khi nhìn mặt rơi xuống, đáp án thật đã lộ.",
+    "text": "ĐÁP ÁN THẬT LỘ DIỆN",
+    "color": "green",
+    "actor": "front",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Thực ra trong lòng bạn đã sớm muốn chọn bên nào rồi?",
+    "text": "LÒNG BẠN CHỌN AI?",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "brain"
+   }
+  ]
+ },
+ {
+  "id": "s418",
+  "mascot": "buff",
+  "title": "Why You Let Others Pick the Movie",
+  "mechanism": "Omission Bias",
+  "lines": [
+   {
+    "vo": "You pick a terrible film for movie night, and the shame is unbearable.",
+    "text": "PICKING A BAD MOVIE",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Someone else picks a snooze fest? Zero guilt. That is omission bias.",
+    "text": "OMISSION BIAS",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Your brain thinks if you never lift, you cannot drop the bar.",
+    "text": "FEAR OF DROPPING",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Use the five-second objection window: pitch an alternative or back their pick.",
+    "text": "5-SECOND OBJECTION",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Either speak up in five seconds, or commit. Benchwarmers don't get trophies.",
+    "text": "OWN YOUR COMMITMENT",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s418vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "So chon sai nen nhuong nguoi khac?",
+  "title_vi": "Sợ chọn sai nên nhường người khác?",
+  "mechanism": "Omission Bias",
+  "lines": [
+   {
+    "vo": "Tự rủ bạn bè đi xem phim mà phim chán thì ngại muốn xỉu.",
+    "text": "TỰ RỦ PHIM DỞ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Người khác chọn phim buồn ngủ thì bạn thấy nhẹ tênh. Thiên kiến bất hành động.",
+    "text": "THIÊN KIẾN KHÔNG LÀM",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Não tưởng không cầm tạ thì không sợ rơi trúng chân. Khôn lỏi đấy.",
+    "text": "SỢ TẠ RƠI VÀO CHÂN",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Quy tắc năm giây phản biện: hoặc đưa phim khác ngay, hoặc ủng hộ hết mình.",
+    "text": "5 GIÂY PHẢN BIỆN",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Lên tiếng trong năm giây, hoặc vui vẻ theo kèo. Không càu nhàu.",
+    "text": "LÊN TIẾNG HOẶC THEO",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s419",
+  "mascot": "pen",
+  "title": "When Research Turns Into Pure Delay",
+  "mechanism": "Choice Deferral",
+  "lines": [
+   {
+    "vo": "Need new running shoes? Open twelve tabs and read conflicting reviews.",
+    "text": "TWELVE OPEN TABS",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Two hours later, your eyes burn, so you delay it until weekend.",
+    "text": "DECIDE NEXT WEEK",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Choice deferral disguised as research. You are working on nothing.",
+    "text": "CHOICE DEFERRAL",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Past a quick look, endless comparison only feeds the illusion of progress.",
+    "text": "ILLUSION OF PROGRESS",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Set a three-source boundary. Check three reviews, compare prices once, then buy.",
+    "text": "THREE-SOURCE RULE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Cap your search at fifteen minutes. Action creates clarity.",
+    "text": "CAP AT 15 MINUTES",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "A good-enough shoe on your feet carries you further than endless research.",
+    "text": "DONE BEATS PERFECT",
+    "color": "gold",
+    "actor": "front",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s419vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Soi hang ca dem van chua chot don?",
+  "title_vi": "Soi hàng cả đêm vẫn chưa chốt đơn?",
+  "mechanism": "Choice Deferral",
+  "lines": [
+   {
+    "vo": "Cần mua đôi giày chạy, mở mười mấy trang đọc nhận xét từ tối đến khuya.",
+    "text": "MỞ MƯỜI MẤY TRANG",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Hai tiếng trôi qua, mỏi mắt quá nên lại hẹn cuối tuần tính tiếp.",
+    "text": "CUỐI TUẦN TÍNH TIẾP",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Trì hoãn lựa chọn được ngụy trang dưới mác tìm hiểu kỹ càng.",
+    "text": "TRÌ HOÃN LỰA CHỌN",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "So sánh quá đà không giúp mua khôn hơn, chỉ bào mòn ý chí.",
+    "text": "BÀO MÒN Ý CHÍ",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Áp dụng giới hạn ba nguồn: xem ba nơi tin cậy rồi bấm chốt đơn.",
+    "text": "GIỚI HẠN BA NGUỒN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Khống chế trong mười lăm phút. Đừng để lướt mạng thay thế hành động.",
+    "text": "CHỐT TRONG 15 PHÚT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Đôi giày xỏ vào chân mang bạn đi xa hơn vạn món đồ trên màn hình.",
+    "text": "HÀNH ĐỘNG THỰC TẾ",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ }
+]

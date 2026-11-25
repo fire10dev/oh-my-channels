@@ -1,0 +1,929 @@
+{
+ "id": "L51vi",
+ "lang": "vi",
+ "title": "Vì sao ở trong đám đông bạn hành xử khác lúc một mình?",
+ "description": "Bạn có nhận ra mình dễ bị cuốn theo khi hòa vào biển người cổ vũ hay bình luận trên mạng? Tám cơ chế tâm lý từ đánh mất cá tính đến hiệu ứng bàng quan (deindividuation, social facilitation, social inhibition, audience effect, evaluation apprehension, collective effervescence, emergent norms, bystander effect) giải thích vì sao đám đông chi phối hành vi của bạn, cùng cách giữ vững lập trường cá nhân.",
+ "chapters": [
+  {
+   "title": "Vì sao đám đông cuốn bạn đi",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn thề không to tiếng với người lạ, cho đến khi đứng giữa biển người gào thét trên khán đài.",
+     "text": "CUỐN THEO ĐÁM ĐÔNG",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quen quá Pen ơi. Thả vào sân đông người là kỷ luật bốc hơi sạch.",
+     "text": "BAY MẤT KỶ LUẬT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cả trên mạng nữa, thấy nghìn người mắng chửi là tôi muốn hùa theo.",
+     "text": "HÙA THEO TRÊN MẠNG",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não buông phòng thủ ngay khi có cả đám đông cùng gánh mức tạ ấy.",
+     "text": "GÁNH TẠ TẬP THỂ",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Liệu ta có rèn được cách đứng vững trước làn sóng tập thể không Buff?",
+     "text": "CƯỠNG LẠI ĐƯỢC KHÔNG?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tám cơ chế điều khiển Pen, nhưng Pen có thể tập làm chủ tâm trí.",
+     "text": "TÁM CƠ CHẾ TÂM LÝ",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Đánh mất cá tính",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần hòa vào dòng người đi bão, tôi thấy mình như biến mất.",
+     "text": "1. ĐÁNH MẤT CÁ TÍNH",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là đánh mất cá tính. Pen để bản sắc riêng tan biến sau cái mác tập thể.",
+     "text": "NẤP SAU TẬP THỂ",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như trách nhiệm của tôi rơi thẳng về con số không.",
+     "text": "TRÁCH NHIỆM VỀ KHÔNG",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không ai chỉ mặt đặt tên thì phanh hãm trong đầu cũng bỏ tập luôn.",
+     "text": "PHANH NÃO BỎ TẬP",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người ta thản nhiên buông lời độc hại khi gõ phím, điều ngoài đời chẳng ai dám nói.",
+     "text": "NÉM ĐÁ GIẤU TAY",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ẩn danh khiến não tưởng mình vô hình, bay sạch sự cẩn trọng thường ngày.",
+     "text": "TƯỞNG MÌNH VÔ HÌNH",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lỗi lầm chia đều cả hội, nên chẳng một ai thấy mình có tội.",
+     "text": "LỖI CHIA ĐỀU HẾT",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nấp sau đám đông làm hệ thống tự kiểm soát lui thẳng về sau.",
+     "text": "MẤT KIỂM SOÁT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao giữ vững la bàn đạo đức khi ai cũng gào thét hả Buff?",
+     "text": "GIỮ VỮNG BẢN THÂN?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khựng lại một nhịp. Tự hỏi Pen có dám ký tên thật vào bình luận đó không.",
+     "text": "DÁM KÝ TÊN THẬT?",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không dám nhận trách nhiệm trước bàn dân thiên hạ, tốt nhất là rút tay khỏi bàn phím?",
+     "text": "RÚT TAY KHỎI PHÍM",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chịu trách nhiệm từng hiệp. Đám đông không chỉ che giấu, họ còn đẩy tốc độ của Pen lên.",
+     "text": "ĐẨY NHANH TỐC ĐỘ",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "2. Tiếp sức xã hội",
+   "sources": [
+    "s02",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi chạy bộ ở công viên đông người, chân tôi tự guồng nhanh hơn hẳn.",
+     "text": "2. TIẾP SỨC XÃ HỘI",
+     "color": "ink",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiếp sức xã hội đấy. Có người nhìn là động lực của Pen tăng vọt.",
+     "text": "ĐỘNG LỰC TĂNG VỌT",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có phải người ta đạp xe sung hơn khi đi cùng bạn đồng hành không?",
+     "text": "ĐỒNG ĐỘI ĐẨY SỨC",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ánh nhìn xung quanh đẩy hưng phấn cơ thể lên, kích hoạt các phản xạ Pen đã thuần thục.",
+     "text": "KÍCH HOẠT HƯNG PHẤN",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là việc quen thuộc sẽ nhanh hơn chỉ vì có người đang ngắm?",
+     "text": "NHANH HƠN NHỜ XEM",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Với động tác cơ bản thì đúng. Đám đông tiếp thêm liều năng lượng cực mạnh.",
+     "text": "LIỀU TĂNG LỰC NGOÀI",
+     "color": "gold",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cầu thủ thi đấu thăng hoa nhờ khán đài cũng từ nguồn năng lượng này ư?",
+     "text": "SỨC BẬT KHÁN ĐÀI",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Họ nương theo sóng đó. Cơ thể lấy khán giả làm nhiên liệu bứt tốc.",
+     "text": "NHIÊN LIỆU BỨT PHÁ",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi có thể dùng mẹo này cho việc vặt lặp đi lặp lại không?",
+     "text": "DÙNG CHO VIỆC VẶT?",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng mẹo mượn đà người bên cạnh. Nhờ bạn ngồi cùng lúc dọn dẹp để lấy khí thế.",
+     "text": "MƯỢN ĐÀ NGƯỜI BÊN CẠNH",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có người ngồi cạnh là việc nhà chán ngắt xong cái vèo.",
+     "text": "VIỆC NHÀ XONG NGAY",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Nhưng khi cần nghĩ sâu, người xem có thể bóp nghẹt sự tập trung.",
+     "text": "ĐÈ BẸP TẬP TRUNG",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "3. Ức chế xã hội",
+   "sources": [
+    "s03",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hễ có ai dòm màn hình lúc tôi làm việc là đầu óc đóng băng luôn.",
+     "text": "3. ỨC CHẾ XÃ HỘI",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là ức chế xã hội. Phản ứng ngược lại khi đụng việc mới hay bài tập khó.",
+     "text": "ĐẦU ÓC ĐÓNG BĂNG",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao có người nhìn thì chạy nhanh hơn, nhưng lại tắc tị lúc giải việc khó?",
+     "text": "VÌ SAO BỊ KHỰNG?",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Căng thẳng làm hẹp tầm chú ý. Đẩy tạ thì dễ, chứ nghẽn mạch xử lý thông tin.",
+     "text": "HẸP TẦM CHÚ Ý",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như lúc sếp đứng ngay sau lưng chờ gõ xong bản báo cáo gấp vậy.",
+     "text": "ÁNH NHÌN SÁT NÁCH",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nửa sự chú ý bận canh ánh mắt xung quanh, đầu óc đâu mà nghĩ câu chữ trôi chảy.",
+     "text": "BỘ NHỚ PHÂN TÁN",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Não quá tải vì vừa giải việc hóc búa, vừa phải để ý người đứng nhìn?",
+     "text": "QUÁ TẢI TÂM TRÍ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Áp lực cướp sạch dung lượng não đúng lúc Pen cần từng giọt tập trung.",
+     "text": "CƯỚP MẤT TẬP TRUNG",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao bảo vệ mạch nghĩ khi người ta cứ nhìn chăm chăm hả Buff?",
+     "text": "BẢO VỆ DÒNG NGHĨ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tạo vùng đệm cách ly. Tự luyện kỹ năng một mình thật nhuyễn trước khi ra sân.",
+     "text": "TẠO VÙNG CÁCH LY",
+     "color": "green",
+     "actor": "meditating",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biến thao tác phức tạp thành phản xạ trước khi có người xem?",
+     "text": "LUYỆN THÀNH PHẢN XẠ",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập kín trước đã. Chỉ cần có người nhìn là hiệu ứng đèn rọi lập tức bật sáng.",
+     "text": "HIỆU ỨNG ĐÈN RỌI",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "4. Hiệu ứng khán giả",
+   "sources": [
+    "s04",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa có người lạ ngồi gần là lưng tôi thẳng đơ, vai cứng lại.",
+     "text": "4. HIỆU ỨNG KHÁN GIẢ",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng khán giả. Hễ bị nhìn là não bật chế độ canh chừng vẻ ngoài.",
+     "text": "CANH CHỪNG ÁNH NHÌN",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sang đường thấy hàng loạt xe dừng đèn đỏ nhìn sang, bước chân tôi tự nhiên ngượng nghịu hẳn.",
+     "text": "DÁNG ĐI NGƯỢNG NGHỊU",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng bầy đàn khiến não căng cơ giữ thể diện trước ánh nhìn người lạ.",
+     "text": "GIỮ GÌN THỂ DIỆN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ta phí bao năng lượng chỉ để giữ hình ảnh thay vì làm việc chính.",
+     "text": "TỐN CÔNG GIỮ HÌNH ẢNH",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen phí sức gồng mình làm màu thay vì tập trung nâng mức tạ hiệu quả.",
+     "text": "GỒNG MÌNH LÀM MÀU",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người xung quanh đang âm thầm rút cạn sức lực của tôi sao?",
+     "text": "RÚT CẠN SỨC LỰC",
+     "color": "ink",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế. Tiềm thức liên tục liếc xem người ta đang nghĩ gì về mình.",
+     "text": "DÒ XÉT XUNG QUANH",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mẹo nào giúp tôi thoát khỏi vòng lặp mệt mỏi này hả Buff?",
+     "text": "THOÁT VÒNG LẶP NÀY?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khóa mắt vào động tác. Chỉ chú ý từng bước đi, gạt phăng người xem ra rìa.",
+     "text": "TẬP TRUNG ĐỘNG TÁC",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tập trung hành động thay vì đoán xem người ta đang phán xét gì mình?",
+     "text": "BỎ QUA PHÁN XÉT",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Luôn làm vậy. Mải lo người ta nghĩ gì, nỗi sợ bị đánh giá sẽ bóp nghẹt Pen.",
+     "text": "BẪY SỢ ĐÁNH GIÁ",
+     "color": "red",
+     "actor": "front",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "5. Nỗi sợ bị đánh giá",
+   "sources": [
+    "s05",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mọi thứ tệ gấp mười khi biết người ta đang săm soi chấm điểm mình.",
+     "text": "5. NỖI SỢ BỊ ĐÁNH GIÁ",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nỗi sợ bị đánh giá. Cảm giác tê liệt khi tưởng tượng người nghe soi từng lỗi trừ điểm Pen.",
+     "text": "BẢNG ĐIỂM VÔ HÌNH",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tay ướt đẫm mồ hôi, tim đập thình thịch khi thuyết trình dù đã chuẩn bị kỹ.",
+     "text": "TIM ĐẬP THÌNH THỊCH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não coi ánh mắt chê bai như đòn đánh thẳng vào thể diện Pen.",
+     "text": "ĐÒN ĐÁNH THỂ DIỆN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họng nghẹn đắng, giọng tôi gượng gạo như người máy trước ánh mắt cả phòng.",
+     "text": "GIỌNG NÓI GƯỢNG GẠO",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng sinh tồn coi buổi báo cáo như thú dữ dồn Pen vào góc tường.",
+     "text": "BÁO ĐỘNG NHẦM LẪN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ta sợ thất bại đến mức chính nỗi sợ đó làm ta vấp ngã.",
+     "text": "SỢ NÊN TỰ VẤP",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen gồng cứng cơ bắp, tự hỏng tư thế như người mới tập cố nâng tạ quá sức.",
+     "text": "PHÁ HỎNG TƯ THẾ",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao dẹp bảng điểm tưởng tượng đó khi đứng lên nói hả Buff?",
+     "text": "TẮT BẢNG ĐIỂM ẢO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi vai từ thí sinh sang huấn luyện viên. Nhắm đúng một người và chỉ cho họ từng động tác.",
+     "text": "ĐỔI VAI HUẤN LUYỆN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Xem bài thuyết trình là buổi hướng dẫn thay vì lên thớt chịu phạt?",
+     "text": "HƯỚNG DẪN KỸ NĂNG",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trao giá trị thì buông phòng thủ. Khi cảm xúc bùng nổ, nỗi sợ biến thành cuồng nhiệt.",
+     "text": "SÓNG CẢM XÚC BÙNG NỔ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "6. Hưng phấn tập thể",
+   "sources": [
+    "s06",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ở đêm nhạc đông nghẹt, nghìn người cùng nhún nhảy, sóng rần rần lan khắp người.",
+     "text": "6. HƯNG PHẤN TẬP THỂ",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hưng phấn tập thể đấy, dòng điện bùng nổ khi đám đông chuyển động cùng nhịp.",
+     "text": "DÒNG ĐIỆN TẬP THỂ",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ranh giới riêng tư tan biến, như thể tất cả hòa vào một cơ thể khổng lồ.",
+     "text": "HÒA THÀNH MỘT KHỐI",
+     "color": "gold",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhịp điệu chung kéo cảm xúc đồng bộ, làm cả hội hòa chung một nhịp thở.",
+     "text": "CÙNG MỘT NHỊP ĐẬP",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sướng thật đấy, nhưng người ta dễ vung tiền mua đồ vô bổ hay hô hào mù quáng.",
+     "text": "CHI TIỀN MÙ QUÁNG",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cơn bão cảm xúc nhấn chìm óc phản biện, khiến quyết định bốc đồng hóa hợp lý.",
+     "text": "CHÌM ÓC PHẢN BIỆN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cơn hưng phấn tột độ khiến ta dễ bị dắt mũi hoặc tiêu hoang đúng không?",
+     "text": "DỄ BỊ THAO TÚNG",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhịp tim cả hội tăng vọt thì phong độ gãy đôi, lý trí bị đá văng khỏi sàn tập.",
+     "text": "LÝ TRÍ BỊ ĐÁ VĂNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tận hưởng niềm vui chung mà không mất túi tiền hay nguyên tắc hả Buff?",
+     "text": "GIỮ NGUYÊN TẮC RIÊNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chốt giới hạn trước khi vào cổng. Định sẵn ngân sách và giờ về lúc còn tỉnh táo.",
+     "text": "CHỐT GIỚI HẠN SỚM",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chốt sẵn tiền mặt rút ra và giờ phải về trước khi bước chân vào sự kiện?",
+     "text": "CHỐT TRƯỚC GIỚI HẠN",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Biết điểm dừng mới là dân chuyên. Đám đông nháo nhào là luật chơi mới đảo lộn tất cả.",
+     "text": "BIẾT ĐIỂM DỪNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "7. Chuẩn mực mới nổi",
+   "sources": [
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ở ngã tư tắc đường, hai xe vượt đèn đỏ là ba mươi xe lập tức phóng theo.",
+     "text": "7. CHUẨN MỰC MỚI NỔI",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn mực mới nổi đấy. Đám đông không mất kiểm soát, mà tự chế ra luật mới.",
+     "text": "CHẾ RA LUẬT MỚI",
+     "color": "gold",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vài người vi phạm trước, người khác liền xem chuyện vượt đèn đỏ là bình thường?",
+     "text": "COI LÀ BÌNH THƯỜNG",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lúc bối rối, người ta nhìn quanh tìm lối. Ai liều làm trước sẽ lập ra tiêu chuẩn.",
+     "text": "AI LIỀU DẪN ĐẦU",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trên mạng cũng thế, một bình luận ác ý có thể châm ngòi cho hàng trăm người ném đá.",
+     "text": "CHÂM NGÒI NÉM ĐÁ",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kẻ ồn ào dựng luật mới, còn người cẩn thận hùa theo vì sợ bị lạc loài.",
+     "text": "ÁP LỰC HÙA THEO",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người ta hùa theo không phải vì đồng tình, mà tưởng đám đông có lý do?",
+     "text": "TƯỞNG ĐÁM ĐÔNG ĐÚNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ thấy ai hùng hổ đi đầu là lao theo, nhầm liều lĩnh mù quáng với bản lĩnh thực thụ.",
+     "text": "NHẦM LẪN BẢN LĨNH",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để không mù quáng chạy theo thói xấu mới bộc phát hả Buff?",
+     "text": "TRÁNH BỊ CUỐN THEO?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử quy tắc năm phút. Tự hỏi nếu chỉ có một mình, Pen có dám làm chuyện đó không.",
+     "text": "QUY TẮC NĂM PHÚT",
+     "color": "green",
+     "actor": "meditating",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không bao giờ nhầm sự ồn ào tự tin với một hướng đi đúng đắn?",
+     "text": "ỒN ÀO CHƯA HẲN ĐÚNG",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không bao giờ. Sự ngập ngừng tập thể gây tê liệt khi có sự cố giữa chốn đông người.",
+     "text": "TÊ LIỆT TẬP THỂ",
+     "color": "red",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "8. Hiệu ứng bàng quan",
+   "sources": [
+    "s08",
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ai đó làm rơi đồ trên xe buýt đông nghẹt, hai mươi người chỉ đứng trố mắt nhìn.",
+     "text": "8. HIỆU ỨNG BÀNG QUAN",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng bàng quan kinh điển. Càng đông người, càng ít ai chịu ra tay giúp.",
+     "text": "CÀNG ĐÔNG CÀNG NGẠI",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao ai cũng đứng trơ ra thay vì bước tới nhặt đồ giúp người?",
+     "text": "VÌ SAO ĐỨNG TRƠ RA?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phân tán trách nhiệm. Mười người đứng quanh thanh đòn thì chẳng ai đỡ, vì tưởng người khác lo rồi.",
+     "text": "PHÂN TÁN TRÁCH NHIỆM",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ai cũng nghĩ người khác sẽ làm, hoặc cho rằng chẳng phải việc mình.",
+     "text": "NGHĨ CÓ NGƯỜI LO",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thêm cả ngộ nhận tập thể. Ai cũng giấu bối rối, nhìn nhau rồi tưởng tình hình vẫn ổn.",
+     "text": "NGỘ NHẬN TẬP THỂ",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy xung quanh ai cũng bình chân như vại, ta tưởng nhầm là sự việc không có gì nghiêm trọng?",
+     "text": "TƯỞNG KHÔNG CÓ CHUYỆN GÌ",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen nhìn họ trơ ra, họ nhìn lại y vậy, khóa chặt cả đám trong bất động.",
+     "text": "KHÓA TRONG BẤT ĐỘNG",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao phá vỡ thế tê liệt ấy khi thực sự cần người xử lý hả Buff?",
+     "text": "PHÁ VỠ TÊ LIỆT?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ định đích danh một người và nhờ việc cụ thể. Nhờ bạn áo xanh nhặt giúp chiếc túi.",
+     "text": "CHỈ ĐÍCH DANH",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhờ một người giữ cửa giúp trong lúc tôi nhặt đồ rơi trên sàn?",
+     "text": "NHỜ VIỆC CỤ THỂ",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngắt mạch tê liệt ngay. Nhờ rõ ràng sẽ xóa tan đùn đẩy, biến người xem thành đồng đội.",
+     "text": "BIẾN THÀNH ĐỒNG ĐỘI",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "Làm chủ trước đám đông",
+   "sources": [
+    "s01",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đáng sợ khi đám đông thay đổi phán đoán của chúng ta nhanh đến thế.",
+     "text": "LÀM CHỦ ĐÁM ĐÔNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gói tám cơ chế vào ba bài tập. Giữ ranh giới, làm chủ đèn rọi, và phá vỡ im lặng.",
+     "text": "BA BÀI TẬP CỐT LÕI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một là giữ ranh giới, để đám đông nặc danh hay cơn hưng phấn không lái đi giá trị mình.",
+     "text": "MỘT: GIỮ RANH GIỚI",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai là làm chủ đèn rọi. Mượn người xem cho việc dễ, tách việc khó ra chỗ riêng.",
+     "text": "HAI: LÀM CHỦ ĐÈN RỌI",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và ba là phá vỡ im lặng, chủ động bước lên và nhờ đích danh từng người?",
+     "text": "BA: PHÁ VỠ IM LẶNG",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ gọi đích danh màu áo hoặc tên riêng, đảm bảo phá tan cơn bất động.",
+     "text": "PHÁ TAN BẤT ĐỘNG",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi có thể bắt đầu rèn luyện điều này thế nào hả Buff?",
+     "text": "BẮT ĐẦU TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày. Dừng mười giây trước khi bấm thích, hùa theo hay bắt chước đám đông.",
+     "text": "DỪNG LẠI MƯỜI GIÂY",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi ngày dừng một nhịp để giữ sự tỉnh táo và làm chủ quyết định mình?",
+     "text": "DỪNG LẠI MỘT NHỊP",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mỗi ngày một hiệp. Đăng ký Lý Thuyết Chân Que để cùng Pen và Buff làm chủ tâm trí.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

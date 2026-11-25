@@ -1,0 +1,713 @@
+[
+ {
+  "id": "s245",
+  "mascot": "pen",
+  "title": "Why Every Ping Feels Urgent",
+  "mechanism": "Urgency Bias",
+  "lines": [
+   {
+    "vo": "I sit down to write, and my phone buzzes instantly.",
+    "text": "THE INSTANT BUZZ",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "My chest tightens like someone needs me right now.",
+    "text": "FALSE ALARM",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Turns out, a coworker just asked about lunch spots.",
+    "text": "JUST LUNCH",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Your brain treats every incoming ping like an emergency.",
+    "text": "URGENCY BIAS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Answering fast gives a cheap rush of fake progress.",
+    "text": "FAKE PROGRESS",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Before clicking, ask if anyone genuinely needs this within two hours.",
+    "text": "IS IT URGENT?",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Real fires bring phone calls, not lunch polls.",
+    "text": "LET IT SIT",
+    "color": "gold",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s245vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao tin nhan nao cung thay gap?",
+  "title_vi": "Sao tin nhắn nào cũng thấy gấp?",
+  "mechanism": "Urgency Bias",
+  "lines": [
+   {
+    "vo": "Vừa mở việc ra làm thì chuông tin nhắn réo liên tục.",
+    "text": "CHUÔNG RÉO LIÊN TỤC",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Tim thót lại, tưởng dự án đang cháy tới nơi.",
+    "text": "TƯỞNG CHÁY NHÀ",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Mở ra mới biết đồng nghiệp rủ đặt trà sữa.",
+    "text": "HỎI CHUYỆN VẶT",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Não rất thích việc nhỏ vì giải quyết xong ngay.",
+    "text": "ẢO GIÁC BẬN RỘN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nhưng trả lời vặt cả buổi khiến việc chính dở dang.",
+    "text": "DỞ DANG VIỆC CHÍNH",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Thử tự hỏi, chuyện này để chiều xử lý có sao không?",
+    "text": "ĐỂ CHIỀU ĐƯỢC KHÔNG",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Việc thật sự khẩn cấp họ đã bấm gọi điện thoại.",
+    "text": "GỌI MỚI LÀ GẤP",
+    "color": "gold",
+    "actor": "coffee",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s246",
+  "mascot": "buff",
+  "title": "The Split Screen Trap",
+  "mechanism": "Partial Attention",
+  "lines": [
+   {
+    "vo": "Split screen with work on left and chat on right. Sure, buddy.",
+    "text": "HALF AND HALF",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "You are lifting two heavy barbells at once and dropping both.",
+    "text": "DROPPING BOTH",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Scanning messages keeps your brain on permanent background alert.",
+    "text": "PARTIAL ATTENTION",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Glancing sideways burns battery without finishing a single rep.",
+    "text": "DRAINING BATTERY",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Treat your deep work like a thirty-minute timed set.",
+    "text": "ONE TIMED SET",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Minimize the chat window right now. Lift one weight at a time.",
+    "text": "LIFT ONE WEIGHT",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s246vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Chia doi man hinh chi to met",
+  "title_vi": "Chia đôi màn hình chỉ tổ mệt",
+  "mechanism": "Partial Attention",
+  "lines": [
+   {
+    "vo": "Nửa màn hình làm việc, nửa kia treo khung tin nhắn. Tưởng thế là hay.",
+    "text": "CHIA ĐÔI MÀN HÌNH",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Vừa gánh tạ vừa bấm điện thoại thì sập tạ như chơi.",
+    "text": "SẬP TẠ NHƯ CHƠI",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Mắt liếc qua lại liên tục làm não cạn pin rất nhanh.",
+    "text": "HAO PIN CỰC NHANH",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Tưởng đa nhiệm năng suất, thực ra chưa xong nổi một việc.",
+    "text": "CHƯA XONG VIỆC NÀO",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Vào hiệp mới: ẩn hết thông báo trong ba mươi phút.",
+    "text": "HẸN GIỜ MỘT HIỆP",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Tập trung đẩy xong tảng việc này đi rồi tha hồ tán gẫu.",
+    "text": "ĐẨY XONG ĐÃ",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s247",
+  "mascot": "pen",
+  "title": "Why Sent Messages Haunt You",
+  "mechanism": "Attentional Residue",
+  "lines": [
+   {
+    "vo": "I sent a tricky reply, but my brain keeps replaying it.",
+    "text": "STILL REPLAYING",
+    "color": "red",
+    "actor": "panic",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "You stare at your work, yet half your focus stays behind.",
+    "text": "ATTENTION RESIDUE",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Your brain clings to unfinished threads, keeping half your bandwidth hostage.",
+    "text": "UNFINISHED LOOPS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Write down the next concrete step on paper to bookmark it.",
+    "text": "WRITE IT DOWN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Once on paper, your mind can finally close the loop.",
+    "text": "CLOSE THE LOOP",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s247vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Go xong tin nhan ma dau van vuong",
+  "title_vi": "Gõ xong tin nhắn mà đầu vẫn vướng",
+  "mechanism": "Attentional Residue",
+  "lines": [
+   {
+    "vo": "Gửi tin nhắn giải trình cho sếp xong, đầu mình vẫn tua lại từng chữ.",
+    "text": "ĐẦU VẪN TUA LẠI",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Ngồi nhìn bảng số liệu mà tâm trí cứ lơ lửng nơi khác.",
+    "text": "TÂM TRÍ LƠ LỬNG",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Một phần chú ý vẫn bị kẹt lại ở cuộc trò chuyện dở.",
+    "text": "CHÚ Ý BỊ KẸT LẠI",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Thử viết bước xử lý tiếp theo ra một mẩu giấy nhỏ.",
+    "text": "GHI RA GIẤY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Viết xong lên giấy, vòng lặp trong đầu tự khắc khép lại.",
+    "text": "KHÉP LẠI VÒNG LẶP",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s248",
+  "mascot": "buff",
+  "title": "The Cost of One Quick Reply",
+  "mechanism": "Interruption Cost",
+  "lines": [
+   {
+    "vo": "Deep in the zone, then an urgent pop-up flashes. Gone.",
+    "text": "FLOW SHATTERED",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "You answered it, but now you stare blankly at your screen.",
+    "text": "BLANK STARE",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "You dropped the barbell mid-rep. Now restart from a dead stop.",
+    "text": "DEAD STOP",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "The real damage is resumption lag, rebuilding all that lost context.",
+    "text": "RESUMPTION LAG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Next time a ping begs for attention, pause for five seconds.",
+    "text": "PAUSE FIRST",
+    "actor": "small_step",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Type one quick breadcrumb note finishing your current thought.",
+    "text": "LEAVE A CRUMB",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Leave your marker on the rack. Pick the weight up cleanly.",
+    "text": "MARK YOUR RACK",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s248vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dang vao guong thi tin nhan chen ngang",
+  "title_vi": "Đang vào guồng thì tin nhắn chen ngang",
+  "mechanism": "Interruption Cost",
+  "lines": [
+   {
+    "vo": "Đang đẩy việc cực vào guồng thì tin nhắn nhảy đè lên màn hình. Đứt gánh.",
+    "text": "ĐỨT GÁNH GIỮA CHỪNG",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Trả lời xong, bạn ngồi nhìn trần nhà vì quên sạch ý tưởng.",
+    "text": "QUÊN SẠCH Ý TƯỞNG",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Buông tạ giữa hiệp rồi nhấc lại từ đầu, sức nào chịu nổi.",
+    "text": "NHẤC LẠI TỪ ĐẦU",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Mỗi lần nối lại mạch nghĩ, bạn mất đứt cả đống thời gian vàng.",
+    "text": "TỐN CÔNG NỐI MẠCH",
+    "actor": "future_tired",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Lần tới thấy chuông reo, đừng vội nhảy vào ứng dụng nhắn tin.",
+    "text": "ĐỪNG VỘI NHẢY VÀO",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Gõ vội một câu tóm tắt ý đang nghĩ dở ngay trên màn hình.",
+    "text": "ĐÁNH DẤU Ý CHÍNH",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Cắm mốc xong xuôi rồi hãy đi tiếp chuyện thiên hạ.",
+    "text": "CẮM MỐC RỒI ĐI",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s249",
+  "mascot": "pen",
+  "title": "Why Group Chats Break Projects",
+  "mechanism": "Coordination Trap",
+  "lines": [
+   {
+    "vo": "Our team split the project across twenty chat threads.",
+    "text": "TWENTY THREADS",
+    "color": "red",
+    "actor": "panic",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Everyone finished their part, yet nothing actually fit together.",
+    "text": "NOTHING FITS",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Splitting work is easy. Stitching twenty pieces together is where projects die.",
+    "text": "INTEGRATION TRAP",
+    "color": "red",
+    "actor": "think",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Chatting about updates gives the illusion that work will merge itself.",
+    "text": "CHAT IS NOT MERGE",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Before splitting tasks, pin one person in chat as the sole merger.",
+    "text": "PIN ONE MERGER",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "target"
+   },
+   {
+    "vo": "Clear handoffs save more hours than a hundred group messages.",
+    "text": "CLEAN HANDOFFS",
+    "color": "gold",
+    "actor": "reading",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s249vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Chia viec trong nhom de vo tran",
+  "title_vi": "Chia việc trong nhóm dễ vỡ trận",
+  "mechanism": "Coordination Trap",
+  "lines": [
+   {
+    "vo": "Cả nhóm chia dự án thành hai mươi nhánh chat rồi cắm đầu làm.",
+    "text": "HAI MƯƠI NHÁNH CHAT",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Ai cũng xong phần mình, nhưng ghép lại thì lệch hoàn toàn.",
+    "text": "GHÉP LẠI BỊ LỆCH",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Chúng ta thường đánh giá thấp công đoạn ráp nối các mảnh ghép.",
+    "text": "CẠM BẪY PHỐI HỢP",
+    "actor": "think",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Nhắn tin rôm rả tạo cảm giác việc đang tự động chạy mượt.",
+    "text": "ẢO GIÁC TRƠN TRU",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Trước khi chia việc, ghim rõ một người duy nhất chịu trách nhiệm ráp nối.",
+    "text": "GHIM NGƯỜI RÁP NỐI",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "target"
+   },
+   {
+    "vo": "Một người giữ khung đỡ tốn hàng trăm tin nhắn tranh cãi.",
+    "text": "ĐỠ TỐN TRANH CÃI",
+    "color": "gold",
+    "actor": "reading",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s250",
+  "mascot": "buff",
+  "title": "The Pressure to Reply Instantly",
+  "mechanism": "Response Expectancy",
+  "lines": [
+   {
+    "vo": "Coworker replies in ten seconds, so you panic-type back. Sure, buddy.",
+    "text": "PANIC TYPING",
+    "color": "red",
+    "actor": "panic",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "You hover over the keys just to prove you are working.",
+    "text": "HOVERING ON KEYS",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "That is response expectancy. You are ego-lifting on typing speed.",
+    "text": "RESPONSE EXPECTANCY",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Nobody set a five-minute rule, but everyone silently copies the rush.",
+    "text": "SILENT PRESSURE",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Typing fastest does not mean building anything of actual value.",
+    "text": "FAST IS NOT GOOD",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Break the cycle. Put a clear status tag on your profile.",
+    "text": "SET YOUR STATUS",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "State that you check messages at eleven and three.",
+    "text": "FIXED CHECK TIMES",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Choose your reputation: fastest replier, or the one who actually delivers.",
+    "text": "REPLY OR DELIVER",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s250vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dua nhau tra loi tin nhan lam gi?",
+  "title_vi": "Đua nhau trả lời tin nhắn làm gì?",
+  "mechanism": "Response Expectancy",
+  "lines": [
+   {
+    "vo": "Đồng nghiệp trả lời tin trong năm giây làm bạn cuống cuồng theo.",
+    "text": "CUỐNG CUỒNG THEO",
+    "color": "red",
+    "actor": "panic",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Ngồi canh chấm xanh trên Zalo chỉ để chứng minh mình đang chăm chỉ.",
+    "text": "CANH CHẤM XANH",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Càng ham đua tốc độ gõ phím, chất lượng suy nghĩ càng rơi tự do.",
+    "text": "CHẤT LƯỢNG RƠI TỰ DO",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Sếp chưa từng bắt trả lời ngay, toàn do cả nhóm tự làm khổ nhau.",
+    "text": "TỰ LÀM KHỔ NHAU",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Gõ nhanh nhất công ty không đồng nghĩa với làm việc giỏi nhất.",
+    "text": "NHANH CHƯA PHẢI GIỎI",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Cắt đứt cuộc đua bằng cách treo dòng trạng thái rõ ràng.",
+    "text": "TREO TRẠNG THÁI",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Ghi rõ chỉ xem tin lúc mười một giờ trưa và ba giờ chiều.",
+    "text": "HẸN GIỜ ĐỌC TIN",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Chọn làm người trả lời nhanh, hoặc người tạo ra kết quả thực sự.",
+    "text": "CHỌN LẤY KẾT QUẢ",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s251",
+  "mascot": "pen",
+  "title": "Drowning in Team Chat",
+  "mechanism": "Message Overload",
+  "lines": [
+   {
+    "vo": "I open team chat in the morning to eighty unread pings.",
+    "text": "EIGHTY PINGS",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Clearing tiny pings exhausts your mind before real work even starts.",
+    "text": "MENTAL EXHAUSTION",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Working memory has a hard limit, and message floods crush it.",
+    "text": "MESSAGE OVERLOAD",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Mute non-critical channels and turn off those red badge dots.",
+    "text": "MUTE CHANNELS",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "When the noise fades, what meaningful project gets your energy back?",
+    "text": "WHAT MATTERS NOW?",
+    "color": "gold",
+    "actor": "reading",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s251vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Ngap trong tin nhan chua doc",
+  "title_vi": "Ngập trong tin nhắn chưa đọc",
+  "mechanism": "Message Overload",
+  "lines": [
+   {
+    "vo": "Vừa ngủ dậy mở mắt, điện thoại đã sáng trưng mấy chục tin nhắn.",
+    "text": "MẤY CHỤC TIN NHẮN",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Chưa kịp ăn sáng, não đã mệt nhoài vì bị réo tên khắp nơi.",
+    "text": "CHƯA LÀM ĐÃ MỆT",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Sức chú ý có hạn, bão tin nhắn dập tới là kiệt sức ngay.",
+    "text": "SỨC CHÚ Ý CÓ HẠN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tắt thông báo các nhóm hóng chuyện và ẩn dấu chấm đỏ trên màn hình.",
+    "text": "TẮT CHUÔNG NHÓM PHỤ",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Bớt tiếng chuông vô bổ, tâm trí bạn sẽ dành cho điều gì?",
+    "text": "DÀNH CHO ĐIỀU GÌ?",
+    "color": "gold",
+    "actor": "reading",
+    "prop": "lightbulb"
+   }
+  ]
+ }
+]

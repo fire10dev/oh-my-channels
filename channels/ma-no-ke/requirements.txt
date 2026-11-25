@@ -1,0 +1,3 @@
+# tools/multi.py (giọng ElevenLabs) — cài vào shared/tts/.venv: uv pip install --python ../../shared/tts/.venv/bin/python -r requirements.txt
+elevenlabs>=2.79
+python-dotenv>=1.0

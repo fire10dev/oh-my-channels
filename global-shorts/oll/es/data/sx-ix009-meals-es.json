@@ -1,0 +1,78 @@
+{
+ "title": "Cómo un portaaviones sirve 15.000 comidas al día",
+ "hook": "15.000 COMIDAS AL DÍA",
+ "asof": "Cifras de informes de la Marina de EE. UU., 2006–2025",
+ "world": "carrier",
+ "long": "IX009",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "DÍA 3",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Esta cocina sirve más de quince mil comidas al día.",
+     "v": "galley"
+    },
+    {
+     "s": "Está en el USS Ronald Reagan, un portaaviones.",
+     "v": "wide"
+    },
+    {
+     "s": "La cocina nunca cierra. El barco opera las 24 horas.",
+     "v": "clock"
+    },
+    {
+     "s": "Cada mes: unos 5.300 litros de leche,",
+     "v": "storeroom",
+     "st": [
+      "5.300 L",
+      "leche al mes · 2020"
+     ]
+    },
+    {
+     "s": "3.175 kilos de lechuga,",
+     "v": "storeroom"
+    },
+    {
+     "s": "y más de 13.600 kilos de pollo.",
+     "v": "storeroom",
+     "st": [
+      "13.600 KG",
+      "pollo al mes"
+     ]
+    },
+    {
+     "s": "Quienes están de guardia no llegan a comer, así que los cocineros preparan platos para llevar.",
+     "v": "galley",
+     "you": "mess"
+    },
+    {
+     "s": "Antes de zarpar el USS Carl Vinson, 18 camiones llenaron sus congeladores.",
+     "v": "truck",
+     "plane": "trucks"
+    },
+    {
+     "s": "En alta mar, los barcos de suministro se acercan.",
+     "v": "ras",
+     "plane": "ras"
+    },
+    {
+     "s": "Luego todos bajan cajas, incluso los jefes principales.",
+     "v": "storeroom",
+     "you": "storeroom"
+    },
+    {
+     "s": "Y los cocineros empiezan de nuevo.",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "¿Podrías cocinar para cinco mil personas?",
+     "v": "galley"
+    }
+   ]
+  }
+ ]
+}

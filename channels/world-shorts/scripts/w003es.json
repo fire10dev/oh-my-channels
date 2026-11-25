@@ -1,0 +1,250 @@
+{
+ "id": "w003es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#ef4444",
+ "cover_frame": 60,
+ "source": "Población: Statistics Canada (2017, 2025) · US Census Bureau",
+ "music": "shared/library/music/yt-audio-library/The Fast and The Curious - Ezra Lipp.mp3",
+ "beats": [
+  {
+   "say": "Canadá es el segundo país más grande del mundo, pero casi nadie vive en él.",
+   "title": "CANADÁ ESTÁ CASI VACÍO",
+   "cam": {
+    "lon": -96,
+    "lat": 58,
+    "span": 70
+   },
+   "hl": [
+    {
+     "a3": "CAN",
+     "color": "#ef4444"
+    }
+   ]
+  },
+  {
+   "say": "Más o menos dos de cada tres canadienses viven a menos de cien kilómetros de la frontera con Estados Unidos.",
+   "cam": {
+    "lon": -96,
+    "lat": 52,
+    "span": 62
+   },
+   "zone": {
+    "pts": [
+     [
+      -123.3,
+      49
+     ],
+     [
+      -95.2,
+      49
+     ],
+     [
+      -89.5,
+      48
+     ],
+     [
+      -84.8,
+      46.5
+     ],
+     [
+      -82.4,
+      42
+     ],
+     [
+      -79,
+      43.2
+     ],
+     [
+      -76.4,
+      44.2
+     ],
+     [
+      -74.7,
+      45
+     ],
+     [
+      -71.5,
+      45
+     ],
+     [
+      -70,
+      46.4
+     ],
+     [
+      -67.8,
+      47.1
+     ],
+     [
+      -67.1,
+      45.2
+     ],
+     [
+      -64.5,
+      45.5
+     ],
+     [
+      -63,
+      46.2
+     ],
+     [
+      -60.5,
+      46.8
+     ],
+     [
+      -60.5,
+      47.8
+     ],
+     [
+      -64,
+      47.7
+     ],
+     [
+      -66.5,
+      48.4
+     ],
+     [
+      -70,
+      48.3
+     ],
+     [
+      -73.2,
+      46.8
+     ],
+     [
+      -76.6,
+      45.8
+     ],
+     [
+      -79.5,
+      45.2
+     ],
+     [
+      -80.6,
+      45.9
+     ],
+     [
+      -84,
+      47.4
+     ],
+     [
+      -88.4,
+      49
+     ],
+     [
+      -95.2,
+      49.9
+     ],
+     [
+      -123.3,
+      49.9
+     ]
+    ],
+    "color": "#ffd23f"
+   },
+   "big": {
+    "value": "2 de 3",
+    "label": "viven en esta franja"
+   }
+  },
+  {
+   "say": "En esa franja delgada están Toronto, Montreal, Vancouver, Ottawa y Calgary.",
+   "cam": {
+    "lon": -98,
+    "lat": 47,
+    "span": 58
+   },
+   "pins": [
+    {
+     "lon": -79.38,
+     "lat": 43.65,
+     "text": "Toronto"
+    },
+    {
+     "lon": -73.57,
+     "lat": 45.5,
+     "text": "Montreal"
+    },
+    {
+     "lon": -123.12,
+     "lat": 49.28,
+     "text": "Vancouver"
+    },
+    {
+     "lon": -114.07,
+     "lat": 51.05,
+     "text": "Calgary"
+    }
+   ]
+  },
+  {
+   "say": "Canadá tiene unos cuarenta y un millones de habitantes. Solo California tiene casi cuarenta.",
+   "cam": {
+    "lon": -105,
+    "lat": 45,
+    "span": 70
+   },
+   "hl": [
+    {
+     "a3": "CAN",
+     "color": "#ef4444"
+    }
+   ],
+   "a1": [
+    {
+     "code": "USA-3521",
+     "color": "#3b82f6"
+    }
+   ],
+   "bars": {
+    "unit": "M",
+    "items": [
+     {
+      "label": "Canadá",
+      "value": 41.5,
+      "color": "#ef4444"
+     },
+     {
+      "label": "California",
+      "value": 39.4,
+      "color": "#3b82f6"
+     }
+    ]
+   }
+  },
+  {
+   "say": "¿Por qué pegarse a la frontera? El norte es suelo congelado, tundra y roca. El sur tiene el clima más cálido, la mejor tierra agrícola y el comercio.",
+   "cam": {
+    "lon": -96,
+    "lat": 62,
+    "span": 75
+   },
+   "hl": [
+    {
+     "a3": "CAN",
+     "color": "#94a3b8"
+    }
+   ]
+  },
+  {
+   "say": "Canadá es enorme en el mapa y diminuto donde de verdad vive la gente. Sígueme para más.",
+   "title": "MAPA ENORME. PAÍS DIMINUTO.",
+   "cam": {
+    "lon": -96,
+    "lat": 56,
+    "span": 72
+   },
+   "hl": [
+    {
+     "a3": "CAN",
+     "color": "#ef4444"
+    }
+   ]
+  }
+ ],
+ "admin1": [
+  "USA"
+ ]
+}

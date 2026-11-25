@@ -1,0 +1,311 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 31.799,
+"shots": [
+{
+"img": "p01/img/S24.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 4.945,
+"a": [
+760,
+576,
+648
+],
+"b": [
+760,
+560,
+460
+],
+"shake": 4,
+"flash": 1
+},
+{
+"img": "p01/img/S24.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.945,
+"t1": 8.649,
+"a": [
+760,
+560,
+460
+],
+"b": [
+780,
+520,
+340
+],
+"shake": 5
+},
+{
+"img": "p01/img/S18.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 8.649,
+"t1": 12.298,
+"a": [
+800,
+576,
+648
+],
+"b": [
+700,
+560,
+460
+],
+"dark": 0.2
+},
+{
+"img": "p01/img/S25.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 12.298,
+"t1": 14.773,
+"a": [
+1690,
+300,
+460
+],
+"b": [
+1690,
+280,
+340
+]
+},
+{
+"img": "p01/img/S25.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.773,
+"t1": 17.258,
+"a": [
+1600,
+576,
+648
+],
+"b": [
+1690,
+260,
+460
+]
+},
+{
+"img": "p01/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.258,
+"t1": 22.8,
+"a": [
+900,
+576,
+648
+],
+"b": [
+820,
+360,
+460
+],
+"shake": 8
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 22.8,
+"t1": 26.968,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 10,
+"dark": 0.45
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 26.968,
+"t1": 31.299,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p01/img/cut_S11.png",
+"size": 2048,
+"t0": 22.8,
+"t1": 26.968,
+"from": [
+-1900,
+150,
+1.0
+],
+"to": [
+-750,
+650,
+1.0
+],
+"bob": false
+},
+{
+"img": "p01/img/cut_B02.png",
+"size": 1344,
+"t0": 26.968,
+"t1": 31.299,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 26.968,
+"t1": 31.299,
+"text": "ADIVINA ↓",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.4
+},
+{
+"t": 17.258,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 22.8,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.6
+},
+{
+"t": 26.968,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 30.232,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 4.395,
+"text": "Mi hijo me arropó por primera vez en tres meses. Y fue lo peor que pudo hacer."
+},
+{
+"t": 4.945,
+"dur": 7.103,
+"text": "No gritó. No se atrevió a levantar la manta. Le temblaban las manos mientras me tapaba por completo. Hasta el cuello. Todo."
+},
+{
+"t": 12.298,
+"dur": 2.225,
+"text": "Desde afuera de la ventana, lo vi todo."
+},
+{
+"t": 14.773,
+"dur": 1.485,
+"text": "Y ya no pude regresar."
+},
+{
+"t": 17.258,
+"dur": 5.292,
+"text": "Casi se me cae la pipa de agua. Faltaban dos horas para que cantara el gallo. ¿Dónde se escondió?"
+},
+{
+"t": 22.8,
+"dur": 3.669,
+"text": "¿Qué lugar es oscuro, cálido y del tamaño justo para una cabeza?"
+},
+{
+"t": 26.968,
+"dur": 3.33,
+"text": "Adivina en los comentarios. La próxima vez abro la tapa."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/es/vo/e5a9bdad90.wav"
+},
+{
+"t": 4.945,
+"src": "loc/es/vo/0d7af253b2.wav"
+},
+{
+"t": 12.298,
+"src": "loc/es/vo/35fea20b02.wav"
+},
+{
+"t": 14.773,
+"src": "loc/es/vo/dc6127f339.wav"
+},
+{
+"t": 17.258,
+"src": "loc/es/vo/eddab915cb.wav"
+},
+{
+"t": 22.8,
+"src": "loc/es/vo/0edde461ac.wav"
+},
+{
+"t": 26.968,
+"src": "loc/es/vo/d6b1cb992d.wav"
+}
+],
+"mutes": [
+[
+4.745,
+12.298
+],
+[
+12.098,
+14.773
+],
+[
+14.573,
+17.258
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

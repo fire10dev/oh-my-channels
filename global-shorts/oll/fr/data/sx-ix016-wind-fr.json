@@ -1,0 +1,69 @@
+{
+ "title": "La rafale à 372 km/h mesurée au mont Washington",
+ "hook": "RAFALE RECORD",
+ "asof": "Chiffres : Mount Washington Observatory et FOX Weather",
+ "world": "summit",
+ "long": "IX016",
+ "chapters": [
+  {
+   "id": "record",
+   "hud": "12 AVR. 1934",
+   "chip": "13:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Avril 1934. Trois hommes mesurent une rafale jamais vue au sommet d’une montagne.",
+     "v": "tower",
+     "plane": "wind"
+    },
+    {
+     "s": "L’observatoire du mont Washington, dans le New Hampshire.",
+     "v": "building"
+    },
+    {
+     "s": "Sal Pagliuca, Alex McKenzie et Wendell Stephenson sont de service.",
+     "v": "office",
+     "you": "office"
+    },
+    {
+     "s": "Leur anémomètre chauffant empêche la glace de le bloquer.",
+     "v": "tower",
+     "plane": "rime"
+    },
+    {
+     "s": "Une rafale atteint 372 kilomètres par heure.",
+     "v": "tower",
+     "plane": "wind",
+     "st": [
+      "372 KM/H",
+      "12 avril 1934"
+     ]
+    },
+    {
+     "s": "Pendant des décennies, c’est le vent le plus rapide mesuré sur Terre.",
+     "v": "deck",
+     "plane": "wind"
+    },
+    {
+     "s": "CBS dit que c’est toujours le record mesuré par une personne à terre.",
+     "v": "mountain"
+    },
+    {
+     "s": "En 2023, le refroidissement éolien atteint −78 °C là-haut.",
+     "v": "rime",
+     "plane": "rime",
+     "st": [
+      "−78 °C",
+      "refroidissement éolien · 2023"
+     ]
+    },
+    {
+     "s": "Tu tiendrais debout sur cette terrasse ?",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    }
+   ]
+  }
+ ]
+}

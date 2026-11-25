@@ -1,0 +1,242 @@
+{
+ "id": "w005es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#f97316",
+ "cover_frame": 60,
+ "source": "Flujos de petróleo: Administración de Información Energética de EE. UU. (EIA, 2024)",
+ "music": "shared/library/music/yt-audio-library/Future Rennaisance - Godmode.mp3",
+ "beats": [
+  {
+   "say": "Una quinta parte de todo el petróleo que usa el mundo pasa por este pequeño hueco.",
+   "title": "EL PASO MÁS PELIGROSO DEL MUNDO",
+   "cam": {
+    "lon": 56,
+    "lat": 26.5,
+    "span": 14
+   },
+   "pins": [
+    {
+     "lon": 56.4,
+     "lat": 26.55,
+     "text": "Estrecho de Ormuz"
+    }
+   ],
+   "hl": [
+    {
+     "a3": "IRN",
+     "color": "#f97316"
+    },
+    {
+     "a3": "OMN",
+     "color": "#22c55e"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      52,
+      26.2
+     ],
+     [
+      55,
+      26.1
+     ],
+     [
+      56.35,
+      26.55
+     ],
+     [
+      57.3,
+      25.6
+     ],
+     [
+      59,
+      24.3
+     ]
+    ],
+    "color": "#ffd23f",
+    "arrow": true,
+    "label": "Petroleros"
+   }
+  },
+  {
+   "say": "Es el estrecho de Ormuz, entre Irán y Omán.",
+   "cam": {
+    "lon": 54,
+    "lat": 27,
+    "span": 30
+   },
+   "hl": [
+    {
+     "a3": "IRN",
+     "color": "#f97316",
+     "label": "Irán"
+    },
+    {
+     "a3": "OMN",
+     "color": "#22c55e",
+     "label": "Omán"
+    }
+   ]
+  },
+  {
+   "say": "Cada día lo cruzan unos veinte millones de barriles de petróleo. Más o menos el veinte por ciento del consumo mundial.",
+   "cam": {
+    "lon": 54,
+    "lat": 27,
+    "span": 30
+   },
+   "big": {
+    "value": "20%",
+    "label": "del petróleo mundial"
+   }
+  },
+  {
+   "say": "Arabia Saudita, Irak, Kuwait, Catar y los Emiratos sacan su petróleo por aquí.",
+   "cam": {
+    "lon": 50,
+    "lat": 27,
+    "span": 34
+   },
+   "hl": [
+    {
+     "a3": "SAU",
+     "color": "#ffd23f"
+    },
+    {
+     "a3": "IRQ",
+     "color": "#ffd23f"
+    },
+    {
+     "a3": "KWT",
+     "color": "#ffd23f"
+    },
+    {
+     "a3": "QAT",
+     "color": "#ffd23f"
+    },
+    {
+     "a3": "ARE",
+     "color": "#ffd23f"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      48.5,
+      29.3
+     ],
+     [
+      50.5,
+      27.5
+     ],
+     [
+      53,
+      26.3
+     ],
+     [
+      56.3,
+      26.4
+     ],
+     [
+      57.5,
+      25.2
+     ],
+     [
+      60,
+      23.5
+     ]
+    ],
+    "color": "#f97316"
+   }
+  },
+  {
+   "say": "En su punto más estrecho mide solo unos treinta y tres kilómetros, y cada carril de navegación tiene apenas tres kilómetros.",
+   "cam": {
+    "lon": 56.4,
+    "lat": 26.4,
+    "span": 7
+   },
+   "big": {
+    "value": "33 km",
+    "label": "en su punto más estrecho"
+   },
+   "hl": [
+    {
+     "a3": "IRN",
+     "color": "#f97316"
+    },
+    {
+     "a3": "OMN",
+     "color": "#22c55e"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      56.36,
+      26.5
+     ],
+     [
+      56.36,
+      26.82
+     ]
+    ],
+    "color": "#ffd23f"
+   }
+  },
+  {
+   "say": "Los oleoductos que lo esquivan solo pueden llevar una pequeña parte. Si este estrecho se cierra, los precios suben en todo el mundo.",
+   "cam": {
+    "lon": 52,
+    "lat": 25,
+    "span": 32
+   },
+   "hl": [
+    {
+     "a3": "SAU",
+     "color": "#94a3b8"
+    },
+    {
+     "a3": "ARE",
+     "color": "#94a3b8"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      49.7,
+      25.9
+     ],
+     [
+      45,
+      25.2
+     ],
+     [
+      41,
+      24.6
+     ],
+     [
+      38.06,
+      24.09
+     ]
+    ],
+    "color": "#94a3b8",
+    "arrow": true,
+    "label": "Oleoducto alternativo"
+   }
+  },
+  {
+   "say": "Treinta y tres kilómetros que mueven la economía mundial. Sígueme para más.",
+   "title": "33 KM QUE MUEVEN AL MUNDO",
+   "cam": {
+    "lon": 56,
+    "lat": 26.5,
+    "span": 14
+   }
+  }
+ ]
+}

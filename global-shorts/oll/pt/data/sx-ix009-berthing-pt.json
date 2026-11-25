@@ -1,0 +1,78 @@
+{
+ "title": "Dormindo com 100 pessoas num porta-aviões",
+ "hook": "UM QUARTO, 100 MARINHEIROS",
+ "asof": "Dados de relatórios da Marinha dos EUA, de 2006 a 2025",
+ "world": "carrier",
+ "long": "IX009",
+ "chapters": [
+  {
+   "id": "sleep",
+   "hud": "DIA 1",
+   "chip": "23:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Imagine dividir o quarto com cem pessoas.",
+     "v": "berthing",
+     "you": "rack"
+    },
+    {
+     "s": "Num porta-aviões, isso é normal.",
+     "v": "wide"
+    },
+    {
+     "s": "Os marinheiros dormem em beliches empilhados em três níveis.",
+     "v": "berthing",
+     "st": [
+      "100",
+      "marinheiros por alojamento · 2006"
+     ]
+    },
+    {
+     "s": "É tão apertado que virar pode acordar quem dorme acima.",
+     "v": "rack",
+     "you": "rack"
+    },
+    {
+     "s": "Cada beliche tem uma cortina.",
+     "v": "rack",
+     "you": "rack",
+     "plane": "curtain"
+    },
+    {
+     "s": "Ela bloqueia a luz,",
+     "v": "rack",
+     "plane": "curtain",
+     "you": "rack"
+    },
+    {
+     "s": "mas não o barulho.",
+     "v": "rack",
+     "plane": "curtain"
+    },
+    {
+     "s": "Dia ou noite, jatos pousam com força no convés acima.",
+     "v": "deck",
+     "plane": "trap",
+     "tod": "night"
+    },
+    {
+     "s": "As catapultas disparam, e o estrondo ecoa pelo aço.",
+     "v": "catapult",
+     "plane": "launch",
+     "tod": "night"
+    },
+    {
+     "s": "E sempre tem alguém levantando para começar o turno.",
+     "v": "clock"
+    },
+    {
+     "s": "Você conseguiria dormir com tudo isso?",
+     "v": "rack",
+     "you": "rack",
+     "plane": "curtain"
+    }
+   ]
+  }
+ ]
+}

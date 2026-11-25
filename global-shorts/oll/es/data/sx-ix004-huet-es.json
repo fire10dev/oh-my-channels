@@ -1,0 +1,91 @@
+{
+ "title": "Trabajadores de plataformas petroleras entrenan bajo el agua boca abajo",
+ "hook": "BAJO EL AGUA",
+ "asof": "Cifras de 2026",
+ "world": "rig",
+ "long": "IX004",
+ "chapters": [
+  {
+   "id": "huet",
+   "hud": "DÍA 0",
+   "chip": "ENTRENAMIENTO",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "pool",
+     "plane": "flip",
+     "s": "Antes de trabajar en una plataforma del mar del Norte, debes escapar de esto."
+    },
+    {
+     "v": "heli",
+     "plane": "fly",
+     "s": "Casi todos vuelan en helicóptero hasta las plataformas."
+    },
+    {
+     "v": "heli",
+     "s": "Por eso entrenas para lo peor."
+    },
+    {
+     "v": "pool",
+     "you": "pool",
+     "st": [
+      "HUET",
+      "entrenamiento de escape de helicóptero bajo el agua"
+     ],
+     "s": "Se llama HUET."
+    },
+    {
+     "v": "pool",
+     "you": "pool",
+     "s": "Una cabina de helicóptero simulada cae a una piscina,"
+    },
+    {
+     "v": "pool",
+     "plane": "flip",
+     "s": "y queda boca abajo."
+    },
+    {
+     "v": "pool",
+     "plane": "flip",
+     "you": "pool",
+     "s": "Practicas cómo salir bajo el agua y a oscuras."
+    },
+    {
+     "v": "heli",
+     "st": [
+      "OBLIGATORIO",
+      "OPITO, 2024"
+     ],
+     "s": "Es obligatorio para quienes vuelan en helicóptero mar adentro."
+    },
+    {
+     "v": "heli",
+     "s": "Y también importa tu tamaño."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "56 CM",
+      "small": "ancho de hombros = extraancho (XBR) · desde 2014"
+     },
+     "s": "¿Tus hombros miden 56 centímetros o más? Eres extraancho."
+    },
+    {
+     "v": "heli",
+     "plane": "fly",
+     "s": "Te sientas junto a las ventanas más grandes,"
+    },
+    {
+     "v": "heli",
+     "you": "heli",
+     "s": "para que puedas salir con el traje de supervivencia."
+    },
+    {
+     "v": "pool",
+     "plane": "flip",
+     "s": "¿Podrías salir?"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,738 @@
+[
+  {
+    "id": "s259",
+    "mascot": "pen",
+    "title": "Why You Practice Without Improving",
+    "mechanism": "Deliberate Practice",
+    "lines": [
+      {
+        "vo": "You sit down to practice, then draw the same easy face for hours.",
+        "text": "COMFORT ZONE",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Your brain protects energy by slipping into mindless autopilot.",
+        "text": "AUTOPILOT TRAP",
+        "color": "red",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Real growth needs deliberate practice, isolating the exact spot you struggle.",
+        "text": "ISOLATE WEAKNESS",
+        "color": "green",
+        "actor": "reading",
+        "prop": "target"
+      },
+      {
+        "vo": "If hands look stiff, sketch twenty wrists instead of full bodies.",
+        "text": "DRILL THE JOINT",
+        "color": "green",
+        "actor": "writing",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Repeat that micro-drill until the awkward tension disappears.",
+        "text": "SMOOTH IT OUT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "True progress hides in the awkward drills you usually avoid.",
+        "text": "GROW IN DISCOMFORT",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s259vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Sao Luyen Mai Ma Khong Tien Bo?",
+    "title_vi": "Sao Luyện Mãi Mà Không Tiến Bộ?",
+    "mechanism": "Deliberate Practice",
+    "lines": [
+      {
+        "vo": "Tối nào cũng ngồi vào bàn, nhưng bạn chỉ vẽ lại góc mặt đã quen.",
+        "text": "VÙNG AN TOÀN",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Não rất thích tiết kiệm sức, nên nó tự động chọn việc dễ nhất.",
+        "text": "BẪY TỰ ĐỘNG",
+        "color": "red",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Muốn lên tay, bạn cần tách nhỏ đúng chi tiết mình đang vẽ hỏng.",
+        "text": "TÁCH CHI TIẾT LỖI",
+        "color": "green",
+        "actor": "reading",
+        "prop": "target"
+      },
+      {
+        "vo": "Vẽ bàn tay hay bị đơ, hãy tập riêng hai mươi khớp cổ tay.",
+        "text": "TẬP RIÊNG CHỖ KHÓ",
+        "color": "green",
+        "actor": "writing",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Lặp lại bài tập nhỏ đó đến khi nét vẽ hết ngập ngừng.",
+        "text": "LUYỆN TỪNG CHÚT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Tiến bộ thật sự nằm ở những phút gượng gạo bạn từng né tránh.",
+        "text": "BƯỚC QUA LÚNG TÚNG",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s260",
+    "mascot": "buff",
+    "title": "Stop Coding From Blank Screens",
+    "mechanism": "Scaffolding",
+    "lines": [
+      {
+        "vo": "Staring at an empty screen, brain freezing up? Sure, buddy.",
+        "text": "BLANK SCREEN PANIC",
+        "color": "red",
+        "actor": "panic",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "You are trying to bench heavy weight without any safety bars.",
+        "text": "NO SAFETY BARS",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Use scaffolding. Borrow a working script and delete just one function.",
+        "text": "BORROW A TEMPLATE",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Rebuild that single piece. Remove another support beam next week.",
+        "text": "REMOVE SUPPORTS",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "target"
+      },
+      {
+        "vo": "Stop playing the lonely hero. Grab a spotter and get to work.",
+        "text": "START WITH SUPPORT",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s260vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung Bat Dau Tu Con So Khong",
+    "title_vi": "Đừng Bắt Đầu Từ Con Số Không",
+    "mechanism": "Scaffolding",
+    "lines": [
+      {
+        "vo": "Mở màn hình trắng tinh lên rồi ngồi đơ ra. Ừ, tin.",
+        "text": "SỢ TRANG TRẮNG",
+        "color": "red",
+        "actor": "panic",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Chưa biết nâng tạ mà đã đòi đẩy mức nặng nhất không ai đỡ.",
+        "text": "ĐẨY TẠ QUÁ SỨC",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Lấy một đoạn code mẫu đang chạy tốt, xoá đúng một dòng rồi tự viết lại.",
+        "text": "LẤY KHUNG CÓ SẴN",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Mỗi tuần tháo bớt một điểm tựa đến khi tự viết mượt mà.",
+        "text": "THÁO DẦN ĐIỂM TỰA",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "target"
+      },
+      {
+        "vo": "Dựng giàn giáo trước rồi mới xây nhà. Làm ngay đi.",
+        "text": "LÀM NGAY HÔM NAY",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s261",
+    "mascot": "pen",
+    "title": "Find Your Learning Sweet Zone",
+    "mechanism": "The Sweet Zone",
+    "lines": [
+      {
+        "vo": "Beginner phrasebooks feel childish, but native podcasts sound impossibly fast.",
+        "text": "STUCK IN THE MIDDLE",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "You are bouncing between boring shallows and deep open water.",
+        "text": "BORED OR DROWNING",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Growth happens along a narrow edge called the sweet zone.",
+        "text": "THE SWEET ZONE",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "When material sits just beyond your reach, your mind stretches without snapping.",
+        "text": "STRETCH YOUR MIND",
+        "color": "green",
+        "actor": "reading",
+        "prop": "target"
+      },
+      {
+        "vo": "Look for graded audio where you understand most words, but not all.",
+        "text": "FIND GRADED AUDIO",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "You stay engaged without frying your working memory.",
+        "text": "CALM ATTENTION",
+        "color": "green",
+        "actor": "meditating",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Are you challenging your mind today, or just keeping it safe?",
+        "text": "SAFE OR GROWING?",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s261vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Hoc The Nao Cho Vua Suc?",
+    "title_vi": "Học Thế Nào Cho Vừa Sức?",
+    "mechanism": "The Sweet Zone",
+    "lines": [
+      {
+        "vo": "Đọc sách giao tiếp cơ bản thì chán, nghe podcast bản xứ lại quá nhanh.",
+        "text": "CHÁN HOẶC QUÁ TẢI",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Bạn bị kẹt giữa chỗ quá dễ và vùng biển quá sâu.",
+        "text": "MẮC KẸT Ở GIỮA",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Não chỉ học tốt nhất ở vùng ranh giới vừa tầm với.",
+        "text": "VÙNG VỪA SỨC",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Nội dung khó hơn một chút giúp bạn tập trung mà không nản lòng.",
+        "text": "CĂNG MÀ KHÔNG ĐỨT",
+        "color": "green",
+        "actor": "reading",
+        "prop": "target"
+      },
+      {
+        "vo": "Chọn video bạn hiểu được phần lớn, chỉ cần với thêm vài câu mới.",
+        "text": "VỚI THÊM MỘT CHÚT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Giữ nhịp học ở đúng ranh giới đó mỗi ngày.",
+        "text": "GIỮ NHỊP ĐỀU ĐẶN",
+        "color": "green",
+        "actor": "meditating",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Hôm nay bạn đang thử thách bản thân, hay chỉ chọn chỗ an toàn?",
+        "text": "AN TOÀN HAY BỨT PHÁ?",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s262",
+    "mascot": "buff",
+    "title": "Steal How Senior Pros Think",
+    "mechanism": "Apprenticeship",
+    "lines": [
+      {
+        "vo": "Watching senior creators edit in seconds while you feel totally lost?",
+        "text": "LOST IN SECONDS",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "You are admiring the highlight reel without reading the coach's playbook.",
+        "text": "READ THE PLAYBOOK",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Experts bury their instincts. You need cognitive apprenticeship to dig them up.",
+        "text": "DIG UP THE LOGIC",
+        "color": "green",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Watch unedited breakdowns where pros explain why they scrapped their first cut.",
+        "text": "STUDY SCRAPPED CUTS",
+        "color": "green",
+        "actor": "reading",
+        "prop": "target"
+      },
+      {
+        "vo": "Steal their decision filter for three projects before chasing personal style.",
+        "text": "STEAL THE FILTER",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Master the fundamental mechanics first. Your style comes later.",
+        "text": "MECHANICS FIRST",
+        "color": "gold",
+        "actor": "sprint_start",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s262vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Hoc Cach Dan Anh Ra Quyet Dinh",
+    "title_vi": "Học Cách Đàn Anh Ra Quyết Định",
+    "mechanism": "Apprenticeship",
+    "lines": [
+      {
+        "vo": "Xem đàn anh dựng video loáng cái là xong, còn bạn ngồi loay hoay?",
+        "text": "LOAY HOAY CẮT DỰNG",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Bạn chỉ nhìn thấy bàn thắng đẹp mà không biết chiến thuật đằng sau.",
+        "text": "CHỈ THẤY BỀ NỔI",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Họ cắt nhanh vì đã giấu tiêu chuẩn đánh giá sâu trong đầu.",
+        "text": "BỘ LỌC ẨN GIẤU",
+        "color": "green",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Tìm video họ nói to suy nghĩ, giải thích lý do xoá đoạn cắt đầu.",
+        "text": "NGHE HỌ NÓI THẬT",
+        "color": "green",
+        "actor": "reading",
+        "prop": "target"
+      },
+      {
+        "vo": "Áp dụng đúng cách tư duy đó cho ba bài tập tiếp theo.",
+        "text": "BẮT CHƯỚC TƯ DUY",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Học cách họ ra quyết định trước đã. Phong cách tính sau.",
+        "text": "NẮM VỮNG CƠ BẢN",
+        "color": "gold",
+        "actor": "sprint_start",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s263",
+    "mascot": "pen",
+    "title": "Why Easy Studying Fails You",
+    "mechanism": "Desirable Strain",
+    "lines": [
+      {
+        "vo": "Re-reading your study notes feels effortless, but tomorrow your mind goes blank.",
+        "text": "FORGOTTEN BY MORNING",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "When review feels smooth, your brain mistakes recognition for real mastery.",
+        "text": "FALSE FLUENCY",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "You need desirable strain to force your memory to reconstruct ideas.",
+        "text": "DESIRABLE STRAIN",
+        "color": "green",
+        "actor": "think",
+        "prop": "target"
+      },
+      {
+        "vo": "Close the manual completely. Try writing the concept from pure recall.",
+        "text": "CLOSE THE NOTES",
+        "color": "green",
+        "actor": "writing",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Do not grind one topic. Mix three different problem types together.",
+        "text": "MIX YOUR PROBLEMS",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Sleep between sessions so your mind retrieves concepts after a cooldown.",
+        "text": "REST AND RETRIEVE",
+        "color": "green",
+        "actor": "sleeping",
+        "prop": "moon_stars"
+      },
+      {
+        "vo": "That awkward mental friction is evidence of neural adaptation.",
+        "text": "FRICTION IS GROWTH",
+        "actor": "meditating",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Easy studying vanishes quickly. The struggle is where memory anchors.",
+        "text": "STRUGGLE ANCHORS",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s263vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tai Sao Hoc De Lai Nhanh Quen?",
+    "title_vi": "Tại Sao Học Dễ Lại Nhanh Quên?",
+    "mechanism": "Desirable Strain",
+    "lines": [
+      {
+        "vo": "Đọc lại tài liệu thấy hiểu hết, nhưng sáng hôm sau đầu óc trống trơn.",
+        "text": "HÔM SAU QUÊN SẠCH",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Cảm giác êm ái khi đọc lại chỉ là sự quen mắt đánh lừa bạn.",
+        "text": "ẢO GIÁC HIỂU BÀI",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Trí nhớ cần một chút lực cản để thật sự khắc sâu kiến thức.",
+        "text": "CẦN CHÚT LỰC CẢN",
+        "color": "green",
+        "actor": "think",
+        "prop": "target"
+      },
+      {
+        "vo": "Gấp sách lại hoàn toàn và tự gõ lại từng dòng từ trí nhớ.",
+        "text": "ĐÓNG TÀI LIỆU LẠI",
+        "color": "green",
+        "actor": "writing",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Đừng làm mãi một dạng bài, hãy trộn ba bài khác nhau trong một buổi.",
+        "text": "TRỘN NHIỀU DẠNG BÀI",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Ngủ một giấc để não phục hồi rồi mới nhớ lại kiến thức.",
+        "text": "NGỦ ĐỦ GIẤC",
+        "color": "green",
+        "actor": "sleeping",
+        "prop": "moon_stars"
+      },
+      {
+        "vo": "Cảm giác chật vật lúc nhớ lại chính là lúc não đang lớn lên.",
+        "text": "CHẬT VẬT LÀ ĐANG HỌC",
+        "actor": "meditating",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Học quá dễ thì trôi nhanh. Chút nhọc nhằn mới giữ bài ở lại.",
+        "text": "GIỮ LẠI KIẾN THỨC",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s264",
+    "mascot": "buff",
+    "title": "Stop Practicing In An Echo Chamber",
+    "mechanism": "Feedback Loops",
+    "lines": [
+      {
+        "vo": "Mixing beats alone in your room for months? Sure, buddy.",
+        "text": "SOLO ECHO CHAMBER",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "You are just locking in terrible habits inside an echo chamber.",
+        "text": "LOCKING BAD HABITS",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Compare your mix against a pro reference every two minutes.",
+        "text": "COMPARE WITH PROS",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Fix muddy frequencies right away before flawed technique becomes muscle memory.",
+        "text": "FIX FLAWS NOW",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Drop your ego. Test your reps against real standards today.",
+        "text": "TEST YOUR REPS",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s264vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung Tu Luyen Tap Trong Phong Kin",
+    "title_vi": "Đừng Tự Luyện Tập Trong Phòng Kín",
+    "mechanism": "Feedback Loops",
+    "lines": [
+      {
+        "vo": "Tự mày mò làm nhạc ba tháng trong phòng một mình. Ừ, tin.",
+        "text": "TỰ HỌC TRONG PHÒNG",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Bạn chỉ đang chăm chỉ luyện tập những thói quen sai lầm.",
+        "text": "LUYỆN SAI KỸ THUẬT",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Mở một bài mẫu chuẩn của chuyên gia lên và so sánh từng đoạn ngắn.",
+        "text": "SO VỚI BẢN CHUẨN",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Thấy chỗ nào lệch thì chỉnh ngay, đừng để lỗi bám thành tật.",
+        "text": "SỬA NGAY TỨC THÌ",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Bỏ cái tôi đi. Đo lại bài làm với chuẩn xịn ngay hôm nay.",
+        "text": "ĐO VỚI CHUẨN XỊN",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s265",
+    "mascot": "pen",
+    "title": "Why App Streaks Fail In Real Life",
+    "mechanism": "Real Context",
+    "lines": [
+      {
+        "vo": "A two hundred day app streak, yet you freeze ordering dinner abroad.",
+        "text": "TWO HUNDRED DAYS",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Tapping colorful buttons on the sofa never builds reflexes under real pressure.",
+        "text": "SOFA REFLEXES",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Memory recalls best when your practice matches the messy reality of execution.",
+        "text": "MATCH REAL CHAOS",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Ditch the multiple-choice cards. Send rapid voice memos under a strict timer.",
+        "text": "TIMED VOICE MEMOS",
+        "color": "green",
+        "actor": "nervous_wave",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Force your mouth to speak before you feel comfortable.",
+        "text": "SPEAK UNDER PRESSURE",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Real confidence grows when your practice embraces friction.",
+        "text": "EMBRACE FRICTION",
+        "color": "green",
+        "actor": "meditating",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Are you practicing for glowing scores, or for the real world?",
+        "text": "SCORES OR REALITY?",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s265vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Sao Gioi App Ma Van Cung Hong?",
+    "title_vi": "Sao Giỏi App Mà Vẫn Cứng Họng?",
+    "mechanism": "Real Context",
+    "lines": [
+      {
+        "vo": "Điểm danh học ngoại ngữ hai trăm ngày, nhưng gặp người nước ngoài là cứng họng.",
+        "text": "CHUỖI HAI TRĂM NGÀY",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Bấm mấy ô trắc nghiệm trên sofa không rèn được phản xạ dưới áp lực.",
+        "text": "BẪY TRẮC NGHIỆM",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Não chỉ nhớ tốt khi điều kiện luyện tập giống hệt thực tế.",
+        "text": "GIỐNG HỆT THỰC TẾ",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Tự ghi âm giọng nói trong mười giây thay vì bấm màn hình điện thoại.",
+        "text": "TẬP NÓI BẤM GIỜ",
+        "color": "green",
+        "actor": "nervous_wave",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Bắt miệng mình bật ra câu chữ ngay cả khi thấy chưa sẵn sàng.",
+        "text": "BẬT RA PHẢN XẠ",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Sự tự tin vững vàng chỉ đến từ những va chạm chân thật.",
+        "text": "VA CHẠM THẬT SỰ",
+        "color": "green",
+        "actor": "meditating",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Bạn đang luyện để lấy điểm số đẹp, hay để dùng được ngoài đời?",
+        "text": "ĐIỂM HAY ĐỜI THẬT?",
+        "color": "gold",
+        "actor": "front",
+        "prop": "lightbulb"
+      }
+    ]
+  }
+]

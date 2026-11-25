@@ -1,0 +1,920 @@
+{
+ "id": "L54",
+ "lang": "en",
+ "title": "Why Your Mind Gets Busy When You Lie Down (8 Reasons)",
+ "description": "Ever notice how your brain stays quiet all day, only to start racing the second your head hits the pillow? We break down eight psychological reasons your mind wakes up at night. Learn why it happens and how writing tomorrow's first task down helps your brain clock out on time.",
+ "chapters": [
+  {
+   "title": "TIRED BUT WIRED",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You climb into bed completely exhausted, but the minute your head touches the pillow, your brain turns wide awake.",
+     "text": "TIRED BUT WIRED",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. Your body clocks out, and suddenly your brain decides it is time for a midnight workout.",
+     "text": "SURPRISE WORKOUT",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does my mind wait until the lights go out to start thinking about everything at once?",
+     "text": "WIDE AWAKE AGAIN",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because your brain spent all day sprinting at maximum speed, and you forgot to give it a cooldown.",
+     "text": "NO COOLDOWN",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So what makes my thoughts race the exact second I want to sleep?",
+     "text": "WHY TONIGHT?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here are eight reasons your brain gets busy at night, plus the exact drills to quiet it down.",
+     "text": "EIGHT REASONS",
+     "color": "green",
+     "actor": "celebrate"
+    }
+   ]
+  },
+  {
+   "title": "1. COGNITIVE AROUSAL",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "You shut down your laptop after answering urgent emails, but your brain keeps running at high speed.",
+     "text": "1. COGNITIVE AROUSAL",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Classic cognitive arousal, buddy. Your body dropped the weights, but your nervous system is stuck in max-effort mode.",
+     "text": "MAX EFFORT MODE",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I thought lying still would automatically tell my mind that the day is over?",
+     "text": "STILL BUT BUSY?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Resting your muscles is not the same as resting your thoughts. High alertness needs an intentional cooldown.",
+     "text": "COOL DOWN FIRST",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So when I work right up to bedtime, my nervous system stays locked on high power?",
+     "text": "LOCKED ON HIGH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You redlined your brain through work all evening, then slammed the brakes and expected immediate sleep.",
+     "text": "SLAMMED THE BRAKES",
+     "color": "ink",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I convince my head to drop the pace before bed?",
+     "text": "HOW TO SLOW DOWN?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Build a twenty-minute buffer zone. Read paper, stretch, or tidy up with zero screens allowed.",
+     "text": "TWENTY MINUTE BUFFER",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A slow warm-down gives my alertness room to drop before touching the mattress?",
+     "text": "GENTLE WARM-DOWN",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You would never walk straight out of the gym after heavy squats without stretching first.",
+     "text": "STRETCH IT OUT",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even after a buffer, why does a quiet bedroom feel suddenly so intense?",
+     "text": "TOO INTENSE?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because when the room goes black, your brain turns the listening volume all the way up.",
+     "text": "VOLUME CRANKED UP",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "2. ATTENTION CAPTURE",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "The second the room goes pitch black, every tiny house noise sounds like an emergency.",
+     "text": "2. ATTENTION CAPTURE",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is attentional capture. When daylight distractions vanish, tiny cues steal the entire mental gym floor.",
+     "text": "STAGE STEALERS",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A dripping faucet or distant siren suddenly feels louder than a rock concert?",
+     "text": "MAX VOLUME NOISE",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "In a dead-silent room, your brain drops its sensory threshold, turning a tiny floor creak into a blaring alarm.",
+     "text": "SENSORY THRESHOLD",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My attention locks onto whatever floats by because nothing else is competing for it?",
+     "text": "EMPTY STAGE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spot on. Your brain hates an empty spotlight, so it zooms in on random background noise.",
+     "text": "BRAIN HATES VACUUM",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I keep my spotlight from jumping at every little shadow?",
+     "text": "STEADY THE BEAM?",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Give it steady background input. A low hum from a fan or soft white noise anchors your focus.",
+     "text": "STEADY WHITE NOISE",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So a boring sound keeps random noises from capturing my awareness?",
+     "text": "MASK THE CHAOS",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Neutral sound masks the spikes, giving your restless radar nothing dramatic to track.",
+     "text": "CALM RADAR",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even when the room is masked with white noise, my mind still latches onto tomorrow's inbox.",
+     "text": "TOMORROW'S INBOX",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because an open loop from work out-shouts any background sound.",
+     "text": "OPEN LOOPS WIN",
+     "color": "ink",
+     "actor": "hand_off"
+    }
+   ]
+  },
+  {
+   "title": "3. ZEIGARNIK EFFECT",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Why do I remember that unsent email right when I pull up the blankets?",
+     "text": "3. ZEIGARNIK EFFECT",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Welcome to the Zeigarnik effect. Your brain refuses to drop the bar on an unfinished set.",
+     "text": "OPEN LOOPS",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So every project I paused today is still running in the background?",
+     "text": "BACKGROUND TASKS",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Unfinished tasks maintain active goal tension, repeatedly popping back into awareness until you log an external plan.",
+     "text": "TASK TENSION",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It feels like ten browser tabs refusing to close while I try to sleep.",
+     "text": "TOO MANY TABS",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain simply keeps that goal pinned on your mental desk until you give it an official closing cue.",
+     "text": "PINNED ON DESK",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Do I have to finish all my work before going to bed?",
+     "text": "WORK ALL NIGHT?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "No way. Just park tomorrow's first step on paper with a two-minute brain dump.",
+     "text": "BRAIN DUMP ON PAPER",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Just writing a single task down actually convinces my brain to let go?",
+     "text": "REALLY THAT SIMPLE?",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Writing creates an external closure cue. It lets your memory safely rack the weight and rest.",
+     "text": "RACK THE WEIGHT",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Writing tomorrow's task parks my work, but what about the scary what-if thoughts that show up?",
+     "text": "WHAT-IF WORRIES",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Those are intrusive worries stepping into the ring uninvited.",
+     "text": "UNINVITED GUESTS",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "4. INTRUSIVE THOUGHTS",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Out of nowhere, my brain demands to know what happens if I lose my job next month.",
+     "text": "4. INTRUSIVE THOUGHTS",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Those are intrusive thoughts. Involuntary, sudden spikes of anxiety that strike whenever your daytime guard drops.",
+     "text": "SUDDEN SPIKES",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does my head generate catastrophic worries right when I am trying to relax?",
+     "text": "WORST CASE SCENARIOS",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your threat-detection system is scanning for danger. When it finds nothing immediate, it invents hypothetical disasters.",
+     "text": "THREAT RADAR SCAN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then I panic about feeling anxious, which only jacks my heart rate higher.",
+     "text": "PANIC SPIRAL",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Wrestling intrusive thoughts is like bench-pressing quicksand. The harder you fight, the deeper you sink.",
+     "text": "FIGHTING QUICKSAND",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So trying to force bad thoughts out of my head backfires completely?",
+     "text": "FORCE FAILS?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Treat dark thoughts like hecklers. Name the worry as noise, unclench your jaw, and take one slow exhale.",
+     "text": "UNCLENCH AND EXHALE",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Label the thought without jumping into the ring to wrestle it?",
+     "text": "NO WRESTLING",
+     "color": "gold",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. You do not have to fight every uninvited sparring partner that walks into your gym.",
+     "text": "SKIP THE BOUT",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even with a calm mind, why do my eyes stay wide open some nights?",
+     "text": "WIDE AWAKE STILL?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because your internal biological clock is convinced that it is still midday.",
+     "text": "CLOCK SAYS NOON",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "5. CLOCK ENTRAINMENT",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Some nights I climb into bed at ten, but my body feels completely energized.",
+     "text": "5. CLOCK ENTRAINMENT",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is circadian entrainment talking. Your internal master clock synchronizes to light signals, not your bedtime wishlist.",
+     "text": "LIGHT OVER WISHES",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So even if I want to sleep early, my clock might think it is still daytime?",
+     "text": "BODY SAYS DAY",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests that bright evening lighting delays natural melatonin release, pushing back your natural sleep window.",
+     "text": "DELAYED MELATONIN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I scrolled videos on the couch right before brushing my teeth.",
+     "text": "COUCH SCROLLING",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It is a double hit. Screen light stalls your clock, while fast feeds keep alertness and dopamine spiking.",
+     "text": "DOPAMINE SPIKE",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I align my internal clock with my actual bedtime?",
+     "text": "RESET THE CLOCK?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dim overhead bulbs two hours before bed, and get ten minutes of natural sunlight every morning.",
+     "text": "DIM LIGHTS EARLY",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Morning sunlight actually fixes how alert I feel twelve hours later in bed?",
+     "text": "SUNLIGHT FIXES IT?",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Consistency locks the rhythm. Your biological clock loves a predictable training schedule.",
+     "text": "TRAIN THE CLOCK",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When my body clock is aligned, why does my head still replay old embarrassing memories?",
+     "text": "WHY OLD MEMORIES?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because whenever outward focus stops, your default internal storyteller powers straight up.",
+     "text": "INTERNAL NARRATOR",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    }
+   ]
+  },
+  {
+   "title": "6. DEFAULT NETWORK",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "The minute I set down my phone, my brain replays an embarrassing mistake from middle school.",
+     "text": "6. DEFAULT NETWORK",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Meet the default mode network, buddy. That is your brain idling on the treadmill without a coach.",
+     "text": "IDLING TREADMILL",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So when I stop outward tasks, my brain automatically switches inward?",
+     "text": "SWITCHING INWARD",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Always. The default network runs social memories, self-criticism, and future planning whenever you sit idle.",
+     "text": "THE IDLE ENGINE",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That explains why every awkward conversation from my past auditions for attention at midnight.",
+     "text": "PAST REGRETS",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It is not trying to hurt you. Your mind is reviewing old social tape to prepare for tomorrow.",
+     "text": "REVIEWING TAPE",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Can I give the narrator something harmless to focus on?",
+     "text": "CHANGE THE TUNE?",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Try a neutral cognitive shuffle. Pick the word BED, and picture three random items for each letter.",
+     "text": "COGNITIVE SHUFFLE",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "pen",
+     "vo": "A neutral mental game occupies my focus without triggering any emotional baggage?",
+     "text": "NO EMOTIONAL STRESS",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. It occupies the storyteller with zero emotional drama until you drift off.",
+     "text": "NO EMOTIONAL DRAMA",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does that mental trick work even if I am using my laptop in bed?",
+     "text": "LAPTOP IN BED?",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Not a chance, rookie. That brings us straight to the bad cues you trained into your mattress.",
+     "text": "BEDROOM HABITS",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "7. STIMULUS CONTROL",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I answer work emails in bed, eat dinner there, and stream action movies right under my duvet.",
+     "text": "7. STIMULUS CONTROL",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is broken stimulus control, buddy. You trained your bed to mean high alert instead of sleep.",
+     "text": "BED AS AN OFFICE",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My mattress learned that it is a secondary workstation instead of a sanctuary?",
+     "text": "OFFICE MATTRESS",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your nervous system builds strong physical associations. Work where you sleep, and the bed triggers alertness.",
+     "text": "STRONG CUES",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "No wonder my heart rate jumps the moment I crawl under the blankets.",
+     "text": "RACING IN BED",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You conditioned your brain to expect serious output whenever your head touches that pillow.",
+     "text": "WORK EXPECTATION",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I teach my brain that bed only means sleep?",
+     "text": "REBUILD THE LINK?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Strip out the workspace cues. Move laptops, paperwork, and late screens completely out of the bedroom.",
+     "text": "CLEAR WORK SPACES",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Keep the bedroom reserved only for rest so the physical cue triggers sleepiness?",
+     "text": "SACRED SLEEP CUE",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "One cue, one response. Make your mattress the single strongest trigger for powering down.",
+     "text": "POWER DOWN CUE",
+     "color": "green",
+     "actor": "front",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What if I remove the work cues, but I still find myself tossing and turning?",
+     "text": "STILL TOSSING?",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then you are trapped in performance mode, where trying to sleep becomes the very thing keeping you awake.",
+     "text": "THE TRYING TRAP",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "moon_stars"
+    }
+   ]
+  },
+  {
+   "title": "8. BEDROOM AROUSAL",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I felt totally sleepy on the sofa, but the second I climbed into bed, I woke up.",
+     "text": "8. BEDROOM AROUSAL",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Conditioned bedroom arousal, buddy. The harder you strain to force sleep, the more your nervous system panics.",
+     "text": "PERFORMANCE TRAP",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So lying awake trying to force sleep made the bed feel like a stressful test?",
+     "text": "TRYING TOO HARD",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Forcing sleep is like forcing a heavy lift with bad form. The harder you strain, the more sleep flees.",
+     "text": "PERFORMANCE STRAIN",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then I stare at the clock counting down every lost hour of rest.",
+     "text": "CLOCK WATCHING",
+     "color": "red",
+     "actor": "panic",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Clock watching triggers frustration spikes that flood your bloodstream with adrenaline.",
+     "text": "FRUSTRATION SPIKES",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What am I supposed to do when tossing and turning just makes me furious?",
+     "text": "HOW TO BREAK IT?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Turn your clock face to the wall. If frustration builds, get out of bed and reset in a chair.",
+     "text": "TURN CLOCK AWAY",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Getting out of bed when I am exhausted feels completely backwards.",
+     "text": "FEELS BACKWARDS",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sit in a dim chair and read paper. Protect your bed association like your favorite training gains.",
+     "text": "PROTECT THE GAINS",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So how do all these pieces fit together when tonight arrives?",
+     "text": "THE FULL PLAN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now, let us put all eight mental drills together into a simple game plan.",
+     "text": "NIGHT GAME PLAN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "THE NIGHT GAME PLAN",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "So my racing mind is not broken, it is just responding to mixed signals?",
+     "text": "THE NIGHT GAME PLAN",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pillar one is your runway: downshift early with dim lighting and steady neutral sound.",
+     "text": "1. BUILD A RUNWAY",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What about the endless loop of unfinished work and random worries?",
+     "text": "RACING THOUGHTS?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pillar two is mental offloading: park open loops on paper and let catastrophic thoughts drift away.",
+     "text": "2. MENTAL OFFLOAD",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And what do I do when tossing and turning starts?",
+     "text": "STILL TOSSING?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pillar three is bed boundaries: keep workspaces out, and reset in a chair if frustration builds.",
+     "text": "3. BED BOUNDARIES",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How should I test this out starting tonight?",
+     "text": "WHERE TO START?",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Take our seven-day challenge: write down tomorrow's first task on paper before turning off your lights.",
+     "text": "SEVEN DAY CHALLENGE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "One written task to give my brain permission to clock out for the night?",
+     "text": "PERMISSION TO REST",
+     "color": "gold",
+     "actor": "meditating",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Subscribe for more practical stickman psychology, and give your mind the rest it earned.",
+     "text": "SUBSCRIBE FOR MORE",
+     "color": "green",
+     "actor": "celebrate"
+    }
+   ]
+  }
+ ]
+}

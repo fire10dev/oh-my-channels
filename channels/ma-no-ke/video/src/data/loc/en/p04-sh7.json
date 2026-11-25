@@ -1,0 +1,397 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 36.724,
+"shots": [
+{
+"img": "p04/img/G08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 5.977,
+"a": [
+900,
+576,
+648
+],
+"b": [
+840,
+500,
+460
+],
+"flash": 1
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 5.977,
+"t1": 9.557,
+"a": [
+560,
+700,
+760
+],
+"b": [
+540,
+660,
+560
+]
+},
+{
+"img": "p04/img/G12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 9.557,
+"t1": 13.125,
+"a": [
+576,
+700,
+460
+],
+"b": [
+576,
+700,
+340
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.125,
+"t1": 17.594,
+"a": [
+420,
+700,
+460
+],
+"b": [
+420,
+680,
+340
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.594,
+"t1": 22.017,
+"a": [
+1360,
+640,
+460
+],
+"b": [
+1360,
+600,
+340
+]
+},
+{
+"img": "p04/img/G08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 22.017,
+"t1": 26.842,
+"a": [
+840,
+500,
+460
+],
+"b": [
+840,
+400,
+340
+]
+},
+{
+"img": "p04/img/G08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 26.842,
+"t1": 28.941,
+"a": [
+1560,
+500,
+460
+],
+"b": [
+1560,
+500,
+340
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 28.941,
+"t1": 32.118,
+"a": [
+1600,
+500,
+460
+],
+"b": [
+1600,
+480,
+340
+],
+"shake": 5,
+"dark": 0.6
+},
+{
+"img": "p04/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 32.118,
+"t1": 36.324,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 32.118,
+"t1": 36.324,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 5.977,
+"text": "3 HOURS LEFT",
+"color": "#ff5a4a"
+},
+{
+"t0": 5.977,
+"t1": 8.046,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 8.392,
+"t1": 13.125,
+"text": "BANG TRAY · CALL NAME → RETURN",
+"color": "#ffd84a"
+},
+{
+"t0": 13.558,
+"t1": 22.017,
+"text": "DEADLINE: DAWN, DAY FOUR",
+"color": "#ff5a4a"
+},
+{
+"t0": 22.017,
+"t1": 26.842,
+"text": "2:00 AM",
+"color": "#ffd84a"
+},
+{
+"t0": 32.118,
+"t1": 33.921,
+"text": "WHO OPENS THE DOOR?",
+"color": "#ffd84a"
+},
+{
+"t0": 33.921,
+"t1": 36.324,
+"text": "▼ FULL EPISODE: LINK BELOW",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.0,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 1.156,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 2.31,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 3.466,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 4.621,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 8.874,
+"src": "p04/sfx/boong.wav",
+"vol": 0.5
+},
+{
+"t": 26.134,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 26.363,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 28.042,
+"src": "p04/sfx/cauda.wav",
+"vol": 1
+},
+{
+"t": 28.122,
+"src": "p02/sfx/mayoff.wav",
+"vol": 0.5
+},
+{
+"t": 30.229,
+"src": "p04/sfx/dapcua.wav",
+"vol": 0.9
+},
+{
+"t": 30.745,
+"src": "p04/sfx/dapcua.wav",
+"vol": 0.9
+},
+{
+"t": 31.261,
+"src": "p04/sfx/dapcua.wav",
+"vol": 1
+},
+{
+"t": 32.118,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 35.063,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 5.777,
+"text": "Three hours till dawn. If nobody bangs the tray and calls a name, the ma giau loses."
+},
+{
+"t": 5.977,
+"dur": 6.899,
+"text": "Simple rules. I hide them, their family looks. Bang the brass tray, call their name. One bang and I bring them back. That's a game."
+},
+{
+"t": 13.125,
+"dur": 8.642,
+"text": "There's a deadline, too. The family has to look before dawn on day four. If nobody comes, the kid walks home, and eight hundred years at my job… becomes a joke."
+},
+{
+"t": 22.017,
+"dur": 4.575,
+"text": "Two a.m. Three hours till dawn. If this family won't bang the tray, I'll make them."
+},
+{
+"t": 26.842,
+"dur": 1.599,
+"text": "I cut the power to the whole floor."
+},
+{
+"t": 28.941,
+"dur": 2.576,
+"text": "Then I banged on the stairwell door. Bang. Bang. Bang."
+},
+{
+"t": 32.118,
+"dur": 3.005,
+"text": "Who'll open that door? Full episode — link below."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/en/vo/196b8bdf18.wav"
+},
+{
+"t": 5.977,
+"src": "loc/en/vo/1ba4f9bfce.wav"
+},
+{
+"t": 13.125,
+"src": "loc/en/vo/56797b4171.wav"
+},
+{
+"t": 22.017,
+"src": "loc/en/vo/f5660c2191.wav"
+},
+{
+"t": 26.842,
+"src": "loc/en/vo/5db8aaacef.wav"
+},
+{
+"t": 28.941,
+"src": "loc/en/vo/6aebafcac3.wav"
+},
+{
+"t": 32.118,
+"src": "loc/en/vo/0501b4dece.wav"
+}
+],
+"mutes": [
+[
+0.0,
+5.977
+],
+[
+21.817,
+26.842
+],
+[
+26.642,
+28.941
+],
+[
+28.741,
+32.118
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

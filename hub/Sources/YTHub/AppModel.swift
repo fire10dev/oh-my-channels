@@ -59,11 +59,56 @@ final class AppModel: ObservableObject {
     return out
   }
 
+  func assets(videoId: Int64) -> [LinkedAsset] {
+    var out: [LinkedAsset] = []
+    attempt { out = try $0.assets(videoId: videoId) }
+    return out
+  }
+
+  /// Absolute path for a stored one (asset paths are relative to the repo root the CLI recorded).
+  func absolute(_ path: String) -> String {
+    if path.hasPrefix("/") || path.hasPrefix("~") { return (path as NSString).expandingTildeInPath }
+    var root: String?
+    attempt { root = try $0.root() }
+    return root.map { "\($0)/\(path)" } ?? path
+  }
+
   func facts(videoId: Int64) -> [Fact] {
     var out: [Fact] = []
     attempt { out = try $0.facts(videoId: videoId) }
     return out
   }
+
+  // MARK: v3 — dashboard + manifests (read only)
+
+  func lastEvents() -> [Int64: Event] {
+    var out: [Int64: Event] = [:]
+    attempt { out = try $0.lastEvents() }
+    return out
+  }
+
+  func events(since: String) -> [Event] {
+    var out: [Event] = []
+    attempt { out = try $0.events(since: since) }
+    return out
+  }
+
+  /// Path the channel's adapter registered (`ythub fact <CODE> manifest <path>`).
+  func manifestPath(videoId: Int64) -> String? {
+    facts(videoId: videoId).first { $0.key == "manifest" }.map { absolute($0.value) }
+  }
+
+  /// Parsed manifest, cached until the file's modification date changes.
+  func manifest(videoId: Int64) -> Manifest? {
+    guard let path = manifestPath(videoId: videoId),
+          let mod = (try? FileManager.default.attributesOfItem(atPath: path))?[.modificationDate] as? Date
+    else { return nil }
+    if let c = manifestCache[path], c.0 == mod { return c.1 }
+    let m = (try? Data(contentsOf: URL(fileURLWithPath: path))).flatMap { try? Manifest.decode($0) }
+    manifestCache[path] = (mod, m)
+    return m
+  }
+  private var manifestCache: [String: (Date, Manifest?)] = [:]
 
   func addTask(_ v: Video, owner: String, text: String) {
     attempt { try $0.addTask(channelId: v.channelId, videoId: v.id, owner: owner, text: text) }
@@ -76,6 +121,103 @@ final class AppModel: ObservableObject {
   }
 
   func channel(_ id: Int64) -> Channel? { channels.first { $0.id == id } }
+
+  // MARK: v4 — Studio
+
+  let jobs = JobCenter()
+  /// Video open in the Studio workspace (full window), nil = Hub.
+  @Published var studioVideoId: Int64?
+  private var chats: [Int64: AgentChat] = [:]
+  private var studioCache: [String: (Date, StudioConfig?, String?)] = [:]
+
+  /// Absolute channel folder (channel.repo_path), nil when unset or missing.
+  func channelDir(_ channelId: Int64) -> String? {
+    guard let rel = channel(channelId)?.repoPath, !rel.isEmpty else { return nil }
+    let dir = absolute(rel)
+    return FileManager.default.fileExists(atPath: dir) ? dir : nil
+  }
+
+  private func studioEntry(_ channelId: Int64) -> (StudioConfig?, String?) {
+    guard let dir = channelDir(channelId) else { return (nil, nil) }
+    let path = (dir as NSString).appendingPathComponent("studio.json")
+    guard let mod = (try? FileManager.default.attributesOfItem(atPath: path))?[.modificationDate] as? Date
+    else { return (nil, nil) }
+    if let c = studioCache[path], c.0 == mod { return (c.1, c.2) }
+    var cfg: StudioConfig?, err: String?
+    do { cfg = try StudioConfig.decode(Data(contentsOf: URL(fileURLWithPath: path))) } catch { err = "\(error)" }
+    studioCache[path] = (mod, cfg, err)
+    return (cfg, err)
+  }
+
+  /// Parsed channels/<kênh>/studio.json, re-read when the file changes.
+  func studio(channelId: Int64) -> StudioConfig? { studioEntry(channelId).0 }
+  func studioError(channelId: Int64) -> String? { studioEntry(channelId).1 }
+
+  /// Values for `{key}` in studio.json commands and prompts.
+  func studioVars(_ v: Video) -> [String: String] {
+    let dir = channelDir(v.channelId) ?? ""
+    var root: String?
+    attempt { root = try $0.root() }
+    return ["code": v.code, "kind": v.kind.rawValue, "stage": v.stage.rawValue, "title": v.title,
+            "script": v.scriptPath.isEmpty ? "" : absolute(v.scriptPath),
+            "file": v.filePath.isEmpty ? "" : absolute(v.filePath),
+            "channel": dir, "repo": root ?? "", "channel_name": channel(v.channelId)?.name ?? ""]
+  }
+
+  func galleryDir(_ v: Video) -> String? {
+    guard let dir = channelDir(v.channelId), let g = studio(channelId: v.channelId)?.gallery else { return nil }
+    return (dir as NSString).appendingPathComponent(expand(g, studioVars(v)))
+  }
+
+  /// One chat per video, kept while the app runs; the CLI session ids live in facts.
+  func chat(for v: Video) -> AgentChat {
+    if let c = chats[v.id] { return c }
+    let c = AgentChat()
+    for f in facts(videoId: v.id) where f.key.hasPrefix("agent_session_") && !f.value.isEmpty {
+      if let b = AgentBackend(rawValue: String(f.key.dropFirst("agent_session_".count))) { c.sessions[b] = f.value }
+    }
+    chats[v.id] = c
+    return c
+  }
+
+  /// Existing script files for a video: its script_path, then .json/.md/.txt in the channel folder named after the code.
+  func scriptCandidates(_ v: Video) -> [String] {
+    var out: [String] = []
+    if !v.scriptPath.isEmpty { out.append(absolute(v.scriptPath)) }
+    guard let dir = channelDir(v.channelId), !v.code.isEmpty else { return out }
+    let skip: Set = ["node_modules", ".git", "build", "out", "public", "final", ".venv", "videos", "archive", "_archive"]
+    var json: [String] = [], md: [String] = []
+    let e = FileManager.default.enumerator(atPath: dir)
+    while let f = e?.nextObject() as? String {
+      let name = (f as NSString).lastPathComponent
+      if skip.contains(name) { e?.skipDescendants(); continue }
+      guard !name.hasPrefix("."), name.localizedCaseInsensitiveContains(v.code) else { continue }
+      let full = (dir as NSString).appendingPathComponent(f)
+      switch (name as NSString).pathExtension.lowercased() {
+      case "json": json.append(full)
+      case "md", "txt": md.append(full)
+      default: break
+      }
+      if json.count + md.count > 20 { break }
+    }
+    for f in json.sorted() + md.sorted() where !out.contains(f) { out.append(f) }
+    return out
+  }
+
+  func openStudio(_ v: Video) {
+    guard !v.code.isEmpty, channelDir(v.channelId) != nil else { return }
+    studioVideoId = v.id
+  }
+
+  func logEvent(_ v: Video, kind: String, message: String, actor: String) {
+    let allowed: Set = ["note", "stage", "review", "render", "upload", "blocker"]
+    attempt { try $0.addEvent(channelId: v.channelId, videoId: v.id, kind: allowed.contains(kind) ? kind : "note",
+                              actor: actor, message: message) }
+  }
+
+  func setFact(_ v: Video, key: String, value: String) {
+    attempt { try $0.setFact(videoId: v.id, key: key, value: value) }
+  }
 
   func saveChannel(_ c: Channel) {
     attempt { s in

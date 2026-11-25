@@ -1,0 +1,18 @@
+{
+ "MN": {
+  "preset": "Thiện Minh",
+  "fx": "atempo=0.92,asetrate=48000*0.97,aresample=48000,aecho=0.8:0.6:60:0.25"
+ },
+ "SAU": {
+  "preset": "Thiền Tâm Đức",
+  "fx": "aecho=0.8:0.6:70:0.3"
+ },
+ "THANG": {
+  "preset": "Adam bựa",
+  "fx": "anull"
+ },
+ "KL": {
+  "preset": "Ngọc Huyền",
+  "fx": "anull"
+ }
+}

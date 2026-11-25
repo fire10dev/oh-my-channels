@@ -1,0 +1,160 @@
+{
+ "title": "Por que submarinistas às vezes não podem dar descarga",
+ "hook": "NÃO DÊ DESCARGA",
+ "asof": "Dados de 2026",
+ "world": "sub",
+ "long": "IX001",
+ "chapters": [
+  {
+   "id": "flush",
+   "hud": "DIA 31",
+   "chip": "09:30",
+   "tod": "day",
+   "shots": [
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "Num submarino, às vezes você não pode dar descarga."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Olha só por quê."
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      960,
+      540,
+      1.0
+     ],
+     "s": "Um submarino de mísseis balísticos precisa ficar escondido."
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      960,
+      560,
+      1.12
+     ],
+     "s": "Por isso, não pode deixar rastro de lixo."
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "O lixo seco é triturado,"
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "colocado em latas especiais de metal,"
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "e recebe pesos para afundar."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "COMPACTADOR",
+       "LATA DE METAL",
+       "+ PESOS",
+       "TUBO TDU ↓"
+      ],
+      "note": "as latas afundam até o fundo do mar"
+     },
+     "s": "Depois, as latas saem por um tubo no fundo do submarino,"
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1500,
+      650,
+      1.8
+     ],
+     "s": "direto para o fundo do mar."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Os dejetos humanos vão para outro lugar: um tanque sanitário."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "De tempos em tempos, a tripulação esvazia o tanque com ar comprimido."
+    },
+    {
+     "d": {
+      "type": "note",
+      "title": "AVISO!",
+      "lines": [
+       "DESCARGA DO TANQUE",
+       "NÃO DÊ DESCARGA"
+      ],
+      "stamp": "NÃO"
+     },
+     "s": "Enquanto isso, aparece um aviso em todos os banheiros."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      4.2
+     ],
+     "q": "NÃO DÊ DESCARGA",
+     "s": "Esvaziando o tanque. Não dê descarga."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Ignore o aviso,"
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "e você vai descobrir rapidinho por que ele está ali."
+    }
+   ]
+  }
+ ]
+}

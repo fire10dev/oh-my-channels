@@ -1,0 +1,14 @@
+{"id":"w004","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#a855f7","cover_frame":60,
+ "source":"Area: CIA World Factbook · Pluto: NASA · Time zones: IANA tz database","music":"shared/library/music/yt-audio-library/Deep Space Sector 9 - Ezra Lipp.mp3",
+ "beats":[
+  {"say":"Russia is bigger than the entire surface of Pluto.","title":"RUSSIA IS BIGGER THAN PLUTO","cam":{"lon":95,"lat":60,"span":150},"hl":[{"a3":"RUS","color":"#a855f7"}]},
+  {"say":"Russia covers seventeen point one million square kilometers. Pluto's whole surface is about sixteen point seven.","cam":{"lon":95,"lat":60,"span":150},"hl":[{"a3":"RUS","color":"#a855f7"}],
+   "bars":{"unit":"M km²","items":[{"label":"Russia","value":17.1,"color":"#a855f7"},{"label":"Pluto (entire surface)","value":16.7,"color":"#94a3b8"}]}},
+  {"say":"It stretches across eleven time zones.","cam":{"lon":95,"lat":58,"span":160},"hl":[{"a3":"RUS","color":"#a855f7"}],"big":{"value":"11","label":"time zones"}},
+  {"say":"When it's eight in the morning in Kaliningrad, it's already six in the evening in Kamchatka.","cam":{"lon":90,"lat":58,"span":175},"hl":[{"a3":"RUS","color":"#a855f7"}],
+   "pins":[{"lon":20.5,"lat":54.7,"text":"8:00 AM"},{"lon":158.6,"lat":53.0,"text":"6:00 PM"}],"line":{"pts":[[20.5,54.7],[60,60],[100,62],[140,60],[158.6,53]],"color":"#ffd23f"}},
+  {"say":"But most of that land is empty. About three quarters of Russians live west of the Ural Mountains, in the European part.","cam":{"lon":50,"lat":56,"span":80},"hl":[{"a3":"RUS","color":"#a855f7"}],
+   "line":{"pts":[[59,68],[60,62],[59.5,56],[58,51]],"color":"#ffd23f"},"pins":[{"lon":37.6,"lat":55.75,"text":"Moscow"}]},
+  {"say":"East of that line: Siberia. One of the emptiest places on the planet.","cam":{"lon":110,"lat":62,"span":110},"hl":[{"a3":"RUS","color":"#64748b"}]},
+  {"say":"Bigger than a planet, emptier than a desert. Follow for more.","title":"BIGGER THAN A PLANET","cam":{"lon":95,"lat":60,"span":150},"hl":[{"a3":"RUS","color":"#a855f7"}]}
+ ]}

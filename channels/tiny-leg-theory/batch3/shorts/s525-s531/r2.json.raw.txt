@@ -1,0 +1,697 @@
+REBUTTAL:
+1 accept
+2 accept
+3 reject: brief requires the same chapter situation and matched visuals; we diverge two lines within the family context instead.
+4 reject: brief requires the same chapter situation and matched visuals (actor: snack); we diverge two lines at lunch while applying Point 9.
+5 accept
+6 reject: Buff must never end on a question per brief; we provide the exact question and close with an action challenge.
+7 accept
+8 accept
+9 accept
+10 accept
+11 accept
+12 accept
+13 accept
+14 accept
+15 accept
+RESULT:
+[
+  {
+    "id": "s525",
+    "mascot": "pen",
+    "title": "Why You Doubt Your Own Eyes",
+    "mechanism": "The Line Test",
+    "lines": [
+      {
+        "vo": "Three coworkers swear the spreadsheet is right, but your math says no.",
+        "text": "OBVIOUS MISTAKE",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "You stare at your screen, wondering if your own eyes are broken.",
+        "text": "DOUBTING YOUR EYES",
+        "color": "red",
+        "actor": "panic"
+      },
+      {
+        "vo": "When the crowd agrees, your social brain surrenders clear sensory evidence.",
+        "text": "THE LINE TEST",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Standing alone against confident peers triggers real, sharp social fear.",
+        "text": "SOCIAL PRESSURE",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Write your verified numbers on paper before consensus hardens.",
+        "text": "ANCHOR ON PAPER",
+        "color": "green",
+        "actor": "writing"
+      },
+      {
+        "vo": "Speak early: my notes show a mismatch, let us verify line three.",
+        "text": "SPEAK EARLY",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "If you do not trust your own eyes, who are you trusting?",
+        "text": "TRUST YOUR EYES",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s525vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Dung de dam dong lua mat",
+    "title_vi": "Đừng để đám đông lừa mắt",
+    "mechanism": "The Line Test",
+    "lines": [
+      {
+        "vo": "Cả nhóm bạn cùng phòng chốt tiền điện vô lý, ai cũng bảo đúng.",
+        "text": "TÍNH SAI RÕ RÀNG",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Thấy ba người đều gật đầu, bạn bỗng ngờ chính phép tính của mình.",
+        "text": "TỰ NGHI NGỜ MÌNH",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Khi số đông cùng chỉ một hướng, não bạn tự nghi ngờ chính mắt mình.",
+        "text": "ÁP LỰC ĐÁM ĐÔNG",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đứng riêng một góc khiến bạn sợ bị coi là kẻ khó tính, xét nét.",
+        "text": "NỖI SỢ LẠC LÕNG",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Ghi rõ số công tơ ra giấy trước khi bấm gửi vào nhóm Zalo.",
+        "text": "GHI RÕ RA GIẤY",
+        "color": "green",
+        "actor": "writing"
+      },
+      {
+        "vo": "Nhắn vào nhóm: tớ thấy lệch dòng ba, mình cùng đối chiếu lại năm phút nhé.",
+        "text": "ĐỐI CHIẾU NĂM PHÚT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Nếu không tin vào mắt mình lúc này, bạn đang tin vào mắt của ai?",
+        "text": "TIN VÀO MẮT MÌNH",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s526",
+    "mascot": "buff",
+    "title": "The Trap of Quiet Rooms",
+    "mechanism": "The Quiet Room",
+    "lines": [
+      {
+        "vo": "The deadline is impossible, but everyone around you looks totally chill.",
+        "text": "IMPOSSIBLE DEADLINE",
+        "color": "red",
+        "actor": "panic",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "You stay quiet. You assume you are the only one drowning.",
+        "text": "QUIET PANIC",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Sure, buddy. Everyone is wearing a poker face while secretly panicking.",
+        "text": "THE QUIET ROOM",
+        "actor": "front",
+        "prop": "brain"
+      },
+      {
+        "vo": "Silence is not agreement. It is just mutual fear in disguise.",
+        "text": "SILENCE IS NOT YES",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Call for a spotter. Ask a neutral process question right now.",
+        "text": "CALL A SPOTTER",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Ask how confident we feel about quality. Break the spell now.",
+        "text": "BREAK THE SPELL",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s526vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Ca phong deu gia vo on",
+    "title_vi": "Cả phòng đều giả vờ ổn",
+    "mechanism": "The Quiet Room",
+    "lines": [
+      {
+        "vo": "Sếp giao việc gấp trong hai ngày, cả phòng ngồi im phăng phắc.",
+        "text": "DEADLINE QUÁ GẤP",
+        "color": "red",
+        "actor": "panic",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Bạn cắn răng gật đầu vì tưởng mỗi mình theo không kịp.",
+        "text": "SỢ MÌNH KÉM CỎI",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Ừ, tin đi. Ai cũng đang toát mồ hôi sau vẻ mặt bình thản.",
+        "text": "VỞ KỊCH BÌNH THẢN",
+        "actor": "front",
+        "prop": "brain"
+      },
+      {
+        "vo": "Im lặng không phải là đồng thuận. Đó chỉ là nỗi sợ tập thể.",
+        "text": "IM LẶNG LÀ NỖI SỢ",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Vào thế đỡ tạ ngay. Hỏi thẳng về quy trình thay vì ngồi chịu trận.",
+        "text": "ĐỠ TẠ ĐÚNG LÚC",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Hỏi thẳng hạn này giữ nổi chất lượng không. Phá vỡ thế im lặng ngay.",
+        "text": "PHÁ VỠ IM LẶNG",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s527",
+    "mascot": "pen",
+    "title": "Why Loud Crowds Sound Right",
+    "mechanism": "Borrowed Truth",
+    "lines": [
+      {
+        "vo": "At family dinner, four relatives argue loudly about a property rumor.",
+        "text": "LOUD DINNER TALK",
+        "color": "red",
+        "actor": "snack",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "They sound so sure that you quietly discard your own research.",
+        "text": "DROPPING FACTS",
+        "color": "red",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "When multiple people sound confident, your brain assumes they know better.",
+        "text": "BORROWED TRUTH",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Yet confidence is not competence. They are just echoing one unverified post.",
+        "text": "HOLLOW ECHO",
+        "actor": "nervous_wave",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Do not attack their facts. That only builds defensiveness.",
+        "text": "DO NOT ARGUE",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Ask with genuine curiosity: where did you first read that?",
+        "text": "TRACE THE SOURCE",
+        "color": "green",
+        "actor": "reading"
+      },
+      {
+        "vo": "When everyone repeats the same story, who actually checked the facts?",
+        "text": "WHO CHECKED FACTS",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s527vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tin don noi nhu that",
+    "title_vi": "Tin đồn nói như thật",
+    "mechanism": "Borrowed Truth",
+    "lines": [
+      {
+        "vo": "Bữa cơm gia đình, mấy người bác quả quyết giá đất sắp tăng gấp ba.",
+        "text": "TIN ĐỒN SỐT ĐẤT",
+        "color": "red",
+        "actor": "snack",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Thấy ai cũng hào hứng bàn tán, bạn ngại lên tiếng làm mất vui.",
+        "text": "NGẠI LÀM MẤT VUI",
+        "color": "red",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Thấy nhiều người cùng nói một chuyện, não tự động tin đó là sự thật.",
+        "text": "MƯỢN SỰ THẬT",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Tự tin chưa chắc đã đúng. Cả nhà có khi chỉ nhại lại một bài đăng mạng.",
+        "text": "BÀI ĐĂNG TRÔI NỔI",
+        "actor": "nervous_wave",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Đừng vội cãi tay đôi, chỉ làm không khí bữa cơm thêm căng thẳng.",
+        "text": "ĐỪNG VỘI TRANH CÃI",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Hỏi khéo: cháu chưa thấy báo đăng, bác đọc ở đâu để cháu vào xem?",
+        "text": "HỎI NGUỒN GỐC TIN",
+        "color": "green",
+        "actor": "reading"
+      },
+      {
+        "vo": "Khi cả nhà cùng tin một tin đồn, ai là người đã thực sự kiểm chứng?",
+        "text": "AI ĐÃ KIỂM CHỨNG",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s528",
+    "mascot": "buff",
+    "title": "Why You Fake Laugh at Bad Jokes",
+    "mechanism": "Fear of Being Out",
+    "lines": [
+      {
+        "vo": "At lunch, friends roast an absent buddy. They expect you to laugh.",
+        "text": "CHEAP MOCKERY",
+        "color": "red",
+        "actor": "snack"
+      },
+      {
+        "vo": "You fake a chuckle just to avoid being the next target.",
+        "text": "FAKING A LAUGH",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "That sudden tension is primal fear. Your brain dreads being cast out.",
+        "text": "FEAR OF BEING OUT",
+        "actor": "panic",
+        "prop": "brain"
+      },
+      {
+        "vo": "Nice try, but laughing along does not make you safe.",
+        "text": "CHEAP COMPLIANCE",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Say: I actually respect the attempt. Then pivot to weekend plans.",
+        "text": "DRAW THE LINE",
+        "color": "gold",
+        "actor": "front",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s528vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Cuoi theo de khong bi ra ria",
+    "title_vi": "Cười theo để không bị ra rìa",
+    "mechanism": "Fear of Being Out",
+    "lines": [
+      {
+        "vo": "Giờ ăn trưa, nhóm bạn cùng lớp xúm lại chê bai người vắng mặt.",
+        "text": "NÓI XẤU SAU LƯNG",
+        "color": "red",
+        "actor": "snack"
+      },
+      {
+        "vo": "Bạn cười gượng theo chỉ vì sợ lát nữa tới lượt mình.",
+        "text": "CƯỜI TRÁNH HỌA",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Cảm giác nghẹn lại là nỗi sợ bầy đàn. Não sợ nhất cảm giác bị cô lập.",
+        "text": "SỢ BỊ BỎ RƠI",
+        "actor": "panic",
+        "prop": "brain"
+      },
+      {
+        "vo": "Cười trừ không cứu được bạn đâu. Vừa hèn vừa biến mình thành kẻ a dua.",
+        "text": "KHÔNG A DUA",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Nói thẳng: bạn ấy dám thử là dũng cảm đấy, rồi bẻ lái sang chuyện khác.",
+        "text": "VẠCH RÕ GIỚI HẠN",
+        "color": "gold",
+        "actor": "front",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s529",
+    "mascot": "pen",
+    "title": "When Agreement Destroys Teams",
+    "mechanism": "The Echo Chamber",
+    "lines": [
+      {
+        "vo": "Our team rushed a doomed campaign. Any doubt was branded bad vibes.",
+        "text": "BAD VIBES TRAP",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "You spot a flaw, but speaking up feels like spoiling the party.",
+        "text": "SPOILING THE MOOD",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Welcome to groupthink, where fake harmony completely suffocates critical judgment.",
+        "text": "THE ECHO CHAMBER",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Coworkers censor their doubts, creating an illusion that the plan cannot fail.",
+        "text": "CENSORING DOUBTS",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "When everyone nods along in unison, nobody is actually thinking anymore.",
+        "text": "NO REAL THOUGHT",
+        "actor": "bored_yawn"
+      },
+      {
+        "vo": "Frame your concern as disaster insurance to protect the shared launch.",
+        "text": "DISASTER INSURANCE",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Ask: to hit target, what failure mode should we stress test now?",
+        "text": "RUN A STRESS TEST",
+        "color": "green",
+        "actor": "typing_focused"
+      },
+      {
+        "vo": "True loyalty protects the mission, not just smiling faces in the room.",
+        "text": "PROTECT THE MISSION",
+        "color": "gold",
+        "actor": "meditating",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s529vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Ao tuong dong thuan",
+    "title_vi": "Ảo tưởng đồng thuận",
+    "mechanism": "The Echo Chamber",
+    "lines": [
+      {
+        "vo": "Dự án sắp hỏng, nhưng ai lên tiếng can đều bị coi là bàn lùi.",
+        "text": "BỊ COI LÀ BÀN LÙI",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Bạn thấy rõ rủi ro, nhưng sợ làm tụt hứng của cả đội đang hăng say.",
+        "text": "SỢ LÀM MẤT VUI",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Đó là ảo tưởng đồng thuận, khi nhu cầu hòa khí lấn át lý trí.",
+        "text": "ẢO TƯỞNG ĐỒNG THUẬN",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Mọi người tự bịt miệng nỗi sợ, khiến cả nhóm tin rằng mình không thể thua.",
+        "text": "TỰ NÉN NỖI SỢ",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Khi tất cả đều gật đầu, thực chất chẳng còn ai đang thực sự suy nghĩ.",
+        "text": "HÒA KHÍ GIẢ TẠO",
+        "actor": "bored_yawn"
+      },
+      {
+        "vo": "Biến thắc mắc thành câu hỏi chặn rủi ro cho cả đội.",
+        "text": "CHẶN RỦI RO CHO ĐỘI",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Hỏi: để kế hoạch chạy mượt, rủi ro lớn nhất cần lường trước là gì?",
+        "text": "TÌM ĐIỂM YẾU TRƯỚC",
+        "color": "green",
+        "actor": "typing_focused"
+      },
+      {
+        "vo": "Đồng hành thực sự là cùng nhau bịt lỗ rò trước khi con tàu chìm.",
+        "text": "BỊT LỖ RÒ KỊP THỜI",
+        "color": "gold",
+        "actor": "meditating",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s530",
+    "mascot": "buff",
+    "title": "Why Groups Hide the Best Facts",
+    "mechanism": "Hidden Cards",
+    "lines": [
+      {
+        "vo": "Family summit. Everyone burned an hour bickering over chores instead of bills.",
+        "text": "CHATTING CHORES",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "The critical budget data you spent days researching stays completely buried.",
+        "text": "HIDDEN CARDS",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Classic rookie mistake. Groups repeat common facts because easy agreement feels safe.",
+        "text": "CHEAP AGREEMENT",
+        "actor": "front",
+        "prop": "brain"
+      },
+      {
+        "vo": "Do not lecture. Place the two missing cost figures on the table.",
+        "text": "DROP THE NUMBERS",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Share those two numbers, then stop talking. Let data lift the weight.",
+        "text": "TWO NUMBERS ONLY",
+        "color": "gold",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s530vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Giau thong tin quan trong",
+    "title_vi": "Giấu thông tin quan trọng",
+    "mechanism": "Hidden Cards",
+    "lines": [
+      {
+        "vo": "Họp nhóm làm đồ án, mọi người ngồi cãi nhau cả tiếng về phông chữ.",
+        "text": "BÀN CHUYỆN RÂU RIA",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Phần số liệu cốt lõi bạn chuẩn bị kỹ lại chẳng ai đoái hoài.",
+        "text": "DỮ LIỆU BỊ BỎ QUÊN",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Bài quen của đám đông. Chuyện vặt dễ gật, số liệu lạ lại ngại đào sâu.",
+        "text": "BẪY THÔNG TIN CHUNG",
+        "actor": "front",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đừng giảng giải. Chỉ thả đúng hai con số chi phí bị bỏ quên lên bàn.",
+        "text": "ĐƯA SỐ LIỆU LÊN BÀN",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Nêu đúng hai số liệu rồi lùi lại. Để dữ liệu tự thuyết phục cả nhóm.",
+        "text": "ĐỂ DỮ LIỆU TỰ NÓI",
+        "color": "gold",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s531",
+    "mascot": "pen",
+    "title": "The Power of One Calm Voice",
+    "mechanism": "The Lone Voice",
+    "lines": [
+      {
+        "vo": "Four friends insist on continuing a steep mountain trail in pouring rain.",
+        "text": "RISKY MOUNTAIN TREK",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "You fold immediately because being the single dissenting voice feels completely pointless.",
+        "text": "FOLDING ALONE",
+        "color": "red",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "A loud majority forces compliance, but a calm minority sparks genuine thought.",
+        "text": "THE LONE VOICE",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "When you stay steady without anger, people quietly reconsider their assumptions.",
+        "text": "CALM CONSISTENCY",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Do not attack the group. Set a clear turnaround point for safety.",
+        "text": "SET A BOUNDARY",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Offer a safe backup shelter so everyone has an exit plan ready.",
+        "text": "BACKUP PLAN",
+        "color": "green",
+        "actor": "writing",
+        "prop": "target"
+      },
+      {
+        "vo": "A calm objection is not stubbornness. It is quiet care for friends.",
+        "text": "QUIET COURAGE",
+        "color": "gold",
+        "actor": "small_step"
+      }
+    ]
+  },
+  {
+    "id": "s531vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tieng noi don doc",
+    "title_vi": "Tiếng nói đơn độc",
+    "mechanism": "The Lone Voice",
+    "lines": [
+      {
+        "vo": "Trời mưa tầm tã mà cả nhóm vẫn nằng nặc đòi leo tiếp đoạn dốc đứng.",
+        "text": "LEO DỐC TRỜI MƯA",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Bạn định nhượng bộ vì sợ mang tiếng nhát gan, làm tụt hứng mọi người.",
+        "text": "SỢ LÀM TỤT HỨNG",
+        "color": "red",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Đám đông ép người ta tuân thủ, nhưng tiếng nói kiên định buộc họ suy ngẫm.",
+        "text": "TIẾNG NÓI ĐƠN ĐỘC",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Giữ thái độ bình tĩnh thay vì tranh cãi sẽ khiến bạn bè lắng nghe.",
+        "text": "BÌNH TĨNH LÊN TIẾNG",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Nêu rõ điểm dừng an toàn và đề xuất quay đầu nếu mưa không ngớt.",
+        "text": "ĐIỂM DỪNG AN TOÀN",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Chủ động chuẩn bị phương án dự phòng để cả nhóm không bị động.",
+        "text": "PHƯƠNG ÁN DỰ PHÒNG",
+        "color": "green",
+        "actor": "writing",
+        "prop": "target"
+      },
+      {
+        "vo": "Dám nói lời can ngăn đúng lúc chính là sự quan tâm sâu sắc nhất.",
+        "text": "CAN NGĂN ĐÚNG LÚC",
+        "color": "gold",
+        "actor": "small_step"
+      }
+    ]
+  }
+]

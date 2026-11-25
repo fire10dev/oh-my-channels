@@ -1,0 +1,871 @@
+{
+ "id": "L44vi",
+ "lang": "vi",
+ "title": "Vì sao quyết tâm ban đầu thường nguội đi sau vài tuần?",
+ "description": "Có bao giờ bạn thắc mắc vì sao kế hoạch ban đầu dễ bốc hơi chỉ sau ba tuần? Dưới đây là tám lý do tâm lý khiến não bạn hụt hơi và cách vượt qua giai đoạn chững lại.",
+ "chapters": [
+  {
+   "title": "Bức tường tuần thứ ba",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn mua sổ mới, dán thời gian biểu lên tường, ngỡ mình sắp đổi đời.",
+     "text": "BỨC TƯỜNG TUẦN THỨ BA",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế rồi tuần thứ ba ập đến, nhấc mình dậy khỏi giường bỗng nặng như đeo đá.",
+     "text": "HẾT SẠCH NĂNG LƯỢNG",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quen quá rồi. Cứ tưởng chút hừng hực ban đầu sẽ kéo dài được mãi cơ đấy.",
+     "text": "ẢO TƯỞNG BAN ĐẦU",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao nhiệt huyết tụt nhanh thế, dù kế hoạch ban đầu chẳng sai chỗ nào?",
+     "text": "LỬA TẮT ĐI ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đầu bạn không hỏng đâu. Nó chỉ vừa đụng phải tám cái bẫy tâm lý quen thuộc.",
+     "text": "TÁM CÁI BẪY LỚN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là cơ thể tự động thay đổi cách đánh giá nỗ lực mỗi ngày sao?",
+     "text": "CƠ THỂ THAY ĐỔI?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Hôm nay ta gỡ tám cái bẫy đó để chạy bền qua chặng giữa.",
+     "text": "CHẶNG ĐƯỜNG GIỮA",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Cơn say điều mới mẻ",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hôm đầu mở khóa học ngoại ngữ trên mạng, mình thấy phấn chấn như chuẩn bị đi du học.",
+     "text": "1. CƠN SAY ĐIỀU MỚI MẺ",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình học liền ba mươi từ vựng trước bữa sáng, chẳng cần ai nhắc hay thúc ép.",
+     "text": "HỨNG KHỞI NGÀY ĐẦU",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó không phải kỷ luật đâu. Bạn chỉ đang say men của sự mới mẻ thôi.",
+     "text": "MEN SAY ĐIỀU MỚI",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Này Buff, não mình rạo rực chỉ vì bài giảng còn lạ lẫm thôi sao?",
+     "text": "CHỈ VÌ MỚI LẠ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cái mới kích thích não bộ tiết ra cảm giác hưng phấn, khiến bạn ngỡ mình đã chạm đích.",
+     "text": "HƯNG PHẤN GIẢ TẠO",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nó giống như nâng thanh đòn không tạ, vài hiệp đầu thấy nhẹ tênh tênh.",
+     "text": "NÂNG THANH ĐÒN KHÔNG",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đến ngày thứ mười bốn, từ nào trông cũng quen, cảm giác hào hứng bốc hơi sạch.",
+     "text": "HÀO HỨNG BIẾN MẤT",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hết đợt hưng phấn chùa rồi thì phải tự gánh tạ bằng cơ bắp thật thôi.",
+     "text": "TỰ GÁNH TẠ THẬT",
+     "color": "ink",
+     "actor": "front",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy làm sao giữ được đà khi lớp vỏ bọc lấp lánh đó biến mất?",
+     "text": "LÀM SAO ĐI TIẾP?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cách xử lý là đón đầu cú rơi, dọn sạch vật cản trước khi cạn ý chí.",
+     "text": "DỌN SẠCH VẬT CẢN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tối nay mở sẵn bài tập trên bàn, sáng mai thức dậy chỉ việc ngồi vào làm.",
+     "text": "TRIỆT TIÊU LỰC CẢN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    }
+   ]
+  },
+  {
+   "title": "2. Thích nghi cảm xúc",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trong đợt chấn chỉnh nếp sống, mình bắt đầu tự nấu cơm mỗi tối sau giờ làm.",
+     "text": "2. THÍCH NGHI CẢM XÚC",
+     "color": "ink",
+     "actor": "snack",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tuần đầu tiên, bày đĩa thức ăn thơm phức ra bàn thấy tự hào như đầu bếp giỏi.",
+     "text": "TỰ HÀO TUẦN ĐẦU",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sang tuần thứ ba, đứng nhặt rau rửa bát chỉ thấy mệt mỏi và tốn thời gian.",
+     "text": "GÁNH NẶNG BÁT ĐĨA",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là sự thích nghi cảm xúc. Khi việc thành quen, hứng khởi sẽ tự trôi về số không.",
+     "text": "CẢM XÚC BÌNH THƯỜNG",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là tâm trí tự về số không, bất kể hai tuần trước mình vui thế nào?",
+     "text": "VỀ LẠI SỐ KHÔNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ não thích nghi nhanh để dành chỗ chú ý những biến chuyển mới xung quanh.",
+     "text": "TỰ ĐỘNG THÍCH NGHI",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cảm giác sung sướng tắt lịm vì hệ thần kinh đã coi việc nấu ăn là chuyện mặc định.",
+     "text": "MỨC BÌNH THƯỜNG MỚI",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Điều đó làm mình tưởng mình mất ý chí, dù vẫn bền bỉ tự nấu cơm mỗi ngày.",
+     "text": "TƯỞNG MÌNH YẾU ĐUỐI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ý chí không mất. Bạn chỉ đang đòi hỏi pháo hoa từ một hiệp tập lặp đi lặp lại.",
+     "text": "KHÔNG CÓ PHÁO HOA",
+     "color": "ink",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cách xử lý là đánh dấu số bữa tự nấu lên lịch, đừng đợi cảm xúc ban phát niềm vui.",
+     "text": "GHI LẠI KẾT QUẢ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ nấu xong một bữa là đánh dấu hoàn thành một hiệp, mặc kệ cảm xúc có hào hứng hay không.",
+     "text": "TÍCH XONG MỘT HIỆP",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "3. Áp lực bên ngoài",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cùng với nấu ăn, mình quyết định đọc sách giấy mỗi tối cho nhẹ đầu trước khi ngủ.",
+     "text": "3. ÁP LỰC BÊN NGOÀI",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Suốt hai tuần, nằm lật từng trang sách thấy bình yên, thư thái và trọn vẹn vô cùng.",
+     "text": "BÌNH YÊN TRANG SÁCH",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế rồi mình bật chuỗi điểm danh mỗi ngày, lỡ một hôm là căng thẳng như bị trừ lương.",
+     "text": "CĂNG THẲNG ĐI LÀM",
+     "color": "red",
+     "actor": "panic",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiện tượng động lực bị lấn át. Điểm số bên ngoài vừa đá văng niềm say mê của bạn.",
+     "text": "MẤT HẾT HỨNG THÚ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Buff này, sao việc đếm chuỗi ngày lại biến chốn nghỉ ngơi thành một ca làm thêm không công?",
+     "text": "SAO THÀNH ÁP LỰC?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhồi nhét bảng điểm vào sở thích, động lực bên trong sẽ bị các con số đè bẹp.",
+     "text": "BẢNG ĐIỂM ĐÈ BẸP",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ não không còn coi đọc sách là giải tỏa, mà xem như chỉ tiêu phải trả cho sếp.",
+     "text": "THÀNH NỢ PHẢI TRẢ",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là mải đuổi theo cái huy hiệu ảo đã bóp nghẹt sự tò mò ban đầu?",
+     "text": "ĐUỔI THEO TÍCH ĐIỂM",
+     "color": "ink",
+     "actor": "think",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn, Pen. Bạn đổi sự thảnh thơi lấy cái chuỗi ngày vô nghĩa trên màn hình.",
+     "text": "CHUỖI NGÀY ẢO",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cách xử lý là gỡ bỏ mọi bảng đếm, quay về tận hưởng trang sách một cách thuần túy.",
+     "text": "XÓA HẾT BẢNG ĐẾM",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tối nay tắt sạch thông báo chuỗi ngày, chỉ ngồi đọc mười trang sách thật yên tĩnh.",
+     "text": "ĐỌC TRONG YÊN TĨNH",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "4. Lỗ hổng kỳ vọng",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngoài đọc sách, mình còn hứa sẽ tự học viết mã lập trình để nâng cấp bản thân.",
+     "text": "4. LỖ HỔNG KỲ VỌNG",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tuần đầu làm theo mấy bài hướng dẫn ngắn, mình ngỡ mình sắp thành tài năng công nghệ.",
+     "text": "TƯỞNG THÀNH TÀI NĂNG",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sang tuần ba gặp bài toán khó, ngồi nhìn màn hình hàng giờ mà bất lực toàn tập.",
+     "text": "BỨC TƯỜNG BẤT LỰC",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý học gọi đây là bẫy kỳ vọng. Thấy cơ hội thành công bằng không, não sẽ tự ngắt điện.",
+     "text": "TÍNH KHÔNG RA ĐƯỜNG",
+     "color": "gold",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Này Buff, cứ vấp phải đoạn kiến thức rắc rối là đầu óc tự kết luận việc này bất khả thi sao?",
+     "text": "BẤT KHẢ THI SAO?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế. Cảm giác làm được chạm đáy thì ngọn lửa quyết tâm cũng sập ngay theo.",
+     "text": "KỲ VỌNG VỀ KHÔNG",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Viễn cảnh tương lai xa vời không thắng nổi cảm giác nằm lướt điện thoại ngay lúc này.",
+     "text": "GIƯỜNG ÊM THẮNG THẾ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thành ra việc bỏ cuộc lại nghe rất hợp lý, dù sâu thẳm mình vẫn rất muốn học.",
+     "text": "TỪ BỎ RẤT HỢP LÝ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hệ thần kinh đang làm phép tính kinh tế dựa trên dự đoán sai lệch ngắn hạn thôi.",
+     "text": "TÍNH TOÁN LỆCH LẠC",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cách xử lý là chẻ nhỏ bài tập cho đến khi bạn nắm chắc phần thắng trong tay.",
+     "text": "CHẮC THẮNG MỚI LÀM",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tối nay chỉ cần gõ đúng ba dòng mã ngắn, chắc chắn làm được để lấy lại tự tin.",
+     "text": "BA DÒNG ĐƠN GIẢN",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    }
+   ]
+  },
+  {
+   "title": "5. Thêm vị ngọt",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Học viết mã đã nản, ngồi ghi chép sổ chi tiêu mỗi tuần còn ngán ngẩm hơn nhiều.",
+     "text": "5. THÊM VỊ NGỌT",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình biết tiết kiệm tiền là quan trọng, nhưng nhìn đống hóa đơn tính toán thấy ngột ngạt.",
+     "text": "CON SỐ NGỘT NGẠT",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là chiêu tráo đổi phần thưởng: kẹp việc chán ngắt đi kèm một đặc ân ngọt ngào ngay lập tức.",
+     "text": "TREO THƯỞNG TỨC THÌ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng Buff ơi, phần thưởng nhỏ trước mắt làm sao giúp mình lo được chuyện tiền nong lâu dài?",
+     "text": "SAO PHẢI TỰ THƯỞNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não tiến hóa để sinh tồn tức thì. Chuyện tích lũy hai mươi năm nữa quá xa vời với nó.",
+     "text": "MẮT CHỈ THẤY GẦN",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gắn một niềm vui xúc giác vào việc khô khan, cơ thể bạn mới chịu vào việc.",
+     "text": "KÉO NĂNG LƯỢNG VỀ",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như việc chỉ uống ly cà phê sữa đá khi ngồi ghi lại tiền nhà, tiền trọ mỗi tháng sao?",
+     "text": "CHIÊU CÀ PHÊ SỮA",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Hoặc chỉ nghe câu chuyện vụ án hấp dẫn trong lúc đứng gấp đống quần áo.",
+     "text": "GHÉP CHUNG NIỀM VUI",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cách xử lý là tạo liên kết thép, chỉ cho phép phần thưởng xuất hiện cùng việc khó.",
+     "text": "KHÓA CHẶT THƯỞNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng đợi cả chục năm mới mừng công, hãy tự trả công cho mình ngay lúc đang làm.",
+     "text": "THU CÔNG TẠI CHỖ",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kẹo ngọt cứu được chặng ngắn, nhưng không gánh nổi mục tiêu vốn chẳng phải của bạn.",
+     "text": "MỤC TIÊU CỦA AI?",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "6. Mục tiêu vay mượn",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhắc tới mục tiêu vay mượn, mình từng ép bản thân phải dậy lúc năm giờ sáng.",
+     "text": "6. MỤC TIÊU VAY MƯỢN",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mấy chuyên gia dạy làm giàu trên mạng cứ bảo dậy năm giờ sáng mới thành công.",
+     "text": "LỜI KHUYÊN TRÊN MẠNG",
+     "color": "red",
+     "actor": "snooze"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu thiếu quyền tự chủ, thấy mình bị ép làm thì bình xăng ý chí sẽ cạn đáy rất nhanh.",
+     "text": "XĂNG VAY Ý CHÍ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Buff thấy quyền tự chọn thực sự ảnh hưởng lớn đến sức bền tinh thần sao?",
+     "text": "TỰ CHỌN CÓ ÍCH?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cực lớn. Khi đầu óc thấy áp lực từ bên ngoài, nó coi việc đó là nhiệm vụ bị ép buộc.",
+     "text": "BỊ ÉP BUỘC",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cảm giác bị ép sinh ra lực cản nội tâm, đốt sạch sức bền nhanh hơn nhiều.",
+     "text": "LỰC CẢN NỘI TÂM",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra mình kiệt sức vì cái lịch dậy sớm đó chưa từng thuộc về mình.",
+     "text": "KHUNG GIỜ KHÔNG HỢP",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Bạn ôm quy chuẩn của người khác mà quên mất nhịp sinh học của chính mình.",
+     "text": "QUÊN NHỊP RIÊNG",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cách xử lý là giành lại quyền tự chủ, may đo thói quen cho vừa vặn với đời bạn.",
+     "text": "GIÀNH LẠI QUYỀN CHỦ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu dậy sớm làm bạn vật vờ cả ngày, hãy dời giờ tập trung sang tám giờ tối.",
+     "text": "TÌM KHUNG GIỜ VÀNG",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự làm chủ luật chơi của mình, kể cả khi bạn phải can đảm bỏ đi một kế hoạch tồi.",
+     "text": "CAN ĐẢM TỪ BỎ",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "7. Vứt bớt gánh nặng",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sai lầm lớn nhất đầu năm của mình là bắt bản thân học thêm ba tiếng mỗi tối.",
+     "text": "7. VỨT BỚT GÁNH NẶNG",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sau tám tiếng đi làm trên công ty, ngồi học tiếp ba tiếng chẳng khác nào tra tấn.",
+     "text": "TRA TẤN BUỔI TỐI",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Do bạn không chịu buông bớt tạ. Biết buông bỏ mục tiêu đúng lúc cũng là một kỹ năng.",
+     "text": "TỪ BỎ ĐÚNG LÚC",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng Buff ơi, chẳng phải từ bỏ một mục tiêu lớn là hèn nhát và nhận thua sao?",
+     "text": "TỪ BỎ LÀ ĐẦU HÀNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không hề. Khoa học phân biệt rất rõ giữa bỏ cuộc vô tội vạ và rút lui chiến thuật.",
+     "text": "RÚT LUI CHIẾN THUẬT",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cố ôm chỉ tiêu quá sức chỉ rước thêm căng thẳng kinh niên và cảm giác tội lỗi.",
+     "text": "QUÁ TẢI ĐỘC HẠI",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên việc ngoan cố không chịu nhận kế hoạch hỏng sẽ bòn rút cạn năng lượng sống?",
+     "text": "BẪY NGOAN CỐ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi tạ nặng đè lên ngực, bạn phải nhả tạ ra để giữ an toàn cho mình.",
+     "text": "THẢ TẠ ĐÚNG LÚC",
+     "color": "ink",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không ai nằm chịu chết dưới thanh sắt chỉ để chứng tỏ độ lì lợm với phòng tập vắng tanh.",
+     "text": "BỎ BỚT SĨ DIỆN",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy viết kế hoạch ba tiếng đó ra giấy, gạch một đường dứt khoát để chính thức khai tử nó.",
+     "text": "GẠCH BỎ TRÊN GIẤY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hủy hiệp tập quá sức mà không cần áy náy, rồi chuyển ngay sang mức tạ vừa sức hơn.",
+     "text": "HẠ MỨC TẠ VỪA SỨC",
+     "color": "green",
+     "actor": "hand_off"
+    }
+   ]
+  },
+  {
+   "title": "8. Đổi hướng kế hoạch",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bỏ mục tiêu học ba tiếng rồi, làm sao để mình không trượt dài vào cảnh lười biếng?",
+     "text": "8. ĐỔI HƯỚNG KẾ HOẠCH",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần hủy một dự định lớn, nằm bấm điện thoại là lựa chọn duy nhất dễ chịu.",
+     "text": "NGUY CƠ TRÌ TRỆ",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là lúc cần tái định hướng, bẻ lái năng lượng sang một phương án thực tế hơn.",
+     "text": "BẺ LÁI MỤC TIÊU",
+     "color": "gold",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là thay vì vứt bỏ mục tiêu, mình đổi cách làm hoặc chọn việc nhẹ hơn bên cạnh?",
+     "text": "ĐỔI HƯỚNG ĐI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khoa học cho thấy người biết rẽ nhánh linh hoạt thường hài lòng và phục hồi nhanh hơn.",
+     "text": "LINH HOẠT VƯỢT KHÓ",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hết giờ làm mà mệt quá thì gấp sách lại, nghe sách nói tóm tắt trên chuyến xe buýt về nhà.",
+     "text": "TẬN DỤNG TRÊN XE",
+     "color": "ink",
+     "actor": "34",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vừa giữ được chất người học hỏi, vừa chọn hình thức vừa vặn với đời thực?",
+     "text": "GIỮ VỮNG BẢN SẮC",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Bạn vẫn tiến bộ mỗi ngày mà không bị kiệt sức sau giờ tan ca.",
+     "text": "TIẾN BỘ BỀN VỮNG",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cách xử lý là chọn một đường vòng khả thi, thỏa mãn đam mê mà không đòi hỏi cố quá.",
+     "text": "ĐƯỜNG VÒNG KHẢ THI",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn ngay một phương án nhẹ nhàng tối nay và dồn sự chú ý vào lộ trình mới.",
+     "text": "CHỌN LỐI ĐI MỚI",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi chiến thuật biết nương theo đời thực, tuần thứ ba sẽ không còn là mồ chôn dự định.",
+     "text": "THÓI QUEN BỀN LÂU",
+     "color": "green",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "Bảy ngày khởi động lại",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại cả tám cái bẫy, hụt hơi ở tuần thứ ba không phải là khuyết điểm nhân cách.",
+     "text": "BẢY NGÀY KHỞI ĐỘNG LẠI",
+     "color": "ink",
+     "actor": "meditating",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không hề, Pen. Đúc kết tám bài học thành ba quy tắc thép để chạy đường dài.",
+     "text": "BA NGUYÊN TẮC THÉP",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quy tắc một là coi tuần thứ ba là mỏi cơ sinh học, dọn sạch vật cản trước.",
+     "text": "HIỂU RÕ CƠ THỂ",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quy tắc hai: dẹp chuỗi ảo, hạ chuẩn vừa sức và kẹp thưởng nóng cho từng hiệp.",
+     "text": "THƯỞNG CHO MỖI HIỆP",
+     "color": "ink",
+     "actor": "34",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quy tắc ba là giữ quyền tự chủ, buông bớt tạ quá sức và rẽ sang nhánh bền vững.",
+     "text": "RẼ NHÁNH BỀN VỮNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ba quy tắc nghe rất sáng tỏ. Vậy thử thách nhỏ cho bảy ngày tới của chúng ta là gì?",
+     "text": "KẾ HOẠCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn một việc đang tắc, vứt hết kỳ vọng trên trời và thử cách nhẹ nhàng trong bảy ngày.",
+     "text": "BẢY NGÀY THỬ NGHIỆM",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thử nghiệm giải pháp giản đơn đó một tuần, rồi xem đà tiến tự nhiên quay lại ra sao.",
+     "text": "THỬ NGHIỆM THÓI QUEN",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký để rèn luyện tâm trí cùng tụi mình. Giờ thì dẹp lý do và vào hiệp tập đầu tiên đi.",
+     "text": "RÈN BỀN TÂM TRÍ",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  }
+ ]
+}

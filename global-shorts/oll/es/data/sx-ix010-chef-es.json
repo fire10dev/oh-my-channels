@@ -1,0 +1,67 @@
+{
+ "title": "¿Quién cocina para oficiales bajo tierra?",
+ "hook": "ALMUERZO SUBTERRÁNEO",
+ "asof": "Datos de la Fuerza Aérea de EE. UU. y el Servicio de Parques Nacionales",
+ "world": "capsule",
+ "long": "IX010",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "HORA 6",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "A 18 metros bajo tierra, no hay cocina.",
+     "v": "capsule"
+    },
+    {
+     "s": "Estos oficiales vigilan misiles nucleares durante veinticuatro horas seguidas.",
+     "v": "console",
+     "you": "console"
+    },
+    {
+     "s": "Entonces, ¿quién les da de comer?",
+     "v": "meal"
+    },
+    {
+     "s": "Arriba, en un edificio que parece una casa de campo,",
+     "v": "house"
+    },
+    {
+     "s": "un chef de misiles cocina para todo el equipo.",
+     "v": "kitchen",
+     "you": "chef"
+    },
+    {
+     "s": "Un chef, solo, para diez o veinte personas.",
+     "v": "kitchen",
+     "st": [
+      "1 CHEF",
+      "10–20 personas · Minot"
+     ]
+    },
+    {
+     "s": "El equipo elige del menú antes de bajar.",
+     "v": "meal"
+    },
+    {
+     "s": "Luego, el chef lleva la comida a horas fijas.",
+     "v": "meal",
+     "plane": "meal"
+    },
+    {
+     "s": "Para muchos, es la única cara que ven en todo el día.",
+     "v": "meal",
+     "plane": "meal",
+     "you": "capsule"
+    },
+    {
+     "s": "¿Aceptarías ese trabajo?",
+     "v": "kitchen",
+     "you": "chef"
+    }
+   ]
+  }
+ ]
+}

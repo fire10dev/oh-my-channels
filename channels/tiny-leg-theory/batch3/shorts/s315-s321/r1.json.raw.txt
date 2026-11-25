@@ -1,0 +1,739 @@
+REBUTTAL:
+1 accept
+2 accept
+3 accept
+4 accept
+5 accept
+6 accept
+7 reject: Self-concept clarity is the named mechanism permitted by the brief, not a clinical diagnosis, and the proposed fix exceeds the 12-word limit.
+8 accept
+9 accept
+10 accept
+11 accept
+12 accept
+13 accept
+14 reject: The proposed fix is 15 words, exceeding the brief's ~12-word limit, while the draft is 11 words and natural hyperbole.
+15 accept
+RESULT:
+[
+  {
+    "id": "s315",
+    "mascot": "pen",
+    "title": "Why 5 PM Feels So Empty Now",
+    "mechanism": "Role Exit",
+    "lines": [
+      {
+        "vo": "At five, I still check my phone to ask about dinner.",
+        "text": "5 PM PHONE CHECK",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Then I remember that role is gone, and I just freeze.",
+        "text": "NOBODY TO TEXT",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "That is role exit. Your brain is clocking in for old shifts.",
+        "text": "ROLE EXIT",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "When automated habits lose their target, they crash into empty air.",
+        "text": "HABIT WITHOUT TARGET",
+        "actor": "sofa_scroll",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Create a physical shutdown ritual. Close your laptop and leave the desk.",
+        "text": "SHUTDOWN RITUAL",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "That quiet evening is not empty space. It is yours to fill.",
+        "text": "YOUR OWN EVENING",
+        "color": "gold",
+        "actor": "reading",
+        "prop": "moon_stars"
+      }
+    ]
+  },
+  {
+    "id": "s315vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Vi sao 5 gio chieu lai hut hang?",
+    "title_vi": "Vì sao 5 giờ chiều lại hụt hẫng?",
+    "mechanism": "Role Exit",
+    "lines": [
+      {
+        "vo": "Năm giờ chiều, tay vẫn quen mở máy nhắn hỏi tối nay ăn gì.",
+        "text": "5 GIỜ CHIỀU QUEN TAY",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Khựng lại nhớ ra đã chia tay, màn hình bỗng dưng trống trơn.",
+        "text": "MÀN HÌNH TRỐNG",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Bộ não bạn vẫn chưa chịu hết ca làm cho một vai trò cũ.",
+        "text": "CHƯA HẾT CA LÀM",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Thói quen cũ mất đi đối tượng nên đâm sầm vào khoảng trống.",
+        "text": "MẤT ĐI ĐỐI TƯỢNG",
+        "actor": "sofa_scroll",
+        "prop": "sofa"
+      },
+      {
+        "vo": "Tạo nghi thức tan sở rõ ràng: đóng máy tính và rời bàn làm việc ngay.",
+        "text": "NGHI THỨC KẾT THÚC",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Khoảng lặng tan sở không hề trống rỗng, đó là lúc bạn lấy lại thời gian.",
+        "text": "BUỔI TỐI CỦA BẠN",
+        "color": "gold",
+        "actor": "meditating",
+        "prop": "moon_stars"
+      }
+    ]
+  },
+  {
+    "id": "s316",
+    "mascot": "buff",
+    "title": "Who Picked Your Groceries?",
+    "mechanism": "Identity Disruption",
+    "lines": [
+      {
+        "vo": "Staring at grocery shelves with zero clue what you like? Sure, buddy.",
+        "text": "FORGOT YOUR TASTE",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "You outsourced your taste buds for years to keep peace. Identity disruption.",
+        "text": "IDENTITY LOSS",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Their settings vanished, and your personal operating system went totally blank.",
+        "text": "SYSTEM WIPED",
+        "actor": "shocked",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Time for a solo audit. Buy two foods you never tried together.",
+        "text": "PREFERENCE AUDIT",
+        "color": "green",
+        "actor": "snack",
+        "prop": "target"
+      },
+      {
+        "vo": "Every solo choice is a rep to rebuild yourself. Get lifting.",
+        "text": "LOG YOUR REPS",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s316vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung truoc menu ma quen minh thich gi",
+    "title_vi": "Đứng trước menu mà quên mình thích gì",
+    "mechanism": "Identity Disruption",
+    "lines": [
+      {
+        "vo": "Cầm menu trà sữa mà đứng hình, quên mất mình thích gì. Quen không.",
+        "text": "QUÊN MÌNH THÍCH GÌ",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Bao năm nhường quyền chọn món, bạn quên luôn thói quen tự ra quyết định.",
+        "text": "NHƯỢNG QUYỀN CHỌN",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Mối quan hệ dừng lại, hệ thống cài đặt sẵn trong đầu bị xoá trắng.",
+        "text": "BỘ NHỚ TRỐNG",
+        "actor": "shocked",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Khởi động lại ngay: tuần này tự gọi hai món chưa từng thử bao giờ.",
+        "text": "THỬ MÓN MỚI",
+        "color": "green",
+        "actor": "snack",
+        "prop": "target"
+      },
+      {
+        "vo": "Mỗi quyết định tự chọn là một hiệp tập dựng lại chính mình. Vào việc.",
+        "text": "TỰ CHỌN LẤY",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s317",
+    "mascot": "pen",
+    "title": "Why You Want a Drastic Haircut",
+    "mechanism": "Self-Concept Clarity",
+    "lines": [
+      {
+        "vo": "One day you want a new career. Next day, a drastic haircut.",
+        "text": "IDENTITY PANIC",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "When a relationship ends, your self-concept clarity takes an immediate hit.",
+        "text": "SHAKY COMPASS",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Your internal anchor slips, urging you to reinvent your whole life.",
+        "text": "OVERHAUL URGE",
+        "actor": "future_tired",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Hold off on radical moves. You do not need a new life.",
+        "text": "HOLD THE PASSPORT",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Write down three core boundaries that belong strictly to you alone.",
+        "text": "THREE CORE VALUES",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "These personal guardrails stay steady even when emotions swing wildly.",
+        "text": "STEADY GUARDRAILS",
+        "actor": "meditating",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Which part of your old foundation was truly yours all along?",
+        "text": "WHAT WAS YOURS?",
+        "color": "gold",
+        "actor": "think",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s317vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Dung voi cat toc hay nhay viec luc nay",
+    "title_vi": "Đừng vội cắt tóc hay nhảy việc lúc này",
+    "mechanism": "Self-Concept Clarity",
+    "lines": [
+      {
+        "vo": "Vừa chia tay xong, hôm nay đòi cắt tóc, mai lại muốn nhảy việc.",
+        "text": "MUỐN THAY ĐỔI HẾT",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Tâm lý học gọi đây là lúc chiếc la bàn nội tâm bị rung lắc.",
+        "text": "MẤT TỰ ĐỊNH HƯỚNG",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Điểm tựa cũ biến mất, não hoảng loạn muốn đập đi xây lại tất cả.",
+        "text": "HOẢNG LOẠN TẠM THỜI",
+        "actor": "future_tired",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Khoan chốt đơn hay gửi đơn từ chức. Bạn chưa cần một cuộc đời mới.",
+        "text": "BÌNH TĨNH LẠI",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Viết ra ba nguyên tắc sống thuộc về riêng bạn, dù có người yêu hay không.",
+        "text": "BA NGUYÊN TẮC RIÊNG",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Ba chiếc mỏ neo này sẽ giữ cho bạn thăng bằng qua cơn bão.",
+        "text": "MỎ NEO GIỮ BẠN",
+        "actor": "meditating",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Phần nào trong con người bạn vốn dĩ vẫn luôn vững vàng từ trước?",
+        "text": "BẢN THÂN VỐN CÓ",
+        "color": "gold",
+        "actor": "think",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s318",
+    "mascot": "buff",
+    "title": "Rewrite Your Next Chapter",
+    "mechanism": "Narrative Identity",
+    "lines": [
+      {
+        "vo": "Five-year life plan vanished overnight into thin air? Hit the brakes.",
+        "text": "PLOT DROPPED",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Humans need a future storyline. Without one, your mental stamina flatlines.",
+        "text": "STORYLINE BROKEN",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Stop re-reading the old draft wondering which chapter failed. It is done.",
+        "text": "CLOSE THE DRAFT",
+        "actor": "facepalm",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Reframe this month as an intentional solo training arc.",
+        "text": "SOLO TRAINING ARC",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Pick one clear mission: master a skill or thirty days of conditioning.",
+        "text": "PICK ONE MISSION",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Give your alarm a reason to ring tomorrow morning. Lock it in.",
+        "text": "SET THE ALARM",
+        "color": "gold",
+        "actor": "point_viewer",
+        "prop": "alarm_clock"
+      }
+    ]
+  },
+  {
+    "id": "s318vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Len ke hoach nam nam roi gio lam gi?",
+    "title_vi": "Lên kế hoạch năm năm rồi giờ làm gì?",
+    "mechanism": "Narrative Identity",
+    "lines": [
+      {
+        "vo": "Kế hoạch năm năm đâu vào đấy, đùng cái bốc hơi sạch. Đau đấy.",
+        "text": "KẾ HOẠCH BỐC HƠI",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Mất đi cốt truyện tương lai, não bạn chẳng buồn cố gắng mỗi sáng nữa.",
+        "text": "MẤT ĐỘNG LỰC SÁNG",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Ngừng ngồi đọc lại tin nhắn cũ rồi tự hỏi mình sai ở đoạn nào. Xong rồi.",
+        "text": "DỪNG ĐỌC LẠI",
+        "actor": "facepalm",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Tự đặt tên cho tháng này là hiệp rèn luyện độc lập.",
+        "text": "HIỆP RÈN ĐỘC LẬP",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Chọn đúng một mục tiêu: học xong một kỹ năng hoặc ba mươi ngày chạy bộ.",
+        "text": "CHỌN MỘT MỤC TIÊU",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Cho chiếc đồng hồ báo thức một lý do để kêu vào sáng mai. Vào vị trí.",
+        "text": "HẸN GIỜ SÁNG MAI",
+        "color": "gold",
+        "actor": "point_viewer",
+        "prop": "alarm_clock"
+      }
+    ]
+  },
+  {
+    "id": "s319",
+    "mascot": "pen",
+    "title": "Who Catches Your Stress Now?",
+    "mechanism": "Support Buffering",
+    "lines": [
+      {
+        "vo": "Work was brutal today, and your commute feels strangely quiet.",
+        "text": "QUIET COMMUTE",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Usually, you would vent on the drive home until your shoulders dropped.",
+        "text": "NO VENTING OUTLET",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Now you walk into your kitchen and absorb all that tension solo.",
+        "text": "CARRYING TENSION",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "A partner acts as a shock absorber. This is social support buffering.",
+        "text": "SUPPORT BUFFERING",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Meanwhile, mutual friends suddenly get awkward and quiet.",
+        "text": "MUTUAL CHAT SILENCE",
+        "actor": "nervous_wave",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Mute those mutual groups for now. You need clean support without side-taking.",
+        "text": "MUTE THE DRAMA",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Call one old friend or family member completely disconnected from your ex.",
+        "text": "CALL AN OUTSIDER",
+        "color": "green",
+        "actor": "phone_grin",
+        "prop": "target"
+      },
+      {
+        "vo": "Who in your circle can listen without judging the past?",
+        "text": "WHO CAN LISTEN?",
+        "color": "gold",
+        "actor": "front",
+        "prop": "coffee_mug"
+      }
+    ]
+  },
+  {
+    "id": "s319vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tan lam met moi, xa cung ai?",
+    "title_vi": "Tan làm mệt mỏi, xả cùng ai?",
+    "mechanism": "Support Buffering",
+    "lines": [
+      {
+        "vo": "Tan làm vừa mệt vừa ức chế, mở máy lên không biết nhắn ai.",
+        "text": "TAN CA MỆT MỎI",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Mọi lần chỉ cần gọi điện than thở mười lăm phút là nhẹ nhõm ngay.",
+        "text": "MẤT NƠI THAN THỞ",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Về tới phòng trọ, một mình bạn phải ôm trọn toàn bộ áp lực.",
+        "text": "MỘT MÌNH ÔM TRỌN",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Người yêu cũ từng là tấm đệm giảm xóc cảm xúc cho bạn mỗi ngày.",
+        "text": "TẤM ĐỆM GIẢM XÓC",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Trong khi đó, nhóm bạn chung bắt đầu ngượng ngùng và im ắng.",
+        "text": "BẠN CHUNG IM LẶNG",
+        "actor": "nervous_wave",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Tạm tắt thông báo nhóm bạn chung để tránh khó xử không cần thiết.",
+        "text": "TẮT BỚT THÔNG BÁO",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Nhắn tin cho một đứa bạn thân hoàn toàn không quen biết người cũ.",
+        "text": "TÌM ĐỒNG MINH MỚI",
+        "color": "green",
+        "actor": "phone_grin",
+        "prop": "target"
+      },
+      {
+        "vo": "Ai quanh bạn lúc này có thể lắng nghe mà không phán xét?",
+        "text": "AI SẼ LẮNG NGHE?",
+        "color": "gold",
+        "actor": "front",
+        "prop": "coffee_mug"
+      }
+    ]
+  },
+  {
+    "id": "s320",
+    "mascot": "buff",
+    "title": "Your Gym Partner Was a Crutch",
+    "mechanism": "Habit Scaffolding",
+    "lines": [
+      {
+        "vo": "Used to hit the gym effortlessly, now your shoes vanished. Sure, buddy.",
+        "text": "WORKOUTS DROPPED",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "You relied on habit scaffolding. Their packed bag was your cue.",
+        "text": "HABIT SCAFFOLDING",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "When the partner leaves, that automatic scaffolding collapses into heavy friction.",
+        "text": "TRIGGER COLLAPSED",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Build solo scaffolding tonight. Place your gym clothes directly by the door.",
+        "text": "GEAR BY THE DOOR",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Let the environment do the heavy lifting. Zero excuses tomorrow.",
+        "text": "ZERO EXCUSES",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "alarm_clock"
+      }
+    ]
+  },
+  {
+    "id": "s320vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Truoc di tap deu, gio luoi la vi dau?",
+    "title_vi": "Trước đi tập đều, giờ lười là vì đâu?",
+    "mechanism": "Habit Scaffolding",
+    "lines": [
+      {
+        "vo": "Trước đi tập đều đặn, giờ đôi giày bám bụi xó nhà. Lạ chưa.",
+        "text": "GIÀY BÁM BỤI RỒI",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Không phải bạn lười, mà bạn vừa mất đi chiếc giàn giáo thói quen.",
+        "text": "GIÀN GIÁO THÓI QUEN",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "Ngày xưa nhìn người ta chuẩn bị đồ là não bạn tự động vào guồng.",
+        "text": "MẤT DẤU HIỆU CŨ",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Tự dựng lại giàn giáo: tối nay để sẵn quần áo tập ngay trước cửa phòng.",
+        "text": "ĐẶT ĐỒ TRƯỚC CỬA",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Để đồ đạc gánh bớt ý chí. Mai chỉ việc xỏ giày bước ra.",
+        "text": "XỎ GIÀY BƯỚC RA",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "alarm_clock"
+      }
+    ]
+  },
+  {
+    "id": "s321",
+    "mascot": "pen",
+    "title": "Rebuilding Your Morning Dominoes",
+    "mechanism": "Routine Formation",
+    "lines": [
+      {
+        "vo": "Mornings feel completely chaotic now. You wander through the kitchen, paralyzed.",
+        "text": "CHAOTIC MORNINGS",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Two hours vanish before you even decide whether to eat or work.",
+        "text": "HOURS DRIFT BY",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Routines are behavioral chains. One shared action triggered the next automatically.",
+        "text": "BROKEN DOMINO CHAIN",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "When that shared link snapped, every single task became an uphill choice.",
+        "text": "DECISION FATIGUE",
+        "actor": "future_tired",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Never wait for mood. Anchor a new behavior to your morning coffee.",
+        "text": "HABIT STACKING",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Open your notebook the second the kettle boils. Chain one tiny win.",
+        "text": "CHAIN ONE TINY WIN",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Momentum does not need mood; it only needs a steady first link.",
+        "text": "STEADY FIRST LINK",
+        "color": "gold",
+        "actor": "small_step",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s321vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Sang day lung tung khong biet lam gi",
+    "title_vi": "Sáng dậy lúng túng không biết làm gì",
+    "mechanism": "Routine Formation",
+    "lines": [
+      {
+        "vo": "Sáng thức dậy thấy phòng ốc trống trải, đi loanh quanh không biết làm gì trước.",
+        "text": "BUỔI SÁNG LÚNG TÚNG",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Nằm lướt điện thoại mất hai tiếng mới quyết định được ăn gì hay làm việc.",
+        "text": "TRÔI MẤT HAI TIẾNG",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Thói quen hàng ngày là các quân cờ domino nối tiếp nhau tự động.",
+        "text": "HIỆU ỨNG DOMINO",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Một mắt xích chung gãy đôi, toàn bộ chuỗi hành động rơi vào bế tắc.",
+        "text": "ĐỨT GÃY CHUỖI SỐNG",
+        "actor": "future_tired",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Đừng đợi có tâm trạng. Hãy gắn ngay việc mới vào tách cà phê sáng.",
+        "text": "GẮN THÓI QUEN MỚI",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Nước sôi xong là mở sẵn cuốn sổ ghi chép, hoàn thành một việc nhỏ.",
+        "text": "MỘT VIỆC NHỎ XONG",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Đà sống không chờ cảm hứng, nó chỉ cần một mắt xích đầu tiên thật chắc.",
+        "text": "MẮT XÍCH ĐẦU TIÊN",
+        "color": "gold",
+        "actor": "small_step",
+        "prop": "lightbulb"
+      }
+    ]
+  }
+]

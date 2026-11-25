@@ -1,0 +1,695 @@
+[
+ {
+  "id": "s469",
+  "mascot": "pen",
+  "title": "Why Five Words Cause Panic",
+  "mechanism": "Media Richness",
+  "lines": [
+   {
+    "vo": "We need to talk this afternoon. My boss sent five bare words.",
+    "text": "WE NEED TO TALK",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "My stomach immediately dropped, bracing for the worst news possible.",
+    "text": "INSTANT DREAD",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Plain text is lean. It strips away vocal warmth and expression.",
+    "text": "LEAN CHANNEL",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Without tone, your anxious brain rushes to invent quiet hostility.",
+    "text": "BRAIN FILLS GAPS",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "If an issue carries emotional weight, upgrade to a quick call.",
+    "text": "CALL INSTEAD",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "He only wanted slide templates. How much panic could tone save?",
+    "text": "JUST A TEMPLATE",
+    "color": "gold",
+    "actor": "facepalm"
+   }
+  ]
+ },
+ {
+  "id": "s469vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Tin nhan dot ngot cua sep",
+  "title_vi": "Tin nhắn đột ngột của sếp",
+  "mechanism": "Media Richness",
+  "lines": [
+   {
+    "vo": "Mười một giờ trưa, sếp nhắn đúng sáu chữ: Chiều gặp anh chút.",
+    "text": "CHIEU GAP ANH CHUT",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Cả buổi trưa nuốt không trôi cơm vì sợ bị cho nghỉ việc.",
+    "text": "MAT AN MAT NGU",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Tin nhắn trần trụi không có âm sắc hay nét mặt để cảm nhận.",
+    "text": "THIEU CAM XUC",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Khi thiếu dữ liệu, não bộ thường tự điền vào kịch bản xấu nhất.",
+    "text": "TU VE BI KICH",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Việc nhạy cảm, gọi một cuộc điện thoại ngắn sẽ ấm áp hơn nhiều.",
+    "text": "GOI DIEN NHANH",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Chiều đến, sếp chỉ nhờ sửa mẫu bìa. Nhẹ nhõm nhưng mệt mỏi.",
+    "text": "HOA RA BAN BIA",
+    "color": "gold",
+    "actor": "coffee"
+   }
+  ]
+ },
+ {
+  "id": "s470",
+  "mascot": "buff",
+  "title": "The Usual Spot Trap",
+  "mechanism": "Common Ground",
+  "lines": [
+   {
+    "vo": "Buy dinner from our usual spot. Sure, buddy. Which spot?",
+    "text": "THE USUAL SPOT",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "You wanted spicy burritos, they brought cold soup. Instant evening fight.",
+    "text": "WRONG DINNER",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Closeness makes your brain lazy. You assume your mental map is shared.",
+    "text": "LAZY MENTAL MAP",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "You skipped the warm-up rep and assumed common ground already existed.",
+    "text": "SKIPPED WARM-UP",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Take two seconds. Type the actual restaurant name, or eat regret.",
+    "text": "NAME THE PLACE",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s470vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Mua do an cho cu la o dau?",
+  "title_vi": "Mua đồ ăn chỗ cũ là ở đâu?",
+  "mechanism": "Common Ground",
+  "lines": [
+   {
+    "vo": "Tiện đường mua chỗ cũ nhé. Ừ, tin. Chỗ cũ là chỗ nào?",
+    "text": "MUA O CHO CU NHE",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bạn thèm cơm sườn, người ta xách về bún riêu. Thế là chiến tranh.",
+    "text": "LECH SONG HOAN TOAN",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Thân thiết khiến bạn lười khởi động, cứ ngỡ đối phương tự hiểu ngầm.",
+    "text": "LUOI KHOI DONG",
+    "actor": "bored_yawn",
+    "prop": "brain"
+   },
+   {
+    "vo": "Trong đầu bạn rõ ràng, nhưng hai người chưa từng cùng nâng tạ.",
+    "text": "CHUA DONG BO",
+    "actor": "think",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Bỏ thêm hai giây nhắn đúng tên quán. Rõ ràng hoặc nhịn đói.",
+    "text": "NHAN DUNG TEN QUAN",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s471",
+  "mascot": "pen",
+  "title": "Why Rejection Feels Everywhere",
+  "mechanism": "Pragmatic Inference",
+  "lines": [
+   {
+    "vo": "I invited a close friend over. They replied: early meeting tomorrow.",
+    "text": "EARLY MEETING",
+    "actor": "typing_focused",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "My mind immediately assumed they hated my cooking and avoided me.",
+    "text": "THEY HATE ME",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "That is pragmatic inference. Brains hunt for hidden rejection behind neutral replies.",
+    "text": "HUNTING REJECTION",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "They stated an honest conflict, while you drafted a hostile conspiracy.",
+    "text": "IMAGINED DRAMA",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "The next morning, they cheerfully asked to grab lunch instead.",
+    "text": "LUNCH TOMORROW",
+    "actor": "reading",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Run the literal check first. Respond only to the actual words sent.",
+    "text": "READ IT LITERALLY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "What if their tired excuse was simply an honest bedtime?",
+    "text": "JUST TIRED",
+    "color": "gold",
+    "actor": "sleeping"
+   }
+  ]
+ },
+ {
+  "id": "s471vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Khi ban than tu choi hen",
+  "title_vi": "Khi bạn thân từ chối hẹn",
+  "mechanism": "Pragmatic Inference",
+  "lines": [
+   {
+    "vo": "Rủ bạn đi cà phê, bạn bảo mai phải dậy sớm có việc.",
+    "text": "MAI PHAI DAY SOM",
+    "actor": "nervous_wave",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Não mình lập tức nghĩ: Chắc người ta chán chơi với mình rồi.",
+    "text": "CHAC HO CHAN MINH",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Chúng ta hay suy diễn quá đà, tự tìm ẩn ý bị ghét bỏ.",
+    "text": "SUY DIEN AN Y",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Người ta chỉ nêu lịch trình, còn mình tự dựng cả bi kịch.",
+    "text": "DUNG NEN BI KICH",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Sáng hôm sau, bạn ấy lại hồ hởi nhắn rủ ăn trưa vui vẻ.",
+    "text": "RU AN TRUA LAI",
+    "actor": "coffee"
+   },
+   {
+    "vo": "Hãy hiểu đúng nghĩa đen của câu chữ trước khi tưởng tượng xa xôi.",
+    "text": "HIEU DUNG NGHIA DEN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Đôi khi người ta bận thật, chứ đâu rảnh để xa lánh mình?",
+    "text": "HO CHI BAN THAT",
+    "color": "gold",
+    "actor": "bed_phone_night"
+   }
+  ]
+ },
+ {
+  "id": "s472",
+  "mascot": "buff",
+  "title": "The Terror of the Period",
+  "mechanism": "Tone Ambiguity",
+  "lines": [
+   {
+    "vo": "You text that chores are done, and receive okay with a period.",
+    "text": "OKAY WITH A DOT",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "That tiny black dot lands like a dropped barbell. Instant cold sweat.",
+    "text": "DROPPED BARBELL",
+    "color": "red",
+    "actor": "panic",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Welcome to tone ambiguity. When emotion is missing, brains assume hostility.",
+    "text": "TONE AMBIGUITY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "They were just carrying groceries, while you benched three hours of worry.",
+    "text": "BENCHING WORRY",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Use an emotional spotter. Add an exclamation mark to set warm temperature.",
+    "text": "ADD WARM TONE",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Lock in warmth on your end, or deal with imaginary fights.",
+    "text": "WARM UP YOUR TEXT",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s472vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Noi so dau cham cau",
+  "title_vi": "Nỗi sợ dấu chấm câu",
+  "mechanism": "Tone Ambiguity",
+  "lines": [
+   {
+    "vo": "Nhắn khoe đã dọn nhà xong, người yêu đáp vỏn vẹn: Ừ, chấm hết.",
+    "text": "U KEM DAU CHAM",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Dấu chấm câu rơi xuống như quả tạ trăm ký vào đầu. Lạnh gáy.",
+    "text": "QUA TA ROI XUONG",
+    "color": "red",
+    "actor": "panic",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Khi tin nhắn thiếu cảm xúc, não mặc định coi đó là thái độ giận dỗi.",
+    "text": "MAC DINH GIAN DOI",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Người ta đang bận xách đồ, còn bạn ngồi nâng tạ âu lo cả buổi.",
+    "text": "NANG TA AU LO",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Hãy làm người đỡ tạ cảm xúc. Thêm một biểu tượng để giữ độ ấm.",
+    "text": "GIU NHIET DO AM",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Chủ động thêm chút thân thiện, hoặc chuẩn bị cãi nhau vì chuyện không đâu.",
+    "text": "CHU DONG THAN THIEN",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s473",
+  "mascot": "pen",
+  "title": "When Questions Feel Like Demands",
+  "mechanism": "Speech Acts",
+  "lines": [
+   {
+    "vo": "Did you review the proposal yet? My teammate popped up on chat.",
+    "text": "DONE REVIEWING YET",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "I snapped defensively, feeling like they were aggressively policing my schedule.",
+    "text": "FEELING POLICED",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "In reality, they were simply planning their afternoon, not nagging me.",
+    "text": "JUST PLANNING",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Every message has literal words, plus an intended action called speech act.",
+    "text": "THE SPEECH ACT",
+    "actor": "reading",
+    "prop": "brain"
+   },
+   {
+    "vo": "Under pressure, innocent questions easily sound like demanding orders.",
+    "text": "SOUNDS LIKE ORDERS",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Label your intent upfront before typing the question.",
+    "text": "LABEL YOUR INTENT",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Type no rush, just planning ahead, to disarm hidden anxiety.",
+    "text": "NO RUSH JUST ASKING",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Clear intentions keep small questions from feeling like attacks.",
+    "text": "PEACE OF MIND",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s473vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Hoi tham hay dang giuc deadline?",
+  "title_vi": "Hỏi thăm hay đang giục deadline?",
+  "mechanism": "Speech Acts",
+  "lines": [
+   {
+    "vo": "Đồng nghiệp nhắn hỏi: Bản kế hoạch xong chưa bạn ơi?",
+    "text": "XONG KE HOACH CHUA",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Mình cáu gắt ngay lập tức vì nghĩ họ đang thúc ép công việc.",
+    "text": "NGHI BI DUC DEADLINE",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Thực ra người ta chỉ muốn biết giờ để sắp xếp buổi chiều.",
+    "text": "HO CHI XEP LICH",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Câu từ là một chuyện, nhưng hành động ẩn sau mới gây hiểu lầm.",
+    "text": "HANH DONG AN SAU",
+    "actor": "reading",
+    "prop": "brain"
+   },
+   {
+    "vo": "Khi đang căng thẳng, một câu hỏi bình thường cũng nghe như mệnh lệnh.",
+    "text": "NGHE NHU MENH LENH",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Hãy nói rõ mục đích của mình ngay từ đầu câu.",
+    "text": "NOI RO MUC DICH",
+    "color": "green",
+    "actor": "writing"
+   },
+   {
+    "vo": "Thêm chữ không vội nhé, để người đọc không phải giật mình phòng thủ.",
+    "text": "KHONG VOI DAU NHE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Một chữ làm rõ ý định sẽ cứu cả buổi làm việc vui vẻ.",
+    "text": "CUU CA NGAY DANG YEU",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s474",
+  "mascot": "buff",
+  "title": "When Sarcasm Terrifies Rookies",
+  "mechanism": "Audience Design",
+  "lines": [
+   {
+    "vo": "You send a sarcastic meme to the new intern. They apologize terrified.",
+    "text": "TERRIFIED INTERN",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "You treated a nervous rookie like your gym buddy. Terrible coaching.",
+    "text": "TERRIBLE COACHING",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "That is failed audience design. Skilled lifters always adjust for their partner.",
+    "text": "AUDIENCE DESIGN",
+    "actor": "think",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "When you hold authority, light jokes land like dropped barbells.",
+    "text": "AUTHORITY WEIGHT",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Audit your reader first. With beginners, drop sarcasm and give clear direction.",
+    "text": "BE DIRECT INSTEAD",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Save rough banter for veterans. Spot the rookies with clean words.",
+    "text": "SPOT THE ROOKIES",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s474vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Treu thuc tap sinh va cai ket",
+  "title_vi": "Trêu thực tập sinh và cái kết",
+  "mechanism": "Audience Design",
+  "lines": [
+   {
+    "vo": "Gửi ảnh chế trêu thực tập sinh mới, bạn ấy xin lỗi rối rít.",
+    "text": "THUC TAP XIN LOI",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bạn coi lính mới như đứa bạn chí cốt. Đỡ tạ kiểu này hỏng rồi.",
+    "text": "DO TA KIEU NAY HONG",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Bạn quên thiết kế thông điệp cho đúng đối tượng tiếp nhận.",
+    "text": "DUNG DOI TUONG",
+    "actor": "think",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Có khoảng cách quyền lực, lời nói đùa nhẹ cũng thành quả tạ đè nén.",
+    "text": "QUA TA DE NEN",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Với người mới, bớt nói kháy và hướng dẫn thẳng thắn rõ ràng.",
+    "text": "HUONG DAN RO RANG",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Đùa nhây để dành cho bạn thân. Người mới cần lời động viên cụ thể.",
+    "text": "DONG VIEN NGUOI MOI",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s475",
+  "mascot": "pen",
+  "title": "When Jokes Die in Group Chats",
+  "mechanism": "Context Collapse",
+  "lines": [
+   {
+    "vo": "I dropped a quick joke into the company channel. Complete, deafening silence.",
+    "text": "DEAFENING SILENCE",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Eighty coworkers just stared at screens, wondering what happened.",
+    "text": "ZERO LAUGHS",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Welcome to context collapse. Multiple social worlds smashed into one digital room.",
+    "text": "CONTEXT COLLAPSE",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Offline, physical walls separate rooms. Online, executives and friends share one space.",
+    "text": "WALLS ARE GONE",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "In open channels, people filter jokes through whoever holds the strictest standards.",
+    "text": "STRICTEST AUDIENCE",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Default to public clarity. Save inside humor for private direct messages.",
+    "text": "JOKES IN DIRECT CHAT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Keep public channels tidy, and take your jokes to a quiet room.",
+    "text": "KEEP IT IN PRIVATE",
+    "color": "gold",
+    "actor": "coffee"
+   }
+  ]
+ },
+ {
+  "id": "s475vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Khi cau dua roi vao nhom chung",
+  "title_vi": "Khi câu đùa rơi vào nhóm chung",
+  "mechanism": "Context Collapse",
+  "lines": [
+   {
+    "vo": "Quăng một câu đùa vào nhóm chat chung, cả công ty im phăng phắc.",
+    "text": "IM PHANG PHAC",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Mấy chục người cùng xem mà không ai dám thả một biểu tượng cảm xúc.",
+    "text": "KHONG MOT AI CUOI",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Không gian bị sụp đổ ngữ cảnh khi sếp lớn lẫn bạn bè ngồi chung phòng.",
+    "text": "SUP DO NGU CANH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Ngoài đời có phòng riêng, còn trên nhóm mạng thì ranh giới tan biến hết.",
+    "text": "RANH GIOI TAN BIEN",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Trong nhóm đông, mọi người sẽ đánh giá câu chữ theo tiêu chuẩn khắt khe nhất.",
+    "text": "TIEU CHUAN KHAT KHE",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Giữ nhóm chung nghiêm túc, còn đùa giỡn hãy nhắn tin riêng từng người.",
+    "text": "DUA O TIN NHAN RIENG",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Giữ sân chơi chung sạch sẽ, để ai đọc cũng cảm thấy dễ thở hơn.",
+    "text": "DE THO CHO TAT CA",
+    "color": "gold",
+    "actor": "coffee"
+   }
+  ]
+ }
+]

@@ -1,0 +1,931 @@
+{
+ "id": "L20vi",
+ "lang": "vi",
+ "title": "Vượt qua chia tay mà không để cuộc sống đảo lộn thế nào?",
+ "description": "Sau khi chia tay, nhịp sinh hoạt thường ngày rất dễ rơi vào hỗn loạn. Trong video này, chúng ta sẽ cùng bóc tách tám nguyên nhân tâm lý khiến bạn đánh mất thói quen và lộ trình từng bước để tái thiết sự ổn định.",
+ "chapters": [
+  {
+   "title": "Buổi Sáng Hậu Chia Tay",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sáng mở mắt vội tìm điện thoại, rồi chợt nhớ chẳng ai chờ tin mình.",
+     "text": "NGÀY HẬU CHIA TAY",
+     "color": "red",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ly cà phê nhạt toẹt, buổi tối trống rỗng và lịch trình đảo lộn hết cả.",
+     "text": "CUỘC SỐNG ĐẢO LỘN",
+     "color": "red",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không phải do lười đâu Pen. Não Pen vừa mất đi bạn tập ăn ý nhất.",
+     "text": "KHÔNG PHẢI DO LƯỜI",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao thiếu một người mà giặt đồ hay ngồi làm việc cũng nặng trĩu thế Buff?",
+     "text": "SAO NẶNG NỀ THẾ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì từng chung nhịp sống. Hôm nay ta bóc tách tám nguyên nhân khiến nhịp sống của Pen vỡ vụn.",
+     "text": "TÁM NGUYÊN NHÂN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như mình phải bắt đầu lại mọi thứ từ con số không vậy.",
+     "text": "LÀM LẠI TỪ ĐẦU",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không phải số không đâu. Ta sẽ cùng tập lại từng hiệp kỷ luật cá nhân.",
+     "text": "BẮT ĐẦU TẬP LẠI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "1. Rời Bỏ Vai Trò Cũ",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ năm giờ chiều, mình lại quen tay định nhắn tin hỏi tối nay ăn gì.",
+     "text": "1. RỜI BỎ VAI TRÒ",
+     "color": "ink",
+     "actor": "think",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rồi nhớ ra chẳng còn ai để hỏi, thế là ngồi thừ người giữa phòng.",
+     "text": "KHOẢNG TRỐNG VÔ HÌNH",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen vừa rời vai trò cũ. Não Pen mất đi một ca trực quen thuộc mỗi ngày.",
+     "text": "CHÍNH THỨC NGHỈ VIỆC",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là đầu óc mình vẫn chấm công cho một ca trực không còn nữa?",
+     "text": "VẪN ĐANG CHẤM CÔNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn rồi Pen. Các vai trò cũ luôn đi kèm kịch bản hành vi tự động.",
+     "text": "KỊCH BẢN TỰ ĐỘNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi vai trò đó biến mất, các thói quen cũ mất phương hướng và hẫng hụt.",
+     "text": "MẤT ĐI PHƯƠNG HƯỚNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Điều đó làm mình không quyết nổi việc gì vì chẳng còn ai cùng bàn tính.",
+     "text": "KHÓ KHĂN LỰA CHỌN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bài tập đây: hãy làm một buổi bàn giao dứt khoát cho chính mình.",
+     "text": "BÀN GIAO CHO MÌNH",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng năm giờ, gập máy tính, dọn bàn làm việc và bước hẳn ra ngoài.",
+     "text": "RỜI BÀN LÀM VIỆC",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là chủ động tạo ranh giới thay vì ngồi thẫn thờ đợi tin nhắn?",
+     "text": "RANH GIỚI RÕ RÀNG",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Hãy coi việc chuyển nhịp sống như một hiệp tập Pen tự giao cho mình.",
+     "text": "HIỆP TẬP TỰ GIAO",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khép lại vai trò cũ giúp dọn lịch trình, nhưng nhìn vào gương vẫn thấy lạ lẫm.",
+     "text": "BÓNG HÌNH XA LẠ",
+     "color": "ink",
+     "actor": "34",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "2. Gián Đoạn Bản Sắc",
+   "sources": [
+    "s02",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hôm nay vào siêu thị, mình chẳng biết bản thân thực sự thèm ăn món gì.",
+     "text": "2. GIÁN ĐOẠN BẢN SẮC",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trước giờ toàn ăn theo gu người ta, chọn quán hay nghe nhạc cũng vậy.",
+     "text": "SỞ THÍCH LẪN LỘN",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là khủng hoảng cái tôi. Gắn bó lâu ngày khiến sở thích bị hoà lẫn.",
+     "text": "BẢN SẮC BỊ HOÀ TAN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy là mình không chỉ mất người yêu, mà còn đánh mất cả gu bản thân?",
+     "text": "MẤT CẢ CHÍNH MÌNH?",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế. Não Pen đã nhường quyền quyết định cho đối phương để bớt va chạm.",
+     "text": "NHƯỜNG QUYỀN CHỌN",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi họ đi, bảng điều khiển trống trơn, đi chợ mua sắm cũng thành áp lực.",
+     "text": "BẢNG ĐIỀU KHIỂN TRỐNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nó khiến mình chỉ muốn nằm lì vì nghĩ đến việc chọn lựa cũng thấy mệt.",
+     "text": "KIỆT SỨC VÌ NGHĨ",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giải pháp là rà soát sở thích. Hãy coi mình như một người bạn mới toanh cần tìm hiểu.",
+     "text": "RÀ SOÁT SỞ THÍCH",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy mua ba món ăn mới chưa từng thử chung rồi tự mình chấm điểm.",
+     "text": "THỬ BA MÓN MỚI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là chủ động tìm lại khẩu vị riêng mà không cần ai duyệt qua?",
+     "text": "TÌM LẠI KHẨU VỊ",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Mỗi lựa chọn độc lập là một lần nâng tạ dựng lại cái tôi.",
+     "text": "TỰ NÂNG TẠ CÁ NHÂN",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tìm lại sở thích giúp khởi động, nhưng cơ lõi bản thân vẫn cần gia cố thêm.",
+     "text": "GIA CỐ NỀN TẢNG",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "3. Mơ Hồ Về Bản Thân",
+   "sources": [
+    "s03",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình cứ liên tục muốn đổi kiểu tóc, đổi phong cách, rồi đòi nhảy việc.",
+     "text": "3. MƠ HỒ VỀ BẢN THÂN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vừa mới muốn chuyển trọ đi thật xa, lúc sau lại chỉ muốn trốn trong phòng.",
+     "text": "TÂM TRẠNG BẤP BÊNH",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen đang mất định vị về chính mình. Mọi niềm tin nội tâm đều cảm thấy vụn vỡ.",
+     "text": "BẢN THÂN VỤN VỠ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao chia tay lại khiến mình hoài nghi toàn bộ con người mình hả Buff?",
+     "text": "HOÀI NGHI CHÍNH MÌNH",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi mất đi nửa kia, hệ thống niềm tin nội tâm bị rung lắc dữ dội.",
+     "text": "NIỀM TIN RUNG LẮC",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mất đi mỏ neo tinh thần, Pen hoảng loạn muốn đập đi xây lại đời mình.",
+     "text": "HOẢNG LOẠN THAY ĐỔI",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thảo nào hôm qua mình suýt bấm đặt vé một chiều trốn lên Đà Lạt.",
+     "text": "BỐC ĐỒNG MUỐN TRỐN",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cất điện thoại đi. Ta sẽ ổn định lại bằng cách chốt lại ba giá trị cốt lõi.",
+     "text": "RÀ GIÁ TRỊ CỐT LÕI",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Viết ra ba nguyên tắc sống thuộc về riêng Pen, không phụ thuộc vào ai khác.",
+     "text": "BA NGUYÊN TẮC RIÊNG",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ba giá trị này sẽ giữ nguyên dù mình độc thân hay đang yêu ai đó?",
+     "text": "CỘT TRỤ VỮNG CHẮC",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Chúng là bộ khung đỡ vững khi những cơn sóng cảm xúc ập tới.",
+     "text": "BỘ KHUNG ĐỠ VỮNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ khung vững sẽ giữ la bàn chuẩn, trong khi câu chuyện đời tìm sang trang mới.",
+     "text": "TÌM SANG TRANG MỚI",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "4. Gãy Đổ Cốt Truyện",
+   "sources": [
+    "s04",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình từng vẽ sẵn kế hoạch năm năm tới rất rõ ràng cùng người ấy.",
+     "text": "4. GÃY ĐỔ CỐT TRUYỆN",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giờ nghĩ đến kỳ nghỉ hè hay dịp Tết sắp tới, đầu óc mình lại trống rỗng.",
+     "text": "TƯƠNG LAI MỜ MỊT",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cốt truyện đời Pen vừa gãy đôi. Khi mất mục tiêu, sức chịu đựng sẽ tụt dốc.",
+     "text": "CỐT TRUYỆN GÃY ĐÔI",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giống như ai đó vừa xé toạc nửa sau cuốn sách đời mình vậy sao?",
+     "text": "TRANG SÁCH BỊ XÉ?",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế Pen. Ta cần một câu chuyện mạch lạc để có lý do thức dậy.",
+     "text": "CẦN LÝ DO THỨC DẬY",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi đoạn kết mong đợi biến mất, các thói quen hằng ngày sẽ lập tức mất ý nghĩa.",
+     "text": "MẤT ĐI MỤC TIÊU",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình cứ tua lại kỷ niệm cũ, tự hỏi mình đã làm sai ở đoạn nào.",
+     "text": "QUẨN QUANH QUÁ KHỨ",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngừng đọc bản thảo cũ đi. Hãy coi tháng tới là giai đoạn tự rèn luyện.",
+     "text": "GIAI ĐOẠN TỰ RÈN",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn một thử thách ba mươi ngày, như học kỹ năng mới hay đọc xong cuốn sách.",
+     "text": "MỤC TIÊU BA MƯƠI NGÀY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thay vì cái kết hụt hẫng, đây là chương truyện mình tự nâng cấp bản thân?",
+     "text": "CHƯƠNG TRUYỆN MỚI",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng vậy. Cho não đích đến mới để chuông báo thức mỗi sáng thực sự có ý nghĩa.",
+     "text": "Ý NGHĨA BUỔI SÁNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mục tiêu mới tiếp thêm sức bật, nhưng nếu gồng gánh một mình sẽ rất nhanh đuối.",
+     "text": "ĐỪNG CHỊU MỘT MÌNH",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "5. Thiếu Vùng Đệm Hỗ Trợ",
+   "sources": [
+    "s05",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hôm nay đi làm bị sếp mắng, bình thường trên đường về mình hay kể người ấy.",
+     "text": "5. VÙNG ĐỆM HỖ TRỢ",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không còn nơi trút bầu tâm sự, bước về phòng trọ mình thấy kiệt quệ hoàn toàn.",
+     "text": "KIỆT QUỆ KHI VỀ PHÒNG",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen đang thiếu vùng đệm hỗ trợ. Người yêu từng là tấm nệm giảm xóc cảm xúc.",
+     "text": "MẤT NỆM GIẢM XÓC",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhóm bạn chung giờ cũng gượng gạo, nhắn tin trong nhóm lớp hay nhóm chơi đều sượng.",
+     "text": "BẠN CHUNG NGẠI NGÙNG",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chia sẻ gánh nặng tinh thần sẽ làm dịu hệ thần kinh và hạ mức căng thẳng.",
+     "text": "LÀM DỊU THẦN KINH",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi nhóm chung im ắng, người ta dễ tự cô lập, khiến nhịp sống sụp nhanh hơn.",
+     "text": "CÔ LẬP NGUY HIỂM",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nên mình toàn ăn tối trong im lặng để tránh ồn ào ở nhóm bạn?",
+     "text": "ĂN TỐI TRONG IM LẶNG",
+     "color": "red",
+     "actor": "snack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tắt thông báo nhóm bạn chung đi. Pen cần một chỗ dựa an toàn, không vướng bận.",
+     "text": "TẮT NHÓM BẠN CHUNG",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chủ động gọi cho một người bạn cũ hoàn toàn không quen người yêu cũ của Pen.",
+     "text": "KẾT NỐI VÒNG RIÊNG",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một cuộc gọi với bạn riêng giúp mình nhẹ lòng mà không sợ bị phán xét?",
+     "text": "CHIA SẺ AN TOÀN",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn rồi. Coi họ như người đỡ tạ, giúp giữ căng thẳng luôn trong tầm kiểm soát.",
+     "text": "NGƯỜI ĐỠ TẠ AN TOÀN",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có người đỡ tạ giúp Pen vững vàng, sẵn sàng nâng cấp lại không gian sống.",
+     "text": "NÂNG CẤP KHÔNG GIAN",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "6. Mất Điểm Tựa Thói Quen",
+   "sources": [
+    "s06",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trước đây tuần nào mình cũng đi tập bốn buổi rất đều đặn.",
+     "text": "6. ĐIỂM TỰA THÓI QUEN",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giờ thì giày chạy vứt đâu không nhớ, mình đã bỏ tập suốt ba buổi liền.",
+     "text": "BỎ BÊ TẬP LUYỆN",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thói quen cũ có bạn tập đỡ tạ cùng. Pen bám vào nhịp người ta chứ đâu dùng ý chí.",
+     "text": "NGƯỜI ĐỒNG HÀNH NGẦM",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hoá ra sự hiện diện của người ta bấy lâu chính là điểm tựa thói quen?",
+     "text": "HỌ LÀ ĐIỂM TỰA?",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn xác. Thấy họ xỏ giày dọn đồ là não Pen tự báo giờ đi tập.",
+     "text": "TÍN HIỆU NGOẠI CẢNH",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi bạn tập rời đi, hành vi từng rất nhẹ nhàng bỗng đòi hỏi toàn bộ ý chí.",
+     "text": "ĐÒI HỎI Ý CHÍ CAO",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mọi tín hiệu quen thuộc biến mất nên làm gì cũng thấy đuối.",
+     "text": "MẤT MỒI KÍCH HOẠT",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen không hề lười, chỉ đang thiếu điểm tựa không gian thay thế bạn tập thôi.",
+     "text": "DỰNG ĐIỂM TỰA MỚI",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tối nay trước khi ngủ, đặt sẵn bộ đồ thể thao ngay trước cửa phòng.",
+     "text": "ĐẶT ĐỒ TRƯỚC CỬA",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là để không gian sống thúc đẩy mình hành động thay vì đợi người nhắc?",
+     "text": "KHÔNG GIAN NHẮC NHỞ",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng vậy. Để không gian nhắc việc giùm mình, dành năng lượng ý chí cho ngày làm việc.",
+     "text": "TIẾT KIỆM NĂNG LƯỢNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tín hiệu rõ ràng giúp giảm sức ì, mở đường cho chuỗi nhịp sống mới vào guồng.",
+     "text": "MỞ ĐƯỜNG VÀO GUỒNG",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "7. Đứt Gãy Chuỗi Nhịp Sống",
+   "sources": [
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi sáng dạo này hỗn loạn, mình cứ đi loanh quanh phòng mà không biết làm gì.",
+     "text": "7. ĐỨT GÃY NHỊP SỐNG",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không ai giục, mình nằm thừ mất hai tiếng chỉ để nghĩ xem ăn gì.",
+     "text": "BUỔI SÁNG HỖN LOẠN",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là đứt gãy nhịp điệu. Pen mất các mắt xích hành vi tự động mỗi ngày.",
+     "text": "ĐỨT GÃY MẮT XÍCH",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao mất một thói quen chung lại khiến cả chuỗi sinh hoạt sụp đổ theo?",
+     "text": "SAO CHUỖI SỤP ĐỔ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thói quen hình thành theo chuỗi. Một việc vừa xong sẽ kích hoạt việc tiếp theo.",
+     "text": "CHUỖI PHẢN XẠ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi mắt xích chung đứt gãy, cả chuỗi dây chuyền đổ sụp, bỏ rơi từng việc lẻ loi.",
+     "text": "DÂY CHUYỀN ĐỔ SỤP",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nên mình cứ ngồi đợi cảm hứng thay vì có đường ray trơn tru để chạy?",
+     "text": "CHỜ ĐỢI CẢM HỨNG",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng đợi hứng. Hãy móc thói quen mới vào một việc Pen vẫn làm mỗi sáng.",
+     "text": "GHÉP THÓI QUEN MỚI",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gắn ngay một việc nhỏ vào lúc pha cà phê sáng, như mở cuốn sổ tay.",
+     "text": "GẮN VÀO CÀ PHÊ SÁNG",
+     "color": "green",
+     "actor": "writing",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thói quen cũ sẽ tự kéo hành vi mới theo mà không tốn thêm năng lượng?",
+     "text": "KÉO THEO HÀNH ĐỘNG",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Gom từng chiến thắng nhỏ, đà sinh hoạt sẽ tự hồi phục theo từng hiệp.",
+     "text": "GOM CHIẾN THẮNG NHỎ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhịp sống ổn định giúp lấy lại phong độ, chuẩn bị tinh thần cho hiệp tập nặng nhất.",
+     "text": "HIỆP TẬP NẶNG NHẤT",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "8. Đúc Rút Ý Nghĩa",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đôi lúc mình tự hỏi mọi cố gắng trước giờ có ý nghĩa gì khi kết thúc thế này.",
+     "text": "8. ĐÚC RÚT Ý NGHĨA",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác bao nhiêu tâm huyết và thời gian bỏ ra bỗng chốc trở thành uổng phí.",
+     "text": "CÔNG SỨC PHÍ HOÀI?",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ là lúc gom bài học. Bộ não luôn đòi một lý do xứng đáng cho mồ hôi bỏ ra.",
+     "text": "GOM NHẶT BÀI HỌC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người ta thực sự có thể tìm thấy ý nghĩa trong điều làm mình đau đớn sao Buff?",
+     "text": "TÌM Ý NGHĨA LÚC ĐAU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bắt buộc phải tìm. Não sẽ hồi phục nhanh hơn khi Pen đúc kết được bài học cho mình.",
+     "text": "BÀI HỌC TĂNG BẢN LĨNH",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu cứ coi thời gian đó là vô nghĩa, lòng tự trọng của Pen sẽ bị bào mòn.",
+     "text": "BÀO MÒN TỰ TRỌNG",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thật khó để lạc quan khi nhìn đâu trong cuộc sống hiện tại cũng thấy đổ vỡ.",
+     "text": "KHÓ MÀ LẠC QUAN",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng ép mình tích cực độc hại. Bài tập cho Pen là lập bảng tổng kết trưởng thành.",
+     "text": "BẢNG TỔNG KẾT BẢN THÂN",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Viết ra hai kỹ năng lắng nghe hoặc ranh giới sống Pen đã rèn được từ chuyện cũ.",
+     "text": "HAI BÀI HỌC QUÝ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chuyện tình kết thúc, nhưng sự chín chắn mình rèn được sẽ ở lại mãi mãi?",
+     "text": "SỰ CHÍN CHẮN CÒN LẠI",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn xác. Không ai lấy mất được những hiệp tập đó, chúng đã thành bản lĩnh của Pen.",
+     "text": "BẢN LĨNH LÀ CỦA PEN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Góc nhìn đó biến trải nghiệm quá khứ thành sức mạnh thật sự cho chặng đường tới.",
+     "text": "SỨC MẠNH ĐƯỜNG DÀI",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "Hành Trình Tái Thiết",
+   "sources": [
+    "s01",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đi qua cả tám lý do, mình mới hiểu vì sao lúc trước cuộc sống lại chao đảo thế.",
+     "text": "HÀNH TRÌNH TÁI THIẾT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gom lại thành ba nguyên tắc tập luyện để Pen không bao giờ bị ngợp nữa.",
+     "text": "BA NGUYÊN TẮC CỐT LÕI",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nguyên tắc một: chủ động rời vai trò cũ và lấy lại cái tôi từ lựa chọn nhỏ.",
+     "text": "1. TỰ CHỌN CHO MÌNH",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nguyên tắc hai: dựng lại điểm tựa không gian và tìm đến vòng kết nối bạn bè riêng.",
+     "text": "2. ĐIỂM TỰA VÀ BẠN BÈ",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nguyên tắc ba: móc thói quen mới vào nhịp cũ và biến bài học thành bản lĩnh.",
+     "text": "3. NHỊP ĐIỆU MỚI",
+     "color": "ink",
+     "actor": "sprint_start",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng mai thức dậy giữa mớ hỗn độn này, mình nên bắt đầu từ đâu hả Buff?",
+     "text": "BẮT ĐẦU TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày: thức đúng giờ và ra ngoài đi bộ mười phút.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khởi động buổi sáng đơn giản như thế sẽ mang lại chiến thắng đầu ngày cho bộ não.",
+     "text": "CHIẾN THẮNG ĐẦU NGÀY",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhấn đăng ký kênh Lý Thuyết Chân Que để cùng rèn kỷ luật mỗi tuần.",
+     "text": "THEO DÕI KÊNH NHÉ",
+     "color": "gold",
+     "actor": "celebrate"
+    }
+   ]
+  }
+ ]
+}

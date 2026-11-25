@@ -1,0 +1,67 @@
+{
+ "title": "400 000 marins bloqués en mer en 2020",
+ "hook": "BLOQUÉS EN MER",
+ "asof": "Règles de la MLC 2006 · données à jour en 2025",
+ "world": "boxship",
+ "long": "IX013",
+ "chapters": [
+  {
+   "id": "change",
+   "hud": "JOUR 270",
+   "chip": "DÉC. 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Imagine : tu termines ton travail, mais tu ne peux pas rentrer.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "Sur les porte-conteneurs, les marins embarquent six à neuf mois.",
+     "v": "wide"
+    },
+    {
+     "s": "La règle : onze mois maximum à bord sans congé.",
+     "v": "clock",
+     "st": [
+      "11 MOIS",
+      "max · MLC"
+     ]
+    },
+    {
+     "s": "Puis, en 2020, le COVID ferme les frontières.",
+     "v": "port"
+    },
+    {
+     "s": "Les marins ne peuvent pas rentrer, ni leurs remplaçants embarquer.",
+     "v": "gangway"
+    },
+    {
+     "s": "En décembre 2020, l'agence maritime de l'ONU annonce plus de 400 000 marins bloqués en mer.",
+     "v": "sea",
+     "st": [
+      "400 000+",
+      "bloqués · OMI"
+     ]
+    },
+    {
+     "s": "Beaucoup avaient dépassé la fin de leur contrat.",
+     "v": "cabin",
+     "you": "cabin",
+     "plane": "phone"
+    },
+    {
+     "s": "Appeler leurs proches, c'était tout ce qui leur restait.",
+     "v": "cabin",
+     "you": "cabin",
+     "plane": "phone"
+    },
+    {
+     "s": "Tu tiendrais six mois de plus à bord ?",
+     "v": "mess",
+     "you": "mess"
+    }
+   ]
+  }
+ ]
+}

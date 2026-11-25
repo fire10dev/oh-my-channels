@@ -1,0 +1,70 @@
+{
+ "title": "A cada hora, eles enfrentam ventos de 372 km/h",
+ "hook": "LÁ FORA, SEM PARAR",
+ "asof": "Dados do Mount Washington Observatory e da FOX Weather",
+ "world": "summit",
+ "long": "IX016",
+ "chapters": [
+  {
+   "id": "work",
+   "hud": "DIA 2",
+   "chip": "05:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "A cada hora, alguém sai lá fora e encara isso.",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    },
+    {
+     "s": "No topo do Mount Washington, em New Hampshire.",
+     "v": "mountain"
+    },
+    {
+     "s": "A estação não é automatizada. Gelo e vento danificam os instrumentos.",
+     "v": "rime",
+     "plane": "rime"
+    },
+    {
+     "s": "Por isso, dia e noite, alguém sai de hora em hora.",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    },
+    {
+     "s": "Um observador disse que só não sai durante raios.",
+     "v": "sky",
+     "plane": "lightning"
+    },
+    {
+     "s": "Eles sobem na torre, a cerca de 30 metros de altura,",
+     "v": "tower",
+     "plane": "wind",
+     "you": "tower"
+    },
+    {
+     "s": "e tiram o gelo com um martelo de borracha ou um pé de cabra.",
+     "v": "tower",
+     "plane": "rime",
+     "you": "tower"
+    },
+    {
+     "s": "Em 1934, mediram uma rajada de 372 quilômetros por hora.",
+     "v": "tower",
+     "plane": "wind",
+     "st": [
+      "372 KM/H",
+      "Abril de 1934"
+     ]
+    },
+    {
+     "s": "Você sairia lá fora a cada hora?",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    }
+   ]
+  }
+ ]
+}

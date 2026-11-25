@@ -1,0 +1,88 @@
+{
+ "title": "En mer, tu partages ta cabine avec un inconnu",
+ "hook": "TON COLOC",
+ "asof": "Chiffres de 2026",
+ "world": "rig",
+ "long": "IX004",
+ "chapters": [
+  {
+   "id": "cabin",
+   "hud": "JOUR 1",
+   "chip": "19 h",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "En mer du Nord, tu peux partager ta cabine avec quelqu’un que tu croises à peine."
+    },
+    {
+     "v": "cabin",
+     "s": "Deux couchettes, un bureau, des casiers."
+    },
+    {
+     "v": "shower",
+     "s": "Une salle de bains partagée avec la cabine voisine."
+    },
+    {
+     "v": "cabin2",
+     "plane": "night",
+     "s": "Toi, tu travailles le jour. Ton coloc, la nuit."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Alors, l’un de vous est presque toujours au travail."
+    },
+    {
+     "v": "drill",
+     "you": "drill",
+     "s": "Douze heures de boulot."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Douze heures de repos."
+    },
+    {
+     "v": "office",
+     "st": [
+      "RÈGLES",
+      "Consignes HSE, mai 2026"
+     ],
+     "s": "Le régulateur britannique a mis ses règles à jour en mai 2026."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "9 m²",
+      "small": "minimum pour deux · HSE, 2026"
+     },
+     "s": "Moins de neuf mètres carrés ? En général, c’est trop petit pour deux."
+    },
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "Jamais plus de deux personnes dans la cabine à la fois."
+    },
+    {
+     "v": "rig",
+     "s": "En Norvège, Ekofisk est allé plus loin."
+    },
+    {
+     "v": "cabin",
+     "st": [
+      "2008",
+      "Ekofisk : cabines individuelles"
+     ],
+     "s": "Depuis 2008, toutes les cabines là-bas sont individuelles."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Tu pourrais partager une chambre pendant deux semaines ?"
+    }
+   ]
+  }
+ ]
+}

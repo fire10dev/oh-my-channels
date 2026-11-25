@@ -1,0 +1,891 @@
+{
+ "id": "L50",
+ "lang": "en",
+ "title": "Why We Agree With the Group When We Don't Want To (8 Ways to Stop)",
+ "description": "We often nod along in meetings or family dinners just to avoid making waves. Here are eight psychological traps behind group conformity and the exact words to hold your ground. Learn to speak honestly without turning the room into a battleground.",
+ "chapters": [
+  {
+   "title": "Why We Stay Silent",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Everyone in the meeting nods at a bad plan, and you say yes before you can stop yourself.",
+     "text": "WHY WE STAY SILENT",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. You swallowed your honest opinion just to keep the entire room calm and comfortable.",
+     "text": "FAKE HARMONY",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It happens at family dinners, with close friends, and at work. Why is disagreeing so terrifying to us?",
+     "text": "WHY IS IT HARD?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your primitive brain treats social rejection like a heavy dumbbell dropped straight onto your bare foot.",
+     "text": "SOCIAL PAIN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So how can we speak up honestly without blowing up the room or feeling completely isolated?",
+     "text": "SPEAKING UP",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "We break down eight hidden group traps and practice simple gym drills to hold your ground.",
+     "text": "EIGHT MECHANISMS",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. The Line Test",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Three coworkers insist the budget spreadsheet makes total sense, but your math shows an obvious mistake.",
+     "text": "1. THE LINE TEST",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Yet after they talk, you stare at the screen and wonder if your own eyes are broken.",
+     "text": "DOUBTING YOUR EYES",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Welcome to the Asch conformity effect. When the pack picks an answer, your senses bend under pressure.",
+     "text": "ASCH CONFORMITY",
+     "color": "gold",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I know my calculation is right, yet standing alone against three confident peers feels genuinely scary.",
+     "text": "STANDING ALONE",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your visual cortex sees the truth, but your social brain panics at standing alone against unanimous peers.",
+     "text": "SOCIAL BRAIN PANIC",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So my mind surrenders clear sensory evidence just to avoid the awkward friction of disagreeing?",
+     "text": "AVOIDING FRICTION",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Time for a form check. Anchor your numbers on paper first, then speak before consensus hardens.",
+     "text": "ANCHOR ON PAPER",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What exact words do I use when everyone looks ready to approve the incorrect total?",
+     "text": "WHAT TO SAY?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Say: My notes show a mismatch on line three. Let us verify that before moving on.",
+     "text": "NAME THE MISMATCH",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Speaking early protects my judgment, but what if the whole room stays completely silent instead?",
+     "text": "DEAD SILENCE",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That quiet room hides a dangerous illusion, where everyone panics while pretending to stay calm.",
+     "text": "THE SILENT TRAP",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "2. The Quiet Room",
+   "sources": [
+    "s02",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "The project deadline looks completely impossible, but looking around the table, everyone seems calm and relaxed.",
+     "text": "2. THE QUIET ROOM",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I keep quiet because I assume I must be the only person feeling overwhelmed by this schedule.",
+     "text": "AM I THE ONLY ONE?",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is pluralistic ignorance. Everyone is privately panicking, but everyone assumes everyone else is totally fine.",
+     "text": "PLURALISTIC BLIND",
+     "color": "gold",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So every single person is putting on a calm poker face while secretly drowning on the inside?",
+     "text": "POKER FACES",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You judge yourself by your inner feelings, but you judge coworkers by their quiet outer appearance.",
+     "text": "INSIDE VS OUTSIDE",
+     "color": "ink",
+     "actor": "34",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That means silence looks like complete agreement, even when nobody actually supports the timeline.",
+     "text": "SILENCE IS NOT YES",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Time for a spotter drill. Ask an honest process question instead of making an aggressive statement.",
+     "text": "ASK ABOUT PROCESS",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I phrase the question so the project lead does not get defensive?",
+     "text": "TEST THE WATER",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Say: How confident do we feel about meeting this date without cutting corners on quality?",
+     "text": "OPENING THE DOOR",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That breaks the silence safely, but what happens when people genuinely believe bad information?",
+     "text": "BORROWED TRUTH",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It breaks the spell safely. But when the crowd borrows second hand confidence, you need a different lift.",
+     "text": "BORROWED CERTAINTY",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "3. Borrowed Truth",
+   "sources": [
+    "s03",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "At a family dinner, relatives argue loudly about a real estate rumor, and sound completely convinced.",
+     "text": "3. BORROWED TRUTH",
+     "color": "ink",
+     "actor": "snack",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I read different facts yesterday, but seeing four adults agree makes me discard my researched notes.",
+     "text": "DISCARDING NOTES",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is informational conformity. Your brain assumes a confident crowd must have better information than you hold.",
+     "text": "INFORMATIONAL BIAS",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It feels completely logical to trust four loud voices instead of relying only on my single source.",
+     "text": "FOUR TO ONE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Confidence is not competence, buddy. Often, all four people are simply repeating the exact same unverified post.",
+     "text": "LOUD IS NOT RIGHT",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So they are bouncing the same hollow echo off each other with total mutual certainty?",
+     "text": "AN EMPTY ECHO",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Time for a reset drill. Trace the source with genuine curiosity instead of arguing the facts.",
+     "text": "SEEK THE SOURCE",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I ask where they heard it without triggering a massive dinner table argument?",
+     "text": "DEFUSING DEFENSE",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Say: That sounds wild, where did you read that? Let them trace their own source out loud.",
+     "text": "TRACE THE SOURCE",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That defuses rumors, but what if the group is just pushing us to fit in socially?",
+     "text": "WANTING TO FIT IN",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then you face pure social fear, where belonging matters much more than objective truth.",
+     "text": "SOCIAL PRESSURE",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "4. Fear of Being Out",
+   "sources": [
+    "s04",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "At lunch, our friend group mocks an absent friend new project, and they all expect me to laugh.",
+     "text": "4. FEAR OF BEING OUT",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I think the project is brave, but I chuckle along so they do not turn on me next.",
+     "text": "LAUGHING ALONG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Classic normative social influence. You know the truth, but you conform to protect your social standing.",
+     "text": "NORMATIVE PRESSURE",
+     "color": "gold",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Being the odd one out triggers an immediate, sharp sting of physical anxiety in my chest.",
+     "text": "FEAR OF REJECTION",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That sting is your primitive brain treating rejection like getting booted out into the freezing wilderness alone.",
+     "text": "TRIBAL FEAR",
+     "color": "ink",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So my body panics over a social lunch as if it were a survival emergency?",
+     "text": "FALSE ALARM",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Time for a boundary set. You do not have to lecture them; just decline to join the mockery.",
+     "text": "SET THE BOUNDARY",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What can I say that stops my participation without turning the whole table against me?",
+     "text": "HOLDING THE LINE",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Say: I actually respect them trying something new, then steer the topic to weekend plans.",
+     "text": "PIVOT THE TOPIC",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That protects my values safely, but what happens when an entire committee protects harmony at all costs?",
+     "text": "HARMONY TRAP",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When a team prioritizes polite agreement over reality, you walk straight into the groupthink trap.",
+     "text": "GROUPTHINK AHEAD",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "5. The Echo Chamber",
+   "sources": [
+    "s05",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Our project team rushed to launch a campaign, and any skeptical voice was treated like bad vibes.",
+     "text": "5. THE ECHO CHAMBER",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Everyone smiled, cheered the lead, and marched straight toward a visible, preventable disaster together.",
+     "text": "SMILING DISASTER",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Textbook groupthink. The desire for team harmony completely shuts down realistic analysis and critical thinking.",
+     "text": "GROUPTHINK TRAP",
+     "color": "gold",
+     "actor": "facepalm",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "People censor their own doubts because they do not want to be labeled as negative or uncooperative.",
+     "text": "SELF CENSORSHIP",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When everyone thinks alike, nobody is actually thinking. The group creates a shared illusion of invulnerability.",
+     "text": "NOBODY IS THINKING",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So how can a regular team member break that collective trance without being resented as a buzzkill?",
+     "text": "BREAKING TRANCE",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Run a stress test drill. Frame your question as disaster insurance to protect the team success.",
+     "text": "STRESS TEST DRILL",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What phrasing ensures the manager sees it as support rather than an attack on their plan?",
+     "text": "FRAMING AS SUPPORT",
+     "color": "ink",
+     "actor": "think",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ask: To ensure this launch hits target, what is one failure mode we should stress test right now?",
+     "text": "STRESS TEST FLAWS",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That frames flaws as shared safety, but what happens when groups only talk about familiar facts?",
+     "text": "FAMILIAR FACTS",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Even open teams fall into that trap, hiding vital information while high fiving over obvious news.",
+     "text": "HIDDEN INFORMATION",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "6. Hidden Cards",
+   "sources": [
+    "s06",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "When our family met to arrange care for grandfather, everyone spent an hour discussing basic chores.",
+     "text": "6. HIDDEN CARDS",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Meanwhile, the specific medical billing rules I spent days researching never even made it onto the table.",
+     "text": "UNSHARED RESEARCH",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is shared information bias. Groups naturally repeat common knowledge because common facts validate everyone comfortably.",
+     "text": "SHARED INFO BIAS",
+     "color": "gold",
+     "actor": "bored_yawn",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Talking about simple chores gets quick smiles, so repeating familiar facts feels emotionally safe and rewarding.",
+     "text": "FEELING SAFE",
+     "color": "ink",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bringing up unshared data feels risky because nobody else in the room can immediately verify your facts.",
+     "text": "RISKY NEW DATA",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So the most crucial facts stay hidden while we celebrate superficial agreement on minor details?",
+     "text": "CRUCIAL FACTS LOST",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Time for a reset drill. Do not claim special authority; introduce your data neutrally into the pool.",
+     "text": "NEUTRAL DATA DROP",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I bring up the billing numbers without sounding like I am lecturing my siblings?",
+     "text": "AVOIDING A LECTURE",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Say: There is one detail outside our summary that affects the budget. Let me share two numbers.",
+     "text": "SHARE TWO NUMBERS",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That shares the facts peacefully, but what if I am the only one standing against bad choices?",
+     "text": "LONE DISSENT",
+     "color": "ink",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A steady solo voice has surprising power, if you know how to hold your ground without breaking.",
+     "text": "THE POWER OF ONE",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "7. The Lone Voice",
+   "sources": [
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Planning a road trip with friends, four people want an unsafe mountain trail in heavy rain.",
+     "text": "7. THE LONE VOICE",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I fold after two minutes because being the single voice arguing against the crowd feels completely pointless.",
+     "text": "GIVING UP EARLY",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Do not tap out yet. Research shows a calm minority forces the whole room to think twice.",
+     "text": "MINORITY INFLUENCE",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even if they argue back, my lone objection actually makes them reconsider their assumptions?",
+     "text": "FORCING DEEP THOUGHT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A majority creates fast compliance, but a calm, consistent minority triggers genuine second thoughts over time.",
+     "text": "CALM CONSISTENCY",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So the secret is staying composed instead of getting angry when friends push back hard?",
+     "text": "STAYING COMPOSED",
+     "color": "ink",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Time for an endurance set. Maintain consistency on your core concern while staying flexible on the details.",
+     "text": "ENDURANCE SET",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I stand my ground without sounding stubborn or ruining our friendship?",
+     "text": "AVOIDING HOSTILITY",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Stand firm twice, then say: I understand the consensus, but note my reservation so we have backups ready.",
+     "text": "LOG A BACKUP PLAN",
+     "color": "green",
+     "actor": "34",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Logging the backup protects everyone, but how do we confirm the final group decision is genuine agreement?",
+     "text": "REAL AGREEMENT?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You test alignment before the meeting ends, so exhaustion does not masquerade as real buy in.",
+     "text": "TESTING BUY IN",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "8. Real Alignment",
+   "sources": [
+    "s08",
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "At the end of a long meeting, the leader asks if everyone agrees, and everyone mumbles yes.",
+     "text": "8. REAL ALIGNMENT",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Three weeks later, everyone feels bitter and frustrated because nobody actually supported that rushed choice.",
+     "text": "RESENTMENT FOLLOWS",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is fake consensus, buddy. People surrendered out of total exhaustion, not genuine alignment.",
+     "text": "FATIGUE SURRENDER",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "We constantly confuse the quiet absence of open conflict with actual teamwork and real commitment.",
+     "text": "ABSENCE OF CONFLICT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "True consensus decision making requires testing hidden reservations before declaring the outcome final.",
+     "text": "TEST RESERVATIONS",
+     "color": "ink",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do we test for real buy in without restarting a two hour debate from scratch?",
+     "text": "QUICK BUY IN CHECK",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Run an alignment check. Ask for a quick one to ten score before locking the choice.",
+     "text": "ONE TO TEN SCORE",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What happens if someone rates the plan as a four or a five?",
+     "text": "HANDLING LOW SCORES",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Give anyone below seven sixty seconds to name the single adjustment that would raise their number.",
+     "text": "NAME THE FIX",
+     "color": "green",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That turns hidden doubts into practical tweaks before anyone wastes time on a doomed project.",
+     "text": "CONSTRUCTIVE TWEAKS",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Real alignment takes grit upfront, but saves weeks of silent resentment down the road.",
+     "text": "NO SILENT RESENTMENT",
+     "color": "ink",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "The Game Plan",
+   "sources": [
+    "s01",
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Breaking the habit of fake agreement does not mean turning into a loud, aggressive contrarian in every room.",
+     "text": "THE GAME PLAN",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Organize your defense into three core lifts to handle any group situation with calm strength.",
+     "text": "THREE CORE LIFTS",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "First, calibrate internal truth against crowd pressure so Asch bias, rumors, and social fear do not sway you.",
+     "text": "OWN YOUR TRUTH",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Second, surface hidden reality by questioning silent rooms and bringing unshared facts into the open.",
+     "text": "SURFACE HIDDEN FACTS",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Third, structure safe dissent with stress tests, firm minority backups, and real consensus ratings.",
+     "text": "SAFE DISSENT",
+     "color": "ink",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I build this psychological muscle in my everyday routine starting right now?",
+     "text": "DAILY HABIT",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For the next seven days, pause before every automatic head nod, at work or dinner, and ask one question.",
+     "text": "PAUSE BEFORE NODDING",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "One honest clarifying question breaks the spell of fake harmony without starting an unnecessary fight.",
+     "text": "BREAK THE SPELL",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Subscribe for more practical psychology reps, and start speaking your mind with calm, unshakeable confidence.",
+     "text": "SUBSCRIBE FOR REPS",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

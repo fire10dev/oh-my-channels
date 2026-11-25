@@ -1,0 +1,105 @@
+{
+ "title": "El oxígeno desaparecía dentro de Biosfera 2",
+ "hook": "SE ACABÓ EL AIRE",
+ "asof": "Cifras de los registros de 1991–1994",
+ "world": "bio",
+ "long": "IX006",
+ "chapters": [
+  {
+   "id": "air",
+   "hud": "DÍA 480",
+   "chip": "ENE 1993",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "gauge",
+     "plane": "o2:14.5",
+     "s": "Ocho personas quedaron encerradas y el oxígeno empezó a desaparecer."
+    },
+    {
+     "v": "wide",
+     "s": "Esto es Biosfera 2, en Arizona, a principios de los años noventa."
+    },
+    {
+     "v": "gauge",
+     "plane": "o2:20.9",
+     "s": "Afuera, el aire tiene cerca de un veintiuno por ciento de oxígeno."
+    },
+    {
+     "v": "gauge",
+     "plane": "o2:18.0",
+     "s": "Adentro, esa cifra no paraba de bajar."
+    },
+    {
+     "v": "gauge",
+     "plane": "o2:14.5",
+     "s": "A principios de 1993, bajó a cerca del catorce y medio."
+    },
+    {
+     "v": "sky",
+     "st": [
+      "4,6 km",
+      "cómo se sentía el aire"
+     ],
+     "s": "Como vivir a cuatro mil quinientos metros de altura."
+    },
+    {
+     "v": "berth",
+     "you": "berth",
+     "s": "La tripulación estaba cansada todo el tiempo."
+    },
+    {
+     "v": "berth",
+     "s": "Algunos dejaban de respirar mientras dormían."
+    },
+    {
+     "v": "tech",
+     "s": "Pero si algo estaba consumiendo el oxígeno,"
+    },
+    {
+     "v": "tech",
+     "s": "el dióxido de carbono debería haberse acumulado."
+    },
+    {
+     "v": "concrete",
+     "s": "Pero no pasó."
+    },
+    {
+     "v": "farm",
+     "s": "Primer responsable: la rica tierra de cultivo."
+    },
+    {
+     "v": "crops",
+     "s": "Los microbios consumían oxígeno y producían dióxido de carbono."
+    },
+    {
+     "v": "concrete",
+     "s": "Segundo responsable: el concreto sin revestir."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "MICROBIOS DEL SUELO",
+       "CONSUMEN OXÍGENO",
+       "PRODUCEN CO₂",
+       "EL CONCRETO LO ABSORBE"
+      ],
+      "note": "Severinghaus y otros, 1994"
+     },
+     "s": "El concreto absorbió el dióxido de carbono y ocultó las pruebas."
+    },
+    {
+     "v": "truck",
+     "plane": "pump",
+     "s": "En 1993, bombearon oxígeno desde el exterior."
+    },
+    {
+     "v": "airlock",
+     "you": "airlock",
+     "s": "¿Te habrías quedado adentro?"
+    }
+   ]
+  }
+ ]
+}

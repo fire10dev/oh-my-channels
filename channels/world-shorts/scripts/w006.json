@@ -1,0 +1,11 @@
+{"id":"w006","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#2563eb","cover_frame":60,
+ "source":"Border lengths: CIA World Factbook · Time zones: French government","music":"shared/library/music/yt-audio-library/A New Adventure - Asher Fulero.mp3",
+ "beats":[
+  {"say":"France's longest land border isn't in Europe.","title":"FRANCE'S LONGEST BORDER ISN'T IN EUROPE","cam":{"lon":2.5,"lat":46.5,"span":22},"hl":[{"a3":"FRA","color":"#2563eb"}]},
+  {"say":"It's with Brazil.","cam":{"lon":-50,"lat":3,"span":40},"hl":[{"a3":"FRA","color":"#2563eb","label":"France"},{"a3":"BRA","color":"#22c55e"}]},
+  {"say":"French Guiana, in South America, is not a colony. It is a full part of France, using the euro, and part of the European Union.","cam":{"lon":-53,"lat":4,"span":14},"hl":[{"a3":"FRA","color":"#2563eb","label":"France"}]},
+  {"say":"According to the CIA World Factbook, the border with Brazil runs six hundred forty nine kilometers. Just ahead of Spain.","cam":{"lon":-53,"lat":4,"span":14},"hl":[{"a3":"FRA","color":"#2563eb"},{"a3":"BRA","color":"#22c55e"}],
+   "bars":{"unit":" km","items":[{"label":"Brazil","value":649,"color":"#22c55e"},{"label":"Spain","value":646,"color":"#ef4444"},{"label":"Belgium","value":556,"color":"#ffd23f"},{"label":"Switzerland","value":525,"color":"#94a3b8"}]}},
+  {"say":"Add islands in the Caribbean, the Indian Ocean and the Pacific, and France ends up with twelve time zones. More than any other country.","cam":{"lon":0,"lat":10,"span":340},"hl":[{"a3":"FRA","color":"#2563eb"}],"big":{"value":"12","label":"time zones"}},
+  {"say":"The sun never really sets on France. Follow for more.","title":"THE SUN NEVER SETS ON FRANCE","cam":{"lon":-20,"lat":20,"span":120},"hl":[{"a3":"FRA","color":"#2563eb"}]}
+ ]}

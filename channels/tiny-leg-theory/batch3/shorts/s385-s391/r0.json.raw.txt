@@ -1,0 +1,692 @@
+[
+  {
+    "id": "s385",
+    "mascot": "pen",
+    "title": "Why One Email Ruins Your Mood",
+    "mechanism": "Contingent Worth",
+    "lines": [
+      {
+        "vo": "My manager missed one reply, and my whole weekend felt ruined.",
+        "text": "UNREPLIED EMAIL",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "That is contingent worth, treating self-esteem like a volatile stock ticker.",
+        "text": "STOCK TICKER",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "We cling to clear scorecards to feel safe and worthy.",
+        "text": "FALSE SCORECARD",
+        "actor": "confused_shrug",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Notice three things you handled with care that no boss grades.",
+        "text": "UNGRADED CARE",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Value showing up for the process, even when feedback stays quiet.",
+        "text": "HONOR THE EFFORT",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Your worth is the human breathing, not the email reply.",
+        "text": "YOU ARE NOT WORK",
+        "color": "gold",
+        "actor": "think",
+        "prop": "coffee_mug"
+      }
+    ]
+  },
+  {
+    "id": "s385vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Khi mot tin nhan lam hong ngay nghi",
+    "title_vi": "Khi một tin nhắn làm hỏng ngày nghỉ",
+    "mechanism": "Contingent Worth",
+    "lines": [
+      {
+        "vo": "Sếp chưa xem tin nhắn cuối tuần, lòng bạn đã thấy bất an.",
+        "text": "TIN NHAN CHUA DOC",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Đó là định giá phụ thuộc, tự biến giá trị mình thành sàn chứng khoán.",
+        "text": "GIA TRI PHU THUOC",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Một lời khen thì vui, một sự im lặng liền thấy mình vô dụng.",
+        "text": "BAT AN LIEN TUC",
+        "actor": "confused_shrug",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Ghi lại ba việc nhỏ bạn đã làm chu đáo mà sếp không chấm điểm.",
+        "text": "3 VIEC KHONG DIEM",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Ghi nhận sự kiên trì của bản thân thay vì đợi người khác ban phát.",
+        "text": "TU GHI NHAN",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Giá trị của bạn nằm ở con người bạn, không nằm trong hộp thư.",
+        "text": "BAN LA CHINH MINH",
+        "color": "gold",
+        "actor": "think",
+        "prop": "coffee_mug"
+      }
+    ]
+  },
+  {
+    "id": "s386",
+    "mascot": "buff",
+    "title": "Ditch Your Childhood Career Script",
+    "mechanism": "Early Foreclosure",
+    "lines": [
+      {
+        "vo": "Family dinners decided your career before you even knew yourself. Great.",
+        "text": "FAMILY SCRIPTS",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "That is early foreclosure, treating a teenage idea like a life sentence.",
+        "text": "LOCKED IN EARLY",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "You never wear outgrown shoes to the gym. Drop the uniform.",
+        "text": "OUTGROWN SHOES",
+        "actor": "confused_shrug",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Run one small identity test this week outside your professional degree.",
+        "text": "RUN A NEW REP",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "target"
+      },
+      {
+        "vo": "Build what sparks curiosity today, not what pleased your uncle yesterday.",
+        "text": "TEST NEW SKILLS",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s386vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung de ho hang chon nghe cho ban",
+    "title_vi": "Đừng để họ hàng chọn nghề cho bạn",
+    "mechanism": "Early Foreclosure",
+    "lines": [
+      {
+        "vo": "Bữa cơm họ hàng đã chốt luôn tương lai của bạn. Tuyệt vời.",
+        "text": "KICH BAN NHA NGUOI",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Đó là đóng khung bản thân, nhận bừa một vai diễn suốt đời.",
+        "text": "DONG KHUNG SOM",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Đi tập không ai giữ mãi một mức tạ. Đổi bài tập đi.",
+        "text": "DOI BAI TAP",
+        "actor": "confused_shrug",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Tuần này thử một kỹ năng mới toanh không liên quan đến bằng cấp.",
+        "text": "THU MOT THU MOI",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "target"
+      },
+      {
+        "vo": "Sống cho đam mê hôm nay, đừng trả nợ kỳ vọng của người khác.",
+        "text": "SONG CHO CHINH BAN",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s387",
+    "mascot": "pen",
+    "title": "When Your Job Swallows Who You Are",
+    "mechanism": "Central Identity",
+    "lines": [
+      {
+        "vo": "When people ask who I am, I only give my title.",
+        "text": "JUST A JOB TITLE",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "That is central identity, putting your job in the driver seat.",
+        "text": "CENTRAL IDENTITY",
+        "color": "red",
+        "actor": "think",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Every other role feels like a side hobby that barely matters.",
+        "text": "SIDELINED ROLES",
+        "actor": "bored_yawn"
+      },
+      {
+        "vo": "So when work hits a bump, your entire soul takes damage.",
+        "text": "TOTAL COLLAPSE",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Notice where you sacrifice physical rest just to impress the office.",
+        "text": "REST VS PRESTIGE",
+        "color": "green",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Treat your profession like one healthy part of a wider life.",
+        "text": "ONE PART OF LIFE",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "If your title disappeared tomorrow, what would still make you feel whole?",
+        "text": "WHO REMAINS?",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s387vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Khi chuc danh nuot chung con nguoi ban",
+    "title_vi": "Khi chức danh nuốt chửng con người bạn",
+    "mechanism": "Central Identity",
+    "lines": [
+      {
+        "vo": "Gặp người mới, bạn chỉ biết giới thiệu chức vụ và tên công ty.",
+        "text": "CHI CO CHUC DANH",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Đó là bản sắc trung tâm, để công việc lái toàn bộ cuộc đời.",
+        "text": "BAN SAC TRUNG TAM",
+        "color": "red",
+        "actor": "think",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Mọi vai trò khác như bạn bè hay con cái đều bị đẩy về sau.",
+        "text": "VAI PHU TRONG DOI",
+        "actor": "bored_yawn"
+      },
+      {
+        "vo": "Chỉ cần công việc trục trặc, toàn bộ niềm tin sụp đổ theo.",
+        "text": "SUP DO HOAN TOAN",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Hãy để ý những lúc bạn đánh đổi giấc ngủ chỉ để giữ thể diện.",
+        "text": "GIU THE DIEN",
+        "color": "green",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Xem công việc như một nhánh cây, đừng coi nó là cả khu rừng.",
+        "text": "MOT PHAN CUOC SONG",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Nếu bóc tấm danh thiếp ra, điều gì ở bạn vẫn còn giá trị?",
+        "text": "BAN CON LAI GI?",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s388",
+    "mascot": "buff",
+    "title": "Take Off Your Work Uniform",
+    "mechanism": "Role Engulfment",
+    "lines": [
+      {
+        "vo": "Speaking corporate jargon at breakfast and dreaming of spreadsheets. Wake up.",
+        "text": "CORPORATE BRAIN",
+        "color": "red",
+        "actor": "bed_phone_night",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "That is role engulfment. Your work uniform is glued to your skin.",
+        "text": "ROLE ENGULFMENT",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "You check emails on vacation because silence feels too uncomfortable.",
+        "text": "VACATION EMAILS",
+        "actor": "sofa_scroll"
+      },
+      {
+        "vo": "In the gym you drop the belt. Do it at home.",
+        "text": "DROP THE BELT",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Shut the laptop lid and leave work notifications in another room.",
+        "text": "SHUT THE SCREEN",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "End the shift completely. Put on your home clothes right now.",
+        "text": "WARM DOWN NOW",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s388vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Coi bo bo dong phuc cong so",
+    "title_vi": "Cởi bỏ bộ đồng phục công sở",
+    "mechanism": "Role Engulfment",
+    "lines": [
+      {
+        "vo": "Đi du lịch biển vẫn ôm điện thoại trả lời tin nhắn đối tác.",
+        "text": "DU LICH VAN BAN",
+        "color": "red",
+        "actor": "bed_phone_night",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Đó là nuốt chửng vai trò. Bạn dán chặt mình vào cái ghế văn phòng.",
+        "text": "NUOT CHUNG VAI TRO",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Bạn không dám rời việc vì sợ cảm giác trống trải khi rảnh rỗi.",
+        "text": "SO KHOANG TRONG",
+        "actor": "sofa_scroll"
+      },
+      {
+        "vo": "Tập xong phải tháo đai bảo vệ. Tan ca cũng phải xả cơ.",
+        "text": "XA CO SAU TAP",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Gập máy tính lại, tắt thông báo làm việc ngay khi bước vào nhà.",
+        "text": "GAP NGAY MAY TINH",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Thay bộ đồ ở nhà và làm người bình thường đi. Ngay bây giờ.",
+        "text": "VE NHA DUNG GIO",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s389",
+    "mascot": "pen",
+    "title": "Stop Renting Other Peoples Mirrors",
+    "mechanism": "Reflected Appraisal",
+    "lines": [
+      {
+        "vo": "At alumni reunions, people only ask for your latest company and title.",
+        "text": "ALUMNI REUNIONS",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "That is reflected appraisal, assembling self-worth out of other people's mirrors.",
+        "text": "REFLECTED WORTH",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "When they look impressed, you expand. When they shrug, you shrink.",
+        "text": "SHRINKING DOWN",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "We easily mistake polite social applause for genuine inner peace.",
+        "text": "EMPTY APPLAUSE",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Crowds applaud what looks flashy, not what feels sustainable for you.",
+        "text": "FLASHY VS REAL",
+        "actor": "think",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Grade your own effort quietly before posting or checking for praise.",
+        "text": "GRADE INTERNALLY",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Ask if you acted with integrity, even if nobody cheered.",
+        "text": "STAY HONEST",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Build your own mirror so you stop relying on warped glass.",
+        "text": "YOUR OWN MIRROR",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s389vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Ngung soi minh qua mat nguoi khac",
+    "title_vi": "Ngừng soi mình qua mắt người khác",
+    "mechanism": "Reflected Appraisal",
+    "lines": [
+      {
+        "vo": "Về họp lớp, câu đầu tiên người ta hỏi là làm ở đâu, lương mấy số.",
+        "text": "CAU HOI HOP LOP",
+        "color": "red",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Đó là đánh giá phản chiếu, mượn ánh nhìn người khác để đo chính mình.",
+        "text": "DANH GIA PHAN CHIEU",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Họ khen thì thấy nở mày nở mặt, họ thờ ơ là thấy mình thụt lùi.",
+        "text": "LEN XUONG THEO KHEN",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Bạn đang nhầm lẫn giữa tràng pháo tay xã giao với sự bình yên.",
+        "text": "VO TAY XA GIAO",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Thiên hạ chỉ vỗ tay cho cái hào nhoáng, không ai sống giùm bạn đâu.",
+        "text": "HAO NHOANG BEN NGOAI",
+        "actor": "think",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Tự chấm điểm nỗ lực của mình trước khi đợi ai đó gật đầu tán thưởng.",
+        "text": "TU CHAM DIEM MINH",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Tập trung vào sự tử tế mỗi ngày, dù không ai đăng bài chúc mừng.",
+        "text": "GIU SU TU TE",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Tự xây chiếc gương vững chãi thay vì đi mượn lăng kính méo mó.",
+        "text": "SOI GUONG CHINH MINH",
+        "color": "gold",
+        "actor": "front"
+      }
+    ]
+  },
+  {
+    "id": "s390",
+    "mascot": "buff",
+    "title": "Cross Train Your Identity",
+    "mechanism": "Self-Complexity",
+    "lines": [
+      {
+        "vo": "One canceled work project and you feel completely bankrupt. Sure, buddy.",
+        "text": "ONE PROJECT DIES",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Low self-complexity. You loaded all your weight onto a single tendon.",
+        "text": "LOW COMPLEXITY",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "In the gym, cross-train muscle groups so one strain never stops you.",
+        "text": "CROSS TRAIN MUSCLES",
+        "actor": "sprint_start",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Build two separate weekly routines where work has zero say.",
+        "text": "TWO NEW HABITS",
+        "color": "green",
+        "actor": "jogging",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Give them real reps. Never let one wobble take down your whole life.",
+        "text": "LOCK IN THE REPS",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s390vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung don het trung vao mot gio",
+    "title_vi": "Đừng dồn hết trứng vào một giỏ",
+    "mechanism": "Self-Complexity",
+    "lines": [
+      {
+        "vo": "Dự án bị huỷ là thấy như phá sản cả cuộc đời. Quen quá rồi.",
+        "text": "DU AN BI HUY",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Độ phức tạp thấp. Dồn hết tạ vào đúng một khớp xương.",
+        "text": "DON HET VAO MOT MOI",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Đi tập phải rèn nhiều nhóm cơ để chấn thương không làm bạn gục ngã.",
+        "text": "TAP DEU CAC DONG TAC",
+        "actor": "sprint_start",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Lập ngay hai thói quen mới trong tuần mà công việc không thể chạm tới.",
+        "text": "2 HOAT DONG MOI",
+        "color": "green",
+        "actor": "jogging",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Tập luyện nghiêm túc. Đừng để một cú sẩy chân dập tắt toàn bộ ý chí.",
+        "text": "GIA TRI VUNG VANG",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s391",
+    "mascot": "pen",
+    "title": "Critique Is Not a Death Sentence",
+    "mechanism": "Self Affirmation",
+    "lines": [
+      {
+        "vo": "Harsh feedback arrives, and your mind immediately spirals into defensive panic.",
+        "text": "HARSH FEEDBACK",
+        "color": "red",
+        "actor": "panic",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "The nervous system often treats professional critique like a threat to survival.",
+        "text": "SURVIVAL THREAT",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "An attack on a draft is not an attack on your existence.",
+        "text": "DRAFT VS IDENTITY",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Practice self-affirmation to anchor yourself before opening the evaluation.",
+        "text": "SELF AFFIRMATION",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Write down one core value you lived out today outside the office.",
+        "text": "WRITE CORE VALUES",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "It keeps critique focused on your technique, not your human dignity.",
+        "text": "PROTECT DIGNITY",
+        "actor": "think"
+      },
+      {
+        "vo": "What value did you honor today that no review can ever change?",
+        "text": "WHAT CANNOT TOUCH?",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s391vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Loi che khong dinh doat con nguoi ban",
+    "title_vi": "Lời chê không định đoạt con người bạn",
+    "mechanism": "Self Affirmation",
+    "lines": [
+      {
+        "vo": "Nhận lời nhận xét gay gắt từ sếp, bạn liền muốn nổi đoá phòng thủ.",
+        "text": "NHAN LOI CHE BAI",
+        "color": "red",
+        "actor": "panic",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Hệ thần kinh coi lời chê công việc như mối đe doạ đến danh dự.",
+        "text": "MOI DE DOA DANH DU",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Lời góp ý cho bản thảo không phải là đòn tấn công vào nhân cách.",
+        "text": "GOP Y KHONG PHAI TOI",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Thực hành tự khẳng định để đứng vững trước khi mở email đánh giá.",
+        "text": "TU KHANG DINH",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Viết ra một phẩm chất tử tế bạn đã làm hôm nay ngoài giờ làm.",
+        "text": "VIET MOT GIA TRI",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Nó tách biệt kỹ năng làm việc với phẩm giá của một con người.",
+        "text": "TACH BIET KY NANG",
+        "actor": "think"
+      },
+      {
+        "vo": "Giá trị nào ở bạn mà không một bài đánh giá nào có thể chạm tới?",
+        "text": "GIA TRI BAT BIEN?",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  }
+]

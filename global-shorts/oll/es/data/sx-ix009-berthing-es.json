@@ -1,0 +1,78 @@
+{
+ "title": "Dormir con 100 personas en un portaaviones",
+ "hook": "UN CUARTO, 100 MARINOS",
+ "asof": "Cifras de informes de la Marina de EE. UU., 2006–2025",
+ "world": "carrier",
+ "long": "IX009",
+ "chapters": [
+  {
+   "id": "sleep",
+   "hud": "DÍA 1",
+   "chip": "23:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Imagina compartir tu habitación con cien personas.",
+     "v": "berthing",
+     "you": "rack"
+    },
+    {
+     "s": "En un portaaviones, eso es normal.",
+     "v": "wide"
+    },
+    {
+     "s": "Los marinos duermen en literas apiladas de a tres.",
+     "v": "berthing",
+     "st": [
+      "100",
+      "marinos por dormitorio · 2006"
+     ]
+    },
+    {
+     "s": "Están tan cerca que podrías despertar al de arriba al girarte.",
+     "v": "rack",
+     "you": "rack"
+    },
+    {
+     "s": "Cada litera tiene una cortina.",
+     "v": "rack",
+     "you": "rack",
+     "plane": "curtain"
+    },
+    {
+     "s": "Bloquea la luz,",
+     "v": "rack",
+     "plane": "curtain",
+     "you": "rack"
+    },
+    {
+     "s": "pero no el ruido.",
+     "v": "rack",
+     "plane": "curtain"
+    },
+    {
+     "s": "De día o de noche, los aviones aterrizan con fuerza sobre la cubierta.",
+     "v": "deck",
+     "plane": "trap",
+     "tod": "night"
+    },
+    {
+     "s": "Las catapultas se activan y el estruendo retumba por el acero.",
+     "v": "catapult",
+     "plane": "launch",
+     "tod": "night"
+    },
+    {
+     "s": "Y alguien siempre se levanta para empezar su turno.",
+     "v": "clock"
+    },
+    {
+     "s": "¿Podrías dormir con todo ese ruido?",
+     "v": "rack",
+     "you": "rack",
+     "plane": "curtain"
+    }
+   ]
+  }
+ ]
+}

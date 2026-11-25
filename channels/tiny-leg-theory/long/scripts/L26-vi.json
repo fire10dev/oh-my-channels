@@ -1,0 +1,930 @@
+{
+ "id": "L26vi",
+ "lang": "vi",
+ "title": "Nói sao với bố mẹ khi bạn chọn lối đi khác?",
+ "description": "Chia sẻ với gia đình về việc đổi nghề, dọn ra ở riêng hay sống theo cách của mình luôn mang lại nhiều lo âu. Dưới đây là tám bước chuyển tâm lý giúp bạn trình bày lựa chọn của bản thân một cách điềm tĩnh, thấu hiểu và giữ trọn tình cảm gia đình.",
+ "chapters": [
+  {
+   "title": "Bữa cơm cuối tuần",
+   "sources": [
+    "s01",
+    "s02",
+    "s03",
+    "s04",
+    "s05",
+    "s06",
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ mỗi lần mẹ gọi về ăn cơm rồi hỏi sang chuyện công việc, bụng tôi lại thắt hết cả lại.",
+     "text": "BỮA CƠM CUỐI TUẦN",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tại Pen coi bữa cơm như sàn đấu, thay vì một bài khởi động nhẹ.",
+     "text": "KHÔNG PHẢI SÀN ĐẤU",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù là đổi nghề hay dọn ra ngoài, tôi biết nhà sẽ lại nổi giông bão.",
+     "text": "NỖI SỢ CĂNG THẲNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Căng thẳng là dễ hiểu Pen. Nhưng đối thoại là hiệp tập cần khởi động, không phải tai họa.",
+     "text": "MỘT HIỆP TẬP MỚI",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Liệu có thể chọn lối đi riêng mà không làm rạn nứt gia đình không?",
+     "text": "GIỮ TÌNH CẢM?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Được chứ. Nay ta bẻ khóa tám bước tâm lý để bạn vào hiệp đàng hoàng mà không sứt mẻ tình cảm.",
+     "text": "TÁM BƯỚC CHUYỂN",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Suy diễn phòng vệ",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa nghe tôi tính nghỉ việc, mẹ đã nghĩ ngay đến cảnh trắng tay.",
+     "text": "1. SUY DIỄN PHÒNG VỆ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để đoán xem, mẹ lại lôi chuyện mấy người họ hàng làm ăn thua lỗ ra chứ gì.",
+     "text": "LÔI CHUYỆN THẤT BẠI",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chuẩn luôn. Mẹ khẳng định cứ rời chỗ làm ổn định là đời bế tắc.",
+     "text": "NỖI SỢ BẾ TẮC",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là suy diễn phòng vệ. Khi sợ hãi, não bộ tự gom bằng chứng xấu nhất.",
+     "text": "GOM BẰNG CHỨNG XẤU",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra mẹ không cố tình bảo thủ hay muốn kiểm soát tôi à?",
+     "text": "KHÔNG HẲN BẢO THỦ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không đâu Pen. Chuông báo động đang réo, lý trí làm sao chen vào nổi.",
+     "text": "CHUÔNG BÁO BẬT LÊN",
+     "color": "gold",
+     "actor": "34",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi tôi đem lý lẽ ra giải thích, không khí lại càng căng như dây đàn.",
+     "text": "KHÔNG KHÍ CĂNG THẲNG",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cố cãi lý lúc người ta hoảng hốt chẳng khác nào tạ đang đè mà còn chất thêm bánh.",
+     "text": "ĐỪNG CỐ CÃI LÝ",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tắt chuông báo động mà không phải chịu trận ở công ty cũ?",
+     "text": "TẮT BÁO ĐỘNG BẰNG GÌ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy mở lời bằng cách công nhận bố mẹ nhắc nhở vì thương và muốn bảo vệ bạn.",
+     "text": "CÔNG NHẬN SỰ LO LẮNG",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi bố mẹ thấy tôi hiểu nỗi lo đó, căng thẳng sẽ dịu xuống thật sao?",
+     "text": "CĂNG THẲNG SẼ DỊU?",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không hết ngay đâu Pen. Nhưng nó giúp hạ phòng thủ để hai bên bắt đầu lắng nghe.",
+     "text": "HẠ HÀNG PHÒNG THỦ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "2. Góc nhìn thế hệ",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bố tôi luôn tự hào mấy chục năm biên chế, xem đó là bến đỗ an toàn duy nhất.",
+     "text": "2. GÓC NHÌN THẾ HỆ",
+     "color": "ink",
+     "actor": "think",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Với bố, bỏ chỗ làm ổn định chẳng khác nào đem tương lai đi đánh bạc.",
+     "text": "SÁCH CŨ CỦA BỐ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cuốn cẩm nang của thế hệ trước được viết trong thời kỳ hoàn toàn khác mà.",
+     "text": "THỜI KỲ ĐÃ KHÁC",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn Pen. Thời của bố, trung thành và ổn định là tấm khiên duy nhất trước rủi ro.",
+     "text": "TẤM KHIÊN DUY NHẤT",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên khi nghe tôi muốn làm tự do, bố mẹ chỉ thấy nguy cơ phá sản?",
+     "text": "SỢ CON PHÁ SẢN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế. Lời khuyên của bố như quả tạ kiểu cũ, thiết kế cho một bài tập khác rồi.",
+     "text": "GIÀN TẠ ĐỜI CŨ",
+     "color": "ink",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao bày tỏ tôn trọng mà không phải gò mình vào khuôn mẫu cũ đó?",
+     "text": "TÔN TRỌNG BỐ MẸ?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi hồi trẻ bố vượt qua khó khăn thế nào, để bố kể lại hành trình của mình.",
+     "text": "HỎI CHUYỆN NGÀY XƯA",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lắng nghe chuyện xưa giúp bố bớt cảm giác tôi đang phủ nhận công sức của bố sao?",
+     "text": "KHÔNG PHỦ NHẬN BỐ",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chắc chắn rồi. Khi được tôn trọng, bố không coi việc bạn tự lập là sự chống đối.",
+     "text": "KHÔNG PHẢI CHỐNG ĐỐI",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi hiểu chuyện xưa, nhưng không khí nặng nề trong nhà lúc này thì sao?",
+     "text": "KHÔNG KHÍ NẶNG NỀ?",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là cảm xúc dồn nén. Bạn cần thấu cảm lý trí để giải mã tín hiệu ngầm.",
+     "text": "GIẢI MÃ CẢM XÚC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    }
+   ]
+  },
+  {
+   "title": "3. Thấu cảm lý trí",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Lúc tôi bảo muốn dọn ra riêng, bố im lặng không nói một lời suốt mấy ngày.",
+     "text": "3. THẤU CẢM LÝ TRÍ",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Còn mẹ quay sang bóng gió chuyện con nhà người ta, rồi đá thúng đụng nia cả buổi tối chứ gì.",
+     "text": "ĐÁ THÚNG ĐỤNG NIA",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tối nào cũng vậy. Cảm giác mẹ cố tình làm mặt lạnh để trừng phạt quyết định của tôi.",
+     "text": "CHIẾN TRANH LẠNH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là lúc cần thấu cảm lý trí. Phải đọc được dữ liệu cảm xúc giấu kín.",
+     "text": "ĐỌC DỮ LIỆU CẢM XÚC",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đằng sau tiếng thở dài và tiếng đóng cửa sầm sầm thì có dữ liệu gì chứ?",
+     "text": "TÍN HIỆU NGẦM LÀ GÌ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Im lặng hay cáu gắt thường chỉ là cảm giác bất lực khi bố mẹ thấy mất kiểm soát.",
+     "text": "NỖI BẤT LỰC BÊN TRONG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là dưới cơn giận, bố mẹ đang hụt hẫng vì không còn che chở được cho tôi?",
+     "text": "CẢM GIÁC HỤT HẪNG",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rất chuẩn. Thấu cảm là hiểu được sức nặng của bố mẹ mà vẫn giữ vững thanh đòn của mình.",
+     "text": "GIỮ VỮNG THANH TẠ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao chia sẻ nỗi hụt hẫng đó mà không phải từ bỏ quyết định của mình?",
+     "text": "ỨNG XỬ RA SAO?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thừa nhận cảm xúc của bố mẹ trước. Hãy nói: Con biết quyết định đột ngột này làm bố mẹ rất lo và hụt hẫng.",
+     "text": "GỌI TÊN CẢM XÚC",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói ra như vậy có giúp bố mẹ thôi ép tôi ở nhà không?",
+     "text": "CÓ THÔI BỊ ÉP?",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ khi bạn không kích hoạt phản kháng tâm lý lúc đưa ra kế hoạch.",
+     "text": "BẪY KIỂM SOÁT",
+     "color": "gold",
+     "actor": "34",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "4. Phản kháng tâm lý",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi đùng đùng báo đã nộp đơn nghỉ việc, tưởng bố mẹ sẽ khen mình dũng cảm.",
+     "text": "4. PHẢN KHÁNG TÂM LÝ",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ai ngờ bố mẹ nổi trận lôi đình, dọa từ mặt rồi bắt ở yên chỗ cũ đúng không?",
+     "text": "DỌA TỪ MẶT",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chuẩn luôn. Bố mẹ bắt sáng mai phải đến xin lỗi sếp, rút lại đơn nghỉ việc ngay lập tức.",
+     "text": "BẮT RÚT LẠI ĐƠN",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là phản kháng tâm lý. Cảm giác mất quyền kiểm soát khiến người ta bật lại gấp đôi.",
+     "text": "PHẢN KHÁNG BẬT LẠI",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù kế hoạch đổi nghề đã được tính toán rất kỹ lưỡng và chín chắn ư?",
+     "text": "DÙ ĐÃ TÍNH KỸ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Càng bất ngờ phụ huynh càng sốc, cảm giác như mình bị đẩy ra rìa.",
+     "text": "CẢM GIÁC BỊ RA RÌA",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi tưởng báo tin một lần cho dứt điểm thì vết thương mau lành hơn.",
+     "text": "TƯỞNG ĐAU MỘT LẦN",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ toạc thêm thôi Pen. Tin giật gân làm bố mẹ bật ngay chế độ tự vệ.",
+     "text": "DỰNG RÀO PHÒNG VỆ",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy phải mở lời thế nào để không hạ mục tiêu mà cũng không gây chiến?",
+     "text": "MỞ LỜI THẾ NÀO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trình bày như một đề xuất nghiêm túc. Chia sẻ từng giai đoạn chuẩn bị rõ ràng.",
+     "text": "CHIA SẺ LỘ TRÌNH",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dùng từ ngữ thế nào để nghe như hợp tác thay vì chống đối gia đình?",
+     "text": "CHỌN TỪ NGỮ GÌ?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi bài đi Pen. Dùng ngôn ngữ chủ động, biến màn tra khảo thành buổi hội ý cùng ban huấn luyện.",
+     "text": "BIẾN THÀNH HỢP TÁC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    }
+   ]
+  },
+  {
+   "title": "5. Lời nói tự chủ",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mấy lần trước tôi toàn gắt: Bố mẹ không có quyền quyết định đời con.",
+     "text": "5. LỜI NÓI TỰ CHỦ",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ thế thượng đài đi Pen. Hãy chia sẻ kế hoạch thay vì thách thức bố mẹ ngăn cản.",
+     "text": "BỎ THẾ ĐỐI ĐẦU",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách nói tôn trọng tự chủ nghe thế nào trong bữa cơm gia đình?",
+     "text": "NÓI SAO CHO ĐÚNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng nói bố mẹ phải chấp nhận. Hãy nói con muốn chia sẻ suy nghĩ cùng bố mẹ.",
+     "text": "MỞ LÒNG CHIA SẺ",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lỡ bố mẹ bảo tôi đang vứt bỏ mấy năm đại học tốn kém thì sao?",
+     "text": "UỔNG PHÍ TẤM BẰNG?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói con hiểu lo lắng đó, và con đang dùng chính kiến thức ấy để phát triển.",
+     "text": "VẬN DỤNG KIẾN THỨC",
+     "color": "green",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi có thể xin lời khuyên mà không bị bố mẹ can thiệp quá sâu không?",
+     "text": "XIN LỜI KHUYÊN?",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giao việc cụ thể đi Pen. Hỏi kinh nghiệm trả giá tiền thuê nhà hay cách quản lý sổ tiết kiệm.",
+     "text": "GIAO VIỆC CỤ THỂ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hỏi kinh nghiệm giúp bố mẹ thấy mình có ích mà tôi vẫn tự quyết được?",
+     "text": "TÔN VINH KINH NGHIỆM",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng vậy. Vừa tôn trọng vai trò phụ huynh, vừa giữ vững ranh giới trưởng thành.",
+     "text": "GIỮ VỮNG RANH GIỚI",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giao việc rất tốt, nhưng nếu quan điểm sống hai bên vẫn va vào nhau thì sao?",
+     "text": "QUAN ĐIỂM TRÁI NGƯỢC?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dừng cãi chi tiết lại. Hãy kéo cuộc trò chuyện về điểm chung cốt lõi.",
+     "text": "TÌM VỀ ĐIỂM CHUNG",
+     "color": "gold",
+     "actor": "34",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "6. Điểm chung cốt lõi",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhiều khi tôi thấy mình và bố mẹ nói hai thứ tiếng hoàn toàn khác nhau.",
+     "text": "6. ĐIỂM CHUNG CỐT LÕI",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bố mẹ coi trọng an toàn, còn bạn khao khát tự do trải nghiệm đúng không.",
+     "text": "AN TOÀN HAY TỰ DO",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hai cách nhìn đời trái ngược liệu có tìm được điểm chung không?",
+     "text": "TÌM TIẾNG NÓI CHUNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có chứ Pen. Tận đáy lòng, hai bên đều hướng tới cùng một mục đích cho tương lai.",
+     "text": "CÙNG MỘT MỤC ĐÍCH",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mong muốn làm tự do của tôi có gì chung với tư tưởng biên chế của bố mẹ?",
+     "text": "ĐIỂM CHUNG LÀ GÌ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chẳng ai muốn bạn thất nghiệp, nợ nần rồi rơi vào cảnh trắng tay.",
+     "text": "KHÔNG MUỐN BẠN KHỔ",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đúng thật. Cả hai bên đều muốn tôi tự nuôi sống bản thân và có sức khỏe.",
+     "text": "TỰ NUÔI SỐNG MÌNH",
+     "color": "gold",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính nó! Cùng một phe thì đừng chĩa tạ vào nhau. Nhắc bố mẹ nhớ hai bên chung một chiến tuyến trước đã.",
+     "text": "CHUNG MỘT CHIẾN TUYẾN",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là mở đầu bằng câu: Cả nhà đều mong con sống tự lập và vững tài chính?",
+     "text": "KHỞI ĐẦU BẰNG GIÁ TRỊ",
+     "color": "green",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Nhắc bố mẹ nhớ hai bên cùng một đội, cùng hướng tới tương lai.",
+     "text": "CÙNG MỘT ĐỘI",
+     "color": "green",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù đồng thuận mục tiêu, bố mẹ vẫn sợ họ hàng làng xóm xì xào bàn tán.",
+     "text": "SỢ HỌ HÀNG XÌ XÀO",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là áp lực thể diện. Cho bố mẹ một kịch bản rõ ràng để tự tin đối đáp miệng đời.",
+     "text": "GIẢI TỎA ÁP LỰC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "7. Giữ thể diện",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mẹ thú nhận nỗi sợ: Ngày Tết họ hàng hỏi thăm thì biết giấu mặt vào đâu.",
+     "text": "7. GIỮ THỂ DIỆN",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng phán xét vội Pen. Với thế hệ trước, thể diện là tấm khiên che chắn họ trước miệng lưỡi họ hàng.",
+     "text": "TẤM KHIÊN THỂ DIỆN",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi chạnh lòng khi mẹ bận tâm lời ra tiếng vào hơn hạnh phúc của tôi.",
+     "text": "SỢ LỜI BÀN TÁN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mấy chục năm qua, uy tín của bố mẹ gắn liền với việc nuôi con thành đạt.",
+     "text": "UY TÍN CỦA BỐ MẸ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi hướng đi mới nghe mơ hồ, mẹ thấy như bị họ hàng đem ra phán xét?",
+     "text": "SỢ BỊ ĐÁNH GIÁ",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính thế. Hãy gánh bớt áp lực cho mẹ bằng một câu trả lời mẫu chuẩn chỉ.",
+     "text": "SOẠN SẴN CÂU TRẢ LỜI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giải thích hướng đi mới thế nào để bố mẹ thấy tự hào khi nói ra?",
+     "text": "CÂU TRẢ LỜI MẪU?",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bảo mẹ nói thẳng: Cháu nó tự mở hướng làm ăn riêng, có vốn liếng chuẩn bị đâu ra đấy rồi các bác khỏi lo.",
+     "text": "KẾ HOẠCH RÕ RÀNG",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghe đàng hoàng chắc chắn, không hề giống một đứa lông bông làm liều.",
+     "text": "CHỮNG CHẠC ĐÀNG HOÀNG",
+     "color": "green",
+     "actor": "34",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có bài nói chuẩn chỉ, bố mẹ an tâm khoe con mà không sợ họ hàng bắt bẻ.",
+     "text": "TIẾP THÊM TỰ TIN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giữ thể diện rất tốt, nhưng bố mẹ vẫn muốn bằng chứng tôi không làm liều.",
+     "text": "CẦN BẰNG CHỨNG RÕ",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy đưa ra sự nhượng bộ đôi bên để chốt giao kèo dựa trên cam kết rõ ràng.",
+     "text": "NHƯỢNG BỘ ĐÔI BÊN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "8. Nhượng bộ đôi bên",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trước đây tôi toàn đòi bố mẹ phải ủng hộ ngay mà không được hỏi han gì.",
+     "text": "8. NHƯỢNG BỘ ĐÔI BÊN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bắt phụ huynh chịu hết rủi ro chỉ làm cả hai bên dựng rào phòng thủ.",
+     "text": "DỰNG RÀO PHÒNG THỦ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi có thể nhượng bộ điều gì mà không phải từ bỏ con đường của mình?",
+     "text": "NHƯỢNG BỘ ĐIỀU GÌ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lòng tin cần nhượng bộ hai chiều. Bạn phải cho thấy sự nghiêm túc của mình.",
+     "text": "CAM KẾT TRÁCH NHIỆM",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như cam kết tự để dành đủ sáu tháng tiền sinh hoạt trong tài khoản?",
+     "text": "SÁU THÁNG TIẾT KIỆM",
+     "color": "gold",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn xác. Bạn đưa ra rào an toàn, bố mẹ cho sáu tháng tự do thử sức.",
+     "text": "ĐỔI LẤY THỜI GIAN",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và hai bên chốt một mốc cụ thể để cùng ngồi lại đánh giá kết quả?",
+     "text": "HẸN NGÀY ĐÁNH GIÁ",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế. Sau sáu tháng nếu chưa tự nuôi nổi thân, Pen chủ động nộp hồ sơ quay lại làm văn phòng.",
+     "text": "PHƯƠNG ÁN DỰ PHÒNG",
+     "color": "green",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có phương án dự phòng rõ ràng giúp tâm lý tôi nhẹ nhõm hơn hẳn.",
+     "text": "TÂM LÝ NHẸ NHÕM",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có đường lui chứng tỏ bạn chuyên nghiệp, không phải kẻ bốc đồng làm liều.",
+     "text": "DÂN CHUYÊN NGHIỆP",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi tôi nhượng bộ mốc an toàn, bố mẹ cũng vui vẻ cho tôi cơ hội thử sức.",
+     "text": "CƠ HỘI THỬ SỨC",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rất chuẩn. Giờ ôn lại giáo án trước khi bước lên sàn tập.",
+     "text": "ÔN LẠI TOÀN BỘ",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Chiến lược hành động",
+   "sources": [
+    "s01",
+    "s02",
+    "s03",
+    "s04",
+    "s05",
+    "s06",
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại thì cuộc nói chuyện không còn là bức tường bế tắc nữa.",
+     "text": "CHIẾN LƯỢC HÀNH ĐỘNG",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bước một: hiểu nỗi sợ. Tôn trọng thời thế, giải mã im lặng và ghi nhận sự lo lắng.",
+     "text": "1. HIỂU NỖI SỢ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bước hai: bỏ tối hậu thư, dùng lời tự chủ và bám vào mục tiêu chung.",
+     "text": "2. HẠ BÁO ĐỘNG",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bước ba: giữ thể diện. Soạn sẵn câu trả lời họ hàng, và chốt cam kết an toàn rõ ràng.",
+     "text": "3. TẠO LÒNG TIN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi nên chuẩn bị trong bảy ngày tới thế nào trước khi mở lời?",
+     "text": "LỘ TRÌNH BẢY NGÀY",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dành bảy ngày: ba ngày hiểu nỗi sợ, hai ngày tính ngân sách, hai ngày tập dượt tông giọng.",
+     "text": "CHUẨN BỊ KỸ CÀNG",
+     "color": "green",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi ngày một hiệp chuẩn bị nhỏ sẽ giúp cuộc trò chuyện bình tĩnh và thấu đáo hơn.",
+     "text": "MỖI NGÀY MỘT HIỆP",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký kênh để mỗi khi đời tăng tạ, bạn luôn có Lý Thuyết Chân Que đứng đỡ lưng.",
+     "text": "ĐỠ LƯNG CÙNG BẠN",
+     "color": "green",
+     "actor": "hand_off"
+    }
+   ]
+  }
+ ]
+}

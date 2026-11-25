@@ -1,0 +1,18 @@
+{
+ "MN": {
+  "preset": "Thiện Minh",
+  "fx": "atempo=0.92,asetrate=48000*0.97,aresample=48000,aecho=0.8:0.6:60:0.25"
+ },
+ "TIN": {
+  "preset": "Adam bựa",
+  "fx": "anull"
+ },
+ "TREU": {
+  "preset": "Thiền Tâm Đức",
+  "fx": "atempo=1.1,asetrate=48000*1.03,aresample=48000,aecho=0.8:0.4:30:0.2"
+ },
+ "LAN": {
+  "preset": "Ngọc Huyền",
+  "fx": "atempo=0.95"
+ }
+}

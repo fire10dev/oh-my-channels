@@ -1,0 +1,2209 @@
+{
+"w": 1920,
+"h": 1080,
+"duration": 239.489,
+"shots": [
+{
+"img": "p01/img/S28.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.3,
+"t1": 1.55,
+"a": [
+1600,
+760,
+880
+],
+"b": [
+1600,
+760,
+880
+]
+},
+{
+"img": "p01/img/B03.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 1.55,
+"t1": 3.099,
+"a": [
+672,
+896,
+1344
+],
+"b": [
+680,
+760,
+1000
+],
+"shake": 6,
+"flash": 1
+},
+{
+"img": "p01/img/S29.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 3.099,
+"t1": 4.749,
+"a": [
+1480,
+430,
+880
+],
+"b": [
+1480,
+410,
+880
+],
+"shake": 4
+},
+{
+"img": "p01/img/S01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.749,
+"t1": 6.183,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+920,
+420,
+1350
+]
+},
+{
+"img": "p01/img/S16.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 6.183,
+"t1": 7.739,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1500,
+500,
+1350
+]
+},
+{
+"img": "p01/img/S29.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 7.739,
+"t1": 9.33,
+"a": [
+700,
+560,
+1350
+],
+"b": [
+700,
+520,
+880
+]
+},
+{
+"img": "p01/img/S01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 9.33,
+"t1": 12.761,
+"a": [
+920,
+400,
+1350
+],
+"b": [
+920,
+330,
+880
+]
+},
+{
+"img": "p01/img/S03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 12.761,
+"t1": 16.885,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+520,
+1350
+]
+},
+{
+"img": "p01/img/S03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.885,
+"t1": 20.099,
+"a": [
+1400,
+820,
+880
+],
+"b": [
+1450,
+860,
+880
+]
+},
+{
+"img": "p01/img/S02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 20.099,
+"t1": 23.134,
+"a": [
+1000,
+600,
+1350
+],
+"b": [
+980,
+700,
+880
+]
+},
+{
+"img": "p01/img/S04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.134,
+"t1": 28.222,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1450,
+600,
+1350
+]
+},
+{
+"img": "p01/img/S04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 28.222,
+"t1": 30.014,
+"a": [
+1340,
+520,
+880
+],
+"b": [
+1340,
+480,
+880
+]
+},
+{
+"img": "p01/img/S07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 30.014,
+"t1": 33.962,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1200,
+640,
+1350
+],
+"shake": 0
+},
+{
+"img": "p01/img/S05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 33.962,
+"t1": 38.634,
+"a": [
+820,
+600,
+1350
+],
+"b": [
+810,
+600,
+1000
+]
+},
+{
+"img": "p01/img/S05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 38.634,
+"t1": 40.132,
+"a": [
+810,
+600,
+1000
+],
+"b": [
+810,
+560,
+820
+]
+},
+{
+"img": "p01/img/S10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 40.132,
+"t1": 44.632,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+680,
+480,
+1350
+]
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 44.632,
+"t1": 49.028,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1100,
+576,
+2048
+],
+"blur": 10,
+"dark": 0.45
+},
+{
+"img": "p01/img/S11.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 49.028,
+"t1": 52.351,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1100,
+420,
+1350
+]
+},
+{
+"img": "p01/img/S12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 52.351,
+"t1": 55.315,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1000,
+560,
+1350
+]
+},
+{
+"img": "p01/img/S12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 55.315,
+"t1": 58.205,
+"a": [
+1360,
+720,
+880
+],
+"b": [
+1360,
+700,
+880
+]
+},
+{
+"img": "p01/img/S13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 58.205,
+"t1": 60.293,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+800,
+420,
+1350
+]
+},
+{
+"img": "p01/img/S14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 60.293,
+"t1": 64.019,
+"a": [
+760,
+480,
+1350
+],
+"b": [
+700,
+460,
+880
+]
+},
+{
+"img": "p01/img/S14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 64.019,
+"t1": 65.696,
+"a": [
+1420,
+420,
+880
+],
+"b": [
+1420,
+400,
+880
+]
+},
+{
+"img": "p01/img/S14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 65.696,
+"t1": 67.663,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+520,
+1350
+]
+},
+{
+"img": "p01/img/S15.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 67.663,
+"t1": 72.334,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1000,
+520,
+1350
+]
+},
+{
+"img": "p01/img/S15.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 72.334,
+"t1": 75.652,
+"a": [
+1600,
+800,
+880
+],
+"b": [
+1600,
+780,
+880
+]
+},
+{
+"img": "p01/img/S17.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 75.652,
+"t1": 79.089,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+800,
+450,
+1350
+]
+},
+{
+"img": "p01/img/S18.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 79.089,
+"t1": 81.976,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+700,
+520,
+1350
+]
+},
+{
+"img": "p01/img/S18.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 81.976,
+"t1": 84.812,
+"a": [
+500,
+520,
+880
+],
+"b": [
+480,
+500,
+880
+],
+"dark": 0.1
+},
+{
+"img": "p01/img/S19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 84.812,
+"t1": 88.818,
+"a": [
+500,
+576,
+1350
+],
+"b": [
+420,
+500,
+880
+]
+},
+{
+"img": "p01/img/S19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 88.818,
+"t1": 92.803,
+"a": [
+1550,
+576,
+1350
+],
+"b": [
+1540,
+480,
+880
+]
+},
+{
+"img": "p01/img/S20.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 92.803,
+"t1": 96.332,
+"a": [
+1100,
+560,
+1350
+],
+"b": [
+1400,
+420,
+880
+]
+},
+{
+"img": "p01/img/S21.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 96.332,
+"t1": 102.754,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+540,
+1350
+]
+},
+{
+"img": "p01/img/S21.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 102.754,
+"t1": 104.48,
+"a": [
+1400,
+460,
+880
+],
+"b": [
+1400,
+440,
+880
+]
+},
+{
+"img": "p01/img/S21.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 104.48,
+"t1": 108.006,
+"a": [
+400,
+430,
+880
+],
+"b": [
+400,
+410,
+880
+]
+},
+{
+"img": "p01/img/S21.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 108.006,
+"t1": 111.523,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+576,
+2048
+]
+},
+{
+"img": "p01/img/S22.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 111.523,
+"t1": 115.109,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+470,
+260,
+880
+]
+},
+{
+"img": "p01/img/S22.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 115.109,
+"t1": 116.959,
+"a": [
+470,
+260,
+880
+],
+"b": [
+480,
+240,
+880
+]
+},
+{
+"img": "p01/img/S23.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 116.959,
+"t1": 121.618,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+800,
+640,
+1350
+]
+},
+{
+"img": "p01/img/S10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 121.618,
+"t1": 123.698,
+"a": [
+680,
+520,
+880
+],
+"b": [
+680,
+520,
+640
+]
+},
+{
+"img": "p01/img/S24.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 123.698,
+"t1": 125.161,
+"a": [
+500,
+560,
+1350
+],
+"b": [
+440,
+540,
+880
+],
+"shake": 3
+},
+{
+"img": "p01/img/S24.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 125.161,
+"t1": 126.642,
+"a": [
+1460,
+700,
+1350
+],
+"b": [
+1460,
+700,
+1350
+]
+},
+{
+"img": "p01/img/S18.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 126.642,
+"t1": 130.329,
+"a": [
+520,
+520,
+880
+],
+"b": [
+520,
+520,
+620
+],
+"dark": 0.15
+},
+{
+"img": "p01/img/S24.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 130.329,
+"t1": 133.817,
+"a": [
+440,
+540,
+880
+],
+"b": [
+440,
+520,
+880
+],
+"shake": 5
+},
+{
+"img": "p01/img/S18.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 133.817,
+"t1": 137.266,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+800,
+560,
+1350
+],
+"dark": 0.2
+},
+{
+"img": "p01/img/S25.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 137.266,
+"t1": 139.989,
+"a": [
+1690,
+300,
+880
+],
+"b": [
+1690,
+280,
+880
+]
+},
+{
+"img": "p01/img/S25.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 139.989,
+"t1": 142.696,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+520,
+1350
+]
+},
+{
+"img": "p01/img/S25.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 142.696,
+"t1": 144.911,
+"a": [
+1600,
+360,
+1350
+],
+"b": [
+1690,
+260,
+880
+]
+},
+{
+"img": "p01/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 144.911,
+"t1": 149.857,
+"a": [
+900,
+480,
+1350
+],
+"b": [
+820,
+360,
+880
+],
+"shake": 8
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 149.857,
+"t1": 153.052,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1100,
+576,
+2048
+],
+"blur": 10,
+"dark": 0.45
+},
+{
+"img": "p01/img/S27.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 153.052,
+"t1": 154.496,
+"a": [
+950,
+520,
+1350
+],
+"b": [
+950,
+420,
+880
+]
+},
+{
+"img": "p01/img/B03.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 154.496,
+"t1": 159.644,
+"a": [
+672,
+1000,
+1344
+],
+"b": [
+672,
+900,
+1150
+]
+},
+{
+"img": "p01/img/S27.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 159.644,
+"t1": 164.638,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+950,
+480,
+1350
+]
+},
+{
+"img": "p01/img/S28.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 164.638,
+"t1": 169.274,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1100,
+520,
+1350
+]
+},
+{
+"img": "p01/img/S28.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 169.274,
+"t1": 173.793,
+"a": [
+1500,
+640,
+1350
+],
+"b": [
+1600,
+760,
+880
+]
+},
+{
+"img": "p01/img/S28.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 173.793,
+"t1": 174.643,
+"a": [
+1600,
+760,
+880
+],
+"b": [
+1600,
+760,
+700
+]
+},
+{
+"img": "p01/img/B03.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 174.643,
+"t1": 176.292,
+"a": [
+680,
+760,
+1000
+],
+"b": [
+690,
+720,
+900
+],
+"shake": 10,
+"flash": 1
+},
+{
+"img": "p01/img/S29.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 176.292,
+"t1": 179.542,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1200,
+480,
+1350
+]
+},
+{
+"img": "p01/img/S30.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 179.542,
+"t1": 181.857,
+"a": [
+560,
+576,
+1350
+],
+"b": [
+520,
+420,
+880
+],
+"shake": 12
+},
+{
+"img": "p01/img/S30.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 181.857,
+"t1": 184.176,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1300,
+640,
+1350
+]
+},
+{
+"img": "p01/img/S30.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 184.176,
+"t1": 186.203,
+"a": [
+1250,
+760,
+880
+],
+"b": [
+1250,
+760,
+880
+]
+},
+{
+"img": "p01/img/S30.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 186.203,
+"t1": 188.21,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+576,
+2048
+],
+"blur": 10,
+"dark": 0.35
+},
+{
+"img": "p01/img/S31.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 188.21,
+"t1": 192.402,
+"a": [
+500,
+576,
+1350
+],
+"b": [
+440,
+420,
+880
+]
+},
+{
+"img": "p01/img/S31.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 192.402,
+"t1": 196.314,
+"a": [
+1480,
+700,
+1350
+],
+"b": [
+1480,
+760,
+880
+],
+"shake": 4
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 196.314,
+"t1": 204.621,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1000,
+540,
+1350
+]
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 204.621,
+"t1": 207.899,
+"a": [
+1500,
+460,
+880
+],
+"b": [
+1500,
+440,
+880
+]
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 207.899,
+"t1": 211.137,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+600,
+1350
+]
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 211.137,
+"t1": 213.178,
+"a": [
+800,
+700,
+880
+],
+"b": [
+800,
+700,
+700
+]
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 213.178,
+"t1": 215.828,
+"a": [
+800,
+700,
+700
+],
+"b": [
+800,
+700,
+640
+]
+},
+{
+"img": "p01/img/S33.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 215.828,
+"t1": 221.212,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1300,
+520,
+1350
+]
+},
+{
+"img": "p01/img/S34.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 221.212,
+"t1": 226.498,
+"a": [
+880,
+420,
+1350
+],
+"b": [
+880,
+330,
+880
+]
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 226.498,
+"t1": 230.213,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+576,
+2048
+],
+"blur": 14,
+"dark": 0.55
+},
+{
+"img": "p01/img/B04.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 230.213,
+"t1": 233.835,
+"a": [
+672,
+760,
+1344
+],
+"b": [
+672,
+700,
+1100
+]
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 233.835,
+"t1": 238.689,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+576,
+2048
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p01/img/cut_S11.png",
+"size": 2048,
+"t0": 44.632,
+"t1": 49.028,
+"from": [
+900,
+200,
+1.0
+],
+"to": [
+-1500,
+120,
+1.0
+],
+"bob": false
+},
+{
+"img": "p01/img/cut_S11.png",
+"size": 2048,
+"t0": 149.857,
+"t1": 153.052,
+"from": [
+-1700,
+300,
+1.0
+],
+"to": [
+200,
+150,
+1.0
+],
+"bob": false
+},
+{
+"img": "p01/img/cut_S11.png",
+"size": 2048,
+"t0": 186.203,
+"t1": 188.21,
+"from": [
+-1700,
+100,
+1.0
+],
+"to": [
+-300,
+450,
+1.0
+],
+"bob": false
+},
+{
+"img": "p01/img/cut_B02.png",
+"size": 1344,
+"t0": 226.498,
+"t1": 230.213,
+"from": [
+260,
+1100,
+0.8
+],
+"to": [
+260,
+160,
+0.8
+],
+"bob": true
+},
+{
+"img": "p01/img/cut_B02.png",
+"size": 1344,
+"t0": 233.835,
+"t1": 238.689,
+"from": [
+260,
+160,
+0.8
+],
+"to": [
+260,
+160,
+0.8
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 3.169,
+"t1": 4.749,
+"text": "300,000 WATCHING",
+"color": "#ffd84a"
+},
+{
+"t0": 14.892,
+"t1": 16.885,
+"text": "DINNER WITH MOM",
+"color": "#ffffff"
+},
+{
+"t0": 61.856,
+"t1": 64.019,
+"text": "DON'T COVER MOM'S NECK",
+"color": "#ff5a4a"
+},
+{
+"t0": 70.315,
+"t1": 72.334,
+"text": "EIGHT HOURS OF HEALING",
+"color": "#ffffff"
+},
+{
+"t0": 90.618,
+"t1": 92.803,
+"text": "50% OFF",
+"color": "#ffd84a"
+},
+{
+"t0": 115.189,
+"t1": 116.959,
+"text": "UNCUT LIVE: THE TRUTH ABOUT MY MOM",
+"color": "#ff5a4a"
+},
+{
+"t0": 164.905,
+"t1": 173.793,
+"text": "7:00 AM",
+"color": "#ffd84a"
+},
+{
+"t0": 196.716,
+"t1": 204.621,
+"text": "30,000,000 VIEWS",
+"color": "#ffd84a"
+},
+{
+"t0": 213.178,
+"t1": 215.828,
+"text": "50% OF REVENUE. MOM'S HEAD, MOM'S CUT.",
+"color": "#ffffff"
+},
+{
+"t0": 227.206,
+"t1": 233.835,
+"text": "NEXT TIME",
+"color": "#ffd84a"
+},
+{
+"t0": 234.017,
+"t1": 238.689,
+"text": "SUBSCRIBE",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.7,
+"src": "sh6/sfx/lid.wav",
+"vol": 0.9
+},
+{
+"t": 3.099,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.7
+},
+{
+"t": 4.749,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 4.808,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.4
+},
+{
+"t": 11.822,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.7
+},
+{
+"t": 20.934,
+"src": "sh6/sfx/pops.wav",
+"vol": 0.5
+},
+{
+"t": 23.134,
+"src": "sh6/sfx/snap.wav",
+"vol": 0.4
+},
+{
+"t": 44.023,
+"src": "sh6/sfx/wind.wav",
+"vol": 0.7
+},
+{
+"t": 61.856,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.6
+},
+{
+"t": 73.394,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 74.028,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 74.643,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 77.564,
+"src": "sh6/sfx/snap.wav",
+"vol": 0.4
+},
+{
+"t": 95.673,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 115.189,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.7
+},
+{
+"t": 121.874,
+"src": "sh6/sfx/wind.wav",
+"vol": 0.5
+},
+{
+"t": 144.911,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 149.857,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.6
+},
+{
+"t": 153.901,
+"src": "sh6/sfx/lid.wav",
+"vol": 0.7
+},
+{
+"t": 174.643,
+"src": "sh6/sfx/lid.wav",
+"vol": 1
+},
+{
+"t": 176.592,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 177.192,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 177.792,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 178.392,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 186.824,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.9
+},
+{
+"t": 187.922,
+"src": "sh6/sfx/snap.wav",
+"vol": 0.8
+},
+{
+"t": 192.227,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.6
+},
+{
+"t": 194.053,
+"src": "sh6/sfx/cheer.wav",
+"vol": 0.4,
+"dur": 2.6
+},
+{
+"t": 213.178,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.7
+},
+{
+"t": 237.416,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 1.55,
+"dur": 1.349,
+"text": "Easy, son. It's hot."
+},
+{
+"t": 4.749,
+"dur": 1.184,
+"text": "Wait. Don't ask yet."
+},
+{
+"t": 6.183,
+"dur": 2.897,
+"text": "An old woman. Her head. In a rice cooker. Live."
+},
+{
+"t": 9.33,
+"dur": 2.931,
+"text": "Want to know why? Let's go back three months. I'll tell you."
+},
+{
+"t": 12.761,
+"dur": 3.874,
+"text": "Three months ago, my son started a channel. He called it Dinner with Mom."
+},
+{
+"t": 16.885,
+"dur": 2.964,
+"text": "Every meal: braised fish, crab soup, fried eggs."
+},
+{
+"t": 20.099,
+"dur": 2.785,
+"text": "Three million viewers. They cried. They sent money."
+},
+{
+"t": 23.134,
+"dur": 4.838,
+"text": "The second he turned it off, he packed it up. Into a plastic bag, back to the restaurant."
+},
+{
+"t": 28.222,
+"dur": 1.542,
+"text": "I got plain rice porridge."
+},
+{
+"t": 30.014,
+"dur": 3.697,
+"text": "He isn't evil. He's in debt to an app. His phone buzzes all day."
+},
+{
+"t": 33.962,
+"dur": 4.522,
+"text": "I'm not mad. I've got a secret too. Every night, I sneak out for a late meal."
+},
+{
+"t": 38.634,
+"dur": 0.898,
+"text": "Just my head."
+},
+{
+"t": 40.132,
+"dur": 8.646,
+"text": "I'm a ma lai — a head-flying ghost. At two a.m., my head lifts off and flies out the window. I put it back before the rooster crows."
+},
+{
+"t": 49.028,
+"dur": 3.074,
+"text": "Flying around town is hard now. Cameras everywhere."
+},
+{
+"t": 52.351,
+"dur": 5.604,
+"text": "What do I eat? Leftover braised fish from the trash. I split it with a tabby cat. She's pregnant."
+},
+{
+"t": 58.205,
+"dur": 1.687,
+"text": "My grandma gave me one rule."
+},
+{
+"t": 60.293,
+"dur": 3.477,
+"text": "Listen, son. When I'm asleep, don't pull the blanket up to my neck."
+},
+{
+"t": 64.019,
+"dur": 1.427,
+"text": "Mom, that's just superstition."
+},
+{
+"t": 65.696,
+"dur": 1.467,
+"text": "He laughed. Then forgot."
+},
+{
+"t": 67.663,
+"dur": 4.421,
+"text": "Then he had a new idea: stream while I slept. Eight hours of healing with Mom."
+},
+{
+"t": 72.334,
+"dur": 2.118,
+"text": "At two oh seven, the comments blew up."
+},
+{
+"t": 75.652,
+"dur": 3.187,
+"text": "The next day, he added a light. Pointed right at the window."
+},
+{
+"t": 79.089,
+"dur": 4.722,
+"text": "That night, the camera caught four seconds. Four seconds of a blanket, flat at the neck."
+},
+{
+"t": 84.812,
+"dur": 7.742,
+"text": "The internet went nuts. People zoomed in on every pixel. A feng shui guy sold ma lai-proof bracelets, half off."
+},
+{
+"t": 92.803,
+"dur": 2.929,
+"text": "People fear ghosts. Ghosts fear the algorithm."
+},
+{
+"t": 96.332,
+"dur": 6.172,
+"text": "Only Mrs. Hanh next door stayed quiet. She came over, sat down, and looked at me for a long time."
+},
+{
+"t": 102.754,
+"dur": 1.476,
+"text": "Granny Tu. Be careful."
+},
+{
+"t": 104.48,
+"dur": 6.443,
+"text": "She didn't mean my son should be careful. She meant me. Turns out, someone can know you're a ghost and still worry about you."
+},
+{
+"t": 111.523,
+"dur": 3.337,
+"text": "That night, he put a camera on top of the cabinet. The title:"
+},
+{
+"t": 116.959,
+"dur": 4.409,
+"text": "At two fifteen, he nodded off. Nine thousand people stayed awake for him."
+},
+{
+"t": 121.618,
+"dur": 1.28,
+"text": "And my head got lighter."
+},
+{
+"t": 123.698,
+"dur": 2.694,
+"text": "His phone buzzed. He woke up. Looked at the bed."
+},
+{
+"t": 126.642,
+"dur": 2.087,
+"text": "The floral blanket. Flat at the neck."
+},
+{
+"t": 130.329,
+"dur": 6.686,
+"text": "He didn't scream. He didn't dare lift the blanket. His hands shook as he pulled it over me. Up to my neck. All the way."
+},
+{
+"t": 137.266,
+"dur": 5.182,
+"text": "Outside the window, I saw it all. My son had tucked me in for the first time in three months."
+},
+{
+"t": 142.696,
+"dur": 1.214,
+"text": "And I couldn't get back."
+},
+{
+"t": 144.911,
+"dur": 4.696,
+"text": "I nearly dropped my water pipe. Two hours till the rooster crowed. Where'd she hide?"
+},
+{
+"t": 149.857,
+"dur": 2.946,
+"text": "Where's dark and warm, and just the right size for a head?"
+},
+{
+"t": 153.052,
+"dur": 0.943,
+"text": "The rice cooker."
+},
+{
+"t": 154.496,
+"dur": 9.443,
+"text": "Sunlight makes me melt. But no sun gets inside a rice cooker. Fifty years as a ma lai, and my first night sleeping in one. Warmer than a blanket."
+},
+{
+"t": 164.638,
+"dur": 8.905,
+"text": "Seven a.m. The stream was still on. Three hundred thousand viewers. And he did what he did every morning: opened the cooker to rinse the rice."
+},
+{
+"t": 174.643,
+"dur": 1.349,
+"text": "Easy, son. It's hot."
+},
+{
+"t": 179.542,
+"dur": 4.383,
+"text": "Tung! Who taught you to wrap an old woman up like that? Your mom's gonna suffocate!"
+},
+{
+"t": 184.176,
+"dur": 3.784,
+"text": "Mrs. Hanh yanked off the blanket. A breeze hit my neck. Whoosh."
+},
+{
+"t": 188.21,
+"dur": 7.304,
+"text": "My head snapped back into place. I sat up and stretched my neck. Tung fainted. Three hundred thousand people applauded."
+},
+{
+"t": 196.314,
+"dur": 8.058,
+"text": "That clip has thirty million views now. Nobody believes it's real. Good. If they don't believe, I can still sneak out for a late meal."
+},
+{
+"t": 204.621,
+"dur": 6.266,
+"text": "He paid off his debts. He still sets up the camera at dinner. But when he turns it off, he sits and eats with me."
+},
+{
+"t": 211.137,
+"dur": 1.741,
+"text": "And I gave him a piece of paper."
+},
+{
+"t": 215.828,
+"dur": 10.42,
+"text": "Fifty years as a ma lai, and she never scared anyone. Three months online, and she's got a revenue deal. I've sat on cabinets for centuries. Nobody's paid me a dime."
+},
+{
+"t": 226.498,
+"dur": 7.088,
+"text": "Next time: an underworld clerk shows up at a sewing shop to take attendance, and marks exactly one person wrong."
+},
+{
+"t": 233.835,
+"dur": 3.654,
+"text": "Hit subscribe. Or tonight I'll be sitting on top of your cabinet."
+}
+],
+"comments": [
+{
+"t": 73.394,
+"u": "@jess.k",
+"c": "uh what just flew past the window??",
+"end": 75.652
+},
+{
+"t": 74.028,
+"u": "@mike_d",
+"c": "slow it to 0.25x, admin",
+"end": 75.652
+},
+{
+"t": 74.643,
+"u": "@be.nah",
+"c": "anyone else think that looks human",
+"end": 75.652
+},
+{
+"t": 176.592,
+"u": "@sarah.h92",
+"c": "WHAT FILTER IS THAT???",
+"end": 179.542
+},
+{
+"t": 177.192,
+"u": "@tuan_bds",
+"c": "what app is that!!!",
+"end": 179.542
+},
+{
+"t": 177.792,
+"u": "@meow.meow",
+"c": "those effects are insane",
+"end": 179.542
+},
+{
+"t": 178.392,
+"u": "@linh.tv",
+"c": "granny's acting is too good",
+"end": 179.542
+}
+],
+"voice": [
+{
+"t": 1.55,
+"src": "loc/en/vo/c97d18b1c0.wav"
+},
+{
+"t": 4.749,
+"src": "loc/en/vo/ca6f730c6b.wav"
+},
+{
+"t": 6.183,
+"src": "loc/en/vo/f33880ce95.wav"
+},
+{
+"t": 9.33,
+"src": "loc/en/vo/12ea861d2e.wav"
+},
+{
+"t": 12.761,
+"src": "loc/en/vo/1a9540a42a.wav"
+},
+{
+"t": 16.885,
+"src": "loc/en/vo/b630b1e038.wav"
+},
+{
+"t": 20.099,
+"src": "loc/en/vo/1d09f6f4c2.wav"
+},
+{
+"t": 23.134,
+"src": "loc/en/vo/ab6a642e1d.wav"
+},
+{
+"t": 28.222,
+"src": "loc/en/vo/d70d86e584.wav"
+},
+{
+"t": 30.014,
+"src": "loc/en/vo/772694c533.wav"
+},
+{
+"t": 33.962,
+"src": "loc/en/vo/26a386480a.wav"
+},
+{
+"t": 38.634,
+"src": "loc/en/vo/4ae5a034a5.wav"
+},
+{
+"t": 40.132,
+"src": "loc/en/vo/1370bc6353.wav"
+},
+{
+"t": 49.028,
+"src": "loc/en/vo/83a1d4bbee.wav"
+},
+{
+"t": 52.351,
+"src": "loc/en/vo/8ea300339b.wav"
+},
+{
+"t": 58.205,
+"src": "loc/en/vo/bab466b53e.wav"
+},
+{
+"t": 60.293,
+"src": "loc/en/vo/1235cb2fcf.wav"
+},
+{
+"t": 64.019,
+"src": "loc/en/vo/4deffefbad.wav"
+},
+{
+"t": 65.696,
+"src": "loc/en/vo/947bcdbc17.wav"
+},
+{
+"t": 67.663,
+"src": "loc/en/vo/860915285a.wav"
+},
+{
+"t": 72.334,
+"src": "loc/en/vo/30c3a1fd94.wav"
+},
+{
+"t": 75.652,
+"src": "loc/en/vo/98e12a95d9.wav"
+},
+{
+"t": 79.089,
+"src": "loc/en/vo/7b2243f3e6.wav"
+},
+{
+"t": 84.812,
+"src": "loc/en/vo/217182c2ca.wav"
+},
+{
+"t": 92.803,
+"src": "loc/en/vo/6e0d61f651.wav"
+},
+{
+"t": 96.332,
+"src": "loc/en/vo/19d3fa8916.wav"
+},
+{
+"t": 102.754,
+"src": "loc/en/vo/b246f364f5.wav"
+},
+{
+"t": 104.48,
+"src": "loc/en/vo/b94b117cb1.wav"
+},
+{
+"t": 111.523,
+"src": "loc/en/vo/c083d39672.wav"
+},
+{
+"t": 116.959,
+"src": "loc/en/vo/b5a5631808.wav"
+},
+{
+"t": 121.618,
+"src": "loc/en/vo/155922bc76.wav"
+},
+{
+"t": 123.698,
+"src": "loc/en/vo/0ff49c8a46.wav"
+},
+{
+"t": 126.642,
+"src": "loc/en/vo/0e7f533f9d.wav"
+},
+{
+"t": 130.329,
+"src": "loc/en/vo/3741ef817f.wav"
+},
+{
+"t": 137.266,
+"src": "loc/en/vo/ad5b816432.wav"
+},
+{
+"t": 142.696,
+"src": "loc/en/vo/441ef3184a.wav"
+},
+{
+"t": 144.911,
+"src": "loc/en/vo/3f161c6854.wav"
+},
+{
+"t": 149.857,
+"src": "loc/en/vo/df17ce0da2.wav"
+},
+{
+"t": 153.052,
+"src": "loc/en/vo/51cba2fb93.wav"
+},
+{
+"t": 154.496,
+"src": "loc/en/vo/4e1d42a266.wav"
+},
+{
+"t": 164.638,
+"src": "loc/en/vo/02316a5c58.wav"
+},
+{
+"t": 174.643,
+"src": "loc/en/vo/c97d18b1c0.wav"
+},
+{
+"t": 179.542,
+"src": "loc/en/vo/59dce2e305.wav"
+},
+{
+"t": 184.176,
+"src": "loc/en/vo/f9c66937f8.wav"
+},
+{
+"t": 188.21,
+"src": "loc/en/vo/051fe53e86.wav"
+},
+{
+"t": 196.314,
+"src": "loc/en/vo/d0fd49986e.wav"
+},
+{
+"t": 204.621,
+"src": "loc/en/vo/10043e8b4e.wav"
+},
+{
+"t": 211.137,
+"src": "loc/en/vo/19a8cb507e.wav"
+},
+{
+"t": 215.828,
+"src": "loc/en/vo/ca821c1126.wav"
+},
+{
+"t": 226.498,
+"src": "loc/en/vo/57a073c57a.wav"
+},
+{
+"t": 233.835,
+"src": "loc/en/vo/81693f1336.wav"
+}
+],
+"mutes": [
+[
+38.429,
+40.132
+],
+[
+78.889,
+84.812
+],
+[
+121.418,
+123.698
+],
+[
+126.442,
+130.329
+],
+[
+130.129,
+137.266
+],
+[
+137.066,
+142.696
+],
+[
+142.496,
+144.911
+],
+[
+173.593,
+174.643
+],
+[
+174.443,
+176.292
+],
+[
+176.092,
+179.542
+]
+],
+"live": [
+[
+0.3,
+1.55
+],
+[
+1.55,
+3.099
+],
+[
+3.099,
+4.749
+],
+[
+12.761,
+16.885
+],
+[
+16.885,
+20.099
+],
+[
+20.099,
+23.134
+],
+[
+67.663,
+72.334
+],
+[
+72.334,
+75.652
+],
+[
+79.089,
+84.812
+],
+[
+116.959,
+121.618
+],
+[
+164.638,
+173.793
+],
+[
+173.793,
+174.643
+],
+[
+174.643,
+176.292
+],
+[
+176.292,
+179.542
+]
+],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

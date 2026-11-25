@@ -1,0 +1,466 @@
+{
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "labels": {
+  "London 51.5°N": "Londres 51,5°N",
+  "Calgary 51.0°N": "Calgary 51,0°N",
+  "Toronto 43.7°N": "Toronto 43,7°N",
+  "Paris 48.9°N": "París 48,9°N",
+  "Seattle 47.6°N": "Seattle 47,6°N",
+  "Rome 41.9°N": "Roma 41,9°N",
+  "New York 40.7°N": "Nueva York 40,7°N",
+  "Gulf Stream": "Corriente del Golfo",
+  "Westerly winds": "Vientos del oeste",
+  "Arctic air": "Aire ártico",
+  "Greenland": "Groenlandia",
+  "Africa vs Greenland": "África vs Groenlandia",
+  "Africa": "África",
+  "USA + China + India": "EE. UU. + China + India",
+  "2 in 3": "2 de 3",
+  "live in this strip": "viven en esta franja",
+  "Toronto": "Toronto",
+  "Montreal": "Montreal",
+  "Vancouver": "Vancouver",
+  "Calgary": "Calgary",
+  "Canada": "Canadá",
+  "California": "California",
+  "Russia": "Rusia",
+  "Pluto (entire surface)": "Plutón (toda su superficie)",
+  "time zones": "husos horarios",
+  "8:00 AM": "8:00",
+  "6:00 PM": "18:00",
+  "Moscow": "Moscú",
+  "Strait of Hormuz": "Estrecho de Ormuz",
+  "Iran": "Irán",
+  "Oman": "Omán",
+  "of the world's oil": "del petróleo mundial",
+  "at the narrowest point": "en su punto más estrecho",
+  "France": "Francia",
+  "Brazil": "Brasil",
+  "Spain": "España",
+  "Belgium": "Bélgica",
+  "Switzerland": "Suiza",
+  "Length": "Largo",
+  "Average width": "Ancho promedio",
+  "Atacama Desert": "Desierto de Atacama",
+  "Glaciers": "Glaciares",
+  "west to east": "de oeste a este",
+  "5,100 km": "5100 km",
+  "islands": "islas",
+  "17,000+": "17 000+",
+  "live along the Nile": "viven junto al Nilo",
+  "Cairo": "El Cairo",
+  "Alexandria": "Alejandría",
+  "Luxor": "Luxor",
+  "Aswan": "Asuán",
+  "Panama Canal": "Canal de Panamá",
+  "saved, New York to San Francisco": "ahorrados, Nueva York–San Francisco",
+  "12,668 km": "12 668 km",
+  "Gatún Locks": "Esclusas de Gatún",
+  "Miraflores": "Miraflores",
+  "fresh water per ship": "de agua dulce por barco",
+  "200M L": "200 M L",
+  "of world sea trade": "del comercio marítimo mundial",
+  "Mongolia": "Mongolia",
+  "FR + DE + IT + UK": "FR + DE + IT + R. U.",
+  "people per km²": "personas por km²",
+  "Ulaanbaatar": "Ulán Bator",
+  "yearly average": "promedio anual",
+  "USA": "EE. UU.",
+  "Australia": "Australia",
+  "Sydney": "Sídney",
+  "Melbourne": "Melbourne",
+  "Brisbane": "Brisbane",
+  "Perth": "Perth",
+  "live near the coast": "viven cerca de la costa",
+  "Oil tankers": "Petroleros",
+  "Bypass pipeline": "Oleoducto alternativo",
+  "Malaysia": "Malasia",
+  "barrels per day": "barriles al día",
+  "23.7M": "23,7 M",
+  "Malacca": "Malaca",
+  "Hormuz": "Ormuz",
+  "M b/d": "M b/d",
+  "Singapore": "Singapur",
+  "2.8 km": "2,8 km",
+  "Phillips Channel": "Canal Phillips",
+  "Lake Baikal": "Lago Baikal",
+  "1,642 m": "1642 m",
+  "deepest point": "punto más profundo",
+  "All 5 Great Lakes": "Los 5 Grandes Lagos",
+  "of Earth's surface fresh water": "del agua dulce superficial",
+  "25M": "25 M",
+  "years old": "años de antigüedad",
+  "$7.2M": "7,2 M$",
+  "in 1867": "en 1867",
+  "Alaska": "Alaska",
+  "Texas + California + Montana": "Texas + California + Montana",
+  "Prudhoe Bay": "Bahía de Prudhoe",
+  "Lower 48 US states": "Los 48 estados continentales",
+  "Chile": "Chile",
+  "Ecuador": "Ecuador",
+  "neighbors": "vecinos",
+  "of the Amazon": "de la Amazonía",
+  "Ever Given": "Ever Given",
+  "days around Africa": "días rodeando África",
+  "of world trade": "del comercio mundial",
+  "days blocked": "días bloqueado",
+  "South Africa": "Sudáfrica",
+  "Lesotho": "Lesoto",
+  "countries fully enclosed": "países totalmente rodeados",
+  "1,400 m": "1400 m",
+  "lowest point": "punto más bajo",
+  "Water": "Agua",
+  "Johannesburg": "Johannesburgo",
+  "Caspian Sea": "Mar Caspio",
+  "Germany": "Alemania",
+  "Kazakhstan": "Kazajistán",
+  "Turkmenistan": "Turkmenistán",
+  "Azerbaijan": "Azerbaiyán",
+  "Baku": "Bakú",
+  "2018": "2018",
+  "neither sea nor lake": "ni mar ni lago",
+  "Morocco": "Marruecos",
+  "Ceuta": "Ceuta",
+  "Melilla": "Melilla",
+  "14 km": "14 km",
+  "Europe to Africa": "de Europa a África",
+  "UK": "R. U.",
+  "Japan": "Japón",
+  "Italy": "Italia",
+  "Tokyo": "Tokio",
+  "Osaka": "Osaka"
+ },
+ "w001": {
+  "source": "Coordenadas: Natural Earth · Clima: Seager et al. 2002 (QJRMS)",
+  "titles": {
+   "0": "EUROPA ESTÁ MUCHO MÁS AL NORTE DE LO QUE CREES",
+   "5": "VIENTOS DEL OESTE + OCÉANO CÁLIDO",
+   "7": "MISMA LATITUD. MUNDOS DISTINTOS."
+  },
+  "says": [
+   "Europa está mucho más al norte de lo que crees.",
+   "Mira Londres. Ahora sigue su línea hacia el oeste, cruzando el Atlántico.",
+   "Calgary queda más al sur. Londres está más al norte que Calgary, Vancouver, Toronto y Montreal.",
+   "París está más al norte que Seattle. Y Roma, más arriba que Nueva York.",
+   "¿Entonces por qué Europa es tan templada? Casi todos dicen que por la corriente del Golfo. Ayuda, pero no es la razón principal.",
+   "La razón más grande: los vientos del oeste soplan sobre un océano que sigue cálido todo el invierno y llevan ese calor a Europa.",
+   "Canadá recibe lo contrario: aire helado directo del continente congelado.",
+   "Misma latitud. Mundos completamente distintos. Sígueme para más mapas que te vuelan la cabeza."
+  ]
+ },
+ "w002": {
+  "source": "Superficies: CIA World Factbook · Proyección de Mercator (1569)",
+  "titles": {
+   "0": "ESTE MAPA TE HA MENTIDO",
+   "7": "SÍGUEME PARA MÁS MENTIRAS DEL MAPA"
+  },
+  "says": [
+   "Este mapa te ha mentido toda tu vida.",
+   "En casi todos los mapas, Groenlandia parece tan grande como África.",
+   "En realidad, África es catorce veces más grande.",
+   "Arrastra Groenlandia hasta el ecuador y mira cómo se encoge a su tamaño real.",
+   "África mide treinta millones cuatrocientos mil kilómetros cuadrados. Groenlandia, apenas dos millones doscientos mil.",
+   "Dentro de África caben Estados Unidos, China y la India juntos, y todavía sobra espacio.",
+   "La culpa es de Gerardus Mercator. Su mapa de mil quinientos sesenta y nueve se hizo para marineros, y estira todo lo que está cerca de los polos.",
+   "Sígueme para más mapas que te mienten."
+  ]
+ },
+ "w003": {
+  "source": "Población: Statistics Canada (2017, 2025) · US Census Bureau",
+  "titles": {
+   "0": "CANADÁ ESTÁ CASI VACÍO",
+   "5": "MAPA ENORME. PAÍS DIMINUTO."
+  },
+  "says": [
+   "Canadá es el segundo país más grande del mundo, pero casi nadie vive en él.",
+   "Más o menos dos de cada tres canadienses viven a menos de cien kilómetros de la frontera con Estados Unidos.",
+   "En esa franja delgada están Toronto, Montreal, Vancouver, Ottawa y Calgary.",
+   "Canadá tiene unos cuarenta y un millones de habitantes. Solo California tiene casi cuarenta.",
+   "¿Por qué pegarse a la frontera? El norte es suelo congelado, tundra y roca. El sur tiene el clima más cálido, la mejor tierra agrícola y el comercio.",
+   "Canadá es enorme en el mapa y diminuto donde de verdad vive la gente. Sígueme para más."
+  ]
+ },
+ "w004": {
+  "source": "Superficie: CIA World Factbook · Plutón: NASA · Husos: base de datos IANA",
+  "titles": {
+   "0": "RUSIA ES MÁS GRANDE QUE PLUTÓN",
+   "6": "MÁS GRANDE QUE UN PLANETA"
+  },
+  "says": [
+   "Rusia es más grande que toda la superficie de Plutón.",
+   "Rusia mide diecisiete millones cien mil kilómetros cuadrados. La superficie entera de Plutón, unos dieciséis millones setecientos mil.",
+   "Se extiende por once husos horarios.",
+   "Cuando son las ocho de la mañana en Kaliningrado, ya son las seis de la tarde en Kamchatka.",
+   "Pero casi toda esa tierra está vacía. Cerca de tres de cada cuatro rusos viven al oeste de los montes Urales, en la parte europea.",
+   "Al este de esa línea está Siberia, uno de los lugares más vacíos del planeta.",
+   "Más grande que un planeta y más vacía que un desierto. Sígueme para más."
+  ]
+ },
+ "w005": {
+  "source": "Flujos de petróleo: Administración de Información Energética de EE. UU. (EIA, 2024)",
+  "titles": {
+   "0": "EL PASO MÁS PELIGROSO DEL MUNDO",
+   "6": "33 KM QUE MUEVEN AL MUNDO"
+  },
+  "says": [
+   "Una quinta parte de todo el petróleo que usa el mundo pasa por este pequeño hueco.",
+   "Es el estrecho de Ormuz, entre Irán y Omán.",
+   "Cada día lo cruzan unos veinte millones de barriles de petróleo. Más o menos el veinte por ciento del consumo mundial.",
+   "Arabia Saudita, Irak, Kuwait, Catar y los Emiratos sacan su petróleo por aquí.",
+   "En su punto más estrecho mide solo unos treinta y tres kilómetros, y cada carril de navegación tiene apenas tres kilómetros.",
+   "Los oleoductos que lo esquivan solo pueden llevar una pequeña parte. Si este estrecho se cierra, los precios suben en todo el mundo.",
+   "Treinta y tres kilómetros que mueven la economía mundial. Sígueme para más."
+  ]
+ },
+ "w006": {
+  "source": "Fronteras: CIA World Factbook · Husos horarios: Gobierno de Francia",
+  "titles": {
+   "0": "LA FRONTERA MÁS LARGA DE FRANCIA NO ESTÁ EN EUROPA",
+   "5": "EN FRANCIA NUNCA SE PONE EL SOL"
+  },
+  "says": [
+   "La frontera terrestre más larga de Francia no está en Europa.",
+   "Es con Brasil.",
+   "La Guayana Francesa, en Sudamérica, no es una colonia. Es parte de Francia, usa el euro y forma parte de la Unión Europea.",
+   "Según el CIA World Factbook, la frontera con Brasil mide seiscientos cuarenta y nueve kilómetros. Apenas por delante de España.",
+   "Suma islas en el Caribe, el océano Índico y el Pacífico, y Francia termina con doce husos horarios. Más que cualquier otro país.",
+   "En Francia el sol casi nunca se pone. Sígueme para más."
+  ]
+ },
+ "w007": {
+  "source": "Largo y ancho: CIA World Factbook · Encyclopaedia Britannica",
+  "titles": {
+   "0": "CHILE NO TIENE SENTIDO",
+   "5": "UN PAÍS. TODOS LOS CLIMAS."
+  },
+  "says": [
+   "Chile es el país con la forma más extraña del mundo.",
+   "Mide unos cuatro mil trescientos kilómetros de largo, pero en promedio solo unos ciento ochenta de ancho.",
+   "Ahora ponlo sobre Europa, al mismo tamaño.",
+   "Iría desde el Ártico en Noruega hasta casi el norte de África.",
+   "Al norte, el Atacama, uno de los desiertos más secos del planeta. Al sur, glaciares y fiordos.",
+   "Un solo país, casi todos los climas del planeta. Sígueme para más."
+  ]
+ },
+ "w008": {
+  "source": "Extensión e islas: Agencia Geoespacial de Indonesia (BIG) · CIA World Factbook",
+  "titles": {
+   "0": "INDONESIA ES MÁS ANCHA QUE EE. UU.",
+   "5": "MÁS GRANDE DE LO QUE CREES"
+  },
+  "says": [
+   "Indonesia es más ancha que Estados Unidos.",
+   "De punta a punta, mide más de cinco mil kilómetros.",
+   "Ponla encima de Estados Unidos, a tamaño real.",
+   "Va desde la costa del Pacífico hasta más allá del Atlántico.",
+   "Tiene más de diecisiete mil islas y unos doscientos ochenta millones de habitantes. La cuarta población más grande del mundo.",
+   "Un país que casi nadie sabe imaginar, y más grande de lo que piensas. Sígueme para más."
+  ]
+ },
+ "w009": {
+  "source": "Distribución de la población: CIA World Factbook · Población: CAPMAS (2024)",
+  "titles": {
+   "0": "EGIPTO ESTÁ 95 % VACÍO",
+   "6": "SIN RÍO NO HAY EGIPTO"
+  },
+  "says": [
+   "En Egipto viven más de cien millones de personas, pero casi todas viven sobre una delgada línea verde.",
+   "Esta línea.",
+   "Cerca del noventa y cinco por ciento de los egipcios vive a menos de veinte kilómetros del Nilo y su delta.",
+   "El Cairo, Alejandría, Luxor, Asuán. Todas las grandes ciudades están junto al río.",
+   "Lo demás es el Sahara. En gran parte cae menos de un centímetro de lluvia al año.",
+   "El Nilo corre hacia el norte más de seis mil kilómetros, desde el corazón de África, y Egipto es el último país al que llega.",
+   "Sin río, no hay Egipto. Sígueme para más."
+  ]
+ },
+ "w010": {
+  "source": "Distancias y esclusas: Autoridad del Canal de Panamá · Encyclopaedia Britannica",
+  "titles": {
+   "0": "82 KM QUE AHORRAN 12 600 KM",
+   "6": "LA ZANJA QUE MUEVE AL MUNDO"
+  },
+  "says": [
+   "Esta zanja de ochenta kilómetros les ahorra a los barcos casi trece mil kilómetros.",
+   "Sin ella, un barco de Nueva York a San Francisco tiene que rodear toda Sudamérica.",
+   "Con el canal, cruza directo por Panamá. Doce mil seiscientos kilómetros menos.",
+   "Los barcos no cruzan agua plana. Las esclusas los suben veintiséis metros hasta un lago, y luego los bajan.",
+   "Cada barco usa unos doscientos millones de litros de agua dulce de ese lago. En la sequía de dos mil veintitrés, el canal tuvo que reducir el tráfico.",
+   "Cerca del cinco por ciento de todo el comercio marítimo del planeta pasa por aquí.",
+   "Ochenta kilómetros de agua que sostienen el comercio mundial. Sígueme para más."
+  ]
+ },
+ "w011": {
+  "source": "Población: Oficina Nacional de Estadística de Mongolia · Superficie: CIA World Factbook",
+  "titles": {
+   "0": "EL PAÍS MÁS VACÍO DEL MUNDO",
+   "6": "PAÍS ENORME. NADIE EN CASA."
+  },
+  "says": [
+   "Este es el país más vacío del mundo.",
+   "Mongolia es más grande que Francia, Alemania, Italia y el Reino Unido juntos.",
+   "Pero solo viven ahí unos tres millones y medio de personas. Más o menos dos por kilómetro cuadrado.",
+   "Y casi la mitad vive en una sola ciudad: Ulán Bator.",
+   "También es la capital más fría del mundo. Su temperatura promedio del año está bajo cero.",
+   "Encerrada entre Rusia y China, sin nada de costa.",
+   "País enorme, casi nadie en casa. Sígueme para más."
+  ]
+ },
+ "w012": {
+  "source": "Población y costa: Oficina de Estadística de Australia · Superficie: Geoscience Australia",
+  "titles": {
+   "0": "AUSTRALIA ES ENORME (Y VACÍA)",
+   "5": "UN CONTINENTE EN LA PLAYA"
+  },
+  "says": [
+   "Australia es casi tan grande como Estados Unidos continental.",
+   "Ponla encima de Estados Unidos, a tamaño real.",
+   "Encaja casi perfecto. Pero Estados Unidos tiene unos trescientos cuarenta millones de habitantes. Australia, unos veintisiete millones.",
+   "Y casi todos los australianos viven en el borde. Cerca del ochenta y cinco por ciento vive a menos de cincuenta kilómetros de la costa.",
+   "El centro es el outback: desierto, matorral y tierra roja hasta donde alcanza la vista.",
+   "Un continente entero viviendo en la playa. Sígueme para más."
+  ]
+ },
+ "w013": {
+  "source": "Flujos y anchos: Administración de Información Energética de EE. UU. (2023–2024)",
+  "titles": {
+   "0": "LA RUTA DE PETRÓLEO MÁS TRANSITADA",
+   "6": "3 KM QUE ALIMENTAN A ASIA"
+  },
+  "says": [
+   "Por este canal pasa más petróleo que por cualquier otro lugar del mundo.",
+   "Es el estrecho de Malaca, entre Malasia y la isla indonesia de Sumatra.",
+   "Por aquí pasan unos veintitrés millones de barriles de petróleo al día, más que por el estrecho de Ormuz.",
+   "Casi todo va hacia China, Japón y Corea del Sur, y viene de Medio Oriente.",
+   "Cerca de Singapur, el canal principal se estrecha a menos de tres kilómetros.",
+   "Por eso la pequeña Singapur se convirtió en una de las ciudades portuarias más ricas del mundo.",
+   "Tres kilómetros entre las fábricas de Asia y su combustible. Sígueme para más."
+  ]
+ },
+ "w014": {
+  "source": "Volumen y profundidad: UNESCO · USGS · Grandes Lagos: EPA de EE. UU.",
+  "titles": {
+   "0": "UN LAGO > LOS 5 GRANDES LAGOS",
+   "6": "PEQUEÑO EN EL MAPA. GIGANTE ABAJO."
+  },
+  "says": [
+   "Este lago tiene más agua que los cinco Grandes Lagos juntos.",
+   "Es el lago Baikal, en Siberia. Es largo y delgado, así que en el mapa parece pequeño.",
+   "Pero es el lago más profundo del mundo, con más de un kilómetro y seiscientos metros de profundidad.",
+   "El Baikal guarda unos veintitrés mil seiscientos kilómetros cúbicos de agua. Los cinco Grandes Lagos juntos, unos veintidós mil setecientos.",
+   "Es más o menos una quinta parte de toda el agua dulce no congelada de la superficie del planeta.",
+   "También es el lago más antiguo del mundo, con unos veinticinco millones de años.",
+   "Pequeño en el mapa, gigante por dentro. Sígueme para más."
+  ]
+ },
+ "w015": {
+  "source": "Tratado de cesión de 1867: Archivos Nacionales de EE. UU. · Superficie: US Census Bureau",
+  "titles": {
+   "0": "COMPRADA A 2 CENTAVOS EL ACRE",
+   "6": "¿EL PEOR NEGOCIO DE LA HISTORIA?"
+  },
+  "says": [
+   "Estados Unidos compró esto a unos dos centavos el acre.",
+   "En mil ochocientos sesenta y siete, Estados Unidos le compró Alaska a Rusia por siete millones doscientos mil dólares.",
+   "La llamaron la locura de Seward. Un desperdicio de dinero congelado.",
+   "Alaska es más grande que Texas, California y Montana juntos.",
+   "Luego llegó el oro, y después el petróleo. Prudhoe Bay se volvió el mayor campo petrolero de Norteamérica.",
+   "Y Rusia sigue ahí al lado. Las islas Diómedes Mayor y Menor están a menos de cuatro kilómetros.",
+   "El peor negocio que hizo Rusia. Sígueme para más."
+  ]
+ },
+ "w016": {
+  "source": "Superficies y fronteras: CIA World Factbook · IBGE",
+  "titles": {
+   "0": "BRASIL ES MÁS GRANDE QUE EE. UU.",
+   "5": "UN PAÍS DEL TAMAÑO DE UN CONTINENTE"
+  },
+  "says": [
+   "Brasil es más grande que Estados Unidos continental.",
+   "Ponlo encima de Estados Unidos, a tamaño real.",
+   "Brasil mide ocho millones y medio de kilómetros cuadrados. Los cuarenta y ocho estados continentales, unos ocho millones cien mil.",
+   "Tiene frontera con diez países. Con todos los de Sudamérica, menos dos: Chile y Ecuador.",
+   "Y cerca del sesenta por ciento de la selva amazónica está dentro de Brasil.",
+   "Un país del tamaño de un continente. Sígueme para más."
+  ]
+ },
+ "w017": {
+  "source": "Autoridad del Canal de Suez · Estimación Ever Given: Lloyd's List (2021)",
+  "titles": {
+   "0": "UN BARCO. 9600 MILLONES AL DÍA.",
+   "6": "193 KM QUE EL MUNDO NECESITA"
+  },
+  "says": [
+   "En dos mil veintiuno, un solo barco atascado frenó casi diez mil millones de dólares en comercio cada día.",
+   "Es el canal de Suez, ciento noventa y tres kilómetros de agua a través de Egipto.",
+   "Une el Mediterráneo con el mar Rojo: el atajo entre Europa y Asia.",
+   "Sin él, los barcos tienen que rodear toda África. Eso suma unos diez días al viaje.",
+   "Cerca del doce por ciento del comercio mundial pasa por Suez.",
+   "Por eso, cuando el Ever Given quedó atravesado seis días, las tiendas de todo el mundo lo notaron.",
+   "Ciento noventa y tres kilómetros sin los que el mundo no puede vivir. Sígueme para más."
+  ]
+ },
+ "w018": {
+  "source": "Altitud y fronteras: CIA World Factbook · Gobierno de Lesoto",
+  "titles": {
+   "0": "UN PAÍS DENTRO DE OTRO PAÍS",
+   "6": "RODEADO POR TODOS LADOS"
+  },
+  "says": [
+   "Hay un país completamente atrapado dentro de otro país.",
+   "Es Lesoto. Todas sus fronteras son con Sudáfrica.",
+   "Solo tres países del mundo están rodeados así: Lesoto, San Marino y el Vaticano. Y Lesoto es, por mucho, el más grande.",
+   "Lo llaman el Reino en el Cielo. Su punto más bajo está a unos mil cuatrocientos metros sobre el nivel del mar.",
+   "Es el punto más bajo más alto de cualquier país del mundo. Aquí nieva en invierno, en África.",
+   "Lesoto le vende agua a Sudáfrica por túneles enormes, desde las presas de sus montañas hasta Johannesburgo.",
+   "Un reino en el cielo, rodeado por todos lados. Sígueme para más."
+  ]
+ },
+ "w019": {
+  "source": "Superficie: Encyclopaedia Britannica · Convención sobre el estatus del mar Caspio (2018)",
+  "titles": {
+   "0": "ESTE 'MAR' EN REALIDAD ES UN LAGO",
+   "6": "DEMASIADO GRANDE PARA SER LAGO"
+  },
+  "says": [
+   "El lago más grande del mundo se llama mar.",
+   "El mar Caspio no tiene conexión con ningún océano. El agua solo sale evaporándose.",
+   "Mide unos trescientos setenta y un mil kilómetros cuadrados. Es más grande que Alemania.",
+   "Cinco países comparten su costa: Rusia, Kazajistán, Turkmenistán, Irán y Azerbaiyán.",
+   "Que sea mar o lago sí importa. Debajo hay enormes yacimientos de petróleo y gas, y la etiqueta decide quién se queda con qué.",
+   "En dos mil dieciocho, los cinco países firmaron un acuerdo que le da un estatus especial. Oficialmente, no es ninguno de los dos.",
+   "Un lago demasiado grande para ser lago. Sígueme para más."
+  ]
+ },
+ "w020": {
+  "source": "Fronteras y ancho del estrecho: CIA World Factbook · Encyclopaedia Britannica",
+  "titles": {
+   "0": "ESPAÑA TIENE FRONTERA CON ÁFRICA",
+   "5": "LAS FRONTERAS NO TIENEN SENTIDO"
+  },
+  "says": [
+   "España tiene frontera terrestre con Marruecos, en África.",
+   "Dos ciudades españolas están en la costa africana: Ceuta y Melilla.",
+   "Son parte de España y de la Unión Europea. Las únicas fronteras terrestres de la Unión en el continente africano.",
+   "Al otro lado del agua, Europa y África están a solo catorce kilómetros, en el estrecho de Gibraltar.",
+   "Y el Peñón de Gibraltar, del lado español, pertenece al Reino Unido.",
+   "Así que España tiene un pedazo de África, y el Reino Unido un pedazo de España. Sígueme para más."
+  ]
+ },
+ "w021": {
+  "source": "Superficies: CIA World Factbook · Oficina de Estadística de Japón",
+  "titles": {
+   "0": "JAPÓN ES MÁS GRANDE QUE ALEMANIA",
+   "5": "NO TAN PEQUEÑO"
+  },
+  "says": [
+   "Japón es más grande que Alemania.",
+   "En los mapas del mundo parecen unas islitas. Pongámoslo sobre Europa, a tamaño real.",
+   "Se extiende unos tres mil kilómetros, desde Dinamarca hasta casi el sur de Italia.",
+   "Japón mide unos trescientos setenta y ocho mil kilómetros cuadrados. Alemania, trescientos cincuenta y siete mil.",
+   "Pero cerca de tres cuartas partes de Japón son montañas, así que sus más de ciento veinte millones de habitantes se apiñan en las costas planas.",
+   "Pequeño en el mapa, enorme en la vida real. Sígueme para más."
+  ]
+ }
+}

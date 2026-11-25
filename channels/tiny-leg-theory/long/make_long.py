@@ -103,6 +103,8 @@ for c, ch in enumerate(spec["chapters"]):
             tx = 700 if left_actor else 70
             txt = {"type": "text", "id": nid("text"), "text": line["text"], "x": tx, "y": 90 if lines[ks[j]][1] == 0 else 70, "w": 510,
                    "size": 64 if lines[ks[j]][1] == 0 else 54, "bold": True}
+            # one long word (APPRENTICESHIP) cannot wrap: shrink so it fits the 510 px box, else validate fails
+            txt["size"] = min(txt["size"], int(510 / (0.75 * max(len(w) for w in line["text"].split()))))
             col = "gold" if lines[ks[j]][1] == 0 and line.get("color", "ink") == "ink" else line.get("color", "ink")
             if COL.get(col): txt["color"] = COL[col]
             layers = [txt]

@@ -1,0 +1,119 @@
+{
+ "title": "El pozo de agua del Polo Sur se vuelve inodoro",
+ "hook": "DE POZO A INODORO",
+ "asof": "Datos de 2026",
+ "world": "pole",
+ "long": "IX002",
+ "chapters": [
+  {
+   "id": "well",
+   "hud": "DÍA 40",
+   "chip": "26 MAR",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "rodwell",
+     "s": "En el Polo Sur, sacas agua potable de un agujero en el hielo."
+    },
+    {
+     "v": "sewer",
+     "fx": "bubbles",
+     "s": "Y un día, ese agujero se vuelve tu inodoro."
+    },
+    {
+     "v": "ice",
+     "s": "No hay ríos."
+    },
+    {
+     "v": "ice",
+     "s": "Ni lagos."
+    },
+    {
+     "v": "sky",
+     "s": "Y casi no cae nieve."
+    },
+    {
+     "v": "wide",
+     "st": [
+      "2,5 CM",
+      "precipitación / año · NSF"
+     ],
+     "s": "Cae unos 2,5 centímetros al año."
+    },
+    {
+     "v": "underground",
+     "s": "Así que la estación crea su propio lago."
+    },
+    {
+     "v": "rodwell",
+     "s": "Se llama Rodwell."
+    },
+    {
+     "v": "rodwell",
+     "fx": "bubbles",
+     "s": "Bombean agua caliente por un agujero en el hielo."
+    },
+    {
+     "v": "bulb",
+     "s": "Derrite un estanque a unos cien metros bajo el hielo."
+    },
+    {
+     "v": "bulb",
+     "s": "Luego, unas bombas devuelven esa agua a la superficie."
+    },
+    {
+     "v": "power",
+     "s": "El calor viene de los generadores."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "GENERADORES",
+       "CALOR RESIDUAL",
+       "DERRITE HIELO",
+       "TU GRIFO"
+      ]
+     },
+     "s": "Un calor que, de otro modo, se perdería."
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "Cada gota que bebes se derritió con ese calor."
+    },
+    {
+     "v": "bulb",
+     "s": "Pero después de unos años,"
+    },
+    {
+     "v": "underground",
+     "s": "cuando el Rodwell crece demasiado,"
+    },
+    {
+     "v": "sewer",
+     "s": "le dan un nuevo uso."
+    },
+    {
+     "v": "sewer",
+     "fx": "bubbles",
+     "s": "Se convierte en el tanque de aguas residuales."
+    },
+    {
+     "v": "bath",
+     "you": "bath",
+     "s": "Sí."
+    },
+    {
+     "v": "underground",
+     "s": "Tu antiguo pozo de agua se vuelve tu inodoro."
+    },
+    {
+     "v": "bath",
+     "you": "bath",
+     "s": "¿Aun así beberías esa agua?"
+    }
+   ]
+  }
+ ]
+}

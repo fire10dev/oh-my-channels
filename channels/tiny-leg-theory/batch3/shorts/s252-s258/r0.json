@@ -1,0 +1,704 @@
+[
+ {
+  "id": "s252",
+  "mascot": "buff",
+  "title": "Why You Should Never Wait for Their Number",
+  "mechanism": "The Anchor",
+  "lines": [
+   {
+    "vo": "You freeze behind the desk, waiting for your boss to name salary.",
+    "text": "NAME A NUMBER FIRST",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Bad form. You just let them set the opening weight.",
+    "text": "BAD OPENING",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "The anchor effect traps your brain around whatever arbitrary number drops first.",
+    "text": "THE ANCHOR",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "If they start low, every counter-offer feels like heavy lifting.",
+    "text": "HEAVY LIFTING",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Drop a bracket first. Make your target number the bottom floor.",
+    "text": "SET A BRACKET",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Name the bracket today, or stay stuck on their terms tomorrow.",
+    "text": "SET THE FLOOR",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s252vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung de sep ra gia truoc",
+  "title_vi": "Đừng để sếp ra giá trước",
+  "mechanism": "The Anchor",
+  "lines": [
+   {
+    "vo": "Bạn vào phòng họp và mong sếp tự đề xuất con số hợp lý.",
+    "text": "CHỜ SẾP RA GIÁ",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Thế là tự buông tạ trước khi bắt đầu hiệp đấu rồi.",
+    "text": "BUÔNG TẠ SỚM",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Hiệu ứng mỏ neo khiến não bám chặt vào mức giá đầu tiên.",
+    "text": "BẪY MỎ NEO",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Sếp mở lời bằng mức sàn thấp, bạn lập tức mất hết thế chủ động.",
+    "text": "MẤT THẾ CHỦ ĐỘNG",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Hãy đưa ra một khoảng lương, lấy mức bạn muốn làm chặn dưới.",
+    "text": "ĐƯA MỘT KHOẢNG",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Chủ động neo giá ngay, hoặc chấp nhận cày thêm một năm ấm ức.",
+    "text": "TỰ ĐẶT MỨC SÀN",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s253",
+  "mascot": "pen",
+  "title": "Why Standard Raises Feel Generous",
+  "mechanism": "Reference Point",
+  "lines": [
+   {
+    "vo": "Your manager calls a modest annual raise standard, and you feel grateful.",
+    "text": "A STANDARD RAISE",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Even while the price of groceries climbed noticeably higher all year.",
+    "text": "RISING COSTS",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Our minds judge outcomes against nearby reference points, not actual reality.",
+    "text": "REFERENCE POINT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "They set the company routine as your baseline.",
+    "text": "THE BASELINE",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "You end up defending your value entirely on their home turf.",
+    "text": "THEIR HOME TURF",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Shift the reference point toward the market cost of replacing your output.",
+    "text": "MARKET VALUE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Are you measuring your worth by their past rule, or today's impact?",
+    "text": "WHOSE SCALE?",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s253vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Dung de bi dong khung muc luong",
+  "title_vi": "Đừng để bị đóng khung mức lương",
+  "mechanism": "Reference Point",
+  "lines": [
+   {
+    "vo": "Sếp bảo đợt này cả phòng đều tăng chút đỉnh, bạn vội thấy biết ơn.",
+    "text": "TĂNG CHÚT ĐỈNH",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Dù tiền thuê trọ và chi phí sống vừa tăng một bậc.",
+    "text": "TIỀN TRỌ TĂNG",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Tâm lý học gọi đây là sự phụ thuộc điểm tham chiếu.",
+    "text": "ĐIỂM THAM CHIẾU",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn vô tình lấy quy chế cũ của công ty làm thước đo chính.",
+    "text": "THƯỚC ĐO CŨ",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Và thương lượng hoàn toàn trên sân nhà của họ.",
+    "text": "MẤT THẾ ĐỨNG",
+    "color": "red",
+    "actor": "future_tired"
+   },
+   {
+    "vo": "Hãy dịch chuyển điểm tham chiếu sang giá thị trường cho vị trí hiện tại.",
+    "text": "GIÁ THỊ TRƯỜNG",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Bạn đang đo năng lực bằng quy chế cũ, hay bằng giá trị thực tế?",
+    "text": "THƯỚC ĐO NÀO?",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s254",
+  "mascot": "buff",
+  "title": "Why Naming Coworkers Kills Your Raise",
+  "mechanism": "The Peer Trap",
+  "lines": [
+   {
+    "vo": "You discovered the new hire makes way more for the exact same job.",
+    "text": "THE PAY GAP",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Blood boiling? Sure. But march in and name them, and you lose.",
+    "text": "DROP THE NAME",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Social comparison is natural, but naming peers turns value into cheap gossip.",
+    "text": "THE PEER TRAP",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Use their rate to quietly set your target, then cite market standards.",
+    "text": "CITE THE MARKET",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Leave the office drama on the bench. Lift with clean data.",
+    "text": "CLEAN REPS ONLY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s254vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung dem dong nghiep ra so luong",
+  "title_vi": "Đừng đem đồng nghiệp ra so lương",
+  "mechanism": "The Peer Trap",
+  "lines": [
+   {
+    "vo": "Vừa phát hiện đồng nghiệp mới vào làm lương cao hơn hẳn mình.",
+    "text": "LỆCH LƯƠNG",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Máu dồn lên não? Vào mách tên họ với sếp là hỏng hiệp đấu.",
+    "text": "ĐỪNG NÊU TÊN",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Chỉ trích người khác chỉ biến buổi trao đổi thành chuyện ngồi lê đôi mách.",
+    "text": "BẪY SO SÁNH",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Lấy mức đó làm mốc tham khảo, rồi đối chiếu bảng lương thị trường.",
+    "text": "DÙNG MỐC CHUẨN",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Gạt chuyện thị phi sang một bên. Đưa số liệu sạch lên bàn.",
+    "text": "SỐ LIỆU SẠCH",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s255",
+  "mascot": "pen",
+  "title": "Why Your Rent Is Not a Salary Argument",
+  "mechanism": "The Frame",
+  "lines": [
+   {
+    "vo": "You told your manager rent went up, hoping for a raise.",
+    "text": "RENT WENT UP",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "She offered warm sympathy, but kept the budget firmly closed.",
+    "text": "POLITE SYMPATHY",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "To leadership, personal living expenses just sound like an added tax.",
+    "text": "AN ADDED COST",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Human decisions depend heavily on how an idea is framed.",
+    "text": "THE FRAME",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Frame your compensation as a burden, and people naturally pull away.",
+    "text": "THE BURDEN",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Frame it around retaining team revenue and critical client accounts.",
+    "text": "BUSINESS VALUE",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Now you are an investment worth protecting, not an extra expense.",
+    "text": "AN INVESTMENT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "A raise is rarely about what you need. It is about what you protect.",
+    "text": "PROTECT VALUE",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s255vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Dung xin tang luong vi tien nha tang",
+  "title_vi": "Đừng xin tăng lương vì tiền nhà tăng",
+  "mechanism": "The Frame",
+  "lines": [
+   {
+    "vo": "Bạn than thở với sếp rằng tiền trọ dạo này đắt đỏ quá.",
+    "text": "TIỀN TRỌ TĂNG CAO",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Sếp mỉm cười lắng nghe, nhưng quỹ lương vẫn dậm chân tại chỗ.",
+    "text": "NỤ CƯỜI THÔNG CẢM",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Với công ty, chi phí sinh hoạt cá nhân chỉ giống như khoản phạt ngân sách.",
+    "text": "GÁNH NẶNG PHÁT SINH",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Tâm lý học gọi đây là bẫy đóng khung góc nhìn.",
+    "text": "BẪY ĐÓNG KHUNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Khi nói về sự tốn kém, người ta có xu hướng né tránh.",
+    "text": "XU HƯỚNG NÉ TRÁNH",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Hãy đóng khung đề xuất quanh giá trị bạn giữ chân khách hàng.",
+    "text": "BẢO VỆ DOANH THU",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Biến mức lương thành khoản đầu tư giữ chân nhân sự then chốt.",
+    "text": "KHOẢN ĐẦU TƯ",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Người ta không trả thêm vì bạn khó khăn, mà vì giá trị bạn bảo vệ.",
+    "text": "GIÁ TRỊ BẢO VỆ",
+    "color": "gold",
+    "actor": "reading"
+   }
+  ]
+ },
+ {
+  "id": "s256",
+  "mascot": "buff",
+  "title": "When to Ask for a Raise",
+  "mechanism": "Reciprocity",
+  "lines": [
+   {
+    "vo": "You waited for annual review during a quiet lull, and got brushed off.",
+    "text": "BRUSHED OFF",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Bad timing. You do not ask for a protein shake before working out.",
+    "text": "BAD TIMING",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Human psychology relies on reciprocity. We feel pressure to balance favors.",
+    "text": "RECIPROCITY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Ask when nothing happened, and your leverage sits at zero.",
+    "text": "ZERO MOMENTUM",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Close a big project, document the win, and request the talk immediately.",
+    "text": "STRIKE WHILE FRESH",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Strike while momentum is hot, or wait another cold year.",
+    "text": "RACK THE WIN",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s256vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Thoi diem vang de xin tang luong",
+  "title_vi": "Thời điểm vàng để xin tăng lương",
+  "mechanism": "Reciprocity",
+  "lines": [
+   {
+    "vo": "Đợi đợt xét lương cuối năm lúc việc đang êm đềm, sếp gạt phắt đi.",
+    "text": "BỊ GẠT ĐI NGAY",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Chọn sai điểm rơi rồi. Chưa nâng tạ nặng đã đòi uống bột phục hồi.",
+    "text": "SAI THỜI ĐIỂM",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Tâm lý con người luôn có thôi thúc đáp lại khi vừa nhận được lợi ích.",
+    "text": "QUY LUẬT ĐÁP TỪ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hỏi lương lúc dự án nguội ngắt thì thế thương lượng bằng không.",
+    "text": "THẾ ĐỨNG BẰNG KHÔNG",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Vừa hoàn thành dự án lớn, hãy chốt ngay lịch hẹn với sếp.",
+    "text": "CHỐT LỊCH NGAY",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Tận dụng đà chiến thắng ngay lúc này, hoặc đợi thêm một năm nguội lạnh.",
+    "text": "ĐÒN BẨY CHIẾN THẮNG",
+    "color": "gold",
+    "actor": "celebrate"
+   }
+  ]
+ },
+ {
+  "id": "s257",
+  "mascot": "pen",
+  "title": "Why Spoken Dedication Gets Ignored",
+  "mechanism": "Legitimacy",
+  "lines": [
+   {
+    "vo": "You gave a speech about hard work, but your boss looked bored.",
+    "text": "HEARTFELT SPEECH",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Spoken passion often evaporates the moment you step out of the door.",
+    "text": "WORDS EVAPORATE",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Psychology shows tangible documents carry far greater perceived authority.",
+    "text": "LEGITIMACY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "The human brain treats printed records as objective proof, not personal opinion.",
+    "text": "PRINTED PROOF",
+    "actor": "reading",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Bring a clean one-page summary of your key wins and market range.",
+    "text": "ONE-PAGE SUMMARY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Now your manager has clear ammunition to defend you higher up.",
+    "text": "SOLID BACKING",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Put your proof in ink today. Give them something solid to approve.",
+    "text": "PUT IT IN INK",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s257vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Dung xin tang luong bang loi noi suong",
+  "title_vi": "Đừng xin tăng lương bằng lời nói suông",
+  "mechanism": "Legitimacy",
+  "lines": [
+   {
+    "vo": "Bạn ngồi tâm sự dông dài về sự cống hiến, còn sếp thì lơ đãng.",
+    "text": "TÂM SỰ CỐNG HIẾN",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Lời nói gió bay ngay khi bạn vừa bước chân ra khỏi phòng.",
+    "text": "LỜI NÓI GIÓ BAY",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Tâm lý con người luôn xem tài liệu trực quan là căn cứ có uy quyền.",
+    "text": "TÍNH CHÍNH DANH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Não bộ mặc định văn bản là sự thật khách quan, không phải cảm xúc.",
+    "text": "BẰNG CHỨNG RÕ RÀNG",
+    "actor": "reading",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Hãy mang theo một trang tóm tắt các kết quả nổi bật và mức lương đề xuất.",
+    "text": "MỘT TRANG TÓM TẮT",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Sếp sẽ có sẵn cơ sở vững chắc để duyệt với cấp cao hơn.",
+    "text": "CƠ SỞ VỮNG CHẮC",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Hãy đưa bằng chứng lên giấy trắng mực đen. Trao cho họ lý do để duyệt.",
+    "text": "GIẤY TRẮNG MỰC ĐEN",
+    "color": "gold",
+    "actor": "point_viewer"
+   }
+  ]
+ },
+ {
+  "id": "s258",
+  "mascot": "buff",
+  "title": "How to Beat the Six-Month Delay",
+  "mechanism": "Status Quo Bias",
+  "lines": [
+   {
+    "vo": "Your boss says you do great, but asks to revisit next quarter.",
+    "text": "MAYBE NEXT TIME",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Classic stall. The brain hates making changes because inaction feels safe.",
+    "text": "STATUS QUO BIAS",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Delay is easy. It avoids paperwork and sidesteps hard decisions.",
+    "text": "THE DELAY TRAP",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Lock in an if-then rule. Hit these goals, salary adjusts automatically.",
+    "text": "SET IF-THEN GOALS",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Put the exact date on the calendar now. Stop skipping reps.",
+    "text": "LOCK IT IN",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s258vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Pha vo cai co hen lan sau cua sep",
+  "title_vi": "Phá vỡ cái cớ hẹn lần sau của sếp",
+  "mechanism": "Status Quo Bias",
+  "lines": [
+   {
+    "vo": "Sếp khen làm tốt lắm, nhưng hẹn để nửa năm nữa rồi tính.",
+    "text": "ĐỂ LẦN SAU TÍNH",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Chiêu hoãn binh kinh điển. Bộ não luôn chuộng giữ nguyên hiện trạng để né rủi ro.",
+    "text": "BẪY HIỆN TRẠNG",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Trì hoãn thì êm đềm, còn ra quyết định lại tốn giấy tờ.",
+    "text": "SỰ TRÌ HOÃN",
+    "color": "red",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Hãy chốt thỏa thuận nếu-thì: đạt đủ mục tiêu thì lương tự động nhảy mức.",
+    "text": "THỎA THUẬN NẾU THÌ",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Khóa ngày hẹn cụ thể lên lịch ngay. Đừng để bị nợ hiệp đấu.",
+    "text": "CHỐT LỊCH HẸN",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ }
+]

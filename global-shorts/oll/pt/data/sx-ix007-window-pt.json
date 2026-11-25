@@ -1,0 +1,84 @@
+{
+ "title": "A Janela de 10 cm no Único Supermax Federal dos EUA",
+ "hook": "JANELA DE 10 CM",
+ "asof": "Dados da inspeção do DC CIC de 2018",
+ "world": "supermax",
+ "long": "IX007",
+ "chapters": [
+  {
+   "id": "window",
+   "hud": "DIA 1",
+   "chip": "11:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Esta é a única janela que você vê por anos.",
+     "v": "window",
+     "you": "window"
+    },
+    {
+     "s": "Ela fica numa cela do ADX Florence, no Colorado.",
+     "v": "wide"
+    },
+    {
+     "s": "O único supermax federal dos EUA.",
+     "v": "fence"
+    },
+    {
+     "s": "A janela tem cerca de 107 cm de altura,",
+     "v": "window"
+    },
+    {
+     "s": "e 10 cm de largura.",
+     "v": "window",
+     "st": [
+      "10 CM",
+      "largura · CIC 2018"
+     ]
+    },
+    {
+     "s": "Ela é inclinada de propósito.",
+     "v": "window",
+     "you": "window"
+    },
+    {
+     "s": "Você só consegue ver o céu.",
+     "v": "sky"
+    },
+    {
+     "s": "Nem o chão. Nem as montanhas lá fora.",
+     "v": "mountains"
+    },
+    {
+     "s": "A cela mede 2,1 por 3,7 metros.",
+     "v": "cell",
+     "you": "cell",
+     "st": [
+      "2,1×3,7 M",
+      "a cela inteira"
+     ]
+    },
+    {
+     "s": "A cama, a mesa e o banco são de concreto maciço.",
+     "v": "desk",
+     "you": "desk"
+    },
+    {
+     "s": "A maioria dos homens passa pelo menos 22 horas por dia lá dentro.",
+     "v": "cell",
+     "you": "cell",
+     "plane": "dark"
+    },
+    {
+     "s": "Então essa faixa de céu é o mundo lá fora.",
+     "v": "sky"
+    },
+    {
+     "s": "Você conseguiria viver vendo só 10 centímetros?",
+     "v": "window",
+     "you": "window"
+    }
+   ]
+  }
+ ]
+}

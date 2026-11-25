@@ -1,0 +1,874 @@
+{
+ "id": "L18vi",
+ "lang": "vi",
+ "title": "Nói điều mình cần trong tình yêu sao cho dễ được lắng nghe?",
+ "description": "Bạn hay nuốt ấm ức vào trong đến khi bùng nổ, hay chọn im lặng rút lui? Cùng bẻ khóa tám cái bẫy tâm lý quen thuộc khi yêu và học cách mở lời để đối phương chủ động lắng nghe.",
+ "chapters": [
+  {
+   "title": "NỖI IM LẶNG DỖI HỜN",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn nằm soạn tin nhắn cả nửa tiếng, xóa đi viết lại rồi ôm cục tức đi ngủ.",
+     "text": "IM LẶNG DỖI HỜN",
+     "color": "red",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lại bài cũ rồi Pen. Cứ khóa miệng im bặt, bắt người ta tự đoán rồi than thở.",
+     "text": "CHỜ NGƯỜI ĐOÁN Ý",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì mở lời thẳng thắn sợ lắm, cứ như đi xin xỏ tình cảm hoặc sắp gây chiến vậy.",
+     "text": "SỢ GÂY XUNG ĐỘT",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giao tiếp không phải xin xỏ. Đó là nhóm cơ cần bạn rèn luyện qua từng hiệp tập.",
+     "text": "RÈN NHÓM CƠ NÀY",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy làm sao để thôi dỗi thầm, dám nói điều mình cần mà không cãi vã hả Buff?",
+     "text": "NÓI SAO CHO ĐÚNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cùng bẻ gãy tám cái bẫy phá nát tình cảm, kèm bài tập thực tế để khắc phục.",
+     "text": "TÁM CÁI BẪY TÂM LÝ",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. VÒNG LẶP RƯỢT ĐUỔI",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần mình nhắn hỏi sao dạo này ít nói chuyện, người ấy lại lặn mất tăm.",
+     "text": "1. VÒNG LẶP RƯỢT ĐUỔI",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lỗi sơ đẳng. Bạn càng nhắn dồn dập, người ta càng lùi lại để thở.",
+     "text": "KẺ ĐUỔI NGƯỜI TRỐN",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Càng gửi tin giục giã, họ lại càng ngột ngạt rồi im lặng luôn hả Buff?",
+     "text": "CÀNG GIỤC CÀNG IM",
+     "color": "red",
+     "actor": "nervous_wave",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là vòng lặp đòi hỏi và rút lui, biến khoảng cách thành trò kéo co mệt mỏi.",
+     "text": "ĐÒI HỎI VÀ RÚT LUI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một bên sốt ruột ép nói chuyện, bên kia quá tải nên chỉ muốn tìm cách né.",
+     "text": "ÁP LỰC VÀ NÉ TRÁNH",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Càng ép thì họ càng lạnh nhạt, làm mình vừa bất an vừa thấy bị bỏ rơi.",
+     "text": "CẢM GIÁC BỊ BỎ RƠI",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi bài khởi động ngay. Ngưng nhắn dồn dập, hãy hẹn một khung giờ nói chuyện dễ thở.",
+     "text": "HẸN GIỜ TRÒ CHUYỆN",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử nhắn: Nhớ bạn ghê, tối nay mình gọi mười lăm phút trước khi ngủ nhé.",
+     "text": "LỜI HẸN DỄ CHỊU",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm vậy để họ có thời gian chuẩn bị, không thấy bị dồn vào góc tường hả Buff?",
+     "text": "KHOẢNG TRỐNG ĐỂ THỞ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tạo sẵn một nhịp bước thoải mái, đối phương sẽ tự nguyện tiến lại gần.",
+     "text": "GIẢM BỚT ÁP LỰC",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp tiếp theo: đừng tự đánh nhau với bóng ma trong đầu khi đợi tin nhắn.",
+     "text": "BÓNG MA TÂM TRÍ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "2. PHẢN XẠ ĐỔ LỖI",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Thấy họ để năm tiếng mới trả lời, mình nghĩ ngay là họ hết thương mình rồi.",
+     "text": "2. PHẢN XẠ ĐỔ LỖI",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiêu chuẩn kép nhé. Bạn nhắn trễ thì do bận, người ta trễ thì bảo vô tâm.",
+     "text": "TIÊU CHUẨN KÉP",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao đầu mình cứ quy chụp người ta thay vì nghĩ họ đang bận đi làm?",
+     "text": "SAO NGHĨ XẤU NGAY?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là lỗi quy kết: đổ tại tính nết người ta, nhưng lại tha thứ cho hoàn cảnh của mình.",
+     "text": "LỖI QUY KẾT",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não ghét im ắng, nên tự dựng kịch bản phản diện để lấp vào khoảng trống.",
+     "text": "DỰNG KỊCH BẢN XẤU",
+     "color": "ink",
+     "actor": "34",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên tới lúc gọi điện, mình đã bừng bừng tức giận vì một lỗi không có thật.",
+     "text": "CƠN GIẬN TƯỞNG TƯỢNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập một nhịp nâng tạ tâm trí: hãy đưa ra giả định tử tế trước khi nghe máy.",
+     "text": "GIẢ ĐỊNH TỬ TẾ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự nhủ: người ta đang cày việc ngập đầu chứ không có né mình, hạ tạ xuống đi.",
+     "text": "NGHĨ THOÁNG CHO NHAU",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩ họ bận việc chứ không phải hết yêu, tối nói chuyện sẽ nhẹ đầu hơn đúng không?",
+     "text": "HẠ NHIỆT CƠN GIẬN",
+     "color": "gold",
+     "actor": "meditating",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ thói đổ lỗi giúp bạn nghe chuyện thật, thay vì củng cố nỗi sợ hãi.",
+     "text": "BỎ PHẢN XẠ ĐỔ LỖI",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ thế thủ quá chặt, một câu hỏi thăm bình thường cũng nghe như đòn khiêu chiến.",
+     "text": "DỰNG THẾ PHÒNG THỦ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "3. TIA LỬA BÙNG PHÁT",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đang nhắn tin bàn chuyện qua thăm nhau, thấy họ trả lời cộc lốc là mình đốp chát lại liền.",
+     "text": "3. TIA LỬA BÙNG PHÁT",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ hai phút sau, cả hai đã lôi chuyện hủy hẹn từ nửa năm trước ra cãi.",
+     "text": "LỬA BÙNG THÀNH BÃO",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao chuyện xe cộ đi lại lại bùng thành cuộc chiến nhanh đến thế hả Buff?",
+     "text": "SAO BÙNG NỔ NHANH?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là phản xạ ăn miếng trả miếng, khi cơn bực của một bên lập tức châm ngòi cho bên kia.",
+     "text": "ĂN MIẾNG TRẢ MIẾNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng khiến ta phản chiếu sự gay gắt, coi người yêu như đối thủ trên sàn đấu.",
+     "text": "COI NHAU NHƯ ĐỐI THỦ",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ ngỡ mình đang tự vệ, nhưng thật ra là đang châm thêm dầu vào lửa.",
+     "text": "ĐỔ DẦU VÀO LỬA",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cần một nhịp ngắt cầu dao. Dừng đúng mười giây trước khi gửi câu trả đũa.",
+     "text": "DỪNG LẠI MƯỜI GIÂY",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gõ chậm lại, thở sâu và chỉ tập trung vào sự thật cần giải quyết.",
+     "text": "TẬP TRUNG SỰ THẬT",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ đang bực mình chuyện đi lại, mình chỉ cần bình tĩnh chốt vé tàu xe thôi sao?",
+     "text": "GIỮ ĐẦU LẠNH TRƯỚC",
+     "color": "gold",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hạ nhiệt là kỷ luật. Hạ giọng xuống, bám vào thực tế, giông bão sẽ tự tan.",
+     "text": "KỶ LUẬT HẠ NHIỆT",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy tiếp theo còn tệ hơn: bắt người yêu ở xa phải tự đọc được tâm trí mình.",
+     "text": "BẪY ĐỌC TÂM TRÍ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "4. BẪY ĐỌC TÂM TRÍ",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cả tuần đi làm mệt nhoài, lúc gọi mình thở dài mà họ vẫn mải xem bóng đá.",
+     "text": "4. BẪY ĐỌC TÂM TRÍ",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thở dài không tính là nói. Người yêu bạn là người thường, đâu phải thầy bói.",
+     "text": "KHÔNG PHẢI THẦY BÓI",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao lòng mình cứ nghĩ nếu yêu thật lòng, người ta phải tự biết mình buồn?",
+     "text": "PHẢI TỰ HIỂU CHỨ?",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là lệch pha góc nhìn: bạn cứ tưởng nỗi bực dọc của mình đang lộ rõ mồn một.",
+     "text": "ĐỘ LỆCH GÓC NHÌN",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn tự thấy mình kiệt sức, nên thấy họ vô tư liền bảo họ vô tâm.",
+     "text": "GÓC NHÌN LỆCH NHAU",
+     "color": "ink",
+     "actor": "34",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình ngầm ra đề thử thách, rồi giận dỗi khi người ta không vượt qua được.",
+     "text": "BÀI THI NGẦM",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dẹp mấy bài thi ngầm đi. Vào ngay hiệp mười từ để nói thẳng mong muốn.",
+     "text": "HIỆP TẬP MƯỜI TỪ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói thẳng luôn: Nay mình đuối quá, chỉ cần bạn hỏi han một câu.",
+     "text": "NÓI THẲNG ĐIỀU CẦN",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói toẹt ra như vậy có làm mất đi sự lãng mạn tự nhiên không?",
+     "text": "CÓ MẤT LÃNG MẠN?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rõ ràng mới chính là lãng mạn. Bạn trao tận tay họ tấm bản đồ chỉ đường.",
+     "text": "RÕ RÀNG LÀ LÃNG MẠN",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhưng khi nói ra, một tật xấu khác lại khiến ta gạt phắt nỗ lực của họ.",
+     "text": "GẠT PHẮT CÔNG SỨC",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "5. BẪY PHỦ NHẬN",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình dặn người yêu sáng nào cũng nhắn tin, nhưng nhận được lại thấy nhạt nhẽo.",
+     "text": "5. BẪY PHỦ NHẬN",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lại nghĩ phải nhắc mới làm thì không tính rồi đúng không Pen?",
+     "text": "NHẮC MỚI LÀM LÀ BỎ",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thì đúng mà. Phải đòi mới làm thì đâu còn xuất phát từ con tim?",
+     "text": "CÓ THẬT LÒNG KHÔNG?",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là bẫy phủ nhận: hễ cái gì phải mở miệng đòi, não bạn liền chê là gượng ép.",
+     "text": "HẠ THẤP GIÁ TRỊ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cái tôi đòi hỏi sự hoàn hảo, nên dán nhãn nỗ lực của họ là giả tạo.",
+     "text": "CÁI TÔI ĐÒI HỎI",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là mình coi nhẹ, làm họ thấy cố gắng cỡ nào cũng vô ích.",
+     "text": "CHẲNG BAO GIỜ VỪA",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy coi như bài tập nâng tạ. Họ chịu tập thì bạn phải ghi nhận ngay.",
+     "text": "GHI NHẬN NỖ LỰC",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhắn lại: Cảm ơn tin nhắn sáng nay nhé, mình thấy vui cả ngày.",
+     "text": "GỬI LỜI CẢM ƠN",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biết ơn chân thành sẽ giúp họ tự nguyện làm tiếp mà không cần nhắc?",
+     "text": "TẠO NÊN THÓI QUEN",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có khen thì mới lên tạ được. Chê bai hoài thì ai cũng nản lòng.",
+     "text": "KHEN ĐỂ TIẾN BỘ",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhưng muốn ghi nhận cũng khó, khi mắt bạn đang đeo một cặp kính đen tối.",
+     "text": "CẶP KÍNH ĐEN TỐI",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    }
+   ]
+  },
+  {
+   "title": "6. LĂNG KÍNH ĐEN TỐI",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Người ta bất ngờ đặt đồ ăn giao tận phòng trọ, thế mà linh tính mình lại thấy đáng ngờ.",
+     "text": "6. LĂNG KÍNH ĐEN TỐI",
+     "color": "red",
+     "actor": "snack",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đa nghi quá mức. Cơm ngon tới tay mà còi báo động trong đầu hú vang.",
+     "text": "CÒI BÁO ĐỘNG HÚ",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sau nhiều ngày căng thẳng, sao một hành động quan tâm cũng giống như cái bẫy?",
+     "text": "CÓ PHẢI CÁI BẪY?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý học gọi đây là hiệu ứng lăng kính tối: ấm ức dồn nén sẽ nhuộm đen mọi cử chỉ tốt đẹp.",
+     "text": "NHUỘM ĐEN MỌI THỨ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mất cảm giác an toàn, bạn liền coi người yêu như mối hiểm nguy.",
+     "text": "CHẾ ĐỘ TỰ VỆ",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù họ có thật lòng, mình cũng không thể hạ lớp áo giáp xuống.",
+     "text": "KHÔNG CHỊU HẠ THỦ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bám vào thực tế đi: họ chỉ vừa đặt đồ ăn gửi qua, hết chuyện, bớt vẽ kịch bản.",
+     "text": "NHÌN VÀO SỰ THẬT",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tách sự thật khỏi suy diễn sẽ giúp mình bớt nghĩ xấu cho họ phải không?",
+     "text": "TÁCH BIỆT SUY DIỄN",
+     "color": "gold",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Đeo kính râm đen thì làm sao thấy được người ta đang quan tâm.",
+     "text": "THÁO CẶP KÍNH ĐEN",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tháo kính ra, mình sẽ dễ thấy những tín hiệu làm hòa của họ hơn?",
+     "text": "NHẬN TÍN HIỆU HÒA",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lúc đó bạn mới nhận ra lá cờ trắng giữa lúc cãi nhau căng thẳng.",
+     "text": "LÁ CỜ ĐÌNH CHIẾN",
+     "color": "ink",
+     "actor": "front",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "7. LÁ CỜ ĐÌNH CHIẾN",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đang gọi điện cãi nhau chuyện đi lại, họ bỗng pha trò đùa làm mình nổi đóa lên.",
+     "text": "7. LÁ CỜ ĐÌNH CHIẾN",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn vừa gạt phắt tay hòa. Người ta xuống nước, bạn lại tung đòn tấn công.",
+     "text": "GẠT TAY XIN HÒA",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Câu đùa ngô nghê đó là trêu ngươi, hay họ đang muốn làm hòa?",
+     "text": "TRÊU HAY LÀM HÒA?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là nỗ lực hàn gắn, cách nhanh nhất để rút củi đáy nồi.",
+     "text": "NỖ LỰC HÀN GẮN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người ta đùa lúc căng thẳng cốt để tim hai bên bớt đập loạn xạ.",
+     "text": "LÀM DỊU NHỊP TIM",
+     "color": "ink",
+     "actor": "34",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì quá hiếu thắng, mình coi lời xuống nước làm hòa như sự khiêu khích.",
+     "text": "CƠN HIẾU THẮNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy cờ trắng thì nhận ngay. Đừng chần chừ khi người ta đã nhường bước.",
+     "text": "ĐỒNG Ý ĐÌNH CHIẾN",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cười xòa một cái, hít sâu rồi bảo thôi trêu thế đủ rồi, nghỉ năm phút đã.",
+     "text": "TẠM NGHỈ NĂM PHÚT",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đón nhận cờ trắng giữ được tình cảm, quý hơn chuyện hơn thua đúng không?",
+     "text": "TÌNH HƠN THẮNG THUA",
+     "color": "gold",
+     "actor": "meditating",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cố ghi điểm vào lưới đồng đội thì cả hai cùng thua. Chấp nhận hòa đi.",
+     "text": "CHUNG MỘT ĐỘI",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bớt cãi vã, hai bạn mới xây được bến đỗ an toàn cho nhau.",
+     "text": "BẾN ĐỖ AN TOÀN",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "8. BẾN ĐỖ AN TOÀN",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Khi mình than yêu xa thấy tủi thân, họ liền đưa giải pháp thay vì an ủi vỗ về.",
+     "text": "8. BẾN ĐỖ AN TOÀN",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bệnh thích giải quyết. Người ta phát cẩm nang khi tim bạn chỉ cần dỗ dành.",
+     "text": "CẨM NANG VÀ CÁI ÔM",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao lời khuyên lý trí lại khiến mình cô đơn hơn cả lúc im lặng?",
+     "text": "CÔ ĐƠN VÌ LÝ TRÍ",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là sự phản hồi thấu cảm, cái neo tạo nên cảm giác an toàn cho cả hai.",
+     "text": "SỰ THẤU CẢM HỒI ĐÁP",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hồi đáp đúng cách gồm ba việc: lắng nghe, công nhận và trân trọng.",
+     "text": "BA ĐIỀU THEN CHỐT",
+     "color": "ink",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thiếu ba điều đó, nói ra mong muốn nghe cứng ngắc như đang báo cáo công việc.",
+     "text": "NHƯ BÁO CÁO CÔNG VIỆC",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Làm huấn luyện viên luôn. Nhờ họ an ủi trước khi tính chuyện giải quyết.",
+     "text": "HƯỚNG DẪN ĐỐI PHƯƠNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử bảo: Lúc này mình chỉ cần bạn lắng nghe, không cần tìm cách sửa.",
+     "text": "LẮNG NGHE LÀ ĐỦ",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói rõ mong muốn giúp người kia đỡ đoán mò, tạo chỗ dựa an toàn hơn?",
+     "text": "BỚT PHẢI ĐOÁN MÒ",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói rõ đích đến là chỉ cho đồng đội cách ghi bàn chuẩn xác.",
+     "text": "CHỈ CÁCH GHI BÀN",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ hãy ghép tám cơ chế lại thành giáo án bảy ngày rèn luyện.",
+     "text": "GIÁO ÁN BẢY NGÀY",
+     "color": "ink",
+     "actor": "front",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "BẢY NGÀY RÈN LUYỆN",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bước một: chặn đứng hoảng loạn bằng cách hẹn giờ gọi điện và dừng mười giây khi cãi vã.",
+     "text": "BẢY NGÀY RÈN LUYỆN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bước hai: dẹp trò đọc suy nghĩ, dùng đúng mười từ nói toạc điều mình đang cần.",
+     "text": "NÓI RÕ ĐIỀU CẦN",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và bước ba: trân trọng từng nỗ lực nhỏ của họ, vui vẻ đón nhận tín hiệu làm hòa.",
+     "text": "BIẾT ƠN VÀ LÀM HÒA",
+     "color": "gold",
+     "actor": "34",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày: mỗi ngày biến một mong muốn ngầm thành lời nói rõ ràng.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói ra sớm trước khi cục tức kịp phình to thành mâu thuẫn lớn.",
+     "text": "LÊN TIẾNG SỚM HƠN",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và hễ họ mở lời làm hòa, mình đón nhận ngay bằng sự trân trọng?",
+     "text": "NHẬN LỜI LÀM HÒA",
+     "color": "gold",
+     "actor": "meditating",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mỗi ngày một hiệp giao tiếp chân thành sẽ đổi thay hoàn toàn tình cảm.",
+     "text": "RÈN LUYỆN MỖI NGÀY",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tình cảm không bền nhờ bắt nhau đoán ý, mà bền khi cả hai dám mở lời nói điều mình cần.",
+     "text": "MỞ LỜI TỬ TẾ",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đăng ký kênh Lý Thuyết Chân Que để cùng nâng tạ tâm lý mỗi ngày.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

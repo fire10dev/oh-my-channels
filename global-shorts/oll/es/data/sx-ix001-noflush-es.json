@@ -1,0 +1,160 @@
+{
+ "title": "Por qué a veces no puedes descargar el inodoro en un submarino",
+ "hook": "NO JALES LA CADENA",
+ "asof": "Datos de 2026",
+ "world": "sub",
+ "long": "IX001",
+ "chapters": [
+  {
+   "id": "flush",
+   "hud": "DÍA 31",
+   "chip": "09:30",
+   "tod": "day",
+   "shots": [
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "En un submarino, a veces no puedes descargar el inodoro."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Te cuento por qué."
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      960,
+      540,
+      1.0
+     ],
+     "s": "Un submarino con misiles balísticos está hecho para ocultarse."
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      960,
+      560,
+      1.12
+     ],
+     "s": "Así que no puede dejar un rastro de basura."
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "La basura seca se tritura en una compactadora,"
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "se guarda en latas metálicas especiales,"
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "y se les ponen pesos para que se hundan."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "COMPACTADORA",
+       "LATA METÁLICA",
+       "+ PESOS",
+       "TUBO TDU ↓"
+      ],
+      "note": "las latas se hunden hasta el fondo del mar"
+     },
+     "s": "Luego las lanzan por un tubo en la parte inferior del submarino,"
+    },
+    {
+     "sc": "trash1",
+     "view": [
+      1500,
+      650,
+      1.8
+     ],
+     "s": "directo al fondo del mar."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Los desechos humanos van a otro sitio: un tanque sanitario."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "De vez en cuando, expulsan el contenido con aire comprimido."
+    },
+    {
+     "d": {
+      "type": "note",
+      "title": "¡ADVERTENCIA!",
+      "lines": [
+       "PURGA SANITARIA",
+       "NO DESCARGUES"
+      ],
+      "stamp": "NO"
+     },
+     "s": "Mientras lo hacen, ponen un letrero en cada inodoro."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      4.2
+     ],
+     "q": "NO DESCARGUES",
+     "s": "Purga sanitaria. No descargues."
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      2.7
+     ],
+     "s": "Ignóralo,"
+    },
+    {
+     "sc": "trash2",
+     "view": [
+      1550,
+      615,
+      3.6
+     ],
+     "s": "y entenderás enseguida por qué está ese letrero."
+    }
+   ]
+  }
+ ]
+}

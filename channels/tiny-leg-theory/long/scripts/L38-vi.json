@@ -1,0 +1,913 @@
+{
+ "id": "L38vi",
+ "lang": "vi",
+ "title": "Làm sao để buổi sáng không còn vội cuống cuồng?",
+ "description": "Một buổi sáng vội vã làm hỏng cả ngày của bạn. Tám thay đổi tâm lý dọn sạch áp lực từ tối hôm trước: hao mòn quyết định, thiết kế không gian, cú huých môi trường, trí nhớ tương lai, kế hoạch nếu-thì, tín hiệu thị giác, triệt tiêu ma sát và đà hành vi.",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Báo thức reo, nhìn đồng hồ giật thót, sắp đến giờ chấm công rồi.",
+     "text": "TRỄ GIỜ CHẤM CÔNG",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm hoãn báo thức mấy lần, giờ thì cắm đầu chạy thục mạng cho kịp xe.",
+     "text": "CHẠY THỤC MẠNG",
+     "color": "red",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao sáng nào mở mắt ra cũng như chạy đua nghẹt thở vậy Buff?",
+     "text": "LÚC NÀO CŨNG VỘI?",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đầu óc chưa kịp khởi động mà Pen đã bắt nó gánh ngay hiệp tạ nặng rồi.",
+     "text": "CHƯA KỊP KHỞI ĐỘNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để không phải thức dậy trong hoảng loạn mà không cần dậy từ sớm?",
+     "text": "CÓ CÁCH NÀO KHÁC?",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là tám thay đổi đơn giản giúp dọn sạch mớ hỗn độn sáng mai từ tối nay.",
+     "text": "TÁM THAY ĐỔI NHỎ",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Decision Fatigue",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Đầu tiên là hao mòn quyết định, cạn pin tinh thần chỉ vì đắn đo vụn vặt.",
+     "text": "1. HAO MÒN QUYẾT ĐỊNH",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Pen đứng đờ người trước tủ đồ hồi lâu chỉ để chọn cái áo đi làm.",
+     "text": "ĐỨNG ĐỜ CHỌN ĐỒ",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mỗi lựa chọn đều ngốn pin ý chí, từ đôi tất cho tới cái áo mặc đi làm.",
+     "text": "CẠN DẦN Ý CHÍ",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng lẽ việc chọn đồ mặc buổi sáng lại ngốn nhiều năng lượng đến thế sao hả Buff?",
+     "text": "TỐN NĂNG LƯỢNG THẾ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Càng cân nhắc lặt vặt thì đầu óc càng nhanh đuối trước khi bắt tay làm việc.",
+     "text": "HAO TỔN ĐẦU ÓC",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên vừa chen chân lên được xe buýt là đầu Pen đã thấy mệt mỏi rã rời.",
+     "text": "VỪA ĐI ĐÃ MỆT",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chưa bước chân ra cửa phòng mà Pen đã tự vắt kiệt mấy hiệp vô bổ rồi.",
+     "text": "VẮT KIỆT SỨC LỰC",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để bớt những lựa chọn lắt nhắt ngay khi vừa mở mắt ra?",
+     "text": "BỚT LỰA CHỌN?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn sẵn quần áo và đồ ăn sáng từ tối nay để sáng mai Pen cứ thế làm.",
+     "text": "CHỌN TỪ TỐI NAY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Treo sẵn một bộ đồ giúp biến mấy phút đắn đo thành một cái với tay nhẹ tênh.",
+     "text": "VỚI TAY LÀ XONG",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là giữ được sức đi đường, nhưng cách sắp xếp căn phòng cũng rất quan trọng.",
+     "text": "SẮP XẾP LẠI PHÒNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách sắp xếp trong phòng tạo ra lực cản vô hình như thế nào vào buổi sáng?",
+     "text": "LỰC CẢN VÔ HÌNH?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Choice Architecture",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Tiếp theo là thiết kế không gian, sắp đặt đồ đạc để mọi hành động diễn ra mượt nhất.",
+     "text": "2. THIẾT KẾ KHÔNG GIAN",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Góc bếp phòng trọ chật chội, đồ đạc chất đống làm nấu gói mì cũng thấy ngại.",
+     "text": "BẾP NHƯ MÊ CUNG",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỗ ở bừa bộn khiến đầu óc ngái ngủ của Pen phải tốn công tìm cái bát sạch.",
+     "text": "TỐN CÔNG TÌM KIẾM",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu cái ly uống nước bị vùi dưới đống nồi chưa rửa, Pen sẽ nhịn đói đi luôn.",
+     "text": "NHỊN ĐÓI ĐI LÀM",
+     "color": "red",
+     "actor": "snack",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đầu óc lơ mơ luôn chọn đường dễ nhất, thấy cái gì tiện là vớ lấy cái đó.",
+     "text": "CHỌN ĐƯỜNG DỄ NHẤT",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không gian bừa bộn âm thầm phá hỏng thói quen trước khi Pen kịp bước ra cửa.",
+     "text": "ÂM THẦM PHÁ HOẠI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự vứt tạ chắn ngay lối đi thì bảo sao chẳng vấp hả Pen.",
+     "text": "TỰ BẪY BẢN THÂN",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tối nay Pen nên bày mặt bàn thế nào để sáng mai mọi thứ tự chạy êm ru?",
+     "text": "BÀY BÀN THẾ NÀO?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để sẵn cái cốc và cái bát sạch ngay trên bàn trước khi leo lên giường ngủ.",
+     "text": "ĐẶT SẴN TRÊN BÀN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sáng ra bước vào bếp là thấy ngay, khỏi cần lục tung từng ngăn tủ.",
+     "text": "KHỎI LỤC TỦ BẾP",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài, và vài cú huých quanh phòng sẽ làm thói quen này càng dễ thực hiện.",
+     "text": "CÚ HUÍCH XUNG QUANH",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có cú huých nào giúp Pen không bị dính chặt vào điện thoại mỗi sáng không Buff?",
+     "text": "BẪY ĐIỆN THOẠI?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Nudge Theory",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Cú huých là xếp đặt môi trường để gợi ý hành động mà không cần gượng ép.",
+     "text": "3. CÚ HUÍCH MÔI TRƯỜNG",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bẫy lớn nhất của Pen là vừa tắt chuông báo thức xong đã tiện tay lướt mạng.",
+     "text": "TIỆN TAY LƯỚT MẠNG",
+     "color": "red",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Màn hình sáng cạnh gối là mồi nhử trực quan khiến Pen sa đà lướt mạng.",
+     "text": "LƯỚT TRONG VÔ ĐỊNH",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao Pen không thể dùng ý chí để mặc kệ thông báo rồi bước xuống giường?",
+     "text": "Ý CHÍ ĐÂU RỒI?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ý chí sáng sớm như nhóm cơ chưa làm nóng, còn não Pen lại rất thèm lướt tin.",
+     "text": "CƠ Ý CHÍ CHƯA NÓNG",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là mất toi bao nhiêu phút quý giá trong khi giờ đi làm đang đếm ngược.",
+     "text": "MẤT TOI THỜI GIAN",
+     "color": "red",
+     "actor": "panic",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen để một thói quen lười đè bẹp cả lịch đi làm sáng nay rồi đấy.",
+     "text": "VỠ LỊCH TRÌNH",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để đổi chiều cú huých, buộc bản thân phải bật dậy khỏi giường?",
+     "text": "ĐỔI CHIỀU CÚ HUÍCH?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tối nay cắm sạc điện thoại ở góc xa phòng ngủ, và để cốc nước lọc ngay bên cạnh.",
+     "text": "ĐỂ ĐIỆN THOẠI Ở XA",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách đó bắt Pen phải đứng dậy tắt chuông và uống ngay ngụm nước cho tỉnh táo.",
+     "text": "BẬT DẬY UỐNG NƯỚC",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chân chạm đất rồi, nhưng Pen vẫn cần một trí nhớ đáng tin cậy nữa.",
+     "text": "TRÍ NHỚ ĐÁNG TIN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao cứ đến lúc chuẩn bị bước chân ra cửa là đầu óc Pen lại hay quên đồ?",
+     "text": "HAY QUÊN TRƯỚC CỬA?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Prospective Memory",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Đó là trí nhớ tương lai, khả năng nhớ để thực hiện việc cần làm đúng lúc.",
+     "text": "4. TRÍ NHỚ TƯƠNG LAI",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Pen toàn quên thẻ quẹt thang máy, thẻ xe hoặc chìa khóa khi lao ra cửa.",
+     "text": "QUÊN THẺ VÀ CHÌA KHÓA",
+     "color": "red",
+     "actor": "panic",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xuống tới nơi mới nhận ra, lỡ chuyến xe rồi lại hộc tốc chạy ngược lên tìm.",
+     "text": "CHẠY NGƯỢC TÌM ĐỒ",
+     "color": "red",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao cứ mỗi lần vội là não Pen lại rơi rớt những món đồ quan trọng nhất?",
+     "text": "RƠI RỚT ĐỒ ĐẠC?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Áp lực thời gian làm quá tải bộ nhớ, xóa sạch danh sách đồ đạc trong đầu Pen.",
+     "text": "QUÁ TẢI BỘ NHỚ",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đầu óc Pen quên thẻ vì mải lo cảnh kẹt xe cứng ngắc ngoài ngã tư.",
+     "text": "MẢI LO CHUYẾN XE",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não Pen sập nguồn vì bắt nó gánh hiệp tạ lo lắng quá sức đấy.",
+     "text": "GÁNH TẠ QUÁ SỨC",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có cách nào giảm tải cho bộ nhớ mà không cần dán giấy ghi chú khắp cửa không?",
+     "text": "GIẢM TẢI BỘ NHỚ?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Treo hộp cơm trưa ngay trên tay nắm cửa và móc luôn chùm chìa khóa vào quai túi.",
+     "text": "MÓC KHÓA VÀO TÚI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như vậy muốn vặn khóa mở cửa là bắt buộc phải cầm cả chìa lẫn đồ ăn đi.",
+     "text": "KHỎI LO BỎ QUÊN",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khóa chặt bằng vật lý thì không trượt được, nhưng Pen vẫn cần điểm kích hoạt hành động.",
+     "text": "ĐIỂM KÍCH HOẠT",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Điểm kích hoạt giúp Pen không lơ đễnh khi giờ đi làm đang đến gần như thế nào?",
+     "text": "TRÁNH LƠ ĐỄNH?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Action Planning",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Tiếp theo là lập kế hoạch hành động, biến dự định mơ hồ thành kích hoạt cụ thể.",
+     "text": "5. KẾ HOẠCH HÀNH ĐỘNG",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hôm nào Pen cũng tự nhủ sẽ đi sớm một chút để tránh cảnh kẹt xe.",
+     "text": "TỰ HỨA ĐI SỚM",
+     "color": "ink",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rồi sáng hôm sau lại đứng ngơ ngác trước tủ lạnh mất mấy phút tìm đồ ăn.",
+     "text": "ĐỨNG TÌM ĐỒ ĂN",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao quyết tâm tốt đẹp lại tan biến ngay khi buổi sáng vừa bắt đầu?",
+     "text": "QUYẾT TÂM TAN BIẾN?",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dự định mơ hồ khiến đầu óc phải đắn đo, mà não ngái ngủ thì chỉ muốn trì hoãn.",
+     "text": "NÃO THÍCH TRÌ HOÃN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là Pen cứ nán lại bấm điện thoại trong lúc chờ mua ly cà phê.",
+     "text": "NÁN LẠI CHỜ CÀ PHÊ",
+     "color": "red",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập thế là hỏng rồi, phải khóa chặt mục tiêu bằng phản xạ nếu thì.",
+     "text": "NGUYÊN TẮC NẾU THÌ",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Quy tắc nếu thì giúp đầu óc Pen dẹp bỏ dây dưa như thế nào hả Buff?",
+     "text": "DẸP BỎ DÂY DƯA?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ tự nhủ, hễ đánh răng tối xong, thì nhét ngay máy tính vào ba lô.",
+     "text": "GẮN VÀO VIỆC CÓ SẴN",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Gắn việc soạn đồ vào cữ đánh răng giúp dẹp hẳn cảnh cuống cuồng trước giờ đi.",
+     "text": "DẸP NỖI CUỐNG CUỒNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kế hoạch rõ ràng luôn ăn điểm, nhưng Pen vẫn cần dấu hiệu thị giác đập vào mắt.",
+     "text": "DẤU HIỆU THỊ GIÁC",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dấu hiệu thị giác nào giúp não bộ còn ngái ngủ không bị quên trước quên sau?",
+     "text": "KHỎI QUÊN TRƯỚC SAU?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Cue Utilization",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Đó là tận dụng tín hiệu thị giác, dùng vật dễ thấy để kích hoạt thói quen tự động.",
+     "text": "6. TÍN HIỆU THỊ GIÁC",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhiều hôm Pen vừa bước xuống giường là đầu óc trống rỗng, không nhớ phải làm gì.",
+     "text": "ĐẦU ÓC TRỐNG RỖNG",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không có tín hiệu chỉ dẫn rõ ràng, đầu óc Pen cứ thế đi lòng vòng quanh phòng.",
+     "text": "ĐI LÒNG VÒNG",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đầu óc buổi sáng thật sự cần những biển chỉ dẫn thực tế để đi làm đúng giờ sao?",
+     "text": "CẦN BIỂN CHỈ DẪN?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bộ luôn dựa vào vật nhìn thấy trước mắt để tự động bật các thói quen liên tiếp.",
+     "text": "THỊ GIÁC DẪN ĐƯỜNG",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không có gợi ý rõ ràng, Pen tốn thời gian đứng ngơ ngác tự hỏi đã cầm thẻ xe chưa.",
+     "text": "MẤT CÔNG TÌM KIẾM",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Như nâng tạ nặng trong tối mà không có ai đỡ, sớm muộn gì cũng sập.",
+     "text": "NÂNG TẠ TRONG TỐI",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Loại tín hiệu thị giác nào giúp Pen không bị xao nhãng khỏi nhịp buổi sáng?",
+     "text": "TÍN HIỆU NÀO ĐÂY?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đặt ngay chiếc thẻ xe hoặc thẻ nhân viên lên thẳng màn hình điện thoại từ tối.",
+     "text": "ĐẶT THẺ LÊN MÀN HÌNH",
+     "color": "green",
+     "actor": "writing",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy ngay chiếc thẻ nằm trên điện thoại là chắc chắn Pen sẽ nhét vào túi trước khi đi.",
+     "text": "KHÔNG THỂ BỎ QUÊN",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tín hiệu thị giác giúp đi đúng hướng, nhưng Pen vẫn phải dọn sạch các điểm nghẽn vật lý.",
+     "text": "DỌN SẠCH ĐIỂM NGHẼN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao những ma sát lặt vặt lại gây trễ nải lớn như vậy giữa buổi sáng vội vã?",
+     "text": "MA SÁT GÂY TRỄ?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Friction Costs",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Đó là chi phí ma sát, các rào cản vụn vặt khiến hành động đơn giản bỗng gây bực mình.",
+     "text": "7. CHI PHÍ MA SÁT",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dây sạc bị rối nùi trong ba lô làm việc cất máy tính bỗng thấy bực bội kinh khủng.",
+     "text": "DÂY SẠC RỐI NÙI",
+     "color": "red",
+     "actor": "panic",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mất ba mươi giây gỡ rối là đốt sạch kiên nhẫn trước khi Pen kịp bước vào thang máy.",
+     "text": "ĐỐT CẠN KIÊN NHẪN",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao mấy cái vướng víu nhỏ xíu lại hóa thành ngọn núi to đùng khi Pen đang vội?",
+     "text": "VƯỚNG VÍU NHỎ XÍU?",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lực cản nhỏ tạo độ ì lớn, mỗi sợi dây rối là một hiệp tạ làm Pen hụt hơi.",
+     "text": "LỰC CẢN LÀM HỤT HƠI",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi vướng víu biến thành cục tức trong người trước khi kịp chen vào dòng xe kẹt.",
+     "text": "BỰC DỌC KHI ĐI ĐƯỜNG",
+     "color": "red",
+     "actor": "wallet_worry"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sáng sớm chưa tỉnh táo, nên vướng một tí là Pen quạu cọ bốc hỏa ngay.",
+     "text": "DỄ CÁU BỐC HỎA",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để triệt tiêu những điểm nghẽn bực mình này trước khi đặt lưng xuống ngủ?",
+     "text": "XÓA ĐIỂM NGHẼN?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cuộn gọn dây sạc nhét sẵn vào cặp, rồi quay mũi giày hướng thẳng ra cửa.",
+     "text": "XOAY MŨI GIÀY RA CỬA",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dọn sẵn như thế thì sáng mai chỉ mất một loáng là xách đồ đi xuống lấy xe.",
+     "text": "XÁCH ĐỒ LÀ ĐI",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gạt bỏ lực cản xong rồi, giờ Pen có thể kích hoạt sức mạnh thực sự của đà hành vi.",
+     "text": "TẠO ĐÀ HÀNH VI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tạo đà sớm giúp cảm giác vội vã không ám ảnh cả ngày làm việc như thế nào?",
+     "text": "KHỎI BỊ ÁM ẢNH?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Behavioral Momentum",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Cuối cùng là đà hành vi, tận dụng chiến thắng nhỏ đầu ngày để tạo lực đẩy đi tiếp.",
+     "text": "8. TẠO ĐÀ HÀNH VI",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hôm nào mở mắt dậy mà vội vàng cuống cuồng là y như rằng bồn chồn cả ngày.",
+     "text": "BỒN CHỒN CẢ NGÀY",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khởi đầu hoảng loạn tạo đà hỗn loạn, còn thắng hiệp đầu êm đẹp sẽ giúp Pen vững vàng.",
+     "text": "VỮNG VÀNG SUỐT BUỔI",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao chỉ cần hoàn thành một việc nhỏ buổi sáng lại giúp việc đi làm dễ thở hơn?",
+     "text": "ĐI LÀM DỄ THỞ HƠN?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xong một việc nhỏ xíu giúp bẻ gãy cơn ngái ngủ và hạ thấp rào cản tâm lý.",
+     "text": "BẺ GÃY CƠN NGÁI NGỦ",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên có một chiến thắng chớp nhoáng sẽ tạo tâm thế vững vàng cho cả buổi sáng đi làm.",
+     "text": "TẠO TÂM THẾ VỮNG",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài, đó chính là hiệp khởi động trước khi Pen lao vào dòng người đông đúc.",
+     "text": "HIỆP KHỞI ĐỘNG ĐẦU",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu vẫn thấy ngái ngủ và uể oải, việc nhỏ nào tốt nhất để Pen làm đầu tiên?",
+     "text": "VIỆC NHỎ NÀO ĐẦU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gấp gọn chăn gối ngay khi vừa chạm chân xuống sàn, xem như thắng trọn hiệp đầu tiên.",
+     "text": "GẤP GỌN CHĂN GỐI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thắng ngay từ phút đầu giúp việc bước chân ra cửa trở nên bình tĩnh và tự tin hơn.",
+     "text": "THẮNG TỪ PHÚT ĐẦU",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp đầu mượt mà sẽ tạo nhịp độ chuẩn chỉ cho cả chặng đường đi làm lẫn công việc.",
+     "text": "TẠO NHỊP ĐỘ CHUẨN",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giờ hãy cùng gom tám thói quen này thành một kế hoạch gọn gàng để áp dụng ngay tối nay.",
+     "text": "KẾ HOẠCH HÔM NAY",
+     "color": "gold",
+     "actor": "think",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Summary and Challenge",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Cùng gom tám thói quen này thành ba nguyên tắc rõ ràng mà bạn có thể tập hôm nay.",
+     "text": "BA NGUYÊN TẮC VÀNG",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thứ nhất, giải quyết mọi lựa chọn từ tối hôm trước để não không bị hao mòn.",
+     "text": "CHỌN TỪ TỐI NAY",
+     "color": "gold",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thứ hai, tối ưu không gian bằng tín hiệu thị giác và lối đi thoáng để dẹp sạch ma sát.",
+     "text": "DẸP SẠCH MA SÁT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thứ ba, tạo đà tâm lý từ sớm bằng những chiến thắng nhỏ xíu ngay khi vừa mở mắt.",
+     "text": "TẠO ĐÀ CHIẾN THẮNG",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày cho bạn, chỉ cần chuyển hai việc chuẩn bị sang tối hôm trước.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Soạn sẵn ba lô đi làm và treo sẵn quần áo ngày mai trước khi ngả lưng xuống giường.",
+     "text": "SOẠN BA LÔ QUẦN ÁO",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mỗi tối soạn xong ba lô cứ tự chấm một điểm, rồi xem buổi sáng êm ru thế nào.",
+     "text": "ĐÁNH DẤU MỖI NGÀY",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đăng ký kênh Lý Thuyết Chân Que nếu bạn muốn rèn luyện thói quen bằng tâm lý học thực tế.",
+     "text": "THEO DÕI KÊNH NHÉ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

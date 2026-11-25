@@ -1,0 +1,88 @@
+{
+ "title": "Trabajadores petroleros comparten camarote con un desconocido",
+ "hook": "¿TU COMPAÑERO?",
+ "asof": "Datos de 2026",
+ "world": "rig",
+ "long": "IX004",
+ "chapters": [
+  {
+   "id": "cabin",
+   "hud": "DÍA 1",
+   "chip": "19:00",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "En una plataforma del mar del Norte, podrías compartir camarote con alguien que casi no ves."
+    },
+    {
+     "v": "cabin",
+     "s": "Dos literas, un escritorio y casilleros."
+    },
+    {
+     "v": "shower",
+     "s": "Un baño compartido con el camarote de al lado."
+    },
+    {
+     "v": "cabin2",
+     "plane": "night",
+     "s": "Tú trabajas de día. Tu compañero, de noche."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Así que casi siempre uno está trabajando."
+    },
+    {
+     "v": "drill",
+     "you": "drill",
+     "s": "Doce horas trabajando."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Doce horas libres."
+    },
+    {
+     "v": "office",
+     "st": [
+      "ON82",
+      "Guía de HSE, mayo de 2026"
+     ],
+     "s": "El regulador británico actualizó sus normas en mayo de 2026."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "9 m²",
+      "small": "mínimo para dos personas · HSE, 2026"
+     },
+     "s": "¿Menos de nueve metros cuadrados? Normalmente, es demasiado pequeño para dos."
+    },
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "Nunca puede haber más de dos personas a la vez."
+    },
+    {
+     "v": "rig",
+     "s": "En Noruega, Ekofisk fue más allá."
+    },
+    {
+     "v": "cabin",
+     "st": [
+      "2008",
+      "Ekofisk: camarotes individuales"
+     ],
+     "s": "Desde 2008, todos los camarotes allí son individuales."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "¿Podrías compartir una habitación durante dos semanas?"
+    }
+   ]
+  }
+ ]
+}

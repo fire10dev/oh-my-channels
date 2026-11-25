@@ -40,3 +40,10 @@ Thay bible v1 (20% trào phúng / 80% rợn, khắc gỗ tối) — user loại 
 - Nhận: MC có tật xấu + nói thẳng với người xem; tập 2 thêm máy chấm công in tên + 3 tiếng mỏ, câu kết mới: **"Tháng này trừ chuyên cần của nó — đi viếng đám ma chính mình quá giờ."**
 - Không nhận: đổi nồi cơm điện (giữ — hình đặc trưng cho thumbnail); ma giấu giữ luôn đứa trẻ (thành chuyện trẻ bị bắt, ngược luật "không hại trẻ"); đổi kết ma da/ma xó (bản agy không buồn cười hơn).
 - Prompt: áp các sửa văn hóa (bàn thờ Bắc Bộ, áo cán bộ 80s thay mỏ quạ kiểu bác sĩ dịch hạch, hũ sành nâu, ma da áo ba lỗ khăn rằn, chăn không có ai thay "chăn phẳng chỗ cổ").
+
+## 7. Định hướng chốt của user (2026-11-18 15:28 +07) — ưu tiên cao hơn mọi mục trên
+- Kinh dị **trào phúng**. **Không hù ma** (không jump scare, không hình ám).
+- Gây sợ bằng **tò mò** (muốn biết chuyện gì xảy ra), không gây ác cảm. Hình ảnh hiện tại (cute-creepy, §5) tạm ổn.
+- **1 dự án = 1 long + 7 shorts liên quan.** Lịch: **1 long/tuần, 1 short/ngày.**
+- Mọi video phải có **hook dẫn dụ** ở đầu và **gợi ý tập tiếp / kêu subscribe** ở cuối.
+- Nghiên cứu kỹ thuật/phong cách/kịch bản: `/Users/nino/Projects/MEGABRAIN/FIRE10/document/ai-video/research/ma-no-ke-ky-thuat-hoat-hinh-2026-11-18.md`.

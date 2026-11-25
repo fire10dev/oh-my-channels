@@ -1,0 +1,348 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 35.102,
+"shots": [
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 3.16,
+"a": [
+1760,
+420,
+460
+],
+"b": [
+1760,
+400,
+340
+],
+"flash": 1
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 3.16,
+"t1": 8.557,
+"a": [
+928,
+576,
+648
+],
+"b": [
+928,
+500,
+460
+]
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 8.557,
+"t1": 12.462,
+"a": [
+1760,
+500,
+460
+],
+"b": [
+1760,
+420,
+340
+]
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 12.462,
+"t1": 16.321,
+"a": [
+928,
+520,
+460
+],
+"b": [
+928,
+480,
+340
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.321,
+"t1": 21.16,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1264,
+560,
+460
+],
+"blur": 10,
+"dark": 0.35
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 21.16,
+"t1": 27.115,
+"a": [
+893,
+743,
+460
+],
+"b": [
+893,
+720,
+340
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 27.115,
+"t1": 30.222,
+"a": [
+1560,
+330,
+340
+],
+"b": [
+1560,
+302,
+340
+]
+},
+{
+"img": "p03/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 30.222,
+"t1": 34.702,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 30.222,
+"t1": 34.702,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 3.16,
+"text": "30 FEET… ?",
+"color": "#ffd84a"
+},
+{
+"t0": 3.263,
+"t1": 5.219,
+"text": "INSPECTION 1",
+"color": "#ffffff"
+},
+{
+"t0": 8.706,
+"t1": 10.811,
+"text": "INSPECTION 2",
+"color": "#ffffff"
+},
+{
+"t0": 10.96,
+"t1": 14.192,
+"text": "30 ft… ?",
+"color": "#ffd84a"
+},
+{
+"t0": 14.568,
+"t1": 16.321,
+"text": "2:00 AM",
+"color": "#ffd84a"
+},
+{
+"t0": 17.652,
+"t1": 21.16,
+"text": "★☆☆☆☆ ONE-STAR REVIEW",
+"color": "#ffd84a"
+},
+{
+"t0": 21.16,
+"t1": 24.037,
+"text": "MA XO",
+"color": "#ffd84a"
+},
+{
+"t0": 28.439,
+"t1": 30.222,
+"text": "JUST COUNTING",
+"color": "#ff5a4a"
+},
+{
+"t0": 30.222,
+"t1": 32.19,
+"text": "COUNTING WHAT?",
+"color": "#ffd84a"
+},
+{
+"t0": 32.19,
+"t1": 34.702,
+"text": "▼ FULL EPISODE: LINK BELOW",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.286,
+"src": "p03/sfx/thuoc.wav",
+"vol": 0.8
+},
+{
+"t": 5.322,
+"src": "p03/sfx/khoa.wav",
+"vol": 0.9
+},
+{
+"t": 10.811,
+"src": "p03/sfx/thuoc.wav",
+"vol": 0.8
+},
+{
+"t": 14.417,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 17.874,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 30.222,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 33.437,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 2.86,
+"text": "Thirty-foot house. The tape never hit the back wall."
+},
+{
+"t": 3.16,
+"dur": 5.146,
+"text": "First inspection: the door locked itself. The surveyor spent two hours in the bathroom."
+},
+{
+"t": 8.557,
+"dur": 7.514,
+"text": "Second inspection: the house was thirty feet deep, but the surveyor couldn't reach the back wall. He checked the time. Two a.m."
+},
+{
+"t": 16.321,
+"dur": 4.44,
+"text": "A Western guest left a one-star review: “A kid counted money all night.”"
+},
+{
+"t": 21.16,
+"dur": 5.755,
+"text": "I'm this home's ma xo — a kitchen-corner ghost. I've lived by the stove since great-great-grandpa's time."
+},
+{
+"t": 27.115,
+"dur": 2.207,
+"text": "I'm not scaring anyone. I'm just counting."
+},
+{
+"t": 30.222,
+"dur": 3.281,
+"text": "Counting all night. Counting what? Full story on the channel."
+}
+],
+"comments": [
+{
+"t": 17.874,
+"u": "@jess.k",
+"c": "kid counted money all night",
+"end": 21.16
+}
+],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/en/vo/0ad8f42d53.wav"
+},
+{
+"t": 3.16,
+"src": "loc/en/vo/68846b54c8.wav"
+},
+{
+"t": 8.557,
+"src": "loc/en/vo/34340f8cb6.wav"
+},
+{
+"t": 16.321,
+"src": "loc/en/vo/bc49305e3c.wav"
+},
+{
+"t": 21.16,
+"src": "loc/en/vo/ac8fba79be.wav"
+},
+{
+"t": 27.115,
+"src": "loc/en/vo/29ad667670.wav"
+},
+{
+"t": 30.222,
+"src": "loc/en/vo/ab0c42df19.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

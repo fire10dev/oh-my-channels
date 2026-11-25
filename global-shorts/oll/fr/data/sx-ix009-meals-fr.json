@@ -1,0 +1,78 @@
+{
+ "title": "Comment un porte-avions sert 15 000 repas par jour",
+ "hook": "15 000 REPAS PAR JOUR",
+ "asof": "Chiffres tirés de rapports de l’US Navy, 2006–2025",
+ "world": "carrier",
+ "long": "IX009",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "JOUR 3",
+   "chip": "12:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Cette cuisine sert plus de 15 000 repas par jour.",
+     "v": "galley"
+    },
+    {
+     "s": "Elle est à bord de l’USS Ronald Reagan, un porte-avions.",
+     "v": "wide"
+    },
+    {
+     "s": "La cuisine ne ferme jamais. Le navire tourne 24 heures sur 24.",
+     "v": "clock"
+    },
+    {
+     "s": "Chaque mois : environ 5 300 litres de lait,",
+     "v": "storeroom",
+     "st": [
+      "5 300 L",
+      "lait par mois · 2020"
+     ]
+    },
+    {
+     "s": "3 200 kilos de laitue,",
+     "v": "storeroom"
+    },
+    {
+     "s": "et plus de 13 600 kilos de poulet.",
+     "v": "storeroom",
+     "st": [
+      "13 600 KG",
+      "poulet par mois"
+     ]
+    },
+    {
+     "s": "Les marins de quart ratent les repas : les cuisiniers préparent des plateaux à emporter.",
+     "v": "galley",
+     "you": "mess"
+    },
+    {
+     "s": "Avant le départ de l’USS Carl Vinson, 18 semi-remorques ont rempli ses congélateurs.",
+     "v": "truck",
+     "plane": "trucks"
+    },
+    {
+     "s": "En mer, des navires ravitailleurs viennent se mettre à couple.",
+     "v": "ras",
+     "plane": "ras"
+    },
+    {
+     "s": "Puis tout le monde descend les caisses, même les premiers maîtres.",
+     "v": "storeroom",
+     "you": "storeroom"
+    },
+    {
+     "s": "Et les cuisiniers recommencent.",
+     "v": "mess",
+     "you": "mess"
+    },
+    {
+     "s": "Tu pourrais cuisiner pour 5 000 personnes ?",
+     "v": "galley"
+    }
+   ]
+  }
+ ]
+}

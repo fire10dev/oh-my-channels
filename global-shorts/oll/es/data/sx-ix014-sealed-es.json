@@ -1,0 +1,66 @@
+{
+ "title": "Cuando NORAD encerró a sus equipos en la montaña Cheyenne",
+ "hook": "ATRAPADOS EN LA MONTAÑA",
+ "asof": "Cifras de artículos de la Fuerza Aérea y la Fuerza Espacial de EE. UU.",
+ "world": "mountain",
+ "long": "IX014",
+ "chapters": [
+  {
+   "id": "covid",
+   "hud": "DÍA 30",
+   "chip": "MAR 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "En 2020, los equipos quedaron encerrados en una montaña.",
+     "v": "tunnel",
+     "you": "tunnel"
+    },
+    {
+     "s": "Esta es Cheyenne Mountain, el búnker nuclear de NORAD en Colorado.",
+     "v": "mountain"
+    },
+    {
+     "s": "Normalmente, nadie duerme aquí. Los equipos vuelven a casa al terminar su turno.",
+     "v": "gate"
+    },
+    {
+     "s": "Pero llegó la COVID y NORAD y el Comando Norte metieron aquí a equipos clave.",
+     "v": "tunnel",
+     "you": "tunnel"
+    },
+    {
+     "s": "Primero se aislaron y se hicieron pruebas.",
+     "v": "clinic"
+    },
+    {
+     "s": "Luego trabajaron aquí durante semanas.",
+     "v": "command",
+     "you": "command"
+    },
+    {
+     "s": "Unas ciento treinta personas hicieron guardias de doce horas.",
+     "v": "command",
+     "st": [
+      "~130",
+      "de guardia"
+     ]
+    },
+    {
+     "s": "Tras puertas blindadas de casi 23 toneladas.",
+     "v": "door",
+     "plane": "door:shut"
+    },
+    {
+     "s": "Bajo unos 550 metros de granito.",
+     "v": "mountain"
+    },
+    {
+     "s": "¿Podrías trabajar todo un turno sin ver el sol?",
+     "v": "tunnel",
+     "you": "tunnel"
+    }
+   ]
+  }
+ ]
+}

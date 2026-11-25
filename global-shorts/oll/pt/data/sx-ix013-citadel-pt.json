@@ -1,0 +1,68 @@
+{
+ "title": "O Refúgio Secreto Quando Piratas Invadem o Navio",
+ "hook": "TRANQUE O REFÚGIO",
+ "asof": "Regras da MLC 2006 · dados até 2025",
+ "world": "boxship",
+ "long": "IX013",
+ "chapters": [
+  {
+   "id": "pirates",
+   "hud": "DIA 75",
+   "chip": "03:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Se piratas invadirem o navio, a tripulação tem um lugar pra ir.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Ela se chama cidadela.",
+     "v": "citadel"
+    },
+    {
+     "s": "Um abrigo trancado, bem no interior do navio.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "As diretrizes recomendam comida e água para pelo menos três dias.",
+     "v": "citadel",
+     "st": [
+      "3 DIAS",
+      "comida e água"
+     ]
+    },
+    {
+     "s": "Em novembro de 2025, piratas abordaram um petroleiro perto da Somália.",
+     "v": "sea",
+     "plane": "skiff"
+    },
+    {
+     "s": "Os 24 tripulantes se trancaram lá dentro.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Os piratas não conseguiram chegar até eles.",
+     "v": "sea",
+     "plane": "skiff"
+    },
+    {
+     "s": "Eles desistiram e foram embora.",
+     "v": "sea"
+    },
+    {
+     "s": "Todos ficaram a salvo.",
+     "v": "citadel",
+     "you": "citadel"
+    },
+    {
+     "s": "Você esperaria o perigo passar lá dentro?",
+     "v": "citadel",
+     "you": "citadel"
+    }
+   ]
+  }
+ ]
+}

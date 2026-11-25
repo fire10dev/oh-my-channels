@@ -1,0 +1,160 @@
+{
+ "id": "w019es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#14b8a6",
+ "cover_frame": 60,
+ "source": "Superficie: Encyclopaedia Britannica · Convención sobre el estatus del mar Caspio (2018)",
+ "music": "shared/library/music/yt-audio-library/AETHER - Density & Time.mp3",
+ "beats": [
+  {
+   "say": "El lago más grande del mundo se llama mar.",
+   "title": "ESTE 'MAR' EN REALIDAD ES UN LAGO",
+   "cam": {
+    "lon": 51,
+    "lat": 42,
+    "span": 20
+   },
+   "pins": [
+    {
+     "lon": 50.5,
+     "lat": 42,
+     "text": "Mar Caspio"
+    }
+   ]
+  },
+  {
+   "say": "El mar Caspio no tiene conexión con ningún océano. El agua solo sale evaporándose.",
+   "cam": {
+    "lon": 51,
+    "lat": 42,
+    "span": 20
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#334155"
+    },
+    {
+     "a3": "KAZ",
+     "color": "#334155"
+    },
+    {
+     "a3": "TKM",
+     "color": "#334155"
+    },
+    {
+     "a3": "IRN",
+     "color": "#334155"
+    },
+    {
+     "a3": "AZE",
+     "color": "#334155"
+    }
+   ]
+  },
+  {
+   "say": "Mide unos trescientos setenta y un mil kilómetros cuadrados. Es más grande que Alemania.",
+   "cam": {
+    "lon": 51,
+    "lat": 42,
+    "span": 20
+   },
+   "bars": {
+    "unit": " km²",
+    "items": [
+     {
+      "label": "Mar Caspio",
+      "value": 371000,
+      "color": "#14b8a6"
+     },
+     {
+      "label": "Alemania",
+      "value": 357600,
+      "color": "#ffd23f"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Cinco países comparten su costa: Rusia, Kazajistán, Turkmenistán, Irán y Azerbaiyán.",
+   "cam": {
+    "lon": 51,
+    "lat": 42,
+    "span": 22
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7",
+     "label": "Rusia"
+    },
+    {
+     "a3": "KAZ",
+     "color": "#0ea5e9",
+     "label": "Kazajistán"
+    },
+    {
+     "a3": "TKM",
+     "color": "#22c55e",
+     "label": "Turkmenistán"
+    },
+    {
+     "a3": "IRN",
+     "color": "#f97316",
+     "label": "Irán"
+    },
+    {
+     "a3": "AZE",
+     "color": "#ef4444",
+     "label": "Azerbaiyán"
+    }
+   ]
+  },
+  {
+   "say": "Que sea mar o lago sí importa. Debajo hay enormes yacimientos de petróleo y gas, y la etiqueta decide quién se queda con qué.",
+   "cam": {
+    "lon": 51,
+    "lat": 41,
+    "span": 16
+   },
+   "pins": [
+    {
+     "lon": 49.87,
+     "lat": 40.41,
+     "text": "Bakú"
+    }
+   ]
+  },
+  {
+   "say": "En dos mil dieciocho, los cinco países firmaron un acuerdo que le da un estatus especial. Oficialmente, no es ninguno de los dos.",
+   "cam": {
+    "lon": 51,
+    "lat": 42,
+    "span": 20
+   },
+   "big": {
+    "value": "2018",
+    "label": "ni mar ni lago"
+   }
+  },
+  {
+   "say": "Un lago demasiado grande para ser lago. Sígueme para más.",
+   "title": "DEMASIADO GRANDE PARA SER LAGO",
+   "cam": {
+    "lon": 51,
+    "lat": 42,
+    "span": 20
+   },
+   "pins": [
+    {
+     "lon": 50.5,
+     "lat": 42,
+     "text": "Mar Caspio"
+    }
+   ]
+  }
+ ]
+}

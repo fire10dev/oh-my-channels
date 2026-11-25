@@ -1,0 +1,348 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 38.089,
+"shots": [
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 3.797,
+"a": [
+1760,
+420,
+460
+],
+"b": [
+1760,
+400,
+340
+],
+"flash": 1
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 3.797,
+"t1": 9.082,
+"a": [
+928,
+576,
+648
+],
+"b": [
+928,
+500,
+460
+]
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 9.082,
+"t1": 13.26,
+"a": [
+1760,
+500,
+460
+],
+"b": [
+1760,
+420,
+340
+]
+},
+{
+"img": "p03/img/X04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.26,
+"t1": 17.372,
+"a": [
+928,
+520,
+460
+],
+"b": [
+928,
+480,
+340
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.372,
+"t1": 23.068,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1264,
+560,
+460
+],
+"blur": 10,
+"dark": 0.35
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.068,
+"t1": 29.91,
+"a": [
+893,
+743,
+460
+],
+"b": [
+893,
+720,
+340
+]
+},
+{
+"img": "p03/img/X10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 29.91,
+"t1": 32.623,
+"a": [
+1560,
+330,
+340
+],
+"b": [
+1560,
+302,
+340
+]
+},
+{
+"img": "p03/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 32.623,
+"t1": 37.689,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 32.623,
+"t1": 37.689,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 3.797,
+"text": "¿10 METROS…?",
+"color": "#ffd84a"
+},
+{
+"t0": 3.898,
+"t1": 5.812,
+"text": "INSPECCIÓN 1",
+"color": "#ffffff"
+},
+{
+"t0": 9.242,
+"t1": 11.493,
+"text": "INSPECCIÓN 2",
+"color": "#ffffff"
+},
+{
+"t0": 11.653,
+"t1": 15.111,
+"text": "10 m… ?",
+"color": "#ffd84a"
+},
+{
+"t0": 15.513,
+"t1": 17.372,
+"text": "2:00 A. M.",
+"color": "#ffd84a"
+},
+{
+"t0": 18.96,
+"t1": 23.068,
+"text": "★☆☆☆☆ UNA ESTRELLA",
+"color": "#ffd84a"
+},
+{
+"t0": 23.068,
+"t1": 26.389,
+"text": "MA XO",
+"color": "#ffd84a"
+},
+{
+"t0": 30.998,
+"t1": 32.623,
+"text": "SOLO CUENTA",
+"color": "#ff5a4a"
+},
+{
+"t0": 32.623,
+"t1": 34.942,
+"text": "¿QUÉ CONTABA?",
+"color": "#ffd84a"
+},
+{
+"t0": 34.942,
+"t1": 37.689,
+"text": "▼ EPISODIO COMPLETO: ENLACE ABAJO",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.349,
+"src": "p03/sfx/thuoc.wav",
+"vol": 0.8
+},
+{
+"t": 5.912,
+"src": "p03/sfx/khoa.wav",
+"vol": 0.9
+},
+{
+"t": 11.493,
+"src": "p03/sfx/thuoc.wav",
+"vol": 0.8
+},
+{
+"t": 15.352,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 19.226,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 32.623,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 36.412,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 3.498,
+"text": "Casa de diez metros. La cinta no llegaba a la pared del fondo."
+},
+{
+"t": 3.797,
+"dur": 5.033,
+"text": "Primera inspección: la puerta se cerró sola. El topógrafo pasó dos horas en el baño."
+},
+{
+"t": 9.082,
+"dur": 8.04,
+"text": "Segunda inspección: la casa medía diez metros de fondo, pero el topógrafo no alcanzaba la pared del fondo. Miró la hora. Las dos de la madrugada."
+},
+{
+"t": 17.372,
+"dur": 5.297,
+"text": "Un huésped extranjero dejó una reseña de una estrella: «Un niño contó dinero toda la noche»."
+},
+{
+"t": 23.068,
+"dur": 6.641,
+"text": "Soy el ma xo de esta casa: un fantasma del rincón de la cocina. Vivo junto a la estufa desde los tiempos del tatarabuelo."
+},
+{
+"t": 29.91,
+"dur": 1.813,
+"text": "No asusto a nadie. Solo cuento."
+},
+{
+"t": 32.623,
+"dur": 3.867,
+"text": "Contó toda la noche. ¿Pero qué contaba? Historia completa en el canal."
+}
+],
+"comments": [
+{
+"t": 19.226,
+"u": "@jess.k",
+"c": "niño contó dinero toda la noche",
+"end": 23.068
+}
+],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/es/vo/a9680747e7.wav"
+},
+{
+"t": 3.797,
+"src": "loc/es/vo/d5bb98c7ac.wav"
+},
+{
+"t": 9.082,
+"src": "loc/es/vo/ecce60668c.wav"
+},
+{
+"t": 17.372,
+"src": "loc/es/vo/55f99eab41.wav"
+},
+{
+"t": 23.068,
+"src": "loc/es/vo/e0009692b6.wav"
+},
+{
+"t": 29.91,
+"src": "loc/es/vo/3478250dcb.wav"
+},
+{
+"t": 32.623,
+"src": "loc/es/vo/48ee39024f.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

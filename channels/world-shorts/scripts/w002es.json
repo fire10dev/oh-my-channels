@@ -1,0 +1,194 @@
+{
+ "id": "w002es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#ff4d4d",
+ "cover_frame": 75,
+ "source": "Superficies: CIA World Factbook · Proyección de Mercator (1569)",
+ "music": "shared/library/music/yt-audio-library/Behold The Mystery - Asher Fulero.mp3",
+ "beats": [
+  {
+   "say": "Este mapa te ha mentido toda tu vida.",
+   "title": "ESTE MAPA TE HA MENTIDO",
+   "cam": {
+    "lon": 0,
+    "lat": 25,
+    "span": 300
+   },
+   "hl": [
+    {
+     "a3": "GRL",
+     "color": "#3b82f6"
+    },
+    {
+     "cont": "Africa",
+     "color": "#ff4d4d"
+    }
+   ]
+  },
+  {
+   "say": "En casi todos los mapas, Groenlandia parece tan grande como África.",
+   "cam": {
+    "lon": -10,
+    "lat": 38,
+    "span": 150
+   },
+   "hl": [
+    {
+     "a3": "GRL",
+     "color": "#3b82f6",
+     "label": "Groenlandia"
+    },
+    {
+     "cont": "Africa",
+     "color": "#ff4d4d"
+    }
+   ]
+  },
+  {
+   "say": "En realidad, África es catorce veces más grande.",
+   "cam": {
+    "lon": -10,
+    "lat": 38,
+    "span": 150
+   },
+   "hl": [
+    {
+     "a3": "GRL",
+     "color": "#3b82f6"
+    },
+    {
+     "cont": "Africa",
+     "color": "#ff4d4d"
+    }
+   ],
+   "big": {
+    "value": "14×",
+    "label": "África vs Groenlandia"
+   }
+  },
+  {
+   "say": "Arrastra Groenlandia hasta el ecuador y mira cómo se encoge a su tamaño real.",
+   "cam": {
+    "lon": 0,
+    "lat": 30,
+    "span": 130
+   },
+   "hl": [
+    {
+     "cont": "Africa",
+     "color": "#ff4d4d"
+    }
+   ],
+   "ghost": {
+    "a3": "GRL",
+    "to": [
+     20,
+     4
+    ],
+    "color": "#3b82f6"
+   }
+  },
+  {
+   "say": "África mide treinta millones cuatrocientos mil kilómetros cuadrados. Groenlandia, apenas dos millones doscientos mil.",
+   "cam": {
+    "lon": 15,
+    "lat": 5,
+    "span": 110
+   },
+   "hl": [
+    {
+     "cont": "Africa",
+     "color": "#ff4d4d"
+    }
+   ],
+   "bars": {
+    "unit": "M km²",
+    "items": [
+     {
+      "label": "África",
+      "value": 30.4,
+      "color": "#ff4d4d"
+     },
+     {
+      "label": "Groenlandia",
+      "value": 2.2,
+      "color": "#3b82f6"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Dentro de África caben Estados Unidos, China y la India juntos, y todavía sobra espacio.",
+   "cam": {
+    "lon": 15,
+    "lat": 5,
+    "span": 110
+   },
+   "hl": [
+    {
+     "cont": "Africa",
+     "color": "#ff4d4d"
+    }
+   ],
+   "bars": {
+    "unit": "M km²",
+    "items": [
+     {
+      "label": "África",
+      "value": 30.4,
+      "color": "#ff4d4d"
+     },
+     {
+      "label": "EE. UU. + China + India",
+      "value": 22.7,
+      "color": "#ffd23f"
+     }
+    ]
+   }
+  },
+  {
+   "say": "La culpa es de Gerardus Mercator. Su mapa de mil quinientos sesenta y nueve se hizo para marineros, y estira todo lo que está cerca de los polos.",
+   "cam": {
+    "lon": 0,
+    "lat": 45,
+    "span": 300
+   },
+   "hl": [
+    {
+     "a3": "GRL",
+     "color": "#3b82f6"
+    },
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    },
+    {
+     "a3": "CAN",
+     "color": "#22c55e"
+    }
+   ]
+  },
+  {
+   "say": "Sígueme para más mapas que te mienten.",
+   "title": "SÍGUEME PARA MÁS MENTIRAS DEL MAPA",
+   "cam": {
+    "lon": 0,
+    "lat": 25,
+    "span": 300
+   },
+   "hl": [
+    {
+     "cont": "Africa",
+     "color": "#ff4d4d"
+    },
+    {
+     "a3": "GRL",
+     "color": "#3b82f6"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,341 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 30.112,
+"shots": [
+{
+"img": "p01/img/S15.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 3.468,
+"a": [
+1600,
+780,
+460
+],
+"b": [
+1600,
+760,
+340
+],
+"flash": 1
+},
+{
+"img": "p01/img/S15.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 3.468,
+"t1": 7.235,
+"a": [
+1000,
+576,
+648
+],
+"b": [
+1000,
+520,
+460
+]
+},
+{
+"img": "p01/img/S17.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 7.235,
+"t1": 10.673,
+"a": [
+800,
+576,
+648
+],
+"b": [
+800,
+450,
+460
+]
+},
+{
+"img": "p01/img/S19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.673,
+"t1": 14.679,
+"a": [
+500,
+576,
+648
+],
+"b": [
+420,
+500,
+460
+]
+},
+{
+"img": "p01/img/S19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.679,
+"t1": 18.664,
+"a": [
+1550,
+576,
+648
+],
+"b": [
+1540,
+480,
+460
+]
+},
+{
+"img": "p01/img/S20.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 18.664,
+"t1": 22.193,
+"a": [
+1100,
+576,
+648
+],
+"b": [
+1400,
+420,
+460
+]
+},
+{
+"img": "p01/img/S18.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 22.193,
+"t1": 25.323,
+"a": [
+700,
+576,
+648
+],
+"b": [
+560,
+520,
+460
+],
+"dark": 0.1
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 25.323,
+"t1": 29.612,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p01/img/cut_B02.png",
+"size": 1344,
+"t0": 25.323,
+"t1": 29.612,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.15,
+"t1": 3.468,
+"text": "2:07 AM",
+"color": "#ffd84a"
+},
+{
+"t0": 5.227,
+"t1": 7.235,
+"text": "EIGHT HOURS OF HEALING",
+"color": "#ffffff"
+},
+{
+"t0": 16.479,
+"t1": 18.664,
+"text": "50% OFF",
+"color": "#ffd84a"
+},
+{
+"t0": 25.323,
+"t1": 29.612,
+"text": "WHAT FOUR SECONDS?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.786,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 1.633,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 2.458,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 9.147,
+"src": "sh6/sfx/snap.wav",
+"vol": 0.4
+},
+{
+"t": 21.534,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 25.323,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 28.546,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 2.118,
+"text": "At two oh seven, the comments blew up."
+},
+{
+"t": 3.468,
+"dur": 3.518,
+"text": "My son streamed while I slept. Eight hours of healing with Mom."
+},
+{
+"t": 7.235,
+"dur": 3.187,
+"text": "The next day, he added a light. Pointed right at the window."
+},
+{
+"t": 10.673,
+"dur": 7.742,
+"text": "The internet went nuts. People zoomed in on every pixel. A feng shui guy sold ma lai-proof bracelets, half off."
+},
+{
+"t": 18.664,
+"dur": 2.929,
+"text": "People fear ghosts. Ghosts fear the algorithm."
+},
+{
+"t": 22.193,
+"dur": 2.33,
+"text": "The next night, the camera caught four seconds."
+},
+{
+"t": 25.323,
+"dur": 3.289,
+"text": "What did those four seconds catch? I'll tell you next time."
+}
+],
+"comments": [
+{
+"t": 0.786,
+"u": "@jess.k",
+"c": "uh what just flew past the window??",
+"end": 3.468
+},
+{
+"t": 1.633,
+"u": "@mike_d",
+"c": "slow it to 0.25x, admin",
+"end": 3.468
+},
+{
+"t": 2.458,
+"u": "@be.nah",
+"c": "anyone else think that looks human",
+"end": 3.468
+}
+],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/en/vo/30c3a1fd94.wav"
+},
+{
+"t": 3.468,
+"src": "loc/en/vo/19f6a6bdad.wav"
+},
+{
+"t": 7.235,
+"src": "loc/en/vo/98e12a95d9.wav"
+},
+{
+"t": 10.673,
+"src": "loc/en/vo/217182c2ca.wav"
+},
+{
+"t": 18.664,
+"src": "loc/en/vo/6e0d61f651.wav"
+},
+{
+"t": 22.193,
+"src": "loc/en/vo/17392cd045.wav"
+},
+{
+"t": 25.323,
+"src": "loc/en/vo/3ea3758720.wav"
+}
+],
+"mutes": [
+[
+21.993,
+25.323
+]
+],
+"live": [
+[
+0.15,
+3.468
+],
+[
+3.468,
+7.235
+],
+[
+22.193,
+25.323
+]
+],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

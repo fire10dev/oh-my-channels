@@ -1,0 +1,374 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 34.718,
+"shots": [
+{
+"img": "p01/img/S14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 2.194,
+"a": [
+760,
+480,
+460
+],
+"b": [
+720,
+460,
+340
+],
+"flash": 1
+},
+{
+"img": "p01/img/S10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 2.194,
+"t1": 6.694,
+"a": [
+680,
+576,
+648
+],
+"b": [
+680,
+480,
+460
+]
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 6.694,
+"t1": 11.09,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 10,
+"dark": 0.45
+},
+{
+"img": "p01/img/S11.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 11.09,
+"t1": 14.413,
+"a": [
+1100,
+576,
+648
+],
+"b": [
+1100,
+420,
+460
+]
+},
+{
+"img": "p01/img/S12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.413,
+"t1": 17.377,
+"a": [
+1000,
+576,
+648
+],
+"b": [
+1000,
+576,
+648
+]
+},
+{
+"img": "p01/img/S12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.377,
+"t1": 20.268,
+"a": [
+1360,
+720,
+460
+],
+"b": [
+1360,
+700,
+340
+]
+},
+{
+"img": "p01/img/S13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 20.268,
+"t1": 22.355,
+"a": [
+800,
+576,
+648
+],
+"b": [
+800,
+420,
+460
+]
+},
+{
+"img": "p01/img/S14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 22.355,
+"t1": 26.081,
+"a": [
+760,
+576,
+648
+],
+"b": [
+720,
+460,
+460
+]
+},
+{
+"img": "p01/img/S14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 26.081,
+"t1": 27.759,
+"a": [
+1420,
+420,
+460
+],
+"b": [
+1420,
+400,
+340
+]
+},
+{
+"img": "p01/img/S14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 27.759,
+"t1": 29.825,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1024,
+500,
+460
+]
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 29.825,
+"t1": 34.218,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p01/img/cut_S11.png",
+"size": 2048,
+"t0": 6.694,
+"t1": 11.09,
+"from": [
+-250,
+600,
+1.0
+],
+"to": [
+-1750,
+380,
+1.0
+],
+"bob": false
+},
+{
+"img": "p01/img/cut_B02.png",
+"size": 1344,
+"t0": 29.825,
+"t1": 34.218,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 23.919,
+"t1": 26.081,
+"text": "DON'T COVER MOM'S NECK",
+"color": "#ff5a4a"
+},
+{
+"t0": 29.825,
+"t1": 34.218,
+"text": "WHICH NIGHT DID HE FORGET?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.4
+},
+{
+"t": 6.085,
+"src": "sh6/sfx/wind.wav",
+"vol": 0.7
+},
+{
+"t": 23.919,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.6
+},
+{
+"t": 29.825,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 33.151,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 1.644,
+"text": "Mom gave me just one rule."
+},
+{
+"t": 2.194,
+"dur": 8.646,
+"text": "I'm a ma lai — a head-flying ghost. At two a.m., my head lifts off and flies out the window. I put it back before the rooster crows."
+},
+{
+"t": 11.09,
+"dur": 3.074,
+"text": "Flying around town is hard now. Cameras everywhere."
+},
+{
+"t": 14.413,
+"dur": 5.604,
+"text": "What do I eat? Leftover braised fish from the trash. I split it with a tabby cat. She's pregnant."
+},
+{
+"t": 20.268,
+"dur": 1.687,
+"text": "My grandma gave me one rule."
+},
+{
+"t": 22.355,
+"dur": 3.477,
+"text": "Listen, son. When I'm asleep, don't pull the blanket up to my neck."
+},
+{
+"t": 26.081,
+"dur": 1.427,
+"text": "Mom, that's just superstition."
+},
+{
+"t": 27.759,
+"dur": 1.467,
+"text": "He laughed. Then forgot."
+},
+{
+"t": 29.825,
+"dur": 3.393,
+"text": "Which night did he forget? I'll tell you next time. Follow me."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/en/vo/f3723b436f.wav"
+},
+{
+"t": 2.194,
+"src": "loc/en/vo/1370bc6353.wav"
+},
+{
+"t": 11.09,
+"src": "loc/en/vo/83a1d4bbee.wav"
+},
+{
+"t": 14.413,
+"src": "loc/en/vo/8ea300339b.wav"
+},
+{
+"t": 20.268,
+"src": "loc/en/vo/bab466b53e.wav"
+},
+{
+"t": 22.355,
+"src": "loc/en/vo/1235cb2fcf.wav"
+},
+{
+"t": 26.081,
+"src": "loc/en/vo/4deffefbad.wav"
+},
+{
+"t": 27.759,
+"src": "loc/en/vo/947bcdbc17.wav"
+},
+{
+"t": 29.825,
+"src": "loc/en/vo/7a4e5802cd.wav"
+}
+],
+"mutes": [
+[
+27.559,
+29.825
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

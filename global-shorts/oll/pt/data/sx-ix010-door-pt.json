@@ -1,0 +1,77 @@
+{
+ "title": "A porta de 8 toneladas onde vivem oficiais de mísseis nucleares",
+ "hook": "PORTA ANTIBOMBA",
+ "asof": "Dados da Força Aérea dos EUA e do Serviço Nacional de Parques",
+ "world": "capsule",
+ "long": "IX010",
+ "chapters": [
+  {
+   "id": "down",
+   "hud": "DIA 1",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Dois oficiais descem de elevador até 18 metros sob a pradaria.",
+     "v": "elevator",
+     "you": "elevator"
+    },
+    {
+     "s": "Lá embaixo: uma porta antibomba de 8 toneladas.",
+     "v": "door",
+     "plane": "door:shut",
+     "st": [
+      "8 TONELADAS",
+      "porta antibomba · NPS"
+     ]
+    },
+    {
+     "s": "Só dá para abrir por dentro.",
+     "v": "door",
+     "plane": "door:shut"
+    },
+    {
+     "s": "Alguém grita: livre. Você responde.",
+     "v": "door"
+    },
+    {
+     "s": "A porta se abre.",
+     "v": "door",
+     "plane": "door:open",
+     "you": "door"
+    },
+    {
+     "s": "Atrás dela, uma cápsula do tamanho de um quarto.",
+     "v": "capsule",
+     "you": "capsule"
+    },
+    {
+     "s": "É daqui que as equipes vigiam mais de dez mísseis Minuteman III.",
+     "v": "console",
+     "you": "console"
+    },
+    {
+     "s": "Ninguém pode ficar aqui sozinho. É proibido ficar só.",
+     "v": "capsule"
+    },
+    {
+     "s": "O turno dura 24 horas.",
+     "v": "clock",
+     "st": [
+      "24 HORAS",
+      "um alerta"
+     ]
+    },
+    {
+     "s": "Sem celulares. Sem computadores pessoais.",
+     "v": "wall"
+    },
+    {
+     "s": "Você passaria um dia atrás dessa porta?",
+     "v": "door",
+     "plane": "door:shut"
+    }
+   ]
+  }
+ ]
+}

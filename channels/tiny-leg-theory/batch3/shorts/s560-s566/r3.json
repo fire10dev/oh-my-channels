@@ -1,0 +1,732 @@
+[
+ {
+  "id": "s560",
+  "mascot": "buff",
+  "title": "Stop Copying Every Word",
+  "mechanism": "Generative Learning",
+  "lines": [
+   {
+    "vo": "Copying every single word from the lecture slides? Sure, buddy.",
+    "text": "HUMAN PHOTOCOPIER",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Your fingers are sprinting while your intellect is fast asleep.",
+    "text": "BRAIN ON STANDBY",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Passive copying builds zero muscle. Your brain needs resistance.",
+    "text": "NEEDS RESISTANCE",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Listen for two minutes, look away, and write your own recap.",
+    "text": "LOOK AWAY AND WRITE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Pulling facts straight out of memory feels heavy. Good.",
+    "text": "HEAVY MENTAL REP",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Close the slides. Write your key takeaways right now.",
+    "text": "TAKE THE CHALLENGE",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s560vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung lam may photocopy",
+  "title_vi": "Đừng làm máy photocopy",
+  "mechanism": "Generative Learning",
+  "lines": [
+   {
+    "vo": "Cắm đầu chép slide giảng viên kín năm cuốn vở? Ừ, tin.",
+    "text": "MAY PHOTOCOPY",
+    "color": "red",
+    "actor": "typing_focused",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Tay mỏi nhừ nhưng đi thi vẫn cắn bút vì chữ không vào đầu.",
+    "text": "CHEP NHIEU QUEN HET",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Não chỉ nhớ thứ chính bạn tự vắt óc tạo ra.",
+    "text": "TU TAO RA KIEN THUC",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nghe giảng xong, gập màn hình lại rồi tự ghi tóm tắt.",
+    "text": "GAP MAN HINH VA GHI",
+    "color": "green",
+    "actor": "writing",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Tự vắt óc nhớ lại thấy nặng đầu? Thế mới vào bài.",
+    "text": "TA NANG CHO NAO",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Gập cuốn vở lại. Tự ghi ra ba ý chính vừa nghe xem nào.",
+    "text": "TU GHI NHO NGAY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s561",
+  "mascot": "pen",
+  "title": "Why Your Notes Vanish",
+  "mechanism": "Elaboration",
+  "lines": [
+   {
+    "vo": "You memorized a whole list of vocabulary terms, but each feels alone.",
+    "text": "ISOLATED FACTS",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "By next week, almost every single one quietly slips away.",
+    "text": "FADING AWAY",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "The human mind naturally forgets orphan facts that lack roots.",
+    "text": "ORPHAN CONCEPTS",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "It protects ideas anchored to things you already care about.",
+    "text": "ANCHOR TO REALITY",
+    "color": "green",
+    "actor": "reading",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Beside each term, write one sentence linking it to personal life.",
+    "text": "ONE REAL EXAMPLE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Connect inflation to your grocery bill, not a dry formula.",
+    "text": "MAKE IT PERSONAL",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "One personal memory gives an orphan fact a permanent home.",
+    "text": "GIVE IT A HOME",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s561vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Sao ghi chep cu troi di mat?",
+  "title_vi": "Sao ghi chép cứ trôi đi mất?",
+  "mechanism": "Elaboration",
+  "lines": [
+   {
+    "vo": "Học từ vựng tiếng Anh theo danh sách dài ngoằng, từ nào cũng rời rạc.",
+    "text": "TU VUNG ROI RAC",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Đến buổi thi chứng chỉ thì mọi chữ nghĩa đều biến mất sạch trơn.",
+    "text": "BAY SACH CHU NGHIA",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Não sẽ xóa sạch những định nghĩa đứng trơ trọi một mình.",
+    "text": "DINH NGHIA TRO TROI",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nó chỉ giữ lại điều gì móc nối được với cuộc sống của bạn.",
+    "text": "MOC NOI DOI THUONG",
+    "color": "green",
+    "actor": "reading",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Cạnh định nghĩa, hãy viết một câu gắn với trải nghiệm thật.",
+    "text": "GAN VAO TRAI NGHIEM",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Ví dụ lạm phát gắn với cốc trà sữa tăng giá tuần trước.",
+    "text": "COC TRA SUA TANG GIA",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Gắn vào đời sống, kiến thức sẽ tự ở lại với bạn.",
+    "text": "TU O LAI VOI BAN",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s562",
+  "mascot": "buff",
+  "title": "Fix Your Messy Notes",
+  "mechanism": "Organization Effect",
+  "lines": [
+   {
+    "vo": "Notes scribbled all over the margins? That is a visual crime scene.",
+    "text": "VISUAL CRIME SCENE",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Messy chaos burns your mental energy before you even start studying.",
+    "text": "WASTING BANDWIDTH",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Sloppy notes force dead weight. Clean structure gives you proper form.",
+    "text": "PROPER MENTAL FORM",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Split your page: facts on the right, cues on the left.",
+    "text": "SPLIT THE PAGE",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Cover the right column to test your memory instantly.",
+    "text": "COVER AND QUIZ",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Turn your dead notebook into an active testing station right now.",
+    "text": "ACTIVE WORKOUT",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s562vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dep ngay dong vo lon xon",
+  "title_vi": "Dẹp ngay đống vở lộn xộn",
+  "mechanism": "Organization Effect",
+  "lines": [
+   {
+    "vo": "Đề cương photo chép chữ chi chít kín lề? Nhìn như bãi chiến trường.",
+    "text": "BAI CHIEN TRUONG",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Chép bừa bãi như tập tạ sai tư thế, vừa đau lưng vừa không vào cơ.",
+    "text": "PHI SUC MAT CONG",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bộ nhớ tạm thời chứa được rất ít. Gom nhóm giúp giải phóng đầu óc.",
+    "text": "GIAI PHONG BO NHO",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Chia đôi trang giấy: bên phải chép bài, bên trái ghi câu hỏi ôn thi.",
+    "text": "CHIA LAI TRANG VO",
+    "color": "green",
+    "actor": "writing",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Lấy tay che cột phải lại để tự khảo bài trước giờ lên lớp.",
+    "text": "CHE COT KHAO BAI",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Biến trang vở thành phòng tập thực chiến. Vào hiệp ngay hôm nay.",
+    "text": "PHONG TAP THUC CHIEN",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s563",
+  "mascot": "pen",
+  "title": "Why Text Puts You to Sleep",
+  "mechanism": "Dual Coding",
+  "lines": [
+   {
+    "vo": "Ten minutes into reading dense handwriting, your eyes glaze over.",
+    "text": "WALLS OF TEXT",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "The page feels heavy, and nothing seems to stick.",
+    "text": "NOTHING STICKS",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "You are only using the verbal pathway of your brain.",
+    "text": "HALF POWER",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Visuals and words travel along two completely separate mental roads.",
+    "text": "DUAL CODING",
+    "color": "green",
+    "actor": "reading",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Ditch the art contest. A simple box and arrow work.",
+    "text": "BOXES AND ARROWS",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Two separate pathways give your memory an extra route to retrieve it.",
+    "text": "DUAL RETRIEVAL",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "A rough sketch turns an empty desert into an illustrated map.",
+    "text": "AN ILLUSTRATED MAP",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s563vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Trang vo toan chu khien ban ngan?",
+  "title_vi": "Trang vở toàn chữ khiến bạn ngán?",
+  "mechanism": "Dual Coding",
+  "lines": [
+   {
+    "vo": "Cầm tập tài liệu phôtô đen sì, đọc năm phút là muốn gục xuống bàn.",
+    "text": "TAI LIEU DEN SI",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Toàn chữ là chữ khiến não bạn tự động đình công.",
+    "text": "NAO TU DINH CONG",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Đó là vì bạn mới chỉ dùng một luồng xử lý của não bộ.",
+    "text": "MOI DUNG MOT PHAN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Não lưu trữ hình ảnh và câu chữ theo hai kênh riêng biệt.",
+    "text": "HAI KENH XU LY",
+    "color": "green",
+    "actor": "reading",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Quên chuyện vẽ đẹp đi. Một ô vuông với mũi tên là đủ.",
+    "text": "O VUONG VA MUI TEN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "target"
+   },
+   {
+    "vo": "Hai luồng ghi nhớ giúp bạn lục lại kiến thức dễ dàng hơn nhiều.",
+    "text": "DE DANG TIM LAI",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Một nét vẽ nguệch ngoạc cũng đủ thắp sáng cả trang vở tối thui.",
+    "text": "THAP SANG TRANG VO",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s564",
+  "mascot": "buff",
+  "title": "Stop Skimming Your Notes",
+  "mechanism": "Depth of Processing",
+  "lines": [
+   {
+    "vo": "Re-reading the exact same page over and over? Nice cruise control, buddy.",
+    "text": "CRUISE CONTROL",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Your eyes keep scanning, but your brain is on pure autopilot.",
+    "text": "PURE AUTOPILOT",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Passive skimming is just empty reps. It leaves zero muscle behind.",
+    "text": "EMPTY REPS",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Dig deeper. Ask why it matters and what happens if it breaks.",
+    "text": "WHAT IF IT FAILS?",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Evaluating mechanics forces your brain into heavy semantic work.",
+    "text": "HEAVY WORKOUT",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Take one definition right now. Write what happens if it fails.",
+    "text": "WRITE WHAT FAILS",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s564vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Doc nhieu lan van khong vao dau?",
+  "title_vi": "Đọc nhiều lần vẫn không vào đầu?",
+  "mechanism": "Depth of Processing",
+  "lines": [
+   {
+    "vo": "Đọc qua ba lần là tự tin mình thuộc làu làu? Ừ, tin.",
+    "text": "TUONG LA THUOC LAU",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Mắt vẫn đảo qua chữ, nhưng não bạn đang bật chế độ lái tự động.",
+    "text": "CHE DO TU DONG",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Đọc lướt chỉ là hiệp tập rỗng, không xây được cơ bắp trí tuệ.",
+    "text": "HIEP TAP RONG",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Hỏi xem khái niệm này giải quyết việc gì, thiếu nó thì hỏng ở đâu.",
+    "text": "THIEU NO THI SAO?",
+    "color": "green",
+    "actor": "think",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Đào sâu vào công dụng thực tế ép não bạn phải làm việc cật lực.",
+    "text": "EP NAO LAM VIEC",
+    "color": "green",
+    "actor": "typing_focused",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Chọn một định nghĩa. Viết ra nếu thiếu nó thì hệ thống sập ở đâu.",
+    "text": "NEU THIEU THI SAO?",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s565",
+  "mascot": "pen",
+  "title": "The Illusion of Understanding",
+  "mechanism": "Self Explanation",
+  "lines": [
+   {
+    "vo": "You nodded through that two-hour lecture and felt like a genius.",
+    "text": "FEEL LIKE A GENIUS",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Then you close the tab and realize you cannot explain a thing.",
+    "text": "CANNOT EXPLAIN",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Listening feels easy because someone else is doing the hard thinking.",
+    "text": "ILLUSION OF DEPTH",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Close the notes and explain the idea aloud in your own words.",
+    "text": "EXPLAIN IT ALOUD",
+    "color": "green",
+    "actor": "reading",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "The moment you stumble is where your knowledge secretly broke.",
+    "text": "SPOTTING THE CRACKS",
+    "color": "green",
+    "actor": "think",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Speaking it out loud transforms fuzzy confidence into solid proof.",
+    "text": "CRISP AND CLEAR",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "If you cannot explain it right now, did you actually learn it?",
+    "text": "DID YOU LEARN IT?",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s565vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Tuong nho hoa ra quen sach",
+  "title_vi": "Tưởng nhớ hoá ra quên sạch",
+  "mechanism": "Self Explanation",
+  "lines": [
+   {
+    "vo": "Xem video bài giảng trên mạng gật gù tưởng chừng đã nắm chắc.",
+    "text": "GAT GU TUONG CHAC",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Tới khi tắt máy đi thì không tự nói lại nổi một câu.",
+    "text": "KHONG NOI DUOC",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Nghe giảng thấy mượt mà tạo ra ảo tưởng rằng mình thông suốt.",
+    "text": "AO TUONG THONG SUOT",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Gập tài liệu lại, tự nói to cơ chế bằng chính lời của bạn.",
+    "text": "TU GIAI THICH TO",
+    "color": "green",
+    "actor": "reading",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Chỗ nào bạn nói vấp chính là nơi kiến thức đang bị thủng.",
+    "text": "TIM RA LO THUNG",
+    "color": "green",
+    "actor": "think",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Tự diễn đạt trơn tru mới là biến kiến thức thành phản xạ.",
+    "text": "BIEN THANH PHAN XA",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Nếu lúc này chưa thể tự nói thành lời, liệu mình đã thực sự hiểu?",
+    "text": "DA THUC SU HIEU?",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s566",
+  "mascot": "buff",
+  "title": "Stop Doing Block Practice",
+  "mechanism": "Interleaving",
+  "lines": [
+   {
+    "vo": "Drilling the same type of problem over and over? Sure, buddy.",
+    "text": "SAME OLD REPS",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Doing identical reps tricks your brain with false familiarity.",
+    "text": "FALSE FAMILIARITY",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Blocked practice hands you the formula before you even read the problem.",
+    "text": "PREDICTABLE TRAP",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Shuffling forces your brain to pick the right strategy every single rep.",
+    "text": "PICK THE STRATEGY",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Stop doing predictable sets. Mix your drills right now.",
+    "text": "TEST REAL SKILL",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s566vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Luyen mai mot dang bai la bay",
+  "title_vi": "Luyện mãi một dạng bài là bẫy",
+  "mechanism": "Interleaving",
+  "lines": [
+   {
+    "vo": "Cả buổi cày đúng một dạng bài thấy mượt mà lắm đúng không? Ừ, tin.",
+    "text": "LUYEN VET MOT DANG",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Làm mãi một kiểu chỉ tạo cảm giác thông minh ảo.",
+    "text": "THONG MINH AO",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Luyện theo cụm dọn sẵn công thức trước khi bạn kịp đọc đề.",
+    "text": "BAY DON SAN",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Xáo đề buộc não phải tự chọn chiến lược cho từng hiệp.",
+    "text": "CHON CHIEN LUOC",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Dẹp mấy hiệp tập dễ dãi đi. Trộn đề đấu trí ngay xem nào.",
+    "text": "DAU TRI THUC SU",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ }
+]

@@ -1,0 +1,865 @@
+{
+ "id": "L27vi",
+ "lang": "vi",
+ "title": "Hết vui rồi mà sao bạn vẫn muốn đăng bài sống ảo?",
+ "description": "Bạn vừa đăng một bức ảnh tạm thời, vài giây sau đã bấm vào xem danh sách người xem, dù con số tăng lên cũng chẳng thấy vui. Dưới đây là tám cạm bẫy tâm lý giải thích vì sao chúng ta liên tục đăng bài sống ảo dù niềm vui đã cạn kiệt. Cùng gỡ bỏ vòng lặp này để lấy lại sự bình yên trong tâm trí.",
+ "chapters": [
+  {
+   "title": "Đăng bài khi đã cạn kiệt",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình vừa đăng tấm ảnh lên tin hai mươi tư giờ, rồi nửa phút sau lại mở ra xem.",
+     "text": "ĐĂNG KHI HẾT VUI",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lượt xem cứ tăng dần, nhưng lòng mình trống rỗng và chẳng thấy vui chút nào.",
+     "text": "KHÔNG CHÚT NIỀM VUI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn Pen. Bạn đang đốt sức vào những hiệp tập vô nghĩa chẳng tới đâu.",
+     "text": "HIỆP TẬP VÔ NGHĨA",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu lượt xem không đem lại niềm vui, sao ngón tay mình cứ bấm vào xem mãi?",
+     "text": "SAO CỨ BẤM VÀO XEM?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bạn đang dính tám cái bẫy khiến bạn thành con rối phục vụ cho thuật toán.",
+     "text": "TÁM CẠM BẪY NGẦM",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay ta bẻ gãy từng chiếc bẫy để bạn giành lại quyền kiểm soát ngón tay.",
+     "text": "GIÀNH LẠI KIỂM SOÁT",
+     "color": "green",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "1. Tỷ lệ ngẫu nhiên",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đăng ảnh ly cà phê ở quán lên tin, cứ ba mươi giây mình lại vuốt để tải lại.",
+     "text": "1. TỶ LỆ NGẪU NHIÊN",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lúc thì hai mươi người xem ngay, lúc chẳng ai ngó. Sao mắt mình cứ dán vào máy?",
+     "text": "PHẦN THƯỞNG BẤT NGỜ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là tỷ lệ ngẫu nhiên, cơ chế y hệt máy kéo xèng trong sòng bạc.",
+     "text": "MÁY KÉO Ở SÒNG BẠC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phần thưởng càng thất thường, não càng tăng vọt cảm giác hưng phấn để thôi thúc bạn tìm kiếm.",
+     "text": "BẪY BẤT NGỜ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy não nghiện cảm giác hồi hộp lúc tải lại, chứ đâu phải vì tấm ảnh?",
+     "text": "ĐUỔI THEO BẤT NGỜ",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trúng phóc. Sự may rủi tạo cảm giác sướng ảo, dù con số cuối cùng trống rỗng.",
+     "text": "CẢM GIÁC TRỐNG RỖNG",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như chạy thục mạng trên máy tập mà không sao bước xuống.",
+     "text": "KIỆT SỨC VÌ VUỐT MÁY",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào hiệp nghiêm túc nào. Cài khóa thời gian cho ứng dụng ngay khi vừa đăng.",
+     "text": "CÀI KHÓA ỨNG DỤNG",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đăng xong là thoát tài khoản, cài chặn ứng dụng đó hai tiếng để cắt đứt cơn nghiện làm mới.",
+     "text": "CẮT CƠN LÀM MỚI",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu ngưng vuốt màn hình, sự công nhận mà lòng mình mong đợi sẽ ra sao?",
+     "text": "SỰ CÔNG NHẬN THÌ SAO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nó dẫn thẳng tới chiếc bẫy tiếp theo: cách não bị thuần hóa bởi lời khen mạng.",
+     "text": "BẪY KHEN TRÊN MẠNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "2. Phần thưởng xã hội",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi lượt xem nhảy thêm mười người, tâm trạng mình vui hai giây rồi tụt dốc.",
+     "text": "2. PHẦN THƯỞNG XÃ HỘI",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nửa số đó mình chẳng bao giờ nói chuyện, thế mà vẫn thèm ánh mắt của họ.",
+     "text": "CON SỐ VÔ HỒN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chào mừng Pen đến với phần thưởng xã hội. Não xem cái nhìn lướt qua như chuyện sinh tồn.",
+     "text": "MẠCH THƯỞNG NÃO BỘ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thời xưa, bị bộ tộc bỏ rơi là cầm chắc cái chết, nên não coi sự chú ý như tín hiệu an toàn.",
+     "text": "BẢN NĂNG SINH TỒN",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên lượt xem tăng khiến thần kinh tưởng mình đang được cộng đồng đón nhận?",
+     "text": "ĐƯỢC BỘ TỘC ĐÓN NHẬN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não thích nghi rất nhanh. Thông báo trở thành hiệu lệnh kích hoạt thói quen lặp lại.",
+     "text": "HIỆU LỆNH PHẢN XẠ",
+     "color": "red",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và khi số đứng yên, mình tự dưng thấy lạc lõng như kẻ làm sai điều gì.",
+     "text": "LẠC LÕNG KHI ĐỨNG SỐ",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào một hiệp kỷ luật: tắt sạch chuông reo, chấm đỏ và biểu ngữ trên màn hình đi.",
+     "text": "TẮT SẠCH CHẤM ĐỎ",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gom giờ kiểm tra. Giấu ứng dụng vào mục sâu, mỗi ngày chỉ mở đúng hai lần.",
+     "text": "MỖI NGÀY XEM HAI LẦN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tắt thông báo thì đỡ, nhưng sao mình vẫn mất hai mươi phút chỉ để chọn bức ảnh?",
+     "text": "CHỌN LỌC QUÁ ĐÀ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì bạn đâu chỉ đăng ảnh, bạn đang tô vẽ vỏ bọc để trình diễn trước đám đông.",
+     "text": "SÂN KHẤU HÌNH TƯỢNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "3. Trình diễn bản thân",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình nắn nót chỉnh màu mười lăm phút cho tấm ảnh sẽ biến mất vào sáng mai.",
+     "text": "3. TRÌNH DIỄN BẢN THÂN",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình cắt bỏ đống đồ chưa giặt để ai cũng tưởng đời mình luôn ngăn nắp.",
+     "text": "CẮT XÉN HIỆN THỰC",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là cơ chế trình diễn bản thân. Bạn tự dựng lên một vai diễn hoàn hảo để người ngoài thấy mình luôn ổn.",
+     "text": "DÀN DỰNG HÌNH ẢNH",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn khoe nếp sống tinh tế nhưng giấu nhẹm những bề bộn, tẻ nhạt của đời thường.",
+     "text": "GIẤU BỚT BỀ BỘN",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như diễn kịch dưới ánh đèn sân khấu cả ngày mà chẳng có giờ nghỉ.",
+     "text": "DIỄN KỊCH KHÔNG NGHỈ",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Diễn hoài thì sập nguồn. Gồng gánh nhân vật không tì vết vắt kiệt năng lượng đời thực.",
+     "text": "VẮT KIỆT CẢM XÚC",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu người ta chỉ khen vỏ bọc bóng bẩy, họ sẽ chẳng bao giờ biết con người thật.",
+     "text": "VỖ TAY CHO VỎ BỌC",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào bài tập mới: áp dụng luật một phút. Chỉnh ảnh quá sáu mươi giây là xóa nháp ngay.",
+     "text": "QUY TẮC SÁU MƯƠI GIÂY",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hoặc đăng ảnh mộc chưa qua chỉnh sửa, hoặc úp máy xuống rồi đi làm việc khác.",
+     "text": "ĐĂNG MỘC HOẶC BUÔNG",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đăng ảnh mộc làm mình lo không biết ai sẽ nhìn thấy rồi thầm phán xét mình.",
+     "text": "SỢ BỊ PHÁN XÉT?",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cơn lo đó xuất hiện vì bạn đang uốn nắn nội dung cho một đám đông tưởng tượng.",
+     "text": "ĐÁM ĐÔNG ẢO TƯỞNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "4. Uốn nắn theo khán giả",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình viết câu đùa lên tin, rồi vội xóa vì nhớ ra sếp có kết bạn Zalo.",
+     "text": "4. UỐN NẮN KHÁN GIẢ",
+     "color": "ink",
+     "actor": "think",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình sửa dòng chữ bốn lần cho thật an toàn, nhạt nhẽo và không còn chút sức sống.",
+     "text": "DÒNG CHỮ NHẠT NHẼO",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là cơ chế uốn nắn theo khán giả. Bạn đổi giọng điệu vì sợ ánh mắt người khác đang dòm ngó.",
+     "text": "GỌT GIŨA THEO AI?",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trên mạng, họ hàng, đồng nghiệp lẫn người lạ bị nhét chung vào một hàng ghế khán giả.",
+     "text": "KHÁN PHÒNG LẪN LỘN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là mình chỉ nói để làm vừa lòng kẻ khó tính nhất trong đám đông?",
+     "text": "CHIỀU NGƯỜI KHÓ TÍNH",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gãi đúng chỗ ngứa rồi đấy. Bạn tự bịt miệng để chiều lòng bóng ma chẳng thèm bận tâm.",
+     "text": "CHIỀU BÓNG MA ẢO",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thảo nào đăng bài thấy mệt rã rời mà không tạo ra được kết nối chân thật nào.",
+     "text": "KHÔNG CHÚT KẾT NỐI",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đuổi đám đông đó đi bằng cách vạch ranh giới người xem rõ ràng và dứt khoát.",
+     "text": "VẠCH RANH GIỚI XEM",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ chia sẻ chuyện riêng cho nhóm bạn thân, những người bạn thực sự trò chuyện tháng này.",
+     "text": "CHỈ BẠN THÂN MỚI XEM",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy an toàn hơn hẳn, nhưng khi nhìn bạn bè khoe ảnh đi chơi sang chảnh thì sao?",
+     "text": "KHOE ẢNH SANG CHẢNH",
+     "color": "ink",
+     "actor": "sofa_scroll"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là thói quen xấu: đem góc khuất luộm thuộm so với biển quảng cáo lung linh của người khác.",
+     "text": "SO VỚI BIỂN QUẢNG CÁO",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "5. So sánh xã hội",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nửa đêm lướt màn hình, mình thấy bạn bè khoe ảnh đi biển, ăn uống sang chảnh.",
+     "text": "5. SO SÁNH XÃ HỘI",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự dưng tối thứ sáu ở nhà bỗng hóa thành thất bại và phí hoài tuổi trẻ.",
+     "text": "CẢM GIÁC THẤT BẠI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là bẫy so sánh lên. Ta luôn vô thức đo mình với hào quang của người khác.",
+     "text": "SO SÁNH LÊN TRÊN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn lấy góc phòng bừa bộn so kè với tấm ảnh nghỉ dưỡng qua bảy lớp màu của người ta.",
+     "text": "SO KÈ KHẬP KHIỄNG",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là mình vội chụp bát bún đăng lên chỉ để chứng minh đời mình đâu có tẻ nhạt?",
+     "text": "ĐĂNG BÀI CHỐNG CHẾ",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đăng bài để phòng thủ. Bạn cuống cuồng ghi điểm ảo để chứng tỏ không bị tụt hậu.",
+     "text": "GHI ĐIỂM SỐ ẢO",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rồi khi tin biến mất sau hai mươi tư giờ, điểm ảo trong lòng lại về số không.",
+     "text": "TRỞ VỀ SỐ KHÔNG",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào một hiệp ngắt nhịp: tách rời việc bấm máy và việc đăng bài lên mạng.",
+     "text": "TÁCH RỜI CHỤP VÀ ĐĂNG",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chụp xong cứ lưu máy, chờ ít nhất mười phút rồi mới tính có nên đăng không.",
+     "text": "CHỜ ĐỦ MƯỜI PHÚT",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu không ganh đua, sao mình vẫn hoảng hốt xóa bài mỗi khi thấy ít người xem?",
+     "text": "SAO XÓA BÀI ÍT XEM?",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì bản năng phòng vệ luôn sợ người khác đánh giá thấp vị thế của bạn.",
+     "text": "LỚP KHIÊN PHÒNG VỆ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "6. Quản trị hình ảnh",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Thứ ba tuần trước mình xóa tấm ảnh sau mười lăm phút vì vỏn vẹn hai người xem.",
+     "text": "6. QUẢN TRỊ HÌNH ẢNH",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác xấu hổ ập đến, sợ bạn bè nghĩ mình cô độc chẳng có ai chơi cùng.",
+     "text": "SỢ BỊ COI THƯỜNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là quản trị hình ảnh. Bạn ra sức kiểm soát cách người khác nhìn nhận về mình.",
+     "text": "BẢO VỆ DANH TIẾNG",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chẳng ai muốn tuột tạ trước bàn dân thiên hạ. Não bạn sợ ít tương tác sẽ bị coi là kém cỏi.",
+     "text": "RƠI TẠ GIỮA ĐÁM ĐÔNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy xóa bài ít xem chỉ là chối bỏ một khoảng lặng ngượng ngùng trước đám đông?",
+     "text": "KHOẢNG LẶNG KHÓ XỬ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không lệch đi đâu được. Bạn như nhân viên xử lý khủng hoảng cho công ty chỉ một người.",
+     "text": "LO NGHĨ TRUYỀN THÔNG",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đăng mẩu tin thường ngày bỗng thành gánh nặng giữ gìn thể diện đầy mệt mỏi.",
+     "text": "GÁNH NẶNG THỂ DIỆN",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp tập kỷ luật: quy tắc không xóa bài. Một khi bấm đăng thì để nguyên đó.",
+     "text": "ĐĂNG RỒI KHÔNG XÓA",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mục đích là rèn cho hệ thần kinh quen với cảm giác ít tương tác mà không hề hấn gì.",
+     "text": "ÍT XEM CŨNG CHẲNG SAO",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Để nguyên thấy khó chịu vì nó phơi bày hố sâu giữa đời thực và trang cá nhân.",
+     "text": "HỐ SÂU ĐỜI VÀ MẠNG",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vực thẳm giữa đời thực và nhân vật trên mạng là chiếc bẫy tiếp theo ta phải hạ gục.",
+     "text": "VỰC THẲM BẢN SAO ẢO",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "7. Khoảng cách bản ngã",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn vào trang cá nhân, mình thấy một người luôn thư thả, phong cách và tràn trề sức sống.",
+     "text": "7. KHOẢNG CÁCH BẢN NGÃ",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn xuống bộ đồ ở nhà, bàn làm việc ngổn ngang, mình thấy bản thân thật kém cỏi.",
+     "text": "SỰ THẬT TỒI TỆ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là khoảng cách bản ngã. Hố sâu giữa người thật và hình mẫu lý tưởng gây ngột ngạt.",
+     "text": "NGỘT NGẠT NỘI TÂM",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Việc phải gồng gánh một hình tượng không có thật sẽ bào mòn sạch sẽ năng lượng tinh thần của bạn.",
+     "text": "BÀO MÒN NĂNG LƯỢNG",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy trang cá nhân hóa thành kẻ xa lạ khó tính mà ta suốt ngày phải cung phụng?",
+     "text": "NUÔI BẢN SAO ẢO",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Hố sâu giữa đời thường và bản sao ảo càng rộng, tâm trí càng bồn chồn.",
+     "text": "BỒN CHỒN KHÔNG NGHỈ",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi bức ảnh mới chỉ là nỗ lực trong lo âu để lấp đầy khoảng cách ngày càng toang hoác.",
+     "text": "KHOẢNG CÁCH MỞ RỘNG",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trước khi bấm gửi, dừng năm giây tự hỏi: mình chia sẻ niềm vui hay đang xin xỏ sự chú ý?",
+     "text": "NĂM GIÂY TỰ VẤN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu là vế sau thì lập tức xóa ảnh nháp, úp máy xuống rồi quay lại đời thực.",
+     "text": "XÓA NHÁP VÀ ÚP MÁY",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế còn cơn nghiện mở danh sách xem chỉ để ngóng một người có bấm vào không?",
+     "text": "NGÓNG MỘT CÁI TÊN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là cạm bẫy cuối cùng: biến tin tạm thời thành sổ điểm danh thầm lặng trên mạng.",
+     "text": "CẠM BẪY CUỐI CÙNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "8. Tìm kiếm công nhận",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi đăng ảnh trong ngày, mình lướt qua bốn mươi cái tên chỉ để tìm một người.",
+     "text": "8. TÌM KIẾM CÔNG NHẬN",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu cái tên ấy vắng bóng, ba mươi chín lượt xem kia bỗng trở nên hoàn toàn vô nghĩa.",
+     "text": "MỘT CÁI TÊN VẮNG BÓNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bắt đúng bài tìm kiếm công nhận rồi nhé Pen. Bạn không hề chia sẻ, bạn chỉ đang thả mồi câu.",
+     "text": "THẢ MỒI CÂU QUAN TÂM",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ta hay dùng tín hiệu gián tiếp trên mạng để ngấm ngầm thử xem mối quan hệ còn bền không.",
+     "text": "THỬ MỐI QUAN HỆ",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên danh sách xem chỉ là cách thụ động để kiểm tra ai còn đoái hoài tới mình?",
+     "text": "ĐIỂM DANH THỤ ĐỘNG",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là cách giao tiếp né tránh, vì bạn sợ cảm giác bị từ chối nếu nhắn tin trực tiếp.",
+     "text": "TRỐN MỞ LỜI TRỰC TIẾP",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và khi họ xem qua mà chẳng buồn nhắn tin, mình lại thấy bản thân càng thêm cô độc.",
+     "text": "XEM MÀ KHÔNG NHẮN",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn gắn kết thật thì dẹp bài tập thả thính vu vơ đi, vào hiệp nhắn tin trực diện cho người ta.",
+     "text": "HÃY CHỦ ĐỘNG LIÊN LẠC",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gửi tin nhắn riêng hai dòng, còn hơn diễn kịch mong ai đó đoái hoài.",
+     "text": "NHẮN TIN THẲNG THẮN",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trò chuyện thật lòng tạo ra gắn kết mà không bắt mình dán mắt ngóng màn hình.",
+     "text": "GẮN KẾT THẬT LÒNG",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thẳng thắn luôn thắng vu vơ. Giờ gom cả tám cạm bẫy vào bài tập rèn luyện mỗi ngày nào.",
+     "text": "BÀI TẬP RÈN LUYỆN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "Thử thách bảy ngày làm mới",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại cả tám cạm bẫy, đăng bài mất vui từ khi nó thành nghĩa vụ trong vô thức.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gom lại thành ba nhóm chính. Thứ nhất, cơ chế sòng bạc bắt cóc não bằng sự hồi hộp.",
+     "text": "1. BẪY SÒNG BẠC ẢO",
+     "color": "gold",
+     "actor": "front",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thứ hai, diễn kịch cho đám đông ảo tưởng làm hao tổn sức lực vào việc giữ thể diện.",
+     "text": "2. SÂN KHẤU HÌNH ẢNH",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thứ ba, so sánh đời thực với bản sao ảo sinh ra bất an và khát khao công nhận.",
+     "text": "3. BẪY BẢN SAO ẢO",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi bóc tách ra ba điều đó, việc cắm mặt xem danh sách thấy thật vô nghĩa.",
+     "text": "NHẬN RA SỰ VÔ NGHĨA",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách một tuần: nhịn đăng tin suốt bảy ngày, hoặc nếu đăng thì úp máy rời đi ngay lập tức.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tuyệt đối không mở danh sách xem, coi như khoảnh khắc đăng lên đã hoàn toàn khép lại.",
+     "text": "KHÔNG XEM DANH SÁCH",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như vậy mình lấy lại buổi tối bình yên mà không thấp thỏm xem ai vừa ngó qua máy.",
+     "text": "BÌNH YÊN TRỞ LẠI",
+     "color": "ink",
+     "actor": "celebrate",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm theo dõi kênh để đón thêm hiệp tập tâm trí, và sống đời thực ngay hôm nay.",
+     "text": "THEO DÕI ĐỂ RÈN LUYỆN",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  }
+ ]
+}

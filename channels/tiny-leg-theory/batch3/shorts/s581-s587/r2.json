@@ -1,0 +1,724 @@
+[
+ {
+  "id": "s581",
+  "mascot": "pen",
+  "title": "Why You Can't Relax by the Pool",
+  "mechanism": "Zeigarnik Effect",
+  "lines": [
+   {
+    "vo": "Lying by the pool, but your mind is chasing an unsent invoice.",
+    "text": "POOL SIDE PANIC",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "That is the Zeigarnik effect at work.",
+    "text": "ZEIGARNIK EFFECT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Our brains aggressively hold onto anything left unfinished.",
+    "text": "OPEN LOOPS PINNED",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Unresolved tasks sound silent alarms in your working memory.",
+    "text": "SILENT ALARMS",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Park the loose ends on paper with one clear next step.",
+    "text": "WRITE IT DOWN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Can your mind finally rest once the page holds the weight?",
+    "text": "LET IT REST",
+    "color": "gold",
+    "actor": "front",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s581vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Dang nghi le van lo viec do",
+  "title_vi": "Đang nghỉ lễ vẫn lo việc dở",
+  "mechanism": "Zeigarnik Effect",
+  "lines": [
+   {
+    "vo": "Nghỉ lễ nằm dài mà thấy thông báo Zalo việc là ruột gan cồn cào.",
+    "text": "NGHI LE VAN LO",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Hiện tượng này gọi là hiệu ứng Zeigarnik.",
+    "text": "HIEU UNG ZEIGARNIK",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Não bộ có xu hướng bám riết lấy những việc làm dở.",
+    "text": "VIEC CHUA XONG",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Một đầu việc chưa chốt sẽ liên tục rung chuông ngầm trong đầu.",
+    "text": "CHUONG BAO NGAM",
+    "actor": "panic",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Ghi việc ra giấy kèm một bước cụ thể cần làm sau nghỉ.",
+    "text": "GHI RO RA GIAY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Khi trang giấy giữ hộ việc rồi, đầu mình đã nhẹ hơn chưa?",
+    "text": "BUONG BOT LO TOAN",
+    "color": "gold",
+    "actor": "front",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s582",
+  "mascot": "buff",
+  "title": "The Five-Second Email Trap",
+  "mechanism": "Attention Residue",
+  "lines": [
+   {
+    "vo": "Just checking work email for five seconds. Sure, buddy.",
+    "text": "JUST FIVE SECONDS",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "That quick glance leaves sticky attention residue for the whole morning.",
+    "text": "ATTENTION RESIDUE",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Checking email on vacation is like racking a heavy barbell every minute.",
+    "text": "HEAVY RE-RACK",
+    "actor": "future_tired",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Run a shutdown drill: pick tomorrow's check-in time and close the app.",
+    "text": "SHUTDOWN PROTOCOL",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Shut the screen now and step outside. Go.",
+    "text": "STEP OUTSIDE",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s582vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Xem nhanh mot tin nhan thoi a?",
+  "title_vi": "Xem nhanh một tin nhắn thôi à?",
+  "mechanism": "Attention Residue",
+  "lines": [
+   {
+    "vo": "Mở thông báo ngó đúng năm giây rồi tắt. Ừ, tin bạn ghê.",
+    "text": "NGO DUNG NAM GIAY",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Liếc vài giây thôi cũng đủ để đầu óc phân tán suốt cả buổi.",
+    "text": "CON DU PHAN TAN",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "brain"
+   },
+   {
+    "vo": "Đang nghỉ mà mở tin nhắn chẳng khác gì vừa thả tạ lại nhấc lên.",
+    "text": "NHAC TA LIEN TUC",
+    "actor": "future_tired",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Tắt sạch thông báo app việc, hẹn đúng một giờ mở lại.",
+    "text": "KHOA SO THONG BAO",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Úp điện thoại xuống và bước ra ngoài hít thở. Làm luôn.",
+    "text": "UP MAY VA BUOC RA",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s583",
+  "mascot": "pen",
+  "title": "Miles Away but Still Clenched",
+  "mechanism": "Detachment",
+  "lines": [
+   {
+    "vo": "You flew far away, but your shoulders are still hunched tight.",
+    "text": "STILL TENSE",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Physical distance is easy. Psychological detachment is the real hurdle.",
+    "text": "TRUE DETACHMENT",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Replaying old office meetings makes your body react as if work continues.",
+    "text": "REPLAYING CONFLICTS",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Your body easily mistakes imagined deadlines for real emergencies.",
+    "text": "IMAGINED PRESSURES",
+    "color": "red",
+    "actor": "panic",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Set a physical border: lock the work phone in the room safe.",
+    "text": "LOCK IT AWAY",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Drop your shoulders and let the evening take over.",
+    "text": "STEP AWAY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "The shift ended hours ago. Your peace can start right here.",
+    "text": "SHIFT IS OVER",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s583vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Xa van phong ma nguoi van cang",
+  "title_vi": "Xa văn phòng mà người vẫn căng",
+  "mechanism": "Detachment",
+  "lines": [
+   {
+    "vo": "Đi xả hơi ở Đà Lạt mà đầu vẫn cãi nhau tay đôi với sếp.",
+    "text": "DAU VAN CANG THANG",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Rời xa văn phòng thì dễ, nhưng tách tâm trí ra mới khó.",
+    "text": "TACH ROI TAM TRI",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Mỗi lần nghĩ lại khúc mắc công việc, cơ thể lại phát tín hiệu phòng vệ.",
+    "text": "NGHI LAI CONG VIEC",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Não bộ rất dễ nhầm áp lực tưởng tượng với mối nguy thật.",
+    "text": "AP LUC TRONG DAU",
+    "color": "red",
+    "actor": "panic",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Tắt thông báo nhóm chat cơ quan, cất máy vào két sắt.",
+    "text": "CAT MAY VAO KET",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Hạ hai vai xuống, ca trực kết thúc thật rồi.",
+    "text": "HA HAI VAI XUONG",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Bình yên của chuyến đi có thể bắt đầu ngay lúc này.",
+    "text": "BINH YEN BAT DAU",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s584",
+  "mascot": "buff",
+  "title": "Sightseeing on an Empty Tank",
+  "mechanism": "Effort-Recovery",
+  "lines": [
+   {
+    "vo": "First morning in town and you booked three walking tours. Bad call.",
+    "text": "TRIPLE TOUR TRAP",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "That breaks the effort-recovery model before you even warm up.",
+    "text": "EFFORT RECOVERY",
+    "actor": "arms_crossed_no",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Sightseeing is heavy cardio. You cannot run sprints on zero energy.",
+    "text": "NO SPRINT ON EMPTY",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Deep fatigue demands passive recovery first, not aggressive tourist marathons.",
+    "text": "PASSIVE RECOVERY",
+    "actor": "sleeping",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Clear your day one itinerary. Sleep in and let the battery refill.",
+    "text": "DAY ONE REST",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Rest day first, heavy exploration later. Pick your pace.",
+    "text": "REST DAY FIRST",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s584vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Vua ha canh da xep kin lich",
+  "title_vi": "Vừa hạ cánh đã xếp kín lịch",
+  "mechanism": "Effort-Recovery",
+  "lines": [
+   {
+    "vo": "Vừa hạ cánh đã xếp lịch đi bốn điểm chụp hình. Hỏng hẳn.",
+    "text": "LICH TRINH KIN MIT",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Bạn đang vi phạm quy luật nỗ lực và hồi phục cơ bản.",
+    "text": "NO LUC VA HOI PHUC",
+    "actor": "arms_crossed_no",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Đi chơi cũng tốn thể lực. Pin cạn đáy thì ngắm cảnh thành gánh nặng.",
+    "text": "PIN CAN CHO DI XA",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Khi đang mệt lả, điều bạn cần là ngủ bù chứ không phải chạy sô.",
+    "text": "NGU BU TRUOC DA",
+    "actor": "sleeping",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Để trống trọn vẹn ngày đầu tiên. Ngủ đẫy giấc rồi mới tính tiếp.",
+    "text": "NGAY DAU DE TRONG",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Nghỉ ngơi trước, cày lịch trình sau. Chọn đi.",
+    "text": "HOI PHUC TRUOC",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s585",
+  "mascot": "pen",
+  "title": "When Paradise Turns Boring",
+  "mechanism": "Hedonic Adaptation",
+  "lines": [
+   {
+    "vo": "By day three in paradise, the view felt completely ordinary.",
+    "text": "PARADISE FADES",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Meet hedonic adaptation in real time.",
+    "text": "HEDONIC ADAPTATION",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Our brains quickly downgrade exceptional luxury into the baseline expectation.",
+    "text": "NEW BASELINE",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Unbroken comfort breeds sensory fatigue, until your senses slowly tune out.",
+    "text": "SENSORY FATIGUE",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "You do not need more extravagant scenery. You just need small contrasts.",
+    "text": "NEED CONTRAST",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Wander down an unfamiliar alley or taste strange street snacks.",
+    "text": "TRY NOVELTY",
+    "color": "green",
+    "actor": "snack",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Could a touch of novelty wake up your sense of wonder?",
+    "text": "AWAKEN WONDER",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s585vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Khach san xin ma o ba hom la chan",
+  "title_vi": "Khách sạn xịn mà ở ba hôm là chán",
+  "mechanism": "Hedonic Adaptation",
+  "lines": [
+   {
+    "vo": "Sang đến ngày thứ ba ở khu nghỉ dưỡng, cảnh đẹp bỗng hóa bình thường.",
+    "text": "RESORT CUNG CHAN",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Bộ não mắc tật quen sướng rất nhanh.",
+    "text": "QUEN SUONG NHANH",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Mọi tiện nghi xa hoa đều nhanh chóng tụt xuống thành mức mặc định.",
+    "text": "MUC MAC DINH MOI",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Hưởng thụ triền miên một cảnh sắc chỉ làm giác quan chai lì.",
+    "text": "CHAI LI GIAC QUAN",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Bạn không cần chuyến đi đắt tiền hơn, bạn chỉ cần sự tương phản.",
+    "text": "CAN SU TUONG PHAN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Thử ghé một quán ăn vỉa hè bình dân hoặc tản bộ vào ngõ nhỏ.",
+    "text": "DOI GOC NHIN MOI",
+    "color": "green",
+    "actor": "snack",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Một chút bất ngờ nhỏ liệu có đánh thức lại cảm giác tươi mới?",
+    "text": "DANH THUC TUOI MOI",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s586",
+  "mascot": "buff",
+  "title": "Vacations Won't Fix Your Problems",
+  "mechanism": "Focusing Illusion",
+  "lines": [
+   {
+    "vo": "You thought booking a flight would magically cure your burnout. Classic mistake.",
+    "text": "PARADISE CURE TRAP",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "You expected paradise to spot your entire workout. Bad spotter.",
+    "text": "BAD SPOTTER",
+    "actor": "confused_shrug",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Your messy thoughts fly in the same luggage right beside your shirts.",
+    "text": "BAGGAGE COMES ALONG",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Budget an irritation tax: assume three small things will fail each trip.",
+    "text": "IRRITATION TAX",
+    "color": "green",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "A delayed taxi is just a warm-up drill. Handle it.",
+    "text": "HANDLE IT",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s586vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Tuong di xa la het buon",
+  "title_vi": "Tưởng đi xa là hết buồn",
+  "mechanism": "Focusing Illusion",
+  "lines": [
+   {
+    "vo": "Tưởng cứ xách ba lô đi xa là quẳng hết được gánh lo. Nhầm to.",
+    "text": "DI XA DE HET LO",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Tưởng đi nghỉ sẽ gánh thay bạn cả bài tạ tâm lý à? Nhầm.",
+    "text": "GANH TA TAM LY",
+    "actor": "confused_shrug",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Những mối lo cũ vẫn nằm nguyên trong vali bay cùng bạn.",
+    "text": "NO LO DI CUNG VALI",
+    "color": "red",
+    "actor": "wallet_worry",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Chuẩn bị sẵn tâm lý: chấp nhận ba sự cố lặt vặt mỗi chuyến đi.",
+    "text": "CHAP NHAN SU CO",
+    "color": "green",
+    "actor": "think",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Mưa hay trễ xe chỉ là tạ khởi động. Bước tiếp đi.",
+    "text": "TA KHOI DONG",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s587",
+  "mascot": "pen",
+  "title": "The Hidden Exhaustion of Travel",
+  "mechanism": "Planning Fallacy",
+  "lines": [
+   {
+    "vo": "Sprinting through bag drop and security gates on zero breath.",
+    "text": "TRAVEL SPRINT",
+    "color": "red",
+    "actor": "sprint_start",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Why did you expect heavy logistics to cost zero mental energy?",
+    "text": "HIDDEN EFFORT",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "This is the planning fallacy trapping you again.",
+    "text": "PLANNING FALLACY",
+    "color": "red",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "We plan trips for flawless robots, not exhausted human nervous systems.",
+    "text": "ROBOT LOGISTICS",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Crowded lines and delayed luggage silently drain your stamina.",
+    "text": "SILENT DRAIN",
+    "actor": "facepalm",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Pad your itinerary with generous buffers between every transition.",
+    "text": "ADD BUFFER TIME",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Give your senses wide margins so you can actually arrive.",
+    "text": "ROOM TO BREATHE",
+    "color": "green",
+    "actor": "reading",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "A calm journey matters far more than an efficient checklist.",
+    "text": "CALM OVER SPEED",
+    "color": "gold",
+    "actor": "front",
+    "prop": "checkbox_tick"
+   }
+  ]
+ },
+ {
+  "id": "s587vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Len lich nhu nguoi may di tour",
+  "title_vi": "Lên lịch như người máy đi tour",
+  "mechanism": "Planning Fallacy",
+  "lines": [
+   {
+    "vo": "Cuống cuồng xếp đồ rồi chen chúc sân bay, chưa kịp thở một hơi.",
+    "text": "VUA DI VUA THO DOC",
+    "color": "red",
+    "actor": "sprint_start",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Sao mình cứ nghĩ việc di chuyển không tốn chút năng lượng nào nhỉ?",
+    "text": "HAO TON NANG LUONG",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Đó là cái bẫy ảo tưởng tiến độ quen thuộc.",
+    "text": "AO TUONG TIEN DO",
+    "color": "red",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Chúng ta thường lên lịch như cho người máy chứ không phải người mệt.",
+    "text": "LICH CHO NGUOI MAY",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Xếp hàng, chờ xe và thủ tục giấy tờ âm thầm rút cạn sức lực.",
+    "text": "RUT CAN THE LUC",
+    "actor": "facepalm",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Hãy chèn thêm khoảng đệm thời gian rộng rãi giữa các chặng.",
+    "text": "THEM KHOANG DEM",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Để các giác quan có khoảng nghỉ trước khi bắt đầu chặng kế tiếp.",
+    "text": "KHOANG THO THU THAI",
+    "color": "green",
+    "actor": "reading",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Một chuyến đi thư thả luôn đáng giá hơn một danh sách tích kín.",
+    "text": "THU THA LA TREN HET",
+    "color": "gold",
+    "actor": "front",
+    "prop": "checkbox_tick"
+   }
+  ]
+ }
+]

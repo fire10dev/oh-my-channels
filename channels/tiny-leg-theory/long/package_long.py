@@ -49,8 +49,8 @@ def thumb(lid, dst):
 
 def main():
     rows = {"en": [], "vi": []}
-    for f in sorted(R.glob("final/L*-*.mp4")):
-        lid = re.match(r"(L\d-(?:en|vi))", f.name).group(1); lang = lid[-2:]
+    for f in sorted(R.glob("final/L*-*.mp4"), key=lambda f: int(re.match(r"L(\d+)", f.name).group(1))):
+        lid = re.match(r"(L\d+-(?:en|vi))", f.name).group(1); lang = lid[-2:]
         s = json.load(open(R / "scripts" / f"{lid}.json"))
         tp = R / "final" / f"{lid}.thumb.jpg"; thumb(lid, tp)
         ch = [re.sub(r"^(\d+:\d\d) (\d+\.\s*)?", r"\1 ", l) for l in (R / "final" / f"{lid}.chapters.txt").read_text().splitlines()]

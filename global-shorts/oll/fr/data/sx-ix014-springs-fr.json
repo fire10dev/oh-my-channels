@@ -1,0 +1,82 @@
+{
+ "title": "Les bâtiments de Cheyenne Mountain reposent sur d’immenses ressorts",
+ "hook": "BÂTIS SUR RESSORTS",
+ "asof": "Données tirées d’articles de l’US Air Force et de l’US Space Force",
+ "world": "mountain",
+ "long": "IX014",
+ "chapters": [
+  {
+   "id": "springs",
+   "hud": "JOUR 1",
+   "chip": "09:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Ces bâtiments reposent sur d’immenses ressorts en acier.",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "Ils sont à l’intérieur de Cheyenne Mountain, au Colorado.",
+     "v": "mountain"
+    },
+    {
+     "s": "Un bunker de commandement conçu pour survivre à une guerre nucléaire.",
+     "v": "cave"
+    },
+    {
+     "s": "Quinze bâtiments se trouvent dans une cavité creusée dans le granit.",
+     "v": "cave",
+     "st": [
+      "15",
+      "bâtiments"
+     ]
+    },
+    {
+     "s": "Ils ne touchent pas la roche : il y a environ 46 centimètres d’espace.",
+     "v": "gap",
+     "st": [
+      "46 CM",
+      "de la roche"
+     ]
+    },
+    {
+     "s": "À la place, ils reposent sur plus de mille trois cents ressorts.",
+     "v": "springs",
+     "st": [
+      "1 300+",
+      "ressorts"
+     ]
+    },
+    {
+     "s": "Chacun pèse plus de 450 kilos.",
+     "v": "spring"
+    },
+    {
+     "s": "Si une explosion ou un séisme secoue la montagne,",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "les bâtiments rebondissent au lieu de se briser.",
+     "v": "springs",
+     "plane": "shake"
+    },
+    {
+     "s": "La porte d’entrée pèse 23 tonnes.",
+     "v": "door",
+     "plane": "door:shut",
+     "st": [
+      "23 TONNES",
+      "porte anti-explosion"
+     ]
+    },
+    {
+     "s": "Tu te sentirais en sécurité là-dedans ?",
+     "v": "command",
+     "you": "command"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{"id":"w012","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#eab308","cover_frame":60,
+ "source":"Population & coast: Australian Bureau of Statistics · Area: Geoscience Australia","music":"shared/library/music/yt-audio-library/A Stroll Alone - Everet Almond.mp3",
+ "beats":[
+  {"say":"Australia is almost as big as the mainland United States.","title":"AUSTRALIA IS HUGE (AND EMPTY)","cam":{"lon":134,"lat":-26,"span":55},"hl":[{"a3":"AUS","color":"#eab308"}]},
+  {"say":"Drop it on top of America at true size.","cam":{"lon":-98,"lat":39,"span":70},"hl":[{"a3":"USA","color":"#334155"}],"ghost":{"a3":"AUS","to":[-97,38],"color":"#eab308"}},
+  {"say":"Almost a perfect fit. But the USA has about three hundred forty million people. Australia has around twenty seven million.","cam":{"lon":-97,"lat":38,"span":70},"ghost":{"a3":"AUS","to":[-97,38],"color":"#eab308"},
+   "bars":{"unit":"M","items":[{"label":"USA","value":340,"color":"#3b82f6"},{"label":"Australia","value":27,"color":"#eab308"}]}},
+  {"say":"And most Australians live right on the edge. About eighty five percent live within fifty kilometers of the coast.","cam":{"lon":134,"lat":-27,"span":50},"hl":[{"a3":"AUS","color":"#78716c"}],
+   "pins":[{"lon":151.21,"lat":-33.87,"text":"Sydney"},{"lon":144.96,"lat":-37.81,"text":"Melbourne"},{"lon":153.03,"lat":-27.47,"text":"Brisbane"},{"lon":115.86,"lat":-31.95,"text":"Perth"}],"big":{"value":"85%","label":"live near the coast"}},
+  {"say":"The middle is the outback: desert, scrubland and red dirt, as far as you can see.","cam":{"lon":133,"lat":-25,"span":35},"hl":[{"a3":"AUS","color":"#b45309"}]},
+  {"say":"A whole continent, living on the beach. Follow for more.","title":"A CONTINENT ON THE BEACH","cam":{"lon":134,"lat":-26,"span":55},"hl":[{"a3":"AUS","color":"#eab308"}]}
+ ]}

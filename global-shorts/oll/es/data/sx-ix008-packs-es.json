@@ -1,0 +1,78 @@
+{
+ "title": "Cómo van al baño los pilotos del B-2 en una misión de 44 horas",
+ "hook": "DOS BOLSAS POR HORA",
+ "asof": "Cifras de las misiones de 2001 y 2025",
+ "world": "bomber",
+ "long": "IX008",
+ "chapters": [
+  {
+   "id": "toilet",
+   "hud": "HORA 30",
+   "chip": "00:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Cuarenta y cuatro horas en un bombardero. ¿Adónde vas?",
+     "v": "toilet",
+     "you": "toilet"
+    },
+    {
+     "s": "En 2001, una tripulación del B-2 voló 44,3 horas sin parar.",
+     "v": "sky",
+     "st": [
+      "44,3 HORAS",
+      "Oct 2001"
+     ]
+    },
+    {
+     "s": "El aire allá arriba es tan seco que los pilotos beben sin parar.",
+     "v": "water",
+     "you": "seats"
+    },
+    {
+     "s": "El jet tiene un pequeño baño químico.",
+     "v": "toilet",
+     "you": "toilet"
+    },
+    {
+     "s": "No alcanzaba para 44 horas.",
+     "v": "toilet"
+    },
+    {
+     "s": "Así que la tripulación usó bolsas para orinar.",
+     "v": "packs",
+     "plane": "packs:6"
+    },
+    {
+     "s": "Tienen un polvo que convierte la orina en gel.",
+     "v": "packs",
+     "plane": "packs:6"
+    },
+    {
+     "s": "El piloto dijo que llenaban unas dos por hora.",
+     "v": "packs",
+     "plane": "packs:20",
+     "st": [
+      "2 POR HORA",
+      "bolsas para orinar"
+     ]
+    },
+    {
+     "s": "Luego calcularon cuánto peso tendrían que descargar.",
+     "v": "packs",
+     "plane": "packs:40"
+    },
+    {
+     "s": "Sin duchas. Sin cambio de ropa.",
+     "v": "seats",
+     "you": "seats"
+    },
+    {
+     "s": "¿Aguantarías 44 horas así?",
+     "v": "cockpit",
+     "you": "seats"
+    }
+   ]
+  }
+ ]
+}

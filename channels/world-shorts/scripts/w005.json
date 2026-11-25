@@ -1,0 +1,242 @@
+{
+ "id": "w005",
+ "lang": "en",
+ "voice": "am_michael",
+ "speed": 1.08,
+ "brand": "MAP PARADOX",
+ "accent": "#f97316",
+ "cover_frame": 60,
+ "source": "Oil flows: U.S. Energy Information Administration (2024)",
+ "music": "shared/library/music/yt-audio-library/Future Rennaisance - Godmode.mp3",
+ "beats": [
+  {
+   "say": "One fifth of all the oil the world uses passes through this tiny gap.",
+   "title": "THE MOST DANGEROUS GAP ON EARTH",
+   "cam": {
+    "lon": 56,
+    "lat": 26.5,
+    "span": 14
+   },
+   "pins": [
+    {
+     "lon": 56.4,
+     "lat": 26.55,
+     "text": "Strait of Hormuz"
+    }
+   ],
+   "hl": [
+    {
+     "a3": "IRN",
+     "color": "#f97316"
+    },
+    {
+     "a3": "OMN",
+     "color": "#22c55e"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      52,
+      26.2
+     ],
+     [
+      55,
+      26.1
+     ],
+     [
+      56.35,
+      26.55
+     ],
+     [
+      57.3,
+      25.6
+     ],
+     [
+      59,
+      24.3
+     ]
+    ],
+    "color": "#ffd23f",
+    "arrow": true,
+    "label": "Oil tankers"
+   }
+  },
+  {
+   "say": "This is the Strait of Hormuz, between Iran and Oman.",
+   "cam": {
+    "lon": 54,
+    "lat": 27,
+    "span": 30
+   },
+   "hl": [
+    {
+     "a3": "IRN",
+     "color": "#f97316",
+     "label": "Iran"
+    },
+    {
+     "a3": "OMN",
+     "color": "#22c55e",
+     "label": "Oman"
+    }
+   ]
+  },
+  {
+   "say": "Every day, about twenty million barrels of oil sail through it. That's around twenty percent of global consumption.",
+   "cam": {
+    "lon": 54,
+    "lat": 27,
+    "span": 30
+   },
+   "big": {
+    "value": "20%",
+    "label": "of the world's oil"
+   }
+  },
+  {
+   "say": "Saudi Arabia, Iraq, Kuwait, Qatar and the Emirates all ship their oil out this way.",
+   "cam": {
+    "lon": 50,
+    "lat": 27,
+    "span": 34
+   },
+   "hl": [
+    {
+     "a3": "SAU",
+     "color": "#ffd23f"
+    },
+    {
+     "a3": "IRQ",
+     "color": "#ffd23f"
+    },
+    {
+     "a3": "KWT",
+     "color": "#ffd23f"
+    },
+    {
+     "a3": "QAT",
+     "color": "#ffd23f"
+    },
+    {
+     "a3": "ARE",
+     "color": "#ffd23f"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      48.5,
+      29.3
+     ],
+     [
+      50.5,
+      27.5
+     ],
+     [
+      53,
+      26.3
+     ],
+     [
+      56.3,
+      26.4
+     ],
+     [
+      57.5,
+      25.2
+     ],
+     [
+      60,
+      23.5
+     ]
+    ],
+    "color": "#f97316"
+   }
+  },
+  {
+   "say": "At its narrowest it is only about thirty three kilometers wide, and the shipping lanes are just two miles each way.",
+   "cam": {
+    "lon": 56.4,
+    "lat": 26.4,
+    "span": 7
+   },
+   "big": {
+    "value": "33 km",
+    "label": "at the narrowest point"
+   },
+   "hl": [
+    {
+     "a3": "IRN",
+     "color": "#f97316"
+    },
+    {
+     "a3": "OMN",
+     "color": "#22c55e"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      56.36,
+      26.5
+     ],
+     [
+      56.36,
+      26.82
+     ]
+    ],
+    "color": "#ffd23f"
+   }
+  },
+  {
+   "say": "Pipelines that bypass it can carry only a small part of that oil. If this strait closes, prices everywhere jump.",
+   "cam": {
+    "lon": 52,
+    "lat": 25,
+    "span": 32
+   },
+   "hl": [
+    {
+     "a3": "SAU",
+     "color": "#94a3b8"
+    },
+    {
+     "a3": "ARE",
+     "color": "#94a3b8"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      49.7,
+      25.9
+     ],
+     [
+      45,
+      25.2
+     ],
+     [
+      41,
+      24.6
+     ],
+     [
+      38.06,
+      24.09
+     ]
+    ],
+    "color": "#94a3b8",
+    "arrow": true,
+    "label": "Bypass pipeline"
+   }
+  },
+  {
+   "say": "Thirty three kilometers that move the whole world economy. Follow for more.",
+   "title": "33 KM THAT MOVE THE WORLD",
+   "cam": {
+    "lon": 56,
+    "lat": 26.5,
+    "span": 14
+   }
+  }
+ ]
+}

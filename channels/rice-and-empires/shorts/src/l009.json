@@ -1,0 +1,1229 @@
+{
+ "chapters": [
+  "A King in Jade",
+  "The General Who Stayed",
+  "Going Native",
+  "Emperor at Home",
+  "The Crossbow and the Princess",
+  "The Last Kings",
+  "Whose Kingdom?",
+  "The Name That Came Back"
+ ],
+ "rows": [
+  {
+   "id": "01",
+   "ch": 0,
+   "sub": "In 1983, builders in Guangzhou, in southern China, struck a sealed stone tomb. It belonged to a king of Nanyue, a lost kingdom claimed by both Chinese and Vietnamese history.",
+   "say": "In 1983, builders in Gwahng-joe, in southern China, struck a sealed stone tomb. It belonged to a king of Nahn-yweh, a lost kingdom claimed by both Chinese and Vietnamese history.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-01.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-04.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "02",
+   "ch": 0,
+   "sub": "He lay in a suit of more than two thousand jade plates, sewn together with silk thread.",
+   "say": "He lay in a suit of more than two thousand jade plates, sewn together with silk thread.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/clip-1.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-02.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "03",
+   "ch": 0,
+   "sub": "On his body lay a gold seal with a coiled dragon. Its inscription reads: seal of Emperor Wen.",
+   "say": "On his body lay a gold seal with a coiled dragon. Its inscription reads: seal of Emperor Wen.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-03.jpg"
+    }
+   ],
+   "src": "Nanyue King Museum, Guangzhou",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "04",
+   "ch": 0,
+   "sub": "But the Han histories call this man a king, King Wen of Nanyue. A king in the books. An emperor in his own tomb.",
+   "say": "But the Han histories call this man a king, King Wen of Nahn-yweh. A king in the books. An emperor in his own tomb.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-03.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-02.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "05",
+   "ch": 0,
+   "sub": "His grandfather, Zhao Tuo, was a Qin officer from the north. Vietnam's first national chronicle made him an emperor of its own. Later Vietnamese historians called him an invader.",
+   "say": "His grandfather, Jow Twaw, was a Chin officer from the north. Vietnam's first national chronicle made him an emperor of its own. Later Vietnamese historians called him an invader.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-07.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-04.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "06",
+   "ch": 0,
+   "sub": "So whose kingdom was Nanyue? Let's look at what the sources actually say.",
+   "say": "So whose kingdom was Nahn-yweh? Let's look at what the sources actually say.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-04.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "07",
+   "ch": 1,
+   "sub": "Around 214 BC, armies of the Qin, the first Chinese empire, pushed south across the mountains.",
+   "say": "Around 214 BC, armies of the Chin, the first Chinese empire, pushed south across the mountains.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "-214"
+    },
+    {
+     "k": "clip",
+     "src": "l009/clip-2.mp4"
+    }
+   ],
+   "src": null,
+   "cardBefore": "1",
+   "cardAfter": null
+  },
+  {
+   "id": "08",
+   "ch": 1,
+   "sub": "Qin set up three new commanderies there: Nanhai, Guilin and Xiang.",
+   "say": "Chin set up three new commanderies there: Nahn-hye, Gway-lin and Shyahng.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "qin_south_214"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-05.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "09",
+   "ch": 1,
+   "sub": "Convicts and settlers were sent to live among the local peoples, whom the Chinese called the Yue.",
+   "say": "Convicts and settlers were sent to live among the local peoples, whom the Chinese called the Yweh.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-06.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "10",
+   "ch": 1,
+   "sub": "One of the northern officers was Zhao Tuo, from Zhending in the north. Qin made him magistrate of Longchuan, a county of Nanhai.",
+   "say": "One of the northern officers was Jow Twaw, from Jun-ding in the north. Chin made him magistrate of Long-chwahn, a county of Nahn-hye.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-07.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "11",
+   "ch": 1,
+   "sub": "Then rebellions broke out in the north. The dying commander of Nanhai, Ren Xiao, called Zhao Tuo to his bed.",
+   "say": "Then rebellions broke out in the north. The dying commander of Nahn-hye, Ren Shyow, called Jow Twaw to his bed.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-08.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "12",
+   "ch": 1,
+   "sub": "According to Sima Qian, Ren told him that Panyu, guarded by mountains and the sea, could be the heart of a state.",
+   "say": "According to Suh-mah Chyen, Ren told him that Pahn-yoo, guarded by mountains and the sea, could be the heart of a state.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-08.jpg"
+    }
+   ],
+   "src": "Sima Qian, Shiji 113",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "13",
+   "ch": 1,
+   "sub": "Zhao Tuo took command. He closed the mountain passes, cut the new roads, and replaced Qin officials with his own men.",
+   "say": "Jow Twaw took command. He closed the mountain passes, cut the new roads, and replaced Chin officials with his own men.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-09.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "14",
+   "ch": 1,
+   "sub": "When Qin collapsed, he took Guilin and Xiang as well, and around 204 BC named himself King of Nanyue. His capital was Panyu, today's Guangzhou.",
+   "say": "When Chin collapsed, he took Gway-lin and Shyahng as well, and around 204 BC named himself King of Nahn-yweh. His capital was Pahn-yoo, today's Gwahng-joe.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "-204"
+    },
+    {
+     "k": "map",
+     "state": "nanyue"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-10.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "15",
+   "ch": 2,
+   "sub": "Who were the Yue? Not one nation. Chinese writers used the word for many southern peoples, the Hundred Yue.",
+   "say": "Who were the Yweh? Not one nation. Chinese writers used the word for many southern peoples, the Hundred Yweh.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-11.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "2",
+   "cardAfter": null
+  },
+  {
+   "id": "16",
+   "ch": 2,
+   "sub": "Chinese texts describe Yue people who cut their hair short and tattooed their bodies.",
+   "say": "Chinese texts describe Yweh people who cut their hair short and tattooed their bodies.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-11.jpg"
+    }
+   ],
+   "src": "Zhuangzi, ch. 1",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "17",
+   "ch": 2,
+   "sub": "In 196 BC, the new Han emperor sent an envoy south: Lu Jia.",
+   "say": "In 196 BC, the new Han emperor sent an envoy south: Loo Jyah.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "-196"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-16.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "18",
+   "ch": 2,
+   "sub": "Sima Qian says Zhao Tuo received him with his hair in a southern bun, sprawling with his legs stretched out.",
+   "say": "Suh-mah Chyen says Jow Twaw received him with his hair in a southern bun, sprawling with his legs stretched out.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-12.jpg"
+    }
+   ],
+   "src": "Sima Qian, Shiji 97",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "19",
+   "ch": 2,
+   "sub": "Lu Jia scolded him. You are a man of the Central States, he said. Your family graves are in the north.",
+   "say": "Loo Jyah scolded him. You are a man of the Central States, he said. Your family graves are in the north.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-12.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "20",
+   "ch": 2,
+   "sub": "Zhao Tuo sat up. I have lived among the southern peoples so long, he said, that I have forgotten my manners.",
+   "say": "Jow Twaw sat up. I have lived among the southern peoples so long, he said, that I have forgotten my manners.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-12.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "21",
+   "ch": 2,
+   "sub": "Then he laughed. I did not rise up in China, he said, so I am king here. Had I been there, why would I be any less than the Han?",
+   "say": "Then he laughed. I did not rise up in China, he said, so I am king here. Had I been there, why would I be any less than the Han?",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-13.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "22",
+   "ch": 2,
+   "sub": "His court mixed northern settlers with Yue nobles. And Sima Qian lists Panyu as a rich market for pearls and rhinoceros horn.",
+   "say": "His court mixed northern settlers with Yweh nobles. And Suh-mah Chyen lists Pahn-yoo as a rich market for pearls and rhinoceros horn.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-13.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-14.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-15.jpg"
+    }
+   ],
+   "src": "Sima Qian, Shiji 129",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "23",
+   "ch": 3,
+   "sub": "Lu Jia gave him a Han seal as King of Nanyue, and Zhao Tuo agreed to serve Han as a vassal.",
+   "say": "Loo Jyah gave him a Han seal as King of Nahn-yweh, and Jow Twaw agreed to serve Han as a vassal.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-17.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "3",
+   "cardAfter": null
+  },
+  {
+   "id": "24",
+   "ch": 3,
+   "sub": "Then, under Empress Lü, Han officials banned the sale of iron goods to Nanyue at the border markets.",
+   "say": "Then, under Empress Lyoo, Han officials banned the sale of iron goods to Nahn-yweh at the border markets.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-18.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "25",
+   "ch": 3,
+   "sub": "Zhao Tuo blamed the neighbouring king of Changsha. He declared himself Emperor of Nanyue and attacked Changsha's border towns.",
+   "say": "Jow Twaw blamed the neighbouring king of Chahng-shah. He declared himself Emperor of Nahn-yweh and attacked Chahng-shah's border towns.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-19.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-20.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "26",
+   "ch": 3,
+   "sub": "Han sent an army. Heat and disease stopped it at the mountains. When the empress died, in 180 BC, the war ended.",
+   "say": "Han sent an army. Heat and disease stopped it at the mountains. When the empress died, in 180 BC, the war ended.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-20.jpg"
+    },
+    {
+     "k": "tl",
+     "year": "-180"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "27",
+   "ch": 3,
+   "sub": "Han records say Zhao Tuo then used his army and his wealth to bring neighbours under his sway, including the Western Ou and the Luo.",
+   "say": "Han records say Jow Twaw then used his army and his wealth to bring neighbours under his sway, including the Western Oh and the Lwaw.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "nanyue_max"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-19.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "28",
+   "ch": 3,
+   "sub": "In 179 BC, the new emperor Wen repaired Zhao Tuo's family graves in the north, and sent Lu Jia south again.",
+   "say": "In 179 BC, the new emperor Wen repaired Jow Twaw's family graves in the north, and sent Loo Jyah south again.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "-179"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-16.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "29",
+   "ch": 3,
+   "sub": "Zhao Tuo wrote back as your old servant, great chief of the barbarians. He had called himself emperor, he wrote, only to amuse himself.",
+   "say": "Jow Twaw wrote back as your old servant, great chief of the barbarians. He had called himself emperor, he wrote, only to amuse himself.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-21.jpg"
+    }
+   ],
+   "src": "Shiji 113 · Hanshu 95",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "30",
+   "ch": 3,
+   "sub": "But Sima Qian adds a quiet line. Inside his own kingdom, Zhao Tuo kept the old title. A king to Han. An emperor at home.",
+   "say": "But Suh-mah Chyen adds a quiet line. Inside his own kingdom, Jow Twaw kept the old title. A king to Han. An emperor at home.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-22.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "31",
+   "ch": 3,
+   "sub": "Decades later, his grandson was buried with a seal that said exactly that. Emperor.",
+   "say": "Decades later, his grandson was buried with a seal that said exactly that. Emperor.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-03.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "32",
+   "ch": 4,
+   "sub": "What about the Red River, in today's northern Vietnam? Here, two kinds of record tell different stories.",
+   "say": "What about the Red River, in today's northern Vietnam? Here, two kinds of record tell different stories.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-30.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "4",
+   "cardAfter": null
+  },
+  {
+   "id": "33",
+   "ch": 4,
+   "sub": "For this region, the Han histories only name the Western Ou and the Luo, won over with gifts and the threat of an army.",
+   "say": "For this region, the Han histories only name the Western Oh and the Lwaw, won over with gifts and the threat of an army.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-30.jpg"
+    }
+   ],
+   "src": "Shiji 113",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "34",
+   "ch": 4,
+   "sub": "Many historians connect the Luo with the Lạc of the Red River plains.",
+   "say": "Many historians connect the Lwaw with the Lahk of the Red River plains.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "nanyue_max"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "35",
+   "ch": 4,
+   "sub": "Vietnamese tradition tells a story instead, written down many centuries later.",
+   "say": "Vietnamese tradition tells a story instead, written down many centuries later.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-30.jpg"
+    }
+   ],
+   "src": "LEGEND · Lĩnh Nam chích quái · Toàn thư (1479)",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "36",
+   "ch": 4,
+   "sub": "The legend says King An Dương of Âu Lạc built a spiral citadel at Cổ Loa. A golden turtle gave him a claw, to make the trigger of a magic crossbow.",
+   "say": "The legend says King Ahn Zuong of Oh Lahk built a spiral citadel at Koh Lwah. A golden turtle gave him a claw, to make the trigger of a magic crossbow.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-23.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-24.jpg"
+    }
+   ],
+   "src": "LEGEND",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "37",
+   "ch": 4,
+   "sub": "With it he could not be beaten. So Zhao Tuo made peace, the story goes, and sent his son Trọng Thủy to marry the king's daughter, Mỵ Châu.",
+   "say": "With it he could not be beaten. So Jow Twaw made peace, the story goes, and sent his son Chong Twee to marry the king's daughter, Mee Chow.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-25.jpg"
+    }
+   ],
+   "src": "LEGEND",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "38",
+   "ch": 4,
+   "sub": "Trọng Thủy secretly swapped the claw, then went home. Zhao Tuo attacked, and the crossbow failed.",
+   "say": "Chong Twee secretly swapped the claw, then went home. Jow Twaw attacked, and the crossbow failed.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-26.jpg"
+    }
+   ],
+   "src": "LEGEND",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "39",
+   "ch": 4,
+   "sub": "The king fled with Mỵ Châu, who left goose feathers for her husband to follow. At the sea, the turtle named her the enemy, and the king killed her.",
+   "say": "The king fled with Mee Chow, who left goose feathers for her husband to follow. At the sea, the turtle named her the enemy, and the king killed her.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-27.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-28.jpg"
+    }
+   ],
+   "src": "LEGEND",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "40",
+   "ch": 4,
+   "sub": "Even the date is disputed: around 208 BC in the Vietnamese chronicle, around 180 BC in many modern accounts.",
+   "say": "Even the date is disputed: around 208 BC in the Vietnamese chronicle, around 180 BC in many modern accounts.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "-179"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-30.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "41",
+   "ch": 4,
+   "sub": "Archaeology adds something else. Cổ Loa is real: huge earthen walls, the oldest layers from around 300 BC.",
+   "say": "Archaeology adds something else. Koh Lwah is real: huge earthen walls, the oldest layers from around 300 BC.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-23.jpg"
+    }
+   ],
+   "src": "Kim et al. 2010 · Archaeology 2016",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "42",
+   "ch": 4,
+   "sub": "Digs found bronze arrowheads, and stone moulds to cast them. That shows a strong local power. It does not prove the legend.",
+   "say": "Digs found bronze arrowheads, and stone moulds to cast them. That shows a strong local power. It does not prove the legend.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-29.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "43",
+   "ch": 4,
+   "sub": "Most historians think Nanyue ruled the Red River through local lords.",
+   "say": "Most historians think Nahn-yweh ruled the Red River through local lords.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "nanyue_max"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "44",
+   "ch": 5,
+   "sub": "Zhao Tuo died in 137 BC. The Vietnamese chronicle says he lived to a hundred and twenty-one, a number we cannot check.",
+   "say": "Jow Twaw died in 137 BC. The Vietnamese chronicle says he lived to a hundred and twenty-one, a number we cannot check.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "-137"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-31.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "5",
+   "cardAfter": null
+  },
+  {
+   "id": "45",
+   "ch": 5,
+   "sub": "His grandson took the throne, the king from the tomb. The histories call him Zhao Hu. His own seal says Zhao Mo.",
+   "say": "His grandson took the throne, the king from the tomb. The histories call him Jow Hoo. His own seal says Jow Maw.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-32.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "46",
+   "ch": 5,
+   "sub": "When Han asked him to come to court, his ministers warned: go, and you will never come back. He stayed home, pleading illness.",
+   "say": "When Han asked him to come to court, his ministers warned: go, and you will never come back. He stayed home, pleading illness.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-32.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "47",
+   "ch": 5,
+   "sub": "His son Yingqi, Sima Qian says, hid away the old seal of Zhao Tuo. The one that said Emperor.",
+   "say": "His son Ying-chee, Suh-mah Chyen says, hid away the old seal of Jow Twaw. The one that said Emperor.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-03.jpg"
+    }
+   ],
+   "src": "Shiji 113",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "48",
+   "ch": 5,
+   "sub": "Yingqi had married a woman from Handan, in the north. Their young son became king, and she became queen mother.",
+   "say": "Ying-chee had married a woman from Hahn-dahn, in the north. Their young son became king, and she became queen mother.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-33.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "49",
+   "ch": 5,
+   "sub": "Han envoys came again. One, Sima Qian says, had once been her lover.",
+   "say": "Han envoys came again. One, Suh-mah Chyen says, had once been her lover.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-33.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "50",
+   "ch": 5,
+   "sub": "The queen mother and the young king asked to join Han, under Han law.",
+   "say": "The queen mother and the young king asked to join Han, under Han law.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-33.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "51",
+   "ch": 5,
+   "sub": "The minister Lü Jia, trusted by the Yue, refused. He told the kingdom the queen was a woman of the Central States, ready to hand its treasures to Han.",
+   "say": "The minister Lyoo Jyah, trusted by the Yweh, refused. He told the kingdom the queen was a woman of the Central States, ready to hand its treasures to Han.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-34.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "52",
+   "ch": 5,
+   "sub": "In 112 BC, he killed the king, the queen mother and the Han envoys, and put another prince on the throne.",
+   "say": "In 112 BC, he killed the king, the queen mother and the Han envoys, and put another prince on the throne.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "-112"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-34.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "53",
+   "ch": 5,
+   "sub": "Emperor Wu sent armies and river fleets south. In the winter of 111 BC, Panyu burned and surrendered.",
+   "say": "Emperor Wu sent armies and river fleets south. In the winter of 111 BC, Pahn-yoo burned and surrendered.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "-111"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-35.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-36.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "54",
+   "ch": 5,
+   "sub": "Nanyue became nine Han commanderies. Three of them, Jiaozhi, Jiuzhen and Rinan, lay in what is now northern and north-central Vietnam.",
+   "say": "Nahn-yweh became nine Han commanderies. Three of them, Jyow-jir, Jyoh-jun and Ree-nahn, lay in what is now northern and north-central Vietnam.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "han_nine_111"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-37.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "55",
+   "ch": 5,
+   "sub": "Five generations, ninety-three years, Sima Qian counts. Then the kingdom was gone.",
+   "say": "Five generations, ninety-three years, Suh-mah Chyen counts. Then the kingdom was gone.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-36.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "56",
+   "ch": 6,
+   "sub": "So whose kingdom was it? Each side has its own answer, and the answers have changed over time.",
+   "say": "So whose kingdom was it? Each side has its own answer, and the answers have changed over time.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-39.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "6",
+   "cardAfter": null
+  },
+  {
+   "id": "57",
+   "ch": 6,
+   "sub": "To Sima Qian, Nanyue's kings were Han vassals, and 111 BC meant the Yue lands were finally settled.",
+   "say": "To Suh-mah Chyen, Nahn-yweh's kings were Han vassals, and 111 BC meant the Yweh lands were finally settled.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-30.jpg"
+    }
+   ],
+   "src": "Shiji 113 · Hanshu 6",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "58",
+   "ch": 6,
+   "sub": "In Vietnam, the story began differently. In 1272, Lê Văn Hưu wrote the first national chronicle, and began it with Zhao Tuo, as Triệu Vũ Đế.",
+   "say": "In Vietnam, the story began differently. In 1272, Lay Vahn Hew wrote the first national chronicle, and began it with Jow Twaw, as Chee-oh Voo Day.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "1272"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-38.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "59",
+   "ch": 6,
+   "sub": "He praised him for opening up our Việt land and standing up to the Han.",
+   "say": "He praised him for opening up our Vee-et land and standing up to the Han.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-38.jpg"
+    }
+   ],
+   "src": "Lê Văn Hưu, in Toàn thư",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "60",
+   "ch": 6,
+   "sub": "In the eighteenth century, the scholar Ngô Thì Sĩ disagreed. Zhao Tuo ruled from Panyu, he argued, as a foreign king.",
+   "say": "In the eighteenth century, the scholar Ngoh Tee See disagreed. Jow Twaw ruled from Pahn-yoo, he argued, as a foreign king.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-39.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "61",
+   "ch": 6,
+   "sub": "Many twentieth-century Vietnamese historians followed that line. Zhao Tuo became an invader, and King An Dương the ruler who lost to him.",
+   "say": "Many twentieth-century Vietnamese historians followed that line. Jow Twaw became an invader, and King Ahn Zuong the ruler who lost to him.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-39.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l009/img-24.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "62",
+   "ch": 6,
+   "sub": "In Guangzhou, the tomb is now a museum, and Nanyue is presented as the region's own heritage, the culture of Lingnan.",
+   "say": "In Gwahng-joe, the tomb is now a museum, and Nahn-yweh is presented as the region's own heritage, the culture of Ling-nahn.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-40.jpg"
+    }
+   ],
+   "src": "Nanyue King Museum",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "63",
+   "ch": 6,
+   "sub": "Modern historians, like Keith Taylor and Erica Brindley, point to a problem with all of these answers.",
+   "say": "Modern historians, like Keith Taylor and Erica Brindley, point to a problem with all of these answers.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-39.jpg"
+    }
+   ],
+   "src": "Taylor 1983 · Brindley 2015",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "64",
+   "ch": 6,
+   "sub": "Around 200 BC, there was no China or Vietnam as we know them. Yue was an outsider's word for many peoples, and Nanyue was a mixed kingdom.",
+   "say": "Around 200 BC, there was no China or Vietnam as we know them. Yweh was an outsider's word for many peoples, and Nahn-yweh was a mixed kingdom.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-13.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "65",
+   "ch": 6,
+   "sub": "A northern family ruled it, through southern lords. Later nations each read their own story into it.",
+   "say": "A northern family ruled it, through southern lords. Later nations each read their own story into it.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "two_claims"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "66",
+   "ch": 7,
+   "sub": "Nanyue did not quite disappear. Its name came back, two thousand years later.",
+   "say": "Nahn-yweh did not quite disappear. Its name came back, two thousand years later.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-04.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "7",
+   "cardAfter": null
+  },
+  {
+   "id": "67",
+   "ch": 7,
+   "sub": "In the early 1800s, the new Nguyễn ruler Gia Long asked the Qing court to recognise his kingdom as Nam Việt.",
+   "say": "In the early 1800s, the new Nwin ruler Zah Long asked the Ching court to recognise his kingdom as Nahm Vee-et.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "1804"
+    },
+    {
+     "k": "map",
+     "state": "two_claims"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "68",
+   "ch": 7,
+   "sub": "Qing records show the court objected. Ancient Nanyue had covered Guangdong and Guangxi, lands now part of the Qing.",
+   "say": "Ching records show the court objected. Ancient Nahn-yweh had covered Gwahng-dong and Gwahng-shee, lands now part of the Ching.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "two_claims"
+    }
+   ],
+   "src": "Qing court records (Jiaqing)",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "69",
+   "ch": 7,
+   "sub": "So in 1804 the two words were turned around. The country became Việt Nam.",
+   "say": "So in 1804 the two words were turned around. The country became Vee-et Nahm.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "1804"
+    },
+    {
+     "k": "img",
+     "src": "l009/clip-3.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "70",
+   "ch": 7,
+   "sub": "A Nanyue king's jade suit now lies in a Guangzhou museum. And the name of his lost kingdom lives on, reversed, in the name of a country.",
+   "say": "A Nahn-yweh king's jade suit now lies in a Gwahng-joe museum. And the name of his lost kingdom lives on, reversed, in the name of a country.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-40.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l009/clip-3.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "71",
+   "ch": 7,
+   "sub": "Was Nanyue Chinese, Vietnamese, or neither? Tell us what you think in the comments, and subscribe to Rice and Empires.",
+   "say": "Was Nahn-yweh Chinese, Vietnamese, or neither? Tell us what you think in the comments, and subscribe to Rice and Empires.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l009/img-04.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": "end"
+  }
+ ],
+ "music": [
+  {
+   "src": "bgm/l009-mystery-x.mp3",
+   "fromCh": 0
+  },
+  {
+   "src": "bgm/l009-legend-x.mp3",
+   "fromCh": 4
+  },
+  {
+   "src": "bgm/l009-reflect-x.mp3",
+   "fromCh": 6
+  }
+ ],
+ "tl": {
+  "y0": -300,
+  "y1": 1900,
+  "from": -214,
+  "to": 1804,
+  "bars": [
+   [
+    -204,
+    -111
+   ]
+  ],
+  "gaps": [],
+  "caption": "Nanyue, about 204–111 BC (early dates differ by source)",
+  "chYear": [
+   -204,
+   -214,
+   -204,
+   -196,
+   -179,
+   -111,
+   1272,
+   1804
+  ]
+ }
+}

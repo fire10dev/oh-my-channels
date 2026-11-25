@@ -1,0 +1,369 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 33.343,
+"shots": [
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 3.547,
+"a": [
+1100,
+576,
+648
+],
+"b": [
+1392,
+520,
+460
+],
+"flash": 1
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 3.547,
+"t1": 7.133,
+"a": [
+880,
+520,
+460
+],
+"b": [
+880,
+500,
+340
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 7.133,
+"t1": 10.001,
+"a": [
+1392,
+520,
+460
+],
+"b": [
+1392,
+500,
+340
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.001,
+"t1": 14.208,
+"a": [
+1100,
+576,
+648
+],
+"b": [
+1392,
+520,
+460
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.208,
+"t1": 17.393,
+"a": [
+880,
+520,
+460
+],
+"b": [
+880,
+500,
+340
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.393,
+"t1": 21.181,
+"a": [
+1260,
+680,
+460
+],
+"b": [
+1260,
+700,
+340
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 21.181,
+"t1": 25.04,
+"a": [
+500,
+576,
+648
+],
+"b": [
+420,
+700,
+460
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 25.04,
+"t1": 27.491,
+"a": [
+1360,
+640,
+460
+],
+"b": [
+1360,
+600,
+340
+]
+},
+{
+"img": "p04/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 27.491,
+"t1": 32.943,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 27.491,
+"t1": 32.943,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 3.547,
+"text": "¿TE ESCONDIÓ UN MA GIAU?",
+"color": "#ffd84a"
+},
+{
+"t0": 3.547,
+"t1": 4.881,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 6.216,
+"t1": 7.133,
+"text": "MEDIANOCHE",
+"color": "#ff5a4a"
+},
+{
+"t0": 7.272,
+"t1": 10.001,
+"text": "1. PREGUNTA POR EL WIFI",
+"color": "#ffffff"
+},
+{
+"t0": 17.57,
+"t1": 21.181,
+"text": "2. PIDE TÉ CON LECHE",
+"color": "#ffffff"
+},
+{
+"t0": 21.354,
+"t1": 23.084,
+"text": "3. PIDE CARGADOR",
+"color": "#ffffff"
+},
+{
+"t0": 23.256,
+"t1": 25.04,
+"text": "BASE SECRETA",
+"color": "#7dff9a"
+},
+{
+"t0": 25.04,
+"t1": 25.7,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 27.491,
+"t1": 30.042,
+"text": "¿NADIE LO BUSCA?",
+"color": "#ffd84a"
+},
+{
+"t0": 30.042,
+"t1": 32.943,
+"text": "▼ EPISODIO COMPLETO: ENLACE ABAJO",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 5.048,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 5.615,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 6.216,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 19.516,
+"src": "p04/sfx/ting.wav",
+"vol": 0.7
+},
+{
+"t": 27.491,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 31.658,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 3.347,
+"text": "Cómo sobrevivir a un ma giau. Aprende de Bin, de diez años."
+},
+{
+"t": 3.547,
+"dur": 3.336,
+"text": "Esperé el golpe de la bandeja. Las nueve. Las diez. Medianoche."
+},
+{
+"t": 7.133,
+"dur": 2.768,
+"text": "Uno. No entres en pánico. Pregunta por el wifi."
+},
+{
+"t": 10.001,
+"dur": 3.957,
+"text": "¿Tú también te escapas de la tarea, señor? ¿Aquí llega el wifi de mi casa?"
+},
+{
+"t": 14.208,
+"dur": 2.886,
+"text": "En ochocientos años, nadie me había preguntado eso."
+},
+{
+"t": 17.393,
+"dur": 3.538,
+"text": "Dos. Pide té con leche. Nota: dejar en la puerta de emergencia."
+},
+{
+"t": 21.181,
+"dur": 3.458,
+"text": "Tres. Usa un enchufe de mantenimiento. Llámalo base secreta."
+},
+{
+"t": 25.04,
+"dur": 1.651,
+"text": "¿Soy un ma giau o una niñera?"
+},
+{
+"t": 27.491,
+"dur": 4.252,
+"text": "Su familia no lo buscó en tres días. Episodio completo: enlace abajo."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/es/vo/fb7fbaeb31.wav"
+},
+{
+"t": 3.547,
+"src": "loc/es/vo/e7f6733636.wav"
+},
+{
+"t": 7.133,
+"src": "loc/es/vo/ed52e9872b.wav"
+},
+{
+"t": 10.001,
+"src": "loc/es/vo/c519ad5fc7.wav"
+},
+{
+"t": 14.208,
+"src": "loc/es/vo/5d7b482fe0.wav"
+},
+{
+"t": 17.393,
+"src": "loc/es/vo/5a483e7bf2.wav"
+},
+{
+"t": 21.181,
+"src": "loc/es/vo/c7f99c3f0a.wav"
+},
+{
+"t": 25.04,
+"src": "loc/es/vo/6dca634918.wav"
+},
+{
+"t": 27.491,
+"src": "loc/es/vo/25a24353fd.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

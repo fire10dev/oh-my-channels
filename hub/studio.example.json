@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "gallery": "videos/{code}/assets/images",
+  "actions": [
+    {"id": "tts", "stage": "assets", "label": "TTS", "symbol": "waveform", "run": ["./studio.sh", "tts", "{code}"], "kind": "render"},
+    {"id": "render", "stage": "render", "label": "Render", "symbol": "film", "run": ["./studio.sh", "render", "{code}"], "kind": "render", "refresh_manifest": true},
+    {"id": "upload", "stage": "ready", "label": "Upload (private)", "symbol": "icloud.and.arrow.up", "run": ["./studio.sh", "upload", "{code}", "--private"], "confirm": true, "kind": "upload"}
+  ],
+  "prompts": [
+    {"stage": "script", "label": "Draft kịch bản", "text": "Viết bản nháp kịch bản cho {code} ({title}) vào videos/{code}/script.md theo bible của kênh."},
+    {"stage": "*", "label": "Bước tiếp theo?", "text": "Xem trạng thái {code} (ythub show {code}) và file trong videos/{code}/, nói bước tiếp theo nên làm."}
+  ],
+  "editors": [
+    {"id": "remotion", "label": "Remotion Studio", "run": ["npx", "remotion", "studio", "--port", "{port}", "--no-open"], "cwd": "editor", "url": "http://localhost:{port}"}
+  ]
+}

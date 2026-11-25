@@ -1,0 +1,430 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 48.097,
+"shots": [
+{
+"img": "p03/img/X12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 6.403,
+"a": [
+896,
+743,
+460
+],
+"b": [
+896,
+849,
+340
+],
+"flash": 1
+},
+{
+"img": "p03/img/X12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 6.403,
+"t1": 10.457,
+"a": [
+700,
+576,
+648
+],
+"b": [
+576,
+520,
+460
+]
+},
+{
+"img": "p03/img/X14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.457,
+"t1": 14.435,
+"a": [
+470,
+576,
+648
+],
+"b": [
+470,
+450,
+460
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.435,
+"t1": 17.11,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1024,
+420,
+460
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.11,
+"t1": 23.671,
+"a": [
+990,
+743,
+460
+],
+"b": [
+990,
+849,
+340
+]
+},
+{
+"img": "p03/img/X13.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.671,
+"t1": 26.397,
+"a": [
+1000,
+849,
+340
+],
+"b": [
+1000,
+849,
+340
+]
+},
+{
+"img": "p03/img/X01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 26.397,
+"t1": 28.963,
+"a": [
+1100,
+560,
+460
+],
+"b": [
+1100,
+576,
+648
+]
+},
+{
+"img": "p03/img/X14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 28.963,
+"t1": 31.905,
+"a": [
+470,
+576,
+648
+],
+"b": [
+470,
+450,
+460
+]
+},
+{
+"img": "p03/img/X14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 31.905,
+"t1": 34.777,
+"a": [
+1520,
+440,
+460
+],
+"b": [
+1520,
+400,
+340
+]
+},
+{
+"img": "p03/img/X12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 34.777,
+"t1": 40.112,
+"a": [
+576,
+560,
+460
+],
+"b": [
+576,
+520,
+340
+]
+},
+{
+"img": "p03/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 40.112,
+"t1": 47.697,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 40.112,
+"t1": 47.697,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 6.403,
+"text": "¡ABRAN EL FRASCO!",
+"color": "#ff5a4a"
+},
+{
+"t0": 14.435,
+"t1": 15.284,
+"text": "MA XO",
+"color": "#ffd84a"
+},
+{
+"t0": 15.647,
+"t1": 17.11,
+"text": "413 PAGARÉS",
+"color": "#ff5a4a"
+},
+{
+"t0": 17.3,
+"t1": 19.255,
+"text": "TATARABUELO",
+"color": "#ffffff"
+},
+{
+"t0": 19.255,
+"t1": 21.337,
+"text": "ABUELO",
+"color": "#ffffff"
+},
+{
+"t0": 21.337,
+"t1": 23.671,
+"text": "PAPÁ",
+"color": "#ffffff"
+},
+{
+"t0": 26.956,
+"t1": 28.963,
+"text": "GARANTÍA: ESTA CASA",
+"color": "#ff5a4a"
+},
+{
+"t0": 30.634,
+"t1": 34.777,
+"text": "ACREEDORES: MEDIO BARRIO",
+"color": "#ffd84a"
+},
+{
+"t0": 38.066,
+"t1": 40.112,
+"text": "TRATO CANCELADO · PIERDE EL DEPÓSITO",
+"color": "#ff5a4a"
+},
+{
+"t0": 40.112,
+"t1": 43.943,
+"text": "¿QUÉ ANEXO?",
+"color": "#ffd84a"
+},
+{
+"t0": 43.943,
+"t1": 47.697,
+"text": "▼ EPISODIO COMPLETO: ENLACE ABAJO",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 3.662,
+"src": "p03/sfx/hu.wav",
+"vol": 0.8
+},
+{
+"t": 6.403,
+"src": "p03/sfx/sang.wav",
+"vol": 0.5
+},
+{
+"t": 10.294,
+"src": "p03/sfx/hu.wav",
+"vol": 0.8
+},
+{
+"t": 15.647,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 17.3,
+"src": "p02/sfx/lat.wav",
+"vol": 0.6
+},
+{
+"t": 19.255,
+"src": "p02/sfx/lat.wav",
+"vol": 0.6
+},
+{
+"t": 21.337,
+"src": "p02/sfx/lat.wav",
+"vol": 0.6
+},
+{
+"t": 26.956,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 28.963,
+"src": "p02/sfx/riram.wav",
+"vol": 0.6
+},
+{
+"t": 38.066,
+"src": "p02/sfx/dau.wav",
+"vol": 0.8
+},
+{
+"t": 40.112,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 46.369,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 6.103,
+"text": "Un frasco que nadie se atrevió a abrir en tres generaciones. Esta mañana, medio barrio vio cómo lo abrían."
+},
+{
+"t": 6.403,
+"dur": 7.782,
+"text": "El sábado por la mañana, la puerta del depósito se abrió sola. Desenterraron el frasco frente a los compradores, su abogado y medio barrio."
+},
+{
+"t": 14.435,
+"dur": 2.425,
+"text": "Cuatrocientas trece hojas. Pagarés, señor."
+},
+{
+"t": 17.11,
+"dur": 6.31,
+"text": "El tatarabuelo pidió prestado para comprar tierras. El abuelo, para cubrir los intereses. Tu papá, para refinanciar."
+},
+{
+"t": 23.671,
+"dur": 4.694,
+"text": "Tres generaciones. Ni un solo pago. Cada vez dejaron como garantía… esta misma casa."
+},
+{
+"t": 28.963,
+"dur": 5.563,
+"text": "Los acreedores viven aquí mismo. Es el barrio antiguo. Todas las casas guardan los documentos."
+},
+{
+"t": 34.777,
+"dur": 4.835,
+"text": "Un notario no puede firmar por una casa en disputa. Nos retiramos. Pierdes el depósito."
+},
+{
+"t": 40.112,
+"dur": 6.384,
+"text": "¿Recuerdas el anexo que escribió el señor Khai? Le salió el tiro por la culata. Episodio completo justo abajo."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/es/vo/3cc073c4b6.wav"
+},
+{
+"t": 6.403,
+"src": "loc/es/vo/7f30f3fef1.wav"
+},
+{
+"t": 14.435,
+"src": "loc/es/vo/6d63a5fcc6.wav"
+},
+{
+"t": 17.11,
+"src": "loc/es/vo/240f4a951c.wav"
+},
+{
+"t": 23.671,
+"src": "loc/es/vo/317cb7e3c8.wav"
+},
+{
+"t": 28.963,
+"src": "loc/es/vo/e13f682474.wav"
+},
+{
+"t": 34.777,
+"src": "loc/es/vo/1fe9c47941.wav"
+},
+{
+"t": 40.112,
+"src": "loc/es/vo/a848402cfb.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

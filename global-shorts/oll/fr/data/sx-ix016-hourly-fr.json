@@ -1,0 +1,70 @@
+{
+ "title": "Chaque heure, ils affrontent des vents à 370 km/h",
+ "hook": "DEHORS, TOUT LE TEMPS",
+ "asof": "Chiffres de l’observatoire du mont Washington et de FOX Weather",
+ "world": "summit",
+ "long": "IX016",
+ "chapters": [
+  {
+   "id": "work",
+   "hud": "JOUR 2",
+   "chip": "05:00",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Chaque heure, quelqu’un sort affronter ça.",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    },
+    {
+     "s": "Au sommet du mont Washington, dans le New Hampshire.",
+     "v": "mountain"
+    },
+    {
+     "s": "La station météo n’est pas automatisée : le givre et le vent détruisent les instruments.",
+     "v": "rime",
+     "plane": "rime"
+    },
+    {
+     "s": "Alors, jour et nuit, un observateur sort chaque heure.",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    },
+    {
+     "s": "Un observateur dit qu’ils ne sortent pas en cas d’éclairs.",
+     "v": "sky",
+     "plane": "lightning"
+    },
+    {
+     "s": "Ils grimpent en haut de la tour, à environ 30 mètres,",
+     "v": "tower",
+     "plane": "wind",
+     "you": "tower"
+    },
+    {
+     "s": "et font tomber la glace au maillet en caoutchouc ou au pied-de-biche.",
+     "v": "tower",
+     "plane": "rime",
+     "you": "tower"
+    },
+    {
+     "s": "En 1934, ils ont mesuré une rafale à 372 km/h.",
+     "v": "tower",
+     "plane": "wind",
+     "st": [
+      "372 KM/H",
+      "Avril 1934"
+     ]
+    },
+    {
+     "s": "Et toi, tu sortirais toutes les heures ?",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    }
+   ]
+  }
+ ]
+}

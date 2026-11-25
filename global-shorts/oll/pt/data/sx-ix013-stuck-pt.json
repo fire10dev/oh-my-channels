@@ -1,0 +1,67 @@
+{
+ "title": "400 mil marinheiros presos no mar em 2020",
+ "hook": "PRESOS NO MAR",
+ "asof": "Regras da MLC 2006 · dados até 2025",
+ "world": "boxship",
+ "long": "IX013",
+ "chapters": [
+  {
+   "id": "change",
+   "hud": "DIA 270",
+   "chip": "DEZ 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Imagine terminar o trabalho e não poder voltar pra casa.",
+     "v": "cabin",
+     "you": "cabin"
+    },
+    {
+     "s": "Tripulações de cargueiros costumam embarcar por seis a nove meses.",
+     "v": "wide"
+    },
+    {
+     "s": "As regras limitam a bordo a onze meses sem folga.",
+     "v": "clock",
+     "st": [
+      "11 MESES",
+      "máx. · MLC"
+     ]
+    },
+    {
+     "s": "Aí, em 2020, a COVID fechou as fronteiras.",
+     "v": "port"
+    },
+    {
+     "s": "As tripulações não podiam voar pra casa, e os substitutos não podiam voar até elas.",
+     "v": "gangway"
+    },
+    {
+     "s": "Em dezembro de 2020, a agência marítima da ONU disse que mais de quatrocentos mil marinheiros estavam presos no mar.",
+     "v": "sea",
+     "st": [
+      "Mais de 400 mil",
+      "presos · IMO"
+     ]
+    },
+    {
+     "s": "Muitos já tinham passado do fim do contrato.",
+     "v": "cabin",
+     "you": "cabin",
+     "plane": "phone"
+    },
+    {
+     "s": "Ligar pra casa era tudo o que tinham.",
+     "v": "cabin",
+     "you": "cabin",
+     "plane": "phone"
+    },
+    {
+     "s": "Você aguentaria mais seis meses a bordo?",
+     "v": "mess",
+     "you": "mess"
+    }
+   ]
+  }
+ ]
+}

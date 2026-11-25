@@ -1,0 +1,250 @@
+{
+ "id": "w017es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#eab308",
+ "cover_frame": 60,
+ "source": "Autoridad del Canal de Suez · Estimación Ever Given: Lloyd's List (2021)",
+ "music": "shared/library/music/yt-audio-library/The Fast and The Curious - Ezra Lipp.mp3",
+ "beats": [
+  {
+   "say": "En dos mil veintiuno, un solo barco atascado frenó casi diez mil millones de dólares en comercio cada día.",
+   "title": "UN BARCO. 9600 MILLONES AL DÍA.",
+   "cam": {
+    "lon": 32.4,
+    "lat": 30.4,
+    "span": 5
+   },
+   "hl": [
+    {
+     "a3": "EGY",
+     "color": "#eab308"
+    }
+   ],
+   "pins": [
+    {
+     "lon": 32.58,
+     "lat": 30.02,
+     "text": "Ever Given"
+    }
+   ]
+  },
+  {
+   "say": "Es el canal de Suez, ciento noventa y tres kilómetros de agua a través de Egipto.",
+   "cam": {
+    "lon": 32.4,
+    "lat": 30.5,
+    "span": 5
+   },
+   "hl": [
+    {
+     "a3": "EGY",
+     "color": "#eab308"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      32.3,
+      31.27
+     ],
+     [
+      32.32,
+      30.9
+     ],
+     [
+      32.3,
+      30.6
+     ],
+     [
+      32.35,
+      30.3
+     ],
+     [
+      32.55,
+      30.05
+     ],
+     [
+      32.57,
+      29.93
+     ]
+    ],
+    "color": "#38bdf8"
+   }
+  },
+  {
+   "say": "Une el Mediterráneo con el mar Rojo: el atajo entre Europa y Asia.",
+   "cam": {
+    "lon": 45,
+    "lat": 20,
+    "span": 80
+   },
+   "line": {
+    "pts": [
+     [
+      4,
+      51.9
+     ],
+     [
+      -8,
+      45
+     ],
+     [
+      -6,
+      36
+     ],
+     [
+      10,
+      37.5
+     ],
+     [
+      30,
+      33
+     ],
+     [
+      32.3,
+      31.3
+     ],
+     [
+      32.6,
+      29.9
+     ],
+     [
+      38,
+      22
+     ],
+     [
+      43.4,
+      12.6
+     ],
+     [
+      51,
+      12
+     ],
+     [
+      75,
+      8
+     ],
+     [
+      103.8,
+      1.3
+     ]
+    ],
+    "color": "#22c55e",
+    "arrow": true
+   }
+  },
+  {
+   "say": "Sin él, los barcos tienen que rodear toda África. Eso suma unos diez días al viaje.",
+   "cam": {
+    "lon": 30,
+    "lat": 0,
+    "span": 110
+   },
+   "line": {
+    "pts": [
+     [
+      4,
+      51.9
+     ],
+     [
+      -10,
+      40
+     ],
+     [
+      -18,
+      20
+     ],
+     [
+      -12,
+      0
+     ],
+     [
+      5,
+      -25
+     ],
+     [
+      18.5,
+      -35.5
+     ],
+     [
+      35,
+      -30
+     ],
+     [
+      55,
+      -10
+     ],
+     [
+      75,
+      5
+     ],
+     [
+      103.8,
+      1.3
+     ]
+    ],
+    "color": "#ef4444",
+    "arrow": true
+   },
+   "big": {
+    "value": "+10",
+    "label": "días rodeando África"
+   }
+  },
+  {
+   "say": "Cerca del doce por ciento del comercio mundial pasa por Suez.",
+   "cam": {
+    "lon": 32.4,
+    "lat": 30.5,
+    "span": 8
+   },
+   "hl": [
+    {
+     "a3": "EGY",
+     "color": "#eab308"
+    }
+   ],
+   "big": {
+    "value": "12%",
+    "label": "del comercio mundial"
+   }
+  },
+  {
+   "say": "Por eso, cuando el Ever Given quedó atravesado seis días, las tiendas de todo el mundo lo notaron.",
+   "cam": {
+    "lon": 32.58,
+    "lat": 30.02,
+    "span": 2
+   },
+   "pins": [
+    {
+     "lon": 32.58,
+     "lat": 30.02,
+     "text": "Ever Given"
+    }
+   ],
+   "big": {
+    "value": "6",
+    "label": "días bloqueado"
+   }
+  },
+  {
+   "say": "Ciento noventa y tres kilómetros sin los que el mundo no puede vivir. Sígueme para más.",
+   "title": "193 KM QUE EL MUNDO NECESITA",
+   "cam": {
+    "lon": 32.4,
+    "lat": 30.4,
+    "span": 5
+   },
+   "hl": [
+    {
+     "a3": "EGY",
+     "color": "#eab308"
+    }
+   ]
+  }
+ ]
+}

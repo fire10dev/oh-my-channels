@@ -898,5 +898,41 @@
    "Reconciliation scripts"
   ],
   "vi_angle": "Gắn với chuyện hủy hẹn, chia tiền và hiểu lầm trong nhóm bạn thân."
+ },
+ {
+  "id": "L58",
+  "area": "rest/leisure",
+  "title": "Why You Can't Relax Even on Vacation",
+  "title_vi": "Vì sao đi nghỉ rồi mà vẫn không thư giãn được?",
+  "promise": "See why your mind keeps working on days off, then try a two-step shutdown ritual before your next break.",
+  "mechanisms": [
+   "Zeigarnik effect",
+   "Attention residue",
+   "Psychological detachment",
+   "Effort-recovery model",
+   "Hedonic adaptation",
+   "Focusing illusion",
+   "Planning fallacy",
+   "Savoring"
+  ],
+  "vi_angle": "Kỳ nghỉ lễ, Tết hay chuyến du lịch ngắn mà vẫn mở nhóm chat công việc, lo việc về sau."
+ },
+ {
+  "id": "L59",
+  "area": "belonging/transition",
+  "title": "How to Handle Being the New Person at Work or School",
+  "title_vi": "Làm người mới ở chỗ làm hay lớp học sao cho đỡ ngại?",
+  "promise": "Understand why the first weeks somewhere new feel so exposed, then use three small moves to become a familiar face faster.",
+  "mechanisms": [
+   "Belonging uncertainty",
+   "Spotlight effect",
+   "Uncertainty reduction",
+   "Impostor phenomenon",
+   "Social comparison",
+   "Mere exposure effect",
+   "Pratfall effect",
+   "Small wins"
+  ],
+  "vi_angle": "Sinh viên năm nhất, nhân viên mới tuần đầu, chuyển lớp hoặc chuyển công ty."
  }
 ]

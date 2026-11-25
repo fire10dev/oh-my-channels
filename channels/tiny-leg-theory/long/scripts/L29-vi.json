@@ -1,0 +1,914 @@
+{
+ "id": "L29vi",
+ "lang": "vi",
+ "title": "Vì sao tranh cãi trên mạng leo thang chỉ sau vài câu?",
+ "description": "Bạn có bao giờ tự hỏi vì sao một bình luận vu vơ lại biến thành trận khẩu chiến nảy lửa? Đây là tám cái bẫy tâm lý khiến mâu thuẫn trên mạng bùng nổ và cách giữ bình yên cho tâm trí.",
+ "chapters": [
+  {
+   "title": "Một bình luận vu vơ",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn chỉ để lại góp ý lịch sự, một phút sau đã bị ba người lạ mắng xối xả.",
+     "text": "MỘT BÌNH LUẬN NHỎ",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tim bạn đập thình thịch, ngón tay run rẩy, cả buổi sáng trôi qua trong ấm ức.",
+     "text": "TIM ĐẬP DỒN DẬP",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Non cơ lắm Pen, cậu vừa bước lên võ đài mà không biết trận đấu bị cài bẫy.",
+     "text": "TRẬN ĐẤU CÀI BẪY",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì sao bất đồng trên mạng lại bùng thành bão lửa cảm xúc nhanh đến thế?",
+     "text": "SAO DỄ NỔI NÓNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì thế giới ảo đã tháo phanh não bộ, vứt bỏ hết sự kiềm chế ngoài đời.",
+     "text": "MẤT PHANH KIỀM CHẾ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay cùng điểm mặt tám cái bẫy bình luận để giữ cái đầu lạnh nhé.",
+     "text": "TÁM CÁI BẪY TÂM LÝ",
+     "color": "green",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "1. Tấm khiên vô hình",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn chẳng bao giờ quát người lạ ở quán nước, nhưng lại sẵn sàng gõ phím mắng họ.",
+     "text": "1. TẤM KHIÊN VÔ HÌNH",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao người hiền lành ngoài đời lại buông những lời cay nghiệt trên mạng?",
+     "text": "HỔ BÁO BÀN PHÍM",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng mất ức chế, màn hình tháo phanh khiến cảm xúc lao đi mất kiểm soát.",
+     "text": "MẤT SỰ ỨC CHẾ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không nhìn thấy nét mặt hay ánh mắt, sự thấu cảm lập tức bị tê liệt.",
+     "text": "KHÔNG THẤY ÁNH MẮT",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không thấy phản ứng trực tiếp, não tưởng đầu bên kia không phải con người thật sao?",
+     "text": "CÓ AI Ở ĐÓ KHÔNG?",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiếu ngữ điệu, đối phương chỉ còn là mấy dòng chữ vô hồn trôi trên màn hình.",
+     "text": "DÒNG CHỮ VÔ HỒN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cậu vung nắm đấm vì tưởng sau màn hình thì chẳng ai biết đau đớn.",
+     "text": "ẢO TƯỞNG VÔ HẠI",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình gõ câu gay gắt chỉ vì không thấy ai nhíu mày nhắc nhở.",
+     "text": "KHÔNG AI NGĂN LẠI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao dừng tay trước khi gõ bậy lúc cuộc cãi vã bắt đầu nóng lên?",
+     "text": "HẠ NHIỆT CƠN GIẬN",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử hiệp khởi động này xem: nếu ngồi đối diện ở quán nước, cậu có dám nói thẳng câu đó không?",
+     "text": "BÀI TẬP QUÁN NƯỚC",
+     "color": "green",
+     "actor": "front",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu câu trả lời là không, hãy buông bàn phím và rời đi ngay.",
+     "text": "BUÔNG TẠ RỜI ĐI",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một người thì dễ, nhưng khi cả đám đông ùa vào vây quanh thì sao?",
+     "text": "KHI ĐÁM ĐÔNG BỦA VÂY",
+     "color": "ink",
+     "actor": "nervous_wave"
+    }
+   ]
+  },
+  {
+   "title": "2. Đám đông vô danh",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Chỉ vài giây, hàng chục tài khoản ảo tràn vào ném đá tập thể không thương tiếc.",
+     "text": "2. ĐÁM ĐÔNG VÔ DANH",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một đám đông hung hãn, chẳng ai màng đến phép lịch sự hay trách nhiệm bản thân.",
+     "text": "KHÔNG CÒN TRÁCH NHIỆM",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đấy là bẫy mất danh tính Pen à. Cứ chìm vào đám đông là kỷ luật tự bốc hơi.",
+     "text": "HÒA VÀO BẦY ĐÀN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ nấp sau ảnh đại diện vô danh, não sẽ tưởng mình không bao giờ chịu phạt.",
+     "text": "NẤP SAU ẢNH ẢO",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đó là lý do người hiền lành cũng hùa theo buông lời cay độc sao?",
+     "text": "HÙA THEO TÀN NHẪN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi lọt vào đám đông, cơ chế tự kiểm điểm hậu quả trong não bị tắt ngấm.",
+     "text": "TẮT KIỂM SOÁT",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hành vi xấu lây lan nhanh vì ai cũng nghĩ người khác sẽ gánh trách nhiệm.",
+     "text": "CHIA ĐỀU TỘI LỖI",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi người ném một viên sỏi nhỏ, cứ nghĩ mình chẳng làm ai tổn thương.",
+     "text": "MỘT VIÊN SỎI NHỎ",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao bảo vệ tâm trí khi cả đám đông tràn vào công kích bài viết?",
+     "text": "TỰ VỆ TRƯỚC ĐÁM ĐÔNG",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng đôi co với hội đồng, rút lui là chiến thuật thông minh nhất.",
+     "text": "RÚT KHỎI HỘI ĐỒNG",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tắt thông báo ngay, không được chú ý thì đám đông sẽ tự khắc giải tán.",
+     "text": "CẮT ĐỨT SỰ CHÚ Ý",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kể cả khi tranh luận tay đôi, tại sao ta vẫn nghĩ đối phương xấu tính?",
+     "text": "QUY CHỤP NHÂN PHẨM",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "3. Đổ lỗi tính cách",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Thấy ai trái ý, ta liền nghĩ họ dốt nát hoặc có dã tâm xấu xa.",
+     "text": "3. ĐỔ LỖI TÍNH CÁCH",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng khi chính mình gắt gỏng, ta lại đổ cho đói bụng, mệt mỏi hay kẹt xe.",
+     "text": "TÔI CHỈ ĐANG MỆT",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lại dính lỗi đổ vấy rồi, cứ quy chụp nhân phẩm người khác nhưng lại dễ dãi tha thứ cho mình.",
+     "text": "BẪY QUY KẾT CƠ BẢN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người ta cộc lốc thì bảo vô duyên, còn cậu làm vậy là do bận việc gấp.",
+     "text": "TIÊU CHUẨN KÉP",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao não thích công kích nhân cách hơn là đặt mình vào hoàn cảnh của họ?",
+     "text": "VỘI VÀNG DÁN NHÃN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiểu hoàn cảnh tốn sức như gánh tạ, còn dán nhãn kẻ xấu chỉ mất nửa giây.",
+     "text": "NGẠI NÂNG TẠ NẶNG",
+     "color": "gold",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não cực kỳ lười vận động, thích bịa ra kẻ phản diện để trốn nâng tạ.",
+     "text": "TIẾT KIỆM NĂNG LƯỢNG",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩ họ xấu bụng dễ hơn việc thông cảm cho ngày tồi tệ của họ.",
+     "text": "MỘT KẺ THÙ TIỆN LỢI",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao bẻ gãy phản xạ vội vàng này trước khi gõ phím phản đòn?",
+     "text": "BẺ GÃY PHẢN XẠ",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cho họ một hiệp bao dung, coi như họ đang vội hoặc vụng đường ăn nói.",
+     "text": "MỘT HIỆP BAO DUNG",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi như họ vụng lời chứ không ác ý, hạ thế thủ rồi bước tiếp.",
+     "text": "VỤNG LỜI KHÔNG ÁC Ý",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù muốn bao dung, sao đọc câu chữ bình thường vẫn thấy sặc mùi khiêu khích?",
+     "text": "NGHE THẤY THÙ ĐỊCH",
+     "color": "ink",
+     "actor": "worried_heart"
+    }
+   ]
+  },
+  {
+   "title": "4. Suy diễn ác ý",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhận tin nhắn cộc lốc vỏn vẹn ba chữ sao cũng được, đầu đã bốc hỏa.",
+     "text": "4. SUY DIỄN ÁC Ý",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đến một dấu chấm câu bình thường cũng làm bạn thấy như bị khiêu khích.",
+     "text": "DẤU CHẤM BÌNH THƯỜNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mắc chứng suy diễn xấu rồi Pen, không nghe thấy giọng là não tự tưởng tượng người ta giơ nắm đấm.",
+     "text": "NẮM ĐẤM THỦ SẴN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chữ trên màn hình không cảm xúc, sự bất an tự tô màu giận dữ lên đó.",
+     "text": "THIẾU TÔNG GIỌNG",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao phản xạ đầu tiên luôn là nghĩ người ta tấn công mình thay vì hiểu lầm?",
+     "text": "SAO LUÔN NGHĨ XẤU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng sinh tồn dạy não thà cảnh giác quá đà còn hơn bỏ sót mối nguy.",
+     "text": "BẢN NĂNG PHÒNG THỦ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ coi mỗi câu nói là một cú đấm thì chỉ tổ làm thần kinh kiệt sức.",
+     "text": "ĐẤM GIÓ KIỆT SỨC",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là mình ôm cục tức cả buổi chỉ vì câu nói chẳng có ác ý gì?",
+     "text": "ẤM ỨC KHÔNG ĐÂU",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tắt giọng điệu bực bội mình tự tưởng tượng ra trong câu chữ?",
+     "text": "DẬP TẮT SUY DIỄN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử đọc giọng đều đều xem. Trước khi gõ trả đũa, hãy đọc câu đó với tông giọng vô cảm nhất.",
+     "text": "ĐỌC BẰNG GIỌNG ĐỀU",
+     "color": "green",
+     "actor": "reading",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu có thể hiểu theo hướng vô tư, hãy chọn nó để xả sạch căng thẳng.",
+     "text": "CHỌN NGHĨ TRUNG LẬP",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn khi cuộc cãi vã bị nâng lên thành chuyện đúng sai đạo đức thì sao?",
+     "text": "TRANH CÃI ĐẠO ĐỨC",
+     "color": "ink",
+     "actor": "nervous_wave"
+    }
+   ]
+  },
+  {
+   "title": "5. Bão lửa đạo đức",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Một bài viết chướng mắt hiện lên, vài giây sau bạn đã sôi máu muốn vào mắng mỏ.",
+     "text": "5. BÃO LỬA ĐẠO ĐỨC",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đó không còn là tranh cãi nhỏ, mà cảm giác như mình đang đứng lên vì chính nghĩa.",
+     "text": "BẢO VỆ CHÍNH NGHĨA",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là phẫn nộ đạo đức, thứ nhiên liệu gây nghiện nhất của mạng xã hội.",
+     "text": "CƠN PHẪN NỘ ĐẠO ĐỨC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thuật toán sống nhờ sự giận dữ, càng phẫn nộ thì lượt tương tác càng nhảy vọt.",
+     "text": "GIẬN DỮ KÉO TƯƠNG TÁC",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao cảm giác công kích ai đó công khai lại thấy sướng và hả hê thế?",
+     "text": "SAO THẤY HẢ HÊ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ trích người khác kích hoạt cảm giác hả hê, biến ta thành anh hùng tức thì.",
+     "text": "CẢM GIÁC NGƯỜI HÙNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bêu riếu trên mạng chẳng thuyết phục được ai, chỉ tốn công nuôi béo nền tảng.",
+     "text": "ĐỐT SẠCH NĂNG LƯỢNG",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ ngỡ bảo vệ lẽ phải, hóa ra ta chỉ tiếp xăng cho cỗ máy kiếm tiền từ giận dữ?",
+     "text": "TIẾP TAY CỖ MÁY",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao kìm lòng không lao vào những trận thanh trừng đạo đức trên mạng?",
+     "text": "KÌM NÉN CƠN THÚC ÉP",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đóng băng hai mươi phút: úp điện thoại xuống, tắt thông báo rồi đi pha ly trà sữa.",
+     "text": "NGHỈ HAI MƯƠI PHÚT",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tạo khoảng cách vật lý giúp cảm xúc lắng xuống trước khi cậu kịp nói bậy.",
+     "text": "ĐỂ CƠN BÃO ĐI QUA",
+     "color": "green",
+     "actor": "meditating",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi vào hội nhóm cùng phe, tại sao cơn giận chung lại trở nên cực đoan hơn?",
+     "text": "CÀNG ĐÔNG CÀNG GẮT",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "6. Buồng vang thông tin",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn tham gia một nhóm hóng biến cùng gu trên mạng, mong tìm người chung quan điểm.",
+     "text": "6. BẪY BUỒNG VANG",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng mọi người lại liên tục hùa nhau, đẩy quan điểm ngày càng gay gắt.",
+     "text": "NGÀY CÀNG CỰC ĐOAN",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy phân cực nhóm đấy, những người cùng phe tung hô nhau sẽ trôi về cực đoan.",
+     "text": "PHÂN CỰC NHÓM",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ai cũng muốn chứng tỏ mình là người hăng hái và trung thành nhất hội.",
+     "text": "THI NHAU THỂ HIỆN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nên ai cũng nói gắt hơn, kéo cả nhóm đi xa khỏi lẽ thường sao?",
+     "text": "XA RỜI SỰ TỈNH TÁO",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ nghe tiếng vọng của phe mình, cậu sẽ thấy góc nhìn bên ngoài toàn ngớ ngẩn.",
+     "text": "TIẾNG VỌNG MÊ HOẶC",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cả nhóm tự biến thành bong bóng cách ly, ai nói khác đi liền bị coi là kẻ phản bội.",
+     "text": "COI LÀ KẺ PHẢN BỘI",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ai khuyên bình tĩnh liền bị chửi là kẻ ba phải, nội gián phe kia.",
+     "text": "GẮN MÁC NỘI GIÁN",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao giữ đầu óc tỉnh táo khi hội nhóm trôi dạt về hướng cực đoan?",
+     "text": "GIỮ ĐẦU TỈNH TÁO",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử nâng tạ phe địch xem: trước khi hùa theo phe mình, hãy tự tìm lý lẽ vững nhất của phe kia.",
+     "text": "NÂNG ĐÒN ĐỐI THỦ",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nâng góc nhìn trái chiều giúp cơ bắp tư duy linh hoạt và dẻo dai hơn.",
+     "text": "CƠ BẮP TƯ DUY",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù đa chiều, tại sao một lời chê độc địa lại nhức nhối hơn mười lời khen?",
+     "text": "MỘT LỜI CHÊ CAY ĐỘC",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "7. Máy quét nguy cơ",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn đăng bài lên mạng, nhận cả trăm lời khen nhưng chỉ dính một câu chê thậm tệ.",
+     "text": "7. MÁY QUÉT NGUY CƠ",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bạn ngó lơ lời khen, nằm trằn trọc cả đêm gặm nhấm một câu chê bai đó.",
+     "text": "TRẰN TRỌC CẢ ĐÊM",
+     "color": "red",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiên kiến tiêu cực đấy Pen, não vứt sạch trăm lời khen chỉ để ôm khư khư một cú đấm.",
+     "text": "ÔM MỘT CÚ ĐẤM",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng sinh tồn ưu tiên mối nguy hơn là những lời vuốt ve an toàn.",
+     "text": "ƯU TIÊN MỐI NGUY",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên hệ thần kinh coi lời châm chọc như dã thú chuẩn bị vồ lấy mình sao?",
+     "text": "THÚ DỮ RÌNH RẬP?",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Còi báo động rú lên hệt nhau trước thú dữ và một bình luận sau màn hình.",
+     "text": "BÁO ĐỘNG GIẢ TẠO",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cậu phí hàng giờ soạn văn đáp trả kẻ thậm chí chẳng nhớ nổi tên cậu.",
+     "text": "PHÍ CÔNG TRẢ ĐŨA",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình tự phá hỏng buổi tối để cố ăn thua với người không hề quan tâm.",
+     "text": "HỎNG CẢ BUỔI TỐI",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao cứu buổi tối khi câu bình luận độc địa cứ mắc kẹt trong đầu?",
+     "text": "CỨU VÃN TÂM TRÍ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn vào tỷ lệ thật đi, một kẻ chê bai không xóa nổi hàng chục lời khen.",
+     "text": "NHÌN VÀO TỶ LỆ THẬT",
+     "color": "green",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bắt não nhìn vào thực tế thay vì chết chìm trong mối nguy do mình tưởng tượng.",
+     "text": "BỨC TRANH TOÀN CẢNH",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao tranh cãi trên mạng lại căng thẳng hơn nhiều khi có người đứng xem?",
+     "text": "KHI CÓ NGƯỜI ĐỨNG XEM",
+     "color": "ink",
+     "actor": "confused_shrug"
+    }
+   ]
+  },
+  {
+   "title": "8. Sàn đấu công cộng",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Dưới bài đăng công khai, cãi cọ chưa bao giờ là chuyện của hai người.",
+     "text": "8. SÀN ĐẤU CÔNG CỘNG",
+     "color": "ink",
+     "actor": "front",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hàng trăm người đứng hóng, thả biểu cảm cười cợt chờ xem ai đuối lý trước.",
+     "text": "HÀNG TRĂM KHÁN GIẢ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng khán giả đấy Pen, cậu không còn đối thoại mà đang diễn trò cho thiên hạ.",
+     "text": "HIỆU ỨNG KHÁN GIẢ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhận sai trước đám đông sợ mất mặt, nên ai cũng cố cãi cùn để giữ thể diện.",
+     "text": "CỐ CÃI GIỮ THỂ DIỆN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đó là lý do cãi nhau công khai hiếm khi có ai chịu nhận mình sai sao?",
+     "text": "KHÔNG AI CHỊU NHẬN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lên đài thì lùi bước sợ mang tiếng hèn, cái tôi ép cả hai đấm đến cùng.",
+     "text": "CÁI TÔI TRÊN SÀN ĐẤU",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đánh đổi sự thật lấy tràng pháo tay, để rồi cả hai bên cùng bầm dập tơi bời.",
+     "text": "CẢ HAI CÙNG BẦM DẬP",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra mình chỉ đang diễn kịch cho đám đông qua đường hóng biến.",
+     "text": "DIỄN CHO KẺ HÓNG BIẾN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đâu là nước đi khôn ngoan khi tranh luận biến thành sàn đấu võ vô bổ?",
+     "text": "NƯỚC ĐI KHKHÔN NGOAN",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng luật hai hiệp: cãi nhau công khai quá hai lượt thì rủ nhắn tin riêng hoặc rút lui giữ thể diện.",
+     "text": "LUẬT HAI HIỆP ĐẤU",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Võ sĩ khôn ngoan biết dừng đúng lúc ở trận đấu không hề có tiền thưởng.",
+     "text": "KHÔNG CÓ TIỀN THƯỞNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại tám cái bẫy mới thấy sự bình yên trên mạng thật mong manh.",
+     "text": "BÌNH YÊN MONG MANH",
+     "color": "ink",
+     "actor": "nervous_wave"
+    }
+   ]
+  },
+  {
+   "title": "Ba lực đẩy cốt lõi",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Lùi lại quan sát, mọi cuộc chiến trên mạng đều bắt nguồn từ ba lực đẩy cốt lõi.",
+     "text": "BA LỰC ĐẨY CỐT LÕI",
+     "color": "ink",
+     "actor": "front",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khoảng cách làm cùn thấu cảm, bất an tự bịa thù địch, và sàn đấu ép ta cãi cùn.",
+     "text": "BA THỦ PHẠM CHÍNH",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hiểu ba điều này giúp ta không coi vài dòng bình luận là trận chiến sinh tử.",
+     "text": "KHÔNG PHẢI SINH TỬ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giao kèo một tuần kỷ luật thép nhé Pen: tuyệt đối không đôi co với bất kỳ ai trên mạng.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy ai khích tướng, đóng ứng dụng lại rồi xỏ giày ra ngoài đi dạo.",
+     "text": "ĐÓNG LẠI VÀ ĐI DẠO",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhịn nói câu chốt hạ lúc đầu hơi bứt rứt, nhưng đổi lấy sự nhẹ lòng.",
+     "text": "BÌNH YÊN HƠN HƠN THUA",
+     "color": "gold",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ chặt sự tập trung như vàng, vì thời gian và tâm trí là thứ mạng xã hội không trả lại đâu.",
+     "text": "BẢO VỆ TẬP TRUNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đăng ký Lý Thuyết Chân Que để rèn luyện tâm trí cho cảm xúc thêm vững vàng.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    }
+   ]
+  }
+ ]
+}

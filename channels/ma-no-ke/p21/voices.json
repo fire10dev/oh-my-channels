@@ -1,0 +1,22 @@
+{
+ "MN": {
+  "preset": "Thiện Minh",
+  "fx": "atempo=0.92,asetrate=48000*0.97,aresample=48000,aecho=0.8:0.6:60:0.25"
+ },
+ "TRA": {
+  "preset": "Thiền Tâm Đức",
+  "fx": "aecho=0.8:0.6:60:0.3"
+ },
+ "LUY": {
+  "preset": "Adam bựa",
+  "fx": "atempo=0.98,aecho=0.8:0.6:60:0.3"
+ },
+ "DINH": {
+  "preset": "Trúc Ly",
+  "fx": "atempo=1.05"
+ },
+ "PHAT": {
+  "preset": "Hải Đăng",
+  "fx": "atempo=0.95,asetrate=48000*1.02,aresample=48000"
+ }
+}

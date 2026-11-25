@@ -1,0 +1,689 @@
+[
+ {
+  "id": "s532",
+  "mascot": "buff",
+  "title": "Why Crowds Strip Your Brakes",
+  "mechanism": "Deindividuation",
+  "lines": [
+   {
+    "vo": "Lost in a stadium crowd, your identity melts into the noise.",
+    "text": "LOST IN THE NOISE",
+    "color": "red",
+    "actor": "front",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Deindividuation. The group mask swallows your personal face.",
+    "text": "THE GROUP MASK",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Anonymity tricks your brain into thinking nobody is keeping score.",
+    "text": "ZERO BRAKES",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "You drop your standard brakes and shout things you never would alone.",
+    "text": "NO ACCOUNTABILITY",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Run the mirror check before your next vocal rep.",
+    "text": "THE MIRROR CHECK",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "If you wouldn't sign your real name, drop the weight and walk.",
+    "text": "DROP THE WEIGHT",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s532vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Tai sao dam dong khien ban hung hang?",
+  "title_vi": "Tại sao đám đông khiến bạn hung hăng?",
+  "mechanism": "Deindividuation",
+  "lines": [
+   {
+    "vo": "Hàng nghìn người cùng thả phẫn nộ, tay bạn bấm theo không nghĩ.",
+    "text": "BẤM THEO ĐÁM ĐÔNG",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Hiện tượng hòa tan vào đám đông. Chiếc mặt nạ tập thể che mất bạn.",
+    "text": "HÒA TAN VÀO ĐÁM ĐÔNG",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Ẩn danh khiến não tưởng rằng không ai ghi sổ hành vi này.",
+    "text": "TƯỞNG VÔ HÌNH",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Trách nhiệm chia đều cho vạn người, bạn buông hẳn phanh tự chủ.",
+    "text": "MẤT PHANH TỰ CHỦ",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Trước khi gõ phím hùa theo, soi gương một hiệp đã.",
+    "text": "SOI GƯƠNG MỘT HIỆP",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Không dám nhận mặt thật thì đừng gánh tạ hộ thiên hạ.",
+    "text": "ĐỪNG GÁNH TẠ HỘ",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s533",
+  "mascot": "pen",
+  "title": "Why You Run Faster in Crowds",
+  "mechanism": "Social Facilitation",
+  "lines": [
+   {
+    "vo": "Running on a busy park trail suddenly feels almost effortless.",
+    "text": "EFFORTLESS SPRINT",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Social facilitation. Nearby people awaken your natural physical drive.",
+    "text": "SOCIAL FACILITATION",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "For simple movements you know well, observation acts like a tailwind.",
+    "text": "A QUIET TAILWIND",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Your nervous system sharpens just because eyes are quietly resting nearby.",
+    "text": "BORROWED ENERGY",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "You can borrow that momentum for boring everyday chores.",
+    "text": "BORROW MOMENTUM",
+    "color": "green",
+    "actor": "writing",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Clear messy emails or read boring reports in a busy cafe.",
+    "text": "CHANGE SCENERY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Which simple chore could use some company today?",
+    "text": "PICK ONE CHORE",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s533vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao co nguoi nhin ban lam nhanh hon?",
+  "title_vi": "Vì sao có người nhìn bạn làm nhanh hơn?",
+  "mechanism": "Social Facilitation",
+  "lines": [
+   {
+    "vo": "Chạy quanh bờ hồ đông người, chân bạn tự guồng nhanh hơn hẳn.",
+    "text": "CHÂN TỰ TĂNG TỐC",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Có người nhìn quanh, năng lượng hành động tự nhiên bật tăng.",
+    "text": "BẬT NĂNG LƯỢNG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Với thao tác quen thuộc, ánh nhìn xung quanh giống như lực đẩy ngầm.",
+    "text": "LỰC ĐẨY NGẦM",
+    "actor": "sprint_start"
+   },
+   {
+    "vo": "Cơ thể tự động tăng tốc mà bạn không cần gồng thêm sức.",
+    "text": "TỰ ĐỘNG BẬT TỐC",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "Bạn có thể mượn lực này để xử lý việc vặt chán ngắt.",
+    "text": "MƯỢN LỰC XUNG QUANH",
+    "color": "green",
+    "actor": "writing",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Ra quán cà phê ngồi chạy deadline, việc chán cũng trôi vèo vèo.",
+    "text": "CHẠY DEADLINE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Hôm nay việc quen thuộc nào đang chờ bạn mượn đà?",
+    "text": "MƯỢN ĐÀ NGAY",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s534",
+  "mascot": "buff",
+  "title": "Why Watching Ruins Your Focus",
+  "mechanism": "Social Inhibition",
+  "lines": [
+   {
+    "vo": "Someone stands behind your chair, and your fingers completely freeze up.",
+    "text": "FINGERS FROZEN",
+    "color": "red",
+    "actor": "panic",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Social inhibition. Tricky mental moves stall the second someone watches.",
+    "text": "SOCIAL INHIBITION",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Half your working memory wastes fuel monitoring their silent eyes.",
+    "text": "BANDWIDTH STOLEN",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Close the door. Master the complex movements in private first.",
+    "text": "TRAIN IN PRIVATE",
+    "color": "green",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "Turn hard moves into automatic reflexes before you invite an audience.",
+    "text": "REFLEX FIRST",
+    "color": "gold",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s534vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Tai sao sep dung sau ban lai go sai?",
+  "title_vi": "Tại sao sếp đứng sau bạn lại gõ sai?",
+  "mechanism": "Social Inhibition",
+  "lines": [
+   {
+    "vo": "Sếp vừa đứng sau lưng, mười ngón tay bạn tự nhiên cứng đơ.",
+    "text": "TAY BỖNG CỨNG ĐƠ",
+    "color": "red",
+    "actor": "panic",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Ức chế xã hội. Não xử lý việc khó rất dễ nghẽn khi bị dòm ngó.",
+    "text": "BỊ DÒM LÀ NGHẼN",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nửa bộ nhớ bận lo ánh mắt của sếp, lấy đâu chỗ suy nghĩ.",
+    "text": "CHÁY BỘ NHỚ",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Tập bài khó thì đóng cửa tập kín một mình trước đã.",
+    "text": "LUYỆN KÍN TRƯỚC",
+    "color": "green",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "Luyện thành phản xạ như siết cơ rồi hãy ra sàn đấu.",
+    "text": "RA SÀN ĐẤU",
+    "color": "gold",
+    "actor": "arms_crossed_no",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s535",
+  "mascot": "pen",
+  "title": "Why Strangers Make You Stiff",
+  "mechanism": "Audience Effect",
+  "lines": [
+   {
+    "vo": "A stranger sits on your park bench, and your shoulders tense up.",
+    "text": "SHOULDERS LOCKED",
+    "color": "red",
+    "actor": "nervous_wave"
+   },
+   {
+    "vo": "The audience effect. Merely being observed triggers constant self inspection.",
+    "text": "AUDIENCE EFFECT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Even crossing the street in front of waiting cars feels unnaturally stiff.",
+    "text": "THE AWKWARD WALK",
+    "color": "red",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Your social brain secretly checks how you rank in their silent view.",
+    "text": "RANK MONITORING",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "You waste precious physical stamina maintaining an imaginary social mask.",
+    "text": "THE INVISIBLE MASK",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Drop the performance and drop your shoulders down right now.",
+    "text": "DROP THE ACT",
+    "color": "green",
+    "actor": "meditating"
+   },
+   {
+    "vo": "Focus solely on the rhythm of your next simple physical step.",
+    "text": "FEEL THE GROUND",
+    "color": "green",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Strangers are far too busy managing their own posture anyway.",
+    "text": "THEY DO NOT CARE",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s535vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao di qua dam dong ban bi guong?",
+  "title_vi": "Vì sao đi qua đám đông bạn bị gượng?",
+  "mechanism": "Audience Effect",
+  "lines": [
+   {
+    "vo": "Đi bộ qua ngã tư đèn đỏ, tự nhiên bước chân gượng gạo.",
+    "text": "DÁNG ĐI BỖNG GƯỢNG",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Hiệu ứng khán giả. Cảm giác bị nhìn khiến não canh chừng hình ảnh.",
+    "text": "HIỆU ỨNG KHÁN GIẢ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cảm giác mọi ánh mắt đang nhìn chằm chằm vào từng cử động.",
+    "text": "ÁNH NHÌN CHĂM CHĂM",
+    "color": "red",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Bạn tốn cả đống tâm trí để đoán xem người lạ đang chấm mình mấy điểm.",
+    "text": "TỰ CHẤM ĐIỂM",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Bạn hao tổn tâm sức để giữ một tư thế không tự nhiên.",
+    "text": "HAO TỔN TÂM SỨC",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Thả lỏng hai vai và nhìn thẳng vào con đường phía trước.",
+    "text": "THẢ LỎNG HAI VAI",
+    "color": "green",
+    "actor": "meditating"
+   },
+   {
+    "vo": "Tập trung vào cảm giác bàn chân chạm mặt đất lúc này.",
+    "text": "CẢM NHẬN BƯỚC ĐI",
+    "color": "green",
+    "actor": "jogging"
+   },
+   {
+    "vo": "Thực ra mọi người xung quanh cũng đang bận lo phần họ.",
+    "text": "HỌ CŨNG BẬN LO",
+    "color": "gold",
+    "actor": "front"
+   }
+  ]
+ },
+ {
+  "id": "s536",
+  "mascot": "buff",
+  "title": "Crush Presentation Anxiety",
+  "mechanism": "Apprehension",
+  "lines": [
+   {
+    "vo": "You rehearsed until it felt smooth. The second bosses look up, your voice cracks.",
+    "text": "VOICE CRACKING",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Evaluation apprehension. You treat normal humans like executioners holding scorecards.",
+    "text": "EVALUATION DREAD",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Fear of judgment chokes your breathing just like a panicked rookie.",
+    "text": "CHOKING FORM",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Stop auditioning for applause. Shift to coaching the room instead.",
+    "text": "STOP AUDITIONING",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Pick one face in the second row and teach them one rep.",
+    "text": "TEACH ONE PERSON",
+    "color": "green",
+    "actor": "front",
+    "prop": "target"
+   },
+   {
+    "vo": "Deliver value or guard your ego. Pick one and own it.",
+    "text": "DELIVER VALUE",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s536vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Cach het run khi thuyet trinh truoc sep",
+  "title_vi": "Cách hết run khi thuyết trình trước sếp",
+  "mechanism": "Apprehension",
+  "lines": [
+   {
+    "vo": "Tập ở nhà trôi chảy, vừa đứng trước sếp là giọng run bần bật.",
+    "text": "GIỌNG RUN BẦN BẬT",
+    "color": "red",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Nỗi sợ bị đánh giá. Não coi phòng họp như bãi khảo hạch.",
+    "text": "SỢ BỊ ĐÁNH GIÁ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn sợ bị trừ điểm đến mức cổ họng nghẹn ứ lại.",
+    "text": "NGHẸN CỔ HỌNG",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Đừng biến buổi báo cáo thành màn thi cử xin ban ơn.",
+    "text": "DỪNG XIN BAN ƠN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Chọn một đồng nghiệp phía trước để chia sẻ giải pháp hữu ích.",
+    "text": "CHIA SẺ GIẢI PHÁP",
+    "color": "green",
+    "actor": "front",
+    "prop": "target"
+   },
+   {
+    "vo": "Giữ thể diện hay trao giá trị? Chọn đi rồi gánh.",
+    "text": "CHỌN MỘT BÊN",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s537",
+  "mascot": "pen",
+  "title": "The Danger of Crowd Euphoria",
+  "mechanism": "Effervescence",
+  "lines": [
+   {
+    "vo": "When a packed stadium crowd jumps together, an electric wave sweeps through.",
+    "text": "THE ELECTRIC WAVE",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Collective effervescence. Synchronized rhythm turns separate individuals into one organism.",
+    "text": "EFFERVESCENCE",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Shared euphoria melts loneliness, but it easily lowers your critical guard.",
+    "text": "LOWERED GUARD",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Under that emotional high, reckless spending or hostile chants feel justified.",
+    "text": "RECKLESS IMPULSE",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Withdraw a fixed cash budget and leave credit cards behind.",
+    "text": "CASH BUDGET ONLY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Set a hard departure alarm before you enter, and stick to it.",
+    "text": "SET AN EXIT TIME",
+    "color": "green",
+    "actor": "writing",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Enjoy the shared wave, but anchor your own moral shore.",
+    "text": "ANCHOR YOUR SHORE",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s537vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Con sot tap the khien ban de vung tien",
+  "title_vi": "Cơn sốt tập thể khiến bạn dễ vung tiền",
+  "mechanism": "Effervescence",
+  "lines": [
+   {
+    "vo": "Đứng giữa biển người hò reo, một luồng phấn khích giật rần khắp người.",
+    "text": "SÓNG PHẤN KHÍCH",
+    "color": "red",
+    "actor": "shocked"
+   },
+   {
+    "vo": "Cơn sốt đồng điệu. Nhịp điệu chung biến đám đông thành một khối.",
+    "text": "CƠN SỐT ĐỒNG ĐIỆU",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Sự cuồng nhiệt xóa tan cô đơn, nhưng cũng làm mờ lý trí.",
+    "text": "MỜ ĐI LÝ TRÍ",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Bạn dễ dàng vung tiền mua đồ lưu niệm hoặc hùa theo quá đà.",
+    "text": "VUNG TIỀN THEO HỨNG",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Rút đúng số tiền mặt dự chi rồi cất ví điện tử đi.",
+    "text": "CHỈ DÙNG TIỀN MẶT",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Hẹn trước giờ rút lui với bạn đi cùng, chuông reo là về.",
+    "text": "HẸN GIỜ RÚT LUI",
+    "color": "green",
+    "actor": "writing",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Hòa mình vào niềm vui, nhưng giữ chặt tay lái của chính mình.",
+    "text": "GIỮ CHẶT TAY LÁI",
+    "color": "gold",
+    "actor": "meditating"
+   }
+  ]
+ },
+ {
+  "id": "s538",
+  "mascot": "buff",
+  "title": "Why You Blindly Follow Crowds",
+  "mechanism": "Emergent Norms",
+  "lines": [
+   {
+    "vo": "A couple scooters blow a red light, and the entire pack surges behind them.",
+    "text": "FOLLOWING THE MOB",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Emergent norms. Crowds rapidly invent brand new rules on the spot.",
+    "text": "EMERGENT NORMS",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "In sudden chaos, people mistake aggressive early speed for true authority.",
+    "text": "FALSE AUTHORITY",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Same trap online: one toxic post sparks a hundred mindless clones.",
+    "text": "THE TOXIC WAVE",
+    "actor": "facepalm",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Run the five minute test before following the herd.",
+    "text": "THE FIVE MIN TEST",
+    "color": "green",
+    "actor": "think",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "If you wouldn't sprint solo, stay in your lane.",
+    "text": "STAY IN YOUR LANE",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s538vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Vi sao thay ho vuot den ban phong theo?",
+  "title_vi": "Vì sao thấy họ vượt đèn bạn phóng theo?",
+  "mechanism": "Emergent Norms",
+  "lines": [
+   {
+    "vo": "Đèn đỏ còn ba giây, hai xe vọt qua là cả đoàn phóng theo.",
+    "text": "CẢ ĐOÀN PHÓNG THEO",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Chuẩn mực mới nổi. Đám đông tự chế luật mới chỉ trong vài giây.",
+    "text": "CHUẨN MỰC MỚI NỔI",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Lúc bối rối, người ta dễ nhầm kẻ liều mạng thành người dẫn đầu.",
+    "text": "NHẦM KẺ LIỀU MẠNG",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Trên mạng y hệt: một bình luận chửi rủa kéo theo cả bầy hùa.",
+    "text": "HÙA THEO TRÊN MẠNG",
+    "actor": "facepalm",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Dừng lại ba giây tự hỏi: đi một mình bạn có dám làm thế không?",
+    "text": "DỪNG LẠI BA GIÂY",
+    "color": "green",
+    "actor": "think",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Tự mình không dám vượt thì đừng bám đuôi liều mạng.",
+    "text": "ĐỪNG BÁM ĐUÔI",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "target"
+   }
+  ]
+ }
+]

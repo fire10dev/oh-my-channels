@@ -1,0 +1,152 @@
+{
+ "id": "w011es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#0891b2",
+ "cover_frame": 60,
+ "source": "Población: Oficina Nacional de Estadística de Mongolia · Superficie: CIA World Factbook",
+ "music": "shared/library/music/yt-audio-library/A Distant Call - Dan _Lebo_ Lebowitz, Tone Seeker.mp3",
+ "beats": [
+  {
+   "say": "Este es el país más vacío del mundo.",
+   "title": "EL PAÍS MÁS VACÍO DEL MUNDO",
+   "cam": {
+    "lon": 103,
+    "lat": 46.5,
+    "span": 40
+   },
+   "hl": [
+    {
+     "a3": "MNG",
+     "color": "#0891b2"
+    }
+   ]
+  },
+  {
+   "say": "Mongolia es más grande que Francia, Alemania, Italia y el Reino Unido juntos.",
+   "cam": {
+    "lon": 103,
+    "lat": 46.5,
+    "span": 40
+   },
+   "hl": [
+    {
+     "a3": "MNG",
+     "color": "#0891b2"
+    }
+   ],
+   "bars": {
+    "unit": "M km²",
+    "items": [
+     {
+      "label": "Mongolia",
+      "value": 1.56,
+      "color": "#0891b2"
+     },
+     {
+      "label": "FR + DE + IT + R. U.",
+      "value": 1.45,
+      "color": "#ffd23f"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Pero solo viven ahí unos tres millones y medio de personas. Más o menos dos por kilómetro cuadrado.",
+   "cam": {
+    "lon": 103,
+    "lat": 46.5,
+    "span": 38
+   },
+   "hl": [
+    {
+     "a3": "MNG",
+     "color": "#0891b2"
+    }
+   ],
+   "big": {
+    "value": "2",
+    "label": "personas por km²"
+   }
+  },
+  {
+   "say": "Y casi la mitad vive en una sola ciudad: Ulán Bator.",
+   "cam": {
+    "lon": 106.9,
+    "lat": 47.9,
+    "span": 14
+   },
+   "hl": [
+    {
+     "a3": "MNG",
+     "color": "#164e63"
+    }
+   ],
+   "pins": [
+    {
+     "lon": 106.92,
+     "lat": 47.92,
+     "text": "Ulán Bator"
+    }
+   ]
+  },
+  {
+   "say": "También es la capital más fría del mundo. Su temperatura promedio del año está bajo cero.",
+   "cam": {
+    "lon": 106.9,
+    "lat": 47.9,
+    "span": 14
+   },
+   "pins": [
+    {
+     "lon": 106.92,
+     "lat": 47.92,
+     "text": "Ulán Bator"
+    }
+   ],
+   "big": {
+    "value": "-1°C",
+    "label": "promedio anual"
+   }
+  },
+  {
+   "say": "Encerrada entre Rusia y China, sin nada de costa.",
+   "cam": {
+    "lon": 103,
+    "lat": 45,
+    "span": 60
+   },
+   "hl": [
+    {
+     "a3": "MNG",
+     "color": "#0891b2"
+    },
+    {
+     "a3": "RUS",
+     "color": "#475569"
+    },
+    {
+     "a3": "CHN",
+     "color": "#7f1d1d"
+    }
+   ]
+  },
+  {
+   "say": "País enorme, casi nadie en casa. Sígueme para más.",
+   "title": "PAÍS ENORME. NADIE EN CASA.",
+   "cam": {
+    "lon": 103,
+    "lat": 46.5,
+    "span": 40
+   },
+   "hl": [
+    {
+     "a3": "MNG",
+     "color": "#0891b2"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{"id":"w010","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#0ea5e9","cover_frame":60,
+ "source":"Distances & locks: Panama Canal Authority · Encyclopaedia Britannica","music":"shared/library/music/yt-audio-library/AETHER - Density & Time.mp3",
+ "beats":[
+  {"say":"This eighty kilometer ditch saves ships almost thirteen thousand kilometers.","title":"82 KM THAT SAVE 12,600 KM","cam":{"lon":-79.7,"lat":9.1,"span":3},"hl":[{"a3":"PAN","color":"#0ea5e9"}],"pins":[{"lon":-79.7,"lat":9.1,"text":"Panama Canal"}]},
+  {"say":"Without it, a ship from New York to San Francisco has to sail all the way around South America.","cam":{"lon":-80,"lat":5,"span":110},
+   "line":{"pts":[[-74,40.6],[-70,30],[-60,15],[-38,-5],[-38,-20],[-55,-38],[-66,-56],[-76,-50],[-75,-30],[-80,-10],[-90,5],[-110,20],[-122.4,37.8]],"color":"#ef4444"}},
+  {"say":"With the canal, it cuts straight through Panama. Twelve thousand six hundred kilometers shorter.","cam":{"lon":-95,"lat":22,"span":75},
+   "line":{"pts":[[-74,40.6],[-75,30],[-77,20],[-79.9,9.4],[-79.5,8.8],[-85,10],[-100,17],[-112,25],[-122.4,37.8]],"color":"#22c55e","arrow":true},"big":{"value":"12,668 km","label":"saved, New York to San Francisco"}},
+  {"say":"Ships don't sail through flat water. Locks lift them twenty six meters, up to a lake, then back down.","cam":{"lon":-79.8,"lat":9.15,"span":1.6},"hl":[{"a3":"PAN","color":"#0ea5e9"}],
+   "pins":[{"lon":-79.92,"lat":9.27,"text":"Gatún Locks"},{"lon":-79.6,"lat":8.99,"text":"Miraflores"}]},
+  {"say":"Every ship uses around two hundred million liters of fresh water from that lake. In the twenty twenty three drought, the canal had to cut traffic.","cam":{"lon":-79.8,"lat":9.15,"span":2},"big":{"value":"200M L","label":"fresh water per ship"}},
+  {"say":"About five percent of all sea trade on Earth squeezes through here.","cam":{"lon":-80,"lat":10,"span":25},"hl":[{"a3":"PAN","color":"#0ea5e9"}],"big":{"value":"5%","label":"of world sea trade"}},
+  {"say":"Eighty kilometers of water holding up world trade. Follow for more.","title":"THE DITCH THAT RUNS THE WORLD","cam":{"lon":-79.7,"lat":9.1,"span":3},"hl":[{"a3":"PAN","color":"#0ea5e9"}]}
+ ]}

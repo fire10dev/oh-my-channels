@@ -1,0 +1,116 @@
+{
+ "title": "La tripulación de Biosfera 2 pasó hambre dos años",
+ "hook": "HAMBRE POR AÑOS",
+ "asof": "Cifras de registros de 1991–1994",
+ "world": "bio",
+ "long": "IX006",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "DÍA 60",
+   "chip": "NOV 1991",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "kitchen",
+     "you": "kitchen",
+     "s": "Imagina comer solo lo que cultivas durante dos años."
+    },
+    {
+     "v": "wide",
+     "s": "En 1991, ocho personas quedaron encerradas en Biosfera 2."
+    },
+    {
+     "v": "farm",
+     "st": [
+      "0,2 hectáreas",
+      "para alimentar a 8 personas"
+     ],
+     "s": "Su granja medía cerca de dos mil metros cuadrados."
+    },
+    {
+     "v": "goats",
+     "s": "Cabras para obtener leche,"
+    },
+    {
+     "v": "goats",
+     "you": "goats",
+     "s": "gallinas y cerdos,"
+    },
+    {
+     "v": "fish",
+     "s": "y tilapias en tanques."
+    },
+    {
+     "v": "crops",
+     "s": "Pero sobre todo, plantas."
+    },
+    {
+     "v": "kitchen",
+     "s": "Camotes. Muchísimos camotes."
+    },
+    {
+     "v": "kitchen",
+     "st": [
+      "NARANJA",
+      "piel por comer camotes"
+     ],
+     "s": "A un miembro de la tripulación se le puso naranja la piel."
+    },
+    {
+     "v": "coffee",
+     "you": "coffee",
+     "s": "¿Café? Apenas una taza cada varias semanas."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "1.780",
+      "small": "calorías al día, primeros 6 meses · PNAS, 1992"
+     },
+     "s": "En los primeros seis meses, promediaron unas mil setecientas ochenta calorías al día."
+    },
+    {
+     "v": "crops",
+     "you": "crops",
+     "s": "Mientras trabajaban duro en el campo."
+    },
+    {
+     "v": "kitchen",
+     "s": "Dejaban los platos relucientes."
+    },
+    {
+     "d": {
+      "type": "compare",
+      "left": [
+       "ANTES",
+       "74 kg",
+       "promedio en hombres"
+      ],
+      "right": [
+       "6 MESES DESPUÉS",
+       "62 kg",
+       "promedio en hombres"
+      ],
+      "note": "PNAS, 1992"
+     },
+     "s": "Los hombres bajaron de unos setenta y cuatro kilos a sesenta y dos."
+    },
+    {
+     "v": "lab",
+     "you": "lab",
+     "st": [
+      "−36%",
+      "colesterol · PNAS 1992"
+     ],
+     "s": "Su colesterol cayó cerca de un tercio."
+    },
+    {
+     "v": "berth",
+     "you": "berth",
+     "s": "¿Podrías vivir así durante dos años?"
+    }
+   ]
+  }
+ ]
+}

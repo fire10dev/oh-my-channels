@@ -14,6 +14,13 @@ Mọi kênh YouTube của FIRE10 trong một repo. Dự án cá nhân, một má
 Kênh: `off-limits-life` (@OffLimitsLife) · `tiny-leg-theory` (@TinyLegTheory + @LyThuyetChanQue) · `rice-and-empires` (@RiceAndEmpires) ·
 `vibe-music` (@Vibe.MusicMaker) · `baby-sensory` · `ma-no-ke`.
 
+## Folder tập: mỗi episode một folder (owner 2026-11-24)
+- Mỗi kênh: `channels/<kênh>/episodes/EpNN-<Name>/` = 1 tập (1 LONG + các short cắt từ nó). Short độc lập: `episodes/standalone-shorts/<CODE>-<Name>/`.
+- Trong folder: `ep.json` (`code`, `vid`, `name`, `channel`) · `long/` (script, plan, render/) · `shorts/` (script, SH1…/) · `assets/` · `metadata/` (`long.md`, `shorts.md`, **`scheduler.md`**, thumbnails/) · `reviews/`.
+- `metadata/*.md` sinh từ YT Hub: `python3 shared/episodes/ep_meta.py <episode-dir>…` (chạy lại sau mỗi `ythub set`). Kế hoạch viết tay để dưới `## Ghi chú` trong `scheduler.md`.
+- Media vẫn không vào git (gitignore của kênh). Remotion đọc `public/` → `public/<vid>` là symlink về `assets/`. Code để ở chỗ cũ (`src/`, `tools/`).
+- Đã chuyển: **rice-and-empires** (mẫu: `tools/ep.py`, AGENTS §1b). Chưa chuyển: off-limits-life, tiny-leg-theory, vibe-music, ma-no-ke, baby-sensory, world-shorts.
+
 ## Trạng thái: YT Hub, không phải markdown
 - **Không viết HANDOFF.md / STATE.md** (hook chặn). Lịch sử cũ: `channels/<kênh>/docs/archive/`.
 - Đầu session: `ythub status --channel "<Kênh>"`, `ythub show <CODE>`, `ythub next`.
@@ -22,6 +29,14 @@ Kênh: `off-limits-life` (@OffLimitsLife) · `tiny-leg-theory` (@TinyLegTheory +
 - Đặt `YTHUB_ACTOR=agent:<việc>` để nhật ký biết ai ghi. `ythub --json …` cho máy đọc. Đầy đủ: `ythub -h`.
 - Stage: idea → script → assets → render → ready (xong, chưa đăng) → published.
 - Việc chờ user (duyệt, nghe, đăng, chọn nhạc) = task `--owner user` → hiện ở chip "Việc của tôi" trong app.
+
+## Manifest dựng video (YT Hub tab "Dựng", app chỉ đọc)
+- Mỗi video: `build/<CODE>/hub.json` v1 = `{version, code, generated_at, duration_s, steps[], parts[{id, title, start, seconds, steps{<step>: ok|todo|fail|skip}, slots[{start, end, speaker, text, words}], issues[], contact_sheet?}]}`. Thời gian tính theo giây của video final.
+- Adapter của kênh sinh file rồi đăng ký: `ythub fact <CODE> manifest <path>`. Mẫu: `channels/tiny-leg-theory/long/hub_adapter.py [--register]`.
+- Chạy lại adapter sau mỗi bước pipeline; app hiện "cập nhật …" (đỏ khi > 7 ngày).
+
+## Lịch đăng (owner 2026-11-24)
+- Kênh giải trí: hẹn giờ **19:00 theo giờ khán giả** (Mỹ: America/New_York, Mexico/LatAm: America/Mexico_City, VN: Asia/Ho_Chi_Minh), 1 video/ngày, bắt đầu từ hôm nay nếu còn kịp.
 
 ## Media
 - Không commit media (mp4/wav/mp3/ảnh render…): `.gitignore` gốc + của từng kênh. Media nằm cạnh code, đường dẫn ghi trong YT Hub.

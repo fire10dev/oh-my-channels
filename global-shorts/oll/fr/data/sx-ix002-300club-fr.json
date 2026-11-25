@@ -1,0 +1,107 @@
+{
+ "title": "Le club des 300 au pôle Sud",
+ "hook": "CLUB DES 300",
+ "asof": "Chiffres de 2026",
+ "world": "pole",
+ "long": "IX002",
+ "chapters": [
+  {
+   "id": "club",
+   "hud": "JOUR 150",
+   "chip": "-73 °C",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "thermo",
+     "fx": "wind",
+     "st": [
+      "-73 °C",
+      "le chiffre magique"
+     ],
+     "s": "Pour entrer dans ce club, il te faut moins 73 degrés."
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "Et presque pas de vêtements."
+    },
+    {
+     "v": "wide",
+     "s": "Voici le pôle Sud, en plein hiver."
+    },
+    {
+     "v": "thermo",
+     "s": "Certains jours, il fait moins de 73 degrés."
+    },
+    {
+     "v": "station",
+     "s": "C’est là que certains de l’équipe tentent un truc fou."
+    },
+    {
+     "v": "sauna",
+     "you": "sauna",
+     "s": "Ils s’installent dans un sauna chauffé à 93 degrés."
+    },
+    {
+     "v": "hall",
+     "s": "Puis ils sortent."
+    },
+    {
+     "v": "thermo",
+     "fx": "wind",
+     "s": "Dans les moins 73 degrés."
+    },
+    {
+     "d": {
+      "type": "compare",
+      "left": [
+       "SAUNA",
+       "+93 °C",
+       "pendant quelques minutes"
+      ],
+      "right": [
+       "DEHORS",
+       "-73 °C",
+       "pendant quelques secondes"
+      ],
+      "note": "166 DEGRÉS"
+     },
+     "s": "Un écart de 166 degrés."
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "En bottes,"
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "et avec presque rien d’autre,"
+    },
+    {
+     "v": "pole",
+     "you": "run",
+     "s": "ils courent jusqu’au repère du pôle Sud."
+    },
+    {
+     "v": "hall",
+     "s": "Et reviennent."
+    },
+    {
+     "v": "sauna",
+     "you": "sauna",
+     "s": "C’est le Club des 300."
+    },
+    {
+     "v": "thermo",
+     "s": "Certains hivers, il ne fait jamais assez froid pour tenter ça."
+    },
+    {
+     "v": "pole",
+     "you": "pole",
+     "s": "Tu tenterais le coup ?"
+    }
+   ]
+  }
+ ]
+}

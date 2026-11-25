@@ -1,0 +1,233 @@
+REBUTTAL:
+1 accept
+2 accept
+3 accept
+4 accept
+5 accept
+6 accept
+7 accept
+8 accept
+9 accept
+10 accept
+11 accept
+12 accept
+13 accept
+14 reject: causes direct narrative redundancy with line 2 ('The message finally arrives...'), spoiling the reveal prematurely.
+15 accept
+RESULT:
+[
+  {
+    "id": "s301",
+    "mascot": "pen",
+    "title": "Why They Pull Away When You Push",
+    "mechanism": "THE CHASE LOOP",
+    "lines": [
+      {"vo": "You text asking why they feel distant across the miles.", "text": "DISTANCE FEELS COLD", "color": "red", "actor": "panic", "prop": "smartphone_glow"},
+      {"vo": "They retreat into silence, so you panic and push harder.", "text": "SILENT WALL", "color": "red", "actor": "sofa_scroll", "prop": "hourglass"},
+      {"vo": "The chase loop: the harder you push, the further they drift.", "text": "THE CHASE LOOP", "actor": "worried_heart"},
+      {"vo": "Stop pushing against a closed door right now.", "text": "PAUSE THE CHASE", "color": "green", "actor": "hand_off"},
+      {"vo": "Send one calm note: let us talk for ten minutes tonight.", "text": "CALM CHECK-IN", "color": "green", "actor": "typing_focused", "prop": "calendar_today"},
+      {"vo": "Connection needs space to breathe, not an interrogation.", "text": "ROOM TO BREATHE", "color": "gold", "actor": "small_step"}
+    ]
+  },
+  {
+    "id": "s301vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Cang giuc tin nhan nguoi yeu cang im",
+    "title_vi": "Càng giục tin nhắn người yêu càng im",
+    "mechanism": "THE CHASE LOOP",
+    "lines": [
+      {"vo": "Zalo hiện Đã xem cả buổi mà im bặt, đầu bạn bắt đầu loạn cào cào.", "text": "ZALO HIỆN ĐÃ XEM", "color": "red", "actor": "panic", "prop": "smartphone_glow"},
+      {"vo": "Càng giục thêm tin nhắn, đối phương càng im bặt để né tránh.", "text": "CÀNG GIỤC CÀNG IM", "color": "red", "actor": "sofa_scroll", "prop": "hourglass"},
+      {"vo": "Khi một người đuổi quá gắt, người kia sẽ tự lùi lại để thở.", "text": "VÒNG LẶP RÚT LUI", "actor": "worried_heart"},
+      {"vo": "Dừng ngay việc dồn ép câu trả lời lúc này.", "text": "DỪNG ÉP TRẢ LỜI", "color": "green", "actor": "hand_off"},
+      {"vo": "Chỉ cần nhắn: tối nay mình gọi mười phút trước khi ngủ nhé.", "text": "HẸN MƯỜI PHÚT", "color": "green", "actor": "typing_focused", "prop": "calendar_today"},
+      {"vo": "Chừa cho nhau một khoảng thở, người ta mới muốn bước lại gần.", "text": "KHOẢNG THỞ AN TOÀN", "color": "gold", "actor": "small_step"}
+    ]
+  },
+  {
+    "id": "s302",
+    "mascot": "buff",
+    "title": "Stop Assuming The Worst",
+    "mechanism": "THE BLAME REFLEX",
+    "lines": [
+      {"vo": "Five hours with no text. 'They stopped caring.' Sure, buddy.", "text": "FIVE HOURS LATE", "color": "red", "actor": "bored_yawn", "prop": "hourglass"},
+      {"vo": "When you reply late, you were busy. When they do, it's treason.", "text": "DOUBLE STANDARD", "color": "red", "actor": "arms_crossed_no"},
+      {"vo": "Your brain invents a villain to fill the quiet silence.", "text": "THE BLAME REFLEX", "actor": "think", "prop": "brain"},
+      {"vo": "Drop the mental drama. Look at your own busy days.", "text": "CHECK YOURSELF", "color": "green", "actor": "sprint_start", "prop": "dumbbell"},
+      {"vo": "Drop the victim reps. Assume they're swamped, or keep stewing.", "text": "RUN THE REP", "color": "gold", "actor": "point_viewer"}
+    ]
+  },
+  {
+    "id": "s302vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Nam tieng chua tra loi tin nhan",
+    "title_vi": "Năm tiếng chưa trả lời tin nhắn",
+    "mechanism": "THE BLAME REFLEX",
+    "lines": [
+      {"vo": "Năm tiếng chưa thấy hồi âm, bạn kết luận luôn họ hết yêu.", "text": "NĂM TIẾNG IM LẶNG", "color": "red", "actor": "bored_yawn", "prop": "hourglass"},
+      {"vo": "Mình chậm thì do bận, người ta chậm là vô tâm.", "text": "TIÊU CHUẨN KÉP", "color": "red", "actor": "arms_crossed_no"},
+      {"vo": "Não rất thích dựng kịch bản phản diện khi thiếu dữ liệu.", "text": "PHẢN XẠ ĐỔ LỖI", "actor": "think", "prop": "brain"},
+      {"vo": "Tập một hiệp nghĩ thoáng: chắc đối phương đang ngập trong việc.", "text": "NGHĨ THOÁNG RA", "color": "green", "actor": "sprint_start", "prop": "dumbbell"},
+      {"vo": "Bớt tự biên kịch bản. Để người ta thở, hoặc tiếp tục ngồi dỗi. Chọn đi.", "text": "HỎI THĂM TRƯỚC", "color": "gold", "actor": "point_viewer"}
+    ]
+  },
+  {
+    "id": "s303",
+    "mascot": "pen",
+    "title": "Why Small Texts Start Big Fights",
+    "mechanism": "THE SPARK WAR",
+    "lines": [
+      {"vo": "They text one clipped update about travel dates, and you snap.", "text": "CLIPPED MESSAGE", "color": "red", "actor": "shocked", "prop": "notification_bell"},
+      {"vo": "Two minutes later, both of you are digging up old fights.", "text": "DIGGING UP OLD PAIN", "color": "red", "actor": "panic", "prop": "storm_cloud"},
+      {"vo": "This is the spark war: one spark of irritation ignites another.", "text": "THE SPARK WAR", "actor": "arms_crossed_no"},
+      {"vo": "When stressed, we easily mirror cold hostility instead of warmth.", "text": "MIRRORING TENSION", "color": "red", "actor": "worried_heart"},
+      {"vo": "Install a circuit breaker. Wait ten seconds before typing.", "text": "PAUSE TEN SECONDS", "color": "green", "actor": "hand_off", "prop": "hourglass"},
+      {"vo": "Stick strictly to the facts. Ignore the sharp tone for now.", "text": "STICK TO FACTS", "color": "green", "actor": "typing_focused"},
+      {"vo": "Is proving your point worth burning the bridge between you?", "text": "WIN OR CONNECT?", "color": "gold", "actor": "think"}
+    ]
+  },
+  {
+    "id": "s303vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tin nhan coc loc cham ngoi cai va",
+    "title_vi": "Tin nhắn cộc lốc châm ngòi cãi vã",
+    "mechanism": "THE SPARK WAR",
+    "lines": [
+      {"vo": "Người yêu nhắn cụt lủn về lịch hẹn, bạn nổi đoá đáp trả ngay.", "text": "TIN NHẮN CỤT LỦN", "color": "red", "actor": "shocked", "prop": "notification_bell"},
+      {"vo": "Hai phút sau, cả hai đã lôi lại vụ huỷ vé máy bay tháng trước.", "text": "LÔI CHUYỆN CŨ RA", "color": "red", "actor": "panic", "prop": "storm_cloud"},
+      {"vo": "Tia lửa bùng lên khi ta vô thức đáp trả bằng sự bực bội.", "text": "CHIẾN TRANH TIA LỬA", "actor": "arms_crossed_no"},
+      {"vo": "Càng hơn thua câu chữ, khoảng cách hai người càng xa hơn.", "text": "CÀNG ĐẤU CÀNG XA", "color": "red", "actor": "worried_heart"},
+      {"vo": "Chậm lại mười giây. Buông điện thoại xuống trước khi gõ.", "text": "HÃM PHANH MƯỜI GIÂY", "color": "green", "actor": "hand_off", "prop": "hourglass"},
+      {"vo": "Chỉ trả lời đúng lịch trình, bỏ qua giọng điệu gay gắt.", "text": "BÁM VÀO THỰC TẾ", "color": "green", "actor": "typing_focused"},
+      {"vo": "Thắng một câu cãi nhau có đáng để mất đi sự dịu dàng?", "text": "THẮNG ĐỂ LÀM GÌ?", "color": "gold", "actor": "think"}
+    ]
+  },
+  {
+    "id": "s304",
+    "mascot": "buff",
+    "title": "They Cannot Read Your Mind",
+    "mechanism": "THE MIND READER",
+    "lines": [
+      {"vo": "You sigh loudly on the call, waiting for them to notice.", "text": "HEAVY SIGHING", "color": "red", "actor": "bored_yawn", "prop": "sofa"},
+      {"vo": "They keep watching sports. Newsflash: nobody reads minds.", "text": "NOT A PSYCHIC", "color": "red", "actor": "facepalm"},
+      {"vo": "Your stress feels huge to you, but invisible to everyone else.", "text": "THE MIND READER", "actor": "confused_shrug", "prop": "brain"},
+      {"vo": "Stop running secret tests and punishing them for failing.", "text": "NO SECRET TESTS", "color": "red", "actor": "arms_crossed_no"},
+      {"vo": "Run a simple rep: tell them plainly what you need.", "text": "SPEAK PLAINLY", "color": "green", "actor": "sprint_start", "prop": "dumbbell"},
+      {"vo": "Give them the exact map. Clear words beat silent sulking.", "text": "HAND THEM THE MAP", "color": "gold", "actor": "point_viewer"}
+    ]
+  },
+  {
+    "id": "s304vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Tho dai mong nguoi yeu tu hieu",
+    "title_vi": "Thở dài mong người yêu tự hiểu",
+    "mechanism": "THE MIND READER",
+    "lines": [
+      {"vo": "Gọi video thở dài liên tục, mong người ta tự biết mình buồn.", "text": "THỞ DÀI CHỜ ĐỢI", "color": "red", "actor": "bored_yawn", "prop": "sofa"},
+      {"vo": "Đối phương mải xem bóng đá. Họ đâu phải thầy bói mà đoán được.", "text": "KHÔNG PHẢI THẦY BÓI", "color": "red", "actor": "facepalm"},
+      {"vo": "Mệt mỏi của bạn gào thét trong lòng, nhưng người ngoài không thấy.", "text": "BẪY ĐỌC TÂM TRÍ", "actor": "confused_shrug", "prop": "brain"},
+      {"vo": "Dẹp ngay mấy trò dỗi hờn thử lòng nhau.", "text": "DẸP PHÉP THỬ NGẦM", "color": "red", "actor": "arms_crossed_no"},
+      {"vo": "Nói thẳng luôn: hôm nay mình kiệt sức rồi, cần một cái ôm.", "text": "NÓI RÕ ĐIỀU CẦN", "color": "green", "actor": "sprint_start", "prop": "dumbbell"},
+      {"vo": "Đưa bản đồ chỉ đường đi. Muốn được quan tâm thì mở miệng ra, đừng dỗi.", "text": "BỚT ĐOÁN MÒ", "color": "gold", "actor": "point_viewer"}
+    ]
+  },
+  {
+    "id": "s305",
+    "mascot": "pen",
+    "title": "Why Asking For Love Feels Fake",
+    "mechanism": "THE DISCOUNT TRAP",
+    "lines": [
+      {"vo": "You asked them to text good morning every day.", "text": "A SIMPLE REQUEST", "color": "red", "actor": "front", "prop": "coffee_mug"},
+      {"vo": "The message finally arrives, but now it feels completely fake.", "text": "FEELS MEANINGLESS", "color": "red", "actor": "bored_yawn"},
+      {"vo": "You tell yourself: it does not count if I had to ask.", "text": "NOT SPONTANEOUS", "color": "red", "actor": "facepalm"},
+      {"vo": "The discount trap: dismissing effort just because you asked.", "text": "THE DISCOUNT TRAP", "actor": "think", "prop": "brain"},
+      {"vo": "Our ego expects magic, while real relationships take deliberate practice.", "text": "EGO VS EFFORT", "actor": "confused_shrug"},
+      {"vo": "When you dismiss their attempt, they eventually stop trying altogether.", "text": "DISCOUNTING EFFORT", "color": "red", "actor": "worried_heart"},
+      {"vo": "Thank them warmly for listening and taking that first step.", "text": "THANK THE ATTEMPT", "color": "green", "actor": "small_step"},
+      {"vo": "Does waiting for effortless mind reading keep you lonely?", "text": "WORTH CELEBRATING?", "color": "gold", "actor": "point_viewer"}
+    ]
+  },
+  {
+    "id": "s305vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Phai nhac moi lam thi con gi vui",
+    "title_vi": "Phải nhắc mới làm thì còn gì vui",
+    "mechanism": "THE DISCOUNT TRAP",
+    "lines": [
+      {"vo": "Bạn dặn người yêu mỗi sáng nhớ nhắn chúc một câu.", "text": "MỘT LỜI NHẮC NHẸ", "color": "red", "actor": "front", "prop": "coffee_mug"},
+      {"vo": "Tin nhắn gửi đến thật, nhưng bạn lại thấy vô nghĩa.", "text": "THẤY VÔ NGHĨA", "color": "red", "actor": "bored_yawn"},
+      {"vo": "Bạn nghĩ: phải xin mới cho thì đâu còn lòng thành.", "text": "KHÔNG TỰ NGUYỆN", "color": "red", "actor": "facepalm"},
+      {"vo": "Cái bẫy giảm giá: cứ phải mở lời trước là tự nhiên thấy hết giá trị.", "text": "XEM NHẸ NỖ LỰC", "actor": "think", "prop": "brain"},
+      {"vo": "Ta mơ mộng sự tự giác, mà quên thói quen cần tập luyện.", "text": "ẢO TƯỞNG TỰ GIÁC", "actor": "confused_shrug"},
+      {"vo": "Gạt đi thiện chí ban đầu, đối phương sẽ tắt luôn ý định.", "text": "DỄ GÂY NẢN LÒNG", "color": "red", "actor": "worried_heart"},
+      {"vo": "Một lời cảm ơn thật lòng vì người ta đã chịu lắng nghe.", "text": "GHI NHẬN THAY ĐỔI", "color": "green", "actor": "small_step"},
+      {"vo": "Cứ đợi họ tự hiểu, hay biết ơn vì họ đang cố gắng?", "text": "BIẾT ƠN NỖ LỰC?", "color": "gold", "actor": "think"}
+    ]
+  },
+  {
+    "id": "s306",
+    "mascot": "buff",
+    "title": "Why Kindness Triggers Suspicion",
+    "mechanism": "THE DARK LENS",
+    "lines": [
+      {"vo": "Surprise dinner arrives at your door, and your stomach drops in suspicion.", "text": "SURPRISE DELIVERY", "color": "red", "actor": "shocked", "prop": "notification_bell"},
+      {"vo": "Heavy emotional baggage. A kind gesture arrives, and alarm sirens blare.", "text": "ALARM SIRENS", "color": "red", "actor": "panic", "prop": "storm_cloud"},
+      {"vo": "Past tension built a dark lens, treating teammates like opponents.", "text": "THE DARK LENS", "actor": "arms_crossed_no"},
+      {"vo": "Drop the defense reps. Look at raw facts: they sent food.", "text": "LOOK AT FACTS", "color": "green", "actor": "think", "prop": "target"},
+      {"vo": "Accept the food, text your thanks, and log the win.", "text": "LOG THE WIN", "color": "gold", "actor": "celebrate"}
+    ]
+  },
+  {
+    "id": "s306vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Nguoi yeu dat do an lai nghi co loi",
+    "title_vi": "Người yêu đặt đồ ăn lại nghi có lỗi",
+    "mechanism": "THE DARK LENS",
+    "lines": [
+      {"vo": "Người yêu xa bất ngờ đặt đồ ăn, bạn lại chột dạ nghi người ta có lỗi.", "text": "ĐỒ ĂN BẤT NGỜ", "color": "red", "actor": "shocked", "prop": "notification_bell"},
+      {"vo": "Chưa kịp mừng thì chuông báo động trong đầu đã réo.", "text": "BÁO ĐỘNG QUÁ ĐÀ", "color": "red", "actor": "panic", "prop": "storm_cloud"},
+      {"vo": "Lăng kính tiêu cực biến đồng đội thành đối thủ nguy hiểm.", "text": "LĂNG KÍNH ĐEN TỐI", "actor": "arms_crossed_no"},
+      {"vo": "Bỏ bài tập nghi ngờ. Nhìn vào sự thật: họ vừa gửi đồ ăn ngon.", "text": "NHÌN VÀO HÀNH ĐỘNG", "color": "green", "actor": "think", "prop": "target"},
+      {"vo": "Tháo kính râm xuống. Ăn cho nóng rồi cảm ơn một câu. Xong.", "text": "THÁO KÍNH RÂM", "color": "gold", "actor": "celebrate"}
+    ]
+  },
+  {
+    "id": "s307",
+    "mascot": "pen",
+    "title": "Stop Fighting Their White Flag",
+    "mechanism": "THE WHITE FLAG",
+    "lines": [
+      {"vo": "Midway through a heated video argument, they crack a goofy joke.", "text": "A SILLY JOKE", "color": "red", "actor": "shocked", "prop": "storm_cloud"},
+      {"vo": "You snap angrily, treating their humor like an insult.", "text": "SNAPPING BACK", "color": "red", "actor": "arms_crossed_no"},
+      {"vo": "That awkward joke was actually a white flag to cool down tension.", "text": "THE WHITE FLAG", "actor": "nervous_wave"},
+      {"vo": "Couples use repair attempts when racing hearts need safety.", "text": "REPAIR ATTEMPTS", "actor": "worried_heart"},
+      {"vo": "When you focus on winning, you crush their olive branch.", "text": "FOCUSED ON WINNING", "color": "red", "actor": "facepalm"},
+      {"vo": "Spot the truce early. Pause and smile back.", "text": "ACCEPT THE TRUCE", "color": "green", "actor": "hand_off", "prop": "coffee_mug"},
+      {"vo": "Scoring points against your teammate never wins the relationship.", "text": "PROTECT THE TEAM", "color": "gold", "actor": "small_step"}
+    ]
+  },
+  {
+    "id": "s307vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Dang cai nhau bong pha tro treu choc",
+    "title_vi": "Đang cãi nhau bỗng pha trò trêu chọc",
+    "mechanism": "THE WHITE FLAG",
+    "lines": [
+      {"vo": "Đang cãi nhau nảy lửa, đối phương bỗng buông câu đùa ngớ ngẩn.", "text": "PHA TRÒ VỤNG VỀ", "color": "red", "actor": "shocked", "prop": "storm_cloud"},
+      {"vo": "Bạn nổi đoá lên vì nghĩ họ đang trêu ngươi mình.", "text": "NỔI ĐOÁ TỨC GIẬN", "color": "red", "actor": "arms_crossed_no"},
+      {"vo": "Nhưng câu đùa lóng ngóng đó chính là lá cờ trắng xin hoà.", "text": "LÁ CỜ TRẮNG XIN HOÀ", "actor": "nervous_wave"},
+      {"vo": "Khi căng thẳng tăng cao, người ta pha trò để tìm an toàn.", "text": "NỖ LỰC HẠ NHIỆT", "actor": "worried_heart"},
+      {"vo": "Nếu chỉ mải mê ăn thua, bạn sẽ giẫm nát thiện chí của họ.", "text": "MẢI MÊ THẮNG THUA", "color": "red", "actor": "facepalm"},
+      {"vo": "Nhận ra cờ trắng xin hoà. Mỉm cười rồi tạm dừng năm phút.", "text": "TẠM DỪNG NĂM PHÚT", "color": "green", "actor": "hand_off", "prop": "coffee_mug"},
+      {"vo": "Bạn không thể thắng người yêu mà giữ được sự bình yên.", "text": "GIỮ LẤY BÌNH YÊN", "color": "gold", "actor": "small_step"}
+    ]
+  }
+]

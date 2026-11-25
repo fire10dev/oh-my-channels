@@ -1,0 +1,698 @@
+REBUTTAL:
+1 accept
+2 accept
+3 accept
+4 accept
+5 reject: The proposed rewrite has 17 words (exceeding ~12 words), adds a time metric, and dilutes Buff's punchy voice.
+6 accept
+7 accept
+8 reject: Pen questions are already at 33% (≤ 60%), and waiting until morning contradicts the pre-dinner hook.
+9 accept
+10 accept
+11 accept
+12 accept
+13 accept
+14 accept
+15 accept
+RESULT:
+[
+  {
+    "id": "s420",
+    "mascot": "buff",
+    "title": "Drop Your Racing Pulse",
+    "mechanism": "The Body Reset",
+    "lines": [
+      {
+        "vo": "Someone cuts you off mid-sentence, and your heart immediately spikes.",
+        "text": "HEART RACING",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "That is your nervous system slamming the panic pedal.",
+        "text": "PANIC PEDAL",
+        "color": "red",
+        "actor": "panic",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Do not start yelling. That is junk form.",
+        "text": "BAD FORM",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Take two quick sniffs in, then one long slow breath out.",
+        "text": "DOUBLE INHALE",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "The double sniff pops lung sacs open and drops your pulse.",
+        "text": "PULSE RESET",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Heart rate down. Now speak like a professional.",
+        "text": "SOLID REP",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s420vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Ha nhip tim khi bi cuop loi",
+    "title_vi": "Hạ nhịp tim khi bị cướp lời",
+    "mechanism": "The Body Reset",
+    "lines": [
+      {
+        "vo": "Đang phát biểu thì bị cướp lời. Tim đập nhanh muốn phát điên.",
+        "text": "BI CUOP LOI",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Hệ thần kinh đang đạp lút ga báo động đấy.",
+        "text": "BAO DONG DO",
+        "color": "red",
+        "actor": "panic",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Đừng cãi tay đôi ngay. Hiệp này hỏng form rồi.",
+        "text": "HONG FORM",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Hít nhanh hai nhịp bằng mũi, rồi thở dài qua miệng.",
+        "text": "HIT HAI THO MOT",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Phổi mở căng, nhịp tim hạ ngay sau vài giây.",
+        "text": "HA NHIP TIM",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Nhịp tim hạ rồi. Vào lại hiệp đấu thật bình tĩnh.",
+        "text": "VAO LAI HIEP",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s421",
+    "mascot": "pen",
+    "title": "Before You Send That Angry Text",
+    "mechanism": "Name the Feeling",
+    "lines": [
+      {
+        "vo": "Your family group chat drops a passive aggressive text before dinner.",
+        "text": "FAMILY CHAT",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Your thumbs start furiously typing before you even think.",
+        "text": "ANGRY TYPING",
+        "color": "red",
+        "actor": "typing_focused"
+      },
+      {
+        "vo": "High emotional heat shuts down your impulse control completely.",
+        "text": "HEAT WAVE",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Try affect labeling. Say the exact emotion silently in your head.",
+        "text": "NAME THE FEELING",
+        "color": "green",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Putting words to anger activates your logical brain and calms panic.",
+        "text": "COOL DOWN",
+        "color": "green",
+        "actor": "writing"
+      },
+      {
+        "vo": "You are not trapped in rage. You are just feeling irritated.",
+        "text": "JUST IRRITATED",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Does the anger still need that furious reply?",
+        "text": "DROP THE TEXT",
+        "color": "gold",
+        "actor": "confused_shrug"
+      }
+    ]
+  },
+  {
+    "id": "s421vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Dung lai truoc khi gui tin nhan gian",
+    "title_vi": "Dừng lại trước khi gửi tin nhắn giận",
+    "mechanism": "Name the Feeling",
+    "lines": [
+      {
+        "vo": "Nhóm chat gia đình vừa nhảy một tin nhắn móc mỉa.",
+        "text": "NHOM CHAT ON AO",
+        "color": "red",
+        "actor": "phone_grin",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Ngón tay bạn bấm liên tục, định soạn văn đôi co.",
+        "text": "SOAN VAN DOI CO",
+        "color": "red",
+        "actor": "typing_focused"
+      },
+      {
+        "vo": "Cơn bực tức dâng cao đang khoá chặt phần não suy xét.",
+        "text": "KHOA SUY XET",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Dừng lại và gọi tên cảm xúc thật rõ ràng trong đầu.",
+        "text": "GOI TEN CAM XUC",
+        "color": "green",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Tự nhủ: mình đang bực mình, chứ mình không mất kiểm soát.",
+        "text": "MINH DANG BUC",
+        "color": "green",
+        "actor": "writing"
+      },
+      {
+        "vo": "Chỉ cần gọi đúng tên, cơn bực tự khắc xẹp xuống.",
+        "text": "CON BUC TIEU TAN",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Liệu có đáng gửi đi một tin nhắn để phá hỏng buổi tối?",
+        "text": "CO DANG GUI?",
+        "color": "gold",
+        "actor": "confused_shrug"
+      }
+    ]
+  },
+  {
+    "id": "s422",
+    "mascot": "buff",
+    "title": "Why You Snapped Over Nothing",
+    "mechanism": "Hidden Tension",
+    "lines": [
+      {
+        "vo": "Brutal commute, walk in exhausted, and someone asks about the milk.",
+        "text": "WHERE IS MILK?",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "You explode instantly. That is arousal misattribution.",
+        "text": "WRONG TARGET",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "target"
+      },
+      {
+        "vo": "Your tank was empty before you even touched the front door.",
+        "text": "EMPTY TANK",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Scan your body first: are you hungry, drained, or carrying traffic stress?",
+        "text": "CHECK THE TANK",
+        "color": "green",
+        "actor": "think"
+      },
+      {
+        "vo": "Take five quiet minutes to reset. The milk was innocent.",
+        "text": "TAKE FIVE",
+        "color": "gold",
+        "actor": "front",
+        "prop": "hourglass"
+      }
+    ]
+  },
+  {
+    "id": "s422vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung trut gian len nguoi vo toi",
+    "title_vi": "Đừng trút giận lên người vô tội",
+    "mechanism": "Hidden Tension",
+    "lines": [
+      {
+        "vo": "Kẹt xe cả tiếng về đến nhà, vừa mở cửa bị hỏi chìa khoá.",
+        "text": "KET XE VE NHA",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Bạn gắt gỏng quát ầm lên như người ta vừa phạm trọng tội.",
+        "text": "QUAT AM LEN",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "target"
+      },
+      {
+        "vo": "Bình xăng của bạn cạn sạch từ ngoài đường, lỗi đâu phải họ.",
+        "text": "CAN SACH PIN",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Tự soi lại mình đi: đang đói lả hay kẹt xe kiệt sức?",
+        "text": "SOI LAI MINH",
+        "color": "green",
+        "actor": "think"
+      },
+      {
+        "vo": "Xin năm phút ngồi yên thở đều. Người nhà không phải bao cát.",
+        "text": "XIN NAM PHUT",
+        "color": "gold",
+        "actor": "front",
+        "prop": "hourglass"
+      }
+    ]
+  },
+  {
+    "id": "s423",
+    "mascot": "pen",
+    "title": "When Their Text Sounds Rude",
+    "mechanism": "Rewrite the Script",
+    "lines": [
+      {
+        "vo": "You spent three whole days on a report. The boss replies: noted.",
+        "text": "JUST NOTED",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Your stomach drops, assuming your hard work was completely dismissed.",
+        "text": "STOMACH DROPS",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "The brain never reacts to raw reality. It reacts to your story.",
+        "text": "YOUR INNER STORY",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "If you appraise noted as contempt, your stress flares immediately.",
+        "text": "FALSE ALARM",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "If you view it as quick efficiency, your heart stays quiet.",
+        "text": "JUST EFFICIENCY",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Force yourself to write two harmless explanations before you worry.",
+        "text": "TWO SCRIPTS",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Maybe they were rushing onto a flight or saving you time.",
+        "text": "SAVING TIME",
+        "actor": "sprint_start"
+      },
+      {
+        "vo": "A short text is just letters until you paint it dark.",
+        "text": "JUST LETTERS",
+        "color": "gold",
+        "actor": "reading"
+      }
+    ]
+  },
+  {
+    "id": "s423vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Khi sep nhan tin coc loc",
+    "title_vi": "Khi sếp nhắn tin cộc lốc",
+    "mechanism": "Rewrite the Script",
+    "lines": [
+      {
+        "vo": "Thức ba đêm làm báo cáo, sếp nhắn trả lời cộc lốc: đã nhận.",
+        "text": "SEP NHAN DA NHAN",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Ruột gan thắt lại, bạn nghĩ ngay rằng sếp đang chê bai mình.",
+        "text": "NGHI BI CHE",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Não bộ không phản ứng với sự thật, mà phản ứng với kịch bản.",
+        "text": "KICH BAN TU DUNG",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Nghĩ hai chữ đó là lạnh nhạt, cơ thể bạn sẽ phát hoảng.",
+        "text": "HOANG MANG",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Nghĩ sếp đang bận họp nên gõ nhanh, lòng bạn sẽ nhẹ nhõm.",
+        "text": "DANG BAN HOP",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Tập viết thêm hai lý do vô hại khác trước khi buồn bã.",
+        "text": "VIET LY DO KHAC",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Có thể sếp đang dở cuộc họp hoặc chỉ kịp xem qua để duyệt.",
+        "text": "DOC LUOT DE DUYET",
+        "actor": "sprint_start"
+      },
+      {
+        "vo": "Dòng tin nhắn vô tri, ý nghĩa là do bạn tự gán vào.",
+        "text": "TIN NHAN VO TRI",
+        "color": "gold",
+        "actor": "reading"
+      }
+    ]
+  },
+  {
+    "id": "s424",
+    "mascot": "buff",
+    "title": "Stop Taking Strangers Personally",
+    "mechanism": "Charity Pivot",
+    "lines": [
+      {
+        "vo": "Someone shoves past you in line without a single word.",
+        "text": "SHOVED IN LINE",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "You think: what an arrogant jerk. Your blood starts boiling.",
+        "text": "BLOOD BOILING",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "That is the attribution trap. You assign malice to clumsy mistakes.",
+        "text": "ATTRIBUTION TRAP",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "When you bump someone, it was balance. When they do, it was character.",
+        "text": "DOUBLE STANDARD",
+        "actor": "confused_shrug",
+        "prop": "target"
+      },
+      {
+        "vo": "Cut them some slack. Assume they are distracted or sprinting into an emergency.",
+        "text": "GIVE SOME SLACK",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Do not waste heavy reps on strangers. Keep your cool and move.",
+        "text": "SAVE YOUR REPS",
+        "color": "gold",
+        "actor": "front",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s424vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung chap nhat nguoi la tren duong",
+    "title_vi": "Đừng chấp nhặt người lạ trên đường",
+    "mechanism": "Charity Pivot",
+    "lines": [
+      {
+        "vo": "Đang xếp hàng mua đồ thì có người chen ngang không thèm xin lỗi.",
+        "text": "CHEN HANG",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Bạn sôi máu và nghĩ ngay: sao nhiều người vô ý thức thế.",
+        "text": "SOI MAU TUC GIAN",
+        "color": "red",
+        "actor": "panic",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Đừng mắc bẫy quy kết. Bạn đang gán ác ý cho sự vô ý.",
+        "text": "BAY QUY KET",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Mình va chạm thì do vấp, người khác va thì bảo bất lịch sự.",
+        "text": "TIEU CHUAN KEP",
+        "actor": "confused_shrug",
+        "prop": "target"
+      },
+      {
+        "vo": "Cứ coi như họ đang có việc gia đình gấp hoặc lơ đãng.",
+        "text": "NGHI RONG RA",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Để dành sức mà nâng tạ. Bực người lạ là phí năng lượng.",
+        "text": "PHI NANG LUONG",
+        "color": "gold",
+        "actor": "front",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s425",
+    "mascot": "pen",
+    "title": "How to Mute Annoying Background Noise",
+    "mechanism": "Shift Your Focus",
+    "lines": [
+      {
+        "vo": "Someone taps their pen non stop in a dead silent room.",
+        "text": "PEN TAPPING",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "The harder you try to ignore it, the louder it sounds.",
+        "text": "LOUDER AND LOUDER",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Evolution wired your brain to highlight sudden pattern breaks.",
+        "text": "PATTERN BREAK",
+        "actor": "shocked",
+        "prop": "brain"
+      },
+      {
+        "vo": "Fighting the noise tells your attention system that it truly matters.",
+        "text": "FALSE ALARM",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Instead, plant your feet flat and grip the desk edge firmly.",
+        "text": "GROUND YOUR FEET",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Direct all mental bandwidth into drafting your next sentence.",
+        "text": "FOCUS ON TYPING",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Notice how the clicking faded once your hands took over.",
+        "text": "NOISE FADED",
+        "color": "gold",
+        "actor": "think"
+      }
+    ]
+  },
+  {
+    "id": "s425vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tat tieng on gay kho chiu trong phong",
+    "title_vi": "Tắt tiếng ồn gây khó chịu trong phòng",
+    "mechanism": "Shift Your Focus",
+    "lines": [
+      {
+        "vo": "Ngồi làm việc mà bàn bên cứ bấm bút tanh tách liên tục.",
+        "text": "BAM BUT LIEN TUC",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Càng cố lờ đi thì tiếng cạch cạch nghe càng chói tai.",
+        "text": "CHOI TAI",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Não bộ luôn tự động phóng đại những âm thanh ngắt quãng.",
+        "text": "PHONG DAI AM THANH",
+        "actor": "shocked",
+        "prop": "brain"
+      },
+      {
+        "vo": "Càng bực bội, não càng tin âm thanh đó là mối đe dọa.",
+        "text": "TIN LA NGUY HIEM",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Hãy đặt hai bàn chân xuống sàn và nắm chặt mép bàn.",
+        "text": "BAM CHAC MAT SAN",
+        "color": "green",
+        "actor": "meditating"
+      },
+      {
+        "vo": "Dồn toàn bộ sự chú ý vào gõ nốt một câu báo cáo.",
+        "text": "GO TIEP DONG CHU",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Khi đôi tay bắt đầu bận rộn, tiếng ồn sẽ tự khắc lùi xa.",
+        "text": "TIENG ON LUI XA",
+        "color": "gold",
+        "actor": "think"
+      }
+    ]
+  },
+  {
+    "id": "s426",
+    "mascot": "buff",
+    "title": "Stop Calling Everything Anger",
+    "mechanism": "Feeling Granular",
+    "lines": [
+      {
+        "vo": "Slapping angry on every bad feeling is lazy form.",
+        "text": "LAZY LABEL",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Anger is just a giant bucket hiding completely different problems.",
+        "text": "VAGUE BUCKET",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Break down the weight: are you rushed, disrespected, or just exhausted?",
+        "text": "NAME EXACTLY",
+        "color": "green",
+        "actor": "think",
+        "prop": "target"
+      },
+      {
+        "vo": "If you are rushed, fix the schedule. If exhausted, go sleep.",
+        "text": "FIX THE LEAK",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Find the exact sticking point. Stop yelling at the barbell.",
+        "text": "TARGET THE FIX",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s426vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung vo dua ca nam la dang cau",
+    "title_vi": "Đừng vơ đũa cả nắm là đang cáu",
+    "mechanism": "Feeling Granular",
+    "lines": [
+      {
+        "vo": "Hơi tí là gào lên mình đang cáu. Đánh nhãn thế là lười.",
+        "text": "DANH NHAN LUOI",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Cáu gắt chỉ là cái vỏ bọc che đậy cả đống chuyện cụ thể.",
+        "text": "VO BOC CAU GAT",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Bóc tách từng tạ một: bạn đang bị dí hạn, bị ngắt lời, hay đói?",
+        "text": "TACH RO VAN DE",
+        "color": "green",
+        "actor": "think",
+        "prop": "target"
+      },
+      {
+        "vo": "Bị dí hạn thì lùi lịch, đói lả thì kiếm gì ăn ngay.",
+        "text": "SUA DUNG CHO",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Bắt đúng điểm nghẽn để xử lý, việc gì phải giận cá chém thớt.",
+        "text": "BAT DUNG DIEM",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  }
+]

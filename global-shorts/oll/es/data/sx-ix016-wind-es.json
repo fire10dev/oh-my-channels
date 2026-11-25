@@ -1,0 +1,69 @@
+{
+ "title": "La ráfaga de 372 km/h en Mount Washington",
+ "hook": "RÁFAGA RÉCORD",
+ "asof": "Datos del Observatorio de Mount Washington y FOX Weather",
+ "world": "summit",
+ "long": "IX016",
+ "chapters": [
+  {
+   "id": "record",
+   "hud": "12 ABR 1934",
+   "chip": "13:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Abril de 1934. Tres hombres miden algo nunca visto en la cima.",
+     "v": "tower",
+     "plane": "wind"
+    },
+    {
+     "s": "El Observatorio de Mount Washington, en New Hampshire.",
+     "v": "building"
+    },
+    {
+     "s": "Sal Pagliuca, Alex McKenzie y Wendell Stephenson estaban de turno.",
+     "v": "office",
+     "you": "office"
+    },
+    {
+     "s": "Su anemómetro tenía calefacción para que el hielo no lo trabara.",
+     "v": "tower",
+     "plane": "rime"
+    },
+    {
+     "s": "Entonces llegó una ráfaga de 372 kilómetros por hora.",
+     "v": "tower",
+     "plane": "wind",
+     "st": [
+      "372 km/h",
+      "12 de abril de 1934"
+     ]
+    },
+    {
+     "s": "Durante décadas, fue el viento más rápido medido en la superficie terrestre.",
+     "v": "deck",
+     "plane": "wind"
+    },
+    {
+     "s": "CBS informó que sigue siendo el más rápido registrado por alguien en tierra.",
+     "v": "mountain"
+    },
+    {
+     "s": "Y en 2023, la sensación térmica aquí llegó a −78 °C.",
+     "v": "rime",
+     "plane": "rime",
+     "st": [
+      "−78 °C",
+      "sensación térmica · 2023"
+     ]
+    },
+    {
+     "s": "¿Te pararías en esa terraza?",
+     "v": "deck",
+     "plane": "wind",
+     "you": "deck"
+    }
+   ]
+  }
+ ]
+}

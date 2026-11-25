@@ -1,0 +1,9 @@
+out/**/*.mp4
+out/**/*.jpg
+out/**/*.png
+engine/public/*/
+!engine/public/sfx/
+engine/public/sfx/*.wav
+engine/public/music/
+engine/node_modules
+tools/.venv/

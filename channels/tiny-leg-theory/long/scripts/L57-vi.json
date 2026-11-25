@@ -1,0 +1,903 @@
+{
+ "id": "L57vi",
+ "lang": "vi",
+ "title": "Làm sao góp ý với bạn thân mà không to chuyện?",
+ "description": "Mâu thuẫn nhỏ chuyện chia tiền hay hủy hẹn rất dễ biến thành ấm ức nếu không nói ra. Video này chia sẻ tám công cụ tâm lý giúp bạn khéo léo gỡ rối và bảo vệ tình bạn. Học cách góp ý đúng chuyện mà không làm tổn thương nhau.",
+ "chapters": [
+  {
+   "title": "IM LẶNG KHÓ XỬ",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn trả tiền nước cho bạn thân, nhìn hóa đơn rồi nhắn: thôi để tui lo, khỏi nghĩ.",
+     "text": "IM LẶNG KHÓ XỬ",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng bụng dạ không hề ổn, vì cảm giác ấm ức cứ nghẹn ứ cả buổi tối.",
+     "text": "ẤM ỨC NGẤM NGẦM",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nuốt cục tức nghe thì lịch sự, nhưng bạn chỉ đang giấu tạ nặng vào tủ kín thôi.",
+     "text": "GỒNG GÁNH TẠ NẶNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mở miệng đòi thì sợ mang tiếng tính toán, rồi sứt mẻ tình bạn.",
+     "text": "SỢ BỊ COI NHỎ NHEN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Im lặng không phải bình yên đâu Pen. Đó chỉ là quả bom nổ chậm chờ ngày bùng lên.",
+     "text": "BOM HẸN GIỜ",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy làm sao để góp ý rõ ràng mà không biến va chạm nhỏ thành cãi vã to?",
+     "text": "NÓI SAO CHO KHÉO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng nhịn và đừng làm ầm lên. Đây là tám công cụ tâm lý giúp bạn giữ chặt tình bạn.",
+     "text": "TÁM CÔNG CỤ",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "1. DÁM LÊN TIẾNG",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần bạn thân quên chuyển tiền ăn chung, mình chẳng bao giờ dám mở lời nhắc.",
+     "text": "1. DÁM LÊN TIẾNG",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình tự nhủ thà chịu mất tiền còn hơn chịu cảnh ngượng ngùng lúc mở miệng.",
+     "text": "MUA SỰ YÊN THÂN",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dân tâm lý gọi đó là sự im lặng chịu đựng: ham an toàn trước mắt nhưng hại tình bạn lâu dài.",
+     "text": "CHỌN CÁCH NÉN NHỊN",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não tự động né vì nó phóng đại nỗi sợ bị bạn bè xa lánh lên quá mức.",
+     "text": "BÁO ĐỘNG ẢO",
+     "color": "red",
+     "actor": "small_step",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lúc đó thấy êm đẹp, nhưng sau đấy mình bắt đầu thấy xa cách và ấm ức ngầm.",
+     "text": "ẤM ỨC TÍCH TỤ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Cục tức nuốt vào sẽ sinh lãi độc hại cho món nợ cảm xúc sau này.",
+     "text": "LÃI SUẤT ĐỘC HẠI",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy im lặng không cứu được tình bạn, mà chỉ làm mòn lòng tin từ bên trong?",
+     "text": "MÒN MỎI LÒNG TIN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Coi việc lên tiếng như hiệp khởi động tạ nhẹ ngay khi vừa có va quẹt.",
+     "text": "KHỞI ĐỘNG TẠ NHẸ",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ nhắn thẳng vào Zalo: ê bạn, lúc nào rảnh bắn lại tiền nước hôm qua cho tui nha.",
+     "text": "NHẮN TIN NHẸ NHÀNG",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhắc sớm và nhẹ nhàng sẽ không biến một sơ suất nhỏ thành chuyện xúc phạm nhau.",
+     "text": "KHÔNG BỚI MÓC",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lên tiếng sớm giúp rèn cơ cảm xúc trước khi tạ con biến thành mức tạ quá sức.",
+     "text": "RÈN CƠ CẢM XÚC",
+     "color": "gold",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nếu mình nén nhịn quá lâu, để rồi bùng nổ thành cơn giận dữ thì sao?",
+     "text": "CƠN GIẬN NỔ TUNG?",
+     "color": "ink",
+     "actor": "worried_heart"
+    }
+   ]
+  },
+  {
+   "title": "2. GÓP Ý ĐÚNG CÁCH",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đúng là như vậy: mình cứ nhịn cho tới lúc mất kiểm soát rồi quát ầm lên.",
+     "text": "2. GÓP Ý ĐÚNG CÁCH",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình buột miệng cay gắt: lúc nào bạn cũng trễ hẹn, không bao giờ tôn trọng người khác.",
+     "text": "TÔNG GIỌNG CAY GẮT",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là công kích cá nhân rồi Pen. Thứ Pen cần là góp ý mang tính xây dựng.",
+     "text": "CÔNG KÍCH CÁ NHÂN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi nhịp tim tăng, não trở nên lười biếng. Nó biến một lần đến muộn thành đồ vô tâm.",
+     "text": "BẪY QUY CHỤP",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và điều đó buộc họ phải dựng khiên tự vệ thay vì sửa đổi chuyện thực tế?",
+     "text": "DỰNG KHIÊN TỰ VỆ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn từng hiệp. Góp ý chuẩn chỉ luôn chiếu thẳng đèn vào hành vi nhìn thấy được.",
+     "text": "SOI ĐÚNG HÀNH VI",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ miêu tả sự việc cụ thể và hậu quả thực tế bằng sự thật trung lập.",
+     "text": "SỰ THẬT TRUNG LẬP",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói thẳng thực tế: hôm qua bạn tới trễ bốn mươi phút làm mình phải ngồi đợi một mình.",
+     "text": "NÓI ĐÚNG SỰ THẬT",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tập trung vào sự việc giúp tách rạch ròi hành vi khỏi con người, đỡ làm bạn mình tự ái.",
+     "text": "VIỆC CHỨ KHÔNG NGƯỜI",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nó giúp bạn mình dễ nhận lỗi mà không thấy bản thân là kẻ tồi tệ.",
+     "text": "DỄ DÀNG NHẬN LỖI",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sự thật giúp bạn bè nhìn thẳng vấn đề mà không phải gồng mình che chở cái tôi.",
+     "text": "BUÔNG BỎ CÁI TÔI",
+     "color": "gold",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nếu cả hai đều có lý, nhưng kèo đi chơi cuối tuần lại hoàn toàn lệch pha?",
+     "text": "KHI LỆCH PHA KÈO?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    }
+   ]
+  },
+  {
+   "title": "3. TÌM NHU CẦU THỰC",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ tối cuối tuần là bế tắc: bạn thì đòi đi quẩy nhạc xập xình, mình lại chỉ muốn nằm nhà.",
+     "text": "3. TÌM NHU CẦU THỰC",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hai đứa tranh cãi xem ai bướng hơn, rồi ai cũng ấm ức vì không được thấu hiểu.",
+     "text": "TRANH CÃI BƯỚNG BỈNH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai người đang khóa đòn vì lập trường cứng nhắc thay vì nhìn vào nhu cầu thật.",
+     "text": "LẬP TRƯỜNG CỨNG NHẮC",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lập trường là đòi hỏi cố chấp, còn nhu cầu là mong muốn thầm kín bên dưới.",
+     "text": "NHU CẦU CỐT LÕI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là việc mình khăng khăng ở nhà thực ra là cần nạp lại năng lượng sau tuần làm việc?",
+     "text": "CẦN NẠP NĂNG LƯỢNG?",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Còn bạn kia nằng nặc đòi đi chơi có khi chỉ vì muốn được gặp gỡ bạn bè.",
+     "text": "THÈM ĐƯỢC KẾT NỐI",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hạ thế thủ xuống đi Pen. Tìm ra nhu cầu thật rồi đặt thẳng lên bàn.",
+     "text": "NÓI THẲNG NHU CẦU",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử nói: mình muốn gặp bạn lắm nhưng đuối quá rồi, ghé mua đồ về phòng ăn nha?",
+     "text": "TÌM ĐIỂM CHUNG",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách đó đáp ứng nhu cầu cả hai mà không ai cảm thấy mình bị thua cuộc.",
+     "text": "ĐÔI BÊN CÙNG THẮNG",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vừa có thời gian bên nhau, lại không ai phải gồng mình chịu đựng sự mệt mỏi.",
+     "text": "THOẢI MÁI CẢ HAI",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi trao đổi bằng nhu cầu thật thay vì cái tôi, chẳng ai rời cuộc chơi trong cay cú.",
+     "text": "KHÔNG AI CAY CÚ",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế còn khi bạn thân liên tục hủy hẹn, làm đầu óc mình nghĩ người ta không tôn trọng mình?",
+     "text": "BẠN HAY HỦY HẸN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    }
+   ]
+  },
+  {
+   "title": "4. NGHĨ TỐT CHO BẠN",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Khi bạn thân hủy kèo ăn tối lần thứ ba trong một tháng, mình có cảm giác bị bỏ rơi.",
+     "text": "4. NGHĨ TỐT CHO BẠN",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình bắt đầu tự vẽ ra kịch bản rằng bạn ích kỷ, vô tâm và coi thường mình.",
+     "text": "TỰ VẼ KỊCH BẢN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dân tâm lý gọi đây là bẫy quy kết thù địch: cứ thấy thiếu tin tức là tự coi bạn mình xấu tính.",
+     "text": "QUY KẾT THÙ ĐỊCH",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi căng thẳng, não lười biếng quy ngay cho ác ý vì sự mập mờ làm ta bất an.",
+     "text": "BẪY BẤT AN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là tâm trí tự bịa chuyện xấu để tìm cảm giác kiểm soát trước sự hoang mang?",
+     "text": "BỊA CHUYỆN ĐỂ AN TÂM?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi cách nhìn nhận là tập cho não thói quen nghĩ đến lý do bao dung trước tiên.",
+     "text": "UỐN NẮN GÓC NHÌN",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập ngay hai hiệp nghĩ tích cực: có khi nhà bạn có việc, hoặc bạn đang quá tải.",
+     "text": "TÌM LÝ DO HỢP LÝ",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy nghĩ người ta mệt mỏi trước khi nghĩ họ xấu tính, cho đến lúc hỏi rõ ràng.",
+     "text": "BAO DUNG TRƯỚC HẾT",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩ rằng bạn đang quá tải giúp cơn giận trong lòng mình lập tức hạ nhiệt.",
+     "text": "HẠ NHIỆT CƠN GIẬN",
+     "color": "ink",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thay vì nhắn tin hờn dỗi, mình có thể gửi lời hỏi thăm chân thành và ấm áp.",
+     "text": "HỎI THĂM CHÂN THÀNH",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiếp cận bạn bằng sự thấu hiểu thay vì kết tội, việc trò chuyện mới thông suốt được.",
+     "text": "LẮNG NGHE THẤU HIỂU",
+     "color": "gold",
+     "actor": "34",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nếu mình muốn góp ý thật lòng, nhưng lại lỡ lời bóc mẽ bạn giữa chỗ đông người?",
+     "text": "LỠ BÓC MẼ NƠI ĐÔNG?",
+     "color": "ink",
+     "actor": "shocked"
+    }
+   ]
+  },
+  {
+   "title": "5. GIỮ THỂ DIỆN",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Có lần, mình thẳng thừng bắt bẻ câu nói vô ý của bạn ngay trong nhóm bạn chung.",
+     "text": "5. GIỮ THỂ DIỆN",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bạn ấy nổi đóa lên, im bặt hoàn toàn rồi tránh mặt mình suốt mấy tuần liền.",
+     "text": "CHIẾN TRANH LẠNH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen vừa thả nguyên mức tạ trăm ký đè nghẹt cổ bạn giữa cả phòng tập đấy.",
+     "text": "ĐÈ TẠ GIỮA ĐÁM ĐÔNG",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi bị bẽ mặt trước mọi người, bản năng tự vệ sẽ bật lên để giữ thể diện.",
+     "text": "BẢN NĂNG TỰ VỆ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù mình nói đúng, nhưng nói giữa đám đông đã chặn đứng cơ hội lắng nghe của bạn?",
+     "text": "SAI HOÀN CẢNH?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bóc mẽ công khai chỉ phá nát thiện chí. Người tinh tế luôn biết giữ sĩ diện cho nhau.",
+     "text": "GIỮ THỂ DIỆN CHO NHAU",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy chuyển chuyện nhạy cảm sang tin nhắn riêng, nơi không có ai nhòm ngó hay phán xét.",
+     "text": "NÓI CHUYỆN RIÊNG",
+     "color": "green",
+     "actor": "front",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khởi động ấm áp trước: ê bạn, mình rất quý bạn nên mới muốn tâm sự riêng chuyện này.",
+     "text": "MỞ ĐẦU ẤM ÁP",
+     "color": "green",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tạo lối thoát riêng tư giúp họ an tâm tháo bỏ lớp giáp phòng thủ.",
+     "text": "THÁO LỚP PHÒNG THỦ",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ có thể nhận ra sai sót vì không sợ bị mất mặt trước người ngoài.",
+     "text": "KHÔNG SỢ MẤT MẶT",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ thể diện cho bạn lúc riêng tư, họ sẽ vui vẻ bước lên thảm để cùng tháo gỡ.",
+     "text": "CÙNG NHAU THÁO GỠ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nếu nhắn riêng mà họ chỉ đáp lại một chữ ừ cụt ngủn lạnh tanh thì sao?",
+     "text": "TIN NHẮN LẠNH TANH?",
+     "color": "ink",
+     "actor": "bed_phone_night"
+    }
+   ]
+  },
+  {
+   "title": "6. ĐỌC TIN NHẸ NHÀNG",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi bạn thân chỉ thả đúng chữ ờ kèm dấu chấm, mình bắt đầu toát mồ hôi hột.",
+     "text": "6. ĐỌC TIN NHẸ NHÀNG",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình mất hàng giờ ngồi suy diễn ẩn ý mỉa mai đằng sau dòng tin cộc lốc trên màn hình.",
+     "text": "SUY DIỄN THÁI QUÁ",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen cần nạp ngay một liều nghĩ thoáng để giữ cho đầu óc thanh thản đấy.",
+     "text": "SUY NGHĨ NHẸ NHÀNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tin nhắn thiếu biểu cảm và giọng nói, tạo khoảng trống cho sự tự ti tha hồ lấp vào.",
+     "text": "KHOẢNG TRỐNG TỰ TI",
+     "color": "red",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là sự lo âu khiến não tự phóng đại tai họa lên những dòng tin nhắn vô thưởng vô phạt?",
+     "text": "PHÓNG ĐẠI NỖI SỢ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Hãy chủ động chọn lời giải thích bình thường và vô hại nhất có thể.",
+     "text": "CHỌN CÁCH HIỂU VÔ HẠI",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khựng lại một nhịp trước khi trả lời, rồi nghĩ về lý do đơn giản nhất cho tin nhắn đó.",
+     "text": "NGHĨ ĐƠN GIẢN THÔI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ nghĩ người ta đang bận chạy xe ngoài đường, hoặc đang nhận hàng nên gõ nhanh.",
+     "text": "NGƯỜI TA ĐANG VỘI",
+     "color": "green",
+     "actor": "jogging"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi thôi đoán già đoán non, dòng tin cộc lốc đó chẳng còn làm mình bận lòng nữa.",
+     "text": "HẾT SỨC SÁT THƯƠNG",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình có thể trả lời tự nhiên thay vì cố tình nhắn lại kiểu hờn mát xéo xắt.",
+     "text": "ĐÁP LẠI TỰ NHIÊN",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghĩ thoáng giúp giữ vững phong độ, đỡ hao tổn sức lực cho những màn giận dỗi ảo.",
+     "text": "GIỮ VỮNG PHONG ĐỘ",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nếu không ai chịu hỏi rõ, rồi cả hai bắt đầu thi nhau tỏ vẻ mặt lạnh?",
+     "text": "THI NHAU LẠNH NHẠT?",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "7. BẺ GÃY VÒNG LẶP",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Thấy nhóm bạn đi ăn trưa mà không rủ, mình chạnh lòng nên hôm sau nhắn tin cộc lốc.",
+     "text": "7. BẺ GÃY VÒNG LẶP",
+     "color": "red",
+     "actor": "hand_off",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là họ thấy thái độ xa cách của mình rồi cũng chủ động né mình luôn.",
+     "text": "CÀNG NÉ NHAU XA",
+     "color": "red",
+     "actor": "small_step",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vòng xoáy xung đột nhốt hai người bạn vào trò trả đũa ngầm không có hồi kết đấy.",
+     "text": "TRẢ ĐŨA NGẤM NGẦM",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng đòi ăn miếng trả miếng, nhưng từng đòn châm chọc chỉ làm hai bên càng đề phòng.",
+     "text": "ĂN MIẾNG TRẢ MIẾNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kết cục là rơi vào chiến tranh lạnh mà ai cũng nghĩ mình là nạn nhân vô tội.",
+     "text": "BẾ TẮC CÂM LẶNG",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy làm sao để chặn đứng vòng lặp này trước khi tình bạn nguội lạnh hoàn toàn?",
+     "text": "CHẶN ĐỨNG VÒNG LẶP?",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phải có người đủ bản lĩnh bước xuống khỏi cái máy chạy bộ trả đũa đó trước.",
+     "text": "BƯỚC XUỐNG TRƯỚC",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy thẳng thắn nói ra cảm xúc thật thay vì tiếp tục thi nhau đóng băng mối quan hệ.",
+     "text": "NÓI THẬT CẢM XÚC",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy nói: dạo này thấy hai đứa cứ là lạ sao ấy, mình nhớ sự thoải mái ngày xưa.",
+     "text": "NHỚ SỰ THOẢI MÁI",
+     "color": "green",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dám nói thẳng khúc mắc sẽ biến cuộc chiến tranh lạnh thành bài toán chung để cùng tháo gỡ.",
+     "text": "BÀI TOÁN CHUNG",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chân thành hạ gục phòng thủ nhanh hơn bất kỳ đòn phản công nào trên sàn đấu.",
+     "text": "THÁO BỎ PHÒNG THỦ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng kể cả khi đã nói rõ, sao lúc gặp lại nhau sau đó vẫn thấy gượng gạo thế nhỉ?",
+     "text": "VẪN THẤY GƯỢNG GẠO?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    }
+   ]
+  },
+  {
+   "title": "8. TÍN HIỆU LÀM LÀNH",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Dù đã giải tỏa khúc mắc, những lần gặp ngay sau đó vẫn gượng gạo, ngột ngạt.",
+     "text": "8. TÍN HIỆU LÀM LÀNH",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cả hai đều dè dặt từng câu vì chưa chắc mọi chuyện đã bình thường lại chưa.",
+     "text": "DÈ DẶT TỪNG LỜI",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen vừa đẩy xong hiệp tạ nặng, nhưng lại quên bước giãn cơ thả lỏng rồi.",
+     "text": "QUÊN BƯỚC GIÃN CƠ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khoảng lặng ngượng ngùng để lại vết hở. Một hành động chung sẽ kéo lại sự gắn kết.",
+     "text": "KẾT NỐI LẠI NGAY",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy chỉ xin lỗi và nói chuyện thôi thì chưa đủ để nối lại tình cảm sao?",
+     "text": "XIN LỖI ĐÃ ĐỦ CHƯA?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lời nói chỉ thông phần lý trí, còn hành động chung tích cực mới kéo lại sự an tâm.",
+     "text": "HÀNH ĐỘNG HÀN GẮN",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy tạo thói quen phát tín hiệu làm lành dứt điểm ngay sau mỗi cuộc đối thoại căng thẳng.",
+     "text": "TÍN HIỆU LÀM LÀNH",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gửi một tấm ảnh chế hai đứa cùng thích, hoặc rủ nhau đi làm cốc trà sữa.",
+     "text": "RỦ NHAU TRÀ SỮA",
+     "color": "green",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hành động nhỏ đó khẳng định tình bạn vẫn vẹn nguyên sau góp ý mà không vướng bận gì.",
+     "text": "KHÔNG CÒN GỢN LÒNG",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nó chứng minh rằng nói chuyện thẳng thắn làm tình cảm gắn bó hơn chứ không hề sứt mẻ.",
+     "text": "TÌNH BẠN BỀN CHẶT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thân nhau không phải là không bao giờ cọ xát, mà là tốc độ hai người cùng hồi phục.",
+     "text": "TỐC ĐỘ HỒI PHỤC",
+     "color": "gold",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "BẢY NGÀY THAY ĐỔI",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Im lặng trước những rạn nứt nhỏ tuy dễ chịu, nhưng sẽ bóp nghẹt dần sự tin tưởng chân thành.",
+     "text": "BẢY NGÀY THAY ĐỔI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba nguyên tắc vàng: tìm nhu cầu cốt lõi, nói chuyện riêng tư, và làm lành dứt khoát.",
+     "text": "BA NGUYÊN TẮC VÀNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tách con người khỏi hành vi sẽ giữ cho những va chạm không biến thành bức tường ngăn cách.",
+     "text": "PHÁ BỎ BỨC TƯỜNG",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày: chọn một khúc mắc âm ỉ, nghĩ hai lý do bao dung, rồi nói chuyện riêng.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhắn một tin nhắn riêng hoặc gọi cuộc gọi ngắn trước khi sự ấm ức kịp bén rễ.",
+     "text": "NHẮN TIN RIÊNG NGAY",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chấp nhận vài phút ngượng ngùng hôm nay để bảo vệ một tình bạn quý giá suốt nhiều năm.",
+     "text": "GIỮ GÌN TÌNH BẠN",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký kênh nhé. Đi dỡ bỏ cục tạ im lặng đó ngay hôm nay để giữ nhóm bạn luôn vững.",
+     "text": "GIỮ TÌNH BẠN BỀN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,696 @@
+[
+  {
+    "id": "s392",
+    "mascot": "buff",
+    "title": "Why You Take Raw Feedback So Personally",
+    "mechanism": "Self-Reference",
+    "lines": [
+      {
+        "vo": "Three words on your draft: lacks clarity. Your stomach freezes instantly.",
+        "text": "FREEZE UP",
+        "color": "red",
+        "actor": "panic",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "You think your degree is ruined. Classic rookie drama.",
+        "text": "ROOKIE DRAMA",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Psychologists call this self-reference. You glue raw feedback directly to identity.",
+        "text": "SELF-REFERENCE",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "A messy sentence is not a broken person. Just sloppy form.",
+        "text": "NOT YOUR WORTH",
+        "actor": "confused_shrug",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Ask one clean question: which specific section needs more evidence?",
+        "text": "ASK FOR SPECIFICS",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Critique the bar, not the lifter. Fix it and move on.",
+        "text": "FIX THE FORM",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s392vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Khi sep che bai cua ban",
+    "title_vi": "Khi sếp chê bài của bạn",
+    "mechanism": "Self-Reference",
+    "lines": [
+      {
+        "vo": "Sếp bình luận ba chữ chưa rõ ràng, bụng bạn liền thắt lại.",
+        "text": "THẮT RUỘT GAN",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Bạn tưởng mình sắp bị đuổi việc. Đúng là diễn sâu quá đà.",
+        "text": "DIỄN SÂU QUÁ",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Não gắn một câu văn vụng về với giá trị cả con người.",
+        "text": "TỰ VƠ VÀO MÌNH",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Tạ nặng thì chỉnh thế đẩy. Bản thảo lỗi thì sửa câu chữ.",
+        "text": "CHỈNH LẠI THẾ",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Nhắn lại thật gọn: em cần làm rõ số liệu ở trang nào?",
+        "text": "HỎI RÕ VỊ TRÍ",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Sửa đúng chỗ rồi nộp lại. Đừng đứng đó ôm cục tự ái.",
+        "text": "BỎ TỰ ÁI ĐI",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s393",
+    "mascot": "pen",
+    "title": "Why Small Chores Trigger Huge Arguments",
+    "mechanism": "Ego Threat",
+    "lines": [
+      {
+        "vo": "Someone says dishes face the wrong way, and anger flares up.",
+        "text": "WRONG WAY",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Inside, it feels like they called you careless and completely incompetent.",
+        "text": "HIDDEN ATTACK",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Psychologists call this an ego threat. Minor corrections feel like failure.",
+        "text": "EGO THREAT",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Your brain scrambles to defend an image of being effortlessly competent.",
+        "text": "DEFENDING PRIDE",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Try asking softly: show me your way so we avoid rewashing.",
+        "text": "SHOW ME YOUR WAY",
+        "color": "green",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "It takes ten seconds to learn, and plates get much cleaner.",
+        "text": "TEN SECONDS",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Was it truly a judgment on you, or just kitchen physics?",
+        "text": "JUST PHYSICS?",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s393vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Sao hay tu ai vi viec vat?",
+    "title_vi": "Sao hay tự ái vì việc vặt?",
+    "mechanism": "Ego Threat",
+    "lines": [
+      {
+        "vo": "Người nhà nhắc phơi đồ sai cách, tự nhiên bạn thấy bực bội khó chịu.",
+        "text": "DỄ NỔI NÓNG",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Bạn nghe như thể người ta đang chê mình vô dụng và luộm thuộm.",
+        "text": "NGHE NHƯ LỜI CHÊ",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Đó là phản ứng tự vệ khi cái tôi cảm thấy bị đe dọa.",
+        "text": "CÁI TÔI TỰ VỆ",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Não sợ rằng thừa nhận một lỗi nhỏ nghĩa là bản thân kém cỏi.",
+        "text": "SỢ THỪA NHẬN",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Thử mỉm cười hỏi: phơi thế nào thì khô nhanh hơn, chỉ mình với?",
+        "text": "HỎI CÁCH LÀM TỐT",
+        "color": "green",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Học theo mất mười giây, mà quần áo phẳng phiu hơn thật.",
+        "text": "MƯỜI GIÂY XONG",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Một lời nhắc việc nhà, có đáng để lòng nặng trĩu cả buổi?",
+        "text": "CÓ ĐÁNG NẶNG LÒNG?",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s394",
+    "mascot": "buff",
+    "title": "Why One Rejection Feels Like Total Ruin",
+    "mechanism": "Attribution Style",
+    "lines": [
+      {
+        "vo": "One timeline gets rejected and you scream: I ruin everything always.",
+        "text": "EVERY TIME",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "That is toxic attribution. You missed one lift and quit training.",
+        "text": "QUITTING EARLY",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Making a mistake permanent and global is just lazy brain dramatics.",
+        "text": "LAZY DRAMA",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "Say this out loud: the plan lacked estimates, not my intelligence.",
+        "text": "BLAME THE FACTS",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "External, temporary, specific. Adjust the numbers and hit your next set.",
+        "text": "NEXT SET",
+        "color": "gold",
+        "actor": "sprint_start"
+      }
+    ]
+  },
+  {
+    "id": "s394vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Khi ke hoach bi sep gat di",
+    "title_vi": "Khi kế hoạch bị sếp gạt đi",
+    "mechanism": "Attribution Style",
+    "lines": [
+      {
+        "vo": "Kế hoạch bị từ chối, bạn than ngay: mình làm gì cũng hỏng.",
+        "text": "LÀM GÌ CŨNG HỎNG",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Trượt một mức tạ mà bỏ luôn cả phòng gym à? Tỉnh lại đi.",
+        "text": "TỈNH LẠI ĐI",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Não lười suy nghĩ nên vội quy chụp lỗi nhỏ thành bản chất.",
+        "text": "QUY CHỤP VỘI VÃ",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "Nói rõ ràng ra: kế hoạch thiếu báo giá, chứ mình không kém cỏi.",
+        "text": "THIẾU SỐ LIỆU",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Tạm thời và cụ thể. Thu thập số liệu rồi nộp lại bản mới.",
+        "text": "LÀM LẠI HIỆP MỚI",
+        "color": "gold",
+        "actor": "sprint_start"
+      }
+    ]
+  },
+  {
+    "id": "s395",
+    "mascot": "pen",
+    "title": "Why You Think Critics Are Just Biased",
+    "mechanism": "Naive Realism",
+    "lines": [
+      {
+        "vo": "A teammate critiques your slide layout, and you think they hate you.",
+        "text": "THEY HATE ME",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "To your eyes, the design felt clean, balanced, and completely obvious.",
+        "text": "SEEMED OBVIOUS",
+        "actor": "reading"
+      },
+      {
+        "vo": "Psychologists call this naive realism: believing your perspective is objective truth.",
+        "text": "NAIVE REALISM",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "So when someone disagrees, we assume they are biased or malicious.",
+        "text": "FALSE MALICE",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Ask gently: what looks cluttered on your screen right now?",
+        "text": "ASK GENTLY",
+        "color": "green",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Turns out the logo overlapped text on their smaller display.",
+        "text": "SMALLER SCREEN",
+        "actor": "point_viewer",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "They were not attacking your taste. They were fixing a glitch.",
+        "text": "A BLIND SPOT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Different screens show different flaws. That is clarity, not malice.",
+        "text": "NOT MALICE",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s395vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Dong nghiep che slide cua ban?",
+    "title_vi": "Đồng nghiệp chê slide của bạn?",
+    "mechanism": "Naive Realism",
+    "lines": [
+      {
+        "vo": "Đồng nghiệp góp ý slide rối mắt, bạn nghĩ ngay họ đang dìm mình.",
+        "text": "HỌ DÌM MÌNH?",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Trên máy của bạn, phông chữ và hình ảnh trông rất vừa vặn.",
+        "text": "TRÊN MÁY MÌNH ĐẸP",
+        "actor": "reading"
+      },
+      {
+        "vo": "Tâm lý học gọi đây là bẫy góc nhìn: tin mình luôn đúng.",
+        "text": "BẪY GÓC NHÌN",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Ai thấy khác liền bị coi là khó tính hoặc có ác ý.",
+        "text": "NGHĨ HỌ ÁC Ý",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Thử hỏi lại: trên máy của bạn đang bị che mất phần nào?",
+        "text": "HỎI RÕ CHI TIẾT",
+        "color": "green",
+        "actor": "nervous_wave"
+      },
+      {
+        "vo": "Hóa ra màn hình máy chiếu cắt mất một hàng chữ quan trọng.",
+        "text": "LỖI MÀN HÌNH",
+        "actor": "point_viewer",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Người ta không chê gu thẩm mỹ, người ta vừa cứu bạn một bàn.",
+        "text": "CỨU BÀN THUA",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Góc nhìn khác không phải công kích, mà là cơ hội hoàn thiện hơn.",
+        "text": "HOÀN THIỆN HƠN",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s396",
+    "mascot": "buff",
+    "title": "Why You Blame Tools When Work Fails",
+    "mechanism": "Self-Serving Bias",
+    "lines": [
+      {
+        "vo": "Client loves the deck: pure genius. Client spots a bug: software glitched.",
+        "text": "BLAME SOFTWARE",
+        "color": "red",
+        "actor": "front",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Classic self-serving bias. Claiming wins, blaming equipment for every loss.",
+        "text": "BLAMING GEAR",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Nobody in any gym respects a lifter who blames the chalk.",
+        "text": "NO EXCUSES",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Train this six-word ownership rep: my mistake, I fix it now.",
+        "text": "SIX WORD REP",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Owning the slip kills tension fast and builds serious professional respect.",
+        "text": "EARN RESPECT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Drop the fragile ego. Own the mistake, lift the weight.",
+        "text": "OWN IT",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s396vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Thoi quen do loi khi bi nhac nho",
+    "title_vi": "Thói quen đổ lỗi khi bị nhắc nhở",
+    "mechanism": "Self-Serving Bias",
+    "lines": [
+      {
+        "vo": "Khách khen thì nhận tài năng, khách chê thì đổ tại mạng lag.",
+        "text": "ĐỔ TẠI MẠNG LAG",
+        "color": "red",
+        "actor": "front",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Thắng thì lên bục nhận giải, trượt tạ thì đổ tại sàn trơn.",
+        "text": "ĐỔ TẠI SÀN TRƠN",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Phòng gym không ai nể người vừa rơi tạ vừa cãi chày cãi cối.",
+        "text": "CÃI CHÀY CÃI CỐI",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Tập ngay phản xạ sáu chữ: lỗi của tôi, tôi sửa ngay.",
+        "text": "TÔI SỬA NGAY",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Nhận trách nhiệm thẳng thắn giúp dập tắt căng thẳng trong một nốt nhạc.",
+        "text": "DẬP TẮT CĂNG THẲNG",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Bản lĩnh là nhận sai rồi làm cho chuẩn. Đừng lươn lẹo.",
+        "text": "ĐỪNG LƯƠN LẸO",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s397",
+    "mascot": "pen",
+    "title": "Why Annual Reviews Feel Terrifying",
+    "mechanism": "Feedback Stance",
+    "lines": [
+      {
+        "vo": "Review season arrives, and you walk in like a condemned prisoner.",
+        "text": "FACING TRIAL",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "School conditioned your brain to treat red ink as personal failure.",
+        "text": "RED INK DREAD",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Psychologists call this feedback orientation: how safe your ego feels learning.",
+        "text": "FEEDBACK STANCE",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Feedback is not a courtroom sentence. It is just a form check.",
+        "text": "A FORM CHECK",
+        "actor": "front"
+      },
+      {
+        "vo": "Ask your manager: which single adjustment makes this report ten times sharper?",
+        "text": "ONE ADJUSTMENT",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Suddenly, a scary judge turns into a partner on your side.",
+        "text": "A PARTNER",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Feedback is just free coaching disguised as an uncomfortable conversation.",
+        "text": "FREE COACHING",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s397vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Noi so buoi danh gia cuoi nam",
+    "title_vi": "Nỗi sợ buổi đánh giá cuối năm",
+    "mechanism": "Feedback Stance",
+    "lines": [
+      {
+        "vo": "Đến kỳ đánh giá hiệu suất, bước vào phòng họp mà tim đập thình thịch.",
+        "text": "NHƯ ĐI THI LẠI",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Từ thời đi học, vết mực đỏ đã bị xem như bản án xấu hổ.",
+        "text": "NỖI SỢ ĐIỂM KÉM",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Tâm lý học gọi đây là tâm thế tiếp nhận phản hồi.",
+        "text": "TÂM THẾ ĐÓN NHẬN",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Góp ý không phải phiên toà xét xử, mà là hướng dẫn nâng cấp.",
+        "text": "CHỈ DẪN NÂNG CẤP",
+        "actor": "front"
+      },
+      {
+        "vo": "Thử hỏi sếp: một thay đổi nhỏ nào giúp em đạt kỳ vọng của anh?",
+        "text": "MỘT THAY ĐỔI NHỎ",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Khoảnh khắc đó biến người chấm điểm thành đồng đội cùng phe.",
+        "text": "NGƯỜI CÙNG PHE",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Một lời góp ý thẳng thắn là bài học miễn phí quý giá nhất.",
+        "text": "BÀI HỌC MIỄN PHÍ",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s398",
+    "mascot": "buff",
+    "title": "Why Vague Bad Feelings Freeze Your Brain",
+    "mechanism": "Granular Emotions",
+    "lines": [
+      {
+        "vo": "Surprise feedback hits you in a meeting, and you mutter: terrible.",
+        "text": "FEEL TERRIBLE",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "You dumped three different emotions into one toxic, suffocating bucket.",
+        "text": "ONE BIG BUCKET",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Psychologists call it emotional granularity: naming precise feelings instead of misery.",
+        "text": "NAME THE FEELING",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "A doctor cannot help if you only scream that everything hurts.",
+        "text": "PINPOINT PAIN",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Break it down: are you surprised, embarrassed, or just disappointed?",
+        "text": "NAME THREE OPTIONS",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Name the exact emotion. Clear the fog and move forward.",
+        "text": "NEXT MOVE",
+        "color": "gold",
+        "actor": "sprint_start"
+      }
+    ]
+  },
+  {
+    "id": "s398vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Khi bi gop y bat ngo trong hop",
+    "title_vi": "Khi bị góp ý bất ngờ trong họp",
+    "mechanism": "Granular Emotions",
+    "lines": [
+      {
+        "vo": "Bị góp ý bất ngờ giữa buổi họp, bạn ngồi sụp xuống than chán đời.",
+        "text": "CHÁN ĐỜI QUÁ",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Vứt hết mọi cảm xúc vào một cái thùng rác thì giải quyết được gì?",
+        "text": "VỨT BỪA CẢM XÚC",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Khoa học gọi đó là kỹ năng bóc tách cảm xúc chi tiết.",
+        "text": "BÓC TÁCH CẢM XÚC",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Bác sĩ không thể kê đơn nếu bạn chỉ gào lên là đau khắp người.",
+        "text": "ĐAU Ở ĐÂU?",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Tự hỏi xem: bạn đang bất ngờ, ngại ngùng hay thất vọng?",
+        "text": "HỎI RÕ BA ĐIỀU",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Chỉ đúng điểm nghẽn, xốc lại tinh thần rồi tiếp tục chiến đấu.",
+        "text": "CHIẾN ĐẤU TIẾP",
+        "color": "gold",
+        "actor": "sprint_start"
+      }
+    ]
+  }
+]

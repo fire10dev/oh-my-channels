@@ -1,0 +1,390 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 43.336,
+"shots": [
+{
+"img": "p03/img/X02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 4.512,
+"a": [
+432,
+576,
+648
+],
+"b": [
+432,
+520,
+460
+]
+},
+{
+"img": "p03/img/X02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.512,
+"t1": 8.84,
+"a": [
+1450,
+576,
+648
+],
+"b": [
+1450,
+480,
+460
+]
+},
+{
+"img": "p03/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 8.84,
+"t1": 14.815,
+"a": [
+900,
+576,
+648
+],
+"b": [
+820,
+420,
+460
+],
+"shake": 6
+},
+{
+"img": "p03/img/X03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.815,
+"t1": 19.283,
+"a": [
+560,
+490,
+460
+],
+"b": [
+560,
+470,
+340
+]
+},
+{
+"img": "p03/img/X03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 19.283,
+"t1": 23.591,
+"a": [
+1056,
+743,
+460
+],
+"b": [
+1056,
+849,
+340
+]
+},
+{
+"img": "p03/img/X02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.591,
+"t1": 26.696,
+"a": [
+1450,
+576,
+648
+],
+"b": [
+1450,
+576,
+648
+],
+"blur": 4,
+"dark": 0.2
+},
+{
+"img": "p03/img/X06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 26.696,
+"t1": 27.946,
+"a": [
+893,
+760,
+340
+],
+"b": [
+893,
+720,
+340
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 27.946,
+"t1": 32.425,
+"a": [
+440,
+950,
+700
+],
+"b": [
+440,
+950,
+520
+]
+},
+{
+"img": "p03/img/B05.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 32.425,
+"t1": 38.445,
+"a": [
+560,
+1080,
+800
+],
+"b": [
+640,
+1240,
+620
+]
+},
+{
+"img": "p03/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 38.445,
+"t1": 42.936,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_X11_0.png",
+"size": 381,
+"t0": 23.591,
+"t1": 26.696,
+"from": [
+149,
+818,
+2.053
+],
+"to": [
+149,
+768,
+2.053
+],
+"bob": false,
+"wob": 3
+},
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 38.445,
+"t1": 42.936,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 1.718,
+"t1": 4.295,
+"text": "CONSERVA EL BARRIO",
+"color": "#ffd84a"
+},
+{
+"t0": 4.295,
+"t1": 6.442,
+"text": "2.000.000 VND / NOCHE",
+"color": "#ffffff"
+},
+{
+"t0": 6.442,
+"t1": 8.84,
+"text": "+50K VND FOTOS DEL ALTAR",
+"color": "#ff8fb1"
+},
+{
+"t0": 15.497,
+"t1": 23.591,
+"text": "60.000 MILLONES VND",
+"color": "#ffd84a"
+},
+{
+"t0": 26.796,
+"t1": 27.946,
+"text": "MA XO",
+"color": "#ffd84a"
+},
+{
+"t0": 30.153,
+"t1": 32.425,
+"text": "NO SE VENDE.",
+"color": "#ff5a4a"
+},
+{
+"t0": 38.445,
+"t1": 40.42,
+"text": "¿CÓMO LA CUIDÓ?",
+"color": "#ffd84a"
+},
+{
+"t0": 40.42,
+"t1": 42.936,
+"text": "▼ EPISODIO COMPLETO: ENLACE ABAJO",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 7.044,
+"src": "p03/sfx/tach.wav",
+"vol": 0.8
+},
+{
+"t": 7.73,
+"src": "p03/sfx/tach.wav",
+"vol": 0.8
+},
+{
+"t": 15.497,
+"src": "p03/sfx/xu.wav",
+"vol": 0.7
+},
+{
+"t": 17.799,
+"src": "p03/sfx/khoan.wav",
+"vol": 0.45
+},
+{
+"t": 26.746,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.6
+},
+{
+"t": 38.445,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 41.671,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 8.59,
+"text": "¡Bienvenidos! Una casa de tres generaciones que conserva el alma del barrio antiguo. Dos millones de dongs la noche. Fotos del altar, cincuenta mil dongs más."
+},
+{
+"t": 8.84,
+"dur": 5.575,
+"text": "Conserva el alma del barrio cobrando entrada para ver un altar. El tatarabuelo también te cobraría."
+},
+{
+"t": 14.815,
+"dur": 8.526,
+"text": "Sesenta mil millones de dongs. Vacíen todo por dentro. Dejen el portón cubierto de musgo para que los turistas extranjeros le tomen fotos como patrimonio."
+},
+{
+"t": 23.591,
+"dur": 2.806,
+"text": "¡Firma! Que destruyan también la cocina, me da igual."
+},
+{
+"t": 27.946,
+"dur": 3.679,
+"text": "Si venden la casa, sus cosas se van. Tengo que mantenerlas aquí."
+},
+{
+"t": 32.425,
+"dur": 5.42,
+"text": "El tatarabuelo me encargó una cosa: toda la fortuna está en el frasco bajo la cocina. Cuídalo. Y lo hice."
+},
+{
+"t": 38.445,
+"dur": 3.291,
+"text": "Y sí cuidó la casa. ¿Cómo? Historia completa en el canal."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/es/vo/24979e6bde.wav"
+},
+{
+"t": 8.84,
+"src": "loc/es/vo/892ce09ed1.wav"
+},
+{
+"t": 14.815,
+"src": "loc/es/vo/5f23d6ca23.wav"
+},
+{
+"t": 23.591,
+"src": "loc/es/vo/78bc035bd4.wav"
+},
+{
+"t": 27.946,
+"src": "loc/es/vo/1a8ce9e584.wav"
+},
+{
+"t": 32.425,
+"src": "loc/es/vo/e2ceb975ed.wav"
+},
+{
+"t": 38.445,
+"src": "loc/es/vo/3eb7030b4a.wav"
+}
+],
+"mutes": [
+[
+27.746,
+32.425
+],
+[
+32.225,
+38.445
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

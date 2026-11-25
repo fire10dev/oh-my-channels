@@ -1,0 +1,397 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 40.537,
+"shots": [
+{
+"img": "p04/img/G08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 5.619,
+"a": [
+900,
+576,
+648
+],
+"b": [
+840,
+500,
+460
+],
+"flash": 1
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 5.619,
+"t1": 9.384,
+"a": [
+560,
+700,
+760
+],
+"b": [
+540,
+660,
+560
+]
+},
+{
+"img": "p04/img/G12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 9.384,
+"t1": 13.124,
+"a": [
+576,
+700,
+460
+],
+"b": [
+576,
+700,
+340
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.124,
+"t1": 17.941,
+"a": [
+420,
+700,
+460
+],
+"b": [
+420,
+680,
+340
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.941,
+"t1": 22.69,
+"a": [
+1360,
+640,
+460
+],
+"b": [
+1360,
+600,
+340
+]
+},
+{
+"img": "p04/img/G08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 22.69,
+"t1": 28.71,
+"a": [
+840,
+500,
+460
+],
+"b": [
+840,
+400,
+340
+]
+},
+{
+"img": "p04/img/G08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 28.71,
+"t1": 31.012,
+"a": [
+1560,
+500,
+460
+],
+"b": [
+1560,
+500,
+340
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 31.012,
+"t1": 35.524,
+"a": [
+1600,
+500,
+460
+],
+"b": [
+1600,
+480,
+340
+],
+"shake": 5,
+"dark": 0.6
+},
+{
+"img": "p04/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 35.524,
+"t1": 40.137,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 35.524,
+"t1": 40.137,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 5.619,
+"text": "3 HORAS",
+"color": "#ff5a4a"
+},
+{
+"t0": 5.619,
+"t1": 7.795,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 8.159,
+"t1": 13.124,
+"text": "GOLPEA LA BANDEJA · DI SU NOMBRE → DEVOLVER",
+"color": "#ffd84a"
+},
+{
+"t0": 13.591,
+"t1": 22.69,
+"text": "PLAZO: AMANECER DEL DÍA CUATRO",
+"color": "#ff5a4a"
+},
+{
+"t0": 22.69,
+"t1": 28.71,
+"text": "2:00 A. M.",
+"color": "#ffd84a"
+},
+{
+"t0": 35.524,
+"t1": 37.571,
+"text": "¿QUIÉN ABRE LA PUERTA?",
+"color": "#ffd84a"
+},
+{
+"t0": 37.571,
+"t1": 40.137,
+"text": "▼ EPISODIO COMPLETO: ENLACE ABAJO",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.0,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 1.084,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 2.167,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 3.251,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 4.335,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 8.666,
+"src": "p04/sfx/boong.wav",
+"vol": 0.5
+},
+{
+"t": 27.883,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 28.172,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 30.062,
+"src": "p04/sfx/cauda.wav",
+"vol": 1
+},
+{
+"t": 30.152,
+"src": "p02/sfx/mayoff.wav",
+"vol": 0.5
+},
+{
+"t": 32.968,
+"src": "p04/sfx/dapcua.wav",
+"vol": 0.9
+},
+{
+"t": 33.751,
+"src": "p04/sfx/dapcua.wav",
+"vol": 0.9
+},
+{
+"t": 34.534,
+"src": "p04/sfx/dapcua.wav",
+"vol": 1
+},
+{
+"t": 35.524,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 38.868,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 5.419,
+"text": "Faltan tres horas para el amanecer. Si nadie golpea la bandeja y dice un nombre, pierde el ma giau."
+},
+{
+"t": 5.619,
+"dur": 7.255,
+"text": "Reglas simples. Yo los escondo, su familia los busca. Golpea la bandeja de latón y di su nombre. Un golpe y lo devuelvo. Así se juega."
+},
+{
+"t": 13.124,
+"dur": 9.316,
+"text": "También hay un plazo. La familia debe buscarlo antes del amanecer del cuarto día. Si nadie viene, el niño vuelve solo y mis ochocientos años de oficio… quedan en ridículo."
+},
+{
+"t": 22.69,
+"dur": 5.769,
+"text": "Dos de la madrugada. Faltan tres horas para el amanecer. Si esta familia no golpea la bandeja, haré que lo haga."
+},
+{
+"t": 28.71,
+"dur": 1.802,
+"text": "Corté la luz de todo el piso."
+},
+{
+"t": 31.012,
+"dur": 3.912,
+"text": "Luego golpeé la puerta de las escaleras de emergencia. ¡Pum! ¡Pum! ¡Pum!"
+},
+{
+"t": 35.524,
+"dur": 3.412,
+"text": "¿Quién abrirá esa puerta? Episodio completo: enlace abajo."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/es/vo/e3a3140b78.wav"
+},
+{
+"t": 5.619,
+"src": "loc/es/vo/63a64cc1e9.wav"
+},
+{
+"t": 13.124,
+"src": "loc/es/vo/e8ebeb622b.wav"
+},
+{
+"t": 22.69,
+"src": "loc/es/vo/d2f6c8209b.wav"
+},
+{
+"t": 28.71,
+"src": "loc/es/vo/08c6a3d446.wav"
+},
+{
+"t": 31.012,
+"src": "loc/es/vo/0745bd64fb.wav"
+},
+{
+"t": 35.524,
+"src": "loc/es/vo/b845ed0238.wav"
+}
+],
+"mutes": [
+[
+0.0,
+5.619
+],
+[
+22.49,
+28.71
+],
+[
+28.51,
+31.012
+],
+[
+30.812,
+35.524
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

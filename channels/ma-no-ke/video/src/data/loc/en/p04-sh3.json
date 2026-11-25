@@ -1,0 +1,354 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 25.557,
+"shots": [
+{
+"img": "p04/img/G07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 2.084,
+"a": [
+900,
+576,
+648
+],
+"b": [
+1100,
+520,
+460
+],
+"flash": 1
+},
+{
+"img": "p04/img/G05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 2.084,
+"t1": 4.737,
+"a": [
+1100,
+576,
+648
+],
+"b": [
+1152,
+560,
+460
+]
+},
+{
+"img": "p04/img/G05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.737,
+"t1": 7.341,
+"a": [
+840,
+720,
+460
+],
+"b": [
+840,
+720,
+340
+]
+},
+{
+"img": "p04/img/G07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 7.341,
+"t1": 13.4,
+"a": [
+620,
+576,
+648
+],
+"b": [
+620,
+520,
+460
+]
+},
+{
+"img": "p04/img/G07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.4,
+"t1": 15.216,
+"a": [
+1280,
+440,
+460
+],
+"b": [
+1280,
+420,
+340
+]
+},
+{
+"img": "p04/img/G05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 15.216,
+"t1": 17.192,
+"a": [
+840,
+720,
+340
+],
+"b": [
+840,
+700,
+340
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 17.192,
+"t1": 20.725,
+"a": [
+560,
+700,
+760
+],
+"b": [
+540,
+660,
+560
+]
+},
+{
+"img": "p04/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 20.725,
+"t1": 25.157,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 20.725,
+"t1": 25.157,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 2.084,
+"text": "GOOD KID THANKS TO…?",
+"color": "#ffd84a"
+},
+{
+"t0": 2.084,
+"t1": 4.087,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 4.337,
+"t1": 7.341,
+"text": "OBVIOUSLY FAKE",
+"color": "#ffffff"
+},
+{
+"t0": 9.374,
+"t1": 13.4,
+"text": "A WEEK OF HOMEWORK DONE",
+"color": "#7dff9a"
+},
+{
+"t0": 15.451,
+"t1": 17.192,
+"text": "SECRET = MUD",
+"color": "#ff5a4a"
+},
+{
+"t0": 18.708,
+"t1": 20.725,
+"text": "WE MAKE GOOD KIDS",
+"color": "#ffd84a"
+},
+{
+"t0": 20.725,
+"t1": 22.665,
+"text": "WHERE'S THE REAL BIN?",
+"color": "#ffd84a"
+},
+{
+"t0": 22.665,
+"t1": 25.157,
+"text": "▼ FULL EPISODE: LINK BELOW",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.917,
+"src": "sh6/sfx/pops.wav",
+"vol": 0.4
+},
+{
+"t": 2.584,
+"src": "p04/sfx/nan.wav",
+"vol": 0.6
+},
+{
+"t": 13.825,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 14.391,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 15.451,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 20.165,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 20.725,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 23.893,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 1.834,
+"text": "Our kid's so responsible, everyone!"
+},
+{
+"t": 2.084,
+"dur": 5.007,
+"text": "I made a Bin out of plant-pot dirt. Obviously fake. His family was bound to notice."
+},
+{
+"t": 7.341,
+"dur": 5.809,
+"text": "That afternoon, the mud kid finished a whole week's homework. No arguing, no asking for a phone."
+},
+{
+"t": 13.4,
+"dur": 1.416,
+"text": "Secret's in the link below."
+},
+{
+"t": 15.216,
+"dur": 1.176,
+"text": "The secret is mud."
+},
+{
+"t": 17.192,
+"dur": 3.033,
+"text": "The mud kid made the honor roll. I'm thinking of opening a school."
+},
+{
+"t": 20.725,
+"dur": 3.232,
+"text": "So where's the real Bin? Full episode — link below."
+}
+],
+"comments": [
+{
+"t": 13.825,
+"u": "@mom.su",
+"c": "What's the secret? 😍",
+"end": 15.216
+},
+{
+"t": 14.391,
+"u": "@hannah.n",
+"c": "Link please!!!",
+"end": 15.216
+}
+],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/en/vo/6b5e8e046b.wav"
+},
+{
+"t": 2.084,
+"src": "loc/en/vo/9a28fe062e.wav"
+},
+{
+"t": 7.341,
+"src": "loc/en/vo/ed86d01f3d.wav"
+},
+{
+"t": 13.4,
+"src": "loc/en/vo/4ddd7f4ed6.wav"
+},
+{
+"t": 15.216,
+"src": "loc/en/vo/0b337b4aa9.wav"
+},
+{
+"t": 17.192,
+"src": "loc/en/vo/0e12945a0c.wav"
+},
+{
+"t": 20.725,
+"src": "loc/en/vo/d6ad162936.wav"
+}
+],
+"mutes": [],
+"live": [
+[
+0.0,
+2.084
+],
+[
+13.4,
+15.216
+]
+],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

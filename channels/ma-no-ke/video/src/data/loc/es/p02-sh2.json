@@ -1,0 +1,391 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 41.855,
+"shots": [
+{
+"img": "p02/img/N08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 6.056,
+"a": [
+1203,
+743,
+460
+],
+"b": [
+1203,
+800,
+340
+],
+"flash": 1
+},
+{
+"img": "p02/img/N07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 6.056,
+"t1": 10.041,
+"a": [
+1587,
+576,
+648
+],
+"b": [
+1587,
+560,
+460
+]
+},
+{
+"img": "p02/img/N04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.041,
+"t1": 13.999,
+"a": [
+486,
+660,
+460
+],
+"b": [
+486,
+640,
+340
+]
+},
+{
+"img": "p02/img/N07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.999,
+"t1": 17.336,
+"a": [
+1357,
+743,
+460
+],
+"b": [
+1357,
+849,
+340
+]
+},
+{
+"img": "p02/img/N08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.336,
+"t1": 20.645,
+"a": [
+1203,
+743,
+460
+],
+"b": [
+1203,
+820,
+340
+]
+},
+{
+"img": "p02/img/N11.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 20.645,
+"t1": 24.0,
+"a": [
+345,
+520,
+460
+],
+"b": [
+345,
+480,
+340
+]
+},
+{
+"img": "p02/img/N08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 24.0,
+"t1": 27.338,
+"a": [
+1203,
+576,
+648
+],
+"b": [
+1203,
+743,
+460
+]
+},
+{
+"img": "p02/img/N07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 27.338,
+"t1": 31.1,
+"a": [
+324,
+576,
+648
+],
+"b": [
+230,
+560,
+460
+]
+},
+{
+"img": "p02/img/N07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 31.1,
+"t1": 33.866,
+"a": [
+1587,
+520,
+460
+],
+"b": [
+1587,
+500,
+340
+]
+},
+{
+"img": "p02/img/N10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 33.866,
+"t1": 37.222,
+"a": [
+742,
+609,
+460
+],
+"b": [
+1075,
+330,
+340
+]
+},
+{
+"img": "p02/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 37.222,
+"t1": 41.355,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p02/img/cut_B02.png",
+"size": 1344,
+"t0": 37.222,
+"t1": 41.355,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 1.832,
+"t1": 6.056,
+"text": "COMO DE LA FAMILIA",
+"color": "#c58bff"
+},
+{
+"t0": 15.917,
+"t1": 17.837,
+"text": "2:10 · EN LA FÁBRICA",
+"color": "#ffffff"
+},
+{
+"t0": 17.965,
+"t1": 20.645,
+"text": "→ 5:00 · EN CASA",
+"color": "#c58bff"
+},
+{
+"t0": 24.189,
+"t1": 25.8,
+"text": "DECLARANTE: NGUYEN VAN PHAT",
+"color": "#c58bff"
+},
+{
+"t0": 25.8,
+"t1": 27.338,
+"text": "PARENTESCO: COMO DE LA FAMILIA",
+"color": "#c58bff"
+},
+{
+"t0": 35.344,
+"t1": 37.222,
+"text": "HORA MALDITA",
+"color": "#ff5a4a"
+},
+{
+"t0": 37.222,
+"t1": 41.355,
+"text": "¿QUÉ ES UNA HORA MALDITA?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.35
+},
+{
+"t": 1.832,
+"src": "p02/sfx/dau.wav",
+"vol": 0.7
+},
+{
+"t": 15.917,
+"src": "p02/sfx/but.wav",
+"vol": 0.7
+},
+{
+"t": 17.965,
+"src": "p02/sfx/but.wav",
+"vol": 0.7
+},
+{
+"t": 24.511,
+"src": "p02/sfx/but.wav",
+"vol": 0.6
+},
+{
+"t": 26.444,
+"src": "p02/sfx/dau.wav",
+"vol": 0.7
+},
+{
+"t": 35.344,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.4
+},
+{
+"t": 37.222,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 40.293,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 5.607,
+"text": "El jefe escribió tres palabras en el informe: «como de la familia». Las palabras más caras de su vida."
+},
+{
+"t": 6.056,
+"dur": 7.692,
+"text": "Morir trabajando es un accidente laboral. Tienen que indemnizar. Los inspectores preguntarían por qué el reloj no tiene botón de salida."
+},
+{
+"t": 13.999,
+"dur": 6.396,
+"text": "Esa noche, el jefe llenó el informe. Cambió dos y diez por cinco de la mañana. Cambió «en la fábrica» por «en casa»."
+},
+{
+"t": 20.645,
+"dur": 6.443,
+"text": "La esposa de Loc aún no llegaba del campo. El jefe también firmó como declarante. Parentesco: «como de la familia»."
+},
+{
+"t": 27.338,
+"dur": 3.512,
+"text": "La jefa de equipo Hong estaba detrás de la puerta. Lo vio todo."
+},
+{
+"t": 31.1,
+"dur": 2.165,
+"text": "Lo que diga el papel, esa es la verdad."
+},
+{
+"t": 33.866,
+"dur": 2.957,
+"text": "Las cinco de la mañana… esa es una hora maldita."
+},
+{
+"t": 37.222,
+"dur": 3.134,
+"text": "¿Qué es una hora maldita? Te cuento la próxima vez. Sígueme."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/es/vo/5d53e9e3fc.wav"
+},
+{
+"t": 6.056,
+"src": "loc/es/vo/fa9b3ea7dd.wav"
+},
+{
+"t": 13.999,
+"src": "loc/es/vo/f8ff789195.wav"
+},
+{
+"t": 20.645,
+"src": "loc/es/vo/7ddf77f2ef.wav"
+},
+{
+"t": 27.338,
+"src": "loc/es/vo/e715519dea.wav"
+},
+{
+"t": 31.1,
+"src": "loc/es/vo/e06d4b563a.wav"
+},
+{
+"t": 33.866,
+"src": "loc/es/vo/5bf92343d9.wav"
+},
+{
+"t": 37.222,
+"src": "loc/es/vo/2d857ec32b.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Por que o Vaticano queima votos ao anunciar um novo papa",
+ "hook": "FUMAÇA BRANCA?",
+ "asof": "Regras de Universi Dominici Gregis (1996) · conclave de maio de 2025",
+ "world": "conclave",
+ "long": "IX012",
+ "chapters": [
+  {
+   "id": "smoke",
+   "hud": "DIA 1",
+   "chip": "7 DE MAIO DE 2025",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "O mundo inteiro observa uma chaminé minúscula.",
+     "v": "chimney",
+     "plane": "smoke:black"
+    },
+    {
+     "s": "Na Capela Sistina, os cardeais escolhem um papa.",
+     "v": "chapel",
+     "you": "chapel"
+    },
+    {
+     "s": "Cada um escreve um nome numa cédula de papel.",
+     "v": "ballot"
+    },
+    {
+     "s": "Eles precisam disfarçar a própria letra.",
+     "v": "ballot"
+    },
+    {
+     "s": "Para vencer, alguém precisa de dois terços dos votos.",
+     "v": "urn",
+     "you": "urn",
+     "st": [
+      "⅔",
+      "votos para vencer"
+     ]
+    },
+    {
+     "s": "Depois da votação, as cédulas vão para um forno.",
+     "v": "stove",
+     "plane": "fire"
+    },
+    {
+     "s": "Fumaça preta significa que ainda não há papa.",
+     "v": "chimney",
+     "plane": "smoke:black"
+    },
+    {
+     "s": "Em maio de 2025, a fumaça da primeira noite foi preta.",
+     "v": "square"
+    },
+    {
+     "s": "Na tarde seguinte, no quarto voto, ela ficou branca.",
+     "v": "chimney",
+     "plane": "smoke:white"
+    },
+    {
+     "s": "O novo papa foi Leão XIV, o primeiro dos Estados Unidos.",
+     "v": "balcony",
+     "plane": "crowd",
+     "st": [
+      "LEÃO XIV",
+      "8 DE MAIO DE 2025"
+     ]
+    },
+    {
+     "s": "Você esperaria na praça para ver a fumaça?",
+     "v": "square",
+     "plane": "crowd"
+    }
+   ]
+  }
+ ]
+}

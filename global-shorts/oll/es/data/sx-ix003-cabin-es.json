@@ -1,0 +1,99 @@
+{
+ "title": "Dónde duerme realmente la tripulación de un crucero",
+ "hook": "BAJO LA PISCINA",
+ "asof": "Cifras de 2026",
+ "world": "cruise",
+ "long": "IX003",
+ "chapters": [
+  {
+   "id": "cabin",
+   "hud": "DÍA 1",
+   "chip": "23:00",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "pool",
+     "s": "Justo encima de ti, miles de personas están de vacaciones."
+    },
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "Y aquí es donde duermes."
+    },
+    {
+     "v": "stairs",
+     "s": "Debajo de los pasajeros,"
+    },
+    {
+     "v": "i95",
+     "s": "tras las puertas que dicen «solo tripulación»."
+    },
+    {
+     "v": "cabin",
+     "st": [
+      "SIN VENTANA",
+      "la mayoría de los camarotes de la tripulación"
+     ],
+     "s": "La mayoría de los camarotes de la tripulación no tiene ventana."
+    },
+    {
+     "v": "bunk",
+     "s": "Así que no sabes si es de día o de noche."
+    },
+    {
+     "v": "cabin",
+     "you": "cabin",
+     "s": "Lo compartes con una, dos o hasta tres personas."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Tienes una litera."
+    },
+    {
+     "v": "bunk",
+     "s": "Un colchón estrecho."
+    },
+    {
+     "v": "bunk",
+     "s": "Un par de cajones."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Y una cortina."
+    },
+    {
+     "v": "cabin",
+     "s": "Esa cortina es casi toda tu privacidad."
+    },
+    {
+     "v": "cabin2",
+     "s": "Quizá tu compañero trabaje de noche."
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "Y tú quizá trabajes de día."
+    },
+    {
+     "v": "engine",
+     "s": "Y el barco nunca está en silencio."
+    },
+    {
+     "v": "engine",
+     "s": "Los motores zumban. El piso vibra."
+    },
+    {
+     "v": "corridor",
+     "s": "Las puertas se azotan. Se oyen pasos al pasar."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "¿Podrías dormir aquí abajo durante seis meses?"
+    }
+   ]
+  }
+ ]
+}

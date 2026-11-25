@@ -1,0 +1,21 @@
+v2 sửa theo agy (`debate/08-scripts/p90-agy.md`):
+- Phố ở ven đô, sau lưng là cánh đồng và rặng tre, nên cú về là hợp lý.
+- Các câu cụt liệt kê nối thành câu nói tự nhiên cho TTS đọc trơn.
+- Thêm khung chị Hạnh nấp sau khe cửa ở khoảnh khắc 3 giờ sáng.
+@@
+| Y01/toàn (ban ngày, nhà yến bốn tầng giữa dãy nhà ống, tường xám, lỗ thông gió, loa trên nóc) | **MN**: Ông Hùng xây nhà yến bốn tầng giữa phố. Bịt kín cửa sổ. Trên nóc gắn loa. Bật hai mươi tư giờ. | loa ríu rít |
+%%
+| Y01/toàn (ban ngày, nhà yến bốn tầng giữa dãy nhà ống ven đô, sau lưng là cánh đồng và rặng tre, loa trên nóc) | **MN**: Phố ven đô, sau lưng là cánh đồng với rặng tre. Ông Hùng xây nhà yến bốn tầng ngay giữa phố, bịt kín cửa sổ, gắn loa trên nóc, bật suốt hai mươi tư giờ. | loa ríu rít |
+@@
+| Y05/toàn (đêm, trên nóc nhà yến, vài cái bóng tròn đậu im cạnh loa) | **HANH**: Đêm hôm ấy tôi dậy nhóm bếp, thấy trên nóc có vài cái bóng. Tròn. Đứng im cạnh cái loa. Tôi tưởng ai treo túi ni lông. | loa ríu rít |
+%%
+| Y05/toàn (đêm, trên nóc nhà yến, vài cái bóng tròn đậu im cạnh loa) | **HANH**: Đêm hôm ấy tôi dậy nhóm bếp, thấy trên nóc có vài cái bóng tròn tròn đứng im cạnh cái loa. Tôi cứ tưởng nhà ai treo túi ni lông. | loa ríu rít |
+@@
+| S26/cận | **MN**: Đêm sau thêm vài cái. Đêm sau nữa thêm một đàn. Không kêu. Không bay. Chỉ đậu. Yến thì nhìn thấy từ xa. Và yến không ngu. | |
+%%
+| S26/cận | **MN**: Đêm sau thêm vài cái, đêm sau nữa thêm cả đàn, chẳng kêu chẳng bay, cứ thế mà đậu. Yến thì nhìn thấy từ xa. Mà yến thì không ngu. | |
+@@
+| Y06/cận (một hàng mắt vàng trên dây điện) | **HANH**: Không một tiếng kêu. Không một tiếng cánh. Tôi tắt đèn pin. Đóng cửa. Hôm ấy tôi nghỉ bán. | một tiếng cánh rất khẽ |
+%%
+| Y06/cận (một hàng mắt vàng trên dây điện) | **HANH**: Chẳng có lấy một tiếng kêu, một tiếng vỗ cánh nào. | một tiếng cánh rất khẽ |
+| Y02/cận (chị Hạnh nấp sau khe cửa hé, tay bịt miệng, ánh đèn pin tắt dần trên mặt) | **HANH**: Tôi tắt đèn pin, khép cửa lại, đứng sau khe cửa đến tận lúc gà gáy. Hôm ấy tôi nghỉ bán. | im 1 s · gà gáy xa |

@@ -1,0 +1,906 @@
+{
+ "id": "L48vi",
+ "lang": "vi",
+ "title": "Vì sao ưu đãi sắp hết hạn khiến bạn muốn mua ngay?",
+ "description": "Bạn có từng thấy đồng hồ đếm ngược là cuống cuồng chốt đơn? Mổ xẻ tám cái bẫy tâm lý sau các đợt giảm giá chớp nhoáng và học mẹo giữ chặt ví tiền trước áp lực giờ chót.",
+ "chapters": [
+  {
+   "title": "Vì sao bạn chốt đơn",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nửa đêm, vừa mở ứng dụng đã thấy đồng hồ đỏ rực đếm lùi từng giây giục chốt đơn.",
+     "text": "VÌ SAO BẠN CHỐT ĐƠN",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tim đập thình thịch, ngón tay vội bấm thanh toán trước khi kịp nghĩ xem có cần hay không.",
+     "text": "TIM ĐẬP THÌNH THỊCH",
+     "color": "red",
+     "actor": "panic",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Biết ngay mà. Mới ban nãy bạn đâu có thèm món đồ đó.",
+     "text": "MẮC BẪY BẤT NGỜ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì sao một cái đồng hồ ảo lại khiến người ta cuống cuồng bấm mua như vậy?",
+     "text": "VÌ SAO LẠI CUỐNG?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đồng hồ ảo ép bạn căng thẳng, biến một món giảm giá vặt vãnh thành chuyện khẩn cấp.",
+     "text": "CẢNH BÁO GIẢ TẠO",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay ta mổ xẻ tám cái bẫy giảm giá chớp nhoáng và rèn cơ bắp phòng thủ cho ví tiền của bạn.",
+     "text": "TÁM CÁI BẪY MUA SẮM",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "1. Bẫy khan hiếm",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hôm nọ định đặt phòng khách sạn, vừa chạm vào thì màn hình nhấp nháy báo chỉ còn đúng một phòng.",
+     "text": "1. BẪY KHAN HIẾM",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình vội bấm đặt ngay trong hoảng hốt, chẳng thèm xem lại vị trí hay đọc đánh giá.",
+     "text": "CHỐT ĐƠN VỘI VÃ",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy khan hiếm kinh điển. Cứ thấy cái gì sắp hết là não tự khắc nghĩ nó cực kỳ quý giá.",
+     "text": "QUY LUẬT KHAN HIẾM",
+     "color": "gold",
+     "actor": "34",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như có ai đó sắp nẫng tay trên mất món hời ngay trước mắt.",
+     "text": "SỢ BỊ NẪNG TAY TRÊN",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thời tiền sử, vồ nhanh miếng ăn hiếm hoi đồng nghĩa với việc sống sót qua thời đói kém.",
+     "text": "BẢN NĂNG SINH TỒN",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Các sàn bán hàng tạo độ hiếm nhân tạo để qua mặt lý trí và lùa bạn vào bước trả tiền.",
+     "text": "ĐỘ HIẾM NHÂN TẠO",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy có nên mở trang khác để kiểm tra xem họ nói thật hay đang lừa mình không?",
+     "text": "KIỂM TRA LẠI KHÔNG?",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khỏi cần. Đóng ngay màn hình lại và đi bộ hai mươi phút cho hạ nhiệt.",
+     "text": "ĐI BỘ HẠ NHIỆT",
+     "color": "green",
+     "actor": "jogging",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lỡ lúc đi bộ về mà căn phòng đó bị người ta thuê mất thật thì sao?",
+     "text": "LỠ MẤT THẬT THÌ SAO?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngày mai sẽ có ba chỗ khác y hệt. Coi việc bước đi như hiệp khởi động đầu tiên đi.",
+     "text": "HIỆP KHỞI ĐỘNG ĐẦU",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hơn nữa, càng bị ép thì tính hiếu thắng trong đầu càng muốn bật lại.",
+     "text": "TÍNH BƯỚNG NỔI LÊN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": null
+    }
+   ]
+  },
+  {
+   "title": "2. Phản kháng tâm lý",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hôm nọ xem một buổi bán trực tiếp, người ta gào lên giục củ sạc giảm giá chỉ còn đúng sáu mươi giây.",
+     "text": "2. PHẢN KHÁNG TÂM LÝ",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mười phút trước đâu có thèm, thế mà bỗng dưng lại muốn bấm cướp lấy một cái.",
+     "text": "MUỐN TRANH BẰNG ĐƯỢC",
+     "color": "red",
+     "actor": "shocked",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là phản kháng tâm lý. Cứ thấy quyền tự do lựa chọn bị đe dọa là não muốn giãy nảy lên.",
+     "text": "ĐÒI LẠI TỰ DO",
+     "color": "gold",
+     "actor": "front",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là nghe giục đếm ngược làm mình mua chỉ để chứng tỏ mình nắm quyền kiểm soát?",
+     "text": "CHỨNG TỎ KIỂM SOÁT?",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đồng hồ dọa tước mất quyền mua, nên bạn vội chốt đơn để tưởng mình còn quyền kiểm soát.",
+     "text": "ẢO TƯỞNG LÀM CHỦ",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn tưởng mình chống lại đồng hồ, nhưng thật ra đang bị người bán dắt mũi.",
+     "text": "NGƯỜI BÁN THẮNG",
+     "color": "red",
+     "actor": "34",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hay cứ bấm mua cho xong việc rồi hôm sau bấm trả hàng hoàn tiền?",
+     "text": "MUA RỒI TRẢ LẠI?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sai kỹ thuật rồi. Tắt màn hình ngay và tự phạt một hiệp thả lỏng mười lăm phút.",
+     "text": "HIỆP NGHỈ THẢ LỎNG",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rời mắt khỏi màn hình giúp mình tỉnh táo lại và lấy lại quyền lựa chọn thật sự.",
+     "text": "TỈNH TÁO TRỞ LẠI",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Bản lĩnh thật sự là giữ vững kỷ luật và chỉ rút tiền khi bạn thực sự muốn.",
+     "text": "GIỮ VỮNG KỶ LUẬT",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế nhưng nhìn cả đống người khác cùng tranh nhau bấm mua lại đánh thức một nỗi sợ bầy đàn.",
+     "text": "NỖI SỢ BẦY ĐÀN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "3. Nỗi sợ bị ra rìa",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Lúc xem bán hàng trực tiếp, dòng thông báo người này người kia vừa chốt đơn cứ nhảy liên hồi.",
+     "text": "3. NỖI SỢ BỊ RA RÌA",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự dưng thấy bất an, như thể cả thiên hạ đều được hời còn mỗi mình bị bỏ lại.",
+     "text": "CẢM GIÁC BỊ BỎ LẠI",
+     "color": "red",
+     "actor": "panic",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là nỗi sợ bị ra rìa. Não người được lập trình để sợ việc bị tách khỏi bầy đàn.",
+     "text": "BẢN NĂNG BẦY ĐÀN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy tên người khác nhảy lên làm não tưởng cái mã giảm giá là phao cứu sinh sao?",
+     "text": "MÃ GIẢM GIÁ LÀ PHAO?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Người ta hiện dòng người mua để bạn thấy lạc lõng nếu đứng ngoài cuộc.",
+     "text": "TẠO ĐÁM ĐÔNG GIẢ",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rất nhiều dòng thông báo đó chỉ là số ảo được cài sẵn để tạo cảm giác chen lấn.",
+     "text": "LƯỢT MUA ẢO",
+     "color": "red",
+     "actor": "34",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để rèn sức chịu đựng, không bị áp lực đám đông xô đẩy?",
+     "text": "RÈN SỨC CHỊU ĐỰNG?",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tắt thông báo, coi màn hình tối om như quãng nghỉ giữa buổi tập.",
+     "text": "TẮT HẾT THÔNG BÁO",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ cần tắt thông báo là ảo giác về một đám đông chen lấn bỗng tan biến ngay.",
+     "text": "ẢO GIÁC TAN BIẾN",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khóa thông báo suốt hai mươi tư giờ để bảo vệ tâm trí và giữ chặt tiền mồ hôi nước mắt.",
+     "text": "BẢO VỆ TÂM TRÍ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kể cả khi ở một mình, não bạn vẫn tự vẽ ra nỗi sợ ngày mai hối tiếc.",
+     "text": "SỢ NGÀY MAI HỐI TIẾC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "4. Nỗi sợ hối tiếc",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngồi nhìn cái tai nghe đếm ngược từng phút, cứ sợ không bấm mua thì tuần sau sẽ tiếc hùi hụi.",
+     "text": "4. NỖI SỢ HỐI TIẾC",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ tưởng tượng cảnh sau này phải mua giá gốc là trong lòng thấy bực bội khó chịu.",
+     "text": "SỢ MUA GIÁ GỐC",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là tâm lý sợ hối tiếc. Ta thường thổi phồng cảm giác đau đớn khi bỏ lỡ một món hời.",
+     "text": "THỔI PHỒNG NỖI ĐAU",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao việc bỏ lỡ đồ giảm giá lại thấy nhức nhối hơn cả việc rước của nợ về nhà nhỉ?",
+     "text": "CỦ NỢ VỀ NHÀ",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não phóng đại cảm giác tiếc của trước mắt, nhưng giấu nhẹm gánh nặng đống đồ vô dụng sau này.",
+     "text": "GÁNH NẶNG ĐỒ THỪA",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người ta biến ưu đãi thành chuyện khẩn cấp để bào mòn ý chí cho tới khi bạn chịu móc ví.",
+     "text": "BÀO MÒN Ý CHÍ",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra móc ví cả triệu bạc chỉ để né năm phút hụt hẫng vu vơ.",
+     "text": "NÉ NỖI HỤT HẪNG",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử tưởng tượng hai tuần nữa bóc hộp món đồ đó xem, lúc ấy chẳng còn chút hứng khởi nào đâu.",
+     "text": "HẾT HỨNG KHỞI",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩ lại mấy lần mua bốc đồng trước đây, niềm vui của mình cũng chỉ kéo dài được hai ngày.",
+     "text": "VUI ĐƯỢC HAI NGÀY",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiếc tiền thì day dứt cả tháng, còn tiếc vì không mua sẽ tan biến ngay sau một bài tập sáng.",
+     "text": "DAY DỨT KÉO DÀI",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ hãy nhìn cách các ứng dụng giật dây sự chú ý bằng mấy cái đồng hồ đếm ngược gấp gáp.",
+     "text": "ĐẾM NGƯỢC GẤP GÁP",
+     "color": "gold",
+     "actor": "34",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "5. Gấp gáp mù quáng",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đang mở ứng dụng trả tiền điện, mình bỏ dở để giật cái mã cà phê sắp hết hạn năm phút.",
+     "text": "5. GẤP GÁP MÙ QUÁNG",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa đơn tiền điện quan trọng hơn nhiều, nhưng cái mã sắp hết hạn lại làm mình thấy cấp bách lạ lùng.",
+     "text": "CẤP BÁCH LẠ LÙNG",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng gấp gáp mù quáng đấy. Người ta thường bỏ việc hệ trọng để chạy theo chuyện vặt có hạn chót gấp.",
+     "text": "GẤP LẤN QUAN TRỌNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao mình lại bỏ bê việc đóng tiền điện chỉ để săn cái mã cà phê vài chục ngàn?",
+     "text": "ĐÁNH ĐỔI VÔ LÝ",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xong việc gấp làm não hưng phấn ngay tức thì, nên bạn mới vội vàng bấm thanh toán.",
+     "text": "CẢM GIÁC HOÀN THÀNH",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mấy cái đồng hồ đếm ngược bán hàng cướp sạch sự chú ý khỏi những ưu tiên thật của cuộc sống.",
+     "text": "CƯỚP MẤT CHÚ Ý",
+     "color": "red",
+     "actor": "34",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy cứ thấy đếm ngược, mình chỉ cần tự hỏi việc này thực sự quan trọng hay chỉ đang gấp?",
+     "text": "QUAN TRỌNG HAY GẤP?",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Tập thói quen dừng ba giây trước khi chạm tay vào nút thanh toán.",
+     "text": "DỪNG LẠI BA GIÂY",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩ kỹ lại mới thấy, tiết kiệm vài đồng tiền cà phê chẳng bao giờ là việc quan trọng cả.",
+     "text": "KHÔNG HỀ QUAN TRỌNG",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lo xong việc chính trước đi. Cứ kệ cho mấy cái mã giảm giá gấp gáp kia hết hạn.",
+     "text": "LO VIỆC CHÍNH TRƯỚC",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ xem chuyện gì xảy ra với đầu óc bạn khi giỏ hàng bước vào sáu mươi giây cuối cùng.",
+     "text": "SÁU MƯƠI GIÂY CUỐI",
+     "color": "gold",
+     "actor": "front",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "6. Áp lực giờ chót",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Giỏ hàng hiện thông báo chỉ giữ chỗ năm phút, nếu không thanh toán sẽ nhường cho người khác.",
+     "text": "6. ÁP LỰC GIỜ CHÓT",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình vội bấm thanh toán, chẳng buồn đọc quy định đổi trả, bỏ qua luôn cả tiền phí vận chuyển đắt đỏ.",
+     "text": "BỎ QUA PHÍ GIAO HÀNG",
+     "color": "red",
+     "actor": "panic",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng giờ chót đấy. Áp lực thời gian làm tầm nhìn của bạn thu hẹp như chui vào đường hầm.",
+     "text": "TẦM NHÌN ĐƯỜNG HẦM",
+     "color": "gold",
+     "actor": "front",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lý trí của mình tắt ngúm khi nhìn những con số đếm ngược dần về không.",
+     "text": "LÝ TRÍ TẮT NGÚM",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bị ép thời gian khiến não quá tải, ép bạn chỉ chú ý đúng một điểm mà quên sạch các chi tiết nhỏ.",
+     "text": "NÃO BỊ QUÁ TẢI",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn không còn nghĩ xem mình có cần đồ hay không, mà chỉ mải tìm cách thắng cái đồng hồ.",
+     "text": "THẮNG CÁI ĐỒNG HỒ",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao thoát khỏi cơn hoảng loạn khi đồng hồ cứ nhấp nháy liên hồi trước mắt?",
+     "text": "THOÁT HOẢNG LOẠN?",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hít thở sâu đúng sáu mươi giây. Bỏ tay khỏi màn hình rồi soi lại tổng tiền sau phí giao hàng.",
+     "text": "BÀI TẬP THỞ SÂU",
+     "color": "green",
+     "actor": "meditating",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu đang hít thở mà giỏ hàng bị hủy thì mình chấp nhận buông luôn.",
+     "text": "CHẤP NHẬN BUÔNG TAY",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Để đồng hồ ảo chạy hết bạn chẳng mất xu nào, còn mua trong hoảng loạn sẽ làm rỗng ví.",
+     "text": "KHÔNG MẤT MỘT XU",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiếp theo, hãy nhìn kỹ cái con số gạch ngang to tướng nằm ngay phía trên giá bán.",
+     "text": "CON SỐ GẠCH NGANG",
+     "color": "gold",
+     "actor": "34",
+     "prop": null
+    }
+   ]
+  },
+  {
+   "title": "7. Mỏ neo giá",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Thấy cái áo khoác để giá gốc một triệu rưỡi bị gạch đi, giảm còn bốn trăm ngàn trong đợt xả hàng.",
+     "text": "7. MỎ NEO GIÁ",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như mình vừa hời được hơn một triệu đồng chỉ nhờ bấm chốt đơn.",
+     "text": "ẢO TƯỞNG TIẾT KIỆM",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn dính mỏ neo giá rồi. Con số đầu tiên bạn nhìn thấy sẽ định hình luôn cảm nhận về giá trị.",
+     "text": "CON SỐ MỎ NEO",
+     "color": "gold",
+     "actor": "front",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy cái giá gốc một triệu rưỡi đó chỉ được dựng lên để bóp méo suy nghĩ của mình sao?",
+     "text": "BÓP MÉO SUY NGHĨ",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhiều nơi cố tình kê khống giá gốc để mức giảm bình thường trông như món hời trời cho.",
+     "text": "KÊ KHỐNG GIÁ GỐC",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn đâu có tiết kiệm được một triệu nào. Bạn vừa mất đứt bốn trăm ngàn tiền thật đấy chứ.",
+     "text": "MẤT TIỀN THẬT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao giữ tỉnh táo khi mức giảm giá quá khủng làm mờ mắt?",
+     "text": "THOÁT KHỎI MỎ NEO?",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng bài thử tiền mặt, tự hỏi bạn có chịu rút bốn tờ một trăm ngàn nếu không có số gạch ngang không?",
+     "text": "BÀI THỬ TIỀN MẶT",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hình dung cảnh rút mấy tờ tiền thật trong ví ra, phép màu giảm giá tự nhiên biến mất sạch.",
+     "text": "PHÉP MÀU BIẾN MẤT",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đo lường món đồ bằng túi tiền thực tế, đừng so với con số ảo mà người bán tự vẽ ra.",
+     "text": "SOI LẠI TÚI TIỀN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cuối cùng là thiên kiến khiến bạn cảm thấy việc ngồi yên không mua gì giống như một tội lỗi.",
+     "text": "SỢ NGỒI YÊN",
+     "color": "gold",
+     "actor": "34",
+     "prop": null
+    }
+   ]
+  },
+  {
+   "title": "8. Thiên kiến bỏ sót",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi thấy đồng hồ giảm giá đếm lùi, ngồi yên không làm gì thấy bứt rứt vô cùng.",
+     "text": "8. THIÊN KIẾN BỎ SÓT",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bấm mua cho cảm giác mình chủ động, còn bỏ lỡ món hời lại giống như một sự thất bại.",
+     "text": "SỢ BỊ THẤT BẠI",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Áp lực giờ chót kích hoạt thiên kiến bỏ sót, khiến bạn coi việc ngồi yên như một tội lỗi.",
+     "text": "NGỒI YÊN THÀNH MẤT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao một cái hạn chót ảo lại khiến việc ngồi yên thấy nguy hiểm đến thế?",
+     "text": "VÌ SAO THẤY RỦI RO?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đồng hồ khiến bạn sợ mất cơ hội hơn là sợ mất tiền, coi việc không làm gì là sai lầm vĩnh viễn.",
+     "text": "SỢ MẤT CƠ HỘI",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn tự lừa mình rằng rước món đồ vô dụng về nhà vẫn đỡ tiếc hơn là bỏ lỡ.",
+     "text": "TỰ LỪA CHÍNH MÌNH",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên để đồng hồ chạy hết thấy như phạm lỗi, dù ví tiền vẫn nằm nguyên trong túi.",
+     "text": "VÍ TIỀN NGUYÊN VẸN",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi việc ngồi yên như một hiệp thủ thế. Giữ chặt tiền trong túi mới là kẻ thắng.",
+     "text": "HIỆP PHÒNG THỦ",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn đồng hồ về số không mà không hề bấm mua đúng là một bài kiểm tra bản lĩnh.",
+     "text": "THỬ THÁCH BẢN LĨNH",
+     "color": "ink",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệp gánh tạ ý chí đỉnh nhất của bạn. Cứ để đồng hồ hết giờ, thở sâu và mỉm cười.",
+     "text": "HIỆP TẠ Ý CHÍ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ cùng gom tám cái bẫy này lại thành thử thách bảy ngày để bắt đầu ngay hôm nay.",
+     "text": "GOM TÁM CÁI BẪY",
+     "color": "gold",
+     "actor": "front",
+     "prop": null
+    }
+   ]
+  },
+  {
+   "title": "Thử thách bảy ngày",
+   "sources": [
+    "s01",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Gom tám cái bẫy tâm lý này vào ba nguyên tắc phòng thủ khi đi mua sắm.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một là giới hạn giả tạo, khi đồng hồ và giá gạch ngang chỉ là đạo cụ bán hàng.",
+     "text": "GIỚI HẠN GIẢ TẠO",
+     "color": "gold",
+     "actor": "think",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai là đòn bẩy cảm xúc, khi tính phản kháng và nỗi sợ bỏ lỡ cướp sạch lý trí.",
+     "text": "ĐÒN BẨY CẢM XÚC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ba là bẫy hành động, khi sự gấp gáp khiến bạn coi việc ngồi yên như một thất bại.",
+     "text": "BẪY HÀNH ĐỘNG",
+     "color": "gold",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách một tuần cho bạn là đợi đúng hai mươi tư giờ trước khi chốt bất kỳ món giảm giá nào.",
+     "text": "ĐỢI HAI MƯƠI TƯ GIỜ",
+     "color": "green",
+     "actor": "front",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu ngày mai vẫn muốn mua, mình biết đó là nhu cầu thật chứ không phải mua trong hoảng loạn.",
+     "text": "NHU CẦU THẬT SỰ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tuần này mình quyết định khóa chặt ví tiền.",
+     "text": "KHÓA CHẶT VÍ TIỀN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xong hiệp khởi động rồi đấy. Bấm đăng ký kênh rồi cùng nhau nâng mức tạ kỷ luật mỗi ngày.",
+     "text": "HIỆP ĐẦU TIÊN",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": null
+    }
+   ]
+  }
+ ]
+}

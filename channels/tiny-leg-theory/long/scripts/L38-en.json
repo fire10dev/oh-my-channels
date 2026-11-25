@@ -1,0 +1,913 @@
+{
+ "id": "L38",
+ "lang": "en",
+ "title": "Why Mornings Feel Rushed: 8 Simple Ways to Fix Them",
+ "description": "A chaotic morning derails your day before you even leave home. Here are eight simple psychological shifts to move morning friction to the night before and reclaim calm momentum.",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "The alarm blares, you glance at the clock, and your stomach drops: twelve minutes until your bus.",
+     "text": "THE MORNING RUSH",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You hit snooze three times, and now you are sprinting for the packed morning bus.",
+     "text": "SPRINTING LATE",
+     "color": "red",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does every single morning feel like a chaotic race against the clock in this crowded city?",
+     "text": "ALWAYS RACING?",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain is running heavy sets before it has even finished its morning warm up, my friend.",
+     "text": "COLD ENGINE",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How can we stop waking up in total panic every morning without waking up at dawn?",
+     "text": "A BETTER WAY?",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here are eight simple shifts to move tomorrow's morning chaos into tonight's calm evening routine.",
+     "text": "EIGHT EASY SHIFTS",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Decision Fatigue",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "First up is decision fatigue: burning through your mental battery before you even pour coffee.",
+     "text": "1. THE CLOSET TRAP",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I stare blankly into my closet for ten minutes just trying to pick out a clean shirt.",
+     "text": "CLOSET PARALYSIS",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Every single choice drains your willpower battery, even trivial things like matching your work socks.",
+     "text": "DRAINED FOCUS",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does picking an outfit really exhaust my mental energy that early in the morning?",
+     "text": "JUST SOCKS?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests making minor trade-offs depletes cognitive fuel before you even tackle your real job.",
+     "text": "DEPLETED FUEL",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So by the time I reach the crowded train station, my brain already feels completely fried.",
+     "text": "ALREADY FRIED",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You burned through heavy mental reps before you even stepped outside your front apartment door.",
+     "text": "BURNT REPS",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do we stop wasting so many tiny choices the second our eyes open?",
+     "text": "SAVE THE CHOICES?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pick tomorrow's clothes and breakfast tonight so your morning self runs on pure autopilot.",
+     "text": "PRE-DECIDE NIGHT",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Laying out one clean outfit turns three stressful morning debates into one simple automatic grab.",
+     "text": "ONE EASY GRAB",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That saves your mental energy for the bustling commute ahead, but your room setup still matters.",
+     "text": "ROOM SETUP",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So how does my physical room setup create so much hidden morning friction?",
+     "text": "HIDDEN FRICTION?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Choice Architecture",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Next is choice architecture: arranging your physical space so smooth actions become completely effortless.",
+     "text": "2. INVISIBLE TRAPS",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "In my cramped apartment kitchen, everything is buried, so making breakfast feels like an obstacle course.",
+     "text": "KITCHEN MAZE",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When your space is chaotic, your sleepy brain burns precious willpower just hunting for clean dishes.",
+     "text": "SEARCHING EFFORT",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If my clean mug is buried under unwashed pots, I grab nothing and leave starving.",
+     "text": "LEAVE STARVING",
+     "color": "red",
+     "actor": "snack",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your sleepy brain follows the path of least resistance, defaulting to whatever is directly visible.",
+     "text": "LEAST RESISTANCE",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So disorganized spaces quietly sabotage my habits before I even head down the elevator.",
+     "text": "QUIET SABOTAGE",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure buddy, you engineered your kitchen for failure instead of setting up an easy default win.",
+     "text": "DEFAULT TRAP",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How can I redesign my kitchen counter tonight so tomorrow morning flows on autopilot?",
+     "text": "AUTOPILOT SETUP?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Stage your mug and breakfast bowl directly on the clean counter before going to sleep.",
+     "text": "STAGE THE COUNTER",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Walking into the kitchen now presents an obvious healthy path without opening five different cupboards.",
+     "text": "CLEAR PATHWAY",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spot on, and gentle environmental nudges can make that clean path feel completely irresistible.",
+     "text": "GENTLE PUSH",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What kind of environmental nudge stops me from getting sucked into my morning phone trap?",
+     "text": "THE PHONE TRAP?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Nudge Theory",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "A nudge alters behavior predictably without forbidding options. Your nightstand phone is an aggressive trap designed to stall you.",
+     "text": "3. THE GENTLE NUDGE",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My biggest morning trap is reaching for my smartphone the second my alarm goes off.",
+     "text": "BED PHONE TRAP",
+     "color": "red",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That glowing screen right beside your pillow is an aggressive nudge pulling you into doom scrolling.",
+     "text": "DOOM SCROLLING",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why cannot I just use sheer willpower to ignore morning notifications and stand up?",
+     "text": "NO WILLPOWER?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your morning willpower is a cold muscle, while your groggy brain craves instant digital dopamine.",
+     "text": "COLD WILLPOWER",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Then twenty precious minutes vanish into news feeds while the morning departure clock ticks down.",
+     "text": "TWENTY MINUTES LOST",
+     "color": "red",
+     "actor": "panic",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You let a lazy digital nudge bench press your entire commute schedule into utter chaos, buddy.",
+     "text": "SCHEDULE CRUSHED",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do we flip the nudge so it actually pulls my body out of bed?",
+     "text": "FLIP THE NUDGE?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Plug your phone across the bedroom tonight, and place a tall glass of water right beside it.",
+     "text": "PHONE ACROSS ROOM",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "That forces me to stand up to silence the alarm and hydrate my body immediately.",
+     "text": "STAND AND DRINK",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now your feet are on the floor, but you still need your memory to stay reliable.",
+     "text": "RELIABLE MEMORY",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does my memory always fail right when I am about to head out the door?",
+     "text": "MEMORY FAILS?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Prospective Memory",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Here is prospective memory, which is your brain remembering to execute future intentions on time.",
+     "text": "4. FUTURE MEMORY",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I constantly forget my transit scan card, office badge, or apartment keys when rushing downstairs.",
+     "text": "FORGOT MY BADGE",
+     "color": "red",
+     "actor": "panic",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then you realize at the subway turnstile, miss your train, and sprint back in a fury.",
+     "text": "SPRINTING BACK",
+     "color": "red",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does my brain drop essential everyday items the moment I feel in a rush?",
+     "text": "DROPPED ITEMS?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests time pressure overloads working memory, wiping your mental departure checklist clean like a chalkboard.",
+     "text": "OVERLOADED MEMORY",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My brain drops my transit pass because it is obsessing over catching the crowded seven thirty bus.",
+     "text": "BUS ANXIETY",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure buddy, your mental hard drive crashed because you opened twenty anxious tabs at once.",
+     "text": "SYSTEM CRASH",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How can I offload prospective memory without sticking paper notes all over my door?",
+     "text": "OFFLOAD MEMORY?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hang your packed lunch bag on the front door handle with your keys clipped directly to it.",
+     "text": "KEYS ON DOOR HANDLE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I literally cannot unlock my front door without grabbing both my keys and my packed lunch.",
+     "text": "FOOLPROOF LOCK",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Physical bottlenecks never fail, but you still need concrete action triggers to keep moving.",
+     "text": "ACTION TRIGGERS",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do action triggers prevent me from drifting aimlessly when the morning clock is ticking?",
+     "text": "HOW TRIGGERS WORK?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Action Planning",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Next is action planning, turning vague morning hopes into precise, locked-in execution triggers.",
+     "text": "5. ACTION PLANNING",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I always tell myself I will leave ten minutes early to catch the express bus.",
+     "text": "VAGUE PROMISES",
+     "color": "ink",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "And when morning arrives, you waste five minutes digging through the fridge for something quick.",
+     "text": "FRIDGE SEARCH",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does my good intention completely dissolve the second my morning routine begins?",
+     "text": "DISSOLVED GOALS?",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vague intentions force your sleepy mind to negotiate, and a groggy brain always chooses delay.",
+     "text": "BRAIN NEGOTIATES",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My brain negotiates itself right into a ten minute delay while I sip my warm tea.",
+     "text": "SLOW NEGOTIATION",
+     "color": "red",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is amateur hour, buddy, you need an ironclad if-then contract locked in beforehand.",
+     "text": "IF-THEN CONTRACT",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How does an if-then rule stop my brain from stalling out before my commute?",
+     "text": "STOP THE STALL?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tell yourself: when I brush my teeth tonight, then I will zip my work bag shut by the door.",
+     "text": "BEDTIME IF-THEN",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Linking the packing chore directly to brushing teeth eliminates morning panic before I leave for work.",
+     "text": "ZERO MORNING PANIC",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Precise contracts win every time, but you still need unmistakable visual markers to spark your routine.",
+     "text": "VISUAL MARKERS",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What visual markers keep my sleepy morning brain from losing its train of thought?",
+     "text": "WHICH MARKERS?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Cue Utilization",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Next is cue utilization, using prominent physical signals to prompt automatic habit sequences without thinking.",
+     "text": "6. VISUAL CUES",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Half the time I stumble out of bed and completely lose track of my morning steps.",
+     "text": "MORNING DAZE",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You have zero distinct visual prompts, so your groggy autopilot wanders aimlessly around the hallway.",
+     "text": "DRIFTING MIND",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does my morning mind really need physical signposts just to prepare for the workday on time?",
+     "text": "NEED SIGNPOSTS?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests our minds lean heavily on visible cues to trigger sequential daily habits automatically.",
+     "text": "CUES DRIVE HABIT",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Without clear markers, I waste ten minutes in the hallway wondering if I grabbed my transit pass.",
+     "text": "WHERE IS MY PASS?",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure buddy, you are trying to lift heavy in the dark without any spotter or rack lights.",
+     "text": "LIFTING BLIND",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What kind of visual cue stops me from drifting away from my morning routine?",
+     "text": "BETTER CUES?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Place your transit pass directly on top of your smartphone screen before sleeping tonight.",
+     "text": "PASS ON PHONE",
+     "color": "green",
+     "actor": "writing",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Seeing that pass right on my screen guarantees I pocket it before stepping outside.",
+     "text": "IMPOSSIBLE TO MISS",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Visual triggers keep you moving forward, but you still must clear out tiny physical friction points.",
+     "text": "CLEAR THE FRICTION",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why do tiny physical friction points cause such huge delays during a crowded morning rush?",
+     "text": "WHY TINY SNAGS?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Friction Costs",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Here is friction costs, the tiny micro-barriers that make simple actions feel infuriatingly exhausting.",
+     "text": "7. FRICTION COSTS",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When my charging cables are tangled inside my backpack, packing my work laptop feels overwhelmingly stressful.",
+     "text": "TANGLED CORDS",
+     "color": "red",
+     "actor": "panic",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That thirty second struggle drains your remaining morning patience before you even hit the crowded elevator.",
+     "text": "DRAINED PATIENCE",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why do minor physical snags feel like massive mountains when I have fifteen minutes to commute?",
+     "text": "MICRO MOUNTAINS?",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiny snags create exponential drag: every knotted cord is another wasted rep against the morning clock.",
+     "text": "EXPONENTIAL DRAG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Each tiny snag turns into commute rage before I even reach the crowded bus stop.",
+     "text": "COMMUTE RAGE",
+     "color": "red",
+     "actor": "wallet_worry"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Early morning willpower is fragile, so small mechanical hurdles trigger an immediate emotional spike.",
+     "text": "FRAGILE WILLPOWER",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do we eliminate those frustrating physical drag points before our head hits the pillow?",
+     "text": "KILL THE DRAG?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pack your charger and work laptop tonight, then zip the bag shut right by your shoes.",
+     "text": "PACK BY SHOES",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Removing that physical struggle means grabbing my gear takes two seconds as I head downstairs.",
+     "text": "TWO SECOND GRAB",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now that drag is eliminated, you can ignite the real power of behavioral momentum.",
+     "text": "IGNITE MOMENTUM",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How does early momentum prevent that terrible rushed feeling from poisoning the entire workday?",
+     "text": "POISON THE DAY?",
+     "color": "ink",
+     "actor": "think"
+    }
+   ]
+  },
+  {
+   "title": "Behavioral Momentum",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Finally, behavioral momentum uses tiny early victories to create unstoppable forward energy all morning.",
+     "text": "8. MOMENTUM",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When I start my morning frantic and disorganized, that chaotic rush haunts me all day long.",
+     "text": "CARRYOVER CHAOS",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Panicked starts build chaotic momentum, while calm early wins generate smooth, steady control for hours.",
+     "text": "FORWARD DRIVE",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does completing one tiny morning task make the crowded commute feel so much easier?",
+     "text": "WHY TINY WINS?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Completing a tiny micro-task breaks initial sleep inertia and lowers the mental barrier to action.",
+     "text": "BREAK INERTIA",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So securing one quick win sets an organized, unshakeable tone for the entire morning rush.",
+     "text": "SET THE TONE",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spot on, buddy: that is your warm-up rep before you step into the city rush.",
+     "text": "WARM UP SET",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If I feel groggy and overwhelmed, what is the best micro win to tackle first?",
+     "text": "BEST MICRO WIN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Make your bed right after your feet hit the floor, securing your very first rep.",
+     "text": "MAKE YOUR BED",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Winning that first minute makes the rush out the door feel calm, focused, and completely manageable.",
+     "text": "WIN THE MINUTE",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That clean first rep sets the champion tempo for your entire commute and workday.",
+     "text": "SET THE TEMPO",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Now let us bring all eight strategies together into an easy plan we can start tonight.",
+     "text": "THE FULL PLAN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "calendar_today"
+    }
+   ]
+  },
+  {
+   "title": "Summary and Challenge",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Let us pull these eight habits together into three clear principles you can practice today.",
+     "text": "THE GAME PLAN",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "First, we eliminate morning choices before bed so our groggy brain never suffers decision fatigue.",
+     "text": "DECIDE AT NIGHT",
+     "color": "gold",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Second, we optimize our environment with visual cues and clear pathways to crush physical morning friction.",
+     "text": "KILL THE FRICTION",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "And third, we generate early behavioral momentum through tiny, effortless wins right after waking up.",
+     "text": "EARLY MOMENTUM",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "For your seven day challenge, shift just two simple preparations to the night before.",
+     "text": "SEVEN DAY PLAN",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Pre-pack your commuter bag and set out tomorrow's clothes before touching your bed tonight.",
+     "text": "BAG AND CLOTHES",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Give yourself one checkmark every night you prep your bag, and watch your morning rush vanish.",
+     "text": "ONE CHECKMARK",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Subscribe to Tiny Leg Theory if you want practical psychology to upgrade your daily habits.",
+     "text": "JOIN THE JOURNEY",
+     "color": "ink",
+     "actor": "front",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

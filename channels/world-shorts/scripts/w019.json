@@ -1,0 +1,13 @@
+{"id":"w019","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#14b8a6","cover_frame":60,
+ "source":"Area: Encyclopaedia Britannica · Convention on the Legal Status of the Caspian Sea (2018)","music":"shared/library/music/yt-audio-library/AETHER - Density & Time.mp3",
+ "beats":[
+  {"say":"The world's biggest lake is called a sea.","title":"THIS 'SEA' IS ACTUALLY A LAKE","cam":{"lon":51,"lat":42,"span":20},"pins":[{"lon":50.5,"lat":42,"text":"Caspian Sea"}]},
+  {"say":"The Caspian Sea has no connection to any ocean. Water only leaves by evaporating.","cam":{"lon":51,"lat":42,"span":20},"hl":[{"a3":"RUS","color":"#334155"},{"a3":"KAZ","color":"#334155"},{"a3":"TKM","color":"#334155"},{"a3":"IRN","color":"#334155"},{"a3":"AZE","color":"#334155"}]},
+  {"say":"It covers about three hundred seventy one thousand square kilometers. That's bigger than Germany.","cam":{"lon":51,"lat":42,"span":20},
+   "bars":{"unit":" km²","items":[{"label":"Caspian Sea","value":371000,"color":"#14b8a6"},{"label":"Germany","value":357600,"color":"#ffd23f"}]}},
+  {"say":"Five countries share its shore: Russia, Kazakhstan, Turkmenistan, Iran and Azerbaijan.","cam":{"lon":51,"lat":42,"span":22},
+   "hl":[{"a3":"RUS","color":"#a855f7","label":"Russia"},{"a3":"KAZ","color":"#0ea5e9","label":"Kazakhstan"},{"a3":"TKM","color":"#22c55e","label":"Turkmenistan"},{"a3":"IRN","color":"#f97316","label":"Iran"},{"a3":"AZE","color":"#ef4444","label":"Azerbaijan"}]},
+  {"say":"Sea or lake actually matters. Under it lie huge oil and gas fields, and the label decides who gets what.","cam":{"lon":51,"lat":41,"span":16},"pins":[{"lon":49.87,"lat":40.41,"text":"Baku"}]},
+  {"say":"In twenty eighteen, the five countries signed a deal giving it a special status. Officially, it's neither.","cam":{"lon":51,"lat":42,"span":20},"big":{"value":"2018","label":"neither sea nor lake"}},
+  {"say":"A lake that's too big to be a lake. Follow for more.","title":"TOO BIG TO BE A LAKE","cam":{"lon":51,"lat":42,"span":20},"pins":[{"lon":50.5,"lat":42,"text":"Caspian Sea"}]}
+ ]}

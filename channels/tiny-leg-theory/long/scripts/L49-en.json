@@ -1,0 +1,935 @@
+{
+ "id": "L49",
+ "lang": "en",
+ "title": "Why One Person Does All the Work in Group Projects",
+ "description": "Ever wonder why group projects in college and at work always leave one person carrying the load? Here are eight psychological mechanisms that explain why effort drops in groups and how to fix it. Learn how to make responsibility visible so every teammate pulls their weight.",
+ "chapters": [
+  {
+   "title": "Why You Carry the Team",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "It is two in the morning, your group chat has gone completely silent, and you are finishing everyone's slides alone.",
+     "text": "WHY YOU CARRY THE TEAM",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Whether in college or at work, every group project seems to dump all the burden onto you.",
+     "text": "ALWAYS YOUR LAP",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. You signed up for teamwork, but ended up doing all the heavy reps completely alone.",
+     "text": "SOLO HEAVY REPS",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does adding more capable people to a group make everyone's individual effort drop so fast?",
+     "text": "WHERE DID THEY GO?",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your partners are not just lazy. Their brains are responding to eight unconscious group dynamics.",
+     "text": "EIGHT HIDDEN TRAPS",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Can understanding those dynamics actually stop this from happening on our next team project?",
+     "text": "CAN WE FIX IT?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Absolutely. Once you understand the hidden rules, you can make everyone pull their fair share.",
+     "text": "PULL YOUR SHARE",
+     "color": "green",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "1. Social Loafing",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "We formed a four person team, yet two teammates barely contributed a single paragraph.",
+     "text": "1. SOCIAL LOAFING",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "They smiled during the kick off call, then completely vanished from the group chat.",
+     "text": "GHOSTED THE CHAT",
+     "color": "ink",
+     "actor": "34",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Welcome to social loafing. When people pool their strength, individual physical and mental output plunges.",
+     "text": "OUTPUT PLUNGES",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does our brain just get lazy the exact second other people walk into the room?",
+     "text": "INSTANT LAZINESS?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests our subconscious cuts effort when we believe our personal push is not critical.",
+     "text": "EFFORT REDUCTION",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When multiple people push a stalled car, each person pushes noticeably less than when alone.",
+     "text": "PUSHING LESS",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Do people honestly fail to notice their slacking because the group keeps moving forward?",
+     "text": "BLIND SLACKING",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. The brain assumes the collective mass is doing just fine without its maximum sweat.",
+     "text": "FALSE SECURITY",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "To fix this, break the collective assignment into distinct individual milestones before merging them.",
+     "text": "INDIVIDUAL QUOTAS",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Set firm deadlines for individual drafts before scheduling any group merging session.",
+     "text": "STAGED DEADLINES",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Individual quotas make sense, but an urgent group email still gets ignored by everyone.",
+     "text": "WHO ANSWERS FIRST?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That awkward pause is where individual responsibility dissolves into the crowd completely.",
+     "text": "THE SILENT VOID",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "2. Diffused Blame",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "An urgent email from our manager sat in our shared inbox for three straight days.",
+     "text": "2. DIFFUSED BLAME",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Five people read the message, but each of us assumed a coworker was handling it.",
+     "text": "SOMEONE WILL ACT",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is classic diffusion of responsibility. When everyone is responsible, nobody feels personally accountable.",
+     "text": "NOBODY OWNS IT",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When nobody is singled out, each person assumes the social penalty for doing nothing is close to zero.",
+     "text": "ZERO PENALTY",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does nobody feel guilty because the blame gets diluted across five different people?",
+     "text": "DILUTED BLAME",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Think about it. In a crowd, doing nothing feels safe because everyone else is doing nothing too.",
+     "text": "SAFETY IN CROWDS",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do you stop people from freezing up when a shared request lands in public?",
+     "text": "BREAK THE FREEZE",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Never toss a task into an open room. Ask one specific person for a direct commitment.",
+     "text": "ASK ONE PERSON",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "In peer groups, ask directly. Pen, can you commit to drafting this reply by three o'clock?",
+     "text": "DIRECT COMMITMENT",
+     "color": "green",
+     "actor": "writing",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When one person holds the barbell, they cannot pretend someone else is lifting it for them.",
+     "text": "HOLD THE BARBELL",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Assigning clear owners stops the freeze, but what if someone watches a slacker get equal credit?",
+     "text": "UNFAIR CREDIT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That burning sense of unfairness triggers an immediate strike from your best players.",
+     "text": "THE STRIKE BEGINS",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "3. The Sucker Effect",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Last semester, I stayed up all weekend writing code while my project partner went clubbing.",
+     "text": "3. THE SUCKER EFFECT",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "By Monday morning, I felt foolish, resentful, and completely refused to do another ounce of work.",
+     "text": "TIRED OF BEING USED",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That bitter feeling is the sucker effect. Nobody wants to play the fool carrying a freeloader.",
+     "text": "REFUSING THE FOOL",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When you see others slacking, your brain pulls the emergency brake to protect your self respect.",
+     "text": "EMERGENCY BRAKE",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "We would actually sabotage our own project just out of spite?",
+     "text": "SPITE OVER SUCCESS",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests that when fairness feels violated, many people would rather risk a lower score than feel exploited.",
+     "text": "FAIRNESS FIRST",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rather than lifting for two while they nap, you drop the weight completely.",
+     "text": "DROP THE WEIGHT",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do you protect motivated teammates from falling into this bitter downward spiral?",
+     "text": "STOPPING THE SPIRAL",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Build transparent work tracking before anyone begins lifting a single pound of work.",
+     "text": "TRANSPARENT LOGS",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use a shared project board where completed tasks and pending items are openly displayed.",
+     "text": "SHARED KANBAN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Public boards protect fairness, but what if all our individual contributions still look identical on paper?",
+     "text": "DOES VISIBILITY WORK?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Visibility changes everything, because people only slack when their missing effort stays completely invisible.",
+     "text": "NO HIDING PLACE",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "4. Identifiable Work",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "On our final report cover, all four student names were typed in the exact same font.",
+     "text": "4. IDENTIFIABLE WORK",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "The professor had no way of knowing who wrote thirty pages and who just proofread the title.",
+     "text": "WHO DID THE WORK?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When outputs get tossed into one pot, you lose the identifiability of individual contributions.",
+     "text": "LOST IDENTITY",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests people tend to push harder when their personal stamp is clearly attached.",
+     "text": "PERSONAL STAMP",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Do people coast simply because they know nobody can trace their missing effort?",
+     "text": "CLOAK OF ANONYMITY",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It is simple math. If the gym scoreboard only tracks the club total, members stop counting their reps.",
+     "text": "COUNT YOUR REPS",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Anonymity gives your subconscious full permission to take an unannounced mental nap.",
+     "text": "UNANNOUNCED NAP",
+     "color": "ink",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do you make individual work distinct without destroying our shared sense of unity?",
+     "text": "SEPARATE YET UNITED",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use section bylines on every presentation slide and every major chapter you produce.",
+     "text": "SECTION BYLINES",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Putting an owner's initials on each deliverable connects personal pride directly to the outcome.",
+     "text": "ATTACH YOUR NAME",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Section bylines give clear ownership, but what if the team doubts we have the skills to deliver?",
+     "text": "DOUBTING SUCCESS",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When belief in the team collapses, even the clearest bylines cannot rescue motivation.",
+     "text": "COLLAPSED BELIEF",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "5. Collective Efficacy",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Our committee had to build a complex software proposal, but the scope felt ridiculously massive.",
+     "text": "5. COLLECTIVE EFFICACY",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Instead of starting the outline, everyone scrolled on their phones and skipped our planning sessions.",
+     "text": "GROUP PARALYSIS",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That paralysis happens when collective team confidence hits rock bottom.",
+     "text": "CONFIDENCE CRASH",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Collective efficacy is your team's shared confidence that you have the skills to conquer the challenge.",
+     "text": "TEAM CONFIDENCE",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When a challenge looks that steep, does the whole team quietly surrender together?",
+     "text": "SURRENDER TOGETHER",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. If nobody believes the bar can be cleared, nobody bothers lacing up their lifting shoes.",
+     "text": "WHY EVEN TRY?",
+     "color": "ink",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When success feels out of reach, investing maximum energy feels like a losing bet.",
+     "text": "A LOSING BET",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do you restore genuine confidence when everyone on the crew feels totally hopeless?",
+     "text": "RESTORING HOPE",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Break the intimidating scope into three small components and match each to a member's strength.",
+     "text": "MATCH TO STRENGTHS",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bag an easy win immediately on the first milestone to spark real momentum together.",
+     "text": "SPARK MOMENTUM",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Quick momentum builds team confidence, but how do we keep everyone focused across a month long project?",
+     "text": "STAYING FOCUSED",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You need regular accountability cues to signal that people are watching the scoreboard.",
+     "text": "THE WATCHFUL SIGNAL",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "6. Accountability Cues",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Our cross functional workgroup met only once every four weeks for a status update.",
+     "text": "6. ACCOUNTABILITY CUES",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nobody made any real progress until the night before the scheduled monthly video call.",
+     "text": "NIGHT BEFORE PANIC",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your work routine lacked accountability cues. The mind requires constant feedback signals to stay alert.",
+     "text": "MISSING SIGNALS",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests that regular, public visibility keeps team commitments top of mind.",
+     "text": "CUES RAISE EFFORT",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Without constant reminders, does our focus just drift toward easier tasks?",
+     "text": "DRIFTING FOCUS",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You bet. In the absence of cues, the brain chases whatever urgent fire is burning closest.",
+     "text": "CHASING NEAR FIRES",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "If nobody is asking about your sets, you skip leg day and head home early.",
+     "text": "SKIPPING LEG DAY",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do you introduce accountability cues without feeling like a suffocating micromanager?",
+     "text": "CUES WITHOUT NAGGING",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Set a shared midweek checklist alert where members simply check a box when on track.",
+     "text": "MIDWEEK ALERTS",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "A visible reminder keeps team commitments active without anyone having to nag.",
+     "text": "VISIBLE REMINDER",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Midweek alerts keep us visible, but what if my part is stuck waiting on someone else's draft?",
+     "text": "STUCK IN QUEUE",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That creates a domino effect where poor handoffs grind the entire project to a dead halt.",
+     "text": "THE DOMINO EFFECT",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "7. Interdependence",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I waited four days for my teammate to send survey numbers so I could make our charts.",
+     "text": "7. INTERDEPENDENCE",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Their delay pushed our final submission past the deadline, and our manager blamed the whole team.",
+     "text": "DELAYED SUBMISSION",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You hit broken interdependence. In a relay, if the runner ahead drops the baton, your set never even starts.",
+     "text": "BROKEN HANDOFFS",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When step two cannot move until step one finishes, teammates happily take an unplanned vacation.",
+     "text": "UNPLANNED VACATION",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does an upstream delay give everyone a convenient excuse to stop working altogether?",
+     "text": "CONVENIENT EXCUSE",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Look at the workflow. Nobody feels guilty browsing social media when they can point at a blocked step.",
+     "text": "BLAME THE DELAY",
+     "color": "ink",
+     "actor": "34",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tangled dependencies give people a free pass to check out completely guilt free.",
+     "text": "A FREE PASS",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do we organize complex projects so that nobody gets stuck waiting on anyone else?",
+     "text": "UNBLOCK THE WORK",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Decouple your workflow by converting sequential tasks into independent, parallel tracks.",
+     "text": "PARALLEL TRACKS",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use draft dummy data and modular outlines so teammates can build their sections at the same time.",
+     "text": "MODULAR OUTLINES",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Parallel tracks keep us unblocked, but adding more people suddenly makes our group chat explode.",
+     "text": "TOO MANY VOICES",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That communication chaos eats up all your energy before real productive work even begins.",
+     "text": "CHAOS EATS ENERGY",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    }
+   ]
+  },
+  {
+   "title": "8. Coordination Loss",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Our company added four extra team members to help us sprint toward our project deadline.",
+     "text": "8. COORDINATION LOSS",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Instead of moving faster, we spent entire afternoons resolving file conflicts and rescheduling meetings.",
+     "text": "RESCHEDULING AGAIN",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You just slammed into coordination loss. As headcount grows, communication noise multiplies fast.",
+     "text": "EXPONENTIAL NOISE",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Research suggests that as group size grows, communication overhead can quickly eat away individual productivity.",
+     "text": "OVERHEAD EATS WORK",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Can a bigger team actually achieve far less than three focused people working together?",
+     "text": "BIGGER CAN MEAN LESS",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Too often. If six people try to lift one dumbbell together, they just bump elbows.",
+     "text": "BUMPING ELBOWS",
+     "color": "ink",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Half the group's mental stamina gets wasted on talking about work instead of doing work.",
+     "text": "TALK INSTEAD OF WORK",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do you protect a group from drowning in its own coordination noise?",
+     "text": "KILL THE NOISE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Divide large teams into autonomous pairs. Each pair owns one clear deliverable.",
+     "text": "AUTONOMOUS PAIRS",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ban open ended alignment meetings and force all updates into centralized, asynchronous project checklists.",
+     "text": "ASYNC CHECKLISTS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Can these eight psychological adjustments really transform how we work in every team?",
+     "text": "CAN TEAMS CHANGE?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Without question. Let us assemble all these strategies into a simple, practical playbook.",
+     "text": "THE FINAL PLAYBOOK",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "The Team Playbook",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Group projects collapse not because people are bad, but because group structures hide individual effort.",
+     "text": "THE TEAM PLAYBOOK",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. You can solve all eight hidden problems by remembering three core training rules.",
+     "text": "THREE CORE RULES",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rule one, establish radical visibility with named owners, individual quotas, and public boards.",
+     "text": "RADICAL VISIBILITY",
+     "color": "gold",
+     "actor": "front",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rule two, protect momentum by scoring quick early wins and sending regular check in signals.",
+     "text": "PROTECT MOMENTUM",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rule three, cut coordination drag by running parallel tracks and pairing up.",
+     "text": "CUT THE DRAG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What is a simple seven day challenge we can test on our very next group project?",
+     "text": "SEVEN DAY CHALLENGE",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Starting this week, ask every team member to claim one specific deliverable by Friday.",
+     "text": "CLAIM DELIVERABLES",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "When every rep has a clear owner, nobody gets stuck benching the entire load alone.",
+     "text": "SHARE THE BENCH",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Subscribe to Tiny Leg Theory for more honest, practical tools to understand everyday psychology.",
+     "text": "SUBSCRIBE FOR MORE",
+     "color": "ink",
+     "actor": "celebrate"
+    }
+   ]
+  }
+ ]
+}

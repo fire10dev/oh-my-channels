@@ -1,0 +1,943 @@
+{
+ "id": "L34vi",
+ "lang": "vi",
+ "title": "Vì sao bạn cứ chần chừ đến khi người khác chọn hộ?",
+ "description": "Bạn có hay để bạn bè chọn quán ăn, đồng nghiệp chọn cà phê, hay nhường hết kế hoạch cuối tuần cho người khác? Khám phá tám cái bẫy tâm lý khiến bạn trì hoãn việc lựa chọn và cách lấy lại quyền tự quyết mỗi ngày.",
+ "chapters": [
+  {
+   "title": "Nhường Người Khác Chọn",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn nói ăn gì cũng được, nhưng lại thầm mong họ chọn đúng quán ruột.",
+     "text": "NHƯỜNG NGƯỜI KHÁC CHỌN",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bạn tỏ ra dễ tính, nhưng thực ra chỉ đang trốn áp lực phải tự chọn.",
+     "text": "CHỈ LÀ DỄ TÍNH?",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn rồi Pen. Trốn gánh tạ thôi, nay ta bẻ khóa tám cái bẫy nhé.",
+     "text": "TÁM CÁI BẪY TÂM LÝ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rồi bạn chọn trúng quán dở, thế là mình ngồi ấm ức cả buổi tối.",
+     "text": "ẤM ỨC TRONG LÒNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chần chừ là cái khiên chắn, đùn hết rủi ro cho người khác gánh hộ.",
+     "text": "ĐÙN ĐẨY RỦI RO",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình tưởng nhường thế cho êm chuyện, ai ngờ là tự nộp quyền chọn cho người ta.",
+     "text": "MẤT QUYỀN TỰ CHỦ",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào hiệp thôi. Cùng vạch trần thói quen né tránh đang giấu điều gì nào.",
+     "text": "BẮT ĐẦU VÀO HIỆP",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Né Tránh Quyết Định",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tin nhắn Zalo công việc nằm im ba ngày chỉ vì mình chưa biết trả lời sao.",
+     "text": "1. NÉ TRÁNH QUYẾT ĐỊNH",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nội dung chẳng khó, nhưng cứ mở lên là thấy một cảm giác nặng nề.",
+     "text": "CẢM GIÁC NẶNG NỀ",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là né tránh quyết định. Não coi việc chọn lựa như bước lên võ đài.",
+     "text": "BÁO ĐỘNG NGUY HIỂM",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sợ chọn sai khiến bạn hối hận, nên tâm trí vội bật báo động né tránh.",
+     "text": "NỖI SỢ HỐI HẬN",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là việc chần chừ thực chất đang bảo vệ mình khỏi sai lầm ư?",
+     "text": "TRỐN TRÁNH SAI LẦM?",
+     "color": "gold",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Hoãn lại thấy nhẹ nhõm ngay, nhưng nó âm thầm hút cạn pin não bạn.",
+     "text": "CẠN KIỆT NĂNG LƯỢNG",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Càng để lâu càng nặng đầu. Làm sao đập vỡ bức tường tâm lý này đây?",
+     "text": "CÀNG ĐỂ CÀNG NẶNG",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Áp dụng quy tắc ba phút. Gõ một câu ngắn rồi gửi ngay, cấm suy tính.",
+     "text": "QUY TẮC BA PHÚT",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hạ thấp tiêu chuẩn xuống. Một câu vụng về vẫn đủ giúp máy khởi động.",
+     "text": "HẠ THẤP TIÊU CHUẨN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đẩy xong một hiệp nhẹ còn hơn nằm mơ mức tạ khủng. Cứ gửi đi cho nhẹ đầu.",
+     "text": "XONG HƠN HOÀN HẢO",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự làm thì dễ, nhưng khi ở trong một nhóm đông người thì sao?",
+     "text": "CÒN KHI Ở TRONG NHÓM?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữa đám đông, não bạn sẽ tìm cớ buông tạ để trốn còn khéo hơn.",
+     "text": "BUÔNG TẠ CHẠY TRỐN",
+     "color": "gold",
+     "actor": "34",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "2. Phân Tán Trách Nhiệm",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ khi nào nhóm bạn bàn kèo đi chơi, hỏi ý kiến là ai cũng im bặt.",
+     "text": "2. TRÁCH NHIỆM CHUNG",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình nghĩ sẵn ba quán ngon, nhưng vẫn im lặng chờ người khác lên tiếng.",
+     "text": "KHÔNG DÁM LÊN TIẾNG",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phân tán trách nhiệm kinh điển. Mười người cầm lái thì chẳng ai đạp ga.",
+     "text": "CHẲNG AI ĐẠP GA",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn quán dở thì bị chê. Còn chẳng ai chọn thì chẳng ai bị bắt lỗi.",
+     "text": "SỢ BỊ TRÁCH MẮC",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Im lặng để giữ an toàn, nhưng lại khiến cả đám đói meo chờ đợi ư?",
+     "text": "CẢ NHÓM CHỜ ĐỢI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chứ sao. Ai cũng đợi người khác đứng mũi chịu sào, bụng thì đói rã rời.",
+     "text": "BỤNG ĐÓI RÃ RỜI",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để gợi ý mà không sợ gánh hết trách nhiệm trên vai?",
+     "text": "CÁCH NÀO DẪN DẮT?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng hỏi câu mở. Thu hẹp còn hai lựa chọn kèm hạn chót rõ ràng.",
+     "text": "CHỈ ĐƯA HAI LỰA CHỌN",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bảo cả nhóm chọn lẩu hay đồ nướng trước bảy giờ, thế là xong ngay.",
+     "text": "CHỐT GIỜ RÕ RÀNG",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không hề áp đặt. Đưa sẵn hai lựa chọn là bạn đang cứu cả nhóm.",
+     "text": "DỌN ĐƯỜNG CHO NHÓM",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng nếu chẳng ai phản hồi, rồi thói quen cũ lại chiếm quyền thì sao?",
+     "text": "THÓI QUEN CŨ LẤN ÁT?",
+     "color": "ink",
+     "actor": "front",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lúc đó bạn sẽ trôi tuột vào lối mòn có sẵn mà não chẳng thèm nghĩ.",
+     "text": "TRÔI VÀO LỐI MÒN",
+     "color": "gold",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "3. Hiệu Ứng Mặc Định",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần đồng nghiệp rủ đặt nước, mình toàn bảo lấy giống mọi người là được.",
+     "text": "3. HIỆU ỨNG MẶC ĐỊNH",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình thích trà đào ít đường, nhưng gọi theo họ đỡ phải suy nghĩ hơn.",
+     "text": "GỌI THEO CHO TIỆN",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng mặc định. Não luôn xuôi theo con đường đỡ tốn sức nhất.",
+     "text": "CHỌN ĐƯỜNG ĐỠ TỐN SỨC",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Từ cài đặt điện thoại tới ly nước, ta cứ ngỡ cái có sẵn là chuẩn.",
+     "text": "LỰA CHỌN CÓ SẴN",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao mình lại lấy thói quen của người khác làm khuôn mẫu cho mình nhỉ?",
+     "text": "BẮT CHƯỚC NGƯỜI KHÁC?",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì não lười biếng nghĩ rằng người chọn trước đã biết hết mọi thứ rồi.",
+     "text": "NGHĨ HỌ BIẾT HƠN",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao sửa phản xạ lười này để không bám đuôi người khác nữa?",
+     "text": "THAY ĐỔI PHẢN XẠ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy đặt sẵn món mặc định cho mình. Chốt cứng một lựa chọn từ trước.",
+     "text": "CHỐT SẴN TỪ TRƯỚC",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là chốt sẵn món trưa nay, từ trước khi người ta rủ rê ư?",
+     "text": "CHỌN TRƯỚC KHI RỦ?",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Chuẩn bị sẵn câu trả lời sẽ dẹp bỏ ngập ngừng tức thì.",
+     "text": "PHẢN XẠ CÓ SẴN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng nếu mình bám lấy thói quen cũ đến mức ngại thử cái mới thì sao?",
+     "text": "SỢ KHÔNG DÁM THỬ MỚI?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là bạn dính thiên kiến hiện trạng, thấy đứng yên an toàn hơn đổi mới.",
+     "text": "ĐỨNG YÊN CHO AN TOÀN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "4. Thiên Kiến Hiện Trạng",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Suốt hai năm, trưa nào mình cũng ăn đúng quán cơm tấm gần chỗ làm.",
+     "text": "4. BÁM CHẶT HIỆN TRẠNG",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mấy quán mới mở ngay đối diện, nhưng mình chưa từng bước sang ăn thử.",
+     "text": "KHÔNG DÁM QUA ĐƯỜNG",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là thiên kiến hiện trạng. Não coi đứng yên là an toàn, còn thay đổi là tốn kém.",
+     "text": "ĐỔI MỚI QUÁ TỐN CÔNG",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quán mới có thể dở, nên bản năng ghì chặt lấy sự an toàn nhạt nhẽo.",
+     "text": "AN TOÀN NHƯNG NHẠT",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thà ăn dĩa cơm quen thuộc còn hơn mạo hiểm để tìm món ngon hơn ư?",
+     "text": "SỢ MẠO HIỂM ĐỔI MÓN?",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý sợ một bữa ăn dở luôn lớn hơn niềm vui tìm ra quán ngon.",
+     "text": "SỢ MẤT HƠN THÍCH ĐƯỢC",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao thoát khỏi lối mòn êm ái này trước khi phí hoài thêm một năm?",
+     "text": "THOÁT KHỎI LỐI MÒN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử tính cái giá của việc đứng yên xem: bạn đánh mất sự hào hứng và trải nghiệm.",
+     "text": "CHI PHÍ CỦA ĐỨNG YÊN",
+     "color": "green",
+     "actor": "front",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử nghiệm một buổi thôi, không cần đổi hẳn. Trưa thứ năm thử quán mới đi.",
+     "text": "THỬ NGHIỆM MỘT BỮA",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gói gọn trong một lần thử sẽ khiến quyết định nhẹ nhàng như khởi động.",
+     "text": "KHỞI ĐỘNG NHẸ NHÀNG",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nếu đứng trước hai quán đều thích ngang nhau rồi bị khựng lại thì sao?",
+     "text": "PHÂN VÂN GIỮA CẢ HAI?",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là lưỡng lự nội tâm, hai món ngon kéo chân khiến máy đứng im.",
+     "text": "LƯỠNG LỰ NỘI TÂM",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "5. Lưỡng Lự Nội Tâm",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tối qua mình lướt mạng bốn mươi phút so hai cái ba lô rồi tắt máy.",
+     "text": "5. LƯỠNG LỰ NỘI TÂM",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một cái nhiều ngăn tiện lợi, cái kia lại đẹp hơn, thế là mình đứng hình.",
+     "text": "MẮC KẸT GIỮA HAI BÊN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là lưỡng lự nội tâm. Hai mong muốn giằng co kéo bạn về hai hướng.",
+     "text": "HAI Ý MUỐN GIẰNG CO",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi hai bên ngang cơ nhau, não bạn dễ bị quá tải rồi đứng hình.",
+     "text": "CHẾT MÁY TẠI CHỖ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao có hai lựa chọn tốt lại mệt mỏi hơn là chỉ có một nhỉ?",
+     "text": "CÀNG NHIỀU CÀNG MỆT?",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì chọn cái này nghĩa là phải tiếc cái kia. Bỏ lỡ điểm tốt làm bạn xót.",
+     "text": "TIẾC ĐIỀU BỎ LỠ",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao thoát cảnh giằng co nửa nọ nửa kia mà không phí cả buổi tối?",
+     "text": "THOÁT THẾ GIẰNG CO",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tung đồng xu lên. Giây phút nó bay trên không, bạn sẽ biết mình muốn gì.",
+     "text": "TUNG ĐỒNG XU LÊN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu thấy thất vọng khi đồng xu rơi xuống, bạn sẽ rõ bụng mình nghiêng về đâu.",
+     "text": "LẮNG NGHE TRỰC GIÁC",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn một cái rồi chốt đơn. Một hiệp tạ chưa đẹp vẫn ăn đứt việc ngồi ngắm.",
+     "text": "CHỐT ĐƠN VÀ HÀNH ĐỘNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng mình vẫn sợ tự tay chọn sai thì tệ hơn là không làm gì.",
+     "text": "SỢ TỰ TAY CHỌN SAI?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ảo tưởng đó dẫn thẳng bạn vào cái bẫy mang tên thiên kiến bỏ qua.",
+     "text": "THIÊN KIẾN BỎ QUA",
+     "color": "gold",
+     "actor": "front",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "6. Thiên Kiến Bỏ Qua",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nếu mình rủ cả nhóm đi xem một bộ phim dở tệ, mình thấy cực kỳ xấu hổ.",
+     "text": "6. THIÊN KIẾN BỎ QUA",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng nếu người khác chọn đúng phim đó, mình lại chẳng thấy áy náy chút nào.",
+     "text": "KHÔNG CHÚT ÁY NÁY",
+     "color": "red",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là thiên kiến bỏ qua. Ta tự trách khi hành động sai hơn là khi ngồi im.",
+     "text": "TRÁCH HÀNH ĐỘNG SAI",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não ngụy biện rằng không nhấc tạ thì chẳng lo tạ đè trúng chân.",
+     "text": "KHÔNG NÂNG KHÔNG RƠI",
+     "color": "red",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên mình lùi lại im lặng để tự lừa rằng tay mình hoàn toàn sạch sẽ ư?",
+     "text": "TỰ CHO MÌNH VÔ TỘI?",
+     "color": "gold",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn Pen. Nhưng ngồi mãi ghế dự bị thì chẳng bao giờ tự ghi điểm được.",
+     "text": "MÃI NGỒI GHẾ DỰ BỊ",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao ép mình lên tiếng khi ngồi im vừa thoải mái vừa an toàn?",
+     "text": "DÁM LÊN TIẾNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng quy tắc năm giây. Nếu không đưa ra ý kiến khác, hãy ủng hộ họ ngay.",
+     "text": "QUY TẮC NĂM GIÂY",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hoặc lên tiếng trong năm giây, hoặc vui vẻ theo kèo, không thở dài bàn lùi.",
+     "text": "ỦNG HỘ HẾT MÌNH",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chủ động đi theo cũng là một lựa chọn. Dám chốt giúp bạn vững vàng hơn.",
+     "text": "CAM KẾT CHỦ ĐỘNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù muốn tự chọn, mình vẫn hay đùn đẩy mọi việc sang ngày mai.",
+     "text": "ĐÙN ĐẨY SANG MAI",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì bạn cứ ngây thơ nghĩ ngày mai mình sẽ thừa thời gian và dũng khí.",
+     "text": "ẢO TƯỞNG VỀ NGÀY MAI",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "moon_stars"
+    }
+   ]
+  },
+  {
+   "title": "7. Trì Hoãn Lựa Chọn",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ cần mua đôi giày mới là mình mở cả chục trang để đọc đánh giá.",
+     "text": "7. TRÌ HOÃN CHỌN LỰA",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hai tiếng sau hoa cả mắt, mình tắt máy rồi tự nhủ để cuối tuần tính.",
+     "text": "ĐỂ CUỐI TUẦN TÍNH",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là trì hoãn đội lốt nghiên cứu kỹ. Bạn đang bận rộn làm chuyện vô bổ.",
+     "text": "BẬN RỘN GIẢ TẠO",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Như đứng nhìn thanh tạ rồi tưởng đọc nhãn tạ là đã đẩy xong một hiệp.",
+     "text": "ĐỨNG NHÌN THANH TẠ",
+     "color": "red",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra mấy tiếng cày đánh giá chỉ là thói lười biếng khoác áo chỉn chu ư?",
+     "text": "NGỤY TRANG CHỈN CHU?",
+     "color": "gold",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quá mức cần thiết rồi. So sánh thêm chẳng giúp chọn chuẩn hơn, chỉ tổ trễ hiệp.",
+     "text": "SO SÁNH QUÁ ĐÀ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao thoát khỏi cái hố so sánh vô tận này để không phí cả tối?",
+     "text": "THOÁT HỐ SO SÁNH",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giới hạn ba nguồn thôi. Xem đúng ba bài đánh giá uy tín, so giá rồi bấm mua.",
+     "text": "GIỚI HẠN BA NGUỒN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mười lăm phút thôi. Mua đôi vừa vặn đi liền còn hơn ngắm giày xịn trên mạng.",
+     "text": "TỐI ĐA MƯỜI LĂM PHÚT",
+     "color": "green",
+     "actor": "jogging",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khóa mục tiêu, bấm chốt rồi làm việc khác. Hành động mới tạo ra sự rõ ràng.",
+     "text": "HÀNH ĐỘNG TẠO RÕ RÀNG",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Né tránh mấy việc cỏn con này có làm mình mất kiểm soát việc lớn không?",
+     "text": "ẢNH HƯỞNG VIỆC LỚN?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có chứ. Đùn đẩy việc chọn lựa lâu ngày sẽ bào mòn quyền tự chủ của bạn.",
+     "text": "BÀO MÒN QUYỀN TỰ CHỦ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "8. Quyền Tự Quyết",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại lịch, cả tháng trời cuối tuần của mình toàn do người khác xếp hộ.",
+     "text": "8. QUYỀN TỰ QUYẾT",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ăn gì, đi đâu toàn người ta quyết, còn mình chỉ lẽo đẽo đi theo như cái bóng.",
+     "text": "LẼO ĐẼO ĐI THEO",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là mất quyền tự chủ. Không tự chọn thì não sẽ quen thói ngồi xem.",
+     "text": "MẤT QUYỀN TỰ CHỦ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ để bạn bè chọn hộ, não bạn sẽ quên mất mình cũng có quyền cầm lái.",
+     "text": "QUÊN MẤT CÁCH CẦM LÁI",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình như khán giả ngồi nhìn người khác lái chính cuộc đời mình vậy.",
+     "text": "NGỒI XEM ĐỜI MÌNH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì bạn đổi vô lăng lấy sự an phận tạm thời. Nhưng bạn vẫn giành lại được.",
+     "text": "GIÀNH LẠI VÔ LĂNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tập làm chủ lại mà không bị ngợp ngay từ ngày đầu?",
+     "text": "TẬP LẠI TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sáng ra tự chốt ba việc: mặc áo gì, ghé quán nào và đi đường nào, cấm hỏi ai.",
+     "text": "BA QUYẾT ĐỊNH NHỎ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng hỏi ý kiến ai, cũng đừng lướt mạng. Tự chọn và chịu trách nhiệm.",
+     "text": "TỰ CHỌN TỰ CHỊU",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tích tiểu thành đại, từng hiệp thắng nhỏ buổi sáng sẽ tạo đà cho những việc lớn.",
+     "text": "TÍCH TIỂU THÀNH ĐẠI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra giành lại quyền tự quyết không bắt đầu từ chuyện lớn, mà từ buổi sáng.",
+     "text": "BẮT ĐẦU TỪ BUỔI SÁNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn mỗi ngày. Giờ cùng gom tám cái bẫy lại thành giáo án tập luyện nào.",
+     "text": "GIÁO ÁN TẬP LUYỆN",
+     "color": "green",
+     "actor": "celebrate"
+    }
+   ]
+  },
+  {
+   "title": "Kế Hoạch Bảy Ngày",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại mọi thứ, tám cái bẫy dường như xoay quanh ba nhóm nguyên nhân chính.",
+     "text": "KẾ HOẠCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một là trốn quyết định để che cái tôi khỏi bị đổ lỗi hay hối tiếc.",
+     "text": "TRỐN TRÁNH BỊ ĐỔ LỖI",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai là trôi theo mặc định vì đứng yên một chỗ thì chẳng tốn chút sức nào.",
+     "text": "LƯỜI BIẾNG ĐỨNG YÊN",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba là săn lùng sự hoàn hảo ảo tưởng, quên mất hành động mới làm sáng tỏ.",
+     "text": "HÀNH ĐỘNG TẠO RÕ RÀNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy giáo án bảy ngày để rèn lại cơ bắp tự quyết này là gì?",
+     "text": "GIÁO ÁN BẢY NGÀY?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày đây: với việc nhỏ, hãy dứt điểm trong vòng hai phút.",
+     "text": "CHỐT TRONG HAI PHÚT",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự gọi món đầu tiên, tự chọn phim tối nay và vui vẻ đón nhận, cấm kiếm cớ.",
+     "text": "DÁM LÀM DÁM CHỊU",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không chần chừ hay nấp sau ai nữa. Chọn dở thì mình tự nhận trách nhiệm.",
+     "text": "KHÔNG TRỐN SAU AI NỮA",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đã đến lúc chấp nhận sự chưa hoàn hảo để tự cầm lái đời mình.",
+     "text": "TỰ CẦM LÁI ĐỜI MÌNH",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng đợi ai cho phép. Hoàn thành ngay hiệp đầu tiên hôm nay và đăng ký kênh nhé.",
+     "text": "HOÀN THÀNH HIỆP ĐẦU",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

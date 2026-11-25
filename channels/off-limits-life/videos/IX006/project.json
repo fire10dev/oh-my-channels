@@ -1,0 +1,53 @@
+{
+  "code" : "IX006",
+  "ideas" : [
+
+  ],
+  "logline" : "",
+  "scenes" : [
+    {
+      "id" : "s01",
+      "image" : "storyboard/s01.jpg",
+      "shots" : [
+
+      ],
+      "status" : "todo",
+      "title" : "Mở đầu",
+      "visual" : "",
+      "vo" : "Status: script + TTS + bed done 2026-11-15; render/gate pending. Narration source: `scripts/IX006-biosphere2.txt` → `tools/build_shots.py` → `src/data/ix006.json` (136 lines, 850 words, 5:20). Claim table: MEGABRAIN `ai-video/research/off-limits-life-ix006-biosphere2-2026-11-14.md`.\nPipeline: as IX003 (engine `src/IX2-IX006.tsx`, world `src/worlds/Biosphere2.tsx`, composition `IX006-biosphere2`)."
+    },
+    {
+      "id" : "s02",
+      "image" : "storyboard/s02.jpg",
+      "shots" : [
+
+      ],
+      "status" : "todo",
+      "title" : "Publishing",
+      "visual" : "",
+      "vo" : "- File: `out/upload/IX006-biosphere2.mp4` · Thumbnail: `out/upload/Thumb-IX006.jpg`\n- **Title:** How You Eat, Breathe & Sleep Sealed Inside Biosphere 2 for 2 Years\n- **Altered/synthetic content:** No. AI voice disclosed. Not made for kids.\n- **Tags:** biosphere 2, biosphere 2 experiment, sealed for two years, closed ecosystem, arizona, oxygen, 1991, how people lived, off limits life\n- **Music:** \"Didn't Stay Behind\" — Patrick Patrikios (YouTube Audio Library).\n\n**Description:**\n```\nIn 1991, eight people walked into a glass box in the Arizona desert, and the door was sealed behind them for two years. No food from outside, no water delivered, not even fresh air. Here's how they ate, breathed and slept inside Biosphere 2.\n\nFigures come from 1991–1994 records; anything about today is as of 2026.\n\nChapters\n0:00 Eight people, one glass box\n0:22 The door closes\n1:15 The first crack\n1:47 Problem 1: Food\n2:46 Problem 2: The bugs win\n3:05 Problem 3: Air\n3:49 Where did the air go?\n4:23 Problem 4: Each other\n4:46 The door opens\n\nSources (accessed 2026-11-14)\n- Biosphere 2 (University of Arizona), What is Biosphere 2: https://biosphere2.org/visit/what-is-biosphere-2\n- History.com, Biosphere 2 (updated Jun 2025): https://www.history.com/articles/biosphere-2-spaceship-earth\n- Mental Floss (Aug 2016): https://www.mentalfloss.com/article/81553/how-living-inside-biosphere-2-changed-these-scientists-lives\n- Mark Nelson, University of Arizona Press (Jan 2018): https://uapress.arizona.edu/2018/01/what-have-i-gotten-myself-into-insights-from-biosphere-2\n- Walford et al., PNAS 1992: https://pmc.ncbi.nlm.nih.gov/articles/PMC50586\n- Walford et al., J Gerontol A 2002 (PMID 12023257)\n- Severinghaus et al., Eos 75(3), 1994, doi:10.1029/94EO00285\n\nIllustrations are code-animated; the narration voice is AI-generated. Spotted an error? Tell us in the comments and we'll pin the correction.\n\nMusic: \"Didn't Stay Behind\" by Patrick Patrikios (YouTube Audio Library).\n\n#biosphere2 #science #offlimitslife\n```\n- **Pinned comment (draft):** \"Could you have lasted two years in there? Where should we go next?\""
+    }
+  ],
+  "thumbnails" : [
+    {
+      "chosen" : true,
+      "id" : "th01",
+      "path" : "/Users/nino/Projects/FIRE10.DEV/REPO/oh-my-channels/channels/off-limits-life/out/upload/Thumb-IX006.jpg",
+      "text" : ""
+    }
+  ],
+  "titles" : [
+    {
+      "chosen" : true,
+      "id" : "t02",
+      "text" : "How You Eat, Breathe & Sleep Sealed Inside Biosphere 2 for 2 Years"
+    },
+    {
+      "chosen" : false,
+      "id" : "t01",
+      "text" : "IX006 — How You Eat, Breathe & Sleep Sealed Inside Biosphere 2 for 2 Years"
+    }
+  ],
+  "version" : 1,
+  "wpm" : 150
+}

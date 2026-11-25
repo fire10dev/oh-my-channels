@@ -1,0 +1,311 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 28.93,
+"shots": [
+{
+"img": "p01/img/S24.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 5.561,
+"a": [
+760,
+576,
+648
+],
+"b": [
+760,
+560,
+460
+],
+"shake": 4,
+"flash": 1
+},
+{
+"img": "p01/img/S24.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 5.561,
+"t1": 9.047,
+"a": [
+760,
+560,
+460
+],
+"b": [
+780,
+520,
+340
+],
+"shake": 5
+},
+{
+"img": "p01/img/S18.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 9.047,
+"t1": 12.496,
+"a": [
+800,
+576,
+648
+],
+"b": [
+700,
+560,
+460
+],
+"dark": 0.2
+},
+{
+"img": "p01/img/S25.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 12.496,
+"t1": 14.546,
+"a": [
+1690,
+300,
+460
+],
+"b": [
+1690,
+280,
+340
+]
+},
+{
+"img": "p01/img/S25.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 14.546,
+"t1": 16.759,
+"a": [
+1600,
+576,
+648
+],
+"b": [
+1690,
+260,
+460
+]
+},
+{
+"img": "p01/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.759,
+"t1": 21.706,
+"a": [
+900,
+576,
+648
+],
+"b": [
+820,
+360,
+460
+],
+"shake": 8
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 21.706,
+"t1": 25.151,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 10,
+"dark": 0.45
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 25.151,
+"t1": 28.43,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p01/img/cut_S11.png",
+"size": 2048,
+"t0": 21.706,
+"t1": 25.151,
+"from": [
+-1900,
+150,
+1.0
+],
+"to": [
+-750,
+650,
+1.0
+],
+"bob": false
+},
+{
+"img": "p01/img/cut_B02.png",
+"size": 1344,
+"t0": 25.151,
+"t1": 28.43,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 25.151,
+"t1": 28.43,
+"text": "TAKE A GUESS ↓",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.4
+},
+{
+"t": 16.759,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 21.706,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.6
+},
+{
+"t": 25.151,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 27.384,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 5.011,
+"text": "My son tucked me in for the first time in three months. And it was the worst thing he could've done."
+},
+{
+"t": 5.561,
+"dur": 6.686,
+"text": "He didn't scream. He didn't dare lift the blanket. His hands shook as he pulled it over me. Up to my neck. All the way."
+},
+{
+"t": 12.496,
+"dur": 1.8,
+"text": "Outside the window, I saw it all."
+},
+{
+"t": 14.546,
+"dur": 1.214,
+"text": "And I couldn't get back."
+},
+{
+"t": 16.759,
+"dur": 4.696,
+"text": "I nearly dropped my water pipe. Two hours till the rooster crowed. Where'd she hide?"
+},
+{
+"t": 21.706,
+"dur": 2.946,
+"text": "Where's dark and warm, and just the right size for a head?"
+},
+{
+"t": 25.151,
+"dur": 2.278,
+"text": "Guess below. I'll open the lid next time."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/en/vo/aa822ab539.wav"
+},
+{
+"t": 5.561,
+"src": "loc/en/vo/3741ef817f.wav"
+},
+{
+"t": 12.496,
+"src": "loc/en/vo/39cb0556ae.wav"
+},
+{
+"t": 14.546,
+"src": "loc/en/vo/441ef3184a.wav"
+},
+{
+"t": 16.759,
+"src": "loc/en/vo/3f161c6854.wav"
+},
+{
+"t": 21.706,
+"src": "loc/en/vo/df17ce0da2.wav"
+},
+{
+"t": 25.151,
+"src": "loc/en/vo/2f635a1469.wav"
+}
+],
+"mutes": [
+[
+5.361,
+12.496
+],
+[
+12.296,
+14.546
+],
+[
+14.346,
+16.759
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

@@ -1,0 +1,694 @@
+[
+  {
+    "id": "s518",
+    "mascot": "buff",
+    "title": "Why Teams Slack Off",
+    "mechanism": "Social Loafing",
+    "lines": [
+      {
+        "vo": "Four people joined the project. Two vanished immediately.",
+        "text": "WHERE DID THEY GO?",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Welcome to social loafing. Crowds make individual effort plunge.",
+        "text": "SOCIAL LOAFING",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "Pushing a car together? Your brain cuts your pushing power in half.",
+        "text": "HALF THE EFFORT",
+        "actor": "shocked"
+      },
+      {
+        "vo": "You assume the team carries the weight without your sweat.",
+        "text": "HIDDEN SLACKING",
+        "actor": "sofa_scroll"
+      },
+      {
+        "vo": "Split the heavy bar into solo sets before any group merge.",
+        "text": "SPLIT THE WORK",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Solo drafts first. No freeloading on my watch.",
+        "text": "SOLO FIRST",
+        "color": "gold",
+        "actor": "point_viewer",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s518vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Lap nhom bon nguoi, hai nguoi mat tich",
+    "title_vi": "Lập nhóm bốn người, hai người mất tích",
+    "mechanism": "Social Loafing",
+    "lines": [
+      {
+        "vo": "Nhóm bốn người làm bài, vừa lập nhóm xong là hai đứa bốc hơi.",
+        "text": "HAI NGUOI MAT TICH",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Hiện tượng ỷ lại nhóm. Càng đông người, mỗi người càng bớt bỏ sức.",
+        "text": "Y LAI TAP THE",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "brain"
+      },
+      {
+        "vo": "Khi đẩy xe chung, bạn vô thức dùng ít sức hơn lúc đẩy một mình.",
+        "text": "BOT RA SUC",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Não bạn nghĩ cả nhóm vẫn ổn mà không cần mình đổ mồ hôi.",
+        "text": "AO TUONG AN TOAN",
+        "actor": "sofa_scroll"
+      },
+      {
+        "vo": "Chia nhỏ nhiệm vụ cho từng người trước khi họp ghép bài.",
+        "text": "CHIA NHO VIEC",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Giao hạn từng phần riêng. Tự gánh tạ của mình đi.",
+        "text": "TU GANH PHAN MINH",
+        "color": "gold",
+        "actor": "point_viewer",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s519",
+    "mascot": "pen",
+    "title": "Why Nobody Answers Group Emails",
+    "mechanism": "Diffused Blame",
+    "lines": [
+      {
+        "vo": "An urgent team email sat unread in our shared inbox for days.",
+        "text": "NOBODY REPLIED",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Everyone saw it. Everyone assumed someone else was handling the task.",
+        "text": "ASSUMED HANDLED",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Responsibility diffuses in a group until nobody feels personally accountable.",
+        "text": "DIFFUSED BLAME",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "When blame belongs to everyone, doing nothing feels completely safe.",
+        "text": "SAFE IN A CROWD",
+        "actor": "bored_yawn"
+      },
+      {
+        "vo": "Never drop an urgent request into a crowded room.",
+        "text": "NAME ONE PERSON",
+        "color": "green",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Ask one specific person directly for their commitment before leaving.",
+        "text": "DIRECT REQUEST",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Shared ownership often quietly means nobody owns it at all.",
+        "text": "SHARED IS NOBODY",
+        "color": "gold",
+        "actor": "think"
+      }
+    ]
+  },
+  {
+    "id": "s519vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tin nhan chung ca nhom khong ai tra loi",
+    "title_vi": "Tin nhắn chung cả nhóm không ai trả lời",
+    "mechanism": "Diffused Blame",
+    "lines": [
+      {
+        "vo": "Sếp nhắn tin khẩn vào nhóm chat, cả năm người đã xem nhưng im bặt.",
+        "text": "DA XEM NHUNG IM",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Bạn nghĩ người khác sẽ nhận, còn người khác nghĩ y hệt như bạn.",
+        "text": "CHO NGUOI KHAC",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Hiện tượng phân tán trách nhiệm. Việc của chung biến thành việc của ai?",
+        "text": "TRACH NHIEM CHUNG",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Trong đám đông, im lặng bỗng trở thành lựa chọn an toàn nhất.",
+        "text": "AN TOAN TRONG NHOM",
+        "actor": "bored_yawn"
+      },
+      {
+        "vo": "Đừng ném một nhiệm vụ lơ lửng vào nhóm chung.",
+        "text": "DUNG NEM VAO NHOM",
+        "color": "green",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Nhắn đích danh một người và thống nhất hạn chót rõ ràng.",
+        "text": "GOI DICH DANH",
+        "color": "green",
+        "actor": "writing",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Khi ai cũng có phần trách nhiệm, thường chẳng ai thật sự gánh.",
+        "text": "VIEC KHONG CUA AI",
+        "color": "gold",
+        "actor": "think"
+      }
+    ]
+  },
+  {
+    "id": "s520",
+    "mascot": "buff",
+    "title": "Why You Hate Carrying Freeloaders",
+    "mechanism": "The Sucker Effect",
+    "lines": [
+      {
+        "vo": "You pulled an all-nighter while your project partner went out partying.",
+        "text": "WORKING ALONE",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Now you refuse to work. That bitter sting is the sucker effect.",
+        "text": "THE SUCKER EFFECT",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Nobody wants to bench press for two while a freeloader naps.",
+        "text": "NO FREE RIDES",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Put every single deliverable on a public project board right away.",
+        "text": "PUBLIC BOARD",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Make missing work visible, or drop the barbell together.",
+        "text": "MAKE IT VISIBLE",
+        "color": "gold",
+        "actor": "point_viewer",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s520vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Thuc trang dem ganh bai cho ban di choi",
+    "title_vi": "Thức trắng đêm gánh bài cho bạn đi chơi",
+    "mechanism": "The Sucker Effect",
+    "lines": [
+      {
+        "vo": "Bạn thức trắng đêm làm slide, còn bạn cùng nhóm đi trà sữa lướt mạng.",
+        "text": "THUC DEM GANH TEAM",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Bạn bực bội muốn bỏ hết. Tâm lý không muốn làm kẻ ngốc gánh hộ.",
+        "text": "HIEU UNG SO BI LOI",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Thà nhận điểm thấp chứ không đời nào nâng tạ thay cho kẻ lười.",
+        "text": "KHONG NANG TA HO",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Dựng bảng phân việc chung, ai làm xong phần nào thì đánh dấu.",
+        "text": "BANG VIEC CHUNG",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Công khai việc ra ánh sáng là hết đường trốn việc. Làm thật đi.",
+        "text": "MINH BACH RA",
+        "color": "gold",
+        "actor": "point_viewer",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s521",
+    "mascot": "pen",
+    "title": "Why Blended Reports Kill Effort",
+    "mechanism": "Identifiable Work",
+    "lines": [
+      {
+        "vo": "All four names appeared on the report in the exact same font.",
+        "text": "SAME REPORT COVER",
+        "color": "red",
+        "actor": "reading",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Nobody knew who wrote thirty pages and who just fixed one typo.",
+        "text": "THIRTY PAGES VS ONE",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "When work gets blended together, individual effort loses all identifiability.",
+        "text": "LOST IDENTITY",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Anonymity gives your subconscious permission to take a quiet mental nap.",
+        "text": "ANONYMOUS NAP",
+        "actor": "bored_yawn"
+      },
+      {
+        "vo": "If the board tracks only the total, members stop counting their reps.",
+        "text": "COUNTING REPS",
+        "actor": "think"
+      },
+      {
+        "vo": "Put author bylines on every slide and every major section.",
+        "text": "SECTION BYLINES",
+        "color": "green",
+        "actor": "writing",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Clear initials connect personal pride directly to the final outcome.",
+        "text": "PERSONAL PRIDE",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Can your teammates clearly see their own fingerprint on the work?",
+        "text": "YOUR FINGERPRINT?",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s521vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Trang bia bon ten in cung mot co chu",
+    "title_vi": "Trang bìa bốn tên in cùng một cỡ chữ",
+    "mechanism": "Identifiable Work",
+    "lines": [
+      {
+        "vo": "Trang bìa tiểu luận in bốn cái tên cùng một cỡ chữ ngay ngắn.",
+        "text": "BIA BON CAI TEN",
+        "color": "red",
+        "actor": "reading",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Thầy cô làm sao biết ai viết ba mươi trang, ai chỉ sửa dấu phẩy?",
+        "text": "AI VIET 30 TRANG?",
+        "color": "red",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Khi gộp chung vào một nồi, công sức cá nhân bỗng trở nên vô hình.",
+        "text": "DONG CONG VO HINH",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Sự ẩn danh vô tình cho phép tâm trí được nghỉ ngơi thoải mái.",
+        "text": "AN DANH DE LUOI",
+        "actor": "bored_yawn"
+      },
+      {
+        "vo": "Không có sự ghi nhận riêng, sự hăng hái rất khó kéo dài.",
+        "text": "THIEU GHI NHAN",
+        "actor": "think"
+      },
+      {
+        "vo": "Ghi tên người phụ trách ở chân từng trang chiếu và từng chương sách.",
+        "text": "GHI TEN MOI TRANG",
+        "color": "green",
+        "actor": "writing",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Tên gắn liền với kết quả sẽ kéo lại lòng tự trọng cá nhân.",
+        "text": "LONG TU TRONG",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Bài làm của nhóm đã có dấu ấn riêng của từng người chưa?",
+        "text": "DAU AN RIENG?",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s522",
+    "mascot": "buff",
+    "title": "Why Big Projects Paralyze Teams",
+    "mechanism": "Collective Efficacy",
+    "lines": [
+      {
+        "vo": "The project scope looked so massive that everyone just froze.",
+        "text": "PROJECT TOO BIG",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Instead of planning, teammates scrolled feeds and skipped every meeting.",
+        "text": "SKIPPING MEETINGS",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "That is zero collective efficacy. Nobody believes the goal is reachable.",
+        "text": "ZERO CONFIDENCE",
+        "actor": "future_tired",
+        "prop": "brain"
+      },
+      {
+        "vo": "If the barbell looks impossible, nobody even laces up their shoes.",
+        "text": "TOO HEAVY TO LIFT",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Chop the monster into three warm-up sets matched to personal strengths.",
+        "text": "CHOP IT DOWN",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Nail one easy win today. Momentum takes care of the rest.",
+        "text": "WIN TODAY",
+        "color": "gold",
+        "actor": "sprint_start",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s522vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "De bai qua kho ca nhom ru nhau luot mang",
+    "title_vi": "Đề bài quá khó cả nhóm rủ nhau lướt mạng",
+    "mechanism": "Collective Efficacy",
+    "lines": [
+      {
+        "vo": "Nhận đề cương dự án quá dài, cả nhóm nhìn nhau bất lực.",
+        "text": "DE QUA NANG",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Thay vì lên dàn ý, mọi người rủ nhau lướt điện thoại rồi trốn họp.",
+        "text": "TRON HOP LUOT MANG",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Niềm tin tập thể chạm đáy. Khi thấy bất khả thi, não tự bỏ cuộc.",
+        "text": "MAT HET NIEM TIN",
+        "actor": "future_tired",
+        "prop": "brain"
+      },
+      {
+        "vo": "Tạ quá nặng thì chẳng ai thèm xỏ giày bước lên sàn tập.",
+        "text": "CHUA TAP DA SO",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Tách mục tiêu làm ba mẩu nhỏ, chia theo đúng thế mạnh từng bạn.",
+        "text": "CHIA THEO THE MANH",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Xử gọn một mốc dễ ngay hôm nay. Lấy đà rồi đẩy tiếp.",
+        "text": "THANG TRAN DAU",
+        "color": "gold",
+        "actor": "sprint_start",
+        "prop": "checkbox_tick"
+      }
+    ]
+  },
+  {
+    "id": "s523",
+    "mascot": "pen",
+    "title": "Why Monthly Deadlines Always Fail",
+    "mechanism": "Accountability Cues",
+    "lines": [
+      {
+        "vo": "Our project committee scheduled only one check-in meeting every month.",
+        "text": "ONE MONTHLY CALL",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Nobody touched a single slide until the night before the call.",
+        "text": "NIGHT BEFORE PANIC",
+        "color": "red",
+        "actor": "panic",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Your workflow lacked accountability cues. Focus quietly drifts toward closer fires.",
+        "text": "NO REMINDERS",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Without steady signals, commitments fade from working memory completely.",
+        "text": "FADING FOCUS",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Set a simple midweek checklist where members check one box.",
+        "text": "MIDWEEK CHECK",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "A gentle visible cue keeps commitments active without anyone nagging.",
+        "text": "SILENT SIGNALS",
+        "color": "green",
+        "actor": "writing",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "People rarely forget the work. They simply forget that others are waiting.",
+        "text": "OTHERS ARE WAITING",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s523vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Moi thang hop mot lan den hen moi cuong",
+    "title_vi": "Mỗi tháng họp một lần đến hẹn mới cuống",
+    "mechanism": "Accountability Cues",
+    "lines": [
+      {
+        "vo": "Nhóm thống nhất mỗi tháng chỉ cần họp tiến độ một lần.",
+        "text": "MOI THANG MOT LAN",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Cả tháng chẳng ai làm gì, đến đêm trước buổi họp mới tá hoả thức trắng.",
+        "text": "SAT GIO MOI LAM",
+        "color": "red",
+        "actor": "panic",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Dự án thiếu tín hiệu nhắc việc. Trách nhiệm dễ dàng bị trôi đi.",
+        "text": "THIEU TIN HIEU NHAC",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Khi không thấy ai hỏi han, sự tập trung sẽ dồn sang việc khác.",
+        "text": "TRI HOAN DE DANG",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Tạo một danh sách giữa tuần, ai xong việc chỉ cần đánh dấu hoàn thành.",
+        "text": "TICH VAO O VUONG",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Nhắc nhở công khai giữ việc trong tầm mắt mà không cần giục giã.",
+        "text": "KHONG CAN GIUC GIA",
+        "color": "green",
+        "actor": "writing",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Đôi khi ta không cố ý trì hoãn, chỉ là thiếu một tín hiệu rõ ràng.",
+        "text": "CAN MOT TIN HIEU",
+        "color": "gold",
+        "actor": "meditating"
+      }
+    ]
+  },
+  {
+    "id": "s524",
+    "mascot": "buff",
+    "title": "Why Waiting on Coworkers Ruins Projects",
+    "mechanism": "Interdependence",
+    "lines": [
+      {
+        "vo": "Waiting days for a coworker's data so you can start your charts?",
+        "text": "STUCK WAITING",
+        "color": "red",
+        "actor": "coffee",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Broken interdependence. When step one stalls, your set never even begins.",
+        "text": "BROKEN RELAY",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Upstream bottlenecks give everyone an excuse to slack off completely guilt-free.",
+        "text": "EXCUSE TO SLACK",
+        "actor": "sofa_scroll"
+      },
+      {
+        "vo": "Decouple the chain. Use dummy data and build your modules in parallel.",
+        "text": "PARALLEL TRACKS",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Stop waiting for the baton. Build your own set right now.",
+        "text": "BUILD YOUR SET",
+        "color": "gold",
+        "actor": "sprint_start",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s524vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Cho so lieu cua ban de lam bieu do",
+    "title_vi": "Chờ số liệu của bạn để làm biểu đồ",
+    "mechanism": "Interdependence",
+    "lines": [
+      {
+        "vo": "Ngồi đợi bạn cùng nhóm gửi số liệu suốt ba ngày để vẽ biểu đồ.",
+        "text": "NGOI DOI SO LIEU",
+        "color": "red",
+        "actor": "coffee",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Tắc nghẽn mắt xích. Người trước trễ hạn, hiệp của bạn không thể bắt đầu.",
+        "text": "NGHEN DAY CHUYEN",
+        "color": "red",
+        "actor": "confused_shrug",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Chờ người khác làm trở thành cái cớ êm ái để tha hồ lướt mạng.",
+        "text": "CO DE TRI HOAN",
+        "actor": "sofa_scroll"
+      },
+      {
+        "vo": "Tách quy trình chạy song song, dùng số liệu tạm để dựng sẵn biểu đồ.",
+        "text": "CHAY SONG SONG",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Đừng ngồi chờ trao gậy tiếp sức. Tự khởi động phần của mình đi.",
+        "text": "TU CHAY TRUOC DI",
+        "color": "gold",
+        "actor": "sprint_start",
+        "prop": "dumbbell"
+      }
+    ]
+  }
+]

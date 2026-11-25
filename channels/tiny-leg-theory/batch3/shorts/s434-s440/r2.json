@@ -1,0 +1,695 @@
+[
+ {
+  "id": "s434",
+  "mascot": "buff",
+  "title": "Why You Steal Sleep From Yourself",
+  "mechanism": "Revenge Bedtime",
+  "lines": [
+   {
+    "vo": "Ten hours for your boss, midnight for yourself. Sure, buddy.",
+    "text": "MIDNIGHT REVENGE",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "That is revenge bedtime. Your brain is staging a desperate strike.",
+    "text": "REVENGE BEDTIME",
+    "color": "red",
+    "actor": "panic",
+    "prop": "brain"
+   },
+   {
+    "vo": "You are stealing sleep reps just to feel like your own boss.",
+    "text": "STEALING SLEEP",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Tomorrow morning pays the bill while tonight burns out.",
+    "text": "HEAVY TOLL",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Claim thirty quiet minutes right after dinner instead. Non-negotiable.",
+    "text": "OWN YOUR TIME",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Bank your recovery early, or let the night bench you tomorrow.",
+    "text": "BANK RECOVERY",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s434vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Thuc dem tra thu",
+  "title_vi": "Thức đêm trả thù",
+  "mechanism": "Revenge Bedtime",
+  "lines": [
+   {
+    "vo": "Cả ngày trả lời Zalo cho sếp, nửa đêm mới được lướt Shopee. Ừ, tin.",
+    "text": "ZALO CHO SEP",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Bạn đang thức khuya trả thù để giành lại chút tự do.",
+    "text": "TRA THU GIO NGU",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Thức thêm hai tiếng chốt đơn để tự thưởng sau một ngày bị dí deadline.",
+    "text": "CHOT DON BU",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Nhưng sáng mai thức dậy, chính bạn là người gánh tạ nặng nhất.",
+    "text": "MAI TRA GIA",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Dành ba mươi phút riêng ngay sau bữa tối. Coi như hiệp nghỉ bắt buộc.",
+    "text": "30 PHUT CHO MINH",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Nạp năng lượng sớm, hoặc mai lại còng lưng kéo cày.",
+    "text": "NAP PHUC HOI",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s435",
+  "mascot": "pen",
+  "title": "Why One Video Turns Into Twenty",
+  "mechanism": "The Present Bias",
+  "lines": [
+   {
+    "vo": "Just one more short clip. Suddenly midnight turns into two.",
+    "text": "ONE MORE CLIP",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Your brain falls for present bias every single time.",
+    "text": "PRESENT BIAS",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Comfort right now feels ten times louder than tired tomorrow.",
+    "text": "NOW BEATS LATER",
+    "actor": "bored_yawn"
+   },
+   {
+    "vo": "Our neural wiring views tomorrow's self like a total stranger.",
+    "text": "FUTURE STRANGER",
+    "actor": "think",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Tonight feels cheap and cozy, but morning you wakes up completely bankrupt.",
+    "text": "BORROWED TIME",
+    "actor": "wallet_worry",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Plug your phone to charge outside the bedroom by ten.",
+    "text": "PHONE OUTSIDE",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "target"
+   },
+   {
+    "vo": "A little upfront friction protects the person you wake up as.",
+    "text": "PROTECT TOMORROW",
+    "color": "gold",
+    "actor": "front",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s435vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Xem not mot clip",
+  "title_vi": "Xem nốt một clip",
+  "mechanism": "The Present Bias",
+  "lines": [
+   {
+    "vo": "Tự nhủ xem nốt video này rồi ngủ, chớp mắt đã một giờ sáng.",
+    "text": "XEM NOT MOT CLIP",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Não chúng ta luôn mắc bẫy thiên kiến hiện tại.",
+    "text": "BAY HIEN TAI",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Niềm vui lướt mạng lúc này luôn át tiếng thở dài sáng mai.",
+    "text": "VUI TRUOC KHO SAU",
+    "actor": "sofa_scroll"
+   },
+   {
+    "vo": "Bạn vô thức đối xử với bản thân sáng mai như một người xa lạ.",
+    "text": "NGUOI XA LA",
+    "actor": "think",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Đêm nay vay niềm vui ngắn, sáng mai trả nợ bằng cơn mệt mỏi.",
+    "text": "TRA GIA SANG MAI",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Cắm sạc điện thoại ngoài phòng ngủ từ mười giờ tối.",
+    "text": "SAC NGOAI PHONG",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "target"
+   },
+   {
+    "vo": "Sáng mai thức dậy, bạn muốn gặp một người tỉnh táo hay rệu rã?",
+    "text": "BAN CHON AI?",
+    "color": "gold",
+    "actor": "front",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s436",
+  "mascot": "buff",
+  "title": "Why Your Brain Wakes Up at Midnight",
+  "mechanism": "Evening Chronotype",
+  "lines": [
+   {
+    "vo": "Friends doze off at ten, but your engine revs at midnight. Sure, buddy.",
+    "text": "NIGHT OWL CLOCK",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "You have an evening chronotype. Your biological clock peaks late.",
+    "text": "EVENING CLOCK",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Fighting your biology with sheer willpower is a losing set every time.",
+    "text": "WILLPOWER FAILS",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Modern work hours do not care about your special clock.",
+    "text": "JOBS DONT CARE",
+    "actor": "think",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Get fifteen minutes of direct morning sunlight right after waking up.",
+    "text": "MORNING SUNLIGHT",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "target"
+   },
+   {
+    "vo": "Anchor your morning daylight reps, or keep fighting bedtime alone.",
+    "text": "DAYLIGHT REPS",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s436vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dong ho sinh hoc muon",
+  "title_vi": "Đồng hồ sinh học muộn",
+  "mechanism": "Evening Chronotype",
+  "lines": [
+   {
+    "vo": "Cả nhóm ngủ sớm, riêng bạn nửa đêm mới tỉnh như sáo. Ừ, tin.",
+    "text": "TINH CANG NUA DEM",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Đồng hồ sinh học của bạn thuộc nhóm cú đêm tự nhiên.",
+    "text": "NHOM CU DEM",
+    "color": "red",
+    "actor": "think",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Gồng mình ép ngủ sớm bằng ý chí chỉ tổ nằm đếm cừu.",
+    "text": "Y CHI BAT LUC",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nhưng giờ chấm công ở công ty đâu có lùi lại vì bạn.",
+    "text": "GIO LAM KHONG DOI",
+    "actor": "facepalm",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Mở toang cửa đón ánh nắng mười lăm phút sau khi thức dậy.",
+    "text": "DON NANG SOM",
+    "color": "green",
+    "actor": "jogging",
+    "prop": "target"
+   },
+   {
+    "vo": "Đón nắng khởi động nhịp sinh học, hoặc đêm nay lại vật lộn.",
+    "text": "RESET DONG HO",
+    "color": "gold",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s437",
+  "mascot": "pen",
+  "title": "Why Willpower Dies at Ten PM",
+  "mechanism": "Depleted Control",
+  "lines": [
+   {
+    "vo": "Promised to sleep early at noon? By eleven, willpower vanishes.",
+    "text": "PROMISE AT NOON",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Your brain simply ran out of braking power for the night.",
+    "text": "DEPLETED CONTROL",
+    "color": "red",
+    "actor": "bored_yawn",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Making choices all day drains your mental brakes.",
+    "text": "NO BRAKES LEFT",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Stopping a streaming video takes more effort than letting it play.",
+    "text": "EFFORT TO STOP",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Turn off autoplay on all your video apps before dinner.",
+    "text": "TURN OFF AUTOPLAY",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "When tired, your brain simply defaults to the easiest screen.",
+    "text": "TIRED DEFAULTS",
+    "color": "gold",
+    "actor": "think",
+    "prop": "hourglass"
+   }
+  ]
+ },
+ {
+  "id": "s437vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Het pin tu chu",
+  "title_vi": "Hết pin tự chủ",
+  "mechanism": "Depleted Control",
+  "lines": [
+   {
+    "vo": "Trưa tự hứa nay ngủ sớm, mười một giờ đêm vẫn nằm lướt video.",
+    "text": "LOI HUA BUOI TRUA",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Sau một ngày giải quyết việc, bình ắc quy tự chủ của bạn đã cạn.",
+    "text": "CAN PIN TU CHU",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Não kiệt sức sẽ tự động chọn việc tốn ít nỗ lực nhất: xem tiếp.",
+    "text": "LUOI PHAN KHANG",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Bạn không cố tình thức, chỉ là không còn sức bấm nút dừng.",
+    "text": "KHONG SUC DUNG LAI",
+    "actor": "worried_heart",
+    "prop": "brain"
+   },
+   {
+    "vo": "Tắt tính năng tự phát video tiếp theo ngay từ chiều nay.",
+    "text": "TAT TU DONG PHAT",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Khi cạn năng lượng, mắt bạn sẽ tự trôi theo màn hình.",
+    "text": "TROI THEO MAN HINH",
+    "color": "gold",
+    "actor": "front",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s438",
+  "mascot": "buff",
+  "title": "Why Working in Bed Keeps You Awake",
+  "mechanism": "Bedroom Triggers",
+  "lines": [
+   {
+    "vo": "Emails, movie streams, and midnight snacks right under your blanket. Sure, buddy.",
+    "text": "OFFICE IN BED",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "You trained your brain that the mattress means work and stimulation.",
+    "text": "WRONG SIGNALS",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Bring work to bed, and your nervous system stays on high alert.",
+    "text": "HIGH ALERT",
+    "actor": "panic",
+    "prop": "brain"
+   },
+   {
+    "vo": "No wonder your mind starts sprinting the moment your head hits the pillow.",
+    "text": "RACING MIND",
+    "actor": "confused_shrug",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Your bed is for recovery only, not a late-night gaming arena.",
+    "text": "RECOVERY ZONE",
+    "actor": "arms_crossed_no",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Banish all work gear and laptops to your desk right now.",
+    "text": "DESK ONLY",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Protect your recovery zone, or keep doing midnight overtime.",
+    "text": "PROTECT THE BED",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s438vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Van phong tren dem",
+  "title_vi": "Văn phòng trên đệm",
+  "mechanism": "Bedroom Triggers",
+  "lines": [
+   {
+    "vo": "Ôm laptop lên giường xem phim rồi tiện tay ăn vặt. Ừ, tin.",
+    "text": "VAN PHONG TREN DEM",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Bạn vừa biến chiếc đệm ngủ thành văn phòng làm thêm thứ hai.",
+    "text": "NHAM TIN HIEU",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "brain"
+   },
+   {
+    "vo": "Làm việc trên giường khiến hệ thần kinh luôn bật chế độ trực chiến.",
+    "text": "CHE DO TRUC CHIEN",
+    "actor": "panic",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bảo sao vừa chạm đầu xuống gối là não bắt đầu nhảy số.",
+    "text": "NAO NHAY SO",
+    "actor": "facepalm",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Giường chỉ để nạp năng lượng, không phải võ đài thức đêm.",
+    "text": "CHI DE NGU",
+    "actor": "arms_crossed_no",
+    "prop": "moon_stars"
+   },
+   {
+    "vo": "Chuyển hết máy tính và tài liệu ra bàn làm việc ngay.",
+    "text": "MAY TINH RA BAN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Tách việc ra khỏi giường, hoặc chấp nhận thao thức cả đêm.",
+    "text": "TACH VIEC KHOI GIUONG",
+    "color": "gold",
+    "actor": "front",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s439",
+  "mascot": "pen",
+  "title": "Why You Get Trapped on the Sofa",
+  "mechanism": "Unnoticed Cues",
+  "lines": [
+   {
+    "vo": "Rinse dinner bowls, drop on the couch, and vanish for two hours.",
+    "text": "SOFA TRANCE",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Familiar locations fire unconscious habit loops before you even notice.",
+    "text": "UNNOTICED CUES",
+    "color": "red",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Your tired brain simply follows the smoothest existing track.",
+    "text": "AUTOPILOT LOOP",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Set a lamp timer to dim amber around nine thirty.",
+    "text": "DIM THE LIGHTS",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "A shift in lighting quietly wakes you from the evening trance.",
+    "text": "BREAK THE TRANCE",
+    "color": "gold",
+    "actor": "front",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s439vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Cai bay sau bua toi",
+  "title_vi": "Cái bẫy sau bữa tối",
+  "mechanism": "Unnoticed Cues",
+  "lines": [
+   {
+    "vo": "Dọn dẹp xong vừa ngồi xuống ghế, mở điện thoại là bay hai tiếng.",
+    "text": "BAY HAI TIENG",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "sofa"
+   },
+   {
+    "vo": "Chiếc ghế quen thuộc chính là mồi kích hoạt thói quen tự động.",
+    "text": "MOI KICH HOAT",
+    "color": "red",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Não chọn trượt theo rãnh cũ thay vì tự nhắc đi ngủ.",
+    "text": "CHAY TU DONG",
+    "actor": "bored_yawn",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Cài đèn phòng khách tự giảm sáng vào chín giờ rưỡi tối.",
+    "text": "HEN GIO DEN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Một nhịp đổi ánh sáng đủ nhắc não bạn rời khỏi màn hình.",
+    "text": "NHAC NHO KIP THOI",
+    "color": "gold",
+    "actor": "front",
+    "prop": "moon_stars"
+   }
+  ]
+ },
+ {
+  "id": "s440",
+  "mascot": "buff",
+  "title": "Why Your Bedroom Fights Your Sleep",
+  "mechanism": "Environment Design",
+  "lines": [
+   {
+    "vo": "Phone charger by your pillow, bright lights until midnight. Sure, buddy.",
+    "text": "BAD SETUP",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Your room layout is literally training you to stay awake.",
+    "text": "WRONG DESIGN",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Human behavior always flows toward zero physical friction.",
+    "text": "ZERO FRICTION",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Zero distance means your exhausted hands scroll on autopilot.",
+    "text": "LAZY SCROLLING",
+    "actor": "sofa_scroll",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Move all chargers to the kitchen. Put an analog clock by bed.",
+    "text": "MOVE CHARGERS",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Add physical resistance tonight, or lose another morning workout.",
+    "text": "ADD RESISTANCE",
+    "color": "gold",
+    "actor": "hand_off",
+    "prop": "alarm_clock"
+   }
+  ]
+ },
+ {
+  "id": "s440vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Cai dat lai phong ngu",
+  "title_vi": "Cài đặt lại phòng ngủ",
+  "mechanism": "Environment Design",
+  "lines": [
+   {
+    "vo": "Dây sạc cắm sát gối, đèn phòng bật sáng choang đến nửa đêm. Ừ, tin.",
+    "text": "PHONG NGU SAI CACH",
+    "color": "red",
+    "actor": "bed_phone_night",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Cách bày phòng của bạn đang biến việc thức khuya thành quá dễ.",
+    "text": "THIET KE SAI",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bản năng con người luôn chọn con đường tốn ít lực cản nhất.",
+    "text": "IT SUC CAN NHAT",
+    "actor": "think"
+   },
+   {
+    "vo": "Điện thoại ngay trong tầm tay thì đầu hàng thuật toán là điều chắc chắn.",
+    "text": "DAU HANG THUAT TOAN",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Vứt dây sạc ra bàn bếp. Đầu giường chỉ để một chiếc đồng hồ kim.",
+    "text": "SAC RA NGOAI",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "target"
+   },
+   {
+    "vo": "Tăng lực cản cho điện thoại, hoặc sáng mai lại ngáp ngắn ngáp dài.",
+    "text": "TANG SUC CAN",
+    "color": "gold",
+    "actor": "hand_off",
+    "prop": "alarm_clock"
+   }
+  ]
+ }
+]

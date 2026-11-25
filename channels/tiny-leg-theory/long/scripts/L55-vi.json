@@ -1,0 +1,923 @@
+{
+ "id": "L55vi",
+ "lang": "vi",
+ "title": "Làm sao biến ghi chép thành kiến thức thực chiến?",
+ "description": "Ghi chép chỉ có ích khi não thực sự lôi ra dùng được lúc cần. Khám phá tám cơ chế nhận thức giúp biến vở ghi thụ động thành phản xạ thực chiến: Generative Learning, Elaboration, Organization Effect, Dual Coding, Depth of Processing, Self-Explanation, Interleaving và Analogical Thinking qua phương pháp hai cột.",
+ "chapters": [
+  {
+   "title": "Cái bẫy chép bài",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cứ cặm cụi chép bài đầy vở, mà bước vào phòng thi là đầu óc mình trống rỗng.",
+     "text": "CÁI BẪY CHÉP BÀI",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tay hoạt động như cỗ máy, còn não thì nằm dài trên ghế tập.",
+     "text": "CHÉP THỤ ĐỘNG",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lúc chép thấy tay mỏi nhừ mà an tâm, sao đến lúc cần lại rơi rụng hết?",
+     "text": "ẢO TƯỞNG TIẾN BỘ",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chép y nguyên không phải nâng tạ. Não chỉ nhớ khi chịu dùng sức.",
+     "text": "PHẢI DÙNG SỨC NÃO",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình có cả chồng vở tóm tắt, nhưng lúc tự kiểm tra lại vô dụng.",
+     "text": "TẬP VỞ VÔ DỤNG",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là tám cơ chế giúp bạn biến chữ chết thành cơ bắp trí não.",
+     "text": "TÁM CƠ CHẾ NÃO BỘ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Tự tạo kiến thức",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngồi nghe giảng mà tay mình cuống cuồng gõ phím để chép trọn từng chữ.",
+     "text": "1. TỰ TẠO KIẾN THỨC",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thành máy sao chép bằng cơm rồi Pen, tay gõ lia lịa mà não ngủ gật.",
+     "text": "MÁY CHÉP BẰNG CƠM",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không gõ lại ngay từng chữ, mình cứ nơm nớp lo về nhà sẽ quên sạch.",
+     "text": "NỖI SỢ BỊ QUÊN",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não nhớ sâu nhất khi tự đúc kết kiến thức, không phải đi chép thuê.",
+     "text": "TỰ TẠO KHÔNG CHÉP",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chép nguyên xi lời giảng lại phản tác dụng với trí nhớ sao?",
+     "text": "CHÉP Y NGUYÊN LÀ THUA",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chép thụ động làm não lười biếng. Tự trả lời mới mọc rễ tư duy.",
+     "text": "MỌC RỄ TƯ DUY",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy trên lớp thay vì cắm mặt nhìn máy chiếu, mình nên làm gì?",
+     "text": "NÊN ĐỔI THẾ NÀO?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghe giảng hai phút, quay mặt khỏi máy chiếu, rồi tự ghi lại bằng lời của Pen.",
+     "text": "VIẾT TỪ TRÍ NHỚ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vừa nghe xong đã phải tự nhớ ra viết, đầu óc căng như dây đàn.",
+     "text": "CĂNG CƠ TRÍ NÃO",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Thấy gắt trong đầu nghĩa là não đang nâng tạ thật sự.",
+     "text": "ÁP LỰC MỚI LÊN CƠ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự tóm tắt bằng giọng văn của mình sẽ dựng khung sườn cho bài học.",
+     "text": "DÙNG LỜI CỦA MÌNH",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự tạo chữ là hiệp khởi động, còn phải neo nó vào thứ Pen đã biết.",
+     "text": "NEO VÀO CÁI ĐÃ BIẾT",
+     "color": "ink",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "2. Liên hệ thực tế",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình tải cả đống tài liệu từ nhóm lớp về, mà nhìn từ nào đầu cũng trơ ra.",
+     "text": "2. LIÊN HỆ THỰC TẾ",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ý rời rạc như thẻ tập mua xong bỏ xó, bốc hơi sau một tuần.",
+     "text": "BỐC HƠI SAU MỘT TUẦN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì sao vừa đọc xong là bao nhiêu kiến thức trôi tuột đi đâu mất?",
+     "text": "KÝ ỨC BỊ ĐÀO THẢI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiếu liên hệ thực tế. Não cần móc nối cái mới vào đời sống của Pen.",
+     "text": "MÓC VÀO ĐỜI THỰC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là nếu một khái niệm đứng trơ trọi, nó sẽ không có chỗ bám?",
+     "text": "KHÔNG CÓ ĐIỂM TỰA",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Não vứt bỏ dữ liệu bơ vơ, nhưng bảo vệ thứ gắn với đời sống.",
+     "text": "GIỮ GÌN MẠNG LƯỚI",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao chèn liên tưởng vào vở mà không phải viết dài dòng lê thê?",
+     "text": "GHI SAO CHO GỌN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cạnh mỗi định nghĩa, viết một câu nối nó với một việc Pen từng trải qua.",
+     "text": "NỐI VÀO TRẢI NGHIỆM",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như học bài lạm phát qua chuyện bát phở đầu ngõ tăng giá mười nghìn?",
+     "text": "BÁT PHỞ TĂNG GIÁ",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Kẹp công thức vào túi tiền, não tự khắc biết đường mà giữ.",
+     "text": "MỎ NEO TÚI TIỀN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giờ bài học có da có thịt, không còn là đống chữ vô hồn nữa.",
+     "text": "BÀI HỌC CÓ HỒN",
+     "color": "green",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Liên kết ý rất tốt, nhưng trang vở bừa bãi sẽ xé nát sự tập trung.",
+     "text": "VỞ BỪA PHÂN TÂM",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "3. Tổ chức cấu trúc",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn trang vở chen chúc chữ từ đầu đến chân trang, mở ra là mình choáng váng.",
+     "text": "3. TỔ CHỨC CẤU TRÚC",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn như hiện trường vụ án chứ vở gì Pen, vừa mở ra đã muốn sập nguồn.",
+     "text": "HIỆN TRƯỜNG VỤ ÁN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách sắp xếp trang giấy thật sự ảnh hưởng lớn đến trí nhớ sao?",
+     "text": "BỐ CỤC QUAN TRỌNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não ghi nhận và tìm lại dữ liệu nhanh hơn khi thông tin có trật tự.",
+     "text": "TRẬT TỰ ĐỠ TỐN SỨC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì sao não chúng mình lại thích các nhóm thông tin ngăn nắp đến vậy?",
+     "text": "TẠI SAO CẦN NGĂN NẮP",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ nhớ ngắn hạn có hạn. Gom nhóm hợp lý giúp giải phóng dung lượng não.",
+     "text": "GIẢI PHÓNG DUNG LƯỢNG",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy mình nên chia trang vở thế nào để cấu trúc phục vụ việc học?",
+     "text": "CHIA KHUNG THẾ NÀO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kẻ hai cột, bên phải ghi ý chính, bên trái đặt câu hỏi gợi nhớ.",
+     "text": "BỐ CỤC HAI CỘT",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cột phải chứa bài học, còn cột trái dùng để tự hỏi lại bản thân?",
+     "text": "CÂU HỎI VÀ Ý CHÍNH",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn đét. Trang vở lập tức biến thành bàn tập thử thách não bộ.",
+     "text": "BÀN TẬP THỬ THÁCH",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lấy tay che cột phải lại là biến buổi đọc bài thành buổi tự thi ngay.",
+     "text": "CHE ĐI ĐỂ TỰ THI",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bố cục giúp vào nếp, nhưng chỉ dùng chữ là vứt đi một nửa sức mạnh.",
+     "text": "ĐỪNG BỎ PHÍ MỘT NỬA",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "4. Mã hóa kép",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn vào trang vở toàn chữ là chữ, chỉ mười phút là mí mắt mình nặng trĩu.",
+     "text": "4. MÃ HÓA KÉP",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rừng chữ dày đặc thì ai chả ngáp. Pen đang đẩy tạ một tay đấy.",
+     "text": "ĐẨY TẠ MỘT TAY",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cánh tay thứ hai mà mình bỏ quên khi ghi chép bài vở là gì thế?",
+     "text": "CÁNH TAY CÒN LẠI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mã hóa kép. Não xử lý câu chữ và hình ảnh qua hai đường riêng biệt.",
+     "text": "HAI ĐƯỜNG TRUYỀN NÃO",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là chữ và hình mở ra hai con đường khác nhau về cùng một ký ức?",
+     "text": "HAI LỐI VÀO KÝ ỨC",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn xác. Ghép một hình vẽ đơn giản với câu chữ giúp tăng vọt độ nhớ.",
+     "text": "HÌNH TĂNG ĐỘ NHỚ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng hoa tay mình bằng không, vẽ con gà khéo ra con vịt.",
+     "text": "HOA TAY BẰNG KHÔNG",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không ai chấm điểm vẽ đẹp. Một cái khung, mũi tên hay người que là đủ.",
+     "text": "NGƯỜI QUE LÀ ĐỦ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Phác một sơ đồ nhánh nhỏ giúp mắt bắt được điểm neo tức thì?",
+     "text": "SƠ ĐỒ NHÁNH NHỎ",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khớp chữ với hình vẽ cho não hai dây neo cùng bám chắc vào bài học.",
+     "text": "HAI DÂY NEO CHẮC",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giờ ôn bài như xem bản đồ chỉ dẫn, không lo lạc giữa biển chữ nữa.",
+     "text": "BẢN ĐỒ MINH HỌA",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hình vẽ cho bản đồ, nhưng nhìn lướt qua mà không đào sâu thì vẫn trắng tay.",
+     "text": "ĐỪNG CHỈ NHÌN LƯỚT",
+     "color": "red",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "5. Xử lý chiều sâu",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đọc đi đọc lại một trang đến ba lần mà đầu mình rỗng tuếch không đọng lại gì.",
+     "text": "5. XỬ LÝ CHIỀU SÂU",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mắt thì lướt nhưng não tắt ngấm, bật chế độ trôi dạt hoàn toàn.",
+     "text": "CHẾ ĐỘ TRÔI DẠT",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì sao đọc thụ động cho mình ảo giác chăm chỉ nhưng thi vẫn điểm kém?",
+     "text": "ẢO GIÁC CHĂM CHỈ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Do tầng xử lý. Nhìn lướt bên ngoài thì thông tin không ngấm vào não.",
+     "text": "NÔNG HAY SÂU",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Điều gì xảy ra khi chuyển từ xử lý hời hợt sang xử lý tầng sâu?",
+     "text": "TỪ NÔNG VÀO SÂU",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xử lý nông chỉ thấy mặt chữ. Xử lý sâu bóc tách ý nghĩa và thực tế.",
+     "text": "BÓC TÁCH Ý NGHĨA",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao kích hoạt xử lý sâu ngay trong lúc ghi bài ôn thi?",
+     "text": "KÍCH HOẠT ĐỘ SÂU",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ép mình viết thêm một dòng xem ý này dùng làm gì, và thiếu nó thì gãy ở đâu.",
+     "text": "HỎI VÌ SAO CẦN THIẾT",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự hỏi xem nó bị gãy ở đâu ép mình phải bóc tách tận gốc cơ chế.",
+     "text": "MỔ XẺ CƠ CHẾ LÕI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đào sâu ý nghĩa tốn sức trí não, nhưng chính áp lực đó khóa chặt bài học.",
+     "text": "KHÓA CHẶT KIẾN THỨC",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hiểu thấu nghĩa là phải bóc lớp vỏ từ ngữ để thấy công năng thực tế.",
+     "text": "TÌM RA CÔNG NĂNG",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiểu công năng mới là khởi động, chưa tự giảng lại thành lời thì chưa xong hiệp tập.",
+     "text": "NÓI LẠI THÀNH LỜI",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "6. Tự giải thích lại",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mở bài giảng trên mạng xem thấy gật gù sảng khoái, ngỡ là mình thông suốt hết.",
+     "text": "6. TỰ GIẢI THÍCH LẠI",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gật gù thì dễ, nhưng đó là ảo tưởng hiểu sâu mà ai cũng dính.",
+     "text": "ẢO TƯỞNG HIỂU SÂU",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao vừa mở đề ra làm là chân tay mình luống cuống, não đóng băng luôn vậy Buff?",
+     "text": "ĐỨNG HÌNH KHI THI",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì Pen chưa tự giải thích. Nói lại bài học mới phơi bày chỗ hổng.",
+     "text": "LỘ RÕ ĐIỂM MÙ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghe người ta giảng với tự mình nói lại khác nhau nhiều thế sao?",
+     "text": "NGHE KHÁC TỰ NÓI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khác một trời một vực. Nghe thì thấy thông, mở miệng giảng mới biết tắc tị.",
+     "text": "NÓI RA MỚI RÕ",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngồi tự ôn trong phòng một mình thì luyện giải thích thế nào cho đúng?",
+     "text": "TẬP NÓI THẾ NÀO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn vào vở, gấp lại, rồi tự nói to cơ chế bằng chính lời của Pen.",
+     "text": "TỰ DẠY LẠI MÌNH",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngắc ngứ chỗ nào là mình bắt bài được lỗ hổng kiến thức chỗ đó.",
+     "text": "LỘ NGAY LỖ HỔNG",
+     "color": "green",
+     "actor": "shocked",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bắt đúng lỗ hổng là thắng lớn. Giờ biết rõ trang nào cần dặm lại.",
+     "text": "VÁ LẠI CHỖ THIẾU",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói thành lời biến lý thuyết mù mờ thành sự tự tin vững vàng.",
+     "text": "HIỂU RÕ TƯỜNG TẬN",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói trôi chảy rất tốt, nhưng cứ cày mãi một dạng bài thì thi vẫn ngã ngựa.",
+     "text": "ĐỪNG LUYỆN ĐƠN LẺ",
+     "color": "red",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "7. Xáo trộn dạng bài",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngồi cày suốt cả buổi một dạng bài quen thuộc, mắt hoa lên mà thấy rất trơn tru.",
+     "text": "7. XÁO TRỘN DẠNG BÀI",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mượt mà là cái bẫy đấy Pen. Làm ba mươi bài y hệt chỉ tổ ru ngủ não.",
+     "text": "NÃO VÀO CHẾ ĐỘ NGỦ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Luyện mãi một dạng thì có gì sai khi mà bài nào mình cũng làm đúng?",
+     "text": "LÀM ĐÚNG SAO LẠI SAI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trộn dạng bài ép não phải tự chọn cách giải, không cho cơ tư duy bị lì.",
+     "text": "XÁO TRỘN THỨ TỰ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tức là nếu đề nào cũng giống nhau, mình không tập được phản xạ chọn cách giải?",
+     "text": "PHẢN XẠ CHỌN CÁCH",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Cày một dạng thì biết trước bài giải. Đi thi làm gì có ai mớm sẵn?",
+     "text": "ĐỀ THI ĐÂU DỄ THẾ",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sắp xếp trang vở và đề cương thế nào để xáo trộn cho mượt?",
+     "text": "XÁO TRỘN CÁCH NÀO?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi tự dò bài, lật ngẫu nhiên các trang từ ba chương khác nhau.",
+     "text": "LẬT TRANG BẤT KỲ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhảy cóc giữa các bài vất vả hơn, nhưng ép mình phải nghĩ độc lập.",
+     "text": "BUỘC PHẢI TỰ NGHĨ",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là thử thách có lợi, giúp phản xạ của Pen sắc bén khi vào phòng thi.",
+     "text": "THỬ THÁCH CÓ LỢI",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trộn bài học giúp mình rèn bản lĩnh để không hoảng trước câu hỏi lạ.",
+     "text": "HẾT SỢ ĐỀ LẠ",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xáo trộn rèn phản xạ, nhưng gặp khái niệm trừu tượng vẫn cần một mô hình.",
+     "text": "CẦN MỘT MÔ HÌNH",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "8. Tư duy ẩn dụ",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đụng lý thuyết trừu tượng là đầu mình ong ong, thuật ngữ làm não nghẽn cứng.",
+     "text": "8. TƯ DUY ẨN DỤ",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sách vở thích đao to búa lớn. Pen phải gạt bỏ thuật ngữ để tìm lõi máy móc.",
+     "text": "GẠT BỎ TỪ ĐÁNH ĐỐ",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao hiểu nổi cơ chế khi cả môn học nghe xa lạ như trên trời rơi xuống?",
+     "text": "QUÁ ĐỖI XA LẠ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng tư duy ẩn dụ. Não hiểu cái lạ bằng cách bắc cầu sang việc quen thuộc hằng ngày.",
+     "text": "BẮC CẦU SANG ĐỜI SỐNG",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như hiểu bộ nhớ máy tính qua cách người giao hàng Shopee phân vào từng giỏ?",
+     "text": "GIAO HÀNG SHOPEE",
+     "color": "gold",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn đét. Thuật ngữ hóc búa biến thành hình ảnh trực quan Pen đã rành.",
+     "text": "HÌNH ẢNH TRỰC QUAN",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lồng ghép hình ảnh so sánh này vào tập vở thế nào?",
+     "text": "GHI ẨN DỤ VÀO ĐÂU?",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mỗi khi ghi khái niệm khó, viết một câu ví von đời thường ra mép lề.",
+     "text": "VÍ VON NGOÀI LỀ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lúc ôn bài, câu ví von đó sẽ kích hoạt ngay cách hiểu trong đầu?",
+     "text": "GỢI NHỚ TỨC THÌ",
+     "color": "green",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bám chặt vào thứ quen thuộc. Ẩn dụ bắc cầu qua vực thẳm trừu tượng.",
+     "text": "BẮC CẦU TRỪU TƯỢNG",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhờ thế những trang sách khó nhằn cũng trở nên gần gũi và dễ nuốt.",
+     "text": "DỄ NUỐT DỄ HIỂU",
+     "color": "gold",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ẩn dụ mở khóa bài khó, nhưng tám đòn bẩy chỉ hiệu quả nếu tập luyện đều.",
+     "text": "CẦN TẬP LUYỆN ĐỀU",
+     "color": "ink",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Kế hoạch một tuần",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tám cơ chế một lúc nghe hơi nhiều đòn để ngấm hết ngay Buff ơi.",
+     "text": "KẾ HOẠCH MỘT TUẦN",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bớt nghĩ lại. Khởi động trước bằng cách chia vở hai cột, tự đố thay vì chép máy chiếu.",
+     "text": "TỰ TẠO VÀ CHIA KHUNG",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và vào bài chính là biến chữ phẳng lặng thành mỏ neo cắm sâu vào đầu?",
+     "text": "MỎ NEO CẮM SÂU",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào bài chính, phác sơ đồ hình vẽ và gắn bài học vào ví von đời thực.",
+     "text": "VẼ VÀ KẾT NỐI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn hiệp cuối để kiểm tra xem bài đã dính chặt vào não chưa?",
+     "text": "KIỂM TRA ĐỘ BÁM",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp cuối, tự giảng thành lời và trộn đề ngẫu nhiên để rèn phản xạ.",
+     "text": "NÓI VÀ XÁO TRỘN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghe rất rõ ràng, nhưng bắt đầu từ đâu để không bị ngợp giữa đống bài?",
+     "text": "BẮT ĐẦU TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách một tuần này, mỗi ngày làm một trang hai cột, che lại rồi tự đố trước giờ học.",
+     "text": "THỬ THÁCH MỖI NGÀY",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi ngày một trang, tự kiểm tra cột gợi ý thay vì ngồi đọc thụ động.",
+     "text": "MỖI NGÀY MỘT TRANG",
+     "color": "green",
+     "actor": "reading",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đăng ký Lý Thuyết Chân Que để cùng nâng tạ cho não bộ mỗi tuần nhé.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "green",
+     "actor": "front",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

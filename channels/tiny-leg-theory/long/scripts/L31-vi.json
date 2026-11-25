@@ -1,0 +1,938 @@
+{
+ "id": "L31vi",
+ "lang": "vi",
+ "title": "Vì sao một lời góp ý nhỏ cũng khiến bạn nghĩ mãi?",
+ "description": "Khi ai đó nhận xét một lỗi nhỏ, vì sao não bạn lại coi đó là đòn tấn công vào bản thân? Cùng Lý Thuyết Chân Que bóc tách tám bẫy tâm lý đằng sau sự nhạy cảm với lời góp ý và học cách tách công việc khỏi giá trị con người bạn.",
+ "chapters": [
+  {
+   "title": "Bẫy lời góp ý",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sếp nhắn lại vỏn vẹn bốn chữ: sửa lại chỗ này.",
+     "text": "BẪY LỜI GÓP Ý",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bụng mình thắt lại, ngực nghẹn đắng và cả buổi tối coi như hỏng bét.",
+     "text": "BUỔI TỐI TAN NÁT",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thôi nào Pen. Trượt một hiệp tạ mà làm như sập cả phòng tập.",
+     "text": "HỎNG MỘT HIỆP TẠ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao một câu nhắc việc lại giống như bản án phủ nhận cả con người mình?",
+     "text": "BẢN ÁN BẢN THÂN?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì não sinh tồn nhầm một lỗi nhỏ thành mối đe dọa đến bản thân bạn.",
+     "text": "SỬA VIỆC HAY ĐE DỌA",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay cùng bẻ khóa tám bẫy tâm lý khiến bạn sợ lời góp ý.",
+     "text": "TÁM BẪY TÂM LÝ",
+     "color": "green",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "1. Tự quy bản thân",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Giảng viên phê vào bài: luận điểm chưa rõ. Mình lạnh toát sống lưng.",
+     "text": "1. TỰ QUY BẢN THÂN",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình không chỉ thấy câu viết dở, mà thấy bằng chứng mình kém cỏi.",
+     "text": "TỰ THẤY KÉM CỎI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lỗi của tân binh. Cậu nối thẳng lời chê trên giấy vào lòng tự ái.",
+     "text": "GẮN VÀO TỰ ÁI",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý học gọi đây là tự quy bản thân. Não kích hoạt mặc định, dán dữ liệu ngoài vào cái tôi.",
+     "text": "CƠ CHẾ DÁN NHÃN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kích hoạt mạng lưới đó, một dòng nhận xét cũng khiến cậu tưởng bị chê cười.",
+     "text": "SỢ BỊ BẼ MẶT",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra đầu óc mình tự vẽ ra viễn cảnh mọi người chê mình dốt à?",
+     "text": "BỊ MỌI NGƯỜI CƯỜI?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn rồi. Cậu coi bài viết như con ruột, thay vì coi là thanh tạ rời.",
+     "text": "TÁCH VIỆC KHỎI MÌNH",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi lại cô: thưa cô, đoạn này luận điểm chưa rõ ở đâu để em viết lại ạ?",
+     "text": "HỎI RÕ CHI TIẾT",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình hỏi lại, cô chỉ ra hai nguồn tham khảo, sửa năm phút là xong.",
+     "text": "THIẾU HAI NGUỒN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bài viết cần sửa, nhưng giá trị con người mình thì vẫn nguyên vẹn.",
+     "text": "GIÁ TRỊ NGUYÊN VẸN",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kỹ thuật chuẩn đấy. Sửa động tác trên thanh tạ, đừng nghi ngờ bản thân.",
+     "text": "ĐÚNG KỸ THUẬT",
+     "color": "gold",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ xem chuyện gì xảy ra khi lòng tự ái bị chạm nọc ngay trong nhà.",
+     "text": "BỊ CHẠM TỰ ÁI",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "2. Đe dọa cái tôi",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mẹ nhắc mình úp bát còn đọng nước, thế là mình nổi cáu ngay.",
+     "text": "2. ĐE DỌA CÁI TÔI",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trong đầu mình, câu đó nghe như thể mẹ chê mình đoảng và lười biếng.",
+     "text": "NGHĨ MÌNH VÔ DỤNG",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bớt diễn kịch lại Pen. Người ta chỉ cần bát khô, không ai kết tội nhân cách.",
+     "text": "BÁT ĐĨA KHÔ RÁO",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cậu dính bẫy đe dọa cái tôi. Não coi lời nhắc việc nhà như đòn hạ bệ danh dự.",
+     "text": "BẢO VỆ DANH DỰ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ não muốn giữ hình ảnh hoàn hảo, nên vết xước nhỏ cũng làm nó báo động đỏ.",
+     "text": "SỢ MẤT HÌNH ẢNH",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên tim mình đập loạn vì cái bát ướt bị coi là bằng chứng mình kém cỏi?",
+     "text": "BẰNG CHỨNG YẾU KÉM?",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Bản ngã sợ rằng nhận sai đồng nghĩa với việc mình bị lỗi.",
+     "text": "SỢ MÌNH THẤT BẠI",
+     "color": "gold",
+     "actor": "34",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi lại nhẹ nhàng: mẹ chỉ con cách xếp thế nào cho nhanh ráo nước với.",
+     "text": "HỎI CÁCH LÀM ĐÚNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mẹ chỉ trong mười giây, nghiêng góc một chút là bát đĩa ráo sạch.",
+     "text": "BÁT ĐĨA SẠCH BONG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đó chỉ là thao tác rửa bát, không liên quan đến giá trị làm người của mình.",
+     "text": "CHỈ LÀ THAO TÁC",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xử lý gọn đấy. Bỏ thế phòng thủ thì việc nhỏ giải quyết trong một nốt nhạc.",
+     "text": "BỎ THẾ PHÒNG THỦ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiếp theo, xem thói quen đổ lỗi biến cú vấp ngã thành bi kịch cả đời.",
+     "text": "THÓI QUEN ĐỔ LỖI",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "3. Kiểu quy kết",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trưởng nhóm gạt đề xuất của mình. Đầu mình nghĩ ngay: lúc nào mình cũng làm hỏng việc.",
+     "text": "3. KIỂU QUY KẾT",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Những từ nặng nề: lúc nào cũng, mọi việc, do mình. Cảm giác bế tắc trùm kín tâm trí.",
+     "text": "LÚC NÀO CŨNG SAI",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là kiểu quy kết méo mó, như nâng hỏng một hiệp rồi đòi bỏ tập cả đời.",
+     "text": "QUY KẾT MÉO MÓ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý học gọi đây là phong cách quy kết tiêu cực mà não tự dựng lên.",
+     "text": "DỰNG CHUYỆN ĐỔ LỖI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi coi thất bại là do mình, vĩnh viễn và toàn diện, bản nháp lỗi cũng thành án chung thân.",
+     "text": "BA BẪY NGUY HIỂM",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao não mình vội tin mình bất tài, thay vì nghĩ do chưa chuẩn bị kỹ?",
+     "text": "DO BẢN CHẤT SAO?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì tự nhận tệ hại mang lại sự chắc chắn tức thì, đỡ tốn sức phân tích thực tế.",
+     "text": "LƯỜI PHÂN TÍCH",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập nói câu này: kế hoạch chưa đạt vì thiếu số liệu, không phải do đầu óc có vấn đề.",
+     "text": "TÁCH RÕ NGUYÊN NHÂN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kế hoạch thiếu báo giá trước năm giờ chiều, bổ sung số liệu là xong ngay.",
+     "text": "THIẾU SỐ LIỆU",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chuyển từ bất tài sang thiếu số liệu, lồng ngực mình lập tức nhẹ nhõm hẳn.",
+     "text": "LỒNG NGỰC NHẸ NHÕM",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bên ngoài, tạm thời và cụ thể. Vận động viên chuyên nghiệp nhìn nhận lỗi sai như thế.",
+     "text": "BẢN LĨNH TẬP LUYỆN",
+     "color": "gold",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ đến ảo tưởng rằng góc nhìn của mình luôn là chân lý tuyệt đối.",
+     "text": "ẢO TƯỞNG GÓC NHÌN",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "4. Ảo tưởng khách quan",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn cùng nhóm chê bài thuyết trình rối mắt, mình nghĩ ngay bạn ấy đang săm soi bắt bẻ.",
+     "text": "4. ẢO TƯỞNG KHÁCH QUAN",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dưới mắt mình, bố cục rõ ràng thế cơ mà. Ai không đồng ý hẳn là muốn gây sự.",
+     "text": "MÌNH LUÔN ĐÚNG?",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lại thế rồi. Cậu tưởng mắt mình nhìn thấu vũ trụ, còn thiên hạ đều mù màu à.",
+     "text": "CHÂN LÝ DUY NHẤT?",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là ảo tưởng khách quan: đinh ninh rằng góc nhìn của mình không hề thiên vị.",
+     "text": "ẢO TƯỞNG BẢN THÂN",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tin mình luôn khách quan, ai góp ý khác đi là cậu quy ngay cho họ tội xấu tính.",
+     "text": "NGHI NGỜ ÁC Ý",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là mình gạt bỏ góp ý vì tưởng góc nhìn của mình là chuẩn mực duy nhất?",
+     "text": "MỘT GÓC NHÌN HẸP?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế. Não coi góc nhìn khác là sự công kích, thay vì là dữ liệu bổ sung.",
+     "text": "CÔNG KÍCH HAY DỮ LIỆU",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi thẳng bạn ấy: trên màn hình của cậu chỗ nào rối, sửa thế nào cho thoáng hơn?",
+     "text": "HỎI RÕ GÓC NHÌN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bạn ấy gửi ảnh chụp lại, chữ bị hình vẽ che mất một nửa trên điện thoại.",
+     "text": "CHỮ BỊ ĐÈ MẤT",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lời chê đó không phải công kích, mà là thông tin cứu mình khỏi một phen bẽ mặt.",
+     "text": "CỨU NGUY KỊP THỜI",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không có kẻ thù nào cả. Thêm một đôi mắt giúp bài làm chuẩn chỉnh trước giờ nộp.",
+     "text": "GÓP Ý GIÚP HOÀN THIỆN",
+     "color": "gold",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhưng khi lỗi rành rành thuộc về mình, cái bẫy khác lại nhảy ra để trốn tránh.",
+     "text": "TRỐN TRÁCH NHIỆM",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "5. Thiên vị tự thân",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Khách khen bản vẽ thì nhận công. Lúc họ bắt sót số, mình đổ tại phần mềm bị lỗi.",
+     "text": "5. THIÊN VỊ TỰ THÂN",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì bấu víu vào lời khen, nhận sai chẳng khác nào tự đập vỡ hình tượng bản thân.",
+     "text": "SỢ VỠ HÌNH TƯỢNG",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy thiên vị tự thân đấy. Thắng thì nhận huy chương, bại thì đổ lỗi cho tạ trơn.",
+     "text": "ĐỔ TẠI ĐỒ NGHỀ",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chúng ta hay gom thành công về tài năng, còn đẩy thất bại cho hoàn cảnh bên ngoài.",
+     "text": "VƠ CÔNG ĐỔ LỖI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu cái tôi muốn ôm trọn lời khen, một lời góp ý nhỏ cũng làm cậu chột dạ.",
+     "text": "CÁI TÔI YẾU ỚT",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đổ lỗi cho công cụ chỉ là cách đầu óc cố bảo vệ lớp vỏ bọc tài giỏi sao?",
+     "text": "VỎ BỌC TÀI GIỎI?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn rồi. Ở phòng tập, chẳng ai nể người làm rơi tạ rồi chê bột phấn.",
+     "text": "ĐỔ TẠI BỘT PHẤN",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Luyện nhận lỗi sáu chữ này: mình nhận lỗi, mình sửa ngay. Gọn gàng và bản lĩnh.",
+     "text": "NHẬN LỖI SÁU CHỮ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói đúng sáu chữ đó, căng thẳng tan biến và cả nhóm cùng bắt tay vào sửa lỗi.",
+     "text": "TAN HẾT CĂNG THẲNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhận lỗi không làm mình mất uy tín, mà chứng minh mình là người đáng tin cậy.",
+     "text": "UY TÍN NÂNG CAO",
+     "color": "green",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dám chịu trách nhiệm mới là sức mạnh thật sự. Giữ chữ tín rồi quay lại tập thôi.",
+     "text": "SỨC MẠNH BẢN LĨNH",
+     "color": "gold",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ hãy chỉnh lại tâm thế trước khi bước vào buổi đánh giá công việc.",
+     "text": "CHỈNH LẠI TÂM THẾ",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "6. Tâm thế đón nhận",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi đến kỳ đánh giá, mình bước vào phòng sếp như tử tù ra pháp trường.",
+     "text": "6. TÂM THẾ ĐÓN NHẬN",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Từng lời góp ý nghe như bản án chung thân, thay vì là chỉ dẫn để tiến bộ.",
+     "text": "BẢN ÁN CHUNG THÂN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm thế đón nhận lệch lạc rồi Pen. Coi hướng dẫn của sếp như phiên tòa xử tội.",
+     "text": "PHIÊN TÒA XỬ TỘI",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm thế đón nhận là độ cởi mở khi nghe góp ý và sẵn sàng áp dụng nó.",
+     "text": "SẴN SÀNG HỌC HỎI",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhiều năm đi học khiến não coi mực đỏ của thầy cô như dấu ấn thất bại.",
+     "text": "ÁM ẢNH MỰC ĐỎ",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao gỡ bỏ nỗi sợ cũ để coi lời nhắc nhở là bài học đắt giá?",
+     "text": "GỠ BỎ NỖI SỢ CŨ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Coi góp ý như huấn luyện viên chỉnh lưng gánh tạ. Chỉnh đúng thì đỡ chấn thương.",
+     "text": "CHỈNH LƯNG GÁNH TẠ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi sếp: dự án này em cần chỉnh điểm nào trước để đạt yêu cầu của anh?",
+     "text": "HỎI ĐIỀU THEN CHỐT",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hỏi vậy biến sếp từ quan tòa khó tính thành người hướng dẫn chuyên môn.",
+     "text": "NGƯỜI HƯỚNG DẪN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hai anh em cùng gọt lại báo cáo, buổi nói chuyện trở nên rất thoải mái.",
+     "text": "CÙNG NHAU GIẢI QUYẾT",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ cậu là vận động viên đòi hỏi chuẩn mực cao, không còn là học sinh sợ mực đỏ.",
+     "text": "TÂM THẾ VẬN ĐỘNG VIÊN",
+     "color": "gold",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiếp tục, rèn cách gọi tên cảm xúc khi cơn hoảng hốt ập đến lồng ngực.",
+     "text": "GỌI TÊN CẢM XÚC",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "7. Bóc tách cảm xúc",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trong buổi họp, bị nhắc nhở bất ngờ làm mình đứng hình, lẩm bẩm: toang thật rồi.",
+     "text": "7. BÓC TÁCH CẢM XÚC",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác mù mờ đó hút cạn năng lượng, làm đầu óc mình đông cứng suốt mấy tiếng.",
+     "text": "ĐẦU ÓC ĐÔNG CỨNG",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Độ phân giải cảm xúc quá thấp, cậu vơ mọi bực bội nhét chung một bao tải rác.",
+     "text": "GOM MƠ HỒ MỘT ĐỐNG",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phải bóc tách cảm xúc: gọi tên từng cảm giác thay vì ôm cục tức chung chung.",
+     "text": "BÓC TÁCH RÕ RÀNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi chỉ gán nhãn là tệ, hệ thần kinh sẽ tưởng bạn gặp hiểm họa sinh tử.",
+     "text": "BÁO ĐỘNG GIẢ",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là não bế tắc vì chẳng biết cụ thể cơ thể đang gặp chuyện gì sao?",
+     "text": "KHÔNG HIỂU CƠ THỂ?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính thế. Bác sĩ không thể kê đơn nếu cậu chỉ kêu khắp người chỗ nào cũng đau.",
+     "text": "CHỈ ĐÚNG CHỖ ĐAU",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tách cảm giác khó chịu ra ba thứ: tự hỏi mình bất ngờ, ngượng ngùng hay hụt hẫng.",
+     "text": "GỌI TÊN BA CẢM XÚC",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình rà lại: mình không hề kém cỏi, chỉ bất ngờ vì ngỡ sẽ được khen ngay.",
+     "text": "CHỈ LÀ BẤT NGỜ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Gọi đúng tên là bất ngờ, gánh nặng đè ở ngực bỗng biến mất hoàn toàn.",
+     "text": "NHẸ HẲN LỒNG NGỰC",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gọi tên chính xác cảm xúc giúp vùng báo động trong não hạ nhiệt rất nhanh.",
+     "text": "HẠ NHIỆT BỘ NÃO",
+     "color": "gold",
+     "actor": "34",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ hãy làm chủ phản ứng sinh học khi lời nhận xét xuất hiện trên lịch làm việc.",
+     "text": "LÀM CHỦ PHẢN ỨNG",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "8. Đánh giá mối đe dọa",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa thấy sếp nhắc tên trong nhóm Zalo đòi họp gấp, tay mình đã lạnh ngắt.",
+     "text": "8. ĐÁNH GIÁ ĐE DỌA",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tim đập thình thịch, cổ họng nghẹn lại dù mình chưa kịp mở tin nhắn xem.",
+     "text": "HOẢNG HỐT BỘT PHÁT",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cậu vừa bật chế độ đánh giá đe dọa rồi Pen. Cơ thể tưởng cậu sắp gặp nguy hiểm đến nơi.",
+     "text": "TƯỞNG NGUY HIỂM?",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não tự kết luận cuộc họp này đòi hỏi nhiều sức lực hơn mức cậu chịu nổi.",
+     "text": "QUÁ SỨC CHỊU ĐỰNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hệ thần kinh đối xử với buổi nhận xét y hệt như đang gặp thú dữ săn mồi.",
+     "text": "BÁO ĐỘNG NGUY CẤP",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là tim đập dồn dập chỉ để chuẩn bị bỏ chạy trước một cái thông báo?",
+     "text": "CHẠY TRỐN THÔNG BÁO?",
+     "color": "red",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Cơ thể bơm năng lượng để chiến đấu hoặc tháo chạy trước vài dòng chữ.",
+     "text": "XẢ NĂNG LƯỢNG Ồ ẠT",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Biến đe dọa thành thử thách: tự nhủ cơ thể đang tiếp sức để giải bài toán khó.",
+     "text": "BIẾN THÀNH THỬ THÁCH",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tim đập nhanh không phải do sợ, mà bơm thêm dưỡng khí lên não để xử lý việc.",
+     "text": "TIẾP THÊM DƯỠNG KHÍ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đổi cách nhìn nhận biến đôi tay run rẩy thành năng lượng tập trung cho buổi họp.",
+     "text": "SẴN SÀNG NHẬP CUỘC",
+     "color": "green",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Cậu vừa chuyển nỗi sợ thành năng lượng tư duy sắc bén đúng lúc.",
+     "text": "NĂNG LƯỢNG TẬP TRUNG",
+     "color": "gold",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cậu không còn trốn như con mồi, mà tự tin bước lên sàn đấu của chính mình.",
+     "text": "BƯỚC LÊN SÀN ĐẤU",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "Chuyển hóa cốt lõi",
+   "sources": [
+    "s01",
+    "s02",
+    "s03",
+    "s04",
+    "s05",
+    "s06",
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại mới thấy, tự ái khi bị góp ý chỉ là phản xạ sinh tồn ngắm sai mục tiêu.",
+     "text": "CHUYỂN HÓA CỐT LÕI",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gói gọn tám bẫy tâm lý thành ba quy tắc thép để rèn luyện mỗi ngày.",
+     "text": "BA NGUYÊN TẮC THÉP",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một: tách người làm khỏi sản phẩm. Bản nháp có lỗi không có nghĩa là bạn kém cỏi.",
+     "text": "TÁCH VIỆC KHỎI NGƯỜI",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai: coi góp ý như chỉnh động tác. Hỏi lại rõ ràng trước khi dựng chuyện phòng thủ.",
+     "text": "CHỈNH ĐÚNG ĐỘNG TÁC",
+     "color": "gold",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba: gọi đúng tên cảm xúc và dẫn năng lượng đó vào giải quyết vấn đề.",
+     "text": "GỌI TÊN VÀ HÀNH ĐỘNG",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Phải tập thế nào để ba quy tắc này ngấm sâu vào phản xạ hàng ngày nhỉ?",
+     "text": "RÈN THÓI QUEN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày: khi bị chê, hỏi ngay một câu làm rõ trước khi tự ái.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dừng một nhịp, thở sâu, hỏi điểm cần sửa và cất cái tôi dễ vỡ sang bên.",
+     "text": "CẤT CÁI TÔI DỄ VỠ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký kênh để luyện bài tập tâm lý, giữ vững phong độ và hẹn bạn ở hiệp sau.",
+     "text": "ĐĂNG KÝ RÈN LUYỆN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

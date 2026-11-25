@@ -1,0 +1,18 @@
+{
+ "TT": {
+  "preset": "Thiền Tâm Đức",
+  "fx": "asetrate=48000*0.95,aresample=48000,aecho=0.8:0.5:40:0.2"
+ },
+ "MN": {
+  "preset": "Thiện Minh",
+  "fx": "atempo=0.92,asetrate=48000*0.97,aresample=48000,aecho=0.8:0.6:60:0.25"
+ },
+ "HANH": {
+  "preset": "Ngọc Huyền",
+  "fx": "atempo=1.05"
+ },
+ "CH": {
+  "preset": "Trúc Ly",
+  "fx": "atempo=0.95,aecho=0.8:0.6:60:0.3"
+ }
+}

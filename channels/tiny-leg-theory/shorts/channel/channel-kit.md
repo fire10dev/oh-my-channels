@@ -74,7 +74,7 @@ Studio → Settings:
 
 - [x] **Channel → Basic info**: Country = Việt Nam cho cả 2 (ô này là "Quốc gia cư trú", phải khai đúng nơi ở). Keywords dán từ trên.
 - [ ] **Channel → Advanced settings**: Audience = **"No, set this channel as not made for kids"**.
-- [ ] **Upload defaults → Basic info**: Visibility = Private (mặc định an toàn; khi đăng thì chọn **Công khai ngay**, **không dùng Lên lịch** — rule user 2026-11-14); Tags = 5–8 từ khoá trên; Description template có dòng cross-link + disclaimer.
+- [ ] **Upload defaults → Basic info**: Visibility = Private (mặc định an toàn; đăng bằng Lên lịch hoặc Công khai đều được); Tags = 5–8 từ khoá trên; Description template có dòng cross-link + disclaimer.
 - [ ] **Upload defaults → Advanced settings**: Language of title/description = English / Vietnamese; Caption certification = None; Category = **Education**; License = Standard YouTube; Shorts remixing = Allow; Comments = Hold potentially inappropriate.
 - [ ] **Altered or synthetic content**: **No** cho từng clip (hoạt hình người que, không giả người/sự kiện thật). Ghi chú: voice là TTS — không thuộc diện bắt buộc khai báo khi không giả giọng người thật.
 - [ ] **Branding**: Picture = `avatar_800.png`; Banner = `banner_<lang>_2560x1440.png`; Video watermark = `watermark_150.png`, hiển thị "Entire video".

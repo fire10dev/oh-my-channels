@@ -1,0 +1,353 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 29.178,
+"shots": [
+{
+"img": "p04/img/G12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.0,
+"t1": 5.165,
+"a": [
+576,
+576,
+648
+],
+"b": [
+576,
+700,
+460
+],
+"flash": 1
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 5.165,
+"t1": 10.082,
+"a": [
+1100,
+576,
+648
+],
+"b": [
+960,
+408,
+460
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 10.082,
+"t1": 13.662,
+"a": [
+560,
+700,
+760
+],
+"b": [
+540,
+660,
+560
+]
+},
+{
+"img": "p04/img/G12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.662,
+"t1": 17.231,
+"a": [
+576,
+700,
+460
+],
+"b": [
+576,
+700,
+340
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 17.231,
+"t1": 20.357,
+"a": [
+880,
+520,
+460
+],
+"b": [
+880,
+500,
+340
+]
+},
+{
+"img": "p04/img/G12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 20.357,
+"t1": 22.191,
+"a": [
+576,
+700,
+460
+],
+"b": [
+576,
+700,
+340
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 22.191,
+"t1": 23.882,
+"a": [
+540,
+660,
+560
+],
+"b": [
+540,
+640,
+460
+]
+},
+{
+"img": "p04/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.882,
+"t1": 28.778,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p04/img/cut_G11_0.png",
+"size": 485,
+"t0": 0.0,
+"t1": 5.165,
+"from": [
+618,
+1000,
+1.058
+],
+"to": [
+618,
+960,
+1.058
+],
+"bob": false,
+"wob": 2
+},
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 23.882,
+"t1": 28.778,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.0,
+"t1": 5.165,
+"text": "BANG FOR GOOD LUCK?",
+"color": "#ffd84a"
+},
+{
+"t0": 7.498,
+"t1": 10.082,
+"text": "CALL PEOPLE → CALL ORDERS",
+"color": "#ffffff"
+},
+{
+"t0": 10.082,
+"t1": 12.152,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 12.497,
+"t1": 17.231,
+"text": "BANG TRAY · CALL NAME → RETURN",
+"color": "#ffd84a"
+},
+{
+"t0": 21.174,
+"t1": 21.992,
+"text": "300 TRAYS",
+"color": "#ffd84a"
+},
+{
+"t0": 21.992,
+"t1": 23.882,
+"text": "0 BANGS",
+"color": "#ff5a4a"
+},
+{
+"t0": 23.882,
+"t1": 26.1,
+"text": "WHO BANGED?",
+"color": "#ffd84a"
+},
+{
+"t0": 26.1,
+"t1": 28.778,
+"text": "▼ FULL EPISODE: LINK BELOW",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 1.72,
+"src": "p04/sfx/boong.wav",
+"vol": 0.4
+},
+{
+"t": 4.669,
+"src": "sh6/sfx/pops.wav",
+"vol": 0.5
+},
+{
+"t": 2.949,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 8.665,
+"src": "p04/sfx/chotdon.wav",
+"vol": 0.6
+},
+{
+"t": 12.979,
+"src": "p04/sfx/boong.wav",
+"vol": 0.6
+},
+{
+"t": 21.992,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 23.882,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 27.504,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.0,
+"dur": 4.915,
+"text": "Feng shui brass tray! One bang brings good fortune! Just three left! Sold!"
+},
+{
+"t": 5.165,
+"dur": 4.667,
+"text": "Brass tray. Once banged to call people home. Now banged to call in orders."
+},
+{
+"t": 10.082,
+"dur": 6.899,
+"text": "Simple rules. I hide them, their family looks. Bang the brass tray, call their name. One bang and I bring them back. That's a game."
+},
+{
+"t": 17.231,
+"dur": 2.876,
+"text": "I hid their kid for three days, waiting for one tray bang."
+},
+{
+"t": 20.357,
+"dur": 2.727,
+"text": "They sold three hundred trays. Didn't bang a single one."
+},
+{
+"t": 23.882,
+"dur": 3.695,
+"text": "At two a.m., someone finally banged. Full story on the channel."
+}
+],
+"comments": [
+{
+"t": 2.949,
+"u": "@taylor.h",
+"c": "I'll take one, girl!",
+"end": 5.165
+}
+],
+"voice": [
+{
+"t": 0.0,
+"src": "loc/en/vo/bfe20a928a.wav"
+},
+{
+"t": 5.165,
+"src": "loc/en/vo/c4c8d693f6.wav"
+},
+{
+"t": 10.082,
+"src": "loc/en/vo/1ba4f9bfce.wav"
+},
+{
+"t": 17.231,
+"src": "loc/en/vo/6e98419cc5.wav"
+},
+{
+"t": 20.357,
+"src": "loc/en/vo/7df4d0945c.wav"
+},
+{
+"t": 23.882,
+"src": "loc/en/vo/11a98d5df5.wav"
+}
+],
+"mutes": [],
+"live": [
+[
+0.0,
+5.165
+]
+],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

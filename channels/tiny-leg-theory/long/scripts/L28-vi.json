@@ -1,0 +1,883 @@
+{
+ "id": "L28vi",
+ "lang": "vi",
+ "title": "Lướt bài của người khác sao cho không bị tụt tâm trạng?",
+ "description": "Vừa mở mạng xã hội còn vui vẻ, lướt hai mươi phút xong bỗng thấy mình bị tụt lại phía sau? Cùng tìm hiểu tám bẫy tâm lý phổ biến và bài tập thực tế để lấy lại bình yên.",
+ "chapters": [
+  {
+   "title": "Bẫy lướt mạng",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mở điện thoại xem tin tức một chút, hai mươi phút sau thấy lòng trống rỗng.",
+     "text": "BẪY LƯỚT MẠNG",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lướt nhóm lớp thấy bạn bè khoe đỗ học bổng, đi Phú Quốc, còn mình ngồi ăn gói mì tôm.",
+     "text": "GÓI MÌ TÔM",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là lao thẳng vào đấu cúp mà chưa khởi động hiệp nào.",
+     "text": "LỆCH HẠNG CÂN",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao một màn hình nhỏ lại đủ sức làm mình tự thấy đời mình kém cỏi?",
+     "text": "MẤT TỰ CHỦ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ não thời tiền sử đang gánh một bảng tin tốc độ cao được thiết kế để giữ chân bạn.",
+     "text": "BẢNG TIN CUỐN HÚT",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Liệu có cách nào lấy lại bình yên mà không cần vứt điện thoại xuống sông không?",
+     "text": "TÌM LẠI BÌNH YÊN?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Được chứ. Sau đây là tám bẫy tâm lý trên bảng tin cùng bài tập xử lý từng hiệp.",
+     "text": "TÁM BẪY TÂM LÝ",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. So sánh lên trên",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình liên tục nhìn người ta rồi thấy họ đi trước mình cả chục năm trời.",
+     "text": "1. SO SÁNH LÊN TRÊN",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ khoe mua nhà lên chức, còn công việc chăm chỉ mỗi ngày của mình trông thật nhỏ bé.",
+     "text": "TỰ THẤY NHỎ BÉ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đấy là so sánh lên trên: lấy ngày thường luộm thuộm đọ với lúc người ta nâng cúp.",
+     "text": "ĐỈNH ĐỌ VỚI ĐÁY",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao phản xạ tự nhiên của mình lại là ngước nhìn những người thành công nhất?",
+     "text": "SAO CỨ NGƯỚC NHÌN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng sinh tồn, hồi xưa nhìn người giỏi nhất bộ tộc để học cách sống sót.",
+     "text": "BẢN NĂNG SINH TỒN",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ tộc chỉ có vài người, còn bảng tin bắt bạn đọ với tinh hoa toàn cầu.",
+     "text": "ĐỐI THỦ TOÀN CẦU",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là đầu óc mình đang bị quá tải vì phải đọ với quá nhiều người giỏi?",
+     "text": "QUÁ TẢI HÌNH MẪU?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn rồi, muốn giữ phong độ thì phải chỉnh lại mục tiêu đối chiếu ngay lập tức.",
+     "text": "CHỈNH MỤC TIÊU",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ so mức tạ hôm nay với chính nỗ lực của bạn sáu tháng trước, không ai khác.",
+     "text": "SO VỚI CHÍNH MÌNH",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy nếu mình kiên trì hơn đợt trước là đã tiến bộ thực sự rồi đúng không?",
+     "text": "TIẾN BỘ TỰ THÂN?",
+     "color": "ink",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhưng vẫn còn một ảo giác thị giác bóp méo cách bạn nhìn không gian quanh mình.",
+     "text": "ẢO GIÁC TIẾP THEO",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "2. Hiệu ứng tương phản",
+   "sources": [
+    "s02",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Căn phòng trọ vẫn rất ổn cho tới khi xem người ta khoe căn hộ cao cấp.",
+     "text": "2. HIỆU ỨNG TƯƠNG PHẢN",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự dưng thấy bàn ghế cũ kỹ, ly cà phê nhạt nhẽo, cả chỗ ở trở nên chật chội.",
+     "text": "BỖNG THẤY HỤT HẪNG",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng tương phản đấy: não chỉ nhìn độ chênh lệch trước mắt chứ quên mất giá trị thật.",
+     "text": "CHÊNH LỆCH TỨC THÌ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy là căn phòng của mình chẳng hề tệ đi, chỉ có hệ quy chiếu bị thay đổi?",
+     "text": "CHỈ ĐỔI THƯỚC ĐO?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để màu xám cạnh màu đen thì thấy sáng, đặt cạnh màu trắng lại thấy dơ.",
+     "text": "MẸO MÀU XÁM",
+     "color": "ink",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mạng xã hội vây quanh bạn toàn sự xa hoa, làm đời sống bình thường trông như thiếu thốn.",
+     "text": "NGỠ MÌNH THIẾU THỐN",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để bảo vệ sự hài lòng của mình trước cơn hụt hẫng nhân tạo đó?",
+     "text": "BẢO VỆ GÓC NHÌN?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉnh lại hệ quy chiếu: xét xem nó dùng sướng thế nào thay vì nhìn vẻ hào nhoáng.",
+     "text": "NHÌN VÀO CÔNG NĂNG",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn công năng hơn hình thức. Kể tên hai món đồ trong phòng phục vụ bạn bền bỉ mỗi ngày.",
+     "text": "KỂ TÊN HAI MÓN ĐỒ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một chiếc ghế xoay êm lưng luôn ăn đứt cái ghế quán cà phê chỉ đẹp để sống ảo.",
+     "text": "CÔNG NĂNG LÀ TRÊN HẾT",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dù vậy, một số người vẫn nhạy cảm với tín hiệu xung quanh hơn bình thường.",
+     "text": "MÁY QUÉT BẨM SINH",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "3. So sánh xã hội",
+   "sources": [
+    "s03",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhiều người chẳng bận tâm, còn mình cứ soi tuổi tác, chức vụ rồi tình trạng hôn nhân của bạn bè.",
+     "text": "3. SO SÁNH XÃ HỘI",
+     "color": "ink",
+     "actor": "think",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy đứa ít tuổi hơn mua xe hay đính hôn là ngực mình lại thắt lại vì hoang mang.",
+     "text": "HOANG MANG TỐC ĐỘ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhiều người có thói quen quan sát xã hội nhạy hơn, đó là phản xạ chứ không phải lỗi lầm.",
+     "text": "MÁY QUÉT QUÁ NHẠY",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế chẳng lẽ đầu óc mình bị nguyền rủa là phải ghen tị suốt đời sao?",
+     "text": "BỊ NGUYỀN GHEN TỊ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không hề, não bạn chỉ đang bật máy quét để đo độ hòa nhập với tập thể thôi.",
+     "text": "MÁY QUÉT HÒA NHẬP",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vừa phải thì tốt, nhưng bảng tin vô tận nhồi hàng ngàn tín hiệu rác làm máy quét chập mạch.",
+     "text": "MÁY QUÉT QUÁ TẢI",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để chỉnh lại chiếc máy quét này để nó không bắt sóng tạp nham nữa?",
+     "text": "CHỈNH LẠI MÁY QUÉT?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lập một bảng điểm cá nhân bằng giấy bút, tự định nghĩa chiến thắng theo cách của bạn.",
+     "text": "BẢNG ĐIỂM CÁ NHÂN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chốt ba hiệp hôm nay: bốn tiếng tập trung làm việc, mười ngàn bước chân, đọc mười trang sách.",
+     "text": "BA CHỈ SỐ MỖI NGÀY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu thành tích của họ không có trong bảng điểm của mình, nó tính bằng không điểm trong đời mình.",
+     "text": "KHÔNG CÙNG MỘ SÂN",
+     "color": "green",
+     "actor": "think",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vả lại đằng sau mấy bài đăng hào nhoáng đó là cả đống lộn xộn trong cánh gà.",
+     "text": "HẬU TRƯỜNG LỘN XỘN",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "4. Bài đăng chọn lọc",
+   "sources": [
+    "s04",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trang cá nhân ai cũng toàn cà phê sang chảnh, quần áo tươm tất và thành tựu rực rỡ.",
+     "text": "4. BÀI ĐĂNG CHỌN LỌC",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Trong khi ngày của mình chỉ có hóa đơn tiền trọ, bát đĩa chưa rửa và tắc đường mệt mỏi.",
+     "text": "THỰC TẾ BỘN BỀ",
+     "color": "red",
+     "actor": "panic",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chiêu trò khoe mẽ cả đấy. Ai cũng khoe lúc nâng cúp, chẳng ai đăng cảnh thở dốc trên sàn tập.",
+     "text": "CHỈ KHOE LÚC NÂNG CÚP",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lý trí mình biết thừa là họ diễn, sao cảm xúc vẫn thấy tủi thân?",
+     "text": "BIẾT MÀ VẪN BUỒN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì não cảm xúc phản xạ ngay với hình ảnh lung linh trước khi lý trí kịp can thiệp.",
+     "text": "CẢM XÚC NHANH HƠN",
+     "color": "red",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tấm ảnh đi biển đó tốn năm mươi lần chụp, lựa góc rồi nửa tiếng bóp eo xóa mụn.",
+     "text": "NĂM MƯƠI LẦN BẤM",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có cách nào để đầu óc mình không bị vẻ lung linh đó đánh lừa nữa không?",
+     "text": "HÓA GIẢI LUNG LINH?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập hình dung sự chật vật phía sau từng ống kính máy ảnh.",
+     "text": "NHÌN VÀO HẬU TRƯỜNG",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tưởng tượng cảnh dựng chân máy cập rập, cười gượng gạo rồi nín bặt bực bội khi tắt máy.",
+     "text": "KHI TẮT ỐNG KÍNH",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tôn trọng đời thực mộc mạc sẽ giúp bạn không tự đọ sức với một nhân vật hư cấu.",
+     "text": "TRỌNG ĐỜI THẬT MỘC",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi hàng trăm cảnh dàn dựng lặp lại mỗi ngày, não sẽ sinh ra một ảo giác tập thể nguy hiểm.",
+     "text": "ẢO GIÁC TẬP THỂ",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "5. Bẫy sẵn có",
+   "sources": [
+    "s05",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cuối tuần nào cũng đi ăn cưới, đồng nghiệp tậu xe mới, ai cũng lên chức trước tuổi ba mươi.",
+     "text": "5. BẪY SẴN CÓ",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như cả xã hội đang lao về phía trước, còn mình thì mắc kẹt ở bàn làm việc.",
+     "text": "MẮC KẸT TẠI CHỖ?",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi thuật toán chiếu đi chiếu lại tiệc tùng ăn mừng, não bạn tưởng đời thường đã biến mất.",
+     "text": "ẢO TƯỞNG TẦN SUẤT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao cứ thấy lặp lại nhiều là mình lại tin cả một thế hệ ai cũng sung sướng như thế?",
+     "text": "TƯỞNG AI CŨNG SƯỚNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thuật toán bơm bài khoe nhà khoe xe vì nội dung giật gân giữ chân người xem lâu nhất.",
+     "text": "ƯU TIÊN HÀO NHOÁNG",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một trăm người khoe ảnh ăn mừng, nhưng hàng trăm ngàn người khác vẫn lặng lẽ đi làm và chẳng đăng gì.",
+     "text": "ĐA SỐ ĐANG LẶNG LẼ",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao kéo góc nhìn về thực tế thay vì chìm trong ảo giác mạng xã hội?",
+     "text": "KÉO VỀ ĐỜI THẬT?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mỗi khi thấy mình tụt hậu, hãy nhìn lại mẫu số khổng lồ đang sống bình thường ngoài kia.",
+     "text": "ĐẾM CẢ MẪU SỐ CHUNG",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự nhắc bản thân rằng mấy bài đăng gây sốt chỉ chiếm một phần rất nhỏ trong cuộc sống con người.",
+     "text": "CHỈ LÀ PHẦN RẤT NHỎ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đi làm bình thường, ăn bữa cơm đạm bạc mới là đại dương bao la của đời thực.",
+     "text": "ĐỜI THƯỜNG LÀ ĐA SỐ",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kể cả khi yên ổn, bộ não sinh tồn vẫn luôn chực chờ săn lùng những tín hiệu tiêu cực.",
+     "text": "SĂN LÙNG TIÊU CỰC",
+     "color": "ink",
+     "actor": "front",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "6. Thiên kiến tiêu cực",
+   "sources": [
+    "s06",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Được mười lời khen cho công việc thì chẳng sao, nhưng một câu chê bai là tụt sạch tâm trạng.",
+     "text": "6. THIÊN KIẾN TIÊU CỰC",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nằm trằn trọc quá nửa đêm chỉ để tua đi tua lại một bình luận mỉa mai thay vì ngủ ngon.",
+     "text": "TUA LẠI NỬA ĐÊM",
+     "color": "red",
+     "actor": "bed_phone_night",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiên kiến tiêu cực kinh điển: não ưu tiên ngửi thấy nguy cơ hơn là tận hưởng an toàn.",
+     "text": "ƯU TIÊN NGUY CƠ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao một lời chê nhỏ lại đau nhói rất lâu, còn cả đống lời khen thì bay sạch?",
+     "text": "SAO ĐAU DAI DẲNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để sống sót đấy. Bỏ lỡ bụi quả ngọt chỉ đói bụng, nhưng lơ là thú dữ là mất mạng ngay.",
+     "text": "QUẢ NGỌT VÀ THÚ DỮ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hệ thần kinh nhầm một câu kháy đểu trên mạng thành con hổ sắp vồ lấy bạn.",
+     "text": "BÁO ĐỘNG NHẦM",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tắt còi báo động đó khi người lạ buông lời cay đắng trên mạng?",
+     "text": "TẮT CÒI BÁO ĐỘNG?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tắt ứng dụng và đặt lệnh cấm mở lại trong suốt hai mươi tư giờ.",
+     "text": "NGHỈ HAI MƯƠI TƯ GIỜ",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tuyệt đối không đọc lại lời chê hay kiểm tra bài viết đó trước sáng ngày mai.",
+     "text": "ĐỂ ĐẾN SÁNG MAI",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một giấc ngủ sâu sẽ dập tắt cơn kích động và trả lại sự tỉnh táo cho bạn.",
+     "text": "NGỦ ĐỂ HỒI SỨC",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tệ hơn là nhiều người còn chủ động lùng sục những bài viết khiến mình thêm bất an.",
+     "text": "TỰ TÌM CHỖ ĐAU",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "7. Tiếp xúc chọn lọc",
+   "sources": [
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi thấy công việc giậm chân hay tài khoản cạn tiền, mình lại bấm vào xem người thành đạt.",
+     "text": "7. TIẾP XÚC CHỌN LỌC",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ruột gan cồn cào lo lắng, vậy mà ngón tay cứ tiếp tục lướt vào trang của họ.",
+     "text": "TAY CỨ BẤM LƯỚT",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là tiếp xúc chọn lọc. Khi thấy bất an, não sẽ săn lùng bằng chứng để củng cố nỗi sợ.",
+     "text": "CỦNG CỐ NỖI SỢ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao lại có người cố tình tìm kiếm thứ khiến mình thấy kém cỏi và đau khổ chứ?",
+     "text": "SAO TỰ LÀM KHỔ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não thà rõ ràng còn hơn dễ chịu. Nó ghét mơ hồ nên tìm bằng chứng để khẳng định.",
+     "text": "CẦN SỰ RÕ RÀNG",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu ngầm sợ mình kém cỏi, việc thấy người quá thành công sẽ xác nhận nỗi sợ đó là thật.",
+     "text": "XÁC NHẬN NỖI SỢ",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao cắt đứt cơn nghiện tìm kiếm này trước khi nó phá hỏng buổi tối của mình?",
+     "text": "CẮT CƠN TÌM KIẾM?",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khóa động tác lại ngay mỗi khi bạn ngứa tay muốn vào soi trang cá nhân người ta.",
+     "text": "KHÓA ĐỘNG TÁC",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trước khi gõ tên người ta, viết ra đúng một câu: mình muốn nhận lại cái gì sau cú bấm này.",
+     "text": "VIẾT RÕ MỤC ĐÍCH",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bắt ý thức gọi tên nỗi bất an sẽ dập tắt ngay xung động cảm xúc tự động đó.",
+     "text": "DẬP TẮT XUNG ĐỘNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ đến một bẫy tinh vi hơn: nhận vơ nỗi sợ của người khác làm của mình.",
+     "text": "HOẢNG LOẠN VAY MƯỢN",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    }
+   ]
+  },
+  {
+   "title": "8. Giám sát nguồn tin",
+   "sources": [
+    "s08",
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sáng nay mở mắt ra thấy nặng trĩu lo âu, dù cuộc sống của mình vẫn đang rất yên ổn.",
+     "text": "8. GIÁM SÁT NGUỒN TIN",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao cơ thể mình lại hoảng sợ khi hoàn cảnh thực tế vẫn rất bình yên?",
+     "text": "LO LẮNG VÔ CỚ?",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là lỗi giám sát nguồn tin: não giữ nguyên nỗi sợ nhưng vứt xó nguồn gốc phát ra.",
+     "text": "QUÊN MẤT NGUỒN GỐC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ý Buff là mình vừa ôm nỗi sợ của người lạ trên mạng về làm của mình sao?",
+     "text": "ÔM NỖI SỢ CỦA NGƯỜI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đêm qua bạn vừa lướt trúng mấy bài giật gân về làn sóng sa thải và mất việc đấy thôi.",
+     "text": "HOẢNG HỐT ĐÊM QUA",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não ghi nhớ cảm giác nguy hiểm, nhưng vứt xó cái nhãn ghi nguồn là từ bài viết giật gân đó.",
+     "text": "RƠI MẤT NHÃN NGUỒN",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tách biệt nỗi lo thực tế của mình với sự hoảng loạn vay mượn từ trên mạng?",
+     "text": "TÁCH NỖI LO THẬT?",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kiểm tra nguồn gốc ngay lập tức mỗi khi thấy cơn bất an vô cớ ập đến vào buổi sáng.",
+     "text": "KIỂM TRA NGUỒN GỐC",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Truy lại nhãn nguồn: tin đó nghe từ đâu, ai viết tiêu đề và ai hưởng lợi khi bạn hoảng sợ.",
+     "text": "AI HƯỞNG LỢI?",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu mối đe dọa đến từ tiêu đề thuật toán chứ không phải đời thực, buông ngay nỗi lo vay mượn.",
+     "text": "BUÔNG NỖI LO MƯỢN",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bây giờ gom tất cả bài tập lại thành một lịch rèn luyện thiết thực cho tuần này.",
+     "text": "BÀI TẬP TUẦN NÀY",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Tổng kết và thử thách",
+   "sources": [
+    "s01",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Đến giờ cất tạ rồi. Cả tám bẫy tâm lý quy về ba nguyên tắc rèn luyện tinh thần đơn giản.",
+     "text": "TỔNG KẾT VÀ THỬ THÁCH",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một: chỉnh lại mục tiêu, chỉ đọ với chính mình trong quá khứ thay vì bài đăng người khác.",
+     "text": "CHỈ SO VỚI QUÁ KHỨ",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai: nhớ lấy thực tế hậu trường và nhận ra phần lớn mọi người đều sống lặng lẽ như bạn.",
+     "text": "BỨC TRANH THỰC TẾ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba: dựng rào chắn cách ly chiếc điện thoại, hoãn phản ứng cảm xúc đúng một ngày.",
+     "text": "LÙI LẠI MỘT NGÀY",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rất rõ ràng rồi, vậy tuần này chúng mình có bài tập thực chiến nào không Buff?",
+     "text": "BÀI TẬP TUẦN NÀY?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là thử thách bảy ngày để bạn rèn cơ bắp tinh thần.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cắm sạc điện thoại ở ngoài phòng ngủ mỗi đêm, liên tục trong bảy ngày tới.",
+     "text": "SẠC PIN NGOÀI PHÒNG",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bảy đêm sạc ngoài hành lang để sáng ra thức dậy theo nhịp của mình thay vì của họ.",
+     "text": "THEO NHỊP CỦA MÌNH",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm theo dõi để rèn luyện tinh thần cùng Buff mỗi tuần. Ra đời thật tích lũy hiệp đấu đi bạn!",
+     "text": "RÈN LUYỆN ĐỜI THẬT",
+     "color": "green",
+     "actor": "sprint_start"
+    }
+   ]
+  }
+ ]
+}

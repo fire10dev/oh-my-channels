@@ -1,0 +1,9 @@
+build/
+scratch/
+engine/public/*
+!engine/public/sfx
+engine/node_modules
+out/**/*.mp4
+out/**/*.jpg
+out/**/*.png
+*.wav

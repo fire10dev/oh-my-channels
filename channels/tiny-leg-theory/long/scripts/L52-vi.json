@@ -1,0 +1,921 @@
+{
+ "id": "L52vi",
+ "lang": "vi",
+ "title": "Vì sao vừa bước sang phòng khác bạn đã quên mình định làm gì?",
+ "description": "Vừa mở cửa bước sang phòng khác là bạn quên sạch mình định làm gì? Khám phá tám lý do khiến não bộ đánh rơi ý định giữa chừng và cách giữ chắc sự tập trung.",
+ "chapters": [
+  {
+   "title": "Vì sao não bị đặt lại",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa hăm hở chạy xuống bếp tìm đồ, mở tủ lạnh ra là đứng đờ người.",
+     "text": "VÌ SAO NÃO ĐẶT LẠI",
+     "color": "red",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bình tĩnh Pen, đòn tạ chưa gãy đâu, chỉ là bộ nhớ tạm thời trượt tay thôi.",
+     "text": "LÀM RƠI TẠ RỒI",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một ngày bị ba lần, làm mình thấy bất lực quá Buff ơi.",
+     "text": "MẤT TRÍ TẠM THỜI",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bước sang phòng mới là não tự chia một ngày thành từng tập hồ sơ riêng.",
+     "text": "CHIA HỒ SƠ NÃO",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ý định bị xóa sạch chỉ vì mình bước qua một cánh cửa trống sao?",
+     "text": "BỊ XÓA SẠCH SAO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là tám lý do não đánh rơi việc giữa các phòng và cách sửa.",
+     "text": "TÁM NGUYÊN NHÂN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Ranh giới sự kiện",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đang ngồi làm việc đứng dậy tìm củ sạc điện thoại, ra tới cửa là quên sạch.",
+     "text": "1. RANH GIỚI SỰ KIỆN",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen vừa chạm ranh giới sự kiện rồi. Khung cửa hoạt động như nút đặt lại.",
+     "text": "CỬA PHÒNG ĐẶT LẠI",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ bước qua cái bậu cửa gỗ mà cũng xóa sạch được ý định sao?",
+     "text": "BƯỚC QUA CỬA GỖ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não coi mỗi căn phòng như kết thúc một hiệp và đổi bài tập mới.",
+     "text": "HIỆP TẬP MỚI",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là bước ra hành lang khiến não tưởng hiệp ngồi bàn đã xong?",
+     "text": "XONG MỘT HIỆP",
+     "color": "ink",
+     "actor": "think",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Nó cất việc cũ vào kho tạm để dọn chỗ cho việc mới.",
+     "text": "DỌN CHỖ NÃO BỘ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thảo nào vừa nhấc chân qua cửa là bao suy nghĩ bốc hơi sạch.",
+     "text": "BỐC HƠI Ở CỬA",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trước khi bước qua, hãy dừng lại và hình dung rõ vị trí món đồ.",
+     "text": "HÌNH DUNG MỤC TIÊU",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tưởng tượng củ sạc màu trắng cắm ở đầu giường trước khi đi sao?",
+     "text": "TƯỞNG TƯỢNG ĐỒ VẬT",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khóa chặt mục tiêu sẽ giúp Pen giữ chắc ý định khi bước qua cửa mà không rơi tạ.",
+     "text": "GIỮ CHẮC LẦN NÂNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đó là việc làm ngay, còn việc hẹn lát nữa làm lại tự trôi mất.",
+     "text": "VIỆC HẸN TỰ TRÔI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì việc hẹn làm sau đòi hỏi một nhóm cơ tinh thần khác gồng lên.",
+     "text": "VIỆC HẸN LÀM SAU",
+     "color": "gold",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "2. Trí nhớ tương lai",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Đó là trí nhớ tương lai, bó cơ giúp nhắc việc cần làm sau.",
+     "text": "2. TRÍ NHỚ TƯƠNG LAI",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự nhủ mười phút nữa gửi báo cáo cho sếp, rồi sau đó quên bẵng luôn.",
+     "text": "QUÊN BẴNG VIỆC HẸN",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là trí nhớ tương lai làm rơi tạ vì Pen không xếp người đỡ.",
+     "text": "KHÔNG NGƯỜI ĐỠ TẠ",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Này Buff, sao nhớ việc đã hẹn lại khó hơn nhớ chuyện hôm qua?",
+     "text": "TƯƠNG LAI VÀ QUÁ KHỨ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhớ chuyện cũ là xem lại dữ liệu, việc tương lai phải tự làm không chuông.",
+     "text": "KHÔNG CÓ CHUÔNG BÁO",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu không có gợi ý bên ngoài, dự định sẽ biến mất luôn sao?",
+     "text": "KẾ HOẠCH BIẾN MẤT",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không có tín hiệu nhắc, ý định sẽ tan vào mớ ồn ào sau vài phút.",
+     "text": "TAN VÀO TIẾNG ỒN",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tự đỡ tạ cho mình khi đi làm việc vặt khắp nhà đây?",
+     "text": "TỰ ĐỠ TẠ THẾ NÀO?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cầm một món đồ lạ tay, như chiếc bút nhớ, cho đến khi xong việc.",
+     "text": "CẦM MỘT VẬT LẠ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác cộm ở tay đóng vai trò như chuông báo, nhắc bộ nhớ không làm rơi việc.",
+     "text": "CHUÔNG BÁO XÚC GIÁC",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nó giúp Pen giữ chặt thanh tạ tâm trí cho tới khi đẩy xong.",
+     "text": "GIỮ CHẶT THANH TẠ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng dù tay cầm đồ, bước sang phòng khác mình vẫn bị khựng lại.",
+     "text": "SANG PHÒNG BỊ NGỢP",
+     "color": "ink",
+     "actor": "worried_heart"
+    }
+   ]
+  },
+  {
+   "title": "3. Đổi bối cảnh",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Rời bàn làm việc tối bước ra phòng khách sáng trưng là đầu trắng xóa.",
+     "text": "3. ĐỔI BỐI CẢNH",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cơ bị sốc vì chưa khởi động đấy. Ý nghĩ vừa nãy đang tựa vào tường phòng kia.",
+     "text": "CHƯA KHỞI ĐỘNG CƠ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ủa, suy nghĩ trong đầu mà cũng dựa vào mấy bức tường xung quanh sao?",
+     "text": "DỰA VÀO BỨC TƯỜNG?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não tự khóa suy nghĩ vào ánh sáng, tiếng ồn và nhiệt độ phòng.",
+     "text": "KHÓA VÀO MÔI TRƯỜNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên khi ánh sáng đổi đột ngột, giàn giáo đỡ suy nghĩ liền sụp đổ?",
+     "text": "GIÀN GIÁO SỤP ĐỔ",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cảm giác mới ùa vào như tạ nặng bất ngờ rơi ập xuống thanh đòn.",
+     "text": "TẠ NẶNG BẤT NGỜ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác như màn hình trong đầu vừa bị ai rút phích cắm điện.",
+     "text": "BỊ RÚT PHÍCH CẮM",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy bắc cầu giác quan. Đọc to màu sắc và hình dáng đồ vật trước.",
+     "text": "CẦU NỐI GIÁC QUAN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói to bình nước màu xanh giúp che chắn suy nghĩ trước ánh sáng mới?",
+     "text": "ĐỌC TÊN ĐỒ VẬT",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Việc gọi tên món đồ giúp ghim chặt sự chú ý, đưa ý định vượt qua bối cảnh mới an toàn.",
+     "text": "KHÓA CHẶT TẬP TRUNG",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù có đọc to che chắn, đôi lúc bình xăng tinh thần vẫn cạn sạch.",
+     "text": "CẠN BÌNH NĂNG LƯỢNG",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là vì kích hoạt thần kinh bị nguội trước khi chân bước tới nơi.",
+     "text": "MỨC KÍCH HOẠT NGUỘI",
+     "color": "gold",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "4. Kích hoạt mục tiêu",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Đó là độ kích hoạt mục tiêu bị nguội, tụt nhanh hơn Pen tưởng nhiều.",
+     "text": "4. KÍCH HOẠT MỤC TIÊU",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đang ngồi làm đứng dậy đi rót nước, mới vài bước mà động lực đã tan biến.",
+     "text": "ĐỘNG LỰC TAN BIẾN",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một mục tiêu nếu không được liên tục kích hoạt sẽ rất nhanh chìm xuống dưới tầng ý thức.",
+     "text": "CHÌM DƯỚI Ý THỨC",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao ý định trong đầu lại đuối sức nhanh đến thế khi vừa bước đi?",
+     "text": "ĐUỐI SỨC QUÁ NHANH",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ mục tiêu đòi hỏi não phát tín hiệu liên tục, như gồng giữ tạ.",
+     "text": "GỒNG GIỮ THANH TẠ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu không gồng liên tục, các suy nghĩ vẩn vơ sẽ xóa sạch ý định?",
+     "text": "SUY NGHĨ VẨN VƠ",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế Pen. Thả lỏng tay nắm là thanh tạ rơi xuống đất ngay.",
+     "text": "RƠI TẠ XUỐNG ĐẤT",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Buff chỉ mình cách giữ tín hiệu não liên tục mà không đuối sức xem?",
+     "text": "GIỮ TÍN HIỆU NÃO?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy lẩm nhẩm trong miệng. Lặp lại từ khóa hai âm tiết theo nhịp đi.",
+     "text": "LẨM NHẨM TỪ KHÓA",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lặp lại chữ nước mát theo nhịp sẽ giữ vòng lặp ngôn ngữ chạy liên tục trong đầu.",
+     "text": "VÒNG LẶP NGÔN NGỮ",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ nhịp lẩm nhẩm như từng lần đẩy tạ cho đến khi cất tạ an toàn.",
+     "text": "ĐẨY ĐỀU TỪNG NHỊP",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lạ là vừa ngồi xuống ghế, suy nghĩ thất lạc bỗng bật lại ngay.",
+     "text": "NGỒI XUỐNG LẠI NHỚ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    }
+   ]
+  },
+  {
+   "title": "5. Đặc hiệu mã hóa",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Đó là cơ chế bối cảnh mã hóa, chiếc chìa mở ngăn tủ ký ức.",
+     "text": "5. ĐẶC HIỆU MÃ HÓA",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cảm giác chiếc ghế làm việc mới là nơi giữ mật mã bộ não.",
+     "text": "MẬT MÃ TỪ CHIẾC GHẾ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Suy nghĩ được gắn với tư thế ngồi, góc nhìn và đồ đạc trên bàn.",
+     "text": "GẮN VỚI TƯ THẾ",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên bước ra hành lang là mình đã vô tình bỏ quên chìa khóa ký ức?",
+     "text": "BỎ LẠI CHÌA KHÓA",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hành lang không có màn hình máy tính, tài liệu và dáng ngồi lúc nãy.",
+     "text": "THIẾU TÍN HIỆU CŨ",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Và khi ngồi lại đúng chỗ cũ, tín hiệu trùng khớp liền mở khóa ngay?",
+     "text": "TRÙNG KHỚP TÍN HIỆU",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Khi gợi ý truy xuất khớp bối cảnh ban đầu, ổ khóa bật mở.",
+     "text": "Ổ KHÓA BẬT MỞ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nếu đứng đờ ở bếp mà đầu óc trắng xóa thì phải làm gì?",
+     "text": "ĐỨNG ĐỜ DƯỚI BẾP?",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng đi lòng vòng. Hãy nhớ lại góc bàn làm việc và dáng ngồi cũ.",
+     "text": "TÁI HIỆN BỐI CẢNH",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dựng lại bối cảnh trong đầu sẽ kéo ký ức về mà không cần quay lại.",
+     "text": "KÉO LẠI KÝ ỨC CŨ",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bài tập đó giúp tiết kiệm sức và lắp lại bánh tạ ký ức vào thanh đòn.",
+     "text": "TIẾT KIỆM THỜI GIAN",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù đi thẳng một mạch, mấy thứ ngoài hành lang vẫn thích phục kích mình.",
+     "text": "PHỤC KÍCH BẤT NGỜ",
+     "color": "ink",
+     "actor": "worried_heart"
+    }
+   ]
+  },
+  {
+   "title": "6. Nhiễu thông tin",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mới đi nửa đường nhìn đống quần áo chưa phơi là việc chính quên sạch.",
+     "text": "6. NHIỄU THÔNG TIN",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bị nhiễu nhận thức rồi Pen, tạ xao nhãng đập văng cả trí nhớ.",
+     "text": "XAO NHÃNG ĐẬP VĂNG",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một chậu quần áo bình thường cũng đủ sức đè bẹp việc mình định làm?",
+     "text": "CHẬU ĐỒ ĐÈ BẸP Ý ĐỊNH",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dung lượng trí nhớ có hạn, đồ đạc bừa bộn sẽ tranh giành băng thông.",
+     "text": "BĂNG THÔNG CÓ HẠN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên thấy bát đũa chưa rửa hay dép vứt bừa là não bị ép xử lý?",
+     "text": "ÉP XỬ LÝ VIỆC VẶT",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mớ lộn xộn cướp mất chú ý, tự tiện tháo bánh tạ khỏi thanh đòn.",
+     "text": "CƯỚP MẤT TẬP TRUNG",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đi qua hành lang bừa bộn chẳng khác nào vượt chướng ngại vật mỗi ngày.",
+     "text": "VƯỢT CHƯỚNG NGẠI VẬT",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy dựng cổng chặn âm thanh. Vừa đi vừa búng tay hoặc ngân nga một điệu nhạc.",
+     "text": "CỔNG CHẶN ÂM THANH",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngân nga đều đặn sẽ chiếm sóng giác quan để đồ lộn xộn không chen vào.",
+     "text": "CHIẾM SÓNG GIÁC QUAN",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen sẽ bảo vệ được làn tập khỏi nhiễu loạn cho tới khi đến tủ đồ.",
+     "text": "BẢO VỆ LÀN TẬP",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Buff nói thì dễ lắm, nhưng nếu bước vào phòng chẳng có manh mối nào sao?",
+     "text": "KHÔNG MANH MỐI NÀO",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là Pen đang ỷ lại vào căn phòng gánh tạ hộ não mình rồi.",
+     "text": "Ỷ LẠI VÀO CĂN PHÒNG",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "7. Gợi ý môi trường",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mở tủ bếp ra, nhìn đăm đăm vào đống gia vị đồ ăn rồi chờ được khai sáng.",
+     "text": "7. GỢI Ý MÔI TRƯỜNG",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen đang đợi môi trường gợi ý, để căn phòng nhắc bài thay vì tự siết chặt tư thế.",
+     "text": "SIẾT CHẶT TƯ THẾ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chúng mình thực sự dựa dẫm vào đồ vật bên ngoài nhiều đến thế sao?",
+     "text": "DỰA DẪM VÀO ĐỒ VẬT?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự giữ ý định làm tốn nhiên liệu, nên não lười biếng ngồi đợi manh mối.",
+     "text": "ĐỢI MANH MỐI NGOÀI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên nếu đồ không đập ngay vào mắt trên kệ, đầu óc sẽ bị khựng?",
+     "text": "ĐẦU ÓC BỊ KHỰNG",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không có tín hiệu trước mắt, não Pen mặc định hiệp tập đã kết thúc.",
+     "text": "TƯỞNG HIỆP ĐÃ XONG",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hèn chi đứng ngẩn người nhìn vào cái tủ tối chẳng bao giờ nhớ ra.",
+     "text": "NHÌN VÀO TỦ TỐI",
+     "color": "red",
+     "actor": "sofa_scroll"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tạo điểm gợi ý vật lý. Ghi nhanh tên món đồ ra mẩu giấy nhớ trước khi rời bước.",
+     "text": "GHI RA GIẤY NHỚ",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cầm mẩu giấy có chữ cà phê sẽ cho đôi mắt điểm kích hoạt tức thì.",
+     "text": "ĐIỂM KÍCH HOẠT NHANH",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen tự sắp người đỡ tạ trước thay vì chờ mấy cái kệ trống gánh hộ.",
+     "text": "TỰ CHUẨN BỊ ĐỠ TẠ",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình thử rồi, nhưng hôm qua tay chân lại tự bật chế độ lái tự động.",
+     "text": "TAY CHÂN TỰ LÁI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là lúc đường mòn thói quen cướp đứt quyền kiểm soát khỏi tay Pen.",
+     "text": "ĐƯỜNG MÒN THÓI QUEN",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "8. Trượt hành vi",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Cú lú kinh điển đó là trượt hành vi, khi thói quen tự động cướp lái.",
+     "text": "8. TRƯỢT HÀNH VI",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vào nhà tắm lấy chai nước súc miệng, thế nào tay lại tự nặn kem đánh răng.",
+     "text": "TỰ NẶN KEM ĐÁNH RĂNG",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cơ thể tự phóng lên cao tốc thói quen khi tài xế ý thức lơ là mơ mộng.",
+     "text": "CAO TỐC THÓI QUEN",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao ý thức vừa lơ là là cơ thể liền làm theo thói quen cũ ngay?",
+     "text": "TỰ ĐỘNG THEO THÓI QUEN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thói quen vận động không tốn năng lượng, nên não rất thích bật chế độ này.",
+     "text": "TIẾT KIỆM NĂNG LƯỢNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra cầm bàn chải chỉ là cơ bắp tự tập bài cũ theo phản xạ?",
+     "text": "PHẢN XẠ CƠ BẮP",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trừ khi Pen giữ chặt tay lái, còn không thói quen cũ sẽ cướp quyền ngay.",
+     "text": "GIỮ CHẶT TAY LÁI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để ý thức của mình luôn nắm quyền lái khi đi lại trong nhà?",
+     "text": "GIỮ QUYỀN LÁI NÃO?",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy tự thuyết minh từng hành động nhỏ cho đến khi cầm đúng món đồ trên tay.",
+     "text": "THUYẾT MINH HÀNH ĐỘNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thì thầm câu mình đang lấy nước súc miệng giúp khóa chặt ý thức khỏi thói quen.",
+     "text": "KHÓA CHẶT Ý THỨC",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đọc to từng chuyển động như đếm lần đẩy tạ để kết thúc hiệp tập trọn vẹn.",
+     "text": "ĐẾM TỪNG LẦN ĐẨY",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chúng mình điểm đủ tám thủ phạm rồi, giờ hãy gói thành quy trình tập nhé.",
+     "text": "QUY TRÌNH HÀNH ĐỘNG",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "Kế hoạch tác chiến",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Đây là giáo án tác chiến, gom tám cái bẫy cửa phòng thành ba quy tắc.",
+     "text": "KẾ HOẠCH TÁC CHIẾN",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao trị cái tật vừa đổi bối cảnh là đứng đờ người ra hả Buff?",
+     "text": "TRỊ TẬT ĐỨNG ĐỜ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quy tắc một là tạo mỏ neo thị giác bằng cách hình dung, gọi tên và ghi giấy.",
+     "text": "1. MỎ NEO THỊ GIÁC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn mục tiêu bị nguội, xao nhãng hành lang và thói quen tự lái thì sao?",
+     "text": "XAO NHÃNG TỰ LÁI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quy tắc hai là chủ động nhắc lại bằng lẩm nhẩm từ khóa, ngân nga và gọi tên.",
+     "text": "2. CHỦ ĐỘNG NHẮC LẠI",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Còn việc hẹn làm sau và các tín hiệu bối cảnh mất đi thì xử lý sao?",
+     "text": "KÝ ỨC THẤT LẠC?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quy tắc ba là neo bối cảnh bằng cách cầm vật gợi nhớ và tái hiện bàn cũ.",
+     "text": "3. NEO GIỮ BỐI CẢNH",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thử ngay thử thách bảy ngày, trước khi bước qua cửa phòng hãy dừng một nhịp.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký kênh, rèn tập trung mỗi tuần và đừng để cửa phòng cướp mất thành quả.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

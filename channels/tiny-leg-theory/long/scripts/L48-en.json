@@ -1,0 +1,906 @@
+{
+ "id": "L48",
+ "lang": "en",
+ "title": "Why Fake Urgency Makes You Spend: Eight Flash Sale Traps",
+ "description": "Ever wondered why a ticking countdown timer makes you hit buy immediately? We break down eight psychological traps behind flash sales and how to spot them in everyday shopping. Learn simple mental checks to protect your wallet and stay in control.",
+ "chapters": [
+  {
+   "title": "Why You Click Buy",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "It is midnight, you opened an app for seconds, and a screaming countdown says your cart discount expires soon.",
+     "text": "WHY YOU CLICK BUY",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Your pulse spikes, your thumb rushes to checkout, and you pay before your brain can even ask why.",
+     "text": "HEART RACING",
+     "color": "red",
+     "actor": "panic",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. You did not even want that junk sixty seconds ago.",
+     "text": "CAUGHT OFF GUARD",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does an artificial ticking clock turn normal people into frantic impulse shoppers?",
+     "text": "WHY THE RUSH?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Fake timers hijack your stress response, treating a minor discount like an urgent emergency.",
+     "text": "FALSE CRISIS",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Today we break down eight flash sale traps and train your mental defense against impulse buys.",
+     "text": "EIGHT TRAPS",
+     "color": "gold",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "1. Scarcity Trap",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I was looking at hotel rooms, and a flashing badge warned that only one room remained.",
+     "text": "1. SCARCITY TRAP",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I booked it instantly in a frantic rush, without checking the location or reading any reviews.",
+     "text": "RUSHED BOOKING",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Classic scarcity trap. When something looks scarce, your mind automatically assumes it holds massive value.",
+     "text": "SCARCITY AT WORK",
+     "color": "gold",
+     "actor": "34",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It felt like another traveler was about to snatch the prize right out of my hands.",
+     "text": "SNATCHED AWAY",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "For early humans, grabbing scarce food quickly meant surviving another winter.",
+     "text": "ANCIENT BIAS",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "E-commerce sites manufacture fake shortages to bypass your logic and push you through checkout.",
+     "text": "BYPASSING LOGIC",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Should I rush to open another tab to check if the counter is lying?",
+     "text": "CHECK THE COUNTER?",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "No way. Close the browser tab and take a mandatory twenty-minute walk instead.",
+     "text": "TAKE A WALK",
+     "color": "green",
+     "actor": "jogging",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "What if that hotel room is genuinely gone when I get back from my walk?",
+     "text": "WHAT IF IT GOES?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Three equal rooms will appear tomorrow. Treat walking away like your first warmup set of the day.",
+     "text": "FIRST WARMUP SET",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Besides, when a seller tries to force your hand, an internal rebel wakes up inside your head.",
+     "text": "A REBEL WAKES",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": null
+    }
+   ]
+  },
+  {
+   "title": "2. Reactance",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I tuned into a live tech stream, and the host yelled that a discounted charger was gone in sixty seconds.",
+     "text": "2. REACTANCE",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ten minutes earlier I had zero interest, but suddenly I felt an overwhelming urge to grab one.",
+     "text": "SUDDEN COMPULSION",
+     "color": "red",
+     "actor": "shocked",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is psychological reactance. When a salesperson restricts your freedom, your brain aggressively rebels against the limit.",
+     "text": "FREEDOM THREATENED",
+     "color": "gold",
+     "actor": "front",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "So hearing an aggressive countdown makes me buy just to feel like I am in charge?",
+     "text": "TAKING CHARGE?",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "For many shoppers, an expiring timer feels like an order, so buying feels like reclaiming personal control.",
+     "text": "FALSE CONTROL",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It is an illusion of autonomy. You think you are defying the timer, but the host orchestrated your move.",
+     "text": "THE SELLER WINS",
+     "color": "red",
+     "actor": "34",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Maybe I should buy the item and return it later just to beat their deadline?",
+     "text": "BUY AND RETURN?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bad form. Close the stream immediately and give yourself a mandatory fifteen-minute cooldown set.",
+     "text": "COOLDOWN SET",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Stepping away from the broadcast breaks the trance and gives me back genuine choice.",
+     "text": "BREAKING TRANCE",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Always. True power is keeping your cash inside your wallet on your own quiet terms.",
+     "text": "KEEP YOUR CASH",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Yet even when you step away, seeing hundreds of other people buying triggers a deeper tribal worry.",
+     "text": "THE TRIBAL CROWD",
+     "color": "gold",
+     "actor": "front",
+     "prop": "notification_bell"
+    }
+   ]
+  },
+  {
+   "title": "3. Social Exclusion",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "During that live stream, constant popups announced that hundreds of viewers were claiming the discount right now.",
+     "text": "3. SOCIAL EXCLUSION",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I felt this sudden spike of dread that everyone else was joining in while I was left outside.",
+     "text": "LEFT OUTSIDE",
+     "color": "red",
+     "actor": "panic",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is anticipated social exclusion. Human brains evolved to fear being separated from the protective herd.",
+     "text": "HERD INSTINCT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So seeing other names pop up makes my brain treat a discount code like social survival?",
+     "text": "BUYING BELONGING",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Live streams show purchase tickers because seeing a moving crowd makes you feel instinctively isolated.",
+     "text": "MANUFACTURED HERD",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Many flashing tickers are automated counters or amplified data meant to make you feel left out.",
+     "text": "AMPLIFIED TICKERS",
+     "color": "red",
+     "actor": "34",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I build resistance so that herd pressure does not push me around?",
+     "text": "BUILD RESISTANCE?",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mute live sale channels, kill the notifications, and treat screen silence like your cardio session.",
+     "text": "MUTE THE NOISE",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Once I silence the stream alerts, the illusion of an urgent stampede completely evaporates.",
+     "text": "STAMPEDE VANISHES",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lock those alerts down for twenty-four hours. You protect your attention and keep your hard-earned money safe.",
+     "text": "PROTECT ATTENTION",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Even without a crowd watching, your mind invents another trap: the fear of tomorrow morning.",
+     "text": "TOMORROW'S FEAR",
+     "color": "gold",
+     "actor": "front",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "4. Regret Aversion",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I hovered over an expiring electronics sale for two hours, terrified I would kick myself next week.",
+     "text": "4. REGRET AVERSION",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I kept picturing how awful it would feel if I needed that gadget later at full price.",
+     "text": "FEARING REGRET",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is anticipated regret. Research suggests we systematically overestimate how painful missing a temporary bargain will feel.",
+     "text": "OVERESTIMATED PAIN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does the thought of a missed sale sting more than the cost of buying junk?",
+     "text": "UNBALANCED STING",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your mind magnifies the immediate sting of missing out, while hiding the heavy burden of useless clutter.",
+     "text": "HIDDEN BURDEN",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Marketers frame expiring deals like emergencies to drain your emotional stamina until you cave in.",
+     "text": "DRAINED STAMINA",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I guess I am paying eighty dollars just to dodge five minutes of disappointment.",
+     "text": "PAYING FOR RELIEF",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Picture yourself unboxing that gadget two weeks from today. That emotional buzz is completely gone.",
+     "text": "TWO-WEEK REALITY",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Whenever I check past impulse buys, the excitement always faded within two short days.",
+     "text": "FADING EXCITEMENT",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Buyer remorse lasts for months, while the minor sting of missing out vanishes before your morning workout.",
+     "text": "REMORSE OUTLASTS",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now look at how shopping apps hijack your attention by dangling tiny discounts on an accelerated clock.",
+     "text": "ACCELERATED CLOCKS",
+     "color": "gold",
+     "actor": "34",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "5. Mere Urgency",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I sat down to pay my monthly electric bill, but dropped everything to grab a five-minute coffee coupon.",
+     "text": "5. MERE URGENCY",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My essential utility bill mattered far more, yet a tiny expiring discount felt impossibly critical right then.",
+     "text": "TRIVIAL OVER VITAL",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You hit the mere urgency effect. People routinely drop high-value priorities to chase trivial tasks with short deadlines.",
+     "text": "URGENCY EFFECT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why would I risk late fees on a real bill just to save two dollars on beans?",
+     "text": "WHY RISK BILLS?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Clearing an urgent deadline gives your brain an instant hit of completion, so you grab fast checkouts.",
+     "text": "CLEARING TENSION",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Commercial timers hijack your focus away from genuine life priorities.",
+     "text": "HIJACKED FOCUS",
+     "color": "red",
+     "actor": "34",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "So whenever a countdown pops up, I just need to ask: is this truly important, or merely urgent?",
+     "text": "IMPORTANT OR URGENT?",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Spot on. Do three reps of pausing to ask that question before touching any checkout button.",
+     "text": "THREE PAUSE REPS",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When I say it out loud, saving pocket change on coffee is never ever important.",
+     "text": "CLEARLY TRIVIAL",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Knock out your real obligations first. Let the urgent commercial coupons expire without a second thought.",
+     "text": "FINISH REAL WORK",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now notice what happens to your decision-making when a cart countdown enters its final sixty seconds.",
+     "text": "FINAL SECONDS",
+     "color": "gold",
+     "actor": "front",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "6. Deadline Effect",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "An online store gave me a five-minute cart lock to complete my transaction or lose my items.",
+     "text": "6. DEADLINE EFFECT",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I rushed through without reading the return policy, and completely ignored a twenty-dollar shipping fee.",
+     "text": "IGNORING SURCHARGES",
+     "color": "red",
+     "actor": "panic",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is the deadline effect. Tunnel vision means your mental tank is completely gassed under time pressure.",
+     "text": "TUNNEL VISION",
+     "color": "gold",
+     "actor": "front",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "My rational brain completely shut down as I watched those numbers tick toward zero.",
+     "text": "LOGIC SHUTS DOWN",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Time pressure overloads your brain, forcing your focus into a narrow tunnel that ignores fine print.",
+     "text": "FAST SHORTCUTS",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You stop evaluating whether you genuinely need the item, focusing entirely on beating the running clock.",
+     "text": "BEATING THE CLOCK",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I break out of that panic when the clock is flashing right in my face?",
+     "text": "BREAKING TUNNEL",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Take a strict sixty-second breath test. Hands off the keyboard, and check the final total with added fees.",
+     "text": "BREATH TEST",
+     "color": "green",
+     "actor": "meditating",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "If the cart expires while I am taking deep breaths, I just let the order drop.",
+     "text": "LET IT EXPIRE",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Letting an artificial cart timer expire costs zero dollars, while panic shopping empties your bank account.",
+     "text": "ZERO DOLLAR COST",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Next, look closely at that giant crossed-out number printed right above the sale price.",
+     "text": "CROSSED OUT PRICES",
+     "color": "gold",
+     "actor": "34",
+     "prop": null
+    }
+   ]
+  },
+  {
+   "title": "7. Price Anchoring",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I saw a winter jacket marked down from three hundred dollars to just eighty dollars in a flash clearance.",
+     "text": "7. PRICE ANCHORING",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "It felt like I was practically saving two hundred and twenty dollars just by ordering it.",
+     "text": "ILLUSION OF SAVINGS",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "You fell for price anchoring. The first number you see establishes your baseline perception of reasonable value.",
+     "text": "THE ANCHOR NUMBER",
+     "color": "gold",
+     "actor": "front",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So that three hundred dollar original tag was deliberately placed there to distort my judgment?",
+     "text": "DISTORTED VALUE",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Many retailers inflate original prices specifically so standard discounts look like incredible windfalls.",
+     "text": "INFLATED BASELINES",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "You did not save two hundred dollars. You simply gave away eighty dollars of actual cash.",
+     "text": "REAL CASH SPENT",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I cut through the anchor when a huge markdown blinds me?",
+     "text": "CUTTING ANCHORS",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Use the cash-in-hand test: would you hand over eighty paper dollars if no original price was crossed out?",
+     "text": "CASH-IN-HAND TEST",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When I picture handing over crisp paper bills, the magical bargain disappears completely.",
+     "text": "MAGIC DISAPPEARS",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Judge every purchase against your budget, never against an imaginary baseline anchor invented by a marketer.",
+     "text": "BUDGET OVER ANCHORS",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Finally, consider the hidden cognitive bias that makes doing nothing feel like an unbearable mistake.",
+     "text": "FEAR OF INACTION",
+     "color": "gold",
+     "actor": "34",
+     "prop": null
+    }
+   ]
+  },
+  {
+   "title": "8. Omission Bias",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "When a flash sale timer is running down, sitting on the sofa doing nothing feels completely wrong.",
+     "text": "8. OMISSION BIAS",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "sofa"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Buying feels like taking responsible action, while letting the deal pass feels like a foolish failure.",
+     "text": "INACTION FEELS WRONG",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Urgency hijacks your omission bias. Inaction normally feels safe, but ticking clocks reframe sitting still as an active loss.",
+     "text": "HIJACKED OMISSION",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does an artificial deadline make sitting still feel so intensely risky?",
+     "text": "WHY FEELS RISKY?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Timers reframe inaction as a permanent loss, making your mind dread omission far more than wasted cash.",
+     "text": "INACTION AS LOSS",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "You convince yourself that buying an unneeded item is safer than bearing the regret of doing nothing.",
+     "text": "IRRATIONAL SAFETY",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": null
+    },
+    {
+     "speaker": "pen",
+     "vo": "So letting the clock run out feels like an error, even though my wallet stays completely safe.",
+     "text": "WALLET STAYS SAFE",
+     "color": "ink",
+     "actor": "think",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Reframe doing nothing as an intentional defensive set. Inaction is actively choosing to keep your wealth.",
+     "text": "DEFENSIVE SET",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Watching the timer hit zero without clicking buy is actually a major test of discipline.",
+     "text": "TEST OF DISCIPLINE",
+     "color": "ink",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It is the best lift you can perform. Let the timer expire, take a deep breath, and smile.",
+     "text": "BEST LIFT",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Now let us bring all eight traps together into a clear seven-day challenge you can start today.",
+     "text": "BRINGING IT TOGETHER",
+     "color": "gold",
+     "actor": "front",
+     "prop": null
+    }
+   ]
+  },
+  {
+   "title": "The Seven-Day Reset",
+   "sources": [
+    "s01",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Let us group these eight psychological traps into three practical defensive rules for everyday shopping.",
+     "text": "THE SEVEN-DAY RESET",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "First, artificial limits: inventory counters, deadline clocks, and inflated anchor prices are marketing props, not reality.",
+     "text": "ARTIFICIAL LIMITS",
+     "color": "gold",
+     "actor": "think",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Second, emotional triggers: reactance, exclusion fear, and anticipated regret hijack your pride.",
+     "text": "EMOTIONAL TRIGGERS",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Third, action traps: urgency and omission bias trick you into treating doing nothing like a defeat.",
+     "text": "ACTION TRAPS",
+     "color": "gold",
+     "actor": "confused_shrug",
+     "prop": null
+    },
+    {
+     "speaker": "buff",
+     "vo": "Here is your seven-day challenge: for one week, wait twenty-four hours before buying anything on sale.",
+     "text": "SEVEN-DAY CHALLENGE",
+     "color": "green",
+     "actor": "front",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If I still want the item tomorrow, I know it is a genuine choice, not panic.",
+     "text": "GENUINE INTEREST",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I am keeping my wallet firmly shut this week.",
+     "text": "WALLET SHUT",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is rep number one. Hit subscribe and let us build your mental discipline together.",
+     "text": "REP NUMBER ONE",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": null
+    }
+   ]
+  }
+ ]
+}

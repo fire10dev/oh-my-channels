@@ -12,3 +12,8 @@
 !*.txt
 !*.svg
 !*.csv
+
+# build/deps never tracked (whitelist above re-includes dirs)
+node_modules/
+.remotion/
+.cache/

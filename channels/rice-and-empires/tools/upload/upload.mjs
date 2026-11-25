@@ -6,7 +6,7 @@
 //   node upload.mjs S006 --at "2026-11-09 09:00" [--confirm]   # private + publishAt (time in +07)
 //   options: --file <mp4>
 //
-// Title/description: `## Publishing` in scripts/<id>-*.md. Video: shorts/out/<id>-*.mp4 (not *-raw.mp4).
+// Title/description: `## Publishing` in the episode script (tools/ep.py). Video: <episode>/render/<id>-*.mp4 (not *-raw.mp4).
 // Without --confirm nothing is uploaded (dry run: parse + auth check + what would be sent). Stdout: one SUMMARY line.
 // Credentials (outside the repo): ~/.cache/rice-youtube/client_secret.json (OAuth client, type Desktop) and token.json (made by `auth`).
 // Quota: videos.insert ≈ 1600 units of 10 000/day.
@@ -15,7 +15,7 @@ import path from 'node:path';
 import os from 'node:os';
 import http from 'node:http';
 import crypto from 'node:crypto';
-import {execFile} from 'node:child_process';
+import {execFile, execFileSync} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
 
 const REPO = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
@@ -100,9 +100,11 @@ const mode = opt('at') ? 'schedule' : flag('now') ? 'public' : 'private';
 const summary = (status, vid) => console.log(`SUMMARY ${id} ${vid ? `https://youtube.com/shorts/${vid}` : '-'} ${status}`);
 const die = (msg) => { log('FATAL', msg); summary(`FAIL ${msg}`); process.exit(2); };
 
-const scriptFile = fs.readdirSync(path.join(REPO, 'scripts')).find((f) => f.startsWith(`${id}-`) && f.endsWith('.md'));
-if (!scriptFile) die(`no scripts/${id}-*.md`);
-const md = fs.readFileSync(path.join(REPO, 'scripts', scriptFile), 'utf8');
+// Episode folder (tools/ep.py): script.md + render/ (standalone short) or long/script.md + long/render/ (LONG).
+const epDir = execFileSync('python3', [path.join(REPO, 'tools/ep.py'), id], {encoding: 'utf8'}).trim();
+const scriptPath = execFileSync('python3', [path.join(REPO, 'tools/ep.py'), id, 'script'], {encoding: 'utf8'}).trim();
+if (!fs.existsSync(scriptPath)) die(`no ${scriptPath}`);
+const md = fs.readFileSync(scriptPath, 'utf8');
 const sec = md.split(/^## Publishing.*$/m)[1]?.split(/^## /m)[0];
 if (!sec) die('no "## Publishing" section');
 const title = sec.match(/^Title:\s*\*{0,2}(.+?)\*{0,2}\s*$/m)?.[1]?.trim();
@@ -113,10 +115,10 @@ if (!title || !desc) die('cannot parse Title/Description');
 if (title.length > 100) die(`title ${title.length} chars > 100`);
 if (/[<>]/.test(title + desc)) die('title/description contain < or > (rejected by API)');
 
-const outDir = path.join(REPO, 'shorts', 'out');
+const outDir = [path.join(epDir, 'render'), path.join(epDir, 'long', 'render'), epDir].find((d) => fs.existsSync(d));
 const file = opt('file') ||
   path.join(outDir, fs.readdirSync(outDir).filter((f) => f.startsWith(`${id}-`) && f.endsWith('.mp4') && !f.includes('-raw')).sort()[0] || 'MISSING');
-if (!fs.existsSync(file)) die(`no video shorts/out/${id}-*.mp4`);
+if (!fs.existsSync(file)) die(`no video ${outDir}/${id}-*.mp4`);
 
 let publishAt;
 if (mode === 'schedule') {

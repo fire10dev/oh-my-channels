@@ -1,0 +1,328 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 46.849,
+"shots": [
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 4.173,
+"a": [
+800,
+700,
+460
+],
+"b": [
+800,
+700,
+340
+],
+"flash": 1
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.173,
+"t1": 12.481,
+"a": [
+1000,
+576,
+648
+],
+"b": [
+1000,
+540,
+460
+]
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 12.481,
+"t1": 15.759,
+"a": [
+1500,
+460,
+460
+],
+"b": [
+1500,
+440,
+340
+]
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 15.759,
+"t1": 18.997,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1024,
+600,
+460
+]
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 18.997,
+"t1": 21.039,
+"a": [
+800,
+700,
+460
+],
+"b": [
+800,
+700,
+340
+]
+},
+{
+"img": "p01/img/S32.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 21.039,
+"t1": 23.489,
+"a": [
+800,
+700,
+340
+],
+"b": [
+800,
+700,
+300
+]
+},
+{
+"img": "p01/img/S33.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 23.489,
+"t1": 28.872,
+"a": [
+1300,
+576,
+648
+],
+"b": [
+1300,
+520,
+460
+]
+},
+{
+"img": "p01/img/S34.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 28.872,
+"t1": 34.158,
+"a": [
+880,
+576,
+648
+],
+"b": [
+880,
+330,
+460
+]
+},
+{
+"img": "p01/img/B04.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 34.158,
+"t1": 41.495,
+"a": [
+672,
+760,
+1008
+],
+"b": [
+672,
+700,
+760
+]
+},
+{
+"img": "p01/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 41.495,
+"t1": 46.349,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p01/img/cut_B02.png",
+"size": 1344,
+"t0": 41.495,
+"t1": 46.349,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.15,
+"t1": 4.173,
+"text": "50% OF REVENUE",
+"color": "#ffd84a"
+},
+{
+"t0": 4.576,
+"t1": 12.481,
+"text": "30,000,000 VIEWS",
+"color": "#ffd84a"
+},
+{
+"t0": 21.039,
+"t1": 23.489,
+"text": "50% OF REVENUE. MOM'S HEAD, MOM'S CUT.",
+"color": "#ffffff"
+},
+{
+"t0": 34.512,
+"t1": 41.495,
+"text": "NEXT TIME",
+"color": "#ffd84a"
+},
+{
+"t0": 41.678,
+"t1": 46.349,
+"text": "SUBSCRIBE",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.7
+},
+{
+"t": 21.039,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.7
+},
+{
+"t": 41.495,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 45.076,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 3.623,
+"text": "Fifty percent of the revenue. Because this head belongs to Mom."
+},
+{
+"t": 4.173,
+"dur": 8.058,
+"text": "That clip has thirty million views now. Nobody believes it's real. Good. If they don't believe, I can still sneak out for a late meal."
+},
+{
+"t": 12.481,
+"dur": 6.266,
+"text": "He paid off his debts. He still sets up the camera at dinner. But when he turns it off, he sits and eats with me."
+},
+{
+"t": 18.997,
+"dur": 1.741,
+"text": "And I gave him a piece of paper."
+},
+{
+"t": 23.489,
+"dur": 10.42,
+"text": "Fifty years as a ma lai, and she never scared anyone. Three months online, and she's got a revenue deal. I've sat on cabinets for centuries. Nobody's paid me a dime."
+},
+{
+"t": 34.158,
+"dur": 7.088,
+"text": "Next time: an underworld clerk shows up at a sewing shop to take attendance, and marks exactly one person wrong."
+},
+{
+"t": 41.495,
+"dur": 3.654,
+"text": "Hit subscribe. Or tonight I'll be sitting on top of your cabinet."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/en/vo/4827c7d5de.wav"
+},
+{
+"t": 4.173,
+"src": "loc/en/vo/d0fd49986e.wav"
+},
+{
+"t": 12.481,
+"src": "loc/en/vo/10043e8b4e.wav"
+},
+{
+"t": 18.997,
+"src": "loc/en/vo/19a8cb507e.wav"
+},
+{
+"t": 23.489,
+"src": "loc/en/vo/ca821c1126.wav"
+},
+{
+"t": 34.158,
+"src": "loc/en/vo/57a073c57a.wav"
+},
+{
+"t": 41.495,
+"src": "loc/en/vo/81693f1336.wav"
+}
+],
+"mutes": [],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

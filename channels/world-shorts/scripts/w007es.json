@@ -1,0 +1,130 @@
+{
+ "id": "w007es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#e11d48",
+ "cover_frame": 60,
+ "source": "Largo y ancho: CIA World Factbook · Encyclopaedia Britannica",
+ "music": "shared/library/music/yt-audio-library/Exploring The Crystal Caves - Asher Fulero.mp3",
+ "beats": [
+  {
+   "say": "Chile es el país con la forma más extraña del mundo.",
+   "title": "CHILE NO TIENE SENTIDO",
+   "cam": {
+    "lon": -70,
+    "lat": -35,
+    "span": 45
+   },
+   "hl": [
+    {
+     "a3": "CHL",
+     "color": "#e11d48"
+    }
+   ]
+  },
+  {
+   "say": "Mide unos cuatro mil trescientos kilómetros de largo, pero en promedio solo unos ciento ochenta de ancho.",
+   "cam": {
+    "lon": -70,
+    "lat": -35,
+    "span": 45
+   },
+   "hl": [
+    {
+     "a3": "CHL",
+     "color": "#e11d48"
+    }
+   ],
+   "bars": {
+    "unit": " km",
+    "items": [
+     {
+      "label": "Largo",
+      "value": 4300,
+      "color": "#e11d48"
+     },
+     {
+      "label": "Ancho promedio",
+      "value": 180,
+      "color": "#ffd23f"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Ahora ponlo sobre Europa, al mismo tamaño.",
+   "cam": {
+    "lon": 5,
+    "lat": 45,
+    "span": 60
+   },
+   "ghost": {
+    "a3": "CHL",
+    "to": [
+     12,
+     50
+    ],
+    "color": "#e11d48"
+   }
+  },
+  {
+   "say": "Iría desde el Ártico en Noruega hasta casi el norte de África.",
+   "cam": {
+    "lon": 10,
+    "lat": 50,
+    "span": 55
+   },
+   "ghost": {
+    "a3": "CHL",
+    "to": [
+     12,
+     50
+    ],
+    "color": "#e11d48"
+   }
+  },
+  {
+   "say": "Al norte, el Atacama, uno de los desiertos más secos del planeta. Al sur, glaciares y fiordos.",
+   "cam": {
+    "lon": -70,
+    "lat": -35,
+    "span": 45
+   },
+   "hl": [
+    {
+     "a3": "CHL",
+     "color": "#e11d48"
+    }
+   ],
+   "pins": [
+    {
+     "lon": -69.5,
+     "lat": -23.5,
+     "text": "Desierto de Atacama"
+    },
+    {
+     "lon": -73.5,
+     "lat": -50.5,
+     "text": "Glaciares"
+    }
+   ]
+  },
+  {
+   "say": "Un solo país, casi todos los climas del planeta. Sígueme para más.",
+   "title": "UN PAÍS. TODOS LOS CLIMAS.",
+   "cam": {
+    "lon": -70,
+    "lat": -35,
+    "span": 45
+   },
+   "hl": [
+    {
+     "a3": "CHL",
+     "color": "#e11d48"
+    }
+   ]
+  }
+ ]
+}

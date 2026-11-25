@@ -1,0 +1,12 @@
+{"id":"w011","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#0891b2","cover_frame":60,
+ "source":"Population: National Statistics Office of Mongolia · Area: CIA World Factbook","music":"shared/library/music/yt-audio-library/A Distant Call - Dan _Lebo_ Lebowitz, Tone Seeker.mp3",
+ "beats":[
+  {"say":"This is the emptiest country on Earth.","title":"THE EMPTIEST COUNTRY ON EARTH","cam":{"lon":103,"lat":46.5,"span":40},"hl":[{"a3":"MNG","color":"#0891b2"}]},
+  {"say":"Mongolia is bigger than France, Germany, Italy and the UK combined.","cam":{"lon":103,"lat":46.5,"span":40},"hl":[{"a3":"MNG","color":"#0891b2"}],
+   "bars":{"unit":"M km²","items":[{"label":"Mongolia","value":1.56,"color":"#0891b2"},{"label":"FR + DE + IT + UK","value":1.45,"color":"#ffd23f"}]}},
+  {"say":"But only about three and a half million people live there. That's around two people per square kilometer.","cam":{"lon":103,"lat":46.5,"span":38},"hl":[{"a3":"MNG","color":"#0891b2"}],"big":{"value":"2","label":"people per km²"}},
+  {"say":"And almost half of them live in one city: Ulaanbaatar.","cam":{"lon":106.9,"lat":47.9,"span":14},"hl":[{"a3":"MNG","color":"#164e63"}],"pins":[{"lon":106.92,"lat":47.92,"text":"Ulaanbaatar"}]},
+  {"say":"It's also the coldest capital city in the world. The average temperature over the whole year is below zero.","cam":{"lon":106.9,"lat":47.9,"span":14},"pins":[{"lon":106.92,"lat":47.92,"text":"Ulaanbaatar"}],"big":{"value":"-1°C","label":"yearly average"}},
+  {"say":"Squeezed between Russia and China, with no coast at all.","cam":{"lon":103,"lat":45,"span":60},"hl":[{"a3":"MNG","color":"#0891b2"},{"a3":"RUS","color":"#475569"},{"a3":"CHN","color":"#7f1d1d"}]},
+  {"say":"Huge country, almost nobody home. Follow for more.","title":"HUGE COUNTRY. NOBODY HOME.","cam":{"lon":103,"lat":46.5,"span":40},"hl":[{"a3":"MNG","color":"#0891b2"}]}
+ ]}

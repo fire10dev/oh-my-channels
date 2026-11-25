@@ -1,0 +1,89 @@
+{
+ "title": "Por que mergulhadores de saturação parecem desenhos animados",
+ "hook": "VOZ DE HÉLIO",
+ "asof": "Dados de 2026",
+ "world": "sat",
+ "long": "IX005",
+ "chapters": [
+  {
+   "id": "voice",
+   "hud": "DIA 2",
+   "chip": "07:00",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "chamber",
+     "plane": "voice",
+     "you": "chamber",
+     "s": "Esses mergulhadores passam semanas respirando hélio."
+    },
+    {
+     "v": "ship",
+     "s": "Numa câmara selada no convés de um navio,"
+    },
+    {
+     "v": "chamber",
+     "s": "mantida à pressão do fundo do mar."
+    },
+    {
+     "v": "chamber",
+     "st": [
+      "HÉLIOX",
+      "hélio + oxigênio"
+     ],
+     "s": "Eles respiram uma mistura de hélio e oxigênio."
+    },
+    {
+     "v": "chamber",
+     "plane": "voice",
+     "you": "chamber",
+     "s": "Por isso, a voz fica fina e estridente."
+    },
+    {
+     "v": "control",
+     "s": "Tão fina que a equipe mal entende lá fora."
+    },
+    {
+     "v": "control",
+     "plane": "voice",
+     "s": "Uma máquina decodifica o que eles dizem."
+    },
+    {
+     "v": "chamber",
+     "s": "E o hélio rouba o calor do corpo,"
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "a cada expiração."
+    },
+    {
+     "v": "gauge",
+     "plane": "temp",
+     "s": "Por isso, a câmara fica aquecida."
+    },
+    {
+     "v": "chamber",
+     "st": [
+      "29–34 °C",
+      "temperatura da câmara · DAN"
+     ],
+     "s": "Em geral, fica entre vinte e nove e trinta e quatro graus."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "28 DIAS",
+      "small": "máximo normal em saturação · DMAC 21"
+     },
+     "s": "Por até vinte e oito dias."
+    },
+    {
+     "v": "table",
+     "you": "table",
+     "s": "Você conseguiria viver assim?"
+    }
+   ]
+  }
+ ]
+}

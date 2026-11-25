@@ -1,0 +1,999 @@
+{
+ "chapters": [
+  "Three Times",
+  "The World in 1257",
+  "First Contact",
+  "Kublai's Demands",
+  "1285",
+  "The Supply War",
+  "Bạch Đằng",
+  "Why It Ended"
+ ],
+ "rows": [
+  {
+   "id": "01",
+   "ch": 0,
+   "sub": "The Mongols took Thăng Long, the capital of Đại Việt, three times: in 1258, in 1285, and again in 1288.",
+   "say": "The Mongols took Tahng Long, the capital of Die Vee-et, three times: in twelve fifty-eight, in twelve eighty-five, and again in twelve eighty-eight.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/clip-1.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-01.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "02",
+   "ch": 0,
+   "sub": "Each time, they had to leave. In the end, they never held the kingdom of Đại Việt.",
+   "say": "Each time, they had to leave. In the end, they never held the kingdom of Die Vee-et.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s002/img-00.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-02.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "03",
+   "ch": 0,
+   "sub": "Why not? The answer is not one heroic battle. It is strategy, supply, climate and politics. Let's see what each side's records say.",
+   "say": "Why not? The answer is not one heroic battle. It is strategy, supply, climate and politics. Let's see what each side's records say.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-03.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": "0"
+  },
+  {
+   "id": "04",
+   "ch": 1,
+   "sub": "By the 1250s, the Mongols ruled from northern China to Persia. In 1258, another Mongol army sacked Baghdad.",
+   "say": "By the twelve fifties, the Mongols ruled from northern China to Persia. In twelve fifty-eight, another Mongol army sacked Baghdad.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-04.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-05.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "1",
+   "cardAfter": null
+  },
+  {
+   "id": "05",
+   "ch": 1,
+   "sub": "Their great unfinished war was against the Song dynasty, which still held southern China.",
+   "say": "Their great unfinished war was against the Song dynasty, which still held southern China.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-06.jpg"
+    },
+    {
+     "k": "map",
+     "state": "mongol_1258"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "06",
+   "ch": 1,
+   "sub": "During that war, Mongol armies had already conquered the kingdom of Dali, in today's Yunnan, in the early 1250s.",
+   "say": "During that war, Mongol armies had already conquered the kingdom of Dah-lee, in today's Yoon-nahn, in the early twelve fifties.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-07.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s002/img-01.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "07",
+   "ch": 1,
+   "sub": "South of Yunnan lay Đại Việt, ruled by the Trần dynasty from Thăng Long, today's Hanoi.",
+   "say": "South of Yoon-nahn lay Die Vee-et, ruled by the Chun dynasty from Tahng Long, today's Hanoi.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-08.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-09.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "08",
+   "ch": 1,
+   "sub": "For the Mongols, Đại Việt lay on the southern edge of their campaigns. For the Trần, the Mongols were a new power on the border.",
+   "say": "For the Mongols, Die Vee-et lay on the southern edge of their campaigns. For the Chun, the Mongols were a new power on the border.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-10.jpg"
+    },
+    {
+     "k": "tl",
+     "year": "1257"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "09",
+   "ch": 2,
+   "sub": "Late in 1257, the Mongol general Uriyangkhadai marched down from Yunnan toward the Red River.",
+   "say": "Late in twelve fifty-seven, the Mongol general Oo-ree-yang-ka-dye marched down from Yoon-nahn toward the Red River.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "mongol_1258"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-11.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "2",
+   "cardAfter": null
+  },
+  {
+   "id": "10",
+   "ch": 2,
+   "sub": "It was not a huge army. Estimates differ, but historians speak of a few thousand Mongols, with larger numbers of troops raised in Yunnan.",
+   "say": "It was not a huge army. Estimates differ, but historians speak of a few thousand Mongols, with larger numbers of troops raised in Yoon-nahn.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-12.jpg"
+    }
+   ],
+   "src": "Atwood 2004 · Taylor 2013",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "11",
+   "ch": 2,
+   "sub": "He won a battle against the Trần army and took Thăng Long. The king and his court escaped.",
+   "say": "He won a battle against the Chun army and took Tahng Long. The king and his court escaped.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s002/img-01.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-13.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "12",
+   "ch": 2,
+   "sub": "The Yuan official history says the Mongols stayed just nine days, and left because of the heat.",
+   "say": "The Yuan official history says the Mongols stayed just nine days, and left because of the heat.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-14.jpg"
+    }
+   ],
+   "src": "Yuanshi, ch. 209",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "13",
+   "ch": 2,
+   "sub": "Modern historians add the bigger picture: this was a side front in the war on the Song.",
+   "say": "Modern historians add the bigger picture: this was a side front in the war on the Song.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-15.jpg"
+    },
+    {
+     "k": "tl",
+     "year": "1258"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "14",
+   "ch": 2,
+   "sub": "Soon after, the Trần sent envoys and agreed to pay tribute. Round one ended in a deal, not a victory parade.",
+   "say": "Soon after, the Chun sent envoys and agreed to pay tribute. Round one ended in a deal, not a victory parade.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s002/img-02.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-16.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "15",
+   "ch": 3,
+   "sub": "In 1260, Kublai became Great Khan. In 1271 he proclaimed a new dynasty in China: the Yuan.",
+   "say": "In twelve sixty, Koo-bly became Great Khan. In twelve seventy-one he proclaimed a new dynasty in China: the Yuan.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-17.jpg"
+    },
+    {
+     "k": "tl",
+     "year": "1271"
+    }
+   ],
+   "src": null,
+   "cardBefore": "3",
+   "cardAfter": null
+  },
+  {
+   "id": "16",
+   "ch": 3,
+   "sub": "In 1261 he recognised the Trần ruler as King of Annam. Then, in 1267, he asked for much more.",
+   "say": "In twelve sixty-one he recognised the Chun ruler as King of Ahn-nahm. Then, in twelve sixty-seven, he asked for much more.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-18.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "17",
+   "ch": 3,
+   "sub": "The Yuan history lists six demands. The king must come to court in person, send his sons as hostages, and count his people.",
+   "say": "The Yuan history lists six demands. The king must come to court in person, send his sons as hostages, and count his people.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-19.jpg"
+    }
+   ],
+   "src": "Yuanshi, ch. 209",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "18",
+   "ch": 3,
+   "sub": "He must also supply soldiers, pay taxes, and accept a Mongol overseer, called a darughachi.",
+   "say": "He must also supply soldiers, pay taxes, and accept a Mongol overseer, called a dah-roo-gah-chee.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-20.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-21.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "19",
+   "ch": 3,
+   "sub": "The Trần sent envoys and gifts. But no Trần king made the journey north to Kublai's court.",
+   "say": "The Chun sent envoys and gifts. But no Chun king made the journey north to Koo-bly's court.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s002/img-08.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-22.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "20",
+   "ch": 3,
+   "sub": "The Yuan history treats this as a vassal's defiance. Later Vietnamese histories frame the refusals as resistance. Same facts, two readings.",
+   "say": "The Yuan history treats this as a vassal's defiance. Later Vietnamese histories frame the refusals as resistance. Same facts, two readings.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-23.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-24.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "21",
+   "ch": 3,
+   "sub": "Meanwhile, in the early 1280s, a Yuan army attacked Champa, Đại Việt's neighbour to the south.",
+   "say": "Meanwhile, in the early twelve eighties, a Yuan army attacked Champa, Die Vee-et's neighbour to the south.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-25.jpg"
+    },
+    {
+     "k": "map",
+     "state": "yuan_1285"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "22",
+   "ch": 4,
+   "sub": "The Vietnamese chronicle says that in 1284 the Trần reviewed their troops, and the retired king called village elders to ask their counsel.",
+   "say": "The Vietnamese chronicle says that in twelve eighty-four the Chun reviewed their troops, and the retired king called village elders to ask their counsel.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-26.jpg"
+    }
+   ],
+   "src": "Đại Việt sử ký toàn thư",
+   "cardBefore": "4",
+   "cardAfter": null
+  },
+  {
+   "id": "23",
+   "ch": 4,
+   "sub": "According to the chronicle, the elders all answered: fight. It is a famous scene, but it comes from one side's record only.",
+   "say": "According to the chronicle, the elders all answered: fight. It is a famous scene, but it comes from one side's record only.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-27.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "24",
+   "ch": 4,
+   "sub": "The defence was led by Prince Trần Quốc Tuấn, better known as Trần Hưng Đạo.",
+   "say": "The defence was led by Prince Chun Kwok Twun, better known as Chun Hung Dow.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-28.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "25",
+   "ch": 4,
+   "sub": "Vietnamese tradition also credits him with a fiery proclamation to his officers, though its exact date and wording are uncertain.",
+   "say": "Vietnamese tradition also credits him with a fiery proclamation to his officers, though its exact date and wording are uncertain.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-29.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "26",
+   "ch": 4,
+   "sub": "Early in 1285, the Yuan struck. Kublai's son Toghan came from the north. Sogetu marched up from Champa.",
+   "say": "Early in twelve eighty-five, the Yuan struck. Koo-bly's son Toe-gahn came from the north. So-geh-too marched up from Champa.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "yuan_1285"
+    },
+    {
+     "k": "tall",
+     "src": "s002/img-03.jpg"
+    },
+    {
+     "k": "tl",
+     "year": "1285"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "27",
+   "ch": 4,
+   "sub": "How big was the army? Modern estimates run from tens of thousands to a few hundred thousand. The Vietnamese chronicle claims half a million. Nobody knows for sure.",
+   "say": "How big was the army? Modern estimates run from tens of thousands to a few hundred thousand. The Vietnamese chronicle claims half a million. Nobody knows for sure.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s002/img-04.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-30.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "28",
+   "ch": 4,
+   "sub": "The Trần lost the first battles. The court abandoned Thăng Long, and the Yuan moved into empty palaces.",
+   "say": "The Chun lost the first battles. The court abandoned Tahng Long, and the Yuan moved into empty palaces.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-31.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s002/img-05.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "29",
+   "ch": 4,
+   "sub": "Some of the royal family went over to the Yuan. Prince Trần Ích Tắc surrendered, and Kublai later named him King of Annam.",
+   "say": "Some of the royal family went over to the Yuan. Prince Chun Ick Tuck surrendered, and Koo-bly later named him King of Ahn-nahm.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-32.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "30",
+   "ch": 4,
+   "sub": "Another defector, Lê Tắc, later wrote a history of Annam in exile in China. It gives us a third view of this war.",
+   "say": "Another defector, Lay Tuck, later wrote a history of Ahn-nahm in exile in China. It gives us a third view of this war.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-33.jpg"
+    }
+   ],
+   "src": "Lê Tắc, An Nam chí lược",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "31",
+   "ch": 4,
+   "sub": "Then the tide turned. Trần forces struck back along the rivers, and Sogetu was killed.",
+   "say": "Then the tide turned. Chun forces struck back along the rivers, and So-geh-too was killed.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-34.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-35.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "32",
+   "ch": 4,
+   "sub": "By mid-1285, after the Trần counter-attacks, the Yuan armies had pulled back north.",
+   "say": "By mid-twelve eighty-five, after the Chun counter-attacks, the Yuan armies had pulled back north.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-36.jpg"
+    },
+    {
+     "k": "tl",
+     "year": "1285"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "33",
+   "ch": 5,
+   "sub": "Kublai did not give up. In late 1287 the Yuan came back, and by early 1288 they held Thăng Long for the third time.",
+   "say": "Koo-bly did not give up. In late twelve eighty-seven the Yuan came back, and by early twelve eighty-eight they held Tahng Long for the third time.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "1287"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-37.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "5",
+   "cardAfter": null
+  },
+  {
+   "id": "34",
+   "ch": 5,
+   "sub": "This time, food for the army would come by sea, on a fleet of grain ships.",
+   "say": "This time, food for the army would come by sea, on a fleet of grain ships.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "supply_1288"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-38.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "35",
+   "ch": 5,
+   "sub": "The Trần did what they had done before. They left the capital, and kept their army out of reach.",
+   "say": "The Chun did what they had done before. They left the capital, and kept their army out of reach.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-39.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "36",
+   "ch": 5,
+   "sub": "Then the Trần general Trần Khánh Dư caught the grain fleet. The Vietnamese chronicle says the ships were almost all overturned.",
+   "say": "Then the Chun general Chun Kahn Zuh caught the grain fleet. The Vietnamese chronicle says the ships were almost all overturned.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/clip-3.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s002/img-06.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "37",
+   "ch": 5,
+   "sub": "The Yuan history tells it differently: its commander dumped the rice into the sea and sailed away to Hainan.",
+   "say": "The Yuan history tells it differently: its commander dumped the rice into the sea and sailed away to Hainan.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-40.jpg"
+    }
+   ],
+   "src": "Yuanshi, ch. 209",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "38",
+   "ch": 5,
+   "sub": "Either way, the result was the same. The army in Thăng Long had too little to eat.",
+   "say": "Either way, the result was the same. The army in Tahng Long had too little to eat.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-41.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "39",
+   "ch": 5,
+   "sub": "The Yuan history records the generals' worry: the weather was already hot, the grain was running out, and the army was worn down.",
+   "say": "The Yuan history records the generals' worry: the weather was already hot, the grain was running out, and the army was worn down.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-42.jpg"
+    }
+   ],
+   "src": "Yuanshi, ch. 209",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "40",
+   "ch": 5,
+   "sub": "So they decided to withdraw. The army would leave by land, and the fleet by river, down the Bạch Đằng.",
+   "say": "So they decided to withdraw. The army would leave by land, and the fleet by river, down the Bahk Dahng.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-43.jpg"
+    },
+    {
+     "k": "map",
+     "state": "bachdang"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "41",
+   "ch": 6,
+   "sub": "The Bạch Đằng is a tidal river near the coast. In 938, Ngô Quyền had defeated a Southern Han fleet there, using stakes in the riverbed.",
+   "say": "The Bahk Dahng is a tidal river near the coast. In nine thirty-eight, Ngoh Kwee-en had defeated a Southern Han fleet there, using stakes in the riverbed.",
+   "shots": [
+    {
+     "k": "map",
+     "state": "bachdang"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-44.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "6",
+   "cardAfter": null
+  },
+  {
+   "id": "42",
+   "ch": 6,
+   "sub": "Three and a half centuries later, another battle on the Bạch Đằng would use stakes again.",
+   "say": "Three and a half centuries later, another battle on the Bahk Dahng would use stakes again.",
+   "shots": [
+    {
+     "k": "tl",
+     "year": "1288"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-45.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "43",
+   "ch": 6,
+   "sub": "According to the Vietnamese chronicle, Trần Hưng Đạo had wooden stakes planted in the riverbed and covered with grass.",
+   "say": "According to the Vietnamese chronicle, Chun Hung Dow had wooden stakes planted in the riverbed and covered with grass.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-46.jpg"
+    }
+   ],
+   "src": "Đại Việt sử ký toàn thư",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "44",
+   "ch": 6,
+   "sub": "At high tide, the stakes were hidden under water. The Yuan fleet came down the river.",
+   "say": "At high tide, the stakes were hidden under water. The Yuan fleet came down the river.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s002/img-07.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-47.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "45",
+   "ch": 6,
+   "sub": "When the tide fell, the ships were caught on the stakes. Smaller Trần boats closed in.",
+   "say": "When the tide fell, the ships were caught on the stakes. Smaller Chun boats closed in.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-48.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-49.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "46",
+   "ch": 6,
+   "sub": "The Vietnamese chronicle says the Yuan fleet suffered heavy losses. It claims hundreds of ships were taken, and the admiral Omar was captured and brought before the retired king.",
+   "say": "The Vietnamese chronicle says the Yuan fleet suffered heavy losses. It claims hundreds of ships were taken, and the admiral Omar was captured and brought before the retired king.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-50.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "47",
+   "ch": 6,
+   "sub": "On land, Toghan's army retreated north under attack, all the way to the border.",
+   "say": "On land, Toe-gahn's army retreated north under attack, all the way to the border.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-51.jpg"
+    },
+    {
+     "k": "tl",
+     "year": "1288"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "48",
+   "ch": 6,
+   "sub": "Archaeologists have since found wooden stakes in old riverbeds in the area. How many belong to the battle of 1288 is still debated.",
+   "say": "Archaeologists have since found wooden stakes in old riverbeds in the area. How many belong to the battle of twelve eighty-eight is still debated.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-52.jpg"
+    }
+   ],
+   "src": "Pringle 2009 · Lien et al. 2011",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "49",
+   "ch": 7,
+   "sub": "So did Đại Việt beat the Mongols? Yes, and no. The Yuan withdrew. But the Trần quickly sent envoys to make peace.",
+   "say": "So did Die Vee-et beat the Mongols? Yes, and no. The Yuan withdrew. But the Chun quickly sent envoys to make peace.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-53.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": "7",
+   "cardAfter": null
+  },
+  {
+   "id": "50",
+   "ch": 7,
+   "sub": "They sent tribute, and a golden figure in place of the king. The Yuan history says it was to stand in for his guilt.",
+   "say": "They sent tribute, and a golden figure in place of the king. The Yuan history says it was to stand in for his guilt.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s002/img-09.jpg"
+    }
+   ],
+   "src": "Yuanshi, ch. 209",
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "51",
+   "ch": 7,
+   "sub": "Kublai still planned another invasion in 1293. After he died in 1294, his successor ordered the campaign stopped.",
+   "say": "Koo-bly still planned another invasion in twelve ninety-three. After he died in twelve ninety-four, his successor ordered the campaign stopped.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-54.jpg"
+    },
+    {
+     "k": "tl",
+     "year": "1294"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "52",
+   "ch": 7,
+   "sub": "Đại Việt was not alone. Kublai's fleets also failed against Japan, in 1274 and 1281, and against Java in the early 1290s.",
+   "say": "Die Vee-et was not alone. Koo-bly's fleets also failed against Japan, in twelve seventy-four and twelve eighty-one, and against Java in the early twelve nineties.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-55.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-56.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "53",
+   "ch": 7,
+   "sub": "So why couldn't the Yuan hold Đại Việt? Read side by side, the records point to the same few things.",
+   "say": "So why couldn't the Yuan hold Die Vee-et? Read side by side, the records point to the same few things.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-57.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "54",
+   "ch": 7,
+   "sub": "An enemy that gave up its capital but not its army. Supply lines that could be cut. The heat. And for Kublai, this was one war among many.",
+   "say": "An enemy that gave up its capital but not its army. Supply lines that could be cut. The heat. And for Koo-bly, this was one war among many.",
+   "shots": [
+    {
+     "k": "tall",
+     "src": "s002/img-05.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s002/img-06.jpg"
+    },
+    {
+     "k": "img",
+     "src": "l004/img-58.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "55",
+   "ch": 7,
+   "sub": "The Yuan records describe a disobedient vassal that finally sent tribute. Vietnamese histories celebrate three victories, and Trần Hưng Đạo, later worshipped as a saint.",
+   "say": "The Yuan records describe a disobedient vassal that finally sent tribute. Vietnamese histories celebrate three victories, and Chun Hung Dow, later worshipped as a saint.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-59.jpg"
+    },
+    {
+     "k": "tall",
+     "src": "s002/img-10.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": null
+  },
+  {
+   "id": "56",
+   "ch": 7,
+   "sub": "Which side's record do you trust more? Tell us in the comments, and subscribe to Rice and Empires for more.",
+   "say": "Which side's record do you trust more? Tell us in the comments, and subscribe to Rice and Empires for more.",
+   "shots": [
+    {
+     "k": "img",
+     "src": "l004/img-60.jpg"
+    }
+   ],
+   "src": null,
+   "cardBefore": null,
+   "cardAfter": "end"
+  }
+ ],
+ "music": []
+}

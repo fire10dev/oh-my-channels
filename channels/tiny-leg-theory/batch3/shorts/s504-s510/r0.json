@@ -1,0 +1,712 @@
+[
+ {
+  "id": "s504",
+  "mascot": "buff",
+  "title": "The Friendly App Illusion",
+  "mechanism": "The Personalization Effect",
+  "lines": [
+   {
+    "vo": "An app pinged me with weekend deals handpicked just for my routine.",
+    "text": "DEALS FOR YOU?",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Sure, buddy. That algorithm just slapped your name on fifty thousand blasts.",
+    "text": "AUTOMATED TRAP",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Seeing your own city tricks your brain into mistaking familiarity for real trust.",
+    "text": "FAKED TRUST",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Time for a sanity rep: mentally swap your name for random customer number.",
+    "text": "SANITY REP",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Picture a generic box shipped to stranger four thousand instead.",
+    "text": "JUST A NUMBER",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Strip the personal flatter, or your wallet takes the hit today.",
+    "text": "DROP THE BAIT",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "coin_stack"
+   }
+  ]
+ },
+ {
+  "id": "s504vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Ao giac ung dung hieu ban",
+  "title_vi": "Ảo giác ứng dụng hiểu bạn",
+  "mechanism": "The Personalization Effect",
+  "lines": [
+   {
+    "vo": "Sàn mua sắm réo đúng tên bạn kèm món đồ quen thuộc.",
+    "text": "ƯU ĐÃI RIÊNG BẠN?",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "notification_bell"
+   },
+   {
+    "vo": "Ừ, tin đi. Thông báo tự động gửi hàng loạt cho cả vạn người đấy.",
+    "text": "CÚ LỪA TỰ ĐỘNG",
+    "color": "red",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Thấy tên mình và quận mình ở, não dễ nhầm quen thuộc là uy tín.",
+    "text": "QUEN HÓA THÂN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Vào hiệp tỉnh táo ngay: đổi tên bạn thành khách hàng số chín ngàn.",
+    "text": "HIỆP TỈNH TÁO",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "dumbbell"
+   },
+   {
+    "vo": "Hình dung món đồ gửi cho người lạ xem bạn còn muốn chốt đơn không.",
+    "text": "BỎ LỚP THÂN MẬT",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Gạt cái tên đi, hoặc ví tiền của bạn gánh tạ oan hôm nay.",
+    "text": "TỈNH TRƯỚC SALE",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "coin_stack"
+   }
+  ]
+ },
+ {
+  "id": "s505",
+  "mascot": "pen",
+  "title": "Why That Relatable Ad Hurts",
+  "mechanism": "The Self-Reference Effect",
+  "lines": [
+   {
+    "vo": "An ad shows an exhausted worker staring at tangled desk cables.",
+    "text": "MESSY DESK PAIN",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Suddenly, you desperately want that expensive wooden organizer.",
+    "text": "INSTANT DESIRE",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "We process information much deeper whenever it mirrors our daily pain.",
+    "text": "MIRROR EFFECT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "You feel like buying the tray fixes your scattered work routine.",
+    "text": "FAKE FIX",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Try stepping back: describe the scene as if watching a stranger.",
+    "text": "STEP OUTSIDE",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "A stranger spending forty dollars on a tray just looks wasteful.",
+    "text": "JUST A TRAY",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "Are you buying order, or just soothing a tired afternoon?",
+    "text": "ORDER OR ESCAPE?",
+    "color": "gold",
+    "actor": "front",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s505vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi sao quang cao trung tim den?",
+  "title_vi": "Vì sao quảng cáo trúng tim đen?",
+  "mechanism": "The Self-Reference Effect",
+  "lines": [
+   {
+    "vo": "Lướt trúng video ai đó ngồi thở dài bên đống dây sạc rối tung.",
+    "text": "TRÚNG TIM ĐEN",
+    "color": "red",
+    "actor": "future_tired",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Tự dưng bạn muốn chốt ngay chiếc kệ gỗ đắt tiền trên màn hình.",
+    "text": "MUỐN MUA NGAY",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Khi thấy cảnh quen thuộc, não dễ hòa nhập thay vì phán xét tỉnh táo.",
+    "text": "NÃO DỄ MẮC BẪY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn ngỡ mua chiếc khay sẽ dọn sạch luôn sự mệt mỏi trong việc làm.",
+    "text": "MUA SỰ AN TÂM?",
+    "actor": "facepalm"
+   },
+   {
+    "vo": "Hãy thử lùi một bước: nhìn cảnh đó như chuyện của người lạ.",
+    "text": "NHÌN NHƯ NGƯỜI LẠ",
+    "color": "green",
+    "actor": "small_step"
+   },
+   {
+    "vo": "Một người lạ mua khay đựng đắt đỏ chỉ để bày bàn bừa bộn.",
+    "text": "CHỈ LÀ KHAY GỖ",
+    "color": "green",
+    "actor": "reading"
+   },
+   {
+    "vo": "Món đồ này giải quyết sự bừa bộn, hay chỉ xoa dịu cảm giác mệt?",
+    "text": "GIẢI PHÁP THỰC SỰ?",
+    "color": "gold",
+    "actor": "front",
+    "prop": "coffee_mug"
+   }
+  ]
+ },
+ {
+  "id": "s506",
+  "mascot": "buff",
+  "title": "The Ugly Shoe Repetition Trap",
+  "mechanism": "The Mere Exposure Effect",
+  "lines": [
+   {
+    "vo": "Those chunky neon sneakers are sitting in your checkout cart again.",
+    "text": "UGLY SHOES AGAIN",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Last week you hated them. Today they feel strangely stylish.",
+    "text": "NOW YOU LIKE IT?",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Your brain lazily mistakes repeated sightings for good taste and safety.",
+    "text": "REPETITION TRICK",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Cool-down set right now: park the shoes in cart for two days.",
+    "text": "COOL-DOWN SET",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Ask yourself if you cared before ten algorithms shoved them at you.",
+    "text": "DID YOU CARE?",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Repetition wore you down. Delete the cart or pay the lazy tax.",
+    "text": "DELETE OR PAY",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s506vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Bay thay hoai hoa thay quen",
+  "title_vi": "Bẫy thấy hoài hóa thấy quen",
+  "mechanism": "The Mere Exposure Effect",
+  "lines": [
+   {
+    "vo": "Đôi dép quai thô kỳ cục kia sao bỗng nằm gọn trong giỏ hàng?",
+    "text": "SAO TRONG GIỎ?",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Tuần trước chê xấu thậm tệ, nay lướt đâu cũng thấy rồi đâm mê.",
+    "text": "CHÊ RỒI LẠI MÊ",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Mắt nhìn thấy nhiều lần, não tự động nhầm quen thuộc là hợp mốt.",
+    "text": "QUEN HÓA THỜI TRANG",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Khởi động hiệp hạ nhiệt ngay: ngâm đơn hàng đúng hai ngày trọn vẹn.",
+    "text": "NGÂM ĐƠN HAI NGÀY",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Tự hỏi xem bạn thật sự cần, hay bị mạng xã hội bám đuôi liên tục.",
+    "text": "THẬT SỰ CẦN KHÔNG?",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Nhìn riết mỏi mắt rồi tặc lưỡi. Xóa giỏ hàng hoặc tốn tiền vô ích.",
+    "text": "XÓA ĐƠN NGAY",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s507",
+  "mascot": "pen",
+  "title": "The Clean Font Illusion",
+  "mechanism": "The Fluency Heuristic",
+  "lines": [
+   {
+    "vo": "Clean typography and spacious layouts make promotional promises feel undeniably true.",
+    "text": "CLEAN SITE TRAP",
+    "color": "red",
+    "actor": "reading",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "When text reads effortlessly, your brain spends almost no energy checking facts.",
+    "text": "ZERO EFFORT",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "We quietly mistake low mental friction for solid honesty and safety.",
+    "text": "SMOOTH LIES",
+    "color": "red",
+    "actor": "confused_shrug"
+   },
+   {
+    "vo": "Run the friction drill: copy claims into a plain, ugly text file.",
+    "text": "PLAIN TEXT DRILL",
+    "color": "green",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "Without minimalist fonts, the magical promise often sounds completely hollow.",
+    "text": "HOLLOW PROMISE",
+    "color": "gold",
+    "actor": "meditating",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s507vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Bay giao dien dep mat",
+  "title_vi": "Bẫy giao diện đẹp mắt",
+  "mechanism": "The Fluency Heuristic",
+  "lines": [
+   {
+    "vo": "Một trang bán hàng tối giản với phông chữ thanh lịch khiến bạn tin ngay.",
+    "text": "ĐẸP MẮT DỄ TIN",
+    "color": "red",
+    "actor": "reading",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Khi mắt đọc lướt quá êm, não hầu như không tốn sức kiểm tra thông tin.",
+    "text": "LƯỚT NHẸ DỄ NHẦM",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Sự dễ chịu khi nhìn dễ bị hiểu lầm thành sự thật đáng tin cậy.",
+    "text": "ÊM ÁI HÓA ĐÚNG",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Thử sao chép toàn bộ lời quảng cáo ra một trang ghi chú thô sơ.",
+    "text": "ĐỌC CHỮ MỘC",
+    "color": "green",
+    "actor": "typing_focused"
+   },
+   {
+    "vo": "Không có thiết kế hào nhoáng, lời hứa hẹn bỗng trở nên vô cùng sáo rỗng.",
+    "text": "HẾT ĐẸP HẾT TIN",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s508",
+  "mascot": "buff",
+  "title": "The Emotional Commercial Trap",
+  "mechanism": "Affective Conditioning",
+  "lines": [
+   {
+    "vo": "That car ad pairs golden sunset light with warm acoustic guitar.",
+    "text": "SUNSET AND GUITAR",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "They barely show the engine, but you feel deep family nostalgia.",
+    "text": "NOSTALGIA HIT",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Your brain glues warm feelings straight onto that metal vehicle logo.",
+    "text": "BORROWED MOOD",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Here is your coaching set: hit mute immediately on every glossy commercial.",
+    "text": "HIT MUTE SET",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Look at the specs without music: just steel idling in traffic.",
+    "text": "JUST A MACHINE",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Pay for the engine, never for the manufactured romance.",
+    "text": "PAY FOR FACTS",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Kill the soundtrack now, or buy someone else's sentimental dream.",
+    "text": "MUTE THE DREAM",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s508vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Dung mua cam xuc cua quang cao",
+  "title_vi": "Đừng mua cảm xúc của quảng cáo",
+  "mechanism": "Affective Conditioning",
+  "lines": [
+   {
+    "vo": "Quảng cáo chiếc xe lồng tiếng đàn ghi-ta êm đềm giữa chiều hoàng hôn.",
+    "text": "HOÀNG HÔN VÀ XE",
+    "color": "red",
+    "actor": "sofa_scroll",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Chưa thấy động cơ đâu mà lòng bạn đã rưng rưng nhớ gia đình.",
+    "text": "XÚC ĐỘNG VÔ CỚ",
+    "color": "red",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Người ta đang gắn cảm xúc ấm áp đó vào logo kim loại lạnh ngắt.",
+    "text": "MƯỢN CẢM XÚC",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Vào bài tập ngay: bấm tắt âm thanh lập tức khi xem tiếp thị.",
+    "text": "TẮT TIẾNG NGAY",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Tắt nhạc đi, chiếc xe chỉ là khối sắt nằm chờ kẹt xe giờ tan tầm.",
+    "text": "CHỈ LÀ KHỐI SẮT",
+    "color": "green",
+    "actor": "arms_crossed_no"
+   },
+   {
+    "vo": "Mua tính năng thực tế, đừng trả tiền cho giai điệu lãng mạn dàn dựng.",
+    "text": "MUA TÍNH NĂNG",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "coin_stack"
+   },
+   {
+    "vo": "Tắt tiếng nhạc đi, hoặc ví bạn trả giá cho một giấc mơ mượn tạm.",
+    "text": "TỈNH THEO NHẠC",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s509",
+  "mascot": "pen",
+  "title": "How Random Articles Drain Wallets",
+  "mechanism": "Subconscious Priming",
+  "lines": [
+   {
+    "vo": "You read an article about surviving mountain storms, then open a shop.",
+    "text": "STORM ARTICLE",
+    "color": "red",
+    "actor": "reading",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Suddenly, thermal socks and waterproof covers feel like urgent necessities.",
+    "text": "URGENT GEAR?",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Prior reading silently primed your subconscious radar for emergency survival.",
+    "text": "PRIMED RADAR",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "You feel prepared, but an unrelated story pre-loaded your cart.",
+    "text": "PRE-LOADED CART",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Set a paper boundary: write your exact list before opening apps.",
+    "text": "PAPER BOUNDARY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "If an item is not inked down, your thumb stays still.",
+    "text": "NOT ON PAPER",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "A simple notebook guards your wallet from background moods.",
+    "text": "GUARD YOUR MOOD",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "The storm passes, but an impulsive purchase stays on your desk.",
+    "text": "THE STORM PASSES",
+    "color": "gold",
+    "actor": "front",
+    "prop": "hourglass"
+   }
+  ]
+ },
+ {
+  "id": "s509vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Bay tam ly moi truoc khi mua",
+  "title_vi": "Bẫy tâm lý mồi trước khi mua",
+  "mechanism": "Subconscious Priming",
+  "lines": [
+   {
+    "vo": "Vừa đọc tin tức mưa bão ngập phố, mở sàn là muốn mua đồ bảo hộ.",
+    "text": "ĐỌC TIN MƯA BÃO",
+    "color": "red",
+    "actor": "reading",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bọc giày đi mưa và túi chống nước bỗng hóa thành đồ cực kỳ khẩn cấp.",
+    "text": "HÓA ĐỒ KHẨN CẤP",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "smartphone_glow"
+   },
+   {
+    "vo": "Thông tin vừa đọc đã kích hoạt cảm giác phòng vệ trong tiềm thức bạn.",
+    "text": "TIỀM THỨC PHÒNG VỆ",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bạn ngỡ mình nhìn xa trông rộng, nhưng thực ra vừa bị mồi tâm lý.",
+    "text": "BỊ MỒI TÂM LÝ",
+    "actor": "worried_heart"
+   },
+   {
+    "vo": "Dựng ranh giới bằng giấy: viết rõ danh sách cần mua trước khi mở máy.",
+    "text": "RANH GIỚI BẰNG GIẤY",
+    "color": "green",
+    "actor": "writing",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Món nào không nằm trên mặt giấy, tuyệt đối không bấm thanh toán hôm nay.",
+    "text": "KHÔNG CÓ TRÊN GIẤY",
+    "color": "green",
+    "actor": "hand_off"
+   },
+   {
+    "vo": "Tờ giấy nhỏ giúp ví tiền tránh được những nỗi sợ bất chợt trên mạng.",
+    "text": "CHẶN NỖI SỢ ẢO",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Cơn mưa rồi sẽ tạnh, chỉ có món đồ mua vội là nằm lại trên bàn.",
+    "text": "MƯA TAN ĐỒ Ở LẠI",
+    "color": "gold",
+    "actor": "front",
+    "prop": "hourglass"
+   }
+  ]
+ },
+ {
+  "id": "s510",
+  "mascot": "buff",
+  "title": "The Free Trial Ownership Trap",
+  "mechanism": "The Endowment Effect",
+  "lines": [
+   {
+    "vo": "A productivity app gave you thirty days of free cloud storage.",
+    "text": "FREE CLOUD TRIAL",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Now the trial ends, and leaving feels like someone robbing your work.",
+    "text": "FEELS LIKE THEFT",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Once you use it, your brain treats that borrowed tool like property.",
+    "text": "BORROWED PROPERTY",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Here is the drill: set a calendar alarm five days before expiration.",
+    "text": "CALENDAR DRILL",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Strip stored payment cards and force yourself to actively repurchase or walk.",
+    "text": "REMOVE THE CARD",
+    "color": "green",
+    "actor": "arms_crossed_no",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Active choices beat lazy subscriptions every time. Choose or get billed.",
+    "text": "CHOOSE OR PAY",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s510vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Bay dung thu hoa thanh chu",
+  "title_vi": "Bẫy dùng thử hóa thành chủ",
+  "mechanism": "The Endowment Effect",
+  "lines": [
+   {
+    "vo": "Ứng dụng cho dùng thử miễn phí một tháng dung lượng bộ nhớ mở rộng.",
+    "text": "DÙNG THỬ MIỄN PHÍ",
+    "color": "red",
+    "actor": "phone_grin",
+    "prop": "laptop_file"
+   },
+   {
+    "vo": "Đến ngày hết hạn, hủy gói thì thấy tiếc như vừa bị mất đồ của mình.",
+    "text": "TIẾC NHƯ MẤT ĐỒ",
+    "color": "red",
+    "actor": "panic"
+   },
+   {
+    "vo": "Khi đã quen dùng, não lười mặc định công cụ đi mượn là tài sản riêng.",
+    "text": "NHẬN VƠ TÀI SẢN",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Vào bài tập phòng thủ: đặt báo thức trước ngày gia hạn năm ngày.",
+    "text": "ĐẶT BÁO THỨC SỚM",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Gỡ thẻ thanh toán liên kết, chỉ bấm mua tiếp nếu thật sự cần thiết.",
+    "text": "GỠ THẺ LIÊN KẾT",
+    "color": "green",
+    "actor": "arms_crossed_no",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Chủ động kiểm soát ví tiền, hoặc để họ tự động trừ tiền hàng tháng.",
+    "text": "TỰ QUYẾT HAY MẤT TIỀN",
+    "color": "gold",
+    "actor": "point_viewer",
+    "prop": "dumbbell"
+   }
+  ]
+ }
+]

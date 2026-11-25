@@ -1,0 +1,724 @@
+[
+ {
+  "id": "s266",
+  "mascot": "buff",
+  "title": "Why Exam Panic Wipes Your Brain",
+  "mechanism": "Working Memory",
+  "lines": [
+   {
+    "vo": "You swore you wouldn't stress this time. Sure, buddy.",
+    "text": "NO STRESS THIS TIME",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "The second you see the test, panic burns up your mental RAM.",
+    "text": "BURNING MENTAL RAM",
+    "color": "red",
+    "actor": "panic",
+    "prop": "brain"
+   },
+   {
+    "vo": "Working memory has limited slots, and fear just seized all of them.",
+    "text": "MEMORY OVERLOAD",
+    "actor": "shocked",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Ten minutes before entering, dump every worry into your pocket notebook.",
+    "text": "WRITE FEARS DOWN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Offloading that anxiety frees up processing power for the actual questions.",
+    "text": "FREE YOUR RAM",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Drop the mental baggage outside the door. Warm up, then lift.",
+    "text": "WARM UP THEN LIFT",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s266vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Vao Phong Thi Bong Trang Xoa Dau?",
+  "title_vi": "Vào Phòng Thi Bỗng Trắng Xoá Đầu?",
+  "mechanism": "Working Memory",
+  "lines": [
+   {
+    "vo": "Tự hứa lần này vào phòng thi sẽ không cuống. Ừ, tin.",
+    "text": "HỨA KHÔNG CUỐNG",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Vừa chạm tay vào đề, nỗi lo trượt môn đã chiếm trọn bộ nhớ.",
+    "text": "LO TRƯỢT MÔN",
+    "color": "red",
+    "actor": "panic",
+    "prop": "brain"
+   },
+   {
+    "vo": "Dung lượng ghi nhớ tạm thời bị nỗi sợ khoá chặt hoàn toàn.",
+    "text": "NGHẼN BỘ NHỚ",
+    "actor": "shocked",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Mười phút trước khi vào phòng, trút sạch lo lắng ra cuốn sổ tay.",
+    "text": "TRÚT HẾT RA SỔ",
+    "color": "green",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Đẩy nỗi sợ ra ngoài để nhường chỗ cho kiến thức.",
+    "text": "DỌN SẠCH CHỖ TRỐNG",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "lightbulb"
+   },
+   {
+    "vo": "Xả sạch lo lắng ngoài cửa phòng. Trút tạ trước, gỡ điểm sau.",
+    "text": "TRÚT TẠ GỠ ĐIỂM",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s267",
+  "mascot": "pen",
+  "title": "Why Pressure Locks Your Mind",
+  "mechanism": "Choking Pressure",
+  "lines": [
+   {
+    "vo": "You practiced this for weeks, but in the exam, your mind freezes.",
+    "text": "SUDDEN FREEZE",
+    "color": "red",
+    "actor": "panic",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "The silence of the room turns into sudden choking under pressure.",
+    "text": "CHOKING PRESSURE",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Attention splits between solving steps and monitoring your own fear.",
+    "text": "SPLIT ATTENTION",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Panicking over lost memory just burns up your remaining focus.",
+    "text": "BURNING FOCUS",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Stop staring at the question. Pick up your pen and write numbers.",
+    "text": "COPY RAW NUMBERS",
+    "color": "green",
+    "actor": "writing",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Physical pen movement breaks the freeze and pulls focus back.",
+    "text": "BREAK THE FREEZE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "What tiny mechanical step can restart your focus right now?",
+    "text": "WHAT TINY STEP?",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s267vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Vi Sao Vao Phong Thi Ban Bi Do Nao?",
+  "title_vi": "Vì Sao Vào Phòng Thi Bạn Bị Đơ Não?",
+  "mechanism": "Choking Pressure",
+  "lines": [
+   {
+    "vo": "Ôn bài cả tháng, nhưng vừa mở đề thi là não đơ toàn tập.",
+    "text": "ĐƠ TOÀN TẬP",
+    "color": "red",
+    "actor": "panic",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Không gian im lặng bỗng biến thành cái bẫy nghẽn mạch tư duy.",
+    "text": "NGHẼN MẠCH NÃO",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Tâm trí bị xé đôi giữa việc làm bài và nỗi sợ điểm kém.",
+    "text": "PHÂN TÂM NỘI TÂM",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Càng cuống cuồng lục tìm trí nhớ, đầu óc bạn càng bế tắc.",
+    "text": "CÀNG ÉP CÀNG TẮC",
+    "actor": "facepalm",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Đừng nhìn chằm chằm nữa. Cầm bút chép lại số liệu đã cho.",
+    "text": "CHÉP LẠI SỐ LIỆU",
+    "color": "green",
+    "actor": "writing",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Đặt bút viết xuống sẽ kéo sự tập trung dần quay trở về.",
+    "text": "KÉO LẠI TẬP TRUNG",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Ngay lúc này, con số nào bạn có thể đặt bút viết trước?",
+    "text": "ĐẶT BÚT TỪ ĐÂU?",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s268",
+  "mascot": "buff",
+  "title": "Stop Chugging Caffeine Before Tests",
+  "mechanism": "Yerkes-Dodson Law",
+  "lines": [
+   {
+    "vo": "Chugging energy drinks right before the test to stay sharp. Sure, buddy.",
+    "text": "ENERGY DRINK TRAP",
+    "color": "red",
+    "actor": "snack",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "You redlined your nervous system before the test even began.",
+    "text": "REDLINED SYSTEM",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Spiking your adrenaline too high makes complex reasoning stumble.",
+    "text": "OVERSTIMULATED",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Burn that excess jitter on two easy warm-up questions first.",
+    "text": "WARM-UP FIRST",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Lock your cognitive pace early, then tackle the heavy weights.",
+    "text": "FIND YOUR RHYTHM",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s268vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Uong Nuoc Tang Luc Truoc Gio Thi?",
+  "title_vi": "Uống Nước Tăng Lực Trước Giờ Thi?",
+  "mechanism": "Yerkes-Dodson Law",
+  "lines": [
+   {
+    "vo": "Nốc đẫy bò húc trước giờ thi để đầu óc tỉnh táo. Ừ, tin.",
+    "text": "NỐC ĐẪY TĂNG LỰC",
+    "color": "red",
+    "actor": "snack",
+    "prop": "coffee_mug"
+   },
+   {
+    "vo": "Ép tim đập loạn xạ chẳng khác nào đạp lút ga trước vạch xuất phát.",
+    "text": "ĐẠP LÚT GA SỚM",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Kích thích quá đà dễ khiến não tắc nghẽn ở các câu hỏi khó.",
+    "text": "DỄ TẮC NGHẼN",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Xả bớt cơn bồn chồn vào hai câu trắc nghiệm dễ nhất trước.",
+    "text": "LÀM HAI CÂU DỄ",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Lấy nhịp trước hay để tim đập bay luôn bài thi? Bạn chọn đi.",
+    "text": "BẠN CHỌN ĐI",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s269",
+  "mascot": "pen",
+  "title": "Why Proctors Make Your Heart Pound",
+  "mechanism": "Evaluative Threat",
+  "lines": [
+   {
+    "vo": "The examiner walks past your desk, and sudden dread freezes your chest.",
+    "text": "PROCTOR DREAD",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "That suffocating feeling is evaluative threat taking over your focus.",
+    "text": "JUDGMENT FEAR",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "You reread the first sentence four times without understanding a word.",
+    "text": "REREADING IN A LOOP",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Social judgment drains the exact reasoning power needed for problem solving.",
+    "text": "DRAINED REASONING",
+    "actor": "future_tired",
+    "prop": "brain"
+   },
+   {
+    "vo": "Stop treating this exam room like a personal trial on your worth.",
+    "text": "NOT A VERDICT",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "target"
+   },
+   {
+    "vo": "Treat this test as an experiment, where mistakes are just neutral data.",
+    "text": "JUST AN EXPERIMENT",
+    "color": "green",
+    "actor": "reading",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "That desk holds plain paper, not a courtroom judging who you are.",
+    "text": "JUST PLAIN PAPER",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s269vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "Giam Thi Di Qua Bong Thay Run?",
+  "title_vi": "Giám Thị Đi Qua Bỗng Thấy Run?",
+  "mechanism": "Evaluative Threat",
+  "lines": [
+   {
+    "vo": "Giám thị vừa đi ngang qua bàn, tự nhiên tim bạn đập thình thịch.",
+    "text": "GIÁM THỊ ĐI QUA",
+    "color": "red",
+    "actor": "nervous_wave",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Cảm giác bị người khác soi xét bóp nghẹt hoàn toàn sự tập trung.",
+    "text": "ÁP LỰC ĐÁNH GIÁ",
+    "color": "red",
+    "actor": "worried_heart",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Bạn đọc đi đọc lại một câu đề bài mà chữ không vào đầu.",
+    "text": "ĐỌC ĐỀ MẤT HÚT",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Nỗi sợ mất mặt thiêu đốt sạch nguồn năng lượng tư duy của não bộ.",
+    "text": "CẠN SẠCH TƯ DUY",
+    "actor": "future_tired",
+    "prop": "brain"
+   },
+   {
+    "vo": "Đề thi không chấm điểm tư cách hay giá trị con người bạn.",
+    "text": "KHÔNG CHẤM GIÁ TRỊ",
+    "color": "green",
+    "actor": "hand_off",
+    "prop": "target"
+   },
+   {
+    "vo": "Xem bài thi như bản nháp thử sức, sai để biết mình hổng đâu.",
+    "text": "BẢN NHÁP THỬ SỨC",
+    "color": "green",
+    "actor": "reading",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Tờ giấy trước mặt chỉ là câu hỏi, không phải phiên toà phán xét.",
+    "text": "ĐÂU PHẢI PHIÊN TOÀ",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s270",
+  "mascot": "buff",
+  "title": "How to Recover Vanished Formulas",
+  "mechanism": "Retrieval Cues",
+  "lines": [
+   {
+    "vo": "You swore you memorized that formula cold. Sure, buddy.",
+    "text": "MEMORIZED COLD",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Now the test is here and your mental filing cabinet has no handles.",
+    "text": "NO HANDLES",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Staring at blank margins gives your memory zero retrieval cues.",
+    "text": "ZERO CUES",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Hunt through neighboring questions for matching keywords and measurement units.",
+    "text": "HUNT FOR CUES",
+    "color": "green",
+    "actor": "reading",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Writing those units down jumpstarts the associative chain in your head.",
+    "text": "SPARK THE CHAIN",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Stop glaring at empty space. Track the clues and take the points.",
+    "text": "TAKE THE POINTS",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s270vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Nho Trang Sach Nhung Quen Cong Thuc?",
+  "title_vi": "Nhớ Trang Sách Nhưng Quên Công Thức?",
+  "mechanism": "Retrieval Cues",
+  "lines": [
+   {
+    "vo": "Tự tin công thức này nằm lòng rồi, khỏi cần ôn lại. Ừ, tin.",
+    "text": "TỰ TIN NẰM LÒNG",
+    "color": "red",
+    "actor": "facepalm",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Nhớ rõ mồn một trang sách màu gì, nhưng công thức thì bốc hơi.",
+    "text": "CÔNG THỨC BỐC HƠI",
+    "actor": "confused_shrug",
+    "prop": "brain"
+   },
+   {
+    "vo": "Càng cắn bút trừng mắt nhìn giấy trắng, não càng không có manh mối.",
+    "text": "KHÔNG CÓ MANH MỐI",
+    "color": "red",
+    "actor": "arms_crossed_no",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Lật ngay sang câu khác trong đề để soi đơn vị đo lường.",
+    "text": "SOI ĐƠN VỊ ĐỀ THI",
+    "color": "green",
+    "actor": "reading",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Chép các đơn vị đó ra nháp để kích hoạt lại chuỗi liên kết.",
+    "text": "BẬT CHUỖI LIÊN KẾT",
+    "color": "green",
+    "actor": "writing",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Đừng dán mắt vào khoảng trắng nữa. Bám theo manh mối mà gom điểm.",
+    "text": "BÁM THEO MANH MỐI",
+    "color": "gold",
+    "actor": "sprint_start",
+    "prop": "target"
+   }
+  ]
+ },
+ {
+  "id": "s271",
+  "mascot": "pen",
+  "title": "Why Highlighting Notes Fails on Test Day",
+  "mechanism": "Encoding Match",
+  "lines": [
+   {
+    "vo": "You highlighted every page with chill music playing in the background.",
+    "text": "HIGHLIGHT ILLUSION",
+    "color": "red",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Under exam silence, looking at a blank page, recall suddenly vanishes.",
+    "text": "SILENT HALL SHOCK",
+    "color": "red",
+    "actor": "panic",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Passive recognition feels effortless, but retrieving facts requires active mental strain.",
+    "text": "PASSIVE TRAP",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Recognizing familiar bold text is not the same as producing answers.",
+    "text": "NOT REAL RECALL",
+    "actor": "confused_shrug",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Close your notes, set a ten-minute timer, and write from memory.",
+    "text": "CLOSE THE NOTES",
+    "color": "green",
+    "actor": "writing",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Practice retrieving under silent pressure so the real test feels familiar.",
+    "text": "PRACTICE RETRIEVAL",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Is your study session testing what you know, or just what looks familiar?",
+    "text": "FAMILIAR OR KNOWN?",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s271vi",
+  "lang": "vi",
+  "mascot": "pen",
+  "title": "To Mau De Cuong Co Giup Nho Lau?",
+  "title_vi": "Tô Màu Đề Cương Có Giúp Nhớ Lâu?",
+  "mechanism": "Encoding Match",
+  "lines": [
+   {
+    "vo": "Bật nhạc êm tai rồi tô dạ quang kín mít đề cương thấy rất cuốn.",
+    "text": "BẪY TÔ ĐỀ CƯƠNG",
+    "color": "red",
+    "actor": "reading",
+    "prop": "paper_mountain"
+   },
+   {
+    "vo": "Đến khi vào phòng thi im phăng phắc, kiến thức bỗng biến sạch.",
+    "text": "BỖNG DƯNG QUÊN SẠCH",
+    "color": "red",
+    "actor": "panic",
+    "prop": "alarm_clock"
+   },
+   {
+    "vo": "Cảm giác quen mắt khi đọc lướt khác hẳn việc tự nhớ ra.",
+    "text": "QUEN MẮT ĐÁNH LỪA",
+    "actor": "think",
+    "prop": "brain"
+   },
+   {
+    "vo": "Nhìn chữ thấy quen chỉ là ảo tưởng bạn đã thật sự thuộc bài.",
+    "text": "ẢO TƯỞNG THUỘC BÀI",
+    "actor": "confused_shrug",
+    "prop": "low_battery"
+   },
+   {
+    "vo": "Gấp tài liệu lại, hẹn giờ mười phút và tự viết câu trả lời.",
+    "text": "GẤP TÀI LIỆU LẠI",
+    "color": "green",
+    "actor": "writing",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Tập tự nhớ trong im lặng, để phòng thi không làm bạn ngợp.",
+    "text": "TẬP NHỚ TỰ THÂN",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "checkbox_tick"
+   },
+   {
+    "vo": "Buổi ôn có chút chật vật mới là lúc não bạn thật sự ghi nhớ?",
+    "text": "CHẬT VẬT MỚI NHỚ?",
+    "color": "gold",
+    "actor": "front",
+    "prop": "lightbulb"
+   }
+  ]
+ },
+ {
+  "id": "s272",
+  "mascot": "buff",
+  "title": "Stop Being a Bedroom Study Specialist",
+  "mechanism": "Context Memory",
+  "lines": [
+   {
+    "vo": "Acing mock tests in your bedroom feels easy. Sure, buddy.",
+    "text": "BEDROOM HERO",
+    "color": "red",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Context-dependent memory glued your knowledge to your bedroom walls.",
+    "text": "WALL ANCHORS",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Step into an unfamiliar, echoing exam hall, and your environmental cues vanish.",
+    "text": "CUES VANISH",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Rotate your training grounds. Run timed drills in libraries and busy cafes.",
+    "text": "ROTATE LOCATIONS",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Bring the same jacket or pen you trained with to bridge the gap.",
+    "text": "BRING FAMILIAR CUE",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Train on home turf only, or learn to deliver anywhere? Your call.",
+    "text": "YOUR CALL",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ },
+ {
+  "id": "s272vi",
+  "lang": "vi",
+  "mascot": "buff",
+  "title": "Hoc O Nha Rat Thuoc Vao Thi Quen Sach?",
+  "title_vi": "Học Ở Nhà Rất Thuộc Vào Thi Quên Sạch?",
+  "mechanism": "Context Memory",
+  "lines": [
+   {
+    "vo": "Ngồi bàn quen giải đề vanh vách tưởng thế là ngon. Ừ, tin.",
+    "text": "ANH HÙNG BÀN QUEN",
+    "color": "red",
+    "actor": "writing",
+    "prop": "calendar_today"
+   },
+   {
+    "vo": "Não bạn vô tình gắn kiến thức vào bức tường và góc phòng ngủ.",
+    "text": "NEO VÀO PHÒNG QUEN",
+    "actor": "arms_crossed_no",
+    "prop": "brain"
+   },
+   {
+    "vo": "Bước vào phòng thi xa lạ đầy tiếng quạt trần, mọi điểm tựa biến mất.",
+    "text": "MẤT ĐIỂM TỰA CŨ",
+    "color": "red",
+    "actor": "shocked",
+    "prop": "storm_cloud"
+   },
+   {
+    "vo": "Đổi chỗ ôn bài đi. Ra thư viện hay quán cà phê giải đề.",
+    "text": "ĐỔI ĐỊA ĐIỂM HỌC",
+    "color": "green",
+    "actor": "sprint_start",
+    "prop": "target"
+   },
+   {
+    "vo": "Dùng đúng chiếc áo khoác và cây bút bạn đã quen tay lúc luyện tập.",
+    "text": "MANG ĐỒ QUEN THUỘC",
+    "color": "green",
+    "actor": "small_step",
+    "prop": "hourglass"
+   },
+   {
+    "vo": "Tập ở chỗ quen hay học cách thi đâu thắng đó? Quyết định đi.",
+    "text": "TỰ BẠN QUYẾT ĐỊNH",
+    "color": "gold",
+    "actor": "celebrate",
+    "prop": "dumbbell"
+   }
+  ]
+ }
+]

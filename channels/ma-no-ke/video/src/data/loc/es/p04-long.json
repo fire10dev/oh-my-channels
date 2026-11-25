@@ -1,0 +1,2128 @@
+{
+"w": 1920,
+"h": 1080,
+"duration": 219.832,
+"shots": [
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.3,
+"t1": 2.95,
+"a": [
+675,
+600,
+1350
+],
+"b": [
+675,
+640,
+1350
+],
+"dark": 0.15
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 2.95,
+"t1": 4.3,
+"a": [
+960,
+898,
+900
+],
+"b": [
+960,
+938,
+760
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.3,
+"t1": 6.624,
+"a": [
+675,
+500,
+1350
+],
+"b": [
+675,
+500,
+1350
+],
+"blur": 14,
+"dark": 0.5
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 6.624,
+"t1": 10.912,
+"a": [
+500,
+620,
+1000
+],
+"b": [
+540,
+660,
+820
+]
+},
+{
+"img": "p04/img/S01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 10.912,
+"t1": 13.978,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+920,
+420,
+1350
+]
+},
+{
+"img": "p04/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.978,
+"t1": 16.999,
+"a": [
+900,
+480,
+1350
+],
+"b": [
+820,
+360,
+1000
+]
+},
+{
+"img": "p04/img/S34.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.999,
+"t1": 19.579,
+"a": [
+880,
+420,
+1350
+],
+"b": [
+880,
+330,
+1000
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 19.579,
+"t1": 24.481,
+"a": [
+500,
+620,
+1000
+],
+"b": [
+540,
+660,
+820
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 24.481,
+"t1": 28.245,
+"a": [
+540,
+660,
+820
+],
+"b": [
+540,
+640,
+700
+]
+},
+{
+"img": "p04/img/G12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 28.245,
+"t1": 31.985,
+"a": [
+700,
+700,
+1350
+],
+"b": [
+576,
+700,
+1000
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 31.985,
+"t1": 41.552,
+"a": [
+540,
+660,
+1000
+],
+"b": [
+540,
+640,
+640
+]
+},
+{
+"img": "p04/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 41.552,
+"t1": 46.142,
+"a": [
+900,
+480,
+1350
+],
+"b": [
+820,
+360,
+1000
+]
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 46.142,
+"t1": 49.284,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+550,
+520,
+1100
+]
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 49.284,
+"t1": 52.376,
+"a": [
+1296,
+360,
+1100
+],
+"b": [
+1456,
+760,
+1000
+]
+},
+{
+"img": "p04/img/G12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 52.376,
+"t1": 57.234,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+600,
+700,
+1200
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 57.234,
+"t1": 61.451,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1100,
+560,
+1350
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 61.451,
+"t1": 65.541,
+"a": [
+540,
+660,
+820
+],
+"b": [
+540,
+650,
+700
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 65.541,
+"t1": 69.127,
+"a": [
+880,
+520,
+1000
+],
+"b": [
+880,
+500,
+800
+]
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 69.127,
+"t1": 71.462,
+"a": [
+1456,
+840,
+1100
+],
+"b": [
+1456,
+820,
+900
+],
+"dark": 0.25
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 71.462,
+"t1": 73.73,
+"a": [
+900,
+450,
+1350
+],
+"b": [
+1200,
+400,
+1350
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 73.73,
+"t1": 77.937,
+"a": [
+1392,
+500,
+1000
+],
+"b": [
+1392,
+480,
+800
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 77.937,
+"t1": 81.323,
+"a": [
+880,
+500,
+800
+],
+"b": [
+880,
+500,
+640
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 81.323,
+"t1": 84.568,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+600,
+1350
+]
+},
+{
+"img": "p04/img/G03.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 84.568,
+"t1": 87.812,
+"a": [
+1260,
+680,
+900
+],
+"b": [
+1260,
+700,
+700
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 87.812,
+"t1": 91.034,
+"a": [
+500,
+700,
+1000
+],
+"b": [
+420,
+680,
+800
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 91.034,
+"t1": 93.185,
+"a": [
+1360,
+620,
+900
+],
+"b": [
+1360,
+600,
+700
+]
+},
+{
+"img": "p04/img/G05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 93.185,
+"t1": 95.965,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1050,
+500,
+1350
+]
+},
+{
+"img": "p04/img/G05.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 95.965,
+"t1": 98.745,
+"a": [
+840,
+720,
+900
+],
+"b": [
+840,
+720,
+700
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 98.745,
+"t1": 101.501,
+"a": [
+990,
+1180,
+700
+],
+"b": [
+990,
+1150,
+560
+]
+},
+{
+"img": "p04/img/G07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 101.501,
+"t1": 105.657,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+700,
+640,
+1350
+]
+},
+{
+"img": "p04/img/G07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 105.657,
+"t1": 109.708,
+"a": [
+620,
+520,
+900
+],
+"b": [
+620,
+500,
+700
+]
+},
+{
+"img": "p04/img/G07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 109.708,
+"t1": 114.209,
+"a": [
+1280,
+440,
+1100
+],
+"b": [
+1150,
+480,
+900
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 114.209,
+"t1": 119.186,
+"a": [
+540,
+660,
+820
+],
+"b": [
+540,
+650,
+700
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 119.186,
+"t1": 121.285,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1200,
+640,
+1350
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 121.285,
+"t1": 123.34,
+"a": [
+1548,
+800,
+1000
+],
+"b": [
+1560,
+780,
+800
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 123.34,
+"t1": 125.987,
+"a": [
+900,
+700,
+1350
+],
+"b": [
+1000,
+842,
+1100
+]
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 125.987,
+"t1": 128.437,
+"a": [
+1000,
+842,
+1100
+],
+"b": [
+1000,
+884,
+950
+],
+"dark": 0.2
+},
+{
+"img": "p04/img/G01.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 128.437,
+"t1": 131.1,
+"a": [
+1300,
+500,
+1350
+],
+"b": [
+1320,
+480,
+1350
+],
+"blur": 14,
+"dark": 0.5
+},
+{
+"img": "p04/img/G02.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 131.1,
+"t1": 132.976,
+"a": [
+512,
+520,
+900
+],
+"b": [
+512,
+500,
+760
+]
+},
+{
+"img": "p04/img/G06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 132.976,
+"t1": 135.618,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1200,
+400,
+1350
+]
+},
+{
+"img": "p04/img/G06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 135.618,
+"t1": 138.1,
+"a": [
+1480,
+440,
+900
+],
+"b": [
+1480,
+420,
+700
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 138.1,
+"t1": 142.582,
+"a": [
+500,
+700,
+1000
+],
+"b": [
+420,
+680,
+800
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 142.582,
+"t1": 145.611,
+"a": [
+1360,
+620,
+800
+],
+"b": [
+1360,
+600,
+640
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 145.611,
+"t1": 151.63,
+"a": [
+540,
+660,
+1000
+],
+"b": [
+540,
+640,
+640
+]
+},
+{
+"img": "p04/img/G08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 151.63,
+"t1": 153.933,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+900,
+500,
+1350
+]
+},
+{
+"img": "p04/img/G04.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 153.933,
+"t1": 158.095,
+"a": [
+1498,
+500,
+1100
+],
+"b": [
+1500,
+480,
+900
+],
+"shake": 5,
+"dark": 0.6
+},
+{
+"img": "p04/img/G12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 158.095,
+"t1": 162.957,
+"a": [
+700,
+700,
+1350
+],
+"b": [
+576,
+700,
+1000
+],
+"dark": 0.3
+},
+{
+"img": "p04/img/G09.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 162.957,
+"t1": 167.705,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+675,
+450,
+1350
+],
+"shake": 6
+},
+{
+"img": "p04/img/G09.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 167.705,
+"t1": 169.91,
+"a": [
+608,
+420,
+1000
+],
+"b": [
+608,
+400,
+800
+],
+"blur": 4,
+"dark": 0.2
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 169.91,
+"t1": 177.092,
+"a": [
+540,
+660,
+820
+],
+"b": [
+540,
+640,
+700
+]
+},
+{
+"img": "p04/img/G09.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 177.092,
+"t1": 179.287,
+"a": [
+1504,
+520,
+900
+],
+"b": [
+1504,
+500,
+700
+]
+},
+{
+"img": "p04/img/G10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 179.287,
+"t1": 182.318,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+700,
+560,
+1350
+]
+},
+{
+"img": "p04/img/G10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 182.318,
+"t1": 185.283,
+"a": [
+450,
+800,
+900
+],
+"b": [
+350,
+840,
+700
+]
+},
+{
+"img": "p04/img/G10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 185.283,
+"t1": 187.726,
+"a": [
+1300,
+560,
+1350
+],
+"b": [
+1350,
+560,
+1350
+],
+"blur": 5,
+"dark": 0.25
+},
+{
+"img": "p04/img/G10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 187.726,
+"t1": 191.661,
+"a": [
+900,
+600,
+1350
+],
+"b": [
+940,
+870,
+1000
+]
+},
+{
+"img": "p04/img/G10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 191.661,
+"t1": 195.548,
+"a": [
+940,
+898,
+900
+],
+"b": [
+940,
+972,
+640
+]
+},
+{
+"img": "p04/img/G10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 195.548,
+"t1": 198.117,
+"a": [
+1648,
+300,
+800
+],
+"b": [
+1680,
+290,
+600
+]
+},
+{
+"img": "p04/img/B06.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 198.117,
+"t1": 200.318,
+"a": [
+540,
+660,
+820
+],
+"b": [
+540,
+640,
+700
+]
+},
+{
+"img": "p04/img/S33.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 200.318,
+"t1": 202.613,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1300,
+520,
+1350
+]
+},
+{
+"img": "p04/img/S34.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 202.613,
+"t1": 204.798,
+"a": [
+880,
+420,
+1350
+],
+"b": [
+880,
+330,
+1000
+]
+},
+{
+"img": "p04/img/B07.png",
+"sw": 1344,
+"sh": 1792,
+"t0": 204.798,
+"t1": 212.875,
+"a": [
+672,
+896,
+1344
+],
+"b": [
+672,
+800,
+1000
+]
+},
+{
+"img": "p04/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 212.875,
+"t1": 219.032,
+"a": [
+1024,
+576,
+2048
+],
+"b": [
+1024,
+576,
+2048
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p04/img/cut_G11_1.png",
+"size": 412,
+"t0": 4.3,
+"t1": 6.624,
+"from": [
+1354,
+126,
+1.141
+],
+"to": [
+1354,
+86,
+1.141
+],
+"bob": false,
+"wob": 2
+},
+{
+"img": "p04/img/cut_G11_0.png",
+"size": 485,
+"t0": 52.376,
+"t1": 57.234,
+"from": [
+1442,
+126,
+1.095
+],
+"to": [
+1442,
+86,
+1.095
+],
+"bob": false,
+"wob": 2
+},
+{
+"img": "p04/img/cut_G11_1.png",
+"size": 412,
+"t0": 128.437,
+"t1": 131.1,
+"from": [
+96,
+126,
+1.141
+],
+"to": [
+96,
+86,
+1.141
+],
+"bob": false,
+"wob": 2
+},
+{
+"img": "p04/img/cut_G11_2.png",
+"size": 493,
+"t0": 167.705,
+"t1": 169.91,
+"from": [
+1247,
+126,
+1.17
+],
+"to": [
+1247,
+86,
+1.17
+],
+"bob": false,
+"wob": 5
+},
+{
+"img": "p04/img/cut_G11_3.png",
+"size": 390,
+"t0": 185.283,
+"t1": 187.726,
+"from": [
+1368,
+126,
+1.17
+],
+"to": [
+1368,
+86,
+1.17
+],
+"bob": false,
+"wob": 2
+},
+{
+"img": "p03/img/cut_B02.png",
+"size": 1344,
+"t0": 212.875,
+"t1": 219.032,
+"from": [
+260,
+1100,
+0.8
+],
+"to": [
+260,
+160,
+0.8
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.42,
+"t1": 2.95,
+"text": "CENA · DÍA TRES",
+"color": "#ffd84a"
+},
+{
+"t0": 6.798,
+"t1": 10.912,
+"text": "MA GIAU",
+"color": "#ffd84a"
+},
+{
+"t0": 15.291,
+"t1": 16.999,
+"text": "PRIMERA DERROTA",
+"color": "#ff5a4a"
+},
+{
+"t0": 20.975,
+"t1": 24.481,
+"text": "OFICIO: ESCONDER GENTE",
+"color": "#ffd84a"
+},
+{
+"t0": 26.657,
+"t1": 31.985,
+"text": "REGLA: GOLPEA LA BANDEJA · DI SU NOMBRE → DEVOLVER",
+"color": "#ffd84a"
+},
+{
+"t0": 32.452,
+"t1": 41.552,
+"text": "PLAZO: AMANECER DEL DÍA CUATRO",
+"color": "#ff5a4a"
+},
+{
+"t0": 44.006,
+"t1": 46.142,
+"text": "DEPTO. 27-08",
+"color": "#ffffff"
+},
+{
+"t0": 50.331,
+"t1": 52.376,
+"text": "3 PERSONAS · 3 PANTALLAS",
+"color": "#ffd84a"
+},
+{
+"t0": 52.607,
+"t1": 57.234,
+"text": "BANDEJA DE LATÓN",
+"color": "#ffd84a"
+},
+{
+"t0": 64.807,
+"t1": 65.541,
+"text": "FÁCIL.",
+"color": "#ffffff"
+},
+{
+"t0": 65.541,
+"t1": 66.876,
+"text": "DÍA 1",
+"color": "#ffffff"
+},
+{
+"t0": 67.042,
+"t1": 67.61,
+"text": "9:00 P. M.",
+"color": "#ffd84a"
+},
+{
+"t0": 67.61,
+"t1": 68.21,
+"text": "10:00 P. M.",
+"color": "#ffd84a"
+},
+{
+"t0": 68.21,
+"t1": 69.127,
+"text": "MEDIANOCHE",
+"color": "#ff5a4a"
+},
+{
+"t0": 69.345,
+"t1": 73.73,
+"text": "DÍA 1 · 0 LLAMADAS",
+"color": "#ff5a4a"
+},
+{
+"t0": 81.323,
+"t1": 84.161,
+"text": "DÍA 2",
+"color": "#ffffff"
+},
+{
+"t0": 84.161,
+"t1": 87.189,
+"text": "DEJAR EN LA PUERTA",
+"color": "#ffd84a"
+},
+{
+"t0": 88.418,
+"t1": 91.034,
+"text": "BASE SECRETA",
+"color": "#7dff9a"
+},
+{
+"t0": 95.604,
+"t1": 98.025,
+"text": "BIN DE BARRO",
+"color": "#ffd84a"
+},
+{
+"t0": 98.025,
+"t1": 101.501,
+"text": "FALSO A SIMPLE VISTA",
+"color": "#ffffff"
+},
+{
+"t0": 103.887,
+"t1": 107.07,
+"text": "TAREA DE TODA LA SEMANA",
+"color": "#7dff9a"
+},
+{
+"t0": 107.707,
+"t1": 109.708,
+"text": "QUIETO COMO ESTATUA",
+"color": "#ffd84a"
+},
+{
+"t0": 116.835,
+"t1": 119.186,
+"text": "SE PORTABA MEJOR",
+"color": "#ff5a4a"
+},
+{
+"t0": 139.37,
+"t1": 142.582,
+"text": "MAÑANA VUELVO A CASA",
+"color": "#ffd84a"
+},
+{
+"t0": 145.611,
+"t1": 147.918,
+"text": "2:00 A. M.",
+"color": "#ffd84a"
+},
+{
+"t0": 147.918,
+"t1": 151.63,
+"text": "3 HORAS",
+"color": "#ff5a4a"
+},
+{
+"t0": 166.518,
+"t1": 167.705,
+"text": "¡PUM!",
+"color": "#ffd84a"
+},
+{
+"t0": 169.91,
+"t1": 173.375,
+"text": "LO LLAMÓ… POR LA LINTERNA",
+"color": "#ffffff"
+},
+{
+"t0": 173.723,
+"t1": 175.803,
+"text": "BANDEJA GOLPEADA ✔ · NOMBRE LLAMADO ✔",
+"color": "#7dff9a"
+},
+{
+"t0": 175.803,
+"t1": 177.092,
+"text": "→ DEVOLVER",
+"color": "#ffd84a"
+},
+{
+"t0": 193.027,
+"t1": 195.548,
+"text": "OTRA VEZ CON EL TELÉFONO",
+"color": "#ff5a4a"
+},
+{
+"t0": 197.841,
+"t1": 200.318,
+"text": "ESCUELA MA GIAU — HACEMOS NIÑOS BUENOS",
+"color": "#ffd84a"
+},
+{
+"t0": 205.033,
+"t1": 212.875,
+"text": "PRÓXIMAMENTE",
+"color": "#ffd84a"
+},
+{
+"t0": 213.123,
+"t1": 219.032,
+"text": "SUSCRÍBETE",
+"color": "#ffffff"
+}
+],
+"sfx": [
+{
+"t": 0.42,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 1.02,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 1.62,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 10.912,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 11.204,
+"src": "sh6/sfx/braam.wav",
+"vol": 0.35
+},
+{
+"t": 27.528,
+"src": "p04/sfx/boong.wav",
+"vol": 0.7
+},
+{
+"t": 32.452,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.5
+},
+{
+"t": 40.836,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 46.441,
+"src": "p04/sfx/hop.wav",
+"vol": 0.6
+},
+{
+"t": 47.937,
+"src": "p04/sfx/chotdon.wav",
+"vol": 0.6
+},
+{
+"t": 53.989,
+"src": "p04/sfx/boong.wav",
+"vol": 0.35
+},
+{
+"t": 56.754,
+"src": "sh6/sfx/pops.wav",
+"vol": 0.5
+},
+{
+"t": 55.141,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 56.293,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 61.527,
+"src": "p04/sfx/cua.wav",
+"vol": 0.7
+},
+{
+"t": 67.042,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 67.61,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 68.21,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 84.161,
+"src": "p04/sfx/ting.wav",
+"vol": 0.7
+},
+{
+"t": 93.992,
+"src": "p04/sfx/nan.wav",
+"vol": 0.6
+},
+{
+"t": 95.444,
+"src": "p04/sfx/nan.wav",
+"vol": 0.6
+},
+{
+"t": 110.983,
+"src": "sh6/sfx/pops.wav",
+"vol": 0.5
+},
+{
+"t": 111.408,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 112.896,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.45
+},
+{
+"t": 116.835,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.4
+},
+{
+"t": 126.097,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 126.647,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 127.197,
+"src": "p04/sfx/nhai.wav",
+"vol": 0.9
+},
+{
+"t": 132.4,
+"src": "p04/sfx/hop.wav",
+"vol": 0.4
+},
+{
+"t": 145.611,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 146.765,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 147.918,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 149.073,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 150.227,
+"src": "p02/sfx/tick.wav",
+"vol": 0.45
+},
+{
+"t": 150.804,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 151.093,
+"src": "p02/sfx/tick.wav",
+"vol": 0.5
+},
+{
+"t": 152.982,
+"src": "p04/sfx/cauda.wav",
+"vol": 1
+},
+{
+"t": 153.072,
+"src": "p02/sfx/mayoff.wav",
+"vol": 0.5
+},
+{
+"t": 155.889,
+"src": "p04/sfx/dapcua.wav",
+"vol": 0.9
+},
+{
+"t": 156.672,
+"src": "p04/sfx/dapcua.wav",
+"vol": 0.9
+},
+{
+"t": 157.453,
+"src": "p04/sfx/dapcua.wav",
+"vol": 1
+},
+{
+"t": 166.518,
+"src": "p04/sfx/boong2.wav",
+"vol": 1
+},
+{
+"t": 177.092,
+"src": "p04/sfx/cua.wav",
+"vol": 0.5
+},
+{
+"t": 179.287,
+"src": "p03/sfx/sang.wav",
+"vol": 0.4
+},
+{
+"t": 182.85,
+"src": "p04/sfx/dat.wav",
+"vol": 0.7
+},
+{
+"t": 199.635,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+},
+{
+"t": 205.033,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 217.733,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 4.3,
+"dur": 2.074,
+"text": "Come y apúrate, Bin. Mamá está en vivo."
+},
+{
+"t": 6.624,
+"dur": 3.489,
+"text": "Sigue apurándolo. Puede masticar toda la vida… no vas a oír nada."
+},
+{
+"t": 10.912,
+"dur": 5.837,
+"text": "¿Otra vez por aquí? El invitado de hoy se dedica a esconder gente. Primera derrota en ochocientos años."
+},
+{
+"t": 16.999,
+"dur": 2.08,
+"text": "Y todavía no sabe quién le ganó."
+},
+{
+"t": 19.579,
+"dur": 4.651,
+"text": "Soy un ma giau, un fantasma que esconde gente. Sobre todo niños que no dejan de jugar."
+},
+{
+"t": 24.481,
+"dur": 7.255,
+"text": "Reglas simples. Yo los escondo, su familia los busca. Golpea la bandeja de latón y di su nombre. Un golpe y lo devuelvo. Así se juega."
+},
+{
+"t": 31.985,
+"dur": 9.316,
+"text": "También hay un plazo. La familia debe buscarlo antes del amanecer del cuarto día. Si nadie viene, el niño vuelve solo y mis ochocientos años de oficio… quedan en ridículo."
+},
+{
+"t": 41.552,
+"dur": 4.09,
+"text": "Ochocientos años sin fallar. Hasta el departamento dos siete cero ocho."
+},
+{
+"t": 46.142,
+"dur": 5.984,
+"text": "Papá está en una videollamada. Mamá transmite en vivo. El niño juega. Tres personas, tres pantallas, un sofá."
+},
+{
+"t": 52.376,
+"dur": 4.608,
+"text": "¡Bandeja de latón para la buena suerte! ¡Un golpe y llega la fortuna! ¡Quedan tres! ¡Vendido!"
+},
+{
+"t": 57.234,
+"dur": 7.807,
+"text": "El viernes por la noche, Bin deja la tarea y se va a jugar a las escaleras de emergencia. Cierro la puerta y lo oculto de toda su familia. Fácil."
+},
+{
+"t": 65.541,
+"dur": 3.336,
+"text": "Esperé el golpe de la bandeja. Las nueve. Las diez. Medianoche."
+},
+{
+"t": 69.127,
+"dur": 4.353,
+"text": "Nadie golpeó. Papá creyó que Bin estaba con mamá. Mamá creyó que estaba con papá."
+},
+{
+"t": 73.73,
+"dur": 3.957,
+"text": "¿Tú también te escapas de la tarea, señor? ¿Aquí llega el wifi de mi casa?"
+},
+{
+"t": 77.937,
+"dur": 2.886,
+"text": "En ochocientos años, nadie me había preguntado eso."
+},
+{
+"t": 81.323,
+"dur": 9.461,
+"text": "Día dos: Bin pidió té con leche y anotó: dejar en la puerta de las escaleras del piso veintisiete. Se conectó a un enchufe de mantenimiento. Le llamó su base secreta."
+},
+{
+"t": 91.034,
+"dur": 1.651,
+"text": "¿Soy un ma giau o una niñera?"
+},
+{
+"t": 93.185,
+"dur": 8.066,
+"text": "Hice un Bin con tierra de una maceta y lo senté en el sofá. Dos ojitos de semilla. Falso a todas luces. Su familia lo notaría y saldría a buscarlo."
+},
+{
+"t": 101.501,
+"dur": 7.957,
+"text": "Para el tercer día, el niño de barro ya había terminado la tarea de toda la semana. Sin discutir. Sin pedir el teléfono. Quieto como una estatua."
+},
+{
+"t": 109.708,
+"dur": 4.251,
+"text": "¡Nuestro hijo es muy responsable, gente! El secreto está en el enlace de abajo."
+},
+{
+"t": 114.209,
+"dur": 4.378,
+"text": "Su familia sí se dio cuenta. Se dio cuenta… de que este niño se portaba mejor."
+},
+{
+"t": 119.186,
+"dur": 3.904,
+"text": "Cena del tercer día. El niño de barro estaba en su silla, con su tableta."
+},
+{
+"t": 123.34,
+"dur": 2.347,
+"text": "Cuatro personas. Tres sonidos al masticar."
+},
+{
+"t": 128.437,
+"dur": 2.413,
+"text": "Bin se porta tan bien hoy. No ha pedido nada."
+},
+{
+"t": 131.1,
+"dur": 1.626,
+"text": "Sí. Voy a apagar la cámara."
+},
+{
+"t": 132.976,
+"dur": 3.125,
+"text": "Me quedé en el balcón. Por primera vez en mi vida… tuve miedo."
+},
+{
+"t": 138.1,
+"dur": 4.231,
+"text": "Se me acabó el té con leche. Mañana vuelvo a casa. ¿Mi mamá preguntó por mí?"
+},
+{
+"t": 142.582,
+"dur": 2.229,
+"text": "No contesté. Escondo gente. No miento."
+},
+{
+"t": 145.611,
+"dur": 5.769,
+"text": "Dos de la madrugada. Faltan tres horas para el amanecer. Si esta familia no golpea la bandeja, haré que lo haga."
+},
+{
+"t": 151.63,
+"dur": 1.802,
+"text": "Corté la luz de todo el piso."
+},
+{
+"t": 153.933,
+"dur": 3.912,
+"text": "Luego golpeé la puerta de las escaleras de emergencia. ¡Pum! ¡Pum! ¡Pum!"
+},
+{
+"t": 158.095,
+"dur": 9.36,
+"text": "Mamá creyó que un ladrón venía por su mercancía. Agarró lo primero que encontró: la bandeja de latón para la buena suerte. Y la estampó contra la puerta de emergencia."
+},
+{
+"t": 167.705,
+"dur": 1.955,
+"text": "¿Dónde está Bin? ¡Tráeme la linterna!"
+},
+{
+"t": 169.91,
+"dur": 6.933,
+"text": "Dijo su nombre para que le trajera una linterna. Las reglas no preguntan por qué. Golpe de bandeja, nombre llamado. Lo devuelvo."
+},
+{
+"t": 177.092,
+"dur": 1.595,
+"text": "Mamá… ¿me estabas buscando?"
+},
+{
+"t": 179.287,
+"dur": 5.747,
+"text": "Al amanecer, el sol iluminó el sofá. El niño de barro se deshizo en un montón de tierra para macetas."
+},
+{
+"t": 185.283,
+"dur": 2.042,
+"text": "Qué lástima. Se portaba tan bien."
+},
+{
+"t": 187.726,
+"dur": 7.572,
+"text": "El Bin de verdad alcanzó a contar dos frases sobre sus tres días en la base secreta. Luego todos volvieron a mirar sus teléfonos."
+},
+{
+"t": 195.548,
+"dur": 4.17,
+"text": "Al niño de barro le dieron diploma de honor. Estoy pensando en abrir una escuela."
+},
+{
+"t": 200.318,
+"dur": 3.881,
+"text": "En la cena de hoy, cuenta cuántos sonidos de masticar hace tu familia."
+},
+{
+"t": 204.798,
+"dur": 7.827,
+"text": "La próxima vez: un muelle ilegal de arena durante las inundaciones y un ma da, fantasma del río, atrapado en su turno desde hace siete años."
+},
+{
+"t": 212.875,
+"dur": 4.957,
+"text": "Suscríbete. Si no, mañana, cuando tu mamá golpee la bandeja, quizá no seas tú quien vuelva."
+}
+],
+"comments": [
+{
+"t": 55.141,
+"u": "@vale.mx",
+"c": "¡Me llevo uno, amiga!",
+"end": 57.234
+},
+{
+"t": 56.293,
+"u": "@juanc_23",
+"c": "Mándame el precio por mensaje",
+"end": 57.234
+},
+{
+"t": 111.408,
+"u": "@mom.su",
+"c": "¿Cuál es el secreto? 😍",
+"end": 114.209
+},
+{
+"t": 112.896,
+"u": "@hannah.n",
+"c": "¡¡¡Pasa el enlace!!!",
+"end": 114.209
+}
+],
+"voice": [
+{
+"t": 4.3,
+"src": "loc/es/vo/cfe1103404.wav"
+},
+{
+"t": 6.624,
+"src": "loc/es/vo/89c2a81d34.wav"
+},
+{
+"t": 10.912,
+"src": "loc/es/vo/1cde35a0ba.wav"
+},
+{
+"t": 16.999,
+"src": "loc/es/vo/86d9c75a62.wav"
+},
+{
+"t": 19.579,
+"src": "loc/es/vo/a81755232b.wav"
+},
+{
+"t": 24.481,
+"src": "loc/es/vo/63a64cc1e9.wav"
+},
+{
+"t": 31.985,
+"src": "loc/es/vo/e8ebeb622b.wav"
+},
+{
+"t": 41.552,
+"src": "loc/es/vo/f108c775af.wav"
+},
+{
+"t": 46.142,
+"src": "loc/es/vo/a9aed1c61e.wav"
+},
+{
+"t": 52.376,
+"src": "loc/es/vo/dd979b118f.wav"
+},
+{
+"t": 57.234,
+"src": "loc/es/vo/6054b53b9f.wav"
+},
+{
+"t": 65.541,
+"src": "loc/es/vo/e7f6733636.wav"
+},
+{
+"t": 69.127,
+"src": "loc/es/vo/8cfead1bf4.wav"
+},
+{
+"t": 73.73,
+"src": "loc/es/vo/c519ad5fc7.wav"
+},
+{
+"t": 77.937,
+"src": "loc/es/vo/5d7b482fe0.wav"
+},
+{
+"t": 81.323,
+"src": "loc/es/vo/eefd722046.wav"
+},
+{
+"t": 91.034,
+"src": "loc/es/vo/6dca634918.wav"
+},
+{
+"t": 93.185,
+"src": "loc/es/vo/0181962aef.wav"
+},
+{
+"t": 101.501,
+"src": "loc/es/vo/3a54568239.wav"
+},
+{
+"t": 109.708,
+"src": "loc/es/vo/8de6054c89.wav"
+},
+{
+"t": 114.209,
+"src": "loc/es/vo/c050c4d82e.wav"
+},
+{
+"t": 119.186,
+"src": "loc/es/vo/670cdaa16c.wav"
+},
+{
+"t": 123.34,
+"src": "loc/es/vo/8dbd624014.wav"
+},
+{
+"t": 128.437,
+"src": "loc/es/vo/30433eb211.wav"
+},
+{
+"t": 131.1,
+"src": "loc/es/vo/2cb5af5190.wav"
+},
+{
+"t": 132.976,
+"src": "loc/es/vo/27cb459239.wav"
+},
+{
+"t": 138.1,
+"src": "loc/es/vo/667a3e7743.wav"
+},
+{
+"t": 142.582,
+"src": "loc/es/vo/4cfa4fd8ba.wav"
+},
+{
+"t": 145.611,
+"src": "loc/es/vo/d2f6c8209b.wav"
+},
+{
+"t": 151.63,
+"src": "loc/es/vo/08c6a3d446.wav"
+},
+{
+"t": 153.933,
+"src": "loc/es/vo/0745bd64fb.wav"
+},
+{
+"t": 158.095,
+"src": "loc/es/vo/b4960e2055.wav"
+},
+{
+"t": 167.705,
+"src": "loc/es/vo/0910ca7d70.wav"
+},
+{
+"t": 169.91,
+"src": "loc/es/vo/45067a06b5.wav"
+},
+{
+"t": 177.092,
+"src": "loc/es/vo/5a2c8cb186.wav"
+},
+{
+"t": 179.287,
+"src": "loc/es/vo/14ddbd2e0a.wav"
+},
+{
+"t": 185.283,
+"src": "loc/es/vo/78145c5457.wav"
+},
+{
+"t": 187.726,
+"src": "loc/es/vo/3f909f4ff5.wav"
+},
+{
+"t": 195.548,
+"src": "loc/es/vo/521e812a20.wav"
+},
+{
+"t": 200.318,
+"src": "loc/es/vo/32adf6b59e.wav"
+},
+{
+"t": 204.798,
+"src": "loc/es/vo/996f654b51.wav"
+},
+{
+"t": 212.875,
+"src": "loc/es/vo/4445fb16ec.wav"
+}
+],
+"mutes": [
+[
+0.1,
+2.95
+],
+[
+2.75,
+4.3
+],
+[
+4.1,
+6.624
+],
+[
+118.986,
+123.34
+],
+[
+123.14,
+125.987
+],
+[
+125.787,
+128.437
+],
+[
+128.237,
+131.1
+],
+[
+130.9,
+132.976
+],
+[
+132.776,
+138.1
+],
+[
+137.9,
+142.582
+],
+[
+142.382,
+145.611
+],
+[
+145.411,
+151.63
+],
+[
+151.43,
+153.933
+],
+[
+153.733,
+158.095
+],
+[
+157.895,
+167.705
+],
+[
+167.505,
+169.91
+]
+],
+"live": [
+[
+4.3,
+6.624
+],
+[
+52.376,
+57.234
+],
+[
+109.708,
+114.209
+]
+],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

@@ -7,9 +7,9 @@ Pipeline: Claude (script) → TTS (Kokoro now, ElevenLabs later) → images (Nan
 
 | Path | What |
 |---|---|
-| `scripts/` | One file per video: EN narration + VI review table |
+| `episodes/` | One folder per episode (LONG + its shorts) or standalone short — script, assets, renders, metadata, reviews. See AGENTS.md §1b |
 | `shorts/` | Remotion project, 1080×1920 Shorts (`src/ListShort.tsx`, data `src/<id>.json`) |
-| `shorts/public/<id>/` | Images + `timeline.json` (narration wav is git-ignored, regenerate) |
+| `shorts/public/<id>/` | Symlink → `episodes/…/assets` (images + `timeline.json`; narration wav git-ignored) |
 | `tools/tts_kokoro.py` | Per-scene narration + durations |
 | `tools/receive_images.py` | 127.0.0.1-only receiver to pull playground images out of the built-in browser |
 
@@ -32,6 +32,6 @@ node tools/upload/upload.mjs S006 --private --confirm            # test: private
 node tools/upload/upload.mjs S006 --at "2026-11-09 09:00" --confirm   # private + publishAt (+07)
 node tools/upload/upload.mjs S006 --now --confirm                # public now
 ```
-Without `--confirm` it is a dry run (parses script md, checks auth, uploads nothing). Title/description from `## Publishing` in `scripts/SNNN-*.md`; file `shorts/out/SNNN-*.mp4`.
+Without `--confirm` it is a dry run (parses script md, checks auth, uploads nothing). Title/description from `## Publishing` in the episode `script.md`; file `<episode>/render/SNNN-*.mp4` (`tools/ep.py`).
 Sets not-made-for-kids and `containsSyntheticMedia=false`. One `SUMMARY` line per run; details in `$TMPDIR/yt-upload.log`. Quota ≈ 1600 of 10 000 units/day (~6 uploads).
 🟡 Unaudited API projects may force uploads to private — check the first test video. Owner OK in chat is required before `--confirm`.

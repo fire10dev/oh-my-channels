@@ -1,0 +1,119 @@
+{
+ "title": "Le puits du pôle Sud devient tes toilettes",
+ "hook": "TON PUITS, TES TOILETTES",
+ "asof": "Chiffres de 2026",
+ "world": "pole",
+ "long": "IX002",
+ "chapters": [
+  {
+   "id": "well",
+   "hud": "JOUR 40",
+   "chip": "MARS 26",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "rodwell",
+     "s": "Au pôle Sud, ton eau potable vient d’un trou dans la glace."
+    },
+    {
+     "v": "sewer",
+     "fx": "bubbles",
+     "s": "Et un jour, ce trou devient tes toilettes."
+    },
+    {
+     "v": "ice",
+     "s": "Pas de rivière."
+    },
+    {
+     "v": "ice",
+     "s": "Pas de lac."
+    },
+    {
+     "v": "sky",
+     "s": "Et presque aucune chute de neige."
+    },
+    {
+     "v": "wide",
+     "st": [
+      "2,5 cm",
+      "de précipitations / an · NSF"
+     ],
+     "s": "Environ deux centimètres et demi par an."
+    },
+    {
+     "v": "underground",
+     "s": "Alors la station crée son propre lac."
+    },
+    {
+     "v": "rodwell",
+     "s": "Ça s’appelle un Rodwell."
+    },
+    {
+     "v": "rodwell",
+     "fx": "bubbles",
+     "s": "On injecte de l’eau chaude dans un trou de glace."
+    },
+    {
+     "v": "bulb",
+     "s": "Elle fait fondre une poche à une centaine de mètres de profondeur."
+    },
+    {
+     "v": "bulb",
+     "s": "Puis des pompes font remonter l’eau."
+    },
+    {
+     "v": "power",
+     "s": "La chaleur vient des générateurs."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "GÉNÉRATEURS",
+       "CHALEUR PERDUE",
+       "GLACE FONDUE",
+       "TON ROBINET"
+      ]
+     },
+     "s": "Une chaleur qui serait autrement perdue."
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "Chaque goutte que tu bois a été fondue grâce à ça."
+    },
+    {
+     "v": "bulb",
+     "s": "Mais après quelques années,"
+    },
+    {
+     "v": "underground",
+     "s": "quand un Rodwell devient trop grand,"
+    },
+    {
+     "v": "sewer",
+     "s": "il change de fonction."
+    },
+    {
+     "v": "sewer",
+     "fx": "bubbles",
+     "s": "Il devient la cuve des eaux usées."
+    },
+    {
+     "v": "bath",
+     "you": "bath",
+     "s": "Eh oui."
+    },
+    {
+     "v": "underground",
+     "s": "Ton ancien puits d’eau devient tes toilettes."
+    },
+    {
+     "v": "bath",
+     "you": "bath",
+     "s": "Tu boirais encore cette eau ?"
+    }
+   ]
+  }
+ ]
+}

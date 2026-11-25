@@ -1,0 +1,184 @@
+{
+ "id": "w015",
+ "lang": "en",
+ "voice": "am_michael",
+ "speed": 1.08,
+ "brand": "MAP PARADOX",
+ "accent": "#2563eb",
+ "cover_frame": 60,
+ "admin1": [
+  "USA"
+ ],
+ "source": "Treaty of Cession 1867: US National Archives · Area: US Census Bureau",
+ "music": "shared/library/music/yt-audio-library/A New Adventure - Asher Fulero.mp3",
+ "beats": [
+  {
+   "say": "America bought this for about two cents an acre.",
+   "title": "BOUGHT FOR 2 CENTS AN ACRE",
+   "cam": {
+    "lon": -152,
+    "lat": 63,
+    "span": 45
+   },
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#2563eb"
+    }
+   ]
+  },
+  {
+   "say": "In eighteen sixty seven, the United States bought Alaska from Russia for seven point two million dollars.",
+   "cam": {
+    "lon": -160,
+    "lat": 63,
+    "span": 70
+   },
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#2563eb"
+    }
+   ],
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    }
+   ],
+   "big": {
+    "value": "$7.2M",
+    "label": "in 1867"
+   }
+  },
+  {
+   "say": "People called it Seward's Folly. A frozen waste of money.",
+   "cam": {
+    "lon": -152,
+    "lat": 63,
+    "span": 45
+   },
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#64748b"
+    }
+   ]
+  },
+  {
+   "say": "Alaska is bigger than Texas, California and Montana combined.",
+   "cam": {
+    "lon": -130,
+    "lat": 50,
+    "span": 75
+   },
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#2563eb"
+    },
+    {
+     "code": "USA-3536",
+     "color": "#ef4444"
+    },
+    {
+     "code": "USA-3521",
+     "color": "#ef4444"
+    },
+    {
+     "code": "USA-3515",
+     "color": "#ef4444"
+    }
+   ],
+   "bars": {
+    "unit": "M km²",
+    "items": [
+     {
+      "label": "Alaska",
+      "value": 1.72,
+      "color": "#2563eb"
+     },
+     {
+      "label": "Texas + California + Montana",
+      "value": 1.5,
+      "color": "#ef4444"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Then came gold, then oil. Prudhoe Bay became the biggest oil field in North America.",
+   "cam": {
+    "lon": -150,
+    "lat": 66,
+    "span": 30
+   },
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#2563eb"
+    }
+   ],
+   "pins": [
+    {
+     "lon": -148.3,
+     "lat": 70.3,
+     "text": "Prudhoe Bay"
+    }
+   ]
+  },
+  {
+   "say": "And Russia is still right there. Big Diomede and Little Diomede islands are less than four kilometers apart.",
+   "cam": {
+    "lon": -169,
+    "lat": 65.77,
+    "span": 0.9
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    }
+   ],
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#2563eb"
+    }
+   ],
+   "pins": [
+    {
+     "lon": -169.05,
+     "lat": 65.78,
+     "text": "Russia"
+    },
+    {
+     "lon": -168.93,
+     "lat": 65.75,
+     "text": "USA"
+    }
+   ]
+  },
+  {
+   "say": "The worst deal Russia ever made. Follow for more.",
+   "title": "THE WORST DEAL IN HISTORY?",
+   "cam": {
+    "lon": -160,
+    "lat": 63,
+    "span": 70
+   },
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#2563eb"
+    }
+   ],
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,945 @@
+{
+ "id": "L41vi",
+ "lang": "vi",
+ "title": "Bất đồng với đồng nghiệp sao cho không biến thành công kích?",
+ "description": "Bất đồng quan điểm trong công việc không nhất thiết phải làm rạn nứt các mối quan hệ. Khám phá tám bước chuyển tâm lý giúp bạn phản biện văn minh, hạ nhiệt căng thẳng khi trao đổi với cấp trên và đồng nghiệp mà vẫn giữ trọn sự tôn trọng.",
+ "chapters": [
+  {
+   "title": "Tại sao cãi nhau lại đau",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa góp ý một dòng trong buổi họp, đồng nghiệp đã lườm bạn như bị cướp đồ.",
+     "text": "TRANH CÃI Ở CHỖ LÀM",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bụng bạn thắt lại, việc trễ hạn bỗng biến thành đòn công kích cá nhân.",
+     "text": "CẢM GIÁC BỊ CÔNG KÍCH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Não cổ xưa xem việc lệch lịch như gặp thú dữ.",
+     "text": "BẢN NĂNG PHÒNG VỆ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên lời chê nhỏ cũng làm ta phòng thủ và nhắn tin đầy căng thẳng hả Buff?",
+     "text": "TIN NHẮN LẠNH LÙNG",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sai tư thế là biến bất đồng công việc thành cuộc chiến hao tổn cả tuần.",
+     "text": "TỐN SỨC VÔ ÍCH",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để bác bỏ ý tưởng dở mà không phá hỏng tình đồng nghiệp?",
+     "text": "PHẢN BIỆN RA SAO?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay ta luyện tám hiệp để phản biện sắc bén mà vẫn giữ vững đồng đội.",
+     "text": "TÁM BƯỚC CHUYỂN MÌNH",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "1. Nhắm vào vấn đề",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa gửi bản kế hoạch vào nhóm, đồng nghiệp đã soi từng dấu chấm câu.",
+     "text": "1. NHẮM VÀO VẤN ĐỀ",
+     "color": "ink",
+     "actor": "think",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngực nghẹn lại, ta cảm giác họ đang chê mình kém cỏi và thiếu năng lực.",
+     "text": "NGHĨ HỌ CHÊ MÌNH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉnh lại tạ đi lính mới. Đó là va chạm công việc, không phải ẩu đả.",
+     "text": "XÁC ĐỊNH VA CHẠM",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ bắt bẻ số liệu không có nghĩa là họ ghét làm việc với mình hả Buff?",
+     "text": "KHÔNG PHẢI KẺ THÙ",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không hề. Tranh luận việc giúp nhóm sáng suốt hơn khi gạt bỏ cái tôi.",
+     "text": "CỌ XÁT LÀNH MẠNH",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế sao lòng tự ái cứ nhói lên mỗi khi có ai chê bản tiến độ?",
+     "text": "TỰ ÁI NỔI LÊN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì bạn dán chặt thể diện vào bản kế hoạch như keo dính chuột.",
+     "text": "DÍNH CHẶT CÁI TÔI",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để kéo sự chú ý về báo cáo thay vì xù lông tự vệ?",
+     "text": "XOAY LẠI TRỌNG TÂM",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hạ tạ xuống đã. Hỏi luôn mục tiêu chung ở đâu, rồi cùng soi rủi ro trên bản kế hoạch.",
+     "text": "CÙNG SOI RỦI RO",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như vậy cả hai cùng ngồi chung một phía để mổ xẻ kế hoạch.",
+     "text": "CÙNG MỘT CHIỀU",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp đầu chuẩn bài, nhưng tiếp theo phải bỏ thói nghĩ xấu cho người khác.",
+     "text": "SOI ĐỘNG CƠ",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "2. Bỏ gắn nhãn",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đồng nghiệp nhắn Zalo đúng một chữ cụt lủn sau khi bạn gửi đề xuất dài dằng dặc.",
+     "text": "2. BỎ GẮN NHÃN",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bạn lập tức nghĩ họ kiêu căng và cố tình phá đám công việc.",
+     "text": "VẼ CHÂN DUNG KẺ XẤU",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn vừa ngã vào bẫy quy kết mà không có ai đỡ tạ.",
+     "text": "BẪY QUY KẾT",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bẫy quy kết đó vận hành thế nào hả Buff?",
+     "text": "BẪY ĐÓ LÀ GÌ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi bạn cộc lốc là do ngập việc. Khi họ cộc lốc là xấu tính.",
+     "text": "TIÊU CHUẨN KÉP",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là ta tha thứ cho mình, nhưng lại phán xét nhân cách người ta?",
+     "text": "PHÁN XÉT KHẮC NGHIỆT",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Phải ép não nhìn vào áp lực trước khi dán nhãn kẻ phản diện.",
+     "text": "XÓA BỎ ĐỊNH KIẾN",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi khi máu nóng bốc lên, đầu óc tự tìm kẻ thù để trút giận.",
+     "text": "TÌM KẺ THÙ ẢO",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập bài này ngay. Kể tên hai áp lực có thể khiến họ nói giọng đó.",
+     "text": "TÌM HAI ÁP LỰC",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biết đâu máy tính họ bị sập nguồn, hoặc sếp vừa réo đòi báo cáo gấp trong chiều.",
+     "text": "ÁP LỰC GIẤU MẶT",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xóa kịch bản kẻ xấu xong rồi thì bước vào góc nhìn của họ.",
+     "text": "GÓC NHÌN CỦA HỌ",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "3. Đặt mình vào họ",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình thức đêm thiết kế giao diện xong, bên kỹ thuật gạt phắt đi.",
+     "text": "3. ĐẶT MÌNH VÀO HỌ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ bảo hệ thống sẽ quá tải, thế là cãi nhau bốn mươi phút không xong.",
+     "text": "BẾ TẮC HOÀN TOÀN",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì cả hai cắm đầu nâng tạ một mình thay vì đỡ tạ cho nhau.",
+     "text": "NÂNG TẠ MỘT MÌNH",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao khó bận tâm lỗi hệ thống khi công sức vẽ của mình bị gạt bỏ hả Buff?",
+     "text": "CHỈ NGHĨ ĐẾN MÌNH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đặt mình vào người khác tốn sức lắm. Não bạn chỉ chăm chăm chỉ tiêu sếp giao.",
+     "text": "CHĂM CHĂM CHỈ TIÊU",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên họ phản đối không phải phá bĩnh, mà để giữ hệ thống không sập.",
+     "text": "HỌ CŨNG CÓ NỖI LO",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi vai đỡ tạ cho đối phương sẽ dập tắt thù địch và mở đường cho phương án chung.",
+     "text": "THẤU CẢM ĐỐI PHƯƠNG",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên nói câu gì trong buổi họp để họ thấy mình hiểu cho họ?",
+     "text": "NÊN NÓI CÂU GÌ?",
+     "color": "ink",
+     "actor": "writing"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đồng bộ ưu tiên trước. Bảo luôn là bên bạn lo máy chủ quá tải, bên mình muốn khách dễ dùng.",
+     "text": "GỌI TÊN ƯU TIÊN",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi gánh nặng được công nhận, hai bên sẽ bàn phương án mà không ai thấy thua.",
+     "text": "CÂN BẰNG ĐÔI BÊN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệp tập tốt. Nhưng thấu cảm sẽ gãy nếu bạn tưởng góc nhìn mình là chân lý.",
+     "text": "BẪY CHÂN LÝ",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "4. Góc nhìn giới hạn",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Với bạn, tiến độ ra mắt sản phẩm có lỗ hổng to đùng ai nhìn cũng thấy.",
+     "text": "4. GÓC NHÌN GIỚI HẠN",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi cấp trên gạt lời cảnh báo, bạn nghĩ chắc chắn họ cố tình làm ngơ.",
+     "text": "NGHĨ SẾP CỐ TÌNH",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Căn bệnh tự cho mình là rốn vũ trụ đấy. Dân tâm lý gọi là ngộ nhận khách quan.",
+     "text": "NGỘ NHẬN KHÁCH QUAN",
+     "color": "red",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngộ nhận khách quan biểu hiện thế nào ở chỗ làm hả Buff?",
+     "text": "NÓ LÀ GÌ VẬY?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn tin mình thấy rõ sự thật, nên ai trái ý cũng là thiếu hiểu biết hoặc thiên vị.",
+     "text": "KÍNH MÀU ĐỊNH KIẾN",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là ta nghĩ mình nắm chân lý, còn người khác toàn cảm tính hả Buff?",
+     "text": "CHỈ MÌNH LÀ ĐÚNG",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ai cũng vấp thôi. Bạn chỉ nhìn thấy mẩu tin bé xíu trước mặt.",
+     "text": "GÓC NHÌN CHẬT HẸP",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ta quên sếp phải lo hợp đồng và dòng tiền, còn ta chỉ ngó việc của mình.",
+     "text": "DỮ LIỆU KHÁC NHAU",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai người cùng xem động tác gánh tạ vẫn thấy lỗi khác nhau tùy góc đứng.",
+     "text": "GÓC NHÌN KHÁC NHAU",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để tỉnh khỏi ảo tưởng đó trước khi lao vào đôi co?",
+     "text": "TỈNH LẠI THẾ NÀO?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi thẳng dữ liệu của họ. Coi sếp đang gánh những góc khuất nào mà mình chưa nhìn ra.",
+     "text": "DỮ LIỆU CÒN THIẾU?",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Câu hỏi đó biến cãi vã thành trò chơi ghép tranh tìm sự thật.",
+     "text": "GHÉP BỨC TRANH CHUNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ gom hai bên về chung màu cờ trước khi tranh giành địa bàn.",
+     "text": "CHUNG MỘT MÀU CỜ",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "5. Chung một đội",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bên kinh doanh và bên kỹ thuật ngồi khoanh tay đối diện nhau trong phòng họp.",
+     "text": "5. CHUNG MỘT ĐỘI",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thay vì sửa lỗi, cả tiếng đồng hồ chỉ để chia ranh giới trách nhiệm.",
+     "text": "GIỮ VỮNG ĐỊA BÀN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng bộ lạc đấy. Cùng phòng tập mà bạn chia hai phe đấu đá.",
+     "text": "CHIA RẼ PHÒNG TẬP",
+     "color": "red",
+     "actor": "think",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao cứ có áp lực là chỗ làm lại biến thành phe ta và phe nó hả Buff?",
+     "text": "PHE TA VÀ PHE NÓ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng sinh tồn. Khi tài nguyên khan hiếm, não tự co về nhóm thân quen.",
+     "text": "BẢN NĂNG BỘ LẠC",
+     "color": "ink",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên mọi ý kiến của phòng bên cạnh đều bị coi là cướp công của mình?",
+     "text": "ĐỀ PHÒNG LẪN NHAU",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý học gọi đây là nhận thức chung một đội. Lùi lại một bước đến khi cả hai chịu mặc chung màu áo.",
+     "text": "MẶC CHUNG MÀU ÁO",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi mặc khác màu áo, một câu hỏi bình thường cũng nghe như đòn phá hoại.",
+     "text": "NGHI NGỜ VÔ CỚ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn thoát ra, hãy đặt mục tiêu chung mà một đội không thể tự hoàn thành.",
+     "text": "MỘT BẢNG ĐIỂM CHUNG",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao đặt mục tiêu chung mà không nghe sáo rỗng hả Buff?",
+     "text": "NÓI SAO CHO THẬT?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn vào khách hàng ấy. Khách mà bỏ đi thì mọi phòng ban đều trắng tay như nhau.",
+     "text": "ƯU TIÊN KHÁCH HÀNG",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi nhìn chung bảng điểm, việc đổ lỗi cho nhau bỗng hóa phí sức.",
+     "text": "ĐỒNG TÂM HIỆP LỰC",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chung đội vẫn có lúc va chạm, nên bạn phải học cách làm lành thật nhanh.",
+     "text": "HÀN GẮN NHANH CHÓNG",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "6. Hàn gắn vết rạn",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Lỡ buông một câu đá xéo trong buổi duyệt ngân sách, cả phòng bỗng im phăng phắc.",
+     "text": "6. HÀN GẮN VẾT RẠN",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bạn thấy hối hận, nhưng chỉ biết nhìn xuống sổ và vờ như không có gì.",
+     "text": "CÚI ĐẦU GIẢ LƠ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chần chừ một nhịp là để vết rạn nhỏ nứt toạc cả nền móng.",
+     "text": "VẾT RẠN LAN RỘNG",
+     "color": "red",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao nói lời xin lỗi lúc nóng nảy lại khó chịu và nghẹn họng thế hả Buff?",
+     "text": "KHÓ MỞ LỜI XIN LỖI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì cái tôi coi việc nhận lỗi như làm rơi thanh tạ vào họng.",
+     "text": "CÁI TÔI CỨNG ĐẦU",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nên ta chọn giấu dưới thảm rồi mong ngày mai người ta quên đi sao?",
+     "text": "GIẤU DƯỚI THẢM",
+     "color": "red",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không tự tan đâu. Bực bội tích tụ sẽ âm thầm biến thành mối thù dai dẳng.",
+     "text": "BỰC BỘI TÍCH TỤ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đến buổi họp sau, cục tức đó sẽ trồi lên thành thái độ chống đối ngấm ngầm.",
+     "text": "CHỐNG ĐỐI NGẦM",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng kỹ thuật hàn gắn. Đạp nhẹ phanh để kéo cả phòng về trạng thái cân bằng.",
+     "text": "ĐẠP PHANH KỊP THỜI",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao can thiệp ngay mà không làm không khí thêm ngượng ngùng?",
+     "text": "CAN THIỆP SAO ĐÂY?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thổi còi dừng hiệp ngay. Nói thẳng: Lời vừa rồi hơi gắt, để tôi chỉnh lại cho chuẩn.",
+     "text": "CHO TÔI NÓI LẠI",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mười giây nhận lỗi sẽ ngăn sự ấm ức đầu độc ba tháng làm việc tiếp theo.",
+     "text": "LÀM SẠCH KHÔNG KHÍ",
+     "color": "gold",
+     "actor": "celebrate",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không khí thoáng rồi thì đem ý tưởng ra thử lửa dưới sức nặng thực tế.",
+     "text": "THỬ LỬA DƯỚI TẢI",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "7. Săn điểm mù",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Khi trình bày kế hoạch, bạn chỉ chọn khoe con số chứng minh mình đúng.",
+     "text": "7. SĂN ĐIỂM MÙ",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi ai đó chỉ ra lỗ hổng, bạn lại gạt đi và coi là tiếng ồn phiền toái.",
+     "text": "GẠT BỎ LỖ HỔNG",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là thích nâng tạ nhẹ. Tập kiểu đó không giúp cơ bắp khỏe lên được.",
+     "text": "NÂNG TẠ QUÁ NHẸ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao ta cứ bảo vệ phương án ban đầu dù đèn báo động đã sáng hả Buff?",
+     "text": "ĐÈN BÁO ĐỘNG SÁNG",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiên kiến xác nhận. Não tiếc công sức, nên sống chết bảo vệ linh cảm ban đầu.",
+     "text": "THIÊN KIẾN XÁC NHẬN",
+     "color": "red",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên thừa nhận kế hoạch có điểm mù làm ta thấy như kẻ thất bại hoàn toàn?",
+     "text": "SỢ BỊ COI LÀ THUA",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi thế tập đi. Người giỏi luôn tìm dữ liệu trái chiều để bịt kín mọi kẽ hở.",
+     "text": "BỌC THÉP KẾ HOẠCH",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lờ đi dữ liệu trái chiều thực chất chỉ là đang đánh bạc với dự án chung.",
+     "text": "ĐÁNH BẠC VỚI DỰ ÁN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn khỏe phải chịu thử tải. Cần tìm ra mối hàn yếu trước khi giao hàng.",
+     "text": "THỬ ĐỘ BỀN MỐI HÀN",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao mời gọi phản biện mà không làm mình trông kém cỏi hả Buff?",
+     "text": "MỜI GỌI PHẢN BIỆN",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đổi vai tập mổ xẻ rủi ro. Hỏi cả phòng xem nếu dự án đổ bể, điểm yếu nào gãy đầu tiên.",
+     "text": "MỔ XẺ RỦI RO TRƯỚC",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách đó biến lời chê thành buổi kiểm tra an toàn để cứu nhóm khỏi thảm họa.",
+     "text": "KIỂM TRA AN TOÀN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhớ này, lý lẽ sắc bén cũng vứt đi nếu bạn không đọc được cảm xúc đối phương.",
+     "text": "ĐỌC CẢM XÚC PHÒNG HỌP",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "8. Đọc khoảng lặng",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Có lúc tưởng đang tranh luận hăng say, nhưng đồng nghiệp bỗng im bặt.",
+     "text": "8. ĐỌC KHOẢNG LẶNG",
+     "color": "ink",
+     "actor": "34",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bạn tưởng im lặng là đồng ý, để rồi nhận ra họ đang bực bội và kiệt sức.",
+     "text": "IM LẶNG ĐẦY ẤM ỨC",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn vấp bẫy lệch pha thấu cảm rồi lính mới. Bạn đọc sai bét cả phòng rồi.",
+     "text": "LỆCH PHA THẤU CẢM",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lệch pha thấu cảm sao? Lúc đó ta thấy rất hào hứng và thoải mái mà Buff?",
+     "text": "MÌNH THẤY RẤT HĂNG",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy nằm ở đó. Khi bạn sung sức, bạn cứ ngỡ người khác cũng thở nhẹ nhàng.",
+     "text": "NGỠ AI CŨNG NHẸ NHÀNG",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ta tưởng bàn luận rất vui, hóa ra họ lại thấy nghẹt thở và bất lực.",
+     "text": "HỌ THẤY NGHẸT THỞ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vị thế cấp bậc hay áp lực làm tranh luận nặng nề hơn với vài người.",
+     "text": "ÁP LỰC VỊ THẾ",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên trong khi ta thích thú đấu trí, họ lại đang kiệt sức để sinh tồn.",
+     "text": "ÂM THẦM KIỆT SỨC",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chất thêm tạ mà không xem họ nắm chắc không là làm hỏng đồng đội tốt.",
+     "text": "QUÁ TẢI MỨC TẠ",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao nhận ra sự quá tải đó trước khi mối quan hệ rạn nứt hả Buff?",
+     "text": "NHẬN BIẾT SỰ QUÁ TẢI",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghỉ giữa hiệp đi. Dừng lại một nhịp rồi hỏi xem họ có thấy cấn chỗ nào trong phương án này.",
+     "text": "DỪNG LẠI HỎI THĂM",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cho họ cơ hội đạp phanh sẽ ngăn miễn cưỡng biến thành uất ức ngấm ngầm.",
+     "text": "BẬT ĐÈN XIN DỪNG",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ gom tám bài tập này thành tiêu chuẩn rèn luyện mỗi ngày.",
+     "text": "TIÊU CHUẨN MỖI NGÀY",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "Bất đồng văn minh",
+   "sources": [
+    "s01",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trước đây bất đồng ở chỗ làm giống như lên võ đài không có mũ bảo hộ.",
+     "text": "BẤT ĐỒNG VĂN MINH",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Làm chủ nó gói gọn trong ba động tác tập luyện chuẩn chỉ thôi.",
+     "text": "BA ĐỘNG TÁC CỐT LÕI",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một là tách người ra khỏi việc, cùng nhắm vào bài toán chung thay vì công kích cá nhân.",
+     "text": "TÁCH NGƯỜI KHỎI VIỆC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hai là đổi góc nhìn, bỏ ngộ nhận khách quan và chủ động săn tìm bằng chứng trái chiều.",
+     "text": "RÀ SOÁT ĐIỂM MÙ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba là giữ niềm tin đội ngũ bằng cách xin lỗi và để ý sự đuối sức thầm lặng.",
+     "text": "GIỮ GÌN NIỀM TIN",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế bài tập tuần này của ta là gì hả Buff?",
+     "text": "BÀI TẬP TUẦN NÀY",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bảy ngày tới, trước khi phản bác hãy hỏi điều gì làm họ lo lắng nhất.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đăng ký Lý Thuyết Chân Que để cùng rèn luyện tâm lý mỗi tuần nha bạn.",
+     "text": "ĐĂNG KÝ KÊNH",
+     "color": "ink",
+     "actor": "celebrate",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chăm chỉ nâng tạ, giữ đầu óc mở và luôn bọc lót cho đồng đội.",
+     "text": "CHĂM CHỈ TẬP LUYỆN",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,697 @@
+[
+  {
+    "id": "s231",
+    "mascot": "pen",
+    "title": "Why You Stopped Sharing Ideas",
+    "mechanism": "Learned Helplessness",
+    "lines": [
+      {
+        "vo": "You pitch a fix twice, get silence, and stop sharing ideas.",
+        "text": "PITCH AND SILENCE",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "That is learned helplessness. Past silence tricks you into predicting walls.",
+        "text": "PREDICTING WALLS",
+        "color": "red",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "When efforts bring no result, your brain conserves energy by quitting.",
+        "text": "SAVING ENERGY",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Do not fix the whole company culture today.",
+        "text": "ONE CLEAR REQUEST",
+        "color": "green",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Ask for five minutes to test one tiny step.",
+        "text": "TEST ONE STEP",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Was that silence really a permanent verdict, or just a busy day?",
+        "text": "REAL VERDICT?",
+        "color": "gold",
+        "actor": "confused_shrug",
+        "prop": "hourglass"
+      }
+    ]
+  },
+  {
+    "id": "s231vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Vi sao ban khong muon gop y nua?",
+    "title_vi": "Vì sao bạn không muốn góp ý nữa?",
+    "mechanism": "Learned Helplessness",
+    "lines": [
+      {
+        "vo": "Góp ý hai lần trong nhóm chat, sếp đã xem nhưng im lặng.",
+        "text": "ĐÃ XEM NHƯNG IM",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Từ đó, bạn quyết định ai làm gì thì làm, mình im cho lành.",
+        "text": "IM CHO LÀNH",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Đó là tâm lý buông xuôi. Não tự dựng bức tường để đỡ tốn sức.",
+        "text": "BẢO VỆ NĂNG LƯỢNG",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Đừng cố thay đổi cả cách vận hành của phòng ban.",
+        "text": "MỘT ĐỀ XUẤT NHỎ",
+        "color": "green",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Xin ba phút trao đổi riêng về đúng một khâu nhỏ nhất.",
+        "text": "THỬ NGHIỆM 3 PHÚT",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Sự im lặng đó là cánh cửa đóng, hay chỉ là họ đang bận?",
+        "text": "THỰC SỰ HẾT CÁCH?",
+        "color": "gold",
+        "actor": "confused_shrug",
+        "prop": "hourglass"
+      }
+    ]
+  },
+  {
+    "id": "s232",
+    "mascot": "buff",
+    "title": "The Office Lifesaver Trap",
+    "mechanism": "Competence Trap",
+    "lines": [
+      {
+        "vo": "You fix every broken spreadsheet. The team calls you a lifesaver.",
+        "text": "OFFICE LIFESAVER",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Competence trap. Being reliable at easy reps keeps you stuck.",
+        "text": "COMPETENCE TRAP",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Work rewards what you already ace, not what helps you grow.",
+        "text": "CHEAP WINS",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Do not drop your duties. Bolt one stretch task onto next week.",
+        "text": "ADD HEAVY SET",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "target"
+      },
+      {
+        "vo": "Present the deck instead of emailing the sheet. Level up.",
+        "text": "OWN THE ROOM",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s232vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Cang thao vat cang de ket lai",
+    "title_vi": "Càng tháo vát càng dễ kẹt lại",
+    "mechanism": "Competence Trap",
+    "lines": [
+      {
+        "vo": "Ai lỗi file cũng gọi bạn, deadline sát nút cũng nhờ bạn gánh.",
+        "text": "NGƯỜI CỨU DEADLINE",
+        "color": "red",
+        "actor": "typing_focused",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Bẫy năng lực đấy. Càng nâng tạ nhẹ quen tay, cơ càng không nở.",
+        "text": "BẪY NĂNG LỰC",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Chỗ làm thích bạn làm mãi việc cũ vì nó an toàn cho họ.",
+        "text": "AN TOÀN CHO HỌ",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Giữ việc cũ, nhưng kèm thêm một việc mới để kéo tạ nặng hơn.",
+        "text": "TĂNG MỨC TẠ",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "target"
+      },
+      {
+        "vo": "Nhận thuyết trình kết quả thay vì chỉ gửi bảng số liệu. Làm đi.",
+        "text": "BƯỚC LÊN TRƯỚC",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s233",
+    "mascot": "pen",
+    "title": "Where Did Your Old Skills Go?",
+    "mechanism": "Skill Atrophy",
+    "lines": [
+      {
+        "vo": "You used to write code or stories, but your job stopped asking.",
+        "text": "FADING CRAFT",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Now opening a blank page feels stiff and heavy.",
+        "text": "COLD MACHINERY",
+        "color": "red",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "That is skill atrophy. Unused tools gather rust fast.",
+        "text": "SKILL ATROPHY",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Your mind mistakes this stiffness for lost talent. It is just cold.",
+        "text": "JUST RUSTY",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "You do not need a three-month sabbatical to sharpen it.",
+        "text": "NO SABBATICAL",
+        "color": "green",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Give it ten quiet minutes before morning emails start.",
+        "text": "TEN MINUTES",
+        "color": "green",
+        "actor": "writing",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "The spark returns when hands start moving again.",
+        "text": "REIGNITE SPARK",
+        "color": "gold",
+        "actor": "small_step",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s233vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Ky nang cu bien di dau mat?",
+    "title_vi": "Kỹ năng cũ biến đi đâu mất?",
+    "mechanism": "Skill Atrophy",
+    "lines": [
+      {
+        "vo": "Từng viết lách hay thiết kế rất mượt, giờ đi làm chỉ làm báo cáo.",
+        "text": "TAY NGHỀ LỤC BẠC",
+        "color": "red",
+        "actor": "bored_yawn",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Mở lại file cũ thấy ngượng tay, bạn nghĩ mình hết duyên với nghề.",
+        "text": "SỢ MẤT DUYÊN",
+        "color": "red",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Không phải mất tài năng. Lâu không đụng thì máy móc bị nguội thôi.",
+        "text": "CHỈ LÀ BỊ NGUỘI",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Càng sợ vụng về, não càng né tránh việc khởi động lại.",
+        "text": "NÉ TRÁNH VỤNG VỀ",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Bạn không cần nghỉ việc hay đăng ký khoá học tiền triệu.",
+        "text": "KHÔNG CẦN NGHỈ VIỆC",
+        "color": "green",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Mỗi sáng dành mười phút tự làm một bản nháp cho riêng mình.",
+        "text": "MƯỜI PHÚT MỖI NGÀY",
+        "color": "green",
+        "actor": "writing",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Cảm hứng không tự đến, nó đợi tay bạn quen việc trở lại.",
+        "text": "TAY QUEN VIỆC LẠI",
+        "color": "gold",
+        "actor": "small_step",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s234",
+    "mascot": "buff",
+    "title": "Stop Waiting for a Career Ladder",
+    "mechanism": "Career Construction",
+    "lines": [
+      {
+        "vo": "Your peer gets promoted. Suddenly your desk feels like a trap.",
+        "text": "PEER PROMOTED",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Sure, buddy. Wait for a corporate ladder, stay stuck forever.",
+        "text": "FORGET LADDERS",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Careers are not fixed tracks. You author the next set.",
+        "text": "WRITE YOUR SET",
+        "actor": "front",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Look at three tasks you crushed and find the common thread.",
+        "text": "FIND THE THREAD",
+        "color": "green",
+        "actor": "think",
+        "prop": "target"
+      },
+      {
+        "vo": "Pitch a two-week trial solving one real team bottleneck.",
+        "text": "TWO-WEEK TRIAL",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Build your own route, or keep staring at someone else's trophy.",
+        "text": "PICK YOUR PLAY",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s234vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung doi cong ty vach san lo trinh",
+    "title_vi": "Đừng đợi công ty vạch sẵn lộ trình",
+    "mechanism": "Career Construction",
+    "lines": [
+      {
+        "vo": "Bạn cùng khoá lên chức, còn bạn thấy mình dậm chân tại chỗ.",
+        "text": "BẠN BÈ LÊN CHỨC",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Ừ, ngồi đợi sếp vẽ đường cho thì tới già vẫn chưa tới lượt.",
+        "text": "ĐỪNG CHỜ SẾP VẼ",
+        "color": "red",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Sự nghiệp không phải thang cuốn dựng sẵn. Tự chọn bài tập đi.",
+        "text": "TỰ CHỌN BÀI TẬP",
+        "actor": "front",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Chọn ba việc bạn làm ngon nhất, tìm điểm chung giải quyết vấn đề.",
+        "text": "TÌM THẾ MẠNH",
+        "color": "green",
+        "actor": "think",
+        "prop": "target"
+      },
+      {
+        "vo": "Đề xuất nhận thử một việc khó của nhóm trong hai tuần.",
+        "text": "THỬ HAI TUẦN",
+        "color": "green",
+        "actor": "sprint_start",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Tự tạo đường chạy mới, hoặc ngồi nhìn người khác về đích.",
+        "text": "CHỌN ĐI, LÀM NGAY",
+        "color": "gold",
+        "actor": "point_viewer"
+      }
+    ]
+  },
+  {
+    "id": "s235",
+    "mascot": "pen",
+    "title": "Are You Burned Out or Misaligned?",
+    "mechanism": "Person-Job Fit",
+    "lines": [
+      {
+        "vo": "Back-to-back pings, fuzzy priorities, and zero time to think.",
+        "text": "DAILY FRICTION",
+        "color": "red",
+        "actor": "panic",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "You clock out drained, wondering why you feel like a failure.",
+        "text": "CHRONIC DRAIN",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "This is a person-job mismatch, not a personal flaw.",
+        "text": "POOR FIT",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "When work clashes with your natural strengths, the battery drains fast.",
+        "text": "ENERGY CLASH",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Track one whole week: what gave energy, what took it.",
+        "text": "ENERGY AUDIT",
+        "color": "green",
+        "actor": "writing",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Trade one draining task with a teammate who thrives on it.",
+        "text": "SWAP ONE TASK",
+        "color": "green",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "If the core mismatch stays, that is your clean exit signal.",
+        "text": "CLEAR SIGNAL",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Are you bad at working, or just sitting in the wrong chair?",
+        "text": "WRONG CHAIR?",
+        "color": "gold",
+        "actor": "think"
+      }
+    ]
+  },
+  {
+    "id": "s235vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Ban kiet suc hay ngoi nham cho?",
+    "title_vi": "Bạn kiệt sức hay ngồi nhầm chỗ?",
+    "mechanism": "Person-Job Fit",
+    "lines": [
+      {
+        "vo": "Tin nhắn nổ liên tục, họp cả ngày, không có lấy một giờ tập trung.",
+        "text": "HỌP VÀ TIN NHẮN",
+        "color": "red",
+        "actor": "panic",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Tối về rã rời, bạn tự hỏi có phải mình quá yếu đuối.",
+        "text": "TỰ TRÁCH BẢN THÂN",
+        "color": "red",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Đó là sự lệch pha giữa bạn và công việc, không phải bạn kém.",
+        "text": "LỆCH PHA CÔNG VIỆC",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Khi yêu cầu công việc ngược với thế mạnh, năng lượng tụt rất nhanh.",
+        "text": "VA CHẠM THẾ MẠNH",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Hãy ghi lại một tuần: việc nào tiếp sức, việc nào hút cạn pin.",
+        "text": "THEO DÕI NĂNG LƯỢNG",
+        "color": "green",
+        "actor": "writing",
+        "prop": "calendar_today"
+      },
+      {
+        "vo": "Thử đổi một việc gây ngợp lấy việc phân tích bạn thích.",
+        "text": "ĐỔI ĐẦU VIỆC",
+        "color": "green",
+        "actor": "hand_off"
+      },
+      {
+        "vo": "Nếu đã chỉnh mà vẫn ngột ngạt, đó là lúc nên chuyển hướng.",
+        "text": "TÍN HIỆU RÕ RÀNG",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Bạn thực sự thiếu năng lực, hay chỉ đang ngồi sai chỗ?",
+        "text": "NGỒI SAI CHỖ?",
+        "color": "gold",
+        "actor": "think"
+      }
+    ]
+  },
+  {
+    "id": "s236",
+    "mascot": "buff",
+    "title": "Reclaim Your First Thirty Minutes",
+    "mechanism": "Job Crafting",
+    "lines": [
+      {
+        "vo": "You open your laptop, drown in notifications, and morning disappears.",
+        "text": "MORNING VANISHED",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Sure, buddy. Let other people's chaos run your workday.",
+        "text": "RUN BY CHAOS",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Try job crafting. Shape your duties instead of soaking hits.",
+        "text": "JOB CRAFTING",
+        "actor": "front",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Protect your first thirty minutes. Zero email, one real priority.",
+        "text": "FIRST 30 MINUTES",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Control that opening set, or spend all day playing defense.",
+        "text": "OWN YOUR SET",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s236vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dung de nua tieng dau ngay boc hoi",
+    "title_vi": "Đừng để nửa tiếng đầu ngày bốc hơi",
+    "mechanism": "Job Crafting",
+    "lines": [
+      {
+        "vo": "Vừa mở máy là thông báo réo liên hồi, quay đi quay lại hết buổi sáng.",
+        "text": "HẾT NỬA BUỔI SÁNG",
+        "color": "red",
+        "actor": "shocked",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Ừ, cứ để sự vội vã của người khác chiếm hết giờ của mình.",
+        "text": "BỊ ĐỘNG CHẠY THEO",
+        "color": "red",
+        "actor": "arms_crossed_no",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Tái cấu trúc công việc đi. Chủ động chỉnh góc thay vì chịu đòn.",
+        "text": "CHỦ ĐỘNG CHỈNH GÓC",
+        "actor": "front",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Khoá ba mươi phút đầu ngày: không trả lời tin nhắn, làm việc quan trọng nhất.",
+        "text": "KHÓA 30 PHÚT ĐẦU",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "alarm_clock"
+      },
+      {
+        "vo": "Làm chủ hiệp đầu này, hoặc cả ngày chỉ đi dọn việc cho người khác.",
+        "text": "LÀM CHỦ HIỆP ĐẦU",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "target"
+      }
+    ]
+  },
+  {
+    "id": "s237",
+    "mascot": "pen",
+    "title": "The Real Cost of Saying Yes",
+    "mechanism": "Opportunity Cost",
+    "lines": [
+      {
+        "vo": "You say yes to every urgent ping, while long-term learning waits.",
+        "text": "SAYING YES",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "That is opportunity cost. Every quick yes quietly kills another priority.",
+        "text": "OPPORTUNITY COST",
+        "color": "red",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Immediate demands shout loud. Quiet future growth speaks in whispers.",
+        "text": "NOISY DEMANDS",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Your brain craves fast approval instead of uncertain, delayed rewards.",
+        "text": "CRAVING PRAISE",
+        "actor": "bored_yawn",
+        "prop": "brain"
+      },
+      {
+        "vo": "Name the exact trade before accepting new tasks this week.",
+        "text": "NAME THE TRADE",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Trade thirty minutes of busywork for thirty minutes of skill practice.",
+        "text": "TRADE THIRTY MIN",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Saying no to clutter makes room for the work you actually want.",
+        "text": "PROTECT ROOM",
+        "color": "gold",
+        "actor": "meditating",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s237vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Cai gia cua viec luon noi co",
+    "title_vi": "Cái giá của việc luôn nói có",
+    "mechanism": "Opportunity Cost",
+    "lines": [
+      {
+        "vo": "Ai nhờ việc vặt cũng gật đầu, còn dự án học thêm thì dời mãi.",
+        "text": "AI NHỜ CŨNG NHẬN",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "notification_bell"
+      },
+      {
+        "vo": "Đó là chi phí cơ hội. Một lần gật đầu lấy đi một cơ hội lớn.",
+        "text": "CHI PHÍ CƠ HỘI",
+        "color": "red",
+        "actor": "think",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Não thích cảm giác được khen ngay hơn là đầu tư cho tương lai.",
+        "text": "THÍCH ĐƯỢC KHEN",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Năng lượng một ngày có hạn, ôm việc phụ thì việc chính tắc nghẽn.",
+        "text": "HẾT NĂNG LƯỢNG",
+        "actor": "future_tired",
+        "prop": "low_battery"
+      },
+      {
+        "vo": "Mỗi khi nhận việc mới, gọi tên chính xác việc sẽ bị hoãn lại.",
+        "text": "GỌI TÊN ĐÁNH ĐỔI",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Đổi ba mươi phút gõ báo cáo hộ sang nâng cao tay nghề.",
+        "text": "ĐỔI 30 PHÚT",
+        "color": "green",
+        "actor": "small_step"
+      },
+      {
+        "vo": "Từ chối bớt việc thừa là cách duy nhất để dành chỗ lớn lên.",
+        "text": "DÀNH CHỖ ĐỂ LỚN",
+        "color": "gold",
+        "actor": "meditating",
+        "prop": "lightbulb"
+      }
+    ]
+  }
+]

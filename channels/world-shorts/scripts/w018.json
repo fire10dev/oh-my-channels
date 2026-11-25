@@ -1,0 +1,12 @@
+{"id":"w018","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#0ea5e9","cover_frame":60,
+ "source":"Elevation & borders: CIA World Factbook · Government of Lesotho","music":"shared/library/music/yt-audio-library/A Distant Call - Dan _Lebo_ Lebowitz, Tone Seeker.mp3",
+ "beats":[
+  {"say":"There's a country completely trapped inside another country.","title":"A COUNTRY INSIDE A COUNTRY","cam":{"lon":25,"lat":-29,"span":22},"hl":[{"a3":"ZAF","color":"#334155"},{"a3":"LSO","color":"#0ea5e9"}]},
+  {"say":"This is Lesotho. Every single border it has is with South Africa.","cam":{"lon":27.8,"lat":-29.6,"span":9},"hl":[{"a3":"ZAF","color":"#f59e0b","label":"South Africa"},{"a3":"LSO","color":"#0ea5e9","label":"Lesotho"}]},
+  {"say":"Only three countries on Earth are fully surrounded like this: Lesotho, San Marino and Vatican City. And Lesotho is by far the biggest.","cam":{"lon":27.8,"lat":-29.6,"span":9},"hl":[{"a3":"LSO","color":"#0ea5e9"}],"big":{"value":"3","label":"countries fully enclosed"}},
+  {"say":"It's also called the Kingdom in the Sky. Its lowest point is about fourteen hundred meters above sea level.","cam":{"lon":28.2,"lat":-29.5,"span":6},"hl":[{"a3":"LSO","color":"#0ea5e9"}],"big":{"value":"1,400 m","label":"lowest point"}},
+  {"say":"That's the highest lowest point of any country in the world. Snow falls here in winter, in Africa.","cam":{"lon":28.2,"lat":-29.5,"span":6},"hl":[{"a3":"LSO","color":"#e0f2fe"}]},
+  {"say":"Lesotho sells water to South Africa through huge tunnels, from dams in its mountains to Johannesburg.","cam":{"lon":28,"lat":-27.8,"span":9},"hl":[{"a3":"LSO","color":"#0ea5e9"}],
+   "line":{"pts":[[28.5,-29.3],[28.3,-28.6],[28.1,-27.6],[28.04,-26.2]],"color":"#38bdf8","arrow":true,"label":"Water"},"pins":[{"lon":28.04,"lat":-26.2,"text":"Johannesburg"}]},
+  {"say":"A kingdom in the sky, surrounded on every side. Follow for more.","title":"SURROUNDED ON EVERY SIDE","cam":{"lon":25,"lat":-29,"span":22},"hl":[{"a3":"ZAF","color":"#334155"},{"a3":"LSO","color":"#0ea5e9"}]}
+ ]}

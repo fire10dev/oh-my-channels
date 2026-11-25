@@ -1,0 +1,70 @@
+{
+ "title": "Os Três Faroleiros que Sumiram em 1900",
+ "hook": "A LUZ APAGOU",
+ "asof": "História baseada nos Registros Nacionais da Escócia",
+ "world": "lighthouse",
+ "long": "IX015",
+ "chapters": [
+  {
+   "id": "flannan",
+   "hud": "DEZ. 1900",
+   "chip": "26 DE DEZ. DE 1900",
+   "tod": "dusk",
+   "shots": [
+    {
+     "s": "Em dezembro de 1900, um farol na Escócia apagou.",
+     "v": "flannan",
+     "tod": "night"
+    },
+    {
+     "s": "As ilhas Flannan, longe, no meio do Atlântico.",
+     "v": "flannan"
+    },
+    {
+     "s": "Um navio que passava notou que a luz estava apagada.",
+     "v": "flannan",
+     "tod": "night"
+    },
+    {
+     "s": "Em 26 de dezembro, Joseph Moore chegou para render o faroleiro.",
+     "v": "flannan",
+     "you": "flannan"
+    },
+    {
+     "s": "A estação estava vazia.",
+     "v": "kitchen"
+    },
+    {
+     "s": "As lanternas, limpas e prontas. A cozinha, em ordem.",
+     "v": "kitchen"
+    },
+    {
+     "s": "Faltavam dois conjuntos de roupa para o lado de fora.",
+     "v": "store"
+    },
+    {
+     "s": "Os três faroleiros nunca foram encontrados.",
+     "v": "flannan",
+     "st": [
+      "3",
+      "faroleiros nunca encontrados"
+     ]
+    },
+    {
+     "s": "A investigação encontrou danos da tempestade no ponto de desembarque.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "Concluiu que uma onda enorme provavelmente os arrastou.",
+     "v": "rock",
+     "plane": "waves"
+    },
+    {
+     "s": "O que você acha que aconteceu?",
+     "v": "flannan"
+    }
+   ]
+  }
+ ]
+}

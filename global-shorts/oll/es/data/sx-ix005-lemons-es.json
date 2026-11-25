@@ -1,0 +1,95 @@
+{
+ "title": "Se rompió su línea de vida a 100 metros",
+ "hook": "LÍNEA ROTA",
+ "asof": "Hechos de 2012",
+ "world": "sat",
+ "long": "IX005",
+ "chapters": [
+  {
+   "id": "lemons",
+   "hud": "2012",
+   "chip": "MAR DEL NORTE",
+   "tod": "night",
+   "shots": [
+    {
+     "v": "diver",
+     "plane": "cut",
+     "you": "diver",
+     "s": "A cien metros de profundidad, su línea de vida se rompió."
+    },
+    {
+     "v": "seabed",
+     "s": "Septiembre de 2012. Mar del Norte."
+    },
+    {
+     "v": "diver",
+     "you": "diver",
+     "s": "El buzo de saturación Chris Lemons trabajaba en el fondo marino."
+    },
+    {
+     "v": "diver",
+     "st": [
+      "UMBILICAL",
+      "gas · agua caliente · comunicaciones"
+     ],
+     "s": "Un umbilical lo ataba a la campana de buceo."
+    },
+    {
+     "v": "ship",
+     "plane": "storm",
+     "s": "Entonces falló el sistema de posicionamiento del barco."
+    },
+    {
+     "v": "ship",
+     "plane": "storm",
+     "s": "El barco empezó a alejarse."
+    },
+    {
+     "v": "diver",
+     "plane": "cut",
+     "s": "Su umbilical se enganchó,"
+    },
+    {
+     "v": "diver",
+     "plane": "cut",
+     "you": "diver",
+     "s": "y se rompió."
+    },
+    {
+     "v": "diver",
+     "st": [
+      "MINUTOS",
+      "gas de emergencia"
+     ],
+     "s": "Le quedaban unos minutos de gas de emergencia."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "~30 MIN",
+      "small": "hasta el regreso del barco · 2012"
+     },
+     "s": "El barco tardó unos treinta minutos en volver."
+    },
+    {
+     "v": "seabed",
+     "s": "Lo encontraron inconsciente en el fondo marino."
+    },
+    {
+     "v": "bellin",
+     "you": "bellin",
+     "s": "Un compañero lo metió en la campana y le dio dos respiraciones."
+    },
+    {
+     "v": "bellin",
+     "s": "Volvió en sí."
+    },
+    {
+     "v": "chamber",
+     "you": "chamber",
+     "s": "Sobrevivió y volvió a bucear."
+    }
+   ]
+  }
+ ]
+}

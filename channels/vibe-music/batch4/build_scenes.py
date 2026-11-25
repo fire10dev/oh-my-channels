@@ -9,19 +9,20 @@ order. It writes images/contact_sheet.jpg (labelled) to check the mapping before
 Auto effects: bokeh on the brightest saturated spots, breathing glows + dust on the 2 brightest areas, rain/snow
 for rain/ice packs. Wave palette and accent come from the image's own colours.
 """
-import colorsys, json, re, shutil, subprocess, sys
+import colorsys, json, os, re, shutil, subprocess, sys
 from pathlib import Path
 
 import numpy as np
 from PIL import Image, ImageDraw
 
-B4 = Path(__file__).resolve().parent
-SHORTS = B4.parent / "shorts"
+# PACK_DIR=<folder with songs.json, images/, audio/> reuses this for other packs (e.g. ../morning).
+B4 = Path(os.environ.get("PACK_DIR") or Path(__file__).parent).resolve()
+SHORTS = Path(__file__).resolve().parent.parent / "shorts"
 SONGS = {s["id"]: s for s in json.loads((B4 / "songs.json").read_text())}
 ORDER = list(SONGS)
 IMG_EXT = (".png", ".jpg", ".jpeg", ".webp")
-RAIN = {"Cyber Rain", "Rainy Neon Cafe"}
-SNOW = {"Ice Cold Code"}
+RAIN = {"Cyber Rain", "Rainy Neon Cafe", "Rainy Morning Cafe"}
+SNOW = {"Ice Cold Code", "Snowy Winter Morning"}
 
 
 def id_range(a, b):
@@ -133,7 +134,8 @@ def cmd_scenes(ids):
         fx, waves, accent, W, H = auto_effects(img, song["pack_name"])
         scenes[sid] = {"id": sid, "img": f"scenes/{sid}{img.suffix.lower()}", "srcW": W, "srcH": H,
                        "audio": f"scenes/{sid}.wav", "roundFrames": frames, "title": song["title"],
-                       "subtitle": f"Synthwave Night Coding · {song['bpm']} BPM", "accent": accent,
+                       "subtitle": f"{song.get('subtitle', 'Synthwave Night Coding')} · {song['bpm']} BPM",
+                       "accent": accent,
                        "waves": waves, "effects": fx}
         print(f"{sid} {song['title']}: {W}x{H}, {frames} frames, {len(fx['bokeh'])} bokeh, waves {waves}")
     path.write_text(json.dumps(list(scenes.values()), ensure_ascii=False, indent=1))

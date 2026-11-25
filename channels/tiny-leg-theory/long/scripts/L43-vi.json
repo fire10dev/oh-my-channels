@@ -1,0 +1,923 @@
+{
+ "id": "L43vi",
+ "lang": "vi",
+ "title": "Theo đuổi mục tiêu dài hạn thế nào khi kết quả còn xa?",
+ "description": "Khi mục tiêu kéo dài nhiều tháng, sự hào hứng sẽ biến mất từ rất sớm. Đây là tám cơ chế tâm lý giúp bạn giữ vững động lực: thiết lập mục tiêu (goal setting), thang mục tiêu (goal hierarchy), chia nhỏ cột mốc (subgoal sequencing), vòng lặp phản hồi (feedback loops), động cơ tự thân (self-concordance), theo dõi tiến độ (progress monitoring), vạch đích nhân tạo (goal gradient) và bẫy leo thang (escalation of commitment). Biến cái đích xa xôi thành đà tiến hữu hình mỗi ngày.",
+ "chapters": [
+  {
+   "title": "Đường Dài Thử Lửa",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bạn mua cuốn sách dày cộp ba tháng trước, nhưng ba tuần nay chưa hề mở ra.",
+     "text": "ĐƯỜNG DÀI THỬ LỬA",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lúc đầu hừng hực khí thế, giờ nhìn tập ghi chép chỉ muốn nằm lướt mạng cho xong.",
+     "text": "LỬA TẮT TỪ ĐÂU?",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hết giai đoạn màu hồng rồi Pen, giờ mới là lúc vào hiệp tập nặng.",
+     "text": "HẾT THỜI MÀU HỒNG",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao khi mục tiêu kéo dài hàng tháng trời, nhiệt huyết lại nguội nhanh thế?",
+     "text": "NHIỆT HUYẾT ĐÂU RỒI?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đích quá xa khiến não đói phần thưởng, bạn không thể chạy bền bằng chút hứng khởi.",
+     "text": "THIẾU PHẦN THƯỞNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là tám cách giúp bạn thấy rõ tiến độ từng ngày để bền bỉ về đích.",
+     "text": "TÁM CÁCH VỀ ĐÍCH",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Mục Tiêu Cụ Thể",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình tự nhủ tháng này sẽ học chăm, nhưng mở sách ra là lại kẹt cứng.",
+     "text": "1. MỤC TIÊU CỤ THỂ",
+     "color": "ink",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Học chăm không phải mục tiêu, đó chỉ là lời ước mơ hồ thôi.",
+     "text": "KHÔNG PHẢI MỤC TIÊU",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình rất muốn lấy chứng chỉ, sao việc ngồi vào bàn lại khó khăn đến thế?",
+     "text": "SAO KHÓ TẬP TRUNG?",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý học gọi là thiết lập mục tiêu, đích mơ hồ thì não không có điểm tựa để gồng sức.",
+     "text": "THIẾT LẬP MỤC TIÊU",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không có giới hạn rõ ràng, não sẽ tự động tiết kiệm năng lượng bằng cách lướt mạng.",
+     "text": "TIẾT KIỆM NĂNG LƯỢNG",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ nói học ngoại ngữ, đầu mình chỉ thấy cả một đầm lầy mịt mù.",
+     "text": "ĐẦM LẦY MỊT MÙ",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn, bạn cần độ khó cụ thể, như chọn đúng mức tạ để nâng.",
+     "text": "ĐỘ KHÓ CỤ THỂ",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thay vì nói học chăm, hãy chốt làm hai bài ngữ pháp và hai mươi từ vựng trước bữa trưa.",
+     "text": "HAI MƯƠI TỪ TRƯỚC TRƯA",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế là hôm nay có vạch đích rõ ràng trước mắt, không còn mông lung nữa.",
+     "text": "VẠCH ĐÍCH RÕ RÀNG",
+     "color": "green",
+     "actor": "reading",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khóa đúng mức tạ, đẩy đủ số lượt, đạt chuẩn là xách ba lô đi ăn trưa.",
+     "text": "ĐẠT CHUẨN LÀ XONG",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Biết việc hôm nay rồi, nhưng mình vẫn thấy mấy bài tập này quá rời rạc.",
+     "text": "VẪN THẤY RỜI RẠC",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì bạn chưa thấy bài tập hôm nay nằm ở nấc nào trên chiếc thang lớn.",
+     "text": "BẬC THANG TIẾP THEO",
+     "color": "ink",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "2. Thang Mục Tiêu",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nửa đêm ngồi cày xấp bài tập thuế, mình tự hỏi cắm đầu làm mớ này để làm gì.",
+     "text": "2. THANG MỤC TIÊU",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn vừa đánh mất sợi dây nối mồ hôi hôm nay với chiếc đai vô địch.",
+     "text": "MẤT DÂY NỐI VÔ ĐỊCH",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như việc vặt vô nghĩa, cày mớ thông tư thuế với bảng tính thì đổi đời sao được?",
+     "text": "CÔNG VIỆC VÔ NGHĨA",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cái này gọi là thang mục tiêu, não mình luôn chia tham vọng thành ba tầng bậc rõ rệt.",
+     "text": "THANG MỤC TIÊU",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tầng cao nhất là con người bạn muốn tới, tầng giữa là dự án, còn đáy là việc cặm cụi mỗi ngày.",
+     "text": "BA TẦNG Ý NGHĨA",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không thấy mối nối với tương lai, não sẽ coi bài tập này là tốn công vô ích.",
+     "text": "TỔN HAO CÔNG SỨC",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhưng nối bài tập thuế với chuyện sau này mở văn phòng riêng nghe gượng gạo lắm Buff.",
+     "text": "NGHE QUÁ GƯỢNG GẠO",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy viết hai dòng làm cầu nối ngay đầu trang vở trước khi ngồi học.",
+     "text": "CẦU NỐI HAI DÒNG",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhắc mình rằng giải mớ bài này là rèn nghề để sau này tự tin mở văn phòng riêng.",
+     "text": "GẮN VỚI TƯƠNG LAI",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giờ thì giải đề giống như đặt từng viên gạch móng, chứ không phải đi dọn rác.",
+     "text": "XÂY GẠCH ĐẶT MÓNG",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Biết mình đang leo đi đâu thì từng giọt mồ hôi bỏ ra mới thấy đáng giá.",
+     "text": "MỒ HÔI ĐÁNG GIÁ",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dù vậy, thang vẫn gãy nếu bạn bước nhầm thứ tự các nấc thang.",
+     "text": "SAI THỨ TỰ BẬC THANG",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "3. Chia Nhỏ Cột Mốc",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mới học ngoại ngữ tuần đầu, mình đã lao vào dịch luôn cả cuốn tiểu thuyết rồi đứng hình.",
+     "text": "3. CHIA NHỎ CỘT MỐC",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngày đầu vào phòng tập mà bạn đã đòi nâng mức tạ của vận động viên.",
+     "text": "QUÁ NẶNG NGÀY ĐẦU",
+     "color": "red",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình tưởng diệt ải khó nhất từ đầu thì sau này sẽ nhẹ nhõm hơn.",
+     "text": "ẢI KHÓ TỪ ĐẦU",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là trình tự chặng nhỏ, thứ tự các mốc quyết định toàn bộ đà tâm lý.",
+     "text": "TRÌNH TỰ CHẶNG NHỎ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đụng ải quá lớn từ sớm gây quá tải nhận thức, khiến não sợ hãi bỏ chạy.",
+     "text": "QUÁ TẢI NHẬN THỨC",
+     "color": "red",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đúng thật, mình ngợp quá nên gấp sách lại rồi nằm lướt mạng săn giảm giá.",
+     "text": "NẰM LƯỚT ĐIỆN THOẠI",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy nạp tự tin trước, xếp các mốc nhỏ để giành lấy những chiến thắng nhanh.",
+     "text": "TỰ TIN BAN ĐẦU",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dịch mẩu truyện tranh ngắn trước, khi quen tay mới thử đọc bài báo dài.",
+     "text": "TỪ DỄ ĐẾN KHÓ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tích lũy thắng lợi nhỏ giúp mình có đà tinh thần trước khi đụng bài khó.",
+     "text": "ĐÀ TÂM LÝ VỮNG VÀNG",
+     "color": "green",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khởi động với tạ ấm cho quen cơ bắp đi đã, rồi hẵng vào gánh tạ đòn.",
+     "text": "KHỞI ĐỘNG VỚI TẠ ẤM",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghe nhẹ lòng hẳn, giờ mình đã biết đầu tuần tới cần xử lý mốc nào.",
+     "text": "CON ĐƯỜNG NHẸ HƠN",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có đà rồi, nhưng nhìn nhầm bảng điểm thì ngọn lửa cũng tắt ngấm ngay.",
+     "text": "NHÌN NHẦM BẢNG ĐIỂM",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "4. Vòng Lặp Phản Hồi",
+   "sources": [
+    "s02",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình làm bài thi thử sau hai tuần ôn luyện, và nhận kết quả bết bát.",
+     "text": "4. VÒNG LẶP PHẢN HỒI",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khác gì vừa uống cốc nước ép rau đã vội vã leo lên cân kiểm tra đâu.",
+     "text": "QUÁ VỘI VÀNG",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn điểm số bết bát mà nản lòng, chắc mình không có khiếu học món này thật.",
+     "text": "KHÔNG CÓ KHIẾU HỌC",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đây là bẫy phản hồi, kiểm tra dồn dập chỉ đo nỗi sợ chứ đâu đo thực lực.",
+     "text": "BẪY PHẢN HỒI",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cái tôi làm quá lên, coi điểm kém là mình kém cỏi thay vì là dữ liệu sửa sai.",
+     "text": "BẢO VỆ CÁI TÔI",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy mình có nên dừng thi thử cho đến tháng ôn cuối cùng không?",
+     "text": "DỪNG THI THỬ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không, chỉ cần đổi cách đo, chuyển từ nhìn điểm số sang chẩn đoán quy trình.",
+     "text": "CHẨN ĐOÁN QUY TRÌNH",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng hỏi đỗ hay trượt, hãy hỏi khái niệm cụ thể nào khiến mình làm sai.",
+     "text": "TÌM LỖ HỔNG BÀI LÀM",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế thì câu sai biến thành dữ liệu bổ ích, chứ không phải thất bại cá nhân.",
+     "text": "DỮ LIỆU ĐỂ RÈN LUYỆN",
+     "color": "green",
+     "actor": "reading",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Xem câu sai như một nhịp tạ hỏng, chỉnh tư thế rồi vào hiệp tiếp theo.",
+     "text": "CHỈNH LẠI TƯ THẾ",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy mỗi vết mực đỏ chỉ là lần chỉnh dáng, không phải bản án về năng lực.",
+     "text": "MỘT LẦN CHỈNH DÁNG",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tốt rồi, giờ xem bạn đang cố làm hài lòng kỳ vọng của ai.",
+     "text": "MỤC TIÊU CỦA AI",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "5. Động Cơ Thực Sự",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình đăng ký chứng chỉ này vì thấy trên mạng với hội đồng nghiệp ai cũng bảo làm nghề này oai.",
+     "text": "5. ĐỘNG CƠ THỰC SỰ",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mục tiêu đi mượn thì sức bền của bạn cũng chỉ là đồ đi vay thôi.",
+     "text": "SỨC BỀN VAY MƯỢN",
+     "color": "red",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi lần ngồi vào bàn, mình thấy nặng nề như kéo lê tảng đá trên gai.",
+     "text": "KÉO LÊ TẢNG ĐÁ",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tâm lý học gọi là động cơ tự thân, gánh ước mơ của thiên hạ thì gãy lưng là phải.",
+     "text": "ĐỘNG CƠ TỰ THÂN",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hành động vì mặc cảm hay áp lực, bạn tốn gấp đôi ý chí cho nửa kết quả.",
+     "text": "TỐN GẤP ĐÔI Ý CHÍ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩ lại thì mình chỉ mê cái danh có bằng, chứ chẳng hứng thú gì với nó.",
+     "text": "CHỈ VÌ CÁI DANH",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tìm chiếc mỏ neo thực sự của bạn, xem kỹ năng này đem lại tự do nào.",
+     "text": "TÌM CHIẾC MỎ NEO",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nếu chưa thích bài tập hàng ngày, hãy gắn chứng chỉ với sự tự do nó mang lại.",
+     "text": "TỰ CHỦ VÀ TỰ DO",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu vững nghề này, mình có thể tự nhận dự án làm thêm mà không phụ thuộc ai.",
+     "text": "TỰ TAY GIẢI QUYẾT",
+     "color": "green",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đấy mới là nhiên liệu thật, nâng tạ vì sức mạnh của mình chứ đừng cho ai xem.",
+     "text": "NHIÊN LIỆU CỦA BẠN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giờ mình thấy ngồi học tối nay là đầu tư cho bản thân, không phải để khoe với ai.",
+     "text": "ĐẦU TƯ CHO MÌNH",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Máy có xăng rồi, nhưng đừng để mắt lạc khỏi từng hiệp tập bạn đang tích lũy.",
+     "text": "TÍCH LŨY TỪNG HIỆP",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "6. Bằng Chứng Hữu Hình",
+   "sources": [
+    "s03",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình cày sáu tuần liên tục, mà tập giáo trình vẫn dày cộp mấy trăm trang.",
+     "text": "6. BẰNG CHỨNG HỮU HÌNH",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn bị đỉnh núi hớp hồn rồi, chẳng thấy con đường đã vượt qua dưới chân.",
+     "text": "QUÊN ĐƯỜNG ĐÃ ĐI",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn chồng sách chưa đọc khổng lồ, công sức mấy tuần qua bỗng tan biến.",
+     "text": "CÔNG SỨC BIẾN MẤT",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khoa học về theo dõi tiến độ chỉ ra, chăm chăm nhìn khoảng trống làm nỗ lực như muối bỏ bể.",
+     "text": "THEO DÕI TIẾN ĐỘ",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não sẽ hiểu nhầm quãng đường còn lại là bằng chứng bạn chưa làm được trò trống gì.",
+     "text": "KHOẢNG CÁCH CÒN LẠI",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn hàng trăm trang còn lại chỉ muốn bỏ cuộc, làm sao thoát nỗi ám ảnh này?",
+     "text": "THOÁT NỖI ÁM ẢNH",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đảo ngược cách theo dõi, giai đoạn đầu hãy ghi nhận những gì bạn đã tích lũy.",
+     "text": "THEO DÕI TÍCH LŨY",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng bút dạ gạch số giờ đã học lên lịch treo tường để thấy rõ công sức bằng mắt.",
+     "text": "LỊCH TREO TƯỜNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhìn chuỗi ngày gạch chéo đỏ rực chứng minh mình đang thực sự tiến lên.",
+     "text": "BẰNG CHỨNG HỮU HÌNH",
+     "color": "green",
+     "actor": "reading",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bằng chứng trước mắt sẽ bịt miệng tiếng nói lo sợ bảo bạn đang phí thời gian.",
+     "text": "XÓA TAN LO ÂU",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ghi nhận quá khứ giúp vững tâm, nhưng gần ngày thi áp lực lại càng dồn dập.",
+     "text": "ÁP LỰC CHUYỂN DỊCH",
+     "color": "green",
+     "actor": "writing",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi tích lũy đã dày, não bạn sẽ tự động chuyển sang tăng tốc về đích.",
+     "text": "SẴN SÀNG TĂNG TỐC",
+     "color": "ink",
+     "actor": "sprint_start"
+    }
+   ]
+  },
+  {
+   "title": "7. Vạch Đích Nhân Tạo",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sao đêm trước ngày thi mình cày suốt mười tiếng, còn hôm nay lại trây lười thế này?",
+     "text": "7. VẠCH ĐÍCH NHÂN TẠO",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì cỗ máy trong người chỉ bung hết mã lực khi mắt đã nhìn thấy dải băng đích.",
+     "text": "NHÌN THẤY DẢI BĂNG",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ở tháng thứ ba của lộ trình, vạch đích xa vời vợi như tận chân trời.",
+     "text": "XA TẬN CHÂN TRỜI",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiệu ứng độ dốc mục tiêu, động lực tăng vọt khi khoảng cách co ngắn lại.",
+     "text": "ĐỘ DỐC MỤC TIÊU",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não dồn toàn lực khi phần thưởng nằm ngay trước mắt, chứ không phải nhiều tháng sau.",
+     "text": "DỒN TOÀN LỰC",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng lẽ mình cứ phải chờ nước đến chân sát nút mới chịu bung sức sao?",
+     "text": "CHỜ NƯỚC ĐẾN CHÂN",
+     "color": "red",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng chờ hạn chót bên ngoài, hãy tự tạo vạch đích nhân tạo mỗi mười bốn ngày.",
+     "text": "NƯỚC RÚT NGẮN HẠN",
+     "color": "green",
+     "actor": "front",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lên đợt nước rút hai tuần, chốt mục tiêu và tự thưởng bữa lẩu vào chủ nhật.",
+     "text": "TỰ THƯỞNG CUỐI TUẦN",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách đó kéo vạch đích tâm lý về ngay trong tầm mắt của mình.",
+     "text": "TRONG TẦM MẮT",
+     "color": "green",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chia vậy thì một quý có sáu lần chạm đích ăn mừng, đỡ hơn đợi cả năm trong mòn mỏi.",
+     "text": "CÁN ĐÍCH NHIỀU LẦN",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đua hai tuần cảm giác vừa sức và không sợ bị kiệt sức giữa đường.",
+     "text": "VỪA SỨC BỀN BỈ",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nước rút giúp giữ tốc độ, nhưng coi chừng cắm đầu chạy hết tốc lực vào ngõ cụt.",
+     "text": "TRÁNH VÀO NGÕ CỤT",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "8. Bẫy Leo Thang",
+   "sources": [
+    "s04",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Cái ứng dụng học từ vựng này nuốt không trôi, nhưng mình lỡ quẹt thẻ mua gói cả năm rồi.",
+     "text": "8. BẪY LEO THANG",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là bạn định cắm đầu vứt thêm vài tháng chỉ để an ủi chuỗi ngày lãng phí trước đó à?",
+     "text": "TIẾC CÔNG TIẾC CỦA",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Xóa ứng dụng thì như thừa nhận toàn bộ thời gian qua là công cốc.",
+     "text": "SỢ PHÍ THỜI GIAN",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là bẫy leo thang cam kết, người ta đổ thêm sức vào cách tệ để giữ sĩ diện.",
+     "text": "LEO THANG CAM KẾT",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cái tôi đánh đồng việc đổi công cụ với thất bại trong mục tiêu lớn.",
+     "text": "ĐÁNH ĐỒNG BẢN NGÃ",
+     "color": "gold",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình biết không hiệu quả, nhưng bỏ ngang cứ thấy mình như kẻ thua cuộc.",
+     "text": "SỢ THẤT BẠI",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mỗi tháng phải kiểm tra lại một lần, giày rách đế thì vứt chứ đừng cố đi tiếp.",
+     "text": "RÀ SOÁT CHIẾN LƯỢC",
+     "color": "green",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phương pháp nào không mang lại tiến bộ thực sự, dứt khoát vứt bỏ không thương tiếc.",
+     "text": "BỎ CÔNG CỤ TỒI",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chuyển từ thẻ từ vựng sang đọc sách thực tế không phải bỏ cuộc, mà là thích nghi.",
+     "text": "THÍCH NGHI LINH HOẠT",
+     "color": "green",
+     "actor": "reading",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bảo vệ mục tiêu tối thượng bằng cách không lưu luyến những công cụ vô dụng.",
+     "text": "BẢO VỆ MỤC TIÊU",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bỏ được thứ vô ích giúp mình dồn toàn lực cho những cách phù hợp.",
+     "text": "TỰ DO PHÁT TRIỂN",
+     "color": "gold",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ thì gom cả tám công cụ lại thành một lịch trình thực tế mỗi ngày.",
+     "text": "LỊCH TRÌNH MỖI NGÀY",
+     "color": "ink",
+     "actor": "34"
+    }
+   ]
+  },
+  {
+   "title": "Bản Thiết Kế Mỗi Ngày",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra theo đuổi mục tiêu dài hạn không phải cắn răng chịu đựng mù quáng.",
+     "text": "BẢN THIẾT KẾ MỖI NGÀY",
+     "color": "ink",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn rồi, sức bền đường dài nằm gọn trong ba hệ thống vận hành.",
+     "text": "BA HỆ THỐNG CỐT LÕI",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một là độ rõ ràng, chốt bài tập hôm nay và nối vào thang tương lai.",
+     "text": "RÕ RÀNG BÀI TẬP",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hai là nhiên liệu, dùng giá trị nội tại và dữ liệu chẩn đoán thay vì sợ hãi.",
+     "text": "NHIÊN LIỆU VÀ DỮ LIỆU",
+     "color": "green",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba là tạo đà, gạch lịch tích lũy, chạy rút hai tuần và bỏ công cụ hỏng.",
+     "text": "TẠO ĐÀ TIẾN LÊN",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy thử thách bảy ngày cho ai đang bế tắc lúc này là gì Buff?",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trong bảy ngày tới, chọn một bài hai mươi phút, đánh dấu lên lịch rồi nghỉ.",
+     "text": "ĐÁNH DẤU LÊN LỊCH",
+     "color": "green",
+     "actor": "front",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ tập trung làm tốt bài tập hôm nay, đích đến xa xôi sẽ tự khắc thành hình.",
+     "text": "TẬP TRUNG HÔM NAY",
+     "color": "gold",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm đăng ký kênh Lý Thuyết Chân Que để vào phòng tập tinh thần cùng tụi mình mỗi tuần.",
+     "text": "THEO DÕI KÊNH NHÉ",
+     "color": "ink",
+     "actor": "34",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

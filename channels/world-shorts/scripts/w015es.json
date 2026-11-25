@@ -1,0 +1,184 @@
+{
+ "id": "w015es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#2563eb",
+ "cover_frame": 60,
+ "admin1": [
+  "USA"
+ ],
+ "source": "Tratado de cesión de 1867: Archivos Nacionales de EE. UU. · Superficie: US Census Bureau",
+ "music": "shared/library/music/yt-audio-library/A New Adventure - Asher Fulero.mp3",
+ "beats": [
+  {
+   "say": "Estados Unidos compró esto a unos dos centavos el acre.",
+   "title": "COMPRADA A 2 CENTAVOS EL ACRE",
+   "cam": {
+    "lon": -152,
+    "lat": 63,
+    "span": 45
+   },
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#2563eb"
+    }
+   ]
+  },
+  {
+   "say": "En mil ochocientos sesenta y siete, Estados Unidos le compró Alaska a Rusia por siete millones doscientos mil dólares.",
+   "cam": {
+    "lon": -160,
+    "lat": 63,
+    "span": 70
+   },
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#2563eb"
+    }
+   ],
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    }
+   ],
+   "big": {
+    "value": "7,2 M$",
+    "label": "en 1867"
+   }
+  },
+  {
+   "say": "La llamaron la locura de Seward. Un desperdicio de dinero congelado.",
+   "cam": {
+    "lon": -152,
+    "lat": 63,
+    "span": 45
+   },
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#64748b"
+    }
+   ]
+  },
+  {
+   "say": "Alaska es más grande que Texas, California y Montana juntos.",
+   "cam": {
+    "lon": -130,
+    "lat": 50,
+    "span": 75
+   },
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#2563eb"
+    },
+    {
+     "code": "USA-3536",
+     "color": "#ef4444"
+    },
+    {
+     "code": "USA-3521",
+     "color": "#ef4444"
+    },
+    {
+     "code": "USA-3515",
+     "color": "#ef4444"
+    }
+   ],
+   "bars": {
+    "unit": "M km²",
+    "items": [
+     {
+      "label": "Alaska",
+      "value": 1.72,
+      "color": "#2563eb"
+     },
+     {
+      "label": "Texas + California + Montana",
+      "value": 1.5,
+      "color": "#ef4444"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Luego llegó el oro, y después el petróleo. Prudhoe Bay se volvió el mayor campo petrolero de Norteamérica.",
+   "cam": {
+    "lon": -150,
+    "lat": 66,
+    "span": 30
+   },
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#2563eb"
+    }
+   ],
+   "pins": [
+    {
+     "lon": -148.3,
+     "lat": 70.3,
+     "text": "Bahía de Prudhoe"
+    }
+   ]
+  },
+  {
+   "say": "Y Rusia sigue ahí al lado. Las islas Diómedes Mayor y Menor están a menos de cuatro kilómetros.",
+   "cam": {
+    "lon": -169,
+    "lat": 65.77,
+    "span": 0.9
+   },
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    }
+   ],
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#2563eb"
+    }
+   ],
+   "pins": [
+    {
+     "lon": -169.05,
+     "lat": 65.78,
+     "text": "Rusia"
+    },
+    {
+     "lon": -168.93,
+     "lat": 65.75,
+     "text": "EE. UU."
+    }
+   ]
+  },
+  {
+   "say": "El peor negocio que hizo Rusia. Sígueme para más.",
+   "title": "¿EL PEOR NEGOCIO DE LA HISTORIA?",
+   "cam": {
+    "lon": -160,
+    "lat": 63,
+    "span": 70
+   },
+   "a1": [
+    {
+     "code": "USA-3563",
+     "color": "#2563eb"
+    }
+   ],
+   "hl": [
+    {
+     "a3": "RUS",
+     "color": "#a855f7"
+    }
+   ]
+  }
+ ]
+}

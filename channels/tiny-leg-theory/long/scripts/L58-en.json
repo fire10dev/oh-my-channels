@@ -1,0 +1,926 @@
+{
+ "id": "L58",
+ "lang": "en",
+ "title": "Why You Can't Relax on Vacation (8 Psychological Fixes)",
+ "description": "You finally take time off, but your brain refuses to slow down. Here are eight psychological reasons why true rest feels so difficult. Learn practical, science-backed drills to disconnect and recharge.",
+ "chapters": [
+  {
+   "title": "Why Rest Feels Hard",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "The out-of-office autoreply is active, your suitcase is unpacked, yet your thumb instinctively opens Slack.",
+     "text": "WHY REST FEELS HARD",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Classic rookie error, Pen. Your body is resting on sand, but your brain is still clocking in.",
+     "text": "STILL WORKING",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I genuinely assumed taking scheduled days off would automatically turn off my racing mental chatter.",
+     "text": "NO OFF SWITCH",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rest is not automatic, buddy. Modern work habits train your brain to stay permanently on guard.",
+     "text": "ALWAYS ON GUARD",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even reading a book on the sand makes me feel like I am skipping a deadline.",
+     "text": "SKIPPING DEADLINES",
+     "color": "red",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain is not broken, buddy. Eight mental reflexes keep your engine revving, and each has a mechanical fix.",
+     "text": "EIGHT MENTAL GEARS",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Zeigarnik Effect",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I am lying right beside the resort pool, but I cannot stop thinking about an unsent invoice.",
+     "text": "1. ZEIGARNIK EFFECT",
+     "color": "red",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Welcome to the Zeigarnik effect. Your brain aggressively holds onto every single incomplete task.",
+     "text": "ZEIGARNIK EFFECT",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So an unfinished work project stays pinned at the very front of my mental dashboard?",
+     "text": "PINNED THOUGHTS",
+     "color": "ink",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Your working memory is holding a heavy deadlift at the top and refusing to drop the bar.",
+     "text": "HOLDING THE BAR",
+     "color": "ink",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even when I know I cannot realistically solve the problem until next Tuesday morning?",
+     "text": "CANNOT SOLVE IT",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your brain does not care about your flight itinerary. It only tracks open, unresolved loops.",
+     "text": "OPEN LOOPS",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does working memory treat a harmless delay as an urgent crisis right now?",
+     "text": "FALSE CRISIS",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because unattended loose ends signal unfinished business until they are securely filed away.",
+     "text": "UNFINISHED WORK",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How do I convince my mind that it is completely safe to drop the weight?",
+     "text": "HOW TO DROP IT?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Perform a complete braindump before you leave. Write down the task and the next specific action.",
+     "text": "DUMP ON PAPER",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So getting it onto paper tricks my brain into dropping the alarm?",
+     "text": "DROP THE ALARM",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Park the unfinished reps on paper so your mind unclamps before we tackle the next trap: quick email checks.",
+     "text": "PARK THE WEIGHT",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "coffee_mug"
+    }
+   ]
+  },
+  {
+   "title": "2. Attention Residue",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sometimes I just open my phone for five quick seconds to check my work email.",
+     "text": "2. ATTENTION RESIDUE",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sure, buddy. And that five-second peek leaves sticky attention residue for the next twenty minutes.",
+     "text": "STICKY RESIDUE",
+     "color": "gold",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Even if I just read a single message and do not type any reply back?",
+     "text": "NO REPLY SENT",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Checking email on vacation is like racking and unracking a heavy barbell every thirty seconds.",
+     "text": "UNRACKING WEIGHT",
+     "color": "red",
+     "actor": "34",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So my physical body is sitting under palm trees, but my mind is solving office drama.",
+     "text": "MIND IS AT WORK",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You are running heavy background applications on low battery mode. It quietly drains your vital energy.",
+     "text": "DRAINING BATTERY",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I honestly thought a quick glance would give me peace of mind about ongoing projects.",
+     "text": "FALSE PEACE",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "It does the exact opposite. Every notification is a fresh hook snagging your attention.",
+     "text": "ATTENTION HOOK",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does the brain struggle so hard to snap back to the sunny moment?",
+     "text": "SLOW RECOVERY",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cognitive systems require uninterrupted quiet time to clear lingering task fragments from conscious focus.",
+     "text": "CLEAR THE BUFFER",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What is the concrete drill to protect my mental bandwidth during time off?",
+     "text": "CONCRETE DRILL",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Create a five-minute shutdown ritual. Jot down tomorrow's check-in time, shut the screen, and take a physical walk.",
+     "text": "SHUTDOWN RITUAL",
+     "color": "green",
+     "actor": "meditating",
+     "prop": "alarm_clock"
+    }
+   ]
+  },
+  {
+   "title": "3. Detachment",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I flew five hundred miles away from the office, yet my muscles feel completely tense.",
+     "text": "3. DETACHMENT",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You achieved physical distance, buddy. What you are missing is true psychological detachment from work.",
+     "text": "DETACHMENT GAP",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does psychological detachment mean more than simply refusing to answer evening phone calls?",
+     "text": "MORE THAN CALLS",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You skipped the cooldown set. If your thoughts keep sprinting through work problems, your muscles stay clenched.",
+     "text": "SKIPPED COOLDOWN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "When I replay difficult meetings in my head, my nervous system reacts as if work continues.",
+     "text": "NERVOUS SYSTEM",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Replaying office arguments keeps your internal engine revving at high speed, even while lying in the sun.",
+     "text": "ENGINE REVVING",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So my body cannot tell the difference between actual work and merely thinking about it?",
+     "text": "BODY CANNOT TELL",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your physiology obeys your thoughts. If you imagine deadlines, your heart prepares for battle.",
+     "text": "PREPARE FOR BATTLE",
+     "color": "ink",
+     "actor": "sprint_start",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why do work thoughts feel like compulsory obligations even while lying on a hammock?",
+     "text": "COMPULSIVE LOOPS",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Draw a physical boundary right now. Lock the work phone in the hotel safe and declare your shift closed.",
+     "text": "LOCK IT IN SAFE",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So physical distance fails if the mind refuses to clock out?",
+     "text": "MIND STILL WORKING",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Drop the mental shift key. But even detached minds collapse if your physical tank is already bone-dry.",
+     "text": "TANK IS EMPTY",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "coffee_mug"
+    }
+   ]
+  },
+  {
+   "title": "4. Effort-Recovery",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "On the first morning of our trip, I scheduled three museum tours and felt exhausted.",
+     "text": "4. EFFORT-RECOVERY",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That directly breaks the effort-recovery model. You cannot demand high output from a flat battery.",
+     "text": "EFFORT RECOVERY",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Isn't exciting vacation sightseeing supposed to recharge us through fun and stimulation?",
+     "text": "FUN AS REST?",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sightseeing is active cardio, buddy. If your energy baseline is zero, running around museums causes pure strain.",
+     "text": "ACTIVE CARDIO",
+     "color": "red",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So forcing myself to explore immediately just layers tourist stress onto existing burnout.",
+     "text": "TOURIST STRESS",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Severe fatigue requires passive recovery first. You need baseline sleep before you can enjoy adventures.",
+     "text": "SLEEP COMES FIRST",
+     "color": "gold",
+     "actor": "34",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I always feel guilty when I spend the first day of vacation just sleeping.",
+     "text": "VACATION GUILT",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Drop the guilt, buddy. Treat that first day of sleep as a mandatory rest day between heavy sets.",
+     "text": "MANDATORY REST",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why do we feel like we are wasting time if we are not constantly active?",
+     "text": "WASTING TIME?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Because modern work treats rest as a luxury reward instead of an essential biological requirement.",
+     "text": "BIOLOGICAL NEED",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So trying to conquer a city while running on fumes just digs a deeper hole?",
+     "text": "DEEPER HOLE",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Block out day one for zero itineraries. Sleep in, recharge, and prepare for paradise to feel normal.",
+     "text": "ZERO ITINERARIES",
+     "color": "green",
+     "actor": "sleeping",
+     "prop": "sofa"
+    }
+   ]
+  },
+  {
+   "title": "5. Hedonic Adaptation",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "By day three at the luxury ocean resort, the amazing view somehow felt completely routine.",
+     "text": "5. HEDONIC ADAPTATION",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Meet hedonic adaptation. Your brain quickly turns yesterday's luxury into today's ordinary baseline.",
+     "text": "HEDONIC BASELINE",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I saved for six months to afford this ocean view. Why did the excitement fade?",
+     "text": "FADING EXCITEMENT",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "If you bench press the exact same weight every day, your muscles stop adapting. Brains work identically.",
+     "text": "MUSCLES STOP ADAPTING",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So lying on the exact same beach lounge chair for seven days produces diminishing returns?",
+     "text": "DIMINISHING RETURN",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Constant luxury creates sensory fatigue. When every hour feels identical, your brain tunes out paradise.",
+     "text": "SENSORY FATIGUE",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does that mean people need to book even more extravagant vacations every single year?",
+     "text": "MORE EXTRAVAGANT?",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "No, that is a trap. You do not need expensive upgrades; you just need contrast.",
+     "text": "SEEK CONTRAST",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does our attention ignore continuous comfort while craving fresh contrast?",
+     "text": "SENSORY SHIFT",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your attention filters out whatever remains unchanged. Novelty is what forces your brain to wake up.",
+     "text": "FILTERING ROUTINE",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "How can I introduce meaningful contrast without exhausting myself with strenuous activities?",
+     "text": "MICRO NOVELTY",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Swap passive luxury for micro-contrasts. Take a new walking route, taste unfamiliar street food, and reset your baseline.",
+     "text": "RESET YOUR BASELINE",
+     "color": "green",
+     "actor": "snack",
+     "prop": "coffee_mug"
+    }
+   ]
+  },
+  {
+   "title": "6. Focusing Illusion",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Before this vacation, I honestly believed that being in paradise would fix my unhappiness.",
+     "text": "6. FOCUSING ILLUSION",
+     "color": "red",
+     "actor": "phone_grin",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "That is the focusing illusion. Whatever problem you zoom in on right now feels ten times bigger than reality.",
+     "text": "FOCUSING ILLUSION",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Did I unfairly place the entire weight of my mental wellness onto one single week away?",
+     "text": "UNFAIR WEIGHT",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You expected paradise to spot your entire mental workout. You forgot your brain travels in your suitcase.",
+     "text": "BRAIN TRAVELS TOO",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Wherever I travel, my old mental habits, worries, and insecurities pack right along with me.",
+     "text": "WORRIES PACK IN",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Then a delayed shuttle or rainy morning happens, and you feel like the entire trip failed.",
+     "text": "OVERREACTION",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Because my fantasy expectations were set at absolute perfection rather than realistic everyday life.",
+     "text": "FANTASY STANDARDS",
+     "color": "red",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Exactly. Unrealistic standards turn minor holiday friction into an emotional catastrophe for your mind.",
+     "text": "EXPECTATION TRAP",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why do we fool ourselves into expecting uninterrupted bliss just because we boarded an airplane?",
+     "text": "BLISS ILLUSION",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Travel brochures sell pure escape, blinding you to the reality of normal human emotional rhythms.",
+     "text": "NORMAL RHYTHMS",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What mindset shift should I adopt to protect myself from that disappointment?",
+     "text": "BETTER MINDSET",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Budget an irritation tax. Decide in advance that three things will go wrong, so minor delays never wreck your peace.",
+     "text": "BUDGET IRRITATION",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "7. Planning Fallacy",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "I assumed packing bags, boarding flights, and clearing airport customs would take zero energy.",
+     "text": "7. PLANNING FALLACY",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Classic planning fallacy. You planned logistics for a teleporting robot instead of an exhausted human.",
+     "text": "PLANNING FALLACY",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why do we consistently underestimate how exhausting simple travel logistics actually turn out to be?",
+     "text": "POOR ESTIMATES",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Our brains envision frictionless travel and conveniently ignore ticket lines, terminal delays, and heavy luggage.",
+     "text": "FRICTIONLESS MYTH",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rushing through crowded terminals to catch connections felt just like working overtime.",
+     "text": "OVERTIME PRESSURE",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You loaded three times your max squat onto your travel day. That burns your nervous system.",
+     "text": "MAX SQUAT OVERLOAD",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "We end up measuring our journey by checklist milestones rather than genuine physical recovery.",
+     "text": "FALSE METRICS",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Logistics are heavy compound lifts. If you cram five transfers into three hours, you are scheduling panic, not travel.",
+     "text": "SCHEDULED PANIC",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does building empty buffer room into our travel days make us feel lazy?",
+     "text": "BUFFER ANXIETY",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Conditioned work habits view travel buffers as wasted time rather than essential recovery margins.",
+     "text": "RECOVERY MARGINS",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What practical rule should we follow when mapping out our travel itinerary?",
+     "text": "TRAVEL RULE",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pad your timeline by fifty percent. Give your senses breathing room so you can actually taste the moment.",
+     "text": "PAD THE TIMELINE",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    }
+   ]
+  },
+  {
+   "title": "8. Savoring",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "While watching an incredible ocean sunset, I realized I was already worrying about tomorrow's breakfast.",
+     "text": "8. SAVORING",
+     "color": "red",
+     "actor": "sofa_scroll",
+     "prop": "moon_stars"
+    },
+    {
+     "speaker": "buff",
+     "vo": "You completely neglected savoring. Your physical body was present, but your consciousness was time traveling.",
+     "text": "TIME TRAVEL TRAP",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Does savoring require deliberate mental effort, or should it naturally happen during pretty views?",
+     "text": "DELIBERATE EFFORT?",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Savoring is an active cognitive lift, buddy. You must intentionally flex your attention to feel positive details.",
+     "text": "COGNITIVE LIFT",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "If I do not actively pay attention, the pleasant moments vanish without leaving any memory.",
+     "text": "MOMENTS VANISH",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Constantly taking photos for social media pulls you into evaluation mode instead of actual feeling.",
+     "text": "PHOTO EVALUATION",
+     "color": "red",
+     "actor": "34",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "I end up documenting the vacation for others rather than truly experiencing it myself.",
+     "text": "DOCUMENTING LIFE",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Put the smartphone away, buddy. Your camera lens cannot digest emotional satisfaction for you.",
+     "text": "PUT PHONE AWAY",
+     "color": "gold",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Why does our attention drift toward tomorrow's logistics even during peaceful sunset moments?",
+     "text": "FUTURE DRIFT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Your idle brain naturally drafts tomorrow's to-do list unless you deliberately anchor your senses in the present.",
+     "text": "ANCHOR SENSES",
+     "color": "gold",
+     "actor": "hand_off",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "What simple physical drill helps pull my drifting mind back into the immediate moment?",
+     "text": "PRESENT DRILL",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Run a sixty-second grounding drill. Name two specific sights and two sounds before your thoughts bolt forward.",
+     "text": "GROUND YOUR SENSES",
+     "color": "green",
+     "actor": "meditating",
+     "prop": "coffee_mug"
+    }
+   ]
+  },
+  {
+   "title": "The Recovery Playbook",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "It turns out truly unwinding requires just as much intentional practice as heavy mental work.",
+     "text": "THE RECOVERY PLAYBOOK",
+     "color": "gold",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Group one: Clear mental loops before leaving. Group two: Protect raw physical sleep on day one.",
+     "text": "CLEAR AND SLEEP",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Group three: Build time buffers and savor micro-details instead of chasing paradise.",
+     "text": "BUFFER AND SAVOR",
+     "color": "ink",
+     "actor": "34",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "So recovery is a trained skill. What seven-day challenge can viewers start tonight?",
+     "text": "RECOVERY IS A SKILL",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Run this two-step drill tonight. Step one: dump open tasks onto paper.",
+     "text": "STEP ONE: DUMP TASKS",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Step two: lock your work apps away every evening for seven straight days.",
+     "text": "STEP TWO: LOCK APPS",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Writing down open loops and silencing notifications gives us real permission to rest.",
+     "text": "PERMISSION TO REST",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Build your recovery stamina in small sets so you are ready for your big holiday.",
+     "text": "RECOVERY STAMINA",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Small daily consistency turns stressful time off into genuine, restorative peace.",
+     "text": "DAILY CONSISTENCY",
+     "color": "green",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hit subscribe, buddy. We train your mental stamina every week so everyday life stops kicking your butt.",
+     "text": "TRAIN YOUR MIND",
+     "color": "gold",
+     "actor": "front"
+    }
+   ]
+  }
+ ]
+}

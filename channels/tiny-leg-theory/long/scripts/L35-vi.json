@@ -1,0 +1,863 @@
+{
+ "id": "L35vi",
+ "lang": "vi",
+ "title": "Giữ bình tĩnh thế nào khi ai đó làm bạn bực mình?",
+ "description": "Khi một tin nhắn cộc lốc hay cú tạt đầu xe khiến máu bạn sôi sùng sục, chỉ dùng ý chí thôi là chưa đủ. Dưới đây là tám thói quen tâm lý giúp bạn ngắt cơn bùng nổ cảm xúc trước khi lỡ lời làm hỏng việc, từ hạ nhiệt cơ thể bằng hơi thở cho đến đổi góc nhìn nhận thức.",
+ "chapters": [
+  {
+   "title": "Giữ bình tĩnh",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa bị xe máy tạt đầu ngoài ngã tư, máu trong người đã sôi lên sùng sục.",
+     "text": "GIỮ BÌNH TĨNH",
+     "color": "ink",
+     "actor": "shocked",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hoặc đồng nghiệp buông một câu cộc lốc trong nhóm việc, là cả buổi chiều bực bội.",
+     "text": "TỤT HẾT TÂM TRẠNG",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen yếu thế là dở rồi, cơ thể phản ứng như thể gặp cọp vồ giữa rừng.",
+     "text": "BÁO ĐỘNG GIẢ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Pen luôn dặn lòng phải nhịn, nhưng cơn nóng giận cứ bùng lên trong chớp mắt.",
+     "text": "KHÔNG THỂ KIỀM CHẾ?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ý chí suông không ăn thua đâu, cơ bắp tinh thần chưa khởi động thì đỡ sao nổi.",
+     "text": "Ý CHÍ LÀ CHƯA ĐỦ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay tụi mình cùng tập tám thói quen để chặn đứng cơn bực dọc này.",
+     "text": "TÁM BÀI TẬP BÌNH TĨNH",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Hạ nhiệt cơ thể",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đang thuyết trình trong buổi họp mà bị chen ngang cướp lời, tim Pen đập thình thịch.",
+     "text": "1. HẠ NHIỆT CƠ THỂ",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hai vai căng cứng, cơ hàm nghiến chặt, Pen chỉ muốn cãi tay đôi ngay lập tức.",
+     "text": "CƠ THỂ CĂNG CỨNG",
+     "color": "red",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hệ giao cảm đạp lút ga trước khi Pen kịp nghĩ ra lời đối đáp.",
+     "text": "ĐẠP LÚT CHÂN GA",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Liệu Pen có ngắt được cái chuông báo động đó trước khi lỡ lời làm hỏng việc không?",
+     "text": "CẮT CƠN ĐƯỢC KHÔNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử cú thở dài sinh học xem, đây là cách tự nhiên nhanh nhất để ghìm nhịp tim.",
+     "text": "PHANH HÃM NHỊP TIM",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lúc căng thẳng, các phế nang bị xẹp khiến cơ thể kẹt cứng trong trạng thái báo động.",
+     "text": "KẸT Ở BÁO ĐỘNG",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thở ngực nông làm thần kinh Pen kẹt trong vòng hoảng loạn luẩn quẩn à?",
+     "text": "BẪY HOẢNG LOẠN?",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Hít hai nhịp ngắn bằng mũi, rồi thở ra thật dài bằng miệng.",
+     "text": "HAI HÍT, MỘT THỞ",
+     "color": "green",
+     "actor": "meditating"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cú hít thứ hai làm căng phế nang, còn hơi thở ra kéo dài sẽ ghìm nhịp tim xuống.",
+     "text": "NHỊP TIM HẠ XUỐNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Pen vừa thở khẽ thử một nhịp, đôi vai đang gồng cứng đã mềm hẳn ra.",
+     "text": "VAI MỀM HẲN RA",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn động tác rồi đó! Tim đã đập êm lại, giờ phải xử lý mớ lộn xộn trong đầu.",
+     "text": "XỬ LÝ TÂM TRÍ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "2. Đặt tên cảm xúc",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhóm gia đình vừa nổ tung với mấy lời cạnh khóe ngay trước giờ ăn cơm.",
+     "text": "2. ĐẶT TÊN CẢM XÚC",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Pen cầm máy gõ lia lịa, định bụng soạn một tràng cãi lại cho bõ tức.",
+     "text": "GÕ PHÍM TRONG GIẬN DỮ",
+     "color": "red",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Soạn văn tế dài ngoằng là phí sức, cảm xúc dâng cao thì lý trí coi như đứt xích.",
+     "text": "MẤT PHANH CẢM XÚC",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao kéo lý trí quay lại khi máu nóng đã bốc lên tận đỉnh đầu?",
+     "text": "KÉO LÝ TRÍ QUAY LẠI",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng chiêu gọi tên cảm xúc, nói rõ điều bạn đang thấy bằng từ ngữ khách quan.",
+     "text": "GỌI TÊN CẢM XÚC",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ tự nhủ một câu đơn giản thế mà đổi được cả hoạt động của não bộ sao?",
+     "text": "ĐẶT TÊN CÓ ÍCH GÌ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gọi tên cảm xúc giúp vỏ não trước trán can thiệp, ghìm ngay vùng báo động lại.",
+     "text": "KÍCH HOẠT VỎ NÃO",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chỉ cần thầm nhủ mình đang khó chịu, não bạn sẽ chuyển từ nổi đóa sang quan sát.",
+     "text": "BẬT CHẾ ĐỘ QUAN SÁT",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thay vì gõ phím mắng đứa em, Pen khựng lại tự dặn là mình đang tức giận.",
+     "text": "MÌNH ĐANG TỨC GIẬN",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nó chưa giải quyết được chuyện tin nhắn, nhưng đã giữ ngón tay không bấm gửi đi.",
+     "text": "CHẶN TAY BẤM GỬI",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng thế. Nhưng nhớ này, cục tức đó chưa chắc đã bắt nguồn từ đứa em đâu.",
+     "text": "TÌM ĐÚNG NGUỒN CƠN",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "3. Căng thẳng ngầm",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hôm qua chen chúc kẹt xe về tới phòng trọ, đứa bạn cùng phòng chỉ hỏi gói đồ ở đâu.",
+     "text": "3. CĂNG THẲNG NGẦM",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế mà Pen gắt ầm lên như thể người ta vừa gây ra tội gì ghê gớm lắm.",
+     "text": "GẮT GỎNG VÔ CỚ",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giận cá chém thớt rồi! Bình năng lượng của Pen cạn sạch từ ngoài đường.",
+     "text": "GÁN NHẦM CẢM XÚC",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao não lại trút hết bực tức do kẹt xe và hạn chót công việc lên đầu người khác?",
+     "text": "TRÚT GIẬN LÊN AI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cơ thể bạn vẫn đang gánh tạ nặng, thần kinh chưa kịp xả thì đã gặp chuyện.",
+     "text": "CÒN NẶNG GÁNH TẠ",
+     "color": "ink",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chất gây căng thẳng cần thời gian lắng xuống, nên não tiện tay đổ lỗi cho người gần nhất.",
+     "text": "ĐỔ LỖI TÙY TIỆN",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra câu hỏi kia vô tội, chỉ do Pen đang đói lả và kiệt sức sau một ngày dài?",
+     "text": "CÂU HỎI VÔ TỘI",
+     "color": "ink",
+     "actor": "think",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Quét nhanh cơ thể trước khi nói, xem đang đói hay đang kiệt sức.",
+     "text": "QUÉT LẠI CƠ THỂ",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nói thẳng luôn là mình đi đường mệt quá, cho mình năm phút để hoàn hồn lại.",
+     "text": "XIN NĂM PHÚT NGHỈ",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói vậy vừa không làm tổn thương người khác, vừa cho Pen khoảng lặng để thở.",
+     "text": "CHO NHAU KHOẢNG LẶNG",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập đẹp lắm. Giờ sang phần mổ xẻ cách bạn suy diễn hành vi của người ta.",
+     "text": "BỚT SUY DIỄN BỪA",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "4. Đổi kịch bản",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Thức ba đêm làm báo cáo gửi sếp, sếp chỉ nhắn cụt lủn đúng chữ: Ờ.",
+     "text": "4. ĐỔI KỊCH BẢN",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ruột gan chùng xuống, Pen tưởng đâu sếp chê thậm tệ và thấy mình làm việc ẩu tả.",
+     "text": "SUY DIỄN TỒI TỆ",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập sai tư thế rồi. Pen tự lắp tạ quá nặng cho một suy đoán không có thật.",
+     "text": "LẮP TẠ QUÁ SỨC",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cái cơ chế đánh giá đó là gì, sao đầu óc cứ thích nhảy vội sang hướng xấu?",
+     "text": "SAO NGHĨ HƯỚNG XẤU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não không phản ứng với sự thật trần trụi, nó chỉ phản ứng với cách bạn diễn giải.",
+     "text": "SỰ THẬT VÀ SUY DIỄN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghĩ chữ đó là coi thường thì nổi giận, còn coi là sếp đang bận thì nhẹ nhõm ngay.",
+     "text": "CHỌN CÁCH NGHĨ",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tin nhắn vốn vô hại, cho tới khi Pen tự vẽ thêm màu sắc thù hằn vào đó?",
+     "text": "TỰ VẼ THÙ HẰN?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Ép đầu óc phải tìm ra hai kịch bản vô hại khác trước khi trả lời.",
+     "text": "TÌM GÓC NHÌN KHÁC",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Có khi sếp đang bận họp gấp nên gõ vội, chứ chẳng rảnh bụng để chê bai bạn.",
+     "text": "BẬN RỘN, KHÔNG ÁC Ý",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩ theo hướng đó, Pen thấy ngực mình nhẹ bẫng đi hẳn.",
+     "text": "LỒNG NGỰC NHẸ BẪNG",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một hiệp tập chuẩn chỉ. Giờ ta nắn lại thói quen đoán mò bụng dạ người khác.",
+     "text": "BỚT ĐOÁN MÒ BỤNG DẠ",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "5. Nghĩ tốt cho nhau",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đang xếp hàng mua cà phê thì có người chen ngang cái vèo, coi Pen như tàng hình.",
+     "text": "5. NGHĨ TỐT CHO NHAU",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Pen nghĩ ngay đúng là đồ vô ý thức, trịch thượng, máu nóng trào lên tận cổ.",
+     "text": "ĐỒ VÔ Ý THỨC!",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lọt bẫy quy kết rồi, Pen vừa phán xét nhân phẩm chỉ qua một cú chen ngang.",
+     "text": "BẪY QUY KẾT NHÂN PHẨM",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao mình luôn nghĩ người lạ làm chuyện vụng về là cố tình coi thường mình?",
+     "text": "SAO NGHĨ HỌ CỐ TÌNH?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bản năng sinh tồn thích phóng đại hiểm nguy, vì đề phòng giúp tổ tiên ta sống sót.",
+     "text": "BẢN NĂNG PHÒNG THỦ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lúc bạn vấp té thì đổ tại trơn trượt, còn người khác va phải thì bảo họ xấu tính.",
+     "text": "TIÊU CHUẨN KÉP",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đúng thật, Pen dễ dãi tha thứ cho mình nhưng lại quá khắt khe với người ngoài.",
+     "text": "KHẮT KHE VỚI NGƯỜI",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ nghĩ họ đang có chuyện gấp hoặc đãng trí, chứ không ai rảnh kiếm chuyện với bạn đâu.",
+     "text": "NGHĨ HỌ ĐANG VỘI",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghĩ họ lơ đễnh thay vì ác ý, ngọn lửa ấm ức của bạn sẽ tự khắc tắt ngấm.",
+     "text": "LƠ ĐỄNH, KHÔNG ÁC Ý",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chen lấn vẫn là xấu, nhưng nghĩ vậy giúp tim Pen không bị đập loạn xạ.",
+     "text": "GIỮ TIM BÌNH YÊN",
+     "color": "ink",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế mới chuẩn. Giờ ta luyện điều chỉnh ống kính chú ý để không bị mất tập trung.",
+     "text": "CHỈNH ỐNG KÍNH CHÚ Ý",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "6. Dời điểm chú ý",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ngồi làm việc mà người bàn bên cứ bấm bút bi tanh tách không ngừng nghỉ.",
+     "text": "6. DỜI ĐIỂM CHÚ Ý",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Càng ráng lờ đi thì tiếng cạch cạch nghe càng chói tai, phát điên lên được.",
+     "text": "CÀNG LỜ CÀNG KHÓ CHỊU",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ống kính của bạn bị khóa cứng vào tiếng ồn rồi, gồng mình chịu trận chỉ tổ đuối sức.",
+     "text": "KẸT VÀO TIẾNG ỒN",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tại sao não cứ thích phóng đại mấy âm thanh lắt nhắt như gắn loa phóng thanh vậy?",
+     "text": "PHÓNG ĐẠI TIẾNG ỒN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não được lập trình để bắt biến động lạ, một tiếng cạch nhỏ cũng báo nguy.",
+     "text": "PHẢN XẠ BÁO NGUY",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Càng bực bội thì não càng tưởng nó quan trọng, và tự vặn âm lượng to hơn.",
+     "text": "TỰ VẶN TO ÂM LƯỢNG",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy làm sao vặn nhỏ nó lại mà không phải quay sang gắt gỏng với người ta?",
+     "text": "HẠ BỚT ÂM LƯỢNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chủ động dời điểm chú ý, khóa ống kính vào một cảm giác vật lý cụ thể khác.",
+     "text": "DỜI SỰ CHÚ Ý",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đặt hai bàn chân chạm đất, bám tay mép bàn, dồn mắt viết nốt câu văn trước mặt.",
+     "text": "CHÂN CHẠM ĐẤT",
+     "color": "green",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tập trung gõ phím giúp tai Pen nghỉ ngơi, tiếng ồn tự động lùi dần ra phía sau.",
+     "text": "TIẾNG ỒN TỰ LÙI XA",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là chuẩn bài. Giờ ta nâng cấp bộ từ vựng để bóc tách cơn khó chịu.",
+     "text": "BÓC TÁCH KHÓ CHỊU",
+     "color": "ink",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "7. Gọi tên chi tiết",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Lúc nãy mình vừa thử gọi tên cơn giận, nhưng dán nhãn chung chung quá vẫn thấy nghẹn.",
+     "text": "7. GỌI TÊN CHI TIẾT",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mọi cảm xúc bị ném chung vào một bao tải giận dữ, làm Pen ngợp thở.",
+     "text": "QUÁ NHIỀU ẤM ỨC",
+     "color": "red",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Độ phân giải cảm xúc của Pen quá thấp, tự biến nút thắt nhỏ thành bức tường đá.",
+     "text": "NHẬN BIẾT MƠ HỒ",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tìm từ ngữ chính xác có ích gì khi trong lồng ngực mọi cơn ấm ức đều giống nhau?",
+     "text": "TÌM TỪ CÓ ÍCH GÌ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhãn mác mập mờ làm bạn bế tắc, còn từ ngữ chuẩn xác sẽ chỉ thẳng cách giải quyết.",
+     "text": "CHỈ THẲNG LỐI RA",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người biết bóc tách cảm xúc rõ ràng luôn lấy lại bình tĩnh nhanh hơn hẳn.",
+     "text": "LẤY LẠI BÌNH TĨNH",
+     "color": "gold",
+     "actor": "reading",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngoài việc bảo mình đang giận, Pen nên quan sát những tín hiệu cụ thể nào?",
+     "text": "TÍN HIỆU CỤ THỂ NÀO?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tự vấn xem, bạn đang thấy bị coi nhẹ, bị giục gấp, bị cướp lời, hay chỉ do kiệt sức?",
+     "text": "BỐN CẢM GIÁC THẬT",
+     "color": "green",
+     "actor": "34",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy bị coi nhẹ thì cần đặt lại ranh giới, còn bị cuống thì cần xin thêm thời gian.",
+     "text": "ĐÚNG BÀI ĐÚNG CHỖ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhận ra mình chỉ đang bị cuống giờ làm cơn giận với cả nhóm tan biến hẳn.",
+     "text": "CƠN GIẬN BIẾN MẤT",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn xác tạo nên sức mạnh. Giờ là bài tập cuối, kiểm soát phản ứng ra bên ngoài.",
+     "text": "KIỂM SOÁT PHẢN ỨNG",
+     "color": "ink",
+     "actor": "hand_off"
+    }
+   ]
+  },
+  {
+   "title": "8. Lùi lại một nhịp",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đi ăn trưa với cơ quan, một đồng nghiệp buông câu đùa cợt đá xéo ngay giữa bàn.",
+     "text": "8. LÙI LẠI MỘT NHỊP",
+     "color": "ink",
+     "actor": "snack",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Pen đã chực sẵn một câu mỉa mai trên đầu lưỡi, chỉ chực nhả đạn đáp trả.",
+     "text": "CHỰC BẬT LẠI NGAY",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng vội bung xả. Pen nắm quyền chọn thời điểm và cách đối đáp cơ mà.",
+     "text": "CHỌN CÁCH ĐỐI ĐÁP",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu nhịn miệng không nói, liệu có biến thành ấm ức đè nén bên trong không?",
+     "text": "CÓ PHẢI ĐÈ NÉN?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nuốt giận là chịu đựng, còn lùi một nhịp là chọn đúng thời điểm để phản công.",
+     "text": "CHỌN LÚC PHẢN CÔNG",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phản xạ hấp tấp đòi xả bực ngay, nhưng đốp chát liền tay thường dẫn tới sai lầm.",
+     "text": "ĐỐP CHÁT DỄ HỎNG",
+     "color": "red",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy động tác thực hành là gì khi câu trả đũa đang sôi sục trong họng?",
+     "text": "BÀI TẬP THỰC TẾ?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khựng lại ba giây, nhấp một ngụm nước, thở nhẹ ra rồi hạ giọng xuống thật trầm.",
+     "text": "DỪNG BA GIÂY",
+     "color": "green",
+     "actor": "coffee",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Điềm tĩnh hỏi xem ý bạn vừa rồi là sao, giọng phẳng lặng buộc đối phương tự giải trình.",
+     "text": "Ý BẠN LÀ SAO?",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cách đó đẩy áp lực ngược lại phía họ mà Pen vẫn giữ được phong thái điềm tĩnh.",
+     "text": "ĐẢO CHIỀU ÁP LỰC",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn thắng hiệp đấu nhờ đứng vững tư thế và bảo vệ trọn vẹn sự bình yên.",
+     "text": "BẢO VỆ SỰ BÌNH YÊN",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    }
+   ]
+  },
+  {
+   "title": "Lộ trình thực hành",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Giờ ai khiêu khích, Pen đã có bài bản đối phó thay vì nổi điên như trước.",
+     "text": "LỘ TRÌNH THỰC HÀNH",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhớ ba tầng phòng thủ, trước hết hạ nhiệt cơ thể bằng hơi thở và rà soát mệt mỏi.",
+     "text": "TẦNG MỘT: HẠ NHIỆT",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tầng hai, chỉnh lại suy nghĩ bằng cách gọi tên cảm xúc và tin người ta vô ý.",
+     "text": "TẦNG HAI: ĐỔI Ý NGHĨ",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tầng ba, kiểm soát hành động bằng cách dời sự chú ý và lùi lại một nhịp.",
+     "text": "TẦNG BA: LÙI MỘT NHỊP",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để Pen bắt đầu luyện tập mà không bị ngợp trước cả tám bài tập này?",
+     "text": "BẮT ĐẦU TỪ ĐÂU?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chơi thử thách bảy ngày này, mỗi sáng chọn đúng một pha bực mình để tập phanh.",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "green",
+     "actor": "34",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi ai làm phiền, thở ra một hơi dài, thầm gọi tên cảm xúc rồi dừng lại một nhịp.",
+     "text": "THỞ, GỌI TÊN, DỪNG",
+     "color": "green",
+     "actor": "meditating",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mỗi ngày một hiệp bình tĩnh như vậy nghe vừa sức và dễ theo đuổi thật.",
+     "text": "MỖI NGÀY MỘT HIỆP",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập đều tạo bản lĩnh thép. Bấm đăng ký kênh để nâng tạ tâm lý mỗi tuần cùng tụi mình nhé.",
+     "text": "ĐĂNG KÝ KÊNH NHÉ",
+     "color": "ink",
+     "actor": "front",
+     "prop": "notification_bell"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,935 @@
+{
+ "id": "L49vi",
+ "lang": "vi",
+ "title": "Vì sao làm nhóm thường thành một người gánh hết việc?",
+ "description": "Khám phá tám cơ chế tâm lý khiến nỗ lực cá nhân sụt giảm khi làm việc nhóm—từ ỷ lại tập thể (social loafing), khuếch tán trách nhiệm (diffusion of responsibility) đến hiệu ứng kẻ ngốc (sucker effect)—và cách thiết lập trách nhiệm rõ ràng để ai cũng tự giác gánh vác.",
+ "chapters": [
+  {
+   "title": "Một mình gánh cả nhóm",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Hai giờ sáng, nhóm lớp im bặt, mình bạn thức gõ cho xong bài thuyết trình.",
+     "text": "MỘT MÌNH GÁNH CẢ NHÓM",
+     "color": "red",
+     "actor": "typing_focused",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dù là bài tập nhóm hay việc công ty, gánh nặng luôn đổ lên vai bạn.",
+     "text": "TOÀN ÔM VIỆC NẶNG",
+     "color": "ink",
+     "actor": "future_tired",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tưởng tập chung cả đội, ai ngờ một mình bạn phải gánh trọn hiệp tạ nặng.",
+     "text": "MỘT MÌNH GÁNH TẠ",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì sao càng đông người giỏi, nỗ lực của từng người lại tụt dốc nhanh vậy?",
+     "text": "ĐÔNG NGƯỜI LẠI LƯỜI?",
+     "color": "gold",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Họ không hẳn lười đâu. Não bộ đang dính phải tám cái bẫy tâm lý đấy.",
+     "text": "TÁM CÁI BẪY ẨN",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hiểu được tám bẫy đó có giúp mình thoát cảnh gánh còng lưng lần tới không?",
+     "text": "CÓ THOÁT ĐƯỢC KHÔNG?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chắc chắn rồi. Nắm vững luật chơi, bạn sẽ kéo cả đội cùng vào guồng.",
+     "text": "CÙNG NHAU GÁNH VÁC",
+     "color": "green",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "1. Ỷ lại tập thể",
+   "sources": [
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhóm bốn người làm bài, nhưng hai bạn kia không viết nổi một đoạn ngắn.",
+     "text": "1. Ỷ LẠI TẬP THỂ",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hôm đầu mở nhóm Zalo thì hăng hái, hôm sau lặn mất tăm không một tin nhắn.",
+     "text": "BỐC HƠI KHỎI NHÓM",
+     "color": "ink",
+     "actor": "34",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ỷ lại tập thể đấy. Gom chung nhóm là nỗ lực của từng người tự nhiên tụt dốc.",
+     "text": "HIỆU SUẤT RƠI TỰ DO",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có phải hễ thấy có người cùng làm là não mình tự động bật lười?",
+     "text": "TỰ ĐỘNG BẬT LƯỜI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiềm thức sẽ tự giảm lực khi thấy công sức của mình không ai để ý.",
+     "text": "ÂM THẦM GIẢM SỨC",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cùng đẩy xe chết máy, mỗi người sẽ đẩy nhẹ hơn lúc đẩy một mình.",
+     "text": "ĐẨY XE CÙNG NHAU",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ lười mà không tự nhận ra, chỉ vì thấy cả nhóm vẫn chạy sao?",
+     "text": "LƯỜI KHÔNG BIẾT",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn rồi. Não nghĩ tạ đã có người nâng, nên chẳng thèm tốn mồ hôi.",
+     "text": "ẢO TƯỞNG AN TOÀN",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Muốn trị tật này, hãy xé nhỏ bài tập thành từng phần trước khi ráp lại.",
+     "text": "CHIA NHỎ ĐẦU VIỆC",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chốt hạn nộp nháp cho từng người trước khi mở buổi làm việc chung.",
+     "text": "CHỐT HẠN TỪNG NGƯỜI",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chia việc thì rõ, nhưng tin nhắn gấp gửi nhóm chung vẫn bị ngó lơ?",
+     "text": "TIN GẤP VẪN BỊ BỎ LƠ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khoảng lặng đó chính là lúc trách nhiệm cá nhân tan biến vào đám đông.",
+     "text": "TRÁCH NHIỆM BIẾN MẤT",
+     "color": "ink",
+     "actor": "arms_crossed_no",
+     "prop": "storm_cloud"
+    }
+   ]
+  },
+  {
+   "title": "2. Né trách nhiệm",
+   "sources": [
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tin nhắn khẩn của sếp gửi vào nhóm chung nằm im lìm suốt ba ngày liền.",
+     "text": "2. NÉ TRÁCH NHIỆM",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Năm người đã xem tin nhắn nhưng ai cũng đinh ninh người khác sẽ làm.",
+     "text": "NGHĨ NGƯỜI KHÁC LÀM",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trách nhiệm phân tán đấy. Khi ai cũng có phần, chẳng ai thấy là việc mình.",
+     "text": "AI CŨNG NGHĨ TRỪ MÌNH",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không bị chỉ mặt, ai cũng nghĩ đứng nhìn sẽ không bị phạt.",
+     "text": "ÁN PHẠT BẰNG KHÔNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng ai thấy áy náy vì tội lỗi đã được chia đều cho năm người?",
+     "text": "CHIA ĐỀU TỘI LỖI?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Đứng trong đám đông thấy rất an toàn vì chẳng ai nhúc nhích.",
+     "text": "ĐỨNG YÊN AN TOÀN",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để mọi người không đơ ra khi có việc ném vào giữa nhóm?",
+     "text": "PHÁ VỠ SỰ BẤT ĐỘNG",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đừng quăng việc vào khoảng không. Hãy gọi đích danh một người và chốt việc.",
+     "text": "CHỈ ĐÍCH DANH MỘT AI",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hỏi thẳng luôn, Pen ơi, nhận viết thư trả lời trước ba giờ chiều nhé?",
+     "text": "CHỐT TRỰC TIẾP",
+     "color": "green",
+     "actor": "writing",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi thanh đòn nằm trên tay ai, người đó không thể vờ là người khác nâng.",
+     "text": "TỰ NÂNG THANH ĐÒN",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giao việc rõ thì tốt, nhưng thấy kẻ lười vẫn được chia đều điểm thì sao?",
+     "text": "HƯỞNG ĐIỂM BẤT CÔNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cảm giác bất công cay đắng đó sẽ khiến người chăm nhất lập tức đình công.",
+     "text": "LẬP TỨC ĐÌNH CÔNG",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    }
+   ]
+  },
+  {
+   "title": "3. Hiệu ứng kẻ ngốc",
+   "sources": [
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Kỳ trước, mình thức trắng cuối tuần làm đồ án, còn bạn cùng nhóm đi chơi.",
+     "text": "3. HIỆU ỨNG KẺ NGỐC",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sáng thứ hai, mình thấy mình như kẻ khờ, cay cú và không muốn làm nữa.",
+     "text": "CAY CÚ VÌ BỊ LỢI DỤNG",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng kẻ ngốc đấy. Chẳng ai muốn gánh tạ hộ đứa ăn bám.",
+     "text": "KHÔNG MUỐN LÀM KHỜ",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy người khác lười, não bạn đạp phanh khẩn cấp để giữ tự trọng.",
+     "text": "ĐẠP PHANH TỰ TRỌNG",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mình thà tự tay phá hỏng bài thi chỉ vì bực tức thôi sao?",
+     "text": "THÀ PHÁ ĐỂ HẢ DẠ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi thấy bất công, người ta thà chịu điểm kém còn hơn bị bóc lột.",
+     "text": "THÀ CHỊU ĐIỂM KÉM",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thay vì gánh tạ gấp đôi cho người khác ngủ, bạn buông tay thả rơi tạ.",
+     "text": "BUÔNG TẠ XUỐNG SÀN",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao bảo vệ người có trách nhiệm khỏi vòng xoáy cay đắng đó?",
+     "text": "CHẶN VÒNG XOÁY CAY CÚ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lập bảng tiến độ thật minh bạch trước khi bất kỳ ai đụng tay vào việc.",
+     "text": "THEO DÕI MINH BẠCH",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng bảng việc chung, ai xong phần nào hay ai còn nợ việc đều thấy rõ.",
+     "text": "BẢNG TIẾN ĐỘ CHUNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bảng việc giúp công bằng, nhưng nộp lên điểm số vẫn bị cào bằng?",
+     "text": "ĐIỂM VẪN BỊ CÀO BẰNG?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Công khai là khác ngay. Người ta chỉ dám trốn khi sự lười biếng được giấu.",
+     "text": "KHÔNG THỂ TRỐN VIỆC",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "4. Định danh đầu việc",
+   "sources": [
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Trên bìa báo cáo tốt nghiệp, tên cả bốn đứa in cùng cỡ chữ ngay ngắn.",
+     "text": "4. ĐỊNH DANH ĐẦU VIỆC",
+     "color": "red",
+     "actor": "facepalm",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thầy cô chẳng thể biết ai viết ba mươi trang, ai chỉ đọc lướt tiêu đề.",
+     "text": "AI VIẾT BA MƯƠI TRANG",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gom chung vào một nồi, công sức từng người sẽ chìm nghỉm không dấu vết.",
+     "text": "MẤT DẤU CÔNG SỨC",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người ta chỉ dốc hết sức nâng tạ khi biết bảng thành tích có ghi tên mình.",
+     "text": "GHI TÊN THÀNH TÍCH",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người ta dám buông thả chỉ vì biết chẳng ai truy ra phần việc bị bỏ?",
+     "text": "KHÔNG AI TRUY VẾT?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tính đơn giản thôi. Bảng điểm chỉ tính tổng thì chẳng ai thèm đếm hiệp.",
+     "text": "CHẲNG THÈM ĐẾM HIỆP",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sự ẩn danh cho phép tiềm thức ngủ gật mà không sợ bị bắt quả tang.",
+     "text": "ẨN DANH ĐỂ NGỦ GẬT",
+     "color": "ink",
+     "actor": "bored_yawn"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tách bạch công sức từng người mà vẫn giữ tinh thần đoàn kết?",
+     "text": "GIỮ GÌN ĐOÀN KẾT",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ghi tên người phụ trách dưới từng trang trình chiếu và từng mục bài viết.",
+     "text": "GHI TÊN TỪNG TRANG",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gắn tên vào phần việc sẽ buộc lòng tự trọng phải chịu trách nhiệm kết quả.",
+     "text": "GẮN LIỀN TỰ HÀO",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ghi tên thì rõ rồi, nhưng nếu cả nhóm đều nghi ngờ khả năng làm được?",
+     "text": "NGHI NGỜ NĂNG LỰC?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi niềm tin cả đội sụp đổ, có khắc vàng tên cũng không cứu nổi tinh thần.",
+     "text": "NIỀM TIN SỤP ĐỔ",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "5. Niềm tin tập thể",
+   "sources": [
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhóm mình phải làm đề xuất dự án lớn, khối lượng việc quá khổng lồ.",
+     "text": "5. NIỀM TIN TẬP THỂ",
+     "color": "red",
+     "actor": "panic",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thay vì làm dàn ý, ai cũng chỉ bấm điện thoại rồi trốn họp nhóm.",
+     "text": "LƯỚT MẠNG TRỐN VIỆC",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cả nhóm bị đơ vì niềm tin vào năng lực chung đã chạm đáy vực.",
+     "text": "NIỀM TIN CHẠM ĐÁY",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là niềm tin tập thể: cả đội tin mình đủ sức vượt qua cửa ải này.",
+     "text": "TIN VÀO NĂNG LỰC",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Khi thấy thử thách quá sức, cả nhóm sẽ âm thầm rủ nhau buông xuôi?",
+     "text": "ÂM THẦM ĐẦU HÀNG?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Thấy thanh tạ quá nặng, chẳng ai buồn xỏ giày vào khởi động.",
+     "text": "CHẲNG BUỒN KHỞI ĐỘNG",
+     "color": "ink",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nghĩ đằng nào cũng trượt, dốc sức lúc này như canh bạc nắm chắc phần thua.",
+     "text": "NẮM CHẮC THẤT BẠI",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao thắp lại niềm tin khi mọi người trong đội đều bế tắc?",
+     "text": "THẮP LẠI TỰ TIN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẻ nhỏ núi việc thành ba phần nhẹ, rồi chia đúng sở trường từng bạn.",
+     "text": "CHIA THEO SỞ TRƯỜNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giành một hiệp thắng nhẹ nhàng đầu tiên để tạo đà hưng phấn cho cả đội.",
+     "text": "THẮNG NGAY HIỆP ĐẦU",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có đà rồi, nhưng nếu dự án kéo dài cả tháng thì giữ tập trung sao?",
+     "text": "GIỮ VỮNG TẬP TRUNG?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cần tín hiệu nhắc nhở liên tục để báo cho não biết trọng tài đang theo dõi.",
+     "text": "TÍN HIỆU NHẮC NHỞ",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "6. Tín hiệu nhắc nhở",
+   "sources": [
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhóm liên phòng ban của mình cứ bốn tuần mới họp cập nhật một lần.",
+     "text": "6. TÍN HIỆU NHẮC NHỞ",
+     "color": "red",
+     "actor": "bored_yawn",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng ai làm gì cho tới sát đêm trước buổi họp trực tuyến định kỳ.",
+     "text": "ĐÊM TRƯỚC MỚI CHẠY",
+     "color": "ink",
+     "actor": "panic",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiếu tín hiệu nhắc nhở đấy. Bộ não phải có chuông báo mới chịu tỉnh.",
+     "text": "THIẾU SỰ NHẮC NHỞ",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Việc được thấy công khai thường xuyên sẽ giữ cam kết luôn ở trước mắt.",
+     "text": "CÔNG KHAI TIẾN ĐỘ",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Không có ai giục, tâm trí mình sẽ tự trôi dạt về những việc dễ xơi?",
+     "text": "TRÔI DẠT VIỆC DỄ?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không có nhắc nhở, não chỉ lo dập lửa việc gấp ngay trước mắt.",
+     "text": "ĐỢI NƯỚC ĐẾN CHÂN",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không ai đứng đếm số hiệp, bạn sẽ trốn bài tập chân rồi về sớm ngay.",
+     "text": "TRỐN TẬP VỀ SỚM",
+     "color": "ink",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tạo nhắc nhở thế nào để không biến mình thành kẻ săm soi khó chịu?",
+     "text": "TRÁNH KẺ SĂM SOI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đặt lịch nhắc giữa tuần trên bảng chung, ai đúng tiến độ chỉ việc tích xong.",
+     "text": "TÍCH ĐIỂM GIỮA TUẦN",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một dấu tích trực quan giữ trách nhiệm luôn nóng mà không cần phải giục.",
+     "text": "KHÔNG CẦN GIỤC GIÃ",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có nhắc việc cũng tốt, nhưng nếu phần mình bị nghẽn vì phải đợi bài khác?",
+     "text": "NGHẼN VÌ PHẢI ĐỢI?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nó tạo hiệu ứng dây chuyền, khâu giao việc gãy khúc làm đứng bánh cả đội.",
+     "text": "ĐỨNG BÁNH TOÀN ĐỘI",
+     "color": "ink",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "7. Nghẽn dây chuyền",
+   "sources": [
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Mình ngồi chờ dài cổ bốn ngày để bạn gửi số liệu mới vẽ được biểu đồ.",
+     "text": "7. NGHẼN DÂY CHUYỀN",
+     "color": "red",
+     "actor": "future_tired",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ nộp trễ hạn chót, rồi sếp mắng mỏ cả nhóm không chừa một ai.",
+     "text": "TRỄ HẠN BỊ MẮNG OAN",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gãy cầu nối đấy. Đang chạy tiếp sức mà người trước làm rơi gậy, bạn chịu chết.",
+     "text": "ĐỨT GÃY DÂY CHUYỀN",
+     "color": "ink",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khâu hai phải chờ khâu một, thế là đồng đội nhân cơ hội đi nghỉ dưỡng luôn.",
+     "text": "TRANH THỦ NGHỈ DƯỠNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người đi trước trễ việc bỗng thành cái cớ hợp lý để người sau ngồi chơi?",
+     "text": "CÁI CỚ ĐỂ NGỒI CHƠI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngồi lướt mạng mà chẳng áy náy, vì có sẵn lý do đổ tại khâu trước.",
+     "text": "ĐỔ LỖI VÌ TẮC ĐƯỜNG",
+     "color": "ink",
+     "actor": "34",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quy trình chằng chéo chính là tấm vé thông hành để mọi người buông xuôi.",
+     "text": "TẤM VÉ ĐỂ BUÔNG XUÔI",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao sắp xếp dự án để không ai phải ngồi không chờ người khác?",
+     "text": "KHÔNG PHẢI CHỜ ĐỢI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tách quy trình ra, biến các khâu nối đuôi nhau thành nhiều nhánh song song.",
+     "text": "LÀM NHÁNH SONG SONG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dùng số liệu giả định và khung sườn mẫu để ai cũng làm phần mình cùng lúc.",
+     "text": "KHUNG SƯỜN MẪU",
+     "color": "green",
+     "actor": "writing",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm song song thì đỡ tắc, nhưng thêm người vào là nhóm tin nhắn phát nổ.",
+     "text": "NHÓM TIN NHẮN NỔ TUNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mớ bòng bong trao đổi đó đốt sạch năng lượng trước khi kịp bắt tay làm việc thật.",
+     "text": "ĐỐT SẠCH NĂNG LƯỢNG",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "low_battery"
+    }
+   ]
+  },
+  {
+   "title": "8. Hao phí phối hợp",
+   "sources": [
+    "s09"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Công ty nhét thêm bốn người vào nhóm để phụ chạy nước rút cho kịp hạn chót.",
+     "text": "8. HAO PHÍ PHỐI HỢP",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng nhanh hơn tí nào, mất cả buổi chiều sửa lại tài liệu đá nhau rồi xếp lịch họp.",
+     "text": "MẤT CẢ BUỔI XẾP LỊCH",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy hao phí phối hợp đấy. Càng đông người thì tiếng ồn trao đổi càng nhân lên.",
+     "text": "TIẾNG ỒN NHÂN BỘI",
+     "color": "ink",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người càng đông, thời gian trao đổi qua lại càng ngốn sạch năng suất.",
+     "text": "NGỐN SẠCH NĂNG SUẤT",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Một đội đông đúc có khi làm việc còn kém hơn ba người tập trung cao độ?",
+     "text": "ĐÔNG CHƯA CHẮC TỐT?",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quá đúng. Sáu người cùng xúm vào nhấc một quả tạ chỉ tổ vướng tay vướng chân.",
+     "text": "VƯỚNG TAY VƯỚNG CHÂN",
+     "color": "ink",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một nửa sức lực bị lãng phí chỉ để bàn việc, thay vì bắt tay vào làm.",
+     "text": "CHỈ BÀN KHÔNG LÀM",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm cách nào để cả nhóm không bị nhấn chìm trong mớ hỗn độn đó?",
+     "text": "DẬP TẮT RỐI RẮM",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tách nhóm đông thành từng cặp đôi. Mỗi cặp tự chịu trách nhiệm một đầu việc cụ thể.",
+     "text": "CHIA CẶP HAI NGƯỜI",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ họp lan man, dồn mọi cập nhật tiến độ lên một bảng việc chung.",
+     "text": "CẤM HỌP LAN MAN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hiểu được tám cơ chế này liệu có thật sự cứu được bài tập nhóm?",
+     "text": "CẢI THIỆN ĐƯỢC THẬT?",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chắc nịch luôn. Giờ hãy đúc kết toàn bộ chiến thuật này thành cẩm nang bỏ túi.",
+     "text": "CẨM NANG BỎ TÚI",
+     "color": "ink",
+     "actor": "front"
+    }
+   ]
+  },
+  {
+   "title": "Bí kíp phối hợp",
+   "sources": [
+    "s10"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Bài tập nhóm gãy không phải do người xấu, mà vì cấu trúc che giấu nỗ lực.",
+     "text": "BÍ KÍP PHỐI HỢP",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn. Xử lý gọn tám cái bẫy đó chỉ bằng ba nguyên tắc rèn luyện cốt lõi.",
+     "text": "BA NGUYÊN TẮC CỐT LỖI",
+     "color": "ink",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một là công khai mọi thứ, gắn tên từng người trên bảng việc chung.",
+     "text": "CÔNG KHAI TUYỆT ĐỐI",
+     "color": "gold",
+     "actor": "front",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Quy tắc hai: giữ vững đà, thắng nhanh hiệp đầu và cài mốc kiểm tra.",
+     "text": "GIỮ ĐÀ TIẾN BỘ",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nguyên tắc ba là giảm hao phí, tách nhánh làm song song và chia việc theo từng cặp.",
+     "text": "GIẢM HAO PHÍ KẾT NỐI",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có thử thách bảy ngày nào đơn giản để áp dụng ngay vào bài tập nhóm tới?",
+     "text": "THỬ THÁCH BẢY NGÀY",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bắt đầu tuần này, yêu cầu mỗi người nhận đúng một đầu việc xong trước thứ sáu.",
+     "text": "NHẬN MỘT ĐẦU VIỆC",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi mỗi hiệp tạ đều có người gánh, bạn sẽ không bao giờ phải đẩy tạ một mình.",
+     "text": "CÙNG NHAU ĐẨY TẠ",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đăng ký Lý Thuyết Chân Que để có thêm góc nhìn tâm lý thực tế và gần gũi nhé.",
+     "text": "ĐĂNG KÝ KÊNH NGAY",
+     "color": "ink",
+     "actor": "celebrate"
+    }
+   ]
+  }
+ ]
+}

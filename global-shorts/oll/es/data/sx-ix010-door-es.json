@@ -1,0 +1,77 @@
+{
+ "title": "La puerta de 8 toneladas tras la que viven oficiales de misiles nucleares",
+ "hook": "PUERTA DE OCHO TONELADAS",
+ "asof": "Datos de la Fuerza Aérea de EE. UU. y el Servicio de Parques Nacionales",
+ "world": "capsule",
+ "long": "IX010",
+ "chapters": [
+  {
+   "id": "down",
+   "hud": "DÍA 1",
+   "chip": "08:00",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Dos oficiales bajan en ascensor a 18 metros bajo la pradera.",
+     "v": "elevator",
+     "you": "elevator"
+    },
+    {
+     "s": "Abajo: una puerta blindada de 7,3 toneladas.",
+     "v": "door",
+     "plane": "door:shut",
+     "st": [
+      "7,3 TONELADAS",
+      "puerta blindada · NPS"
+     ]
+    },
+    {
+     "s": "Solo puede abrirse desde adentro.",
+     "v": "door",
+     "plane": "door:shut"
+    },
+    {
+     "s": "Una voz grita: «¡Despejado!». Tú respondes.",
+     "v": "door"
+    },
+    {
+     "s": "La puerta se abre.",
+     "v": "door",
+     "plane": "door:open",
+     "you": "door"
+    },
+    {
+     "s": "Detrás, una cápsula del tamaño de una habitación.",
+     "v": "capsule",
+     "you": "capsule"
+    },
+    {
+     "s": "Aquí, las tripulaciones vigilan más de diez misiles Minuteman III.",
+     "v": "console",
+     "you": "console"
+    },
+    {
+     "s": "Nadie puede estar aquí a solas. Es una zona sin solitarios.",
+     "v": "capsule"
+    },
+    {
+     "s": "El turno dura 24 horas.",
+     "v": "clock",
+     "st": [
+      "24 HORAS",
+      "una alerta"
+     ]
+    },
+    {
+     "s": "Sin teléfonos. Sin computadoras personales.",
+     "v": "wall"
+    },
+    {
+     "s": "¿Pasarías un día detrás de esa puerta?",
+     "v": "door",
+     "plane": "door:shut"
+    }
+   ]
+  }
+ ]
+}

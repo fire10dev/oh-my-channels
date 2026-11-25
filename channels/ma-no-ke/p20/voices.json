@@ -1,0 +1,18 @@
+{
+ "MN": {
+  "preset": "Thiện Minh",
+  "fx": "atempo=0.92,asetrate=48000*0.97,aresample=48000,aecho=0.8:0.6:60:0.25"
+ },
+ "CA": {
+  "preset": "Ngọc Huyền",
+  "fx": "lowpass=f=1800,aecho=0.8:0.25:35:0.12"
+ },
+ "TAO": {
+  "preset": "Thiền Tâm Đức",
+  "fx": "atempo=0.95,aecho=0.8:0.5:50:0.25"
+ },
+ "THINH": {
+  "preset": "Adam bựa",
+  "fx": "anull"
+ }
+}

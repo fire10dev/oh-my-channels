@@ -1,0 +1,130 @@
+{
+ "id": "w008es",
+ "lang": "es",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "brand": "PARADOJAS DEL MAPA",
+ "accent": "#dc2626",
+ "cover_frame": 60,
+ "source": "Extensión e islas: Agencia Geoespacial de Indonesia (BIG) · CIA World Factbook",
+ "music": "shared/library/music/yt-audio-library/Across Seas And Lands - Asher Fulero.mp3",
+ "beats": [
+  {
+   "say": "Indonesia es más ancha que Estados Unidos.",
+   "title": "INDONESIA ES MÁS ANCHA QUE EE. UU.",
+   "cam": {
+    "lon": 118,
+    "lat": -2,
+    "span": 60
+   },
+   "hl": [
+    {
+     "a3": "IDN",
+     "color": "#dc2626"
+    }
+   ]
+  },
+  {
+   "say": "De punta a punta, mide más de cinco mil kilómetros.",
+   "cam": {
+    "lon": 118,
+    "lat": -2,
+    "span": 60
+   },
+   "hl": [
+    {
+     "a3": "IDN",
+     "color": "#dc2626"
+    }
+   ],
+   "line": {
+    "pts": [
+     [
+      95.3,
+      5.5
+     ],
+     [
+      141,
+      -2.6
+     ]
+    ],
+    "color": "#ffd23f"
+   },
+   "big": {
+    "value": "5100 km",
+    "label": "de oeste a este"
+   }
+  },
+  {
+   "say": "Ponla encima de Estados Unidos, a tamaño real.",
+   "cam": {
+    "lon": -98,
+    "lat": 39,
+    "span": 75
+   },
+   "hl": [
+    {
+     "a3": "USA",
+     "color": "#334155"
+    }
+   ],
+   "ghost": {
+    "a3": "IDN",
+    "to": [
+     -96,
+     38
+    ],
+    "color": "#dc2626"
+   }
+  },
+  {
+   "say": "Va desde la costa del Pacífico hasta más allá del Atlántico.",
+   "cam": {
+    "lon": -96,
+    "lat": 38,
+    "span": 75
+   },
+   "ghost": {
+    "a3": "IDN",
+    "to": [
+     -96,
+     38
+    ],
+    "color": "#dc2626"
+   }
+  },
+  {
+   "say": "Tiene más de diecisiete mil islas y unos doscientos ochenta millones de habitantes. La cuarta población más grande del mundo.",
+   "cam": {
+    "lon": 115,
+    "lat": -3,
+    "span": 45
+   },
+   "hl": [
+    {
+     "a3": "IDN",
+     "color": "#dc2626"
+    }
+   ],
+   "big": {
+    "value": "17 000+",
+    "label": "islas"
+   }
+  },
+  {
+   "say": "Un país que casi nadie sabe imaginar, y más grande de lo que piensas. Sígueme para más.",
+   "title": "MÁS GRANDE DE LO QUE CREES",
+   "cam": {
+    "lon": 118,
+    "lat": -2,
+    "span": 60
+   },
+   "hl": [
+    {
+     "a3": "IDN",
+     "color": "#dc2626"
+    }
+   ]
+  }
+ ]
+}

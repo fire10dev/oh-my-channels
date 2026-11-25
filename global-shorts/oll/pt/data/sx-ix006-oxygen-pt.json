@@ -1,0 +1,105 @@
+{
+ "title": "O oxigênio estava sumindo dentro da Biosfera 2",
+ "hook": "O AR ACABOU",
+ "asof": "Dados dos registros de 1991 a 1994",
+ "world": "bio",
+ "long": "IX006",
+ "chapters": [
+  {
+   "id": "air",
+   "hud": "DIA 480",
+   "chip": "JAN 1993",
+   "tod": "day",
+   "shots": [
+    {
+     "v": "gauge",
+     "plane": "o2:14.5",
+     "s": "Oito pessoas ficaram isoladas, e o oxigênio começou a sumir."
+    },
+    {
+     "v": "wide",
+     "s": "Esta é a Biosfera 2, no Arizona, no começo dos anos 1990."
+    },
+    {
+     "v": "gauge",
+     "plane": "o2:20.9",
+     "s": "Lá fora, o ar tem cerca de vinte e um por cento de oxigênio."
+    },
+    {
+     "v": "gauge",
+     "plane": "o2:18.0",
+     "s": "Lá dentro, esse número não parava de cair."
+    },
+    {
+     "v": "gauge",
+     "plane": "o2:14.5",
+     "s": "No início de 1993, chegou a cerca de quatorze e meio."
+    },
+    {
+     "v": "sky",
+     "st": [
+      "4,6 km",
+      "como o ar parecia"
+     ],
+     "s": "Era como viver a quatro ou cinco mil metros de altitude."
+    },
+    {
+     "v": "berth",
+     "you": "berth",
+     "s": "A equipe vivia cansada."
+    },
+    {
+     "v": "berth",
+     "s": "Alguns paravam de respirar enquanto dormiam."
+    },
+    {
+     "v": "tech",
+     "s": "Mas, se algo estava consumindo o oxigênio,"
+    },
+    {
+     "v": "tech",
+     "s": "o dióxido de carbono deveria se acumular."
+    },
+    {
+     "v": "concrete",
+     "s": "Mas não acumulou."
+    },
+    {
+     "v": "farm",
+     "s": "Primeiro suspeito: o solo fértil da fazenda."
+    },
+    {
+     "v": "crops",
+     "s": "Os micróbios do solo consumiam oxigênio e produziam dióxido de carbono."
+    },
+    {
+     "v": "concrete",
+     "s": "Segundo suspeito: o concreto exposto."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "MICRÓBIOS DO SOLO",
+       "CONSOMEM OXIGÊNIO",
+       "PRODUZEM CO₂",
+       "CONCRETO ABSORVE"
+      ],
+      "note": "Severinghaus et al., 1994"
+     },
+     "s": "Ele absorveu o dióxido de carbono e escondeu a evidência."
+    },
+    {
+     "v": "truck",
+     "plane": "pump",
+     "s": "Em 1993, bombearam oxigênio de fora para dentro."
+    },
+    {
+     "v": "airlock",
+     "you": "airlock",
+     "s": "Você teria ficado lá dentro?"
+    }
+   ]
+  }
+ ]
+}

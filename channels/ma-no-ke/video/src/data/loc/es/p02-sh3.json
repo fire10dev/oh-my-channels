@@ -1,0 +1,394 @@
+{
+"w": 1080,
+"h": 1920,
+"duration": 44.628,
+"shots": [
+{
+"img": "p02/img/N10.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 0.15,
+"t1": 4.451,
+"a": [
+742,
+609,
+340
+],
+"b": [
+1075,
+420,
+460
+],
+"flash": 1
+},
+{
+"img": "p02/img/N09.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 4.451,
+"t1": 9.842,
+"a": [
+1075,
+576,
+648
+],
+"b": [
+1075,
+420,
+460
+]
+},
+{
+"img": "p02/img/N07.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 9.842,
+"t1": 13.178,
+"a": [
+1357,
+743,
+460
+],
+"b": [
+1357,
+849,
+340
+]
+},
+{
+"img": "p02/img/N08.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 13.178,
+"t1": 16.488,
+"a": [
+1203,
+743,
+460
+],
+"b": [
+1203,
+820,
+340
+]
+},
+{
+"img": "p02/img/N11.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 16.488,
+"t1": 20.023,
+"a": [
+345,
+576,
+648
+],
+"b": [
+345,
+520,
+460
+]
+},
+{
+"img": "p02/img/S26.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 20.023,
+"t1": 24.268,
+"a": [
+900,
+576,
+648
+],
+"b": [
+820,
+420,
+460
+],
+"shake": 8
+},
+{
+"img": "p02/img/N12.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 24.268,
+"t1": 29.606,
+"a": [
+700,
+420,
+460
+],
+"b": [
+660,
+360,
+340
+],
+"shake": 6
+},
+{
+"img": "p02/img/S19.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 29.606,
+"t1": 36.939,
+"a": [
+1550,
+576,
+648
+],
+"b": [
+1600,
+480,
+460
+]
+},
+{
+"img": "p02/img/N14.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 36.939,
+"t1": 40.161,
+"a": [
+1229,
+576,
+648
+],
+"b": [
+1229,
+420,
+460
+]
+},
+{
+"img": "p02/img/S06.png",
+"sw": 2048,
+"sh": 1152,
+"t0": 40.161,
+"t1": 44.128,
+"a": [
+1024,
+576,
+648
+],
+"b": [
+1100,
+576,
+648
+],
+"blur": 14,
+"dark": 0.55
+}
+],
+"cuts": [
+{
+"img": "p02/img/cut_B02.png",
+"size": 1344,
+"t0": 40.161,
+"t1": 44.128,
+"from": [
+-32,
+1920,
+0.86
+],
+"to": [
+-32,
+560,
+0.86
+],
+"bob": true
+}
+],
+"pops": [
+{
+"t0": 0.15,
+"t1": 4.451,
+"text": "HORA MALDITA",
+"color": "#ff5a4a"
+},
+{
+"t0": 11.761,
+"t1": 13.68,
+"text": "2:10 · EN LA FÁBRICA",
+"color": "#ffffff"
+},
+{
+"t0": 13.808,
+"t1": 16.488,
+"text": "→ 5:00 · EN CASA",
+"color": "#c58bff"
+},
+{
+"t0": 28.083,
+"t1": 29.606,
+"text": "SUELDO DESCONTADO",
+"color": "#ff5a4a"
+},
+{
+"t0": 32.794,
+"t1": 36.939,
+"text": "-50%",
+"color": "#ffd84a"
+},
+{
+"t0": 37.07,
+"t1": 40.161,
+"text": "3:00 AM",
+"color": "#ffd84a"
+},
+{
+"t0": 40.161,
+"t1": 44.128,
+"text": "¿A QUIÉN REGISTRAN?",
+"color": "#ffd84a"
+}
+],
+"sfx": [
+{
+"t": 0.15,
+"src": "p02/sfx/mo.wav",
+"vol": 0.8
+},
+{
+"t": 9.489,
+"src": "p02/sfx/mo.wav",
+"vol": 0.8
+},
+{
+"t": 11.761,
+"src": "p02/sfx/but.wav",
+"vol": 0.7
+},
+{
+"t": 13.808,
+"src": "p02/sfx/but.wav",
+"vol": 0.7
+},
+{
+"t": 20.221,
+"src": "sh6/sfx/bassdown.wav",
+"vol": 0.6
+},
+{
+"t": 32.794,
+"src": "sh6/sfx/pop.wav",
+"vol": 0.6
+},
+{
+"t": 38.512,
+"src": "p02/sfx/mo3.wav",
+"vol": 0.9
+},
+{
+"t": 40.161,
+"src": "sh6/sfx/whoosh.wav",
+"vol": 0.5
+},
+{
+"t": 43.069,
+"src": "sh6/sfx/coc.wav",
+"vol": 1
+}
+],
+"subs": [
+{
+"t": 0.15,
+"dur": 4.001,
+"text": "Si alguien muere a esta hora, debo volver a registrar a otro familiar."
+},
+{
+"t": 4.451,
+"dur": 5.141,
+"text": "No leo relojes. Leo papeles. El papel es el procedimiento. El procedimiento soy yo."
+},
+{
+"t": 9.842,
+"dur": 6.396,
+"text": "Esa noche, el jefe llenó el informe. Cambió dos y diez por cinco de la mañana. Cambió «en la fábrica» por «en casa»."
+},
+{
+"t": 16.488,
+"dur": 2.735,
+"text": "La familia de Loc: una esposa. En el campo."
+},
+{
+"t": 20.023,
+"dur": 3.944,
+"text": "Un momento. ¿El jefe altera los papeles y paga la familia de ese hombre?"
+},
+{
+"t": 24.268,
+"dur": 5.088,
+"text": "¡Eso de las muertes malditas es superstición! ¡Si faltas por fantasmas, te descuento el sueldo!"
+},
+{
+"t": 29.606,
+"dur": 7.083,
+"text": "El adivino de la esquina vende pulseras contra las muertes malditas, con cincuenta por ciento de descuento. El mismo de siempre."
+},
+{
+"t": 36.939,
+"dur": 2.622,
+"text": "Sábado, tres de la mañana. Voy a la fábrica."
+},
+{
+"t": 40.161,
+"dur": 2.967,
+"text": "¿A quién registran? Te cuento la próxima vez. Sígueme."
+}
+],
+"comments": [],
+"voice": [
+{
+"t": 0.15,
+"src": "loc/es/vo/26bbb3cc28.wav"
+},
+{
+"t": 4.451,
+"src": "loc/es/vo/f029f4b760.wav"
+},
+{
+"t": 9.842,
+"src": "loc/es/vo/f8ff789195.wav"
+},
+{
+"t": 16.488,
+"src": "loc/es/vo/162cd23fd3.wav"
+},
+{
+"t": 20.023,
+"src": "loc/es/vo/7d5f48b653.wav"
+},
+{
+"t": 24.268,
+"src": "loc/es/vo/6d8672f53a.wav"
+},
+{
+"t": 29.606,
+"src": "loc/es/vo/030a05883c.wav"
+},
+{
+"t": 36.939,
+"src": "loc/es/vo/21f1c85c6b.wav"
+},
+{
+"t": 40.161,
+"src": "loc/es/vo/0d1b8a50d0.wav"
+}
+],
+"mutes": [
+[
+16.288,
+20.023
+],
+[
+36.739,
+40.161
+]
+],
+"live": [],
+"music": {
+"src": "p01/music.wav",
+"len": 121.0,
+"vol": 0.13
+}
+}

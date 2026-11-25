@@ -1,0 +1,12 @@
+{"id":"w021","lang":"en","voice":"am_michael","speed":1.08,"brand":"MAP PARADOX","accent":"#e11d48","cover_frame":60,
+ "source":"Areas: CIA World Factbook · Statistics Bureau of Japan","music":"shared/library/music/yt-audio-library/Future Rennaisance - Godmode.mp3",
+ "beats":[
+  {"say":"Japan is bigger than Germany.","title":"JAPAN IS BIGGER THAN GERMANY","cam":{"lon":137,"lat":37,"span":28},"hl":[{"a3":"JPN","color":"#e11d48"}]},
+  {"say":"On world maps it looks like a few small islands. Let's drop it on Europe at true size.","cam":{"lon":10,"lat":48,"span":40},"hl":[{"a3":"DEU","color":"#334155"}],"ghost":{"a3":"JPN","to":[12,46],"color":"#e11d48"}},
+  {"say":"It stretches about three thousand kilometers, from Denmark almost to the bottom of Italy.","cam":{"lon":12,"lat":46,"span":40},"ghost":{"a3":"JPN","to":[12,46],"color":"#e11d48"}},
+  {"say":"Japan covers about three hundred seventy eight thousand square kilometers. Germany, three hundred fifty seven thousand.","cam":{"lon":12,"lat":46,"span":40},"ghost":{"a3":"JPN","to":[12,46],"color":"#e11d48"},
+   "bars":{"unit":" km²","items":[{"label":"Japan","value":377975,"color":"#e11d48"},{"label":"Germany","value":357600,"color":"#ffd23f"},{"label":"Italy","value":301340,"color":"#22c55e"},{"label":"UK","value":243610,"color":"#3b82f6"}]}},
+  {"say":"But about three quarters of Japan is mountains, so its more than a hundred twenty million people crowd onto the flat coasts.","cam":{"lon":138,"lat":36,"span":18},"hl":[{"a3":"JPN","color":"#e11d48"}],
+   "pins":[{"lon":139.69,"lat":35.69,"text":"Tokyo"},{"lon":135.5,"lat":34.69,"text":"Osaka"}]},
+  {"say":"Small on the map, huge in real life. Follow for more.","title":"NOT SO SMALL AFTER ALL","cam":{"lon":137,"lat":37,"span":28},"hl":[{"a3":"JPN","color":"#e11d48"}]}
+ ]}

@@ -1,0 +1,29 @@
+v2 sửa theo agy (`debate/08-scripts/p36-agy.md`):
+- Gương không nói câu nào. Chỉ phản chiếu và kêu tiếng đồng ngân.
+- Ma Nó ở hồi cuối bỏ giọng phim tâm lý, chuyển sang cà khịa.
+- Thêm luật: gương nghìn năm soi ra cả nỗi ấm ức của người bị lừa, dù người ấy còn sống và ở xa.
+@@
+| GUONG | Linh hồn gương đồng: không có hình người, chỉ là mặt gương gợn như nước; nói rất ít, vang như tiếng đồng ngân | vẽ mới | Adam bựa, cao −6, tốc −20% | `aecho=0.8:0.7:200:0.5` + tiếng đồng ngân |
+%%
+| — | Gương đồng: không thoại. Mặt gương gợn như nước, kêu tiếng đồng ngân mỗi khi "thấy" | vẽ mới | không | tiếng đồng ngân |
+@@
+| G02/cận (mặt gương gợn như nước) | **GUONG**: …Soi đi. | đồng ngân |
+%%
+| G02/cận (mặt gương gợn như nước) | | đồng ngân dài |
+| S26/cận | **MN**: Gương nghìn năm không cần người chết mới soi ra. Ai bị lừa mà còn ấm ức, dù đang ở đâu, cái ấm ức ấy đứng sau lưng kẻ lừa. Gương thấy hết. | chữ "AI ẤM ỨC, GƯƠNG THẤY" |
+@@
+| G02/cận | **GUONG**: Trả… thì đi. | đồng ngân |
+%%
+| G02/cận (mặt gương gợn, các khuôn mặt hơi nghiêng đầu như chờ) | | đồng ngân |
+@@
+| S26/cận | **MN**: Bốn mươi tám người kia, chị lừa người lạ. Người thứ bốn mươi chín, chị lừa người duy nhất không bao giờ nghi chị. | |
+%%
+| S26/cận | **MN**: Bốn mươi tám người kia, chị hun khói tám ngày. Bình của mẹ thì chị hun kỹ nhất. Mẹ lau một năm vẫn không nhận ra. Nghề cao thế cơ mà. | |
+@@
+| SH3 | Kính chiếu yêu | G05 gương xỉn | Mua đổ đống, gương nghìn năm | **GUONG**: "…Soi đi." |
+%%
+| SH3 | Kính chiếu yêu | G05 gương xỉn | Mua đổ đống, gương nghìn năm | tiếng đồng ngân |
+@@
+| SH6 | Khuôn mặt cuối cùng là mẹ | G09 | Bình giả trên bàn thờ nhà mẹ | **MN**: "Người duy nhất không bao giờ nghi chị." |
+%%
+| SH6 | Khuôn mặt cuối cùng là mẹ | G09 | Bình giả trên bàn thờ nhà mẹ | **MN**: "Nghề cao thế cơ mà." |

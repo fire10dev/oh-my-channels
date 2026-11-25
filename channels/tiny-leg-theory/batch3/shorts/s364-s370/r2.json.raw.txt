@@ -1,0 +1,235 @@
+REBUTTAL:
+1 accept
+2 accept
+3 accept
+4 accept
+5 accept
+6 accept
+7 accept
+8 accept
+9 accept
+10 accept
+11 accept
+12 accept
+13 accept
+14 accept
+15 accept
+RESULT:
+[
+  {
+    "id": "s364",
+    "mascot": "buff",
+    "title": "Why You Keep Refreshing",
+    "mechanism": "Variable Ratio",
+    "lines": [
+      {"vo": "Posted a coffee photo, swiping down every minute. Sure, buddy.", "text": "REFRESH AGAIN", "color": "red", "actor": "sofa_scroll", "prop": "smartphone_glow"},
+      {"vo": "Empty list or sudden surge? Unpredictable rewards keep your brain on edge.", "text": "SLOT MACHINE LOOP", "color": "red", "actor": "panic", "prop": "notification_bell"},
+      {"vo": "That is variable ratio. Unpredictable payoffs keep you hooked much longer than guarantees.", "text": "VARIABLE RATIO", "actor": "think", "prop": "brain"},
+      {"vo": "You are not hooked on coffee. You are hooked on the suspense.", "text": "HOOKED ON SUSPENSE", "actor": "arms_crossed_no"},
+      {"vo": "Time for a clean set. Post the story and drop the phone immediately.", "text": "POST AND WALK AWAY", "color": "green", "actor": "hand_off", "prop": "dumbbell"},
+      {"vo": "Leave the phone in another room. Let the algorithm starve for two hours.", "text": "STARVE THE LOOP", "color": "gold", "actor": "celebrate"}
+    ]
+  },
+  {
+    "id": "s364vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Sao ban cu vuot xem ai coi tin?",
+    "title_vi": "Sao bạn cứ vuốt xem ai coi tin?",
+    "mechanism": "Variable Ratio",
+    "lines": [
+      {"vo": "Đăng cốc trà sữa lên rồi nửa phút lại vuốt xem ai ngó. Ừ, tin.", "text": "VUỐT LIÊN TỤC", "color": "red", "actor": "sofa_scroll", "prop": "smartphone_glow"},
+      {"vo": "Lúc thì chục người xem ngay, lúc chẳng ai ngó. Bạn dán mắt chờ đợi.", "text": "NGÓNG TỪNG LƯỢT XEM", "color": "red", "actor": "panic", "prop": "notification_bell"},
+      {"vo": "Phần thưởng bất ngờ luôn kích thích hưng phấn mạnh hơn kết quả biết trước.", "text": "CƠ CHẾ NGẪU NHIÊN", "actor": "think", "prop": "brain"},
+      {"vo": "Bạn không thèm cốc trà sữa. Bạn nghiện cảm giác hồi hộp lúc làm mới.", "text": "NGHIỆN HỒI HỘP", "actor": "arms_crossed_no"},
+      {"vo": "Vào hiệp kỷ luật ngay: đăng xong là úp màn hình xuống bàn.", "text": "ÚP MÀN HÌNH XUỐNG", "color": "green", "actor": "hand_off", "prop": "dumbbell"},
+      {"vo": "Bỏ điện thoại sang phòng khác. Để bảng tin nhịn đói hai tiếng đồng hồ.", "text": "CẮT CƠN VUỐT", "color": "gold", "actor": "celebrate"}
+    ]
+  },
+  {
+    "id": "s365",
+    "mascot": "pen",
+    "title": "Why Views Hook You",
+    "mechanism": "Social Rewards",
+    "lines": [
+      {"vo": "The story view counter jumps, and my mood spikes for two seconds.", "text": "A BRIEF HIGH", "color": "red", "actor": "phone_grin", "prop": "smartphone_glow"},
+      {"vo": "Then it drops right back down to cold silence.", "text": "SUDDEN CRASH", "color": "red", "actor": "bored_yawn", "prop": "hourglass"},
+      {"vo": "We barely talk to these accounts, yet we crave their silent eyes.", "text": "CRAVING APPROVAL", "actor": "confused_shrug"},
+      {"vo": "Our brains evolved in small tribes, treating social approval like physical safety.", "text": "TRIBE SURVIVAL", "actor": "think", "prop": "brain"},
+      {"vo": "A rising digital counter accidentally mimics that deep tribal acceptance.", "text": "WIRED FOR ACCEPT", "actor": "worried_heart", "prop": "smartphone_glow"},
+      {"vo": "Turn off story notifications today, and tuck the app into a folder.", "text": "HIDE THE APP", "color": "green", "actor": "small_step", "prop": "notification_bell"},
+      {"vo": "A silent viewer list never meant you were actually alone.", "text": "NEVER REALLY ALONE", "color": "gold", "actor": "reading"}
+    ]
+  },
+  {
+    "id": "s365vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Luot xem tin lam ban thao thuc?",
+    "title_vi": "Lượt xem tin làm bạn thao thức?",
+    "mechanism": "Social Rewards",
+    "lines": [
+      {"vo": "Mắt xem tin vừa tăng thêm một chút, lòng bỗng vui được vài giây.", "text": "VUI ĐƯỢC VÀI GIÂY", "color": "red", "actor": "phone_grin", "prop": "smartphone_glow"},
+      {"vo": "Rồi cảm giác hụt hẫng lại ùa về khi con số đứng yên.", "text": "HỤT HẪNG ĐỨNG YÊN", "color": "red", "actor": "bored_yawn", "prop": "hourglass"},
+      {"vo": "Bạn chung nhóm lớp hay đồng nghiệp lướt qua, chẳng nhắn tin nhưng mình vẫn ngóng.", "text": "NGÓNG NGƯỜI QUEN", "actor": "confused_shrug"},
+      {"vo": "Thời xưa, sống sót cần bầy đàn, não coi sự chấp thuận là an toàn.", "text": "BẢN NĂNG BẦY ĐÀN", "actor": "think", "prop": "brain"},
+      {"vo": "Chấm tròn thông báo vô tình đánh lừa cảm giác được thuộc về tập thể.", "text": "CẢM GIÁC THUỘC VỀ", "actor": "worried_heart", "prop": "smartphone_glow"},
+      {"vo": "Tắt thông báo tin một ngày, giấu ứng dụng sâu trong thư mục sau giờ làm.", "text": "GIẤU ỨNG DỤNG ĐI", "color": "green", "actor": "small_step", "prop": "notification_bell"},
+      {"vo": "Số người lướt qua không hề đo lường giá trị thật của bạn.", "text": "GIÁ TRỊ THẬT SỰ", "color": "gold", "actor": "reading"}
+    ]
+  },
+  {
+    "id": "s366",
+    "mascot": "buff",
+    "title": "Why You Over-Edit Stories",
+    "mechanism": "Self Presentation",
+    "lines": [
+      {"vo": "Tweaking lighting for twenty minutes on a temporary story. Sure, buddy.", "text": "TWENTY MINUTE EDIT", "color": "red", "actor": "typing_focused", "prop": "smartphone_glow"},
+      {"vo": "Cropped out messy laundry so everyone assumes life is totally effortless.", "text": "HIDE THE MESS", "color": "red", "actor": "facepalm"},
+      {"vo": "Classic self-presentation. Wearing an exhausting digital costume burns serious mental fuel.", "text": "DIGITAL COSTUME", "actor": "future_tired", "prop": "low_battery"},
+      {"vo": "Here is your rep: the sixty-second draft rule.", "text": "SIXTY SECOND RULE", "color": "green", "actor": "sprint_start", "prop": "dumbbell"},
+      {"vo": "Post the raw snapshot right now, or drop the phone completely.", "text": "RAW OR NOTHING", "color": "gold", "actor": "arms_crossed_no"}
+    ]
+  },
+  {
+    "id": "s366vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Chinh tin tam bo ca buoi?",
+    "title_vi": "Chỉnh tin tạm bợ cả buổi?",
+    "mechanism": "Self Presentation",
+    "lines": [
+      {"vo": "Căn góc chụp nửa tiếng cho cái tin hai mươi tư giờ. Ừ, tin.", "text": "CĂN GÓC NỬA TIẾNG", "color": "red", "actor": "typing_focused", "prop": "smartphone_glow"},
+      {"vo": "Gạt đống hộp Shopee chưa bóc sang một bên để làm màu là mình ngăn nắp.", "text": "GIẤU ĐỐNG ĐỒ BỪA", "color": "red", "actor": "facepalm"},
+      {"vo": "Gồng mình diễn một hình tượng hoàn hảo chỉ khiến bạn kiệt sức ngoài đời thật.", "text": "GỒNG MÌNH RẤT MỆT", "actor": "future_tired", "prop": "low_battery"},
+      {"vo": "Vào bài tập một phút: sửa ảnh quá một phút là xoá bản nháp ngay.", "text": "LUẬT MỘT PHÚT", "color": "green", "actor": "sprint_start", "prop": "dumbbell"},
+      {"vo": "Đăng ảnh mộc ngay lập tức, hoặc cất máy đi làm việc khác.", "text": "ĐĂNG HOẶC NGHỈ", "color": "gold", "actor": "arms_crossed_no"}
+    ]
+  },
+  {
+    "id": "s367",
+    "mascot": "pen",
+    "title": "Why You Censor Your Posts",
+    "mechanism": "Audience Design",
+    "lines": [
+      {"vo": "I typed a funny joke for my story, then deleted it immediately.", "text": "DELETED DRAFT", "color": "red", "actor": "nervous_wave", "prop": "smartphone_glow"},
+      {"vo": "My boss, cousins, and old classmates are all watching the same row.", "text": "EVERYONE WATCHING", "color": "red", "actor": "shocked"},
+      {"vo": "Online, your world collapses into one room: coworkers, family, and strangers watching together.", "text": "CONTEXT COLLAPSE", "actor": "think", "prop": "brain"},
+      {"vo": "You instinctively reshape your words to appease the most judgmental critic.", "text": "AUDIENCE DESIGN", "actor": "facepalm"},
+      {"vo": "So every casual thought gets filtered until it sounds completely flat.", "text": "FILTERED VOICE", "actor": "future_tired"},
+      {"vo": "Reclaim your freedom by building intentional boundaries.", "text": "SET BOUNDARIES", "color": "green", "actor": "small_step", "prop": "target"},
+      {"vo": "Share personal updates only with a small close friends list.", "text": "CLOSE FRIENDS ONLY", "color": "green", "actor": "writing", "prop": "checkbox_tick"},
+      {"vo": "Speaking to an imaginary critic only silences your real voice.", "text": "YOUR REAL VOICE", "color": "gold", "actor": "meditating"}
+    ]
+  },
+  {
+    "id": "s367vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Dinh dang tin lai so sep thay?",
+    "title_vi": "Định đăng tin lại sợ sếp thấy?",
+    "mechanism": "Audience Design",
+    "lines": [
+      {"vo": "Vừa gõ câu đùa định đăng tin, sực nhớ kết bạn với sếp nên xoá vội.", "text": "XOÁ VỘI BÀI ĐĂNG", "color": "red", "actor": "nervous_wave", "prop": "smartphone_glow"},
+      {"vo": "Đồng nghiệp, họ hàng, bạn cấp ba cùng ngồi chung một hàng ghế.", "text": "NGỒI CHUNG MỘT HÀNG", "color": "red", "actor": "shocked"},
+      {"vo": "Khi mọi mối quan hệ bị trộn lẫn, bạn tự động khép mình lại.", "text": "TRỘN LẪN VÒNG BẠN", "actor": "think", "prop": "brain"},
+      {"vo": "Bạn uốn nắn câu chữ để chiều lòng ánh mắt khắt khe nhất.", "text": "SỢ BỊ ĐÁNH GIÁ", "actor": "facepalm"},
+      {"vo": "Lời nói tự nhiên bỗng trở nên nhạt nhẽo và vô hồn.", "text": "CÂU CHỮ VÔ HỒN", "actor": "future_tired"},
+      {"vo": "Hãy tạo ranh giới an toàn cho không gian riêng của mình.", "text": "TẠO RANH GIỚI", "color": "green", "actor": "small_step", "prop": "target"},
+      {"vo": "Chuyển ảnh đời thường vào nhóm bạn thân mới trò chuyện gần đây.", "text": "CHỈ BẠN THÂN", "color": "green", "actor": "writing", "prop": "checkbox_tick"},
+      {"vo": "Chiều lòng vị khán giả tưởng tượng chỉ làm tắt đi tiếng nói thật.", "text": "TIẾNG NÓI THẬT", "color": "gold", "actor": "meditating"}
+    ]
+  },
+  {
+    "id": "s368",
+    "mascot": "buff",
+    "title": "Why Others Make You Feel Behind",
+    "mechanism": "Social Comparison",
+    "lines": [
+      {"vo": "Lying in bed watching beach vacations on your feed. Classic Friday night.", "text": "LATE NIGHT SCROLL", "color": "red", "actor": "bed_phone_night", "prop": "smartphone_glow"},
+      {"vo": "Suddenly your quiet room feels like total failure. Same old trap.", "text": "SAME OLD TRAP", "color": "red", "actor": "panic"},
+      {"vo": "Upward social comparison hits hard. You measure everyday laundry against someone's highlight.", "text": "UNFAIR COMPARISON", "actor": "confused_shrug", "prop": "brain"},
+      {"vo": "Then you rush to post late dinner photos just to prove you exist.", "text": "DEFENSIVE POST", "actor": "snack"},
+      {"vo": "Time for a comparison deload. Save photos to an offline album first.", "text": "COMPARISON DELOAD", "color": "green", "actor": "small_step", "prop": "dumbbell"},
+      {"vo": "Wait ten minutes before uploading. Stop letting strangers set your pace.", "text": "OWN YOUR PACE", "color": "gold", "actor": "jogging"}
+    ]
+  },
+  {
+    "id": "s368vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Nam luot thay ai cung vi vu?",
+    "title_vi": "Nằm lướt thấy ai cũng vi vu?",
+    "mechanism": "Social Comparison",
+    "lines": [
+      {"vo": "Nửa đêm nằm lướt mạng, thấy bạn bè vi vu Đà Lạt, Phú Quốc.", "text": "LƯỚT TRONG ĐÊM", "color": "red", "actor": "bed_phone_night", "prop": "smartphone_glow"},
+      {"vo": "Tự dưng thấy căn phòng trọ bừa bộn của mình sao mà thảm hại.", "text": "TỰ THẤY THUA KÉM", "color": "red", "actor": "panic"},
+      {"vo": "Bạn đang lấy ngày thường của mình so với khoảnh khắc đẹp nhất của họ.", "text": "SO SÁNH KHẬP KHIỄNG", "actor": "confused_shrug", "prop": "brain"},
+      {"vo": "Thế là vội vàng đăng bát phở hay góc làm việc để chứng minh mình ổn.", "text": "ĐĂNG ĐỂ CHỐNG CHẾ", "actor": "snack"},
+      {"vo": "Vào hiệp xả cơ: chụp xong bấm lưu máy, cấm đăng ngay lập tức.", "text": "CHỤP XONG CẤT ĐI", "color": "green", "actor": "small_step", "prop": "dumbbell"},
+      {"vo": "Chờ mười phút rồi mới tính. Đừng để bảng điểm trên mạng dắt mũi.", "text": "GIỮ VỮNG NHỊP SỐNG", "color": "gold", "actor": "jogging"}
+    ]
+  },
+  {
+    "id": "s369",
+    "mascot": "pen",
+    "title": "Why You Delete Quiet Posts",
+    "mechanism": "Image Management",
+    "lines": [
+      {"vo": "Deleted my story after fifteen minutes because only two people looked at it.", "text": "QUICK TO DELETE", "color": "red", "actor": "nervous_wave", "prop": "hourglass"},
+      {"vo": "A sudden wave of shame hit, worrying people think I have no friends.", "text": "FEAR OF SILENCE", "color": "red", "actor": "worried_heart"},
+      {"vo": "Impression management turns you into an anxious PR manager for a one-person company.", "text": "PR FOR YOURSELF", "actor": "think", "prop": "laptop_file"},
+      {"vo": "Deleting quiet posts just hides an awkward silence that nobody noticed.", "text": "AWKWARD SILENCE", "actor": "facepalm", "prop": "hourglass"},
+      {"vo": "Practice the permanent post rule: whatever you decide to share, leave up.", "text": "LEAVE IT POSTED", "color": "green", "actor": "small_step", "prop": "checkbox_tick"},
+      {"vo": "A quiet screen is just a quiet screen. It cannot touch who you are.", "text": "JUST A QUIET SCREEN", "color": "gold", "actor": "front"}
+    ]
+  },
+  {
+    "id": "s369vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "It nguoi xem la voi xoa tin?",
+    "title_vi": "Ít người xem là vội xoá tin?",
+    "mechanism": "Image Management",
+    "lines": [
+      {"vo": "Mới đăng mười lăm phút mà chỉ hai người xem, vội vàng bấm xoá.", "text": "XOÁ VÌ VẮNG NGƯỜI", "color": "red", "actor": "nervous_wave", "prop": "hourglass"},
+      {"vo": "Cảm giác ngại ngùng ùa đến, sợ bạn bè nghĩ mình sống cô độc.", "text": "SỢ BỊ NGHĨ CÔ ĐỘC", "color": "red", "actor": "worried_heart"},
+      {"vo": "Bạn tự biến mình thành quản lý truyền thông bất đắc dĩ, chỉ lo dọn dẹp hình ảnh.", "text": "DỌN DẸP HÌNH ẢNH", "actor": "think", "prop": "laptop_file"},
+      {"vo": "Xoá bài vắng người chỉ là che đậy một khoảng lặng chẳng ai để ý.", "text": "KHOẢNG LẶNG VÔ HÌNH", "actor": "facepalm", "prop": "hourglass"},
+      {"vo": "Tập thói quen giữ nguyên bài đăng: đã chia sẻ thì cứ để nó yên đó.", "text": "ĐÃ ĐĂNG CỨ ĐỂ YÊN", "color": "green", "actor": "small_step", "prop": "checkbox_tick"},
+      {"vo": "Vài lượt xem thưa thớt không thể làm suy giảm giá trị của bạn.", "text": "VỮNG VÀNG LÀ MÌNH", "color": "gold", "actor": "front"}
+    ]
+  },
+  {
+    "id": "s370",
+    "mascot": "buff",
+    "title": "Stop Feeding Your Online Clone",
+    "mechanism": "Self Discrepancy",
+    "lines": [
+      {"vo": "Your profile shows someone calm, stylish, and thriving. Sure, buddy.", "text": "ONLINE PERFECTION", "color": "red", "actor": "phone_grin", "prop": "smartphone_glow"},
+      {"vo": "Look down at your sweatpants and messy desk. Reality hits hard.", "text": "REALITY CHECK", "color": "red", "actor": "confused_shrug"},
+      {"vo": "Classic self-discrepancy. Wide gaps between your actual self and online avatar hurt.", "text": "SELF DISCREPANCY", "actor": "think", "prop": "brain"},
+      {"vo": "Your feed becomes a demanding clone you have to feed every day.", "text": "FEEDING THE CLONE", "actor": "facepalm"},
+      {"vo": "Drop the heavy ego reps. Run a five-second honesty check before uploading.", "text": "HONESTY CHECK", "color": "green", "actor": "sprint_start", "prop": "dumbbell"},
+      {"vo": "If posting is trying to fake happiness, close the app instantly.", "text": "CLOSE THE APP", "color": "green", "actor": "hand_off"},
+      {"vo": "Put the energy into your actual life, not an imaginary avatar. Lift the real weight.", "text": "LIFT REAL WEIGHT", "color": "gold", "actor": "celebrate"}
+    ]
+  },
+  {
+    "id": "s370vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Trang ca nhan lung linh hon doi that?",
+    "title_vi": "Trang cá nhân lung linh hơn đời thật?",
+    "mechanism": "Self Discrepancy",
+    "lines": [
+      {"vo": "Lướt trang cá nhân thấy mình thật sang chảnh và năng động. Ừ, tin.", "text": "LUNG LINH TRÊN MẠNG", "color": "red", "actor": "phone_grin", "prop": "smartphone_glow"},
+      {"vo": "Nhìn lại đồ ngủ bèo nhèo với căn phòng bừa bộn. Khoảng cách lộ ra ngay.", "text": "ĐỜI THỰC HẪNG HỤT", "color": "red", "actor": "confused_shrug"},
+      {"vo": "Khoảng cách giữa đời thực và hình tượng trên mạng càng xa, bạn càng căng thẳng.", "text": "LỆCH PHA THỰC TẾ", "actor": "think", "prop": "brain"},
+      {"vo": "Trang cá nhân biến thành bản sao đòi hỏi, bắt đời thực phải phục vụ.", "text": "BẢN SAO ĐÒI HỎI", "actor": "facepalm"},
+      {"vo": "Bỏ mức tạ sống ảo xuống. Dành đúng năm giây tự hỏi trước khi đăng.", "text": "HỎI MÌNH NĂM GIÂY", "color": "green", "actor": "sprint_start", "prop": "dumbbell"},
+      {"vo": "Nếu đăng chỉ để giả vờ vui vẻ, úp điện thoại xuống bàn ngay.", "text": "ÚP MÁY XUỐNG", "color": "green", "actor": "hand_off"},
+      {"vo": "Tập trung nâng cấp cuộc đời thật, đừng tốn công nuôi một cái bóng.", "text": "SỐNG CHO ĐỜI THẬT", "color": "gold", "actor": "celebrate"}
+    ]
+  }
+]

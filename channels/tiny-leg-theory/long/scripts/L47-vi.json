@@ -1,0 +1,925 @@
+{
+ "id": "L47vi",
+ "lang": "vi",
+ "title": "Vì sao quảng cáo khiến bạn ngỡ món đồ sinh ra cho mình?",
+ "description": "Từng thấy một quảng cáo trên mạng như thể dành riêng cho cuộc đời bạn? Các nhãn hàng sử dụng những cơ chế tâm lý tinh vi trên ứng dụng để biến sản phẩm đại trà thành thứ sinh ra cho riêng bạn. Tám đòn tâm lý trong video: Cá nhân hóa (Personalization), Tự quy chiếu (Self-reference), Tiếp xúc thường xuyên (Mere exposure), Ảo giác trôi chảy (Fluency heuristic), Ghép nối cảm xúc (Affective conditioning), Mồi tâm lý (Priming), Hiệu ứng sở hữu (Endowment effect), và Kiến trúc lựa chọn (Choice architecture).",
+ "chapters": [
+  {
+   "title": "Bảng tin đọc tâm trí",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa nhắc với bạn bên ly cà phê, mở điện thoại đã thấy món đó đập vào mắt.",
+     "text": "BẢNG TIN BÍ ẨN",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tỉnh lại đi Pen, chiếc điện thoại đó không hề biết đọc suy nghĩ đâu.",
+     "text": "KHÔNG BIẾT ĐỌC NÃO",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao bài quảng cáo đại trà lại khiến tôi thấy như nó thấu hiểu lòng mình?",
+     "text": "CƠ CHẾ RA SAO?",
+     "color": "ink",
+     "actor": "think",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chẳng có phép thuật nào đâu, họ chỉ lần theo dấu vết bạn lướt mạng thôi.",
+     "text": "DẤU VẾT TRÊN MẠNG",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là họ lợi dụng lối tắt tư duy để gài bẫy cảm xúc của tụi mình?",
+     "text": "BẪY LỐI TẮT",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hôm nay khởi động tám đòn thao túng tâm lý, và cách bẻ gãy từng hiệp một.",
+     "text": "TÁM ĐÒN TÂM LÝ",
+     "color": "gold",
+     "actor": "front",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Hiệu ứng cá nhân hóa",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ứng dụng mua sắm vừa gửi tin nhắn, bảo có ưu đãi chọn riêng cho tôi.",
+     "text": "1. ĐẶC QUYỀN CHO BẠN",
+     "color": "ink",
+     "actor": "phone_grin",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chiêu cá nhân hóa đấy, máy móc giả vờ thân thiết để bạn buông lỏng cảnh giác.",
+     "text": "GIẢ VỜ THÂN THIẾT",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nó gọi đúng tên tôi, lại còn gợi ý quán cà phê ngay gần khu tôi ở.",
+     "text": "ĐÚNG TÊN ĐÚNG QUÁN",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bạn lọc bớt thông tin bằng cách chỉ chú ý đến những gì nhắc tới mình.",
+     "text": "BỘ LỌC CỦA NÃO",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ thấy nhắc đúng tên hay đúng quận nhà mình là tôi xiêu lòng, mất hết cảnh giác.",
+     "text": "XIÊU LÒNG VÌ QUEN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thấy quen là não đi đường tắt, nhầm sự quen thuộc thành mức độ tin cậy.",
+     "text": "QUEN NÊN THẤY TIN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm tôi cứ tưởng người bán hàng thực sự hiểu rõ gu riêng của mình.",
+     "text": "NGỠ HIỂU LÒNG MÌNH",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tỉnh mộng đi Pen, thông báo đó vừa gửi cho năm mươi nghìn người sáng nay.",
+     "text": "GỬI HÀNG LOẠT",
+     "color": "gold",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để tỉnh táo lại trước khi ngón tay kịp bấm thanh toán đơn hàng?",
+     "text": "TỈNH TRƯỚC KHI MUA",
+     "color": "ink",
+     "actor": "wallet_worry"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào hiệp tập này: tự coi mình là vị khách vô danh thứ bốn mươi nghìn.",
+     "text": "BẠN LÀ MÃ SỐ",
+     "color": "green",
+     "actor": "front",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩ mình chỉ là một vị khách vô danh, cảm xúc hào hứng biến mất ngay.",
+     "text": "GÓI HÀNG VÔ DANH",
+     "color": "green",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phản xạ tốt, vì chiêu tiếp theo sẽ mượn luôn câu chuyện đời bạn để tấn công.",
+     "text": "MƯỢN ĐỜI CỦA BẠN",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "Hiệu ứng tự quy chiếu",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi thấy đoạn phim quay cảnh nhân viên ngồi ôm đầu bên đống dây sạc bừa bộn.",
+     "text": "2. SOI THẤY BẢN THÂN",
+     "color": "ink",
+     "actor": "bored_yawn",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng tự quy chiếu đấy, đối phương đang dồn tạ ép thẳng vào điểm yếu tâm lý của Pen.",
+     "text": "TỰ QUY CHIẾU",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nó diễn đúng nỗi bực mình mỗi sáng, làm tôi giật mình ngỡ bị quay lén.",
+     "text": "NGỠ BỊ QUAY LÉN",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não bộ ưu tiên ghi nhớ và phản ứng mạnh hơn với những gì dính tới bản thân.",
+     "text": "GHI NHỚ SÂU HƠN",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ là góc bàn bừa bộn mà khiến tôi muốn chi cả triệu mua chiếc kệ gỗ.",
+     "text": "KỆ GỖ TIỀN TRIỆU",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chạm đúng chỗ đau, tâm trí bạn ngừng soi xét rồi tự nhập vai vào nhân vật.",
+     "text": "NHẬP VAI VÀO CẢNH",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi mua món đồ vì ngỡ nó sẽ dọn dẹp luôn lối sống lộn xộn của mình.",
+     "text": "MUA ĐỂ THAY ĐỔI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trả tạ về giá dừng lại ngay, đổi sang góc nhìn của người thứ ba.",
+     "text": "GÓC NHÌN THỨ BA",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao tách mình ra khi câu chuyện trên màn hình quá giống đời mình?",
+     "text": "LÀM SAO TÁCH RA?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy đọc lại lời rao như người lạ: một kẻ xa lạ mua chiếc kệ đắt tiền.",
+     "text": "NHÌN NHƯ NGƯỜI LẠ",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thấy người lạ mua chiếc kệ đó, tôi chỉ thấy một kẻ đang phí tiền vô ích.",
+     "text": "PHÍ TIỀN VÔ ÍCH",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ khoảng cách đó, vì nhãn hàng còn bám đuôi bạn trên màn hình suốt ngày.",
+     "text": "BÁM ĐUÔI LIÊN TỤC",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "smartphone_glow"
+    }
+   ]
+  },
+  {
+   "title": "Hiệu ứng tiếp xúc thường xuyên",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "buff",
+     "vo": "Sao đôi giày hầm hố màu chói chang kia lại nằm trong giỏ hàng rồi Pen?",
+     "text": "3. CÀNG GẶP CÀNG QUEN",
+     "color": "ink",
+     "actor": "point_viewer",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tuần trước tôi thấy nó xấu tệ, nhưng giờ lướt đâu cũng thấy người ta mang.",
+     "text": "TỪ XẤU THÀNH ƯA",
+     "color": "red",
+     "actor": "sofa_scroll"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng tiếp xúc thường xuyên đang chạy bộ vòng quanh lý trí của bạn đấy.",
+     "text": "TIẾP XÚC QUEN MẶT",
+     "color": "gold",
+     "actor": "jogging",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nó đập vào mắt từ các buổi phát trực tiếp đến nhóm lớp suốt hai tuần.",
+     "text": "XUẤT HIỆN DÀY ĐẶC",
+     "color": "red",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ não tự động đánh đồng sự quen thuộc với cảm giác an toàn và dễ chịu.",
+     "text": "QUEN LÀ AN TOÀN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ nhìn đi nhìn lại một món đồ là tự nhiên thấy nó đẹp lên thật sao?",
+     "text": "SAO LẠI THẤY ĐẸP?",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thuật toán nhồi hình ảnh liên tục cho đến khi bạn thấy món đó quen thuộc và vô hại.",
+     "text": "QUEN THUỘC VÔ HẠI",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra não tôi tưởng quen mắt đồng nghĩa với chất lượng tốt?",
+     "text": "ẢO GIÁC CHẤT LƯỢNG",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào hiệp nghỉ bốn mươi tám tiếng trước khi chiếc ví phải nâng tạ quá sức.",
+     "text": "NGHỈ NGƠI HAI NGÀY",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi nên tự hỏi điều gì trong suốt hai ngày bình tâm đó?",
+     "text": "TỰ HỎI ĐIỀU GÌ?",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hãy tự hỏi: mình có cần nó trước khi bị năm trang mạng bám đuôi không.",
+     "text": "CÓ THỰC SỰ CẦN?",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chẳng hề cần, tôi chỉ bị mài mòn bởi sự lặp đi lặp lại không ngừng.",
+     "text": "Ý CHÍ BỊ BÀO MÒN",
+     "color": "ink",
+     "actor": "future_tired"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ bọc sự lặp lại đó vào phông chữ mượt mà thì phòng thủ rụng sạch.",
+     "text": "VẺ NGOÀI MƯỢT MÀ",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "lightbulb"
+    }
+   ]
+  },
+  {
+   "title": "Ảo giác trôi chảy",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhiều trang bán hàng có phông chữ tối giản, trình bày rất sạch sẽ và thuyết phục.",
+     "text": "4. ẢO GIÁC TRÔI CHẢY",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bẫy trôi chảy nhận thức đấy, thấy đọc êm mắt liền tin là sự thật.",
+     "text": "BẪY TRÔI CHẢY",
+     "color": "gold",
+     "actor": "front",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ thấy trang mạng thiết kế chỉn chu, hiện đại là tôi tin ngay lời họ nói.",
+     "text": "TIN VÌ ĐẸP MẮT",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chữ nghĩa dễ đọc thì não bộ tốn rất ít sức lực để tiếp nhận thông tin.",
+     "text": "NÃO ÍT TỐN SỨC",
+     "color": "gold",
+     "actor": "meditating",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao ít tốn sức lại khiến đầu óc xem lời quảng cáo như sự thật hiển nhiên?",
+     "text": "DỄ ĐỌC THÌ ĐÚNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiềm thức tự động nhầm cảm giác êm ái khi đọc với độ tin cậy và an toàn.",
+     "text": "ÊM ÁI NÊN TIN",
+     "color": "red",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy vẻ ngoài bóng bẩy có thể che giấu món đồ tầm thường giá trên trời?",
+     "text": "NGỤY TRANG HOÀN HẢO",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập bài tăng lực cản: dán toàn bộ lời chào hàng vào trang ghi chú chữ đen nền trắng.",
+     "text": "LỘT BỎ HÀO NHOÁNG",
+     "color": "green",
+     "actor": "typing_focused",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đọc chữ thô không phông nền đẹp, những lời hứa hẹn nghe sáo rỗng hẳn.",
+     "text": "LỜI HỨA SÁO RỖNG",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là cách bóc sạch hào nhoáng trước khi chiếc ví chịu đòn nặng nề.",
+     "text": "BÓC HẾT LỚP SƠN",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lột lớp vỏ ngoài làm tan biến ảo tưởng và lộ rõ lý lẽ yếu ớt bên trong.",
+     "text": "ẢO TƯỞNG TAN BIẾN",
+     "color": "gold",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hình ảnh đã lợi hại, người ta còn ghép thêm nhạc nền để dẫn dắt cảm xúc bạn.",
+     "text": "LỒNG GHÉP ÂM THANH",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Ghép nối cảm xúc",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi vừa xem đoạn quảng cáo nước ngọt sum vầy ngày Tết với tiếng đàn ấm áp.",
+     "text": "5. GHÉP NỐI CẢM XÚC",
+     "color": "ink",
+     "actor": "coffee",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chiêu ghép nối cảm xúc đấy, buộc chai nước ngọt công nghiệp vào ký ức gia đình.",
+     "text": "GẮN CHẶT CẢM XÚC",
+     "color": "red",
+     "actor": "front",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ hầu như không nói về thành phần, nhưng lòng tôi dâng trào nỗi nhớ quê.",
+     "text": "CẢM GIÁC SUM VẦY",
+     "color": "gold",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tiềm thức tự động gắn cảm giác dễ chịu vào hình ảnh thương hiệu trên màn hình.",
+     "text": "GẮN VÀO NHÃN HÀNG",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao một điệu nhạc du dương lại gắn chặt vào lon nước ngọt có ga?",
+     "text": "MƯỢN TIẾNG ĐÀN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn đâu có mua nước đường, bạn đang mua sự ấm áp vay mượn từ tiếng đàn đó.",
+     "text": "VAY MƯỢN CẢM XÚC",
+     "color": "red",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bảo sao những đoạn phim quảng cáo lớn đều quay sâu lắng như phim điện ảnh.",
+     "text": "NHƯ PHIM ĐIỆN ẢNH",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vào thế thủ ngay: tắt tiếng lập tức và nhìn thẳng vào lượng đường cùng giá bán.",
+     "text": "TẮT HẾT ÂM THANH",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tắt tiếng đi thấy rất bình thường, chỉ là lon nước ngọt đặt trên bàn tiệc.",
+     "text": "CHỈ LÀ LON NƯỚC",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Nhìn giá khi không có nhạc: trả tiền cho món đồ chứ đừng trả cho cảm xúc dàn dựng.",
+     "text": "TRẢ TIỀN MÓN ĐỒ",
+     "color": "green",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bỏ âm thanh giúp tôi nhìn đúng giá trị thực tế thay vì cảm xúc được vẽ ra.",
+     "text": "NHÌN VÀO CÔNG NĂNG",
+     "color": "green",
+     "actor": "reading",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hạ tạ tắt tiếng mới né được một hiệp, chiêu tiếp theo đánh ngầm trong não mới làm bạn sập nguồn.",
+     "text": "BẪY NGẦM VÔ HÌNH",
+     "color": "gold",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "Hiệu ứng mồi tâm lý",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đọc bài báo về đợt mưa bão xong, tôi tự nhiên vào sàn mua sắm tìm tất giữ nhiệt.",
+     "text": "6. HIỆU ỨNG MỒI",
+     "color": "ink",
+     "actor": "reading",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng mồi đấy: nỗi lo rét mướt vừa bị kích hoạt ngầm, não Pen liền phóng đại nhu cầu che chắn.",
+     "text": "GIEO CẢM GIÁC LO",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tự nhiên mấy đôi tất giữ nhiệt với áo mưa lại trông cấp thiết lạ thường.",
+     "text": "BỖNG THẤY CẤP BÁCH",
+     "color": "red",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đòn mồi kích hoạt các chuỗi liên tưởng chạy ngầm trong tiềm thức.",
+     "text": "CHẠY NGẦM DƯỚI NÃO",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ đọc về trời mưa gió mà lái được cả hành vi mua sắm ở ứng dụng khác sao?",
+     "text": "DẪN DẮT HÀNH VI?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ý nghĩ phòng vệ bị kích hoạt ngầm, biến đồ chống nước thành thứ phải có ngay.",
+     "text": "KÍCH HOẠT PHÒNG THỦ",
+     "color": "red",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cứ ngỡ tình cờ tìm thấy món đồ cần thiết, hóa ra đầu óc đã bị cài cắm từ trước.",
+     "text": "BỊ CÀI CẮM TỪ TRƯỚC",
+     "color": "ink",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Rèn bài này: viết danh sách ra giấy trước khi mở bất kỳ ứng dụng mua sắm nào.",
+     "text": "VIẾT TRƯỚC RA GIẤY",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Món nào không có trên giấy thì dứt khoát không bấm chốt đơn hôm nay.",
+     "text": "KHÔNG CÓ KHÔNG MUA",
+     "color": "green",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tờ giấy đó là người đỡ tạ vững chắc khi các gợi ý trên mạng lao vào tấn công.",
+     "text": "NGƯỜI ĐỠ TẠ AN TOÀN",
+     "color": "green",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có danh sách giấy bảo vệ ví tiền của tôi khỏi những bẫy tâm lý giăng sẵn.",
+     "text": "BẢO VỆ TÚI TIỀN",
+     "color": "ink",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ vững ranh giới đó, vì bẫy sẽ tăng lên khi người ta cho bạn dùng thử miễn phí.",
+     "text": "BẪY DÙNG THỬ",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "hourglass"
+    }
+   ]
+  },
+  {
+   "title": "Hiệu ứng sở hữu",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Ứng dụng chỉnh ảnh cho tôi dùng thử bản cao cấp một tháng miễn phí.",
+     "text": "7. NGỠ ĐÃ CỦA MÌNH",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Hiệu ứng sở hữu đang khóa chặt chiếc ví của bạn xuống sàn đấu rồi.",
+     "text": "HIỆU ỨNG SỞ HỮU",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giờ sắp hết hạn, cảm giác hủy gói cứ như bị ai đó tước mất tài sản của mình.",
+     "text": "NHƯ BỊ MẤT ĐỒ",
+     "color": "red",
+     "actor": "panic"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Con người luôn coi trọng món đồ hơn hẳn khi bắt đầu cảm thấy nó là của mình.",
+     "text": "TÂM LÝ TIẾC CỦA",
+     "color": "gold",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao việc hủy dùng thử miễn phí lại xót xa hơn lúc chưa từng đăng ký?",
+     "text": "VÌ SAO LẠI TIẾC?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Họ cho bạn lưu sẵn công thức chỉnh màu để tiềm thức tự nhận ứng dụng đó là của mình.",
+     "text": "TỰ NHẬN TÀI SẢN",
+     "color": "red",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hóa ra cảm giác tiếc nuối đó chỉ là ảo giác bị tước đoạt tài sản mà thôi.",
+     "text": "ẢO GIÁC BỊ TƯỚC",
+     "color": "red",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn luôn. Đặt lịch nhắc ngày thứ hai mươi lăm rồi bấm tắt tự động gia hạn.",
+     "text": "NHẮC TRƯỚC NĂM NGÀY",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Như vậy tôi có năm ngày cân nhắc mà không sợ bị trừ tiền tự động.",
+     "text": "CHỦ ĐỘNG QUYẾT ĐỊNH",
+     "color": "green",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chủ động ra đòn luôn thắng sức ỳ, giữ cho túi tiền đăng ký dịch vụ luôn gọn gàng.",
+     "text": "GIỮ TÚI TIỀN GỌN",
+     "color": "green",
+     "actor": "hand_off",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Buộc bản thân bấm gia hạn bằng tay mới biết mình có thật sự cần dùng tiếp hay không.",
+     "text": "TỰ TAY GIA HẠN",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Phải tỉnh táo, vì khâu thanh toán luôn giăng sẵn cạm bẫy để móc thêm tiền bạn.",
+     "text": "BẪY NƠI THANH TOÁN",
+     "color": "gold",
+     "actor": "point_viewer"
+    }
+   ]
+  },
+  {
+   "title": "Kiến trúc lựa chọn",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đặt đồ ăn trưa, ứng dụng tự tích sẵn tiền boa tài xế, dụng cụ ăn uống và giao ưu tiên.",
+     "text": "8. CÀI SẴN MẶC ĐỊNH",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kiến trúc lựa chọn đấy, bố cục vô hình sắp đặt để bạn tự nguyện chi thêm tiền.",
+     "text": "KIẾN TRÚC LỰA CHỌN",
+     "color": "gold",
+     "actor": "front",
+     "prop": "notification_bell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi suýt bấm trả tiền thì thấy các khoản tích sẵn đã đội giá đơn lên mấy chục nghìn.",
+     "text": "ĐỘI GIÁ ÂM THẦM",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bộ não lười biếng, ô nào đánh dấu sẵn ta đều tưởng là chuẩn mực cần thiết.",
+     "text": "TƯỞNG LÀ CHUẨN MỰC",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thế nhưng người mua lại rất ngại ngùng khi tự tay bấm bỏ chọn những ô đó.",
+     "text": "NGẠI BỎ CHỌN",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ chọn tạo ra cảm giác lấn cấn, làm bạn tự nghi ngờ độ an toàn của đơn hàng.",
+     "text": "CẢM GIÁC LẤN CẤN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vậy các ứng dụng cố tình biến việc chi thêm tiền thành lựa chọn dễ dàng nhất?",
+     "text": "LỐI ĐI DỄ NHẤT",
+     "color": "ink",
+     "actor": "wallet_worry",
+     "prop": "coin_stack"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chính xác. Áp dụng ngay bài tập này: dọn sạch giỏ hàng về con số không.",
+     "text": "DỌN SẠCH GIỎ HÀNG",
+     "color": "green",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Dọn sạch thế nào khi đang đói bụng và vội đặt cơm trưa hả Buff?",
+     "text": "DỌN SẠCH THẾ NÀO?",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ dấu tích ở tất cả các ô tùy chọn, rồi tự chọn lại món thật sự cần.",
+     "text": "BỎ HẾT TÍCH SẴN",
+     "color": "green",
+     "actor": "hand_off"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Bỏ tích hết đi mới thấy, tôi chỉ cần hộp cơm chứ chẳng cần bảo hiểm đơn hay giao ưu tiên.",
+     "text": "KHÔNG CẦN KÈM THÊM",
+     "color": "green",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giờ hãy gom tất cả các hiệp tập này thành một lịch rèn luyện mỗi tuần.",
+     "text": "LỊCH RÈN MỖI TUẦN",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "Lịch rèn luyện bảy ngày",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại thì mọi chiêu trò tiếp thị số đều xoay quanh ba đòn phối hợp chính.",
+     "text": "BÀI TẬP BẢY NGÀY",
+     "color": "ink",
+     "actor": "think",
+     "prop": "lightbulb"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Một là mượn danh tính qua cá nhân hóa để biến đồ đại trà thành của riêng bạn.",
+     "text": "MƯỢN DANH TÍNH",
+     "color": "gold",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hai là làm lơ là phòng vệ bằng sự quen mắt, giao diện mượt mà và nhạc cảm xúc.",
+     "text": "HẠ THẤP PHÒNG VỆ",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ba là lợi dụng tính ỳ bằng mồi tâm lý, dùng thử miễn phí và cài sẵn mặc định.",
+     "text": "LỢI DỤNG TÍNH Ỳ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để rèn luyện thói quen nhận biết các cạm bẫy này trước khi thanh toán?",
+     "text": "RÈN LUYỆN THẾ NÀO?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách bảy ngày: không bấm mua qua quảng cáo, ghi ra giấy và đợi hai mươi tư tiếng.",
+     "text": "CHỜ HAI MƯƠI TƯ GIỜ",
+     "color": "green",
+     "actor": "point_viewer",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Qua hai mươi tư tiếng trên giấy mà vẫn muốn mua thì là nhu cầu thật, không thì chỉ là ảo giác.",
+     "text": "NHU CẦU THỰC SỰ",
+     "color": "green",
+     "actor": "celebrate",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm theo dõi kênh để cùng tụi mình tập tạ cho não, giữ cho quyết định luôn sáng suốt.",
+     "text": "TẬP TẠ CHO NÃO",
+     "color": "gold",
+     "actor": "small_step",
+     "prop": "dumbbell"
+    }
+   ]
+  }
+ ]
+}

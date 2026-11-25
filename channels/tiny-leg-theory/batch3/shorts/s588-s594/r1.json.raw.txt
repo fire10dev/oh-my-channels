@@ -1,0 +1,707 @@
+REBUTTAL:
+1 accept
+2 accept
+3 accept
+4 accept
+5 accept
+6 accept
+7 accept
+8 accept
+9 reject: Turning both s589 and s593 into questions makes 3/3 (100%) Pen endings questions, violating the ≤ 60% rule.
+10 reject: Converting s589vi and s593vi to questions also violates the ≤ 60% question ceiling across Pen clips.
+11 accept
+12 accept
+13 accept
+14 accept
+15 reject: Tracking three concrete targets is accurately symbolized by checkbox_tick, and repeating dumbbell reduces prop variety.
+RESULT:
+[
+  {
+    "id": "s588",
+    "mascot": "buff",
+    "title": "When Nobody Looks Up",
+    "mechanism": "Belonging Doubt",
+    "lines": [
+      {
+        "vo": "You walk into a quiet room, and nobody looks up.",
+        "text": "NOBODY LOOKS UP",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Your brain screams they hate you already. Sure, buddy.",
+        "text": "INSTANT SPIRAL",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "That is belonging doubt treating neutral faces like active danger.",
+        "text": "NEUTRAL IS NOT BAD",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "They are not judging you. They are just grinding their own shift.",
+        "text": "BUSY MINDS",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Count a blank stare as missing data, not a failed rep.",
+        "text": "JUST MISSING DATA",
+        "color": "green",
+        "actor": "think",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Put your bag down and own your spot. First set done.",
+        "text": "FIRST SET DONE",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s588vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Ngay dau di lam ca phong im re",
+    "title_vi": "Ngày đầu đi làm cả phòng im re",
+    "mechanism": "Belonging Doubt",
+    "lines": [
+      {
+        "vo": "Vừa bước vào phòng làm việc mới chào, chẳng ai thèm ngẩng lên.",
+        "text": "CẢ PHÒNG IM RE",
+        "color": "red",
+        "actor": "nervous_wave",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Đầu bạn nhảy số ngay: mình bị ghét rồi. Ừ, tin.",
+        "text": "TỰ DIỄN KỊCH BẢN",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "brain"
+      },
+      {
+        "vo": "Mặt họ lạnh tanh không có nghĩa là họ đang ghét bạn.",
+        "text": "CHƯA PHẢI TẨY CHAY",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Người ta đang bận chạy chỉ tiêu, chưa rảnh để ý người mới.",
+        "text": "AI CŨNG ĐANG BẬN",
+        "actor": "typing_focused",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Coi sự im lặng là khởi động, đừng xem nó là tạ nặng.",
+        "text": "CHỈ LÀ KHỞI ĐỘNG",
+        "color": "green",
+        "actor": "think",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Kéo ghế ngồi xuống và tập trung việc mình. Xong hiệp một.",
+        "text": "XONG HIỆP MỘT",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s589",
+    "mascot": "pen",
+    "title": "The Tripping Spiral",
+    "mechanism": "Spotlight Effect",
+    "lines": [
+      {
+        "vo": "You trip entering the room, convinced every eye is burning into you.",
+        "text": "TRIPPING IN PUBLIC",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Your mind assumes your awkward slip is breaking news to everyone.",
+        "text": "BREAKING NEWS",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "That spotlight effect is just your own nervousness playing tricks.",
+        "text": "SPOTLIGHT EFFECT",
+        "actor": "confused_shrug",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Most people are too busy managing their own mess to track yours.",
+        "text": "THEY DID NOT NOTICE",
+        "color": "green",
+        "actor": "reading"
+      },
+      {
+        "vo": "The room moved on ten seconds ago. Only you are still watching.",
+        "text": "THE ROOM MOVED ON",
+        "color": "gold",
+        "actor": "small_step",
+        "prop": "hourglass"
+      }
+    ]
+  },
+  {
+    "id": "s589vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Vap chan truoc mat ca phong",
+    "title_vi": "Vấp chân trước mặt cả phòng",
+    "mechanism": "Spotlight Effect",
+    "lines": [
+      {
+        "vo": "Vừa bước vào phòng họp đã vấp chân, mặt bạn nóng ran vì ngượng.",
+        "text": "VẤP CHÂN VÀO PHÒNG",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Bạn tưởng tượng cả tuần này ai cũng sẽ đem chuyện đó ra cười.",
+        "text": "SỢ BỊ SOI MÓI",
+        "color": "red",
+        "actor": "worried_heart",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Hiệu ứng đèn chiếu khiến bạn phóng đại sự chú ý của người khác.",
+        "text": "HIỆU ỨNG ĐÈN CHIẾU",
+        "actor": "confused_shrug",
+        "prop": "lightbulb"
+      },
+      {
+        "vo": "Thực ra ai cũng bận nhìn màn hình và xem lịch làm việc.",
+        "text": "CHẲNG AI ĐỂ Ý",
+        "color": "green",
+        "actor": "reading"
+      },
+      {
+        "vo": "Cả phòng đã quên từ mười giây trước, chỉ còn bạn tự phán xét.",
+        "text": "BẠN TỰ NGHĨ RA",
+        "color": "gold",
+        "actor": "small_step",
+        "prop": "hourglass"
+      }
+    ]
+  },
+  {
+    "id": "s590",
+    "mascot": "buff",
+    "title": "Afraid to Click",
+    "mechanism": "Hidden Rules",
+    "lines": [
+      {
+        "vo": "You are staring at the shared drive, terrified to click one folder.",
+        "text": "FROZEN AT DESK",
+        "color": "red",
+        "actor": "panic",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "You spend an hour guessing where the weekly report actually goes.",
+        "text": "SILENT GUESSING",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Bad news: guessing burns more fuel than heavy deadlifts.",
+        "text": "GUESSING BURNS FUEL",
+        "actor": "future_tired",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Every workplace has unwritten rules nobody bothered to document.",
+        "text": "UNWRITTEN RULES",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Asking for a clear example is not weakness. It is smart form.",
+        "text": "ASK FOR A SAMPLE",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "target"
+      },
+      {
+        "vo": "Walk up to a senior: 'I'm new, can I see a sample report?'",
+        "text": "FIND A VETERAN",
+        "color": "green",
+        "actor": "point_viewer"
+      },
+      {
+        "vo": "Waste an afternoon guessing, or ask in ten seconds. Pick one.",
+        "text": "PICK ONE NOW",
+        "color": "gold",
+        "actor": "arms_crossed_no",
+        "prop": "alarm_clock"
+      }
+    ]
+  },
+  {
+    "id": "s590vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "So hoi nguoi cu vi ngai giau dot",
+    "title_vi": "Sợ hỏi người cũ vì ngại giấu dốt",
+    "mechanism": "Hidden Rules",
+    "lines": [
+      {
+        "vo": "Nhận việc mới mà không dám bấm vào đâu, sợ làm hỏng dữ liệu.",
+        "text": "SỢ BẤM NHẦM FILE",
+        "color": "red",
+        "actor": "panic",
+        "prop": "laptop_file"
+      },
+      {
+        "vo": "Ngồi mò mẫm cả buổi sáng chỉ để tìm cái mẫu báo cáo.",
+        "text": "MÒ CẢ BUỔI SÁNG",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "hourglass"
+      },
+      {
+        "vo": "Tự đoán luật ngầm tốn sức gấp đôi nâng tạ nặng.",
+        "text": "TỐN SỨC TỰ ĐOÁN",
+        "actor": "future_tired",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Chỗ nào cũng có quy định bất thành văn mà không ai ghi ra.",
+        "text": "LUẬT BẤT THÀNH VĂN",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Hỏi xin một bản mẫu đã duyệt không làm bạn kém cỏi đi.",
+        "text": "XIN BẢN MẪU CŨ",
+        "color": "green",
+        "actor": "hand_off",
+        "prop": "target"
+      },
+      {
+        "vo": "Qua bàn người cũ hỏi thẳng: anh chị cho em xin mẫu tuần trước.",
+        "text": "HỎI NGƯỜI ĐI TRƯỚC",
+        "color": "green",
+        "actor": "point_viewer"
+      },
+      {
+        "vo": "Mất mười giây hỏi hay ngồi mò cả ngày. Tự chọn đi.",
+        "text": "TỰ CHỌN LẤY",
+        "color": "gold",
+        "actor": "arms_crossed_no",
+        "prop": "alarm_clock"
+      }
+    ]
+  },
+  {
+    "id": "s591",
+    "mascot": "pen",
+    "title": "The Impostor Trap",
+    "mechanism": "Impostor Trap",
+    "lines": [
+      {
+        "vo": "The teacher drops the first major project, and your stomach sinks.",
+        "text": "FIRST BIG PROJECT",
+        "color": "red",
+        "actor": "panic",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "You wonder if they made a mistake choosing you for this role.",
+        "text": "THEY MADE A MISTAKE",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "You are comparing your chaotic insides to their calm outer posture.",
+        "text": "INSIDE VERSUS OUT",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Nobody expects you to hold the whole textbook in your head.",
+        "text": "NOT INSTANT GENIUS",
+        "actor": "reading"
+      },
+      {
+        "vo": "Log one clear lesson you picked up today, nothing more.",
+        "text": "LOG ONE LESSON",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "What if feeling confused is just learning happening in real time?",
+        "text": "LEARNING IN PROGRESS",
+        "color": "gold",
+        "actor": "think",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s591vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Tuong minh bi tuyen nham vi tri",
+    "title_vi": "Tưởng mình bị tuyển nhầm vị trí",
+    "mechanism": "Impostor Trap",
+    "lines": [
+      {
+        "vo": "Vừa nhận đề án lớn đầu tiên, bụng dạ bạn thắt lại vì lo.",
+        "text": "SẮP BỊ VẠCH TRẦN",
+        "color": "red",
+        "actor": "panic",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Bạn nghĩ người ta tuyển nhầm mình vào vị trí này rồi.",
+        "text": "CHỌN NHẦM MÌNH RỒI",
+        "color": "red",
+        "actor": "worried_heart"
+      },
+      {
+        "vo": "Bạn đang so sự bối rối bên trong với vẻ ngoài bình thản của người khác.",
+        "text": "SO SÁNH KHẬP KHIỄNG",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Họ chọn bạn vì khả năng học hỏi, không phải vì bạn biết hết mọi thứ.",
+        "text": "CHỌN ĐỂ HỌC HỎI",
+        "actor": "reading"
+      },
+      {
+        "vo": "Mỗi ngày chỉ cần ghi lại một điều mới bạn vừa hiểu ra.",
+        "text": "GHI LẠI MỘT ĐIỀU",
+        "color": "green",
+        "actor": "writing",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Nếu việc thấy khó chỉ là dấu hiệu bạn đang tiến bộ thì sao?",
+        "text": "DẤU HIỆU TIẾN BỘ",
+        "color": "gold",
+        "actor": "think",
+        "prop": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "s592",
+    "mascot": "buff",
+    "title": "The Day One Showoff",
+    "mechanism": "Social Ranking",
+    "lines": [
+      {
+        "vo": "The other new hire answers every question like they own the building.",
+        "text": "THE SHOWOFF ROOKIE",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "You sit there feeling tiny, slow, and totally unprepared.",
+        "text": "FEELING SO SLOW",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Quit running an unfair comparison against someone else's highlight reel.",
+        "text": "HIGHLIGHT REEL",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Maybe they did this before. Maybe they just talk loud.",
+        "text": "LOUD TALK ONLY",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Lock your eyes on your own workout sheet.",
+        "text": "YOUR OWN SHEET",
+        "color": "green",
+        "actor": "think",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Ask your lead for three concrete targets to hit by Friday.",
+        "text": "THREE TARGETS",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Track those reps, ignore the noise from the next rack.",
+        "text": "TRACK THOSE REPS",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Consistency in your lane wins the match every single time.",
+        "text": "STAY IN YOUR LANE",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s592vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Dua moi vao noi luu loat nhu sep",
+    "title_vi": "Đứa mới vào nói lưu loát như sếp",
+    "mechanism": "Social Ranking",
+    "lines": [
+      {
+        "vo": "Buổi họp đầu tiên, đồng nghiệp mới nói năng trôi chảy như sếp.",
+        "text": "BẠN MỚI QUÁ GIỎI",
+        "color": "red",
+        "actor": "shocked"
+      },
+      {
+        "vo": "Bạn ngồi im thin thít, thấy mình thua kém toàn tập.",
+        "text": "THẤY MÌNH THUA KÉM",
+        "color": "red",
+        "actor": "facepalm",
+        "prop": "storm_cloud"
+      },
+      {
+        "vo": "Dừng việc so ngày đầu của mình với màn biểu diễn của người khác.",
+        "text": "ĐỪNG SO BẢNG ĐIỂM",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Có thể họ từng làm qua rồi, hoặc chỉ khéo ăn nói thôi.",
+        "text": "CHỈ LÀ KHÉO NÓI",
+        "actor": "confused_shrug",
+        "prop": "brain"
+      },
+      {
+        "vo": "Tập trung vào thanh tạ của chính bạn.",
+        "text": "GIỮ VỮNG TẠ MÌNH",
+        "color": "green",
+        "actor": "think",
+        "prop": "dumbbell"
+      },
+      {
+        "vo": "Hỏi rõ sếp ba mục tiêu cụ thể cần hoàn thành trước thứ sáu.",
+        "text": "BA MỤC TIÊU TUẦN",
+        "color": "green",
+        "actor": "typing_focused",
+        "prop": "target"
+      },
+      {
+        "vo": "Hoàn thành từng việc đó thay vì liếc nhìn sang bàn bên cạnh.",
+        "text": "LÀM XONG TỪNG VIỆC",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "checkbox_tick"
+      },
+      {
+        "vo": "Đi đúng làn và nâng đúng mức tạ của mình. Thế là thắng.",
+        "text": "ĐI ĐÚNG LÀN MÌNH",
+        "color": "gold",
+        "actor": "celebrate"
+      }
+    ]
+  },
+  {
+    "id": "s593",
+    "mascot": "pen",
+    "title": "Stop Hiding in Corners",
+    "mechanism": "Showing Up",
+    "lines": [
+      {
+        "vo": "Between meetings, your default move is hiding in a quiet corner.",
+        "text": "HIDING IN CORNERS",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Headphones locked on, hoping nobody tries to start small talk.",
+        "text": "HEADPHONES ON",
+        "color": "red",
+        "actor": "front",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Hiding feels safe, but it robs you of simple familiarity.",
+        "text": "FAMILIARITY HEALS",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "People naturally trust faces they see around the hallway.",
+        "text": "PRESENCE WINS TRUST",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Just sitting nearby with a book is already quietly doing the work.",
+        "text": "JUST BEING THERE",
+        "color": "gold",
+        "actor": "reading"
+      }
+    ]
+  },
+  {
+    "id": "s593vi",
+    "lang": "vi",
+    "mascot": "pen",
+    "title": "Gio nghi trua tron mot goc",
+    "title_vi": "Giờ nghỉ trưa trốn một góc",
+    "mechanism": "Showing Up",
+    "lines": [
+      {
+        "vo": "Giờ nghỉ trưa, bạn toàn trốn một góc cắm tai nghe lướt điện thoại.",
+        "text": "TRỐN MỘT GÓC",
+        "color": "red",
+        "actor": "sofa_scroll",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Giả vờ bận rộn vì sợ phải ngồi chung bàn bắt chuyện.",
+        "text": "GIẢ VỜ BẬN RỘN",
+        "color": "red",
+        "actor": "front",
+        "prop": "smartphone_glow"
+      },
+      {
+        "vo": "Trốn thì đỡ ngại lúc đó, nhưng làm bạn càng thêm xa cách.",
+        "text": "CÀNG THÊM XA CÁCH",
+        "actor": "worried_heart",
+        "prop": "brain"
+      },
+      {
+        "vo": "Người ta có xu hướng tin tưởng những gương mặt xuất hiện quen mắt.",
+        "text": "QUEN MẶT THÀNH THÂN",
+        "color": "green",
+        "actor": "coffee",
+        "prop": "coffee_mug"
+      },
+      {
+        "vo": "Chỉ cần ngồi đó với ly trà, sự quen mặt đã làm phần việc khó nhất.",
+        "text": "CỨ XUẤT HIỆN LÀ ĐỦ",
+        "color": "gold",
+        "actor": "reading"
+      }
+    ]
+  },
+  {
+    "id": "s594",
+    "mascot": "buff",
+    "title": "Dropping Papers in Silence",
+    "mechanism": "Charm of Flaws",
+    "lines": [
+      {
+        "vo": "You drop your binder in a dead silent room, papers flying everywhere.",
+        "text": "PAPERS FLYING",
+        "color": "red",
+        "actor": "panic",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "You apologize six times and wish the floor would swallow you.",
+        "text": "OVER-APOLOGIZING",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Breathe, rookie. A small blunder does not ruin your season.",
+        "text": "BREATHE ROOKIE",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "That awkward slip is the pratfall effect: competence makes tiny blunders relatable.",
+        "text": "PRATFALL EFFECT",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Robots are creepy. Real teammates drop things once in a while.",
+        "text": "HUMANS DROP THINGS",
+        "color": "green",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Give a light smile, pick up your sheets, get back to work.",
+        "text": "CLEAN IT UP QUICK",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Perfection looks fake anyway. Own the slip and hit your next set.",
+        "text": "HIT YOUR NEXT SET",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  },
+  {
+    "id": "s594vi",
+    "lang": "vi",
+    "mascot": "buff",
+    "title": "Lam roi tai lieu giua phong hop",
+    "title_vi": "Làm rơi tài liệu giữa phòng họp",
+    "mechanism": "Charm of Flaws",
+    "lines": [
+      {
+        "vo": "Vừa làm rơi xấp tài liệu giữa phòng im ắng, giấy bay tung tóe.",
+        "text": "GIẤY BAY TUNG TÓE",
+        "color": "red",
+        "actor": "panic",
+        "prop": "paper_mountain"
+      },
+      {
+        "vo": "Bạn rối rít xin lỗi năm lần và ước có lỗ nẻ để chui.",
+        "text": "XIN LỖI RỐI RÍT",
+        "color": "red",
+        "actor": "facepalm"
+      },
+      {
+        "vo": "Bình tĩnh lại. Một pha trượt chân không làm sập cả sự nghiệp.",
+        "text": "CHƯA SẬP SỰ NGHIỆP",
+        "actor": "arms_crossed_no"
+      },
+      {
+        "vo": "Khi đã có năng lực, chút vụng về chỉ làm bạn dễ gần hơn.",
+        "text": "VỤNG VỀ DỄ GẦN",
+        "actor": "think",
+        "prop": "brain"
+      },
+      {
+        "vo": "Người hoàn hảo quá chỉ làm đồng nghiệp thấy xa cách.",
+        "text": "ĐỪNG LÀM NGƯỜI MÁY",
+        "color": "green",
+        "actor": "confused_shrug"
+      },
+      {
+        "vo": "Cười nhẹ một cái, nhặt giấy lên rồi làm tiếp việc của mình.",
+        "text": "NHẶT LÊN LÀM TIẾP",
+        "color": "green",
+        "actor": "small_step",
+        "prop": "target"
+      },
+      {
+        "vo": "Chấp nhận hạt sạn nhỏ này đi và vào hiệp tiếp theo.",
+        "text": "VÀO HIỆP TIẾP THEO",
+        "color": "gold",
+        "actor": "celebrate",
+        "prop": "dumbbell"
+      }
+    ]
+  }
+]

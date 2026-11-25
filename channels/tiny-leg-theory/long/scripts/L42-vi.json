@@ -1,0 +1,980 @@
+{
+ "id": "L42vi",
+ "lang": "vi",
+ "title": "Nhắn thế nào để người khác không hiểu lầm ý bạn?",
+ "description": "Bạn từng gửi một tin nhắn bình thường nhưng người nhận lại giận dỗi hoặc im lặng? Video này chỉ ra tám nguyên nhân tâm lý khiến tin nhắn bị hiểu lầm và cách khắc phục để lời bạn gõ ra đúng trọn vẹn với ý bạn muốn truyền tải.",
+ "chapters": [
+  {
+   "title": "Bẫy Tin Nhắn",
+   "sources": [
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Vừa nhắn rủ bạn đi cà phê, đối phương bỗng im lặng suốt ba tiếng.",
+     "text": "BẪY TIN NHẮN",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tưởng nhắn vui vẻ, ai ngờ người ta lại nghĩ Pen đang hậm hực.",
+     "text": "HOANG MANG",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi đọc lại từng chữ, không biết mình lỡ lời ở điểm nào.",
+     "text": "NGHĨ QUÁ NHIỀU",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Màn hình cắt hết nét mặt và giọng nói. Giống như bạn đang gánh tạ mù.",
+     "text": "MẤT HẾT TÍN HIỆU",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì sao mấy câu chuyện trò thường ngày lại dễ biến thành bãi mìn vậy?",
+     "text": "VÌ SAO CĂNG THẲNG?",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vì màn hình giấu sạch cảm xúc. Đây là tám cái bẫy nhắn tin và cách gỡ.",
+     "text": "TÁM CÁI BẪY NHẮN TIN",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    }
+   ]
+  },
+  {
+   "title": "1. Độ Giàu Của Kênh",
+   "sources": [
+    "s01",
+    "s02"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sếp vừa nhắn đúng một câu, bảo chiều nay vào gặp anh.",
+     "text": "1. ĐỘ GIÀU CỦA KÊNH",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là ruột gan Pen thắt lại như vừa gánh tạ quá sức.",
+     "text": "RỤNG RỜI TAY CHÂN",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi mất hồn suốt ba tiếng, đinh ninh mình sắp bị đuổi việc.",
+     "text": "NGHĨ ĐẾN ĐIỀU XẤU",
+     "color": "ink",
+     "actor": "nervous_wave",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kênh giao tiếp quá nghèo nàn. Chữ viết là kênh trơ trọi nhất.",
+     "text": "KÊNH ÍT CẢM XÚC",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Kênh nghèo nàn là sao? Tin nhắn ban chiều thì thiếu thốn cái gì?",
+     "text": "KÊNH NGHÈO NÀN?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gặp mặt có ánh mắt và nụ cười. Tin nhắn chỉ toàn chữ khô khốc.",
+     "text": "CHỈ CÓ MẤY DÒNG CHỮ",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhận vài chữ ngắn ngủn, đầu tôi tự vẽ ra cả đống bi kịch.",
+     "text": "TỰ VẼ NỖI SỢ",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não rất ghét khoảng trống. Hễ thiếu thông tin là nó bật báo động ngay.",
+     "text": "BẬT CHẾ ĐỘ PHÒNG THỦ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lúc vào gặp, sếp chỉ nhờ tôi góp ý mấy trang tài liệu.",
+     "text": "CHỈ NHỜ GÓP Ý",
+     "color": "ink",
+     "actor": "sofa_scroll"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tốn nửa ngày đẩy quả tạ sợ hãi chỉ vì kênh nhắn tin quá nghèo.",
+     "text": "TỐN CÔNG LO SỢ",
+     "color": "red",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để vài chữ cộc lốc không làm mình hoảng hốt cả buổi?",
+     "text": "NGĂN NỖI HOẢNG SỢ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chọn đúng kênh. Việc nhạy cảm thì gọi điện hoặc gửi lời nhắn thoại.",
+     "text": "CHỌN ĐÚNG HÌNH THỨC",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghe giọng thì ấm hơn, nhưng thân quá lại dễ ngộ nhận là đối phương tự hiểu.",
+     "text": "NGỘ NHẬN HIỂU NHAU",
+     "color": "ink",
+     "actor": "phone_grin"
+    }
+   ]
+  },
+  {
+   "title": "2. Điểm Chung Ngộ Nhận",
+   "sources": [
+    "s02",
+    "s03"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi nhắn người yêu tan làm tiện đường ghé quán quen mua đồ ăn.",
+     "text": "2. ĐIỂM CHUNG NGỘ NHẬN",
+     "color": "ink",
+     "actor": "snack",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để Buff đoán nhé. Người ta mua bún bò còn Pen thèm cơm tấm.",
+     "text": "MUA SAI MÓN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chuẩn luôn, hai đứa đứng cằn nhằn nhau suốt mười lăm phút.",
+     "text": "TRANH CÃI VẶT",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen dính bẫy ngộ nhận rồi. Thứ rõ mồn một trong đầu mình người khác đâu có thấy.",
+     "text": "NGỘ NHẬN ĐIỂM CHUNG",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Điểm chung sao? Hai đứa ở chung ba năm và ăn cơm cùng mỗi ngày mà.",
+     "text": "Ở CHUNG BA NĂM",
+     "color": "ink",
+     "actor": "34",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Càng thân càng phải hỏi lại. Ta hay ảo tưởng người nhà tự hiểu ý mình.",
+     "text": "ẢO TƯỞNG THẤU HIỂU",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì quá thân nên não tôi mặc định người kia phải đọc được ý mình.",
+     "text": "BẮT ĐỌC TÂM TRÍ",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Não lười khởi động rồi. Thân quá hóa ra lười nói rõ thông tin.",
+     "text": "LƯỜI KHỞI ĐỘNG",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sự thân quen làm mình ẩu tả, cứ nghĩ nói tắt vài chữ là xong.",
+     "text": "CHỦ QUAN NÓI TẮT",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bạn bỏ qua bài tập cơ bản vì nghĩ hai đứa từng nâng tạ cùng nhau.",
+     "text": "BỎ BƯỚC CĂN BẢN",
+     "color": "gold",
+     "actor": "front"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm sao để chắc chắn hai người đang hiểu cùng một thứ?",
+     "text": "HIỂU ĐÚNG CÙNG NHAU",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bỏ hai giây kiểm tra. Nhắn rõ tên quán kèm địa chỉ cụ thể.",
+     "text": "GỬI RÕ TÊN QUÁN",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nói rõ chi tiết thì đỡ cãi vã, nhưng bạn bè lại hay tự suy diễn hàm ý.",
+     "text": "TỰ SOI HÀM Ý",
+     "color": "ink",
+     "actor": "celebrate"
+    }
+   ]
+  },
+  {
+   "title": "3. Suy Diễn Ngữ Dụng",
+   "sources": [
+    "s03",
+    "s04"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi nhắn rủ bạn tối nay qua nhà ăn lẩu liên hoan.",
+     "text": "3. SUY DIỄN NGỮ DỤNG",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "calendar_today"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Và nó nhắn lại là sáng mai phải đi làm sớm.",
+     "text": "SÁNG MAI ĐI LÀM SỚM",
+     "color": "red",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Cả buổi tối tôi bứt rứt, nghĩ chắc nó chê đồ ăn và né mình.",
+     "text": "NGHĨ BỊ TẨY CHAY",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lại diễn kịch rồi. Người ta vướng lịch bận, Pen lại tưởng người ta né mình.",
+     "text": "SUY DIỄN QUÁ ĐÀ",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sao đầu tôi cứ tự động tìm ác ý trong mấy câu đơn giản vậy?",
+     "text": "SAO CỨ HOÀI NGHI?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khi nói chuyện, người ta hay nói bóng gió. Đầu bạn tự tính toán ẩn ý.",
+     "text": "TÍNH TOÁN ẨN Ý",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nên khi bạn nói bận việc, tôi lại nghĩ nó đang kiếm cớ né tránh.",
+     "text": "TƯỞNG BỊ TỪ CHỐI",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người ta bận thật, còn Pen thì tự dựng một bộ phim bi kịch.",
+     "text": "TỰ DỰNG BI KỊCH",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "low_battery"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Sáng hôm sau nó rủ đi ăn trưa, bảo tối qua buồn ngủ quá.",
+     "text": "CHỈ VÌ MỆT THẬT",
+     "color": "ink",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kiểm tra nghĩa đen trước. Cứ hiểu đúng câu chữ trước khi tự biên kịch.",
+     "text": "HIỂU THEO NGHĨA ĐEN",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tức là người ta nói sao hiểu vậy, không cần tự vẽ thuyết âm mưu?",
+     "text": "BỚT VẼ ÂM MƯU",
+     "color": "ink",
+     "actor": "small_step"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chữ người ta sao thì nghe vậy. Đừng tự ý gánh thêm tạ cảm xúc.",
+     "text": "KHÔNG GẮN THÊM TẠ",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Hiểu đúng nghĩa đen rất tốt, nhưng một dấu câu lạnh lùng vẫn làm ta thót tim.",
+     "text": "DẤU CÂU LẠNH LÙNG",
+     "color": "ink",
+     "actor": "nervous_wave"
+    }
+   ]
+  },
+  {
+   "title": "4. Giọng Điệu Mơ Hồ",
+   "sources": [
+    "s04",
+    "s05"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi nhắn vừa phơi đồ xong, người yêu chỉ thả đúng một chữ ừ kèm dấu chấm.",
+     "text": "4. GIỌNG ĐIỆU MƠ HỒ",
+     "color": "ink",
+     "actor": "bed_phone_night",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Dấu chấm chí mạng. Thời nay tin nhắn có dấu chấm nhìn chẳng khác nào lưỡi dao.",
+     "text": "MŨI KIẾM DẤU CHẤM",
+     "color": "red",
+     "actor": "shocked"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Lạnh toát sống lưng. Tôi cứ nghĩ mãi xem từ sáng mình làm sai điều gì.",
+     "text": "LẠNH TOÁT SỐNG LƯNG",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giọng điệu mơ hồ. Đọc tin nhắn rất khó nhận ra giọng bình thường.",
+     "text": "KHÓ ĐOÁN GIỌNG ĐIỆU",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì sao bản năng của mình luôn nghĩ người ta đang bực bội?",
+     "text": "THIÊN KIẾN TIÊU CỰC",
+     "color": "ink",
+     "actor": "confused_shrug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiên kiến tiêu cực. Thiếu giọng điệu, não mặc định có ác ý để tự vệ.",
+     "text": "CƠ CHẾ PHÒNG VỆ",
+     "color": "gold",
+     "actor": "arms_crossed_no",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ chỉ đang xách đồ ngoài chợ, còn não tôi coi dấu chấm như đòn tấn công.",
+     "text": "BÁO ĐỘNG GIẢ",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Người gửi thấy nhẹ tênh. Người nhận lại nghe như tạ rơi sầm xuống sàn.",
+     "text": "LỆCH PHA CẢM XÚC",
+     "color": "red",
+     "actor": "34",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Người viết thấy bình thản, còn người đọc lại thấy như bị tạt nước lạnh.",
+     "text": "MỘT CÚ TÁT LẠNH",
+     "color": "ink",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Làm người đỡ tạ đi. Nhắn cộc lốc thì chêm thêm chữ nhé hoặc dấu cảm thán.",
+     "text": "ĐỠ TẠ CẢM XÚC",
+     "color": "green",
+     "actor": "front",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thêm từ đệm không phải trẻ con, mà là mua bảo hiểm cho cảm xúc.",
+     "text": "BẢO HIỂM CẢM XÚC",
+     "color": "ink",
+     "actor": "typing_focused"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Khóa chặt sự ấm áp từ phía mình để người ta không phải lo nghĩ.",
+     "text": "GIỮ GIỌNG ẤM ÁP",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Giọng ấm áp rất tốt, nhưng đồng nghiệp vẫn dễ hiểu sai mục đích của ta.",
+     "text": "LỆCH HÀNH ĐỘNG",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "5. Lời Nói Và Ý Định",
+   "sources": [
+    "s05",
+    "s06"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Đồng nghiệp nhắn hỏi tôi đã xem xong bản kế hoạch hay chưa.",
+     "text": "5. LỜI NÓI VÀ Ý ĐỊNH",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thế là Pen xù lông lên vì tưởng người ta đang săm soi, giục giã.",
+     "text": "CẢM GIÁC BỊ SOI",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi tưởng họ đòi việc, hóa ra họ chỉ muốn sắp xếp lịch buổi chiều.",
+     "text": "GIỤC HAY CHỈ HỎI?",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "alarm_clock"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Mỗi câu nói đều có câu chữ bề ngoài và hành vi ẩn giấu phía sau.",
+     "text": "MỤC ĐÍCH ẨN SAU LỜI",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Mặt chữ là hỏi thăm, nhưng trong đầu tôi lại dịch ra thành đòi nợ?",
+     "text": "CÂU HỎI HAY ĐÒI NỢ?",
+     "color": "ink",
+     "actor": "34",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chuẩn bài. Câu chữ chỉ là vỏ bọc. Ý định mới là thứ bạn nhắm tới.",
+     "text": "MỤC ĐÍCH ẨN GIẤU",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đang nhiều việc, một câu hỏi thăm làm tôi thấy như mình đang bị trách.",
+     "text": "TƯỞNG BỊ KHIỂN TRÁCH",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "paper_mountain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Sát giờ nộp thì nghe hỏi cứ ngỡ ra lệnh. Thần kinh tự gồng lên đỡ đòn.",
+     "text": "GỒNG MÌNH ĐỠ ĐÒN",
+     "color": "red",
+     "actor": "panic",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ chỉ cần biết giờ giấc, còn tôi lại ngỡ mình bị sếp soi mói.",
+     "text": "HIỂU LẦM MỤC ĐÍCH",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Gắn nhãn từ đầu. Thêm câu không vội, chỉ để xếp lịch, trước khi hỏi việc.",
+     "text": "DÁN NHÃN Ý ĐỊNH",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Làm vậy phân biệt rõ câu hỏi bình thường với một lời thúc ép.",
+     "text": "GIẢM BỚT ÁP LỰC",
+     "color": "ink",
+     "actor": "reading"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giúp đồng nghiệp nâng tạ nhẹ nhàng. Nói rõ cần làm ngay hay chỉ hỏi.",
+     "text": "NÓI RÕ MỤC TIÊU",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Rõ ý định rất tốt, nhưng câu chữ vẫn trượt hướng nếu quên mất người đọc.",
+     "text": "AI LÀ NGƯỜI ĐỌC?",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "6. Thiết Kế Lời Nói",
+   "sources": [
+    "s06",
+    "s07"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi gửi ảnh chế trêu thực tập sinh mới, làm em nó cuống cuồng xin lỗi.",
+     "text": "6. THIẾT KẾ LỜI NÓI",
+     "color": "ink",
+     "actor": "facepalm",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đau thật. Đối xử với lính mới như bạn thân đại học. Dở quá Pen.",
+     "text": "SAI LẦM CƠ BẢN",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi tính đùa cho vui vẻ, ai ngờ làm người ta sợ chết khiếp.",
+     "text": "PHẢN TÁC DỤNG",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Pen quên lựa lời theo đối tượng rồi. Người khôn ngoan luôn nhìn người nghe.",
+     "text": "LỰA LỜI MÀ NÓI",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nghĩa là phải nhìn xem người nhận là ai rồi mới lựa câu chữ?",
+     "text": "LỰA THEO ĐỐI TƯỢNG",
+     "color": "ink",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đúng rồi. Não lười biếng, cứ tưởng khiếu hài hước của mình ai cũng hiểu.",
+     "text": "ẢO TƯỞNG HỢP GU",
+     "color": "gold",
+     "actor": "34"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Với em ấy, tôi là người đi trước có tiếng nói, đâu phải bạn bè trêu đùa.",
+     "text": "KHOẢNG CÁCH VỊ THẾ",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Vị thế tạo thêm sức nặng. Khi có quyền, lời bông đùa cũng đè bẹp người ta.",
+     "text": "SỨC NẶNG VỊ THẾ",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Em ấy ngồi lo cả buổi, sợ vừa làm mất lòng người kèm mình.",
+     "text": "HOANG MANG CẢ BUỔI",
+     "color": "ink",
+     "actor": "nervous_wave"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Kiểm tra người nhận trước khi bấm gửi. Xem lại vị thế và mối quan hệ.",
+     "text": "XEM LẠI NGƯỜI NHẬN",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Với người mới, hãy bớt đùa cợt, nói chuyện rõ ràng và động viên cụ thể.",
+     "text": "RÕ RÀNG VÀ ĐỘNG VIÊN",
+     "color": "ink",
+     "actor": "phone_grin"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Để dành cà khịa cho mấy cạ cứng đã tập chung quen hơi.",
+     "text": "ĐÙA VỚI BẠN CŨ",
+     "color": "green",
+     "actor": "sprint_start"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chọn lời cho một người thì dễ, nhưng ném tất cả vào nhóm chung lại loạn.",
+     "text": "RẮC RỐI NHÓM CHUNG",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "7. Sập Bẫy Ngữ Cảnh",
+   "sources": [
+    "s07",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Tôi quăng miếng hài vào nhóm công ty, cả nhóm im phăng phắc.",
+     "text": "7. SẬP BẪY NGỮ CẢNH",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Không ai cười. Mấy chục con người tự hỏi Pen có bị ấm đầu không.",
+     "text": "IM LẶNG ĐÁNG SỢ",
+     "color": "red",
+     "actor": "arms_crossed_no"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Đồng nghiệp thân thì cười, còn sếp lớn chỉ lẳng lặng thả dấu tích lạnh tanh.",
+     "text": "BIỂU CẢM LẠNH TANH",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đó là hiện tượng sập ngữ cảnh. Nhiều thế giới bị nhồi chung một chỗ.",
+     "text": "SẬP BẪY NGỮ CẢNH",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Ngoài đời thực, tôi đâu bao giờ nói với sếp giống như với bạn bè.",
+     "text": "HAI THẾ GIỚI RIÊNG",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Ngoài đời có cửa đóng lại. Còn trong nhóm chung, phòng họp với bàn nhậu bị gộp làm một.",
+     "text": "RANH GIỚI BIẾN MẤT",
+     "color": "gold",
+     "actor": "think",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhắn cho tất cả mọi người, tôi vô tình chẳng kết nối được với ai.",
+     "text": "NÓI VỚI HƯ KHÔNG",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Trong nhóm chung, lời bạn nói luôn bị soi qua mắt người khó tính nhất.",
+     "text": "ÁNH MẮT KHẮT KHE",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Chỉ cần một người nghiêm khắc là cả câu chuyện bị đổi nghĩa tiêu cực.",
+     "text": "NGƯỜI KHẮT KHE SOI",
+     "color": "ink",
+     "actor": "worried_heart"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ nhóm chung rõ ràng. Chuyện đùa cợt thân mật thì nhắn riêng.",
+     "text": "GIỮ NHÓM GỌN GÀNG",
+     "color": "green",
+     "actor": "front",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Xem nhóm chung như bảng thông báo, chứ không phải sân khấu tấu hài.",
+     "text": "BẢNG TIN CÔNG CỘNG",
+     "color": "ink",
+     "actor": "celebrate"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Giữ sàn tập chung sạch sẽ, muốn đọ găng thân tình thì vào phòng riêng.",
+     "text": "GIAO LƯU PHÒNG RIÊNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "target"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nhóm chung lịch sự rất tốt, nhưng hiềm khích cũ vẫn làm ta hiểu lầm.",
+     "text": "HIỀM KHÍCH CŨ",
+     "color": "ink",
+     "actor": "small_step"
+    }
+   ]
+  },
+  {
+   "title": "8. Thiên Kiến Xác Nhận",
+   "sources": [
+    "s08",
+    "s01"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Sau cuộc cãi vã hôm qua, tôi nhắn nhờ bạn làm chung đọc lại trang bốn.",
+     "text": "8. THIÊN KIẾN XÁC NHẬN",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "laptop_file"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Đối phương chỉ nhắn cộc lốc mỗi hai chữ đang xem.",
+     "text": "ĐANG XEM",
+     "color": "red",
+     "actor": "arms_crossed_no",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tôi nghĩ ngay, đấy thấy chưa, người ta đang cay cú và cố tình lạnh nhạt.",
+     "text": "NGHĨ BỊ CAY CÚ",
+     "color": "ink",
+     "actor": "worried_heart",
+     "prop": "storm_cloud"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thiên kiến xác nhận. Đầu dựng kịch bản xấu rồi tự đi mò bằng chứng.",
+     "text": "TỰ ĐI TÌM BẰNG CHỨNG",
+     "color": "gold",
+     "actor": "point_viewer"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Vì tôi đang đợi mâu thuẫn, nên hai chữ bình thường cũng thành gây hấn?",
+     "text": "CHỜ ĐỢI SỰ CĂNG THẲNG",
+     "color": "ink",
+     "actor": "confused_shrug",
+     "prop": "coffee_mug"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Lúc nào cũng vậy. Bạn đọc tin qua cảm xúc chứ đâu nhìn câu chữ.",
+     "text": "BỘ LỌC CẢM XÚC",
+     "color": "gold",
+     "actor": "think"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Nếu sáng đó vừa vui vẻ cà phê, hai chữ đang xem lại nghe ấm áp ngay.",
+     "text": "CÙNG CHỮ KHÁC Ý",
+     "color": "ink",
+     "actor": "34"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Chữ có đổi đâu Pen. Do bạn ném sự bực bội lên màn hình người ta.",
+     "text": "TỰ NÉM CĂNG THẲNG",
+     "color": "red",
+     "actor": "shocked",
+     "prop": "brain"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Họ đang mở tài liệu giúp mình, còn tôi chuẩn bị tinh thần gây chiến.",
+     "text": "SẴN SÀNG CHIẾN ĐẤU",
+     "color": "ink",
+     "actor": "facepalm"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập đọc bao dung. Tự tìm ba lý do vô tội cho câu trả lời ngắn đó.",
+     "text": "CÁCH ĐỌC BAO DUNG",
+     "color": "green",
+     "actor": "sprint_start",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Có thể họ bận họp, đang tập trung làm, hoặc đơn giản là họ đồng ý.",
+     "text": "BA LÝ DO VÔ TỘI",
+     "color": "ink",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Cứ tin vào thiện chí. Cho người ta khoảng trống để bận rộn trước đã.",
+     "text": "TIN VÀO THIỆN CHÍ",
+     "color": "green",
+     "actor": "writing"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Tin vào thiện chí rất tốt, nhưng nhớ hết tám điều khi nhắn thì mệt quá.",
+     "text": "QUÁ NHIỀU NGUYÊN TẮC",
+     "color": "ink",
+     "actor": "celebrate"
+    }
+   ]
+  },
+  {
+   "title": "Bảy Ngày Thay Đổi",
+   "sources": [
+    "s01",
+    "s08"
+   ],
+   "lines": [
+    {
+     "speaker": "pen",
+     "vo": "Nhìn lại cả tám cái bẫy, cảm giác như điện thoại sinh ra để hiểu lầm nhau.",
+     "text": "BẢY NGÀY THAY ĐỔI",
+     "color": "ink",
+     "actor": "sofa_scroll",
+     "prop": "smartphone_glow"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Tập đúng kỹ thuật là nhẹ đầu ngay Pen. Khóa lại buổi tập hôm nay bằng ba hiệp chính.",
+     "text": "BA NGUYÊN TẮC CỐT LÕI",
+     "color": "gold",
+     "actor": "point_viewer",
+     "prop": "dumbbell"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thứ nhất, chọn đúng kênh. Việc nhạy cảm thì nhấc máy gọi ngay.",
+     "text": "MỘT. CHỌN ĐÚNG KÊNH",
+     "color": "green",
+     "actor": "front"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thứ hai, nói rõ chi tiết và gắn nhãn ý định để người ta khỏi phải đoán.",
+     "text": "HAI. NÓI RÕ Ý ĐỊNH",
+     "color": "green",
+     "actor": "writing",
+     "prop": "checkbox_tick"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Thứ ba, tin vào thiện chí. Nhận tin nhắn cộc lốc, hãy nghĩ bao dung nhất.",
+     "text": "BA. TIN VÀO THIỆN CHÍ",
+     "color": "green",
+     "actor": "think"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Thử thách một tuần đây. Dừng năm giây đọc lại xem tin nhắn có bị gắt không.",
+     "text": "DỪNG LẠI NĂM GIÂY",
+     "color": "gold",
+     "actor": "sprint_start",
+     "prop": "hourglass"
+    },
+    {
+     "speaker": "pen",
+     "vo": "Năm giây để làm rõ ý và gỡ bỏ hàm ý tiêu cực. Thói quen này tôi làm được.",
+     "text": "THÓI QUEN NĂM GIÂY",
+     "color": "ink",
+     "actor": "typing_focused",
+     "prop": "target"
+    },
+    {
+     "speaker": "buff",
+     "vo": "Bấm theo dõi kênh để luyện tập mỗi tuần, và bớt nâng những quả tạ tự nghĩ ra.",
+     "text": "ĐĂNG KÝ LUYỆN TẬP",
+     "color": "ink",
+     "actor": "phone_grin"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Os Guardas de Ursos-Polares da Maior Expedição ao Ártico",
+ "hook": "GUARDA DE URSO",
+ "asof": "Dados da expedição MOSAiC, 2019–2020",
+ "world": "polar",
+ "long": "IX011",
+ "chapters": [
+  {
+   "id": "bears",
+   "hud": "DIA 60",
+   "chip": "DEZ 2019",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Nessa expedição, alguém tinha a missão de vigiar ursos-polares.",
+     "v": "guard",
+     "you": "guard"
+    },
+    {
+     "s": "Em 2019, o navio Polarstern ficou preso no gelo do Ártico por um ano.",
+     "v": "ship"
+    },
+    {
+     "s": "Centenas de cientistas trabalharam no gelo ao lado dele.",
+     "v": "camp"
+    },
+    {
+     "s": "Por isso, ninguém saía sem alguém vigiando os ursos.",
+     "v": "guard",
+     "you": "camp"
+    },
+    {
+     "s": "De seis a oito guardas em cada trecho da viagem.",
+     "v": "guard",
+     "st": [
+      "6–8",
+      "guardas por trecho"
+     ]
+    },
+    {
+     "s": "Eles vigiavam o horizonte do navio,",
+     "v": "crow"
+    },
+    {
+     "s": "ou patrulhavam uma cerca com fio de alarme ao redor do acampamento.",
+     "v": "fence"
+    },
+    {
+     "s": "Se alguém cruzasse o fio, um sinalizador disparava.",
+     "v": "fence",
+     "plane": "flare"
+    },
+    {
+     "s": "Mais de sessenta ursos-polares foram avistados perto do navio.",
+     "v": "bear",
+     "plane": "bear",
+     "st": [
+      "60+",
+      "ursos avistados"
+     ]
+    },
+    {
+     "s": "Nenhum deles foi abatido.",
+     "v": "bear",
+     "plane": "bear"
+    },
+    {
+     "s": "Você faria guarda no escuro?",
+     "v": "guard",
+     "you": "guard"
+    }
+   ]
+  }
+ ]
+}

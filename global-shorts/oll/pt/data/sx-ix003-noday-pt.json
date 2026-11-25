@@ -1,0 +1,106 @@
+{
+ "title": "Tripulantes de cruzeiro não têm folga",
+ "hook": "SEM FOLGA",
+ "asof": "Dados de 2026",
+ "world": "cruise",
+ "long": "IX003",
+ "chapters": [
+  {
+   "id": "work",
+   "hud": "DIA 40",
+   "chip": "05:30",
+   "tod": "dawn",
+   "shots": [
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "Em cruzeiros, a tripulação trabalha todos os dias."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "TODO DIA",
+      "small": "por meses · sem folga de verdade"
+     },
+     "s": "Por meses."
+    },
+    {
+     "v": "office",
+     "s": "A maioria dos contratos não prevê folgas de verdade."
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "Jornadas de doze horas são comuns."
+    },
+    {
+     "v": "buffet",
+     "you": "buffet",
+     "s": "Alguns trabalhos têm turnos divididos."
+    },
+    {
+     "d": {
+      "type": "flow",
+      "steps": [
+       "TRABALHO: MANHÃ",
+       "PAUSA",
+       "TRABALHO: NOITE"
+      ],
+      "note": "turno dividido"
+     },
+     "s": "Trabalha algumas horas, pausa e volta à noite."
+    },
+    {
+     "v": "galley",
+     "s": "Na cozinha, o trabalho pode começar antes do café,"
+    },
+    {
+     "v": "galley",
+     "you": "galley",
+     "s": "e terminar depois da limpeza da madrugada."
+    },
+    {
+     "v": "office",
+     "s": "Então existe algum limite?"
+    },
+    {
+     "v": "office",
+     "you": "office",
+     "s": "Sim. A Convenção do Trabalho Marítimo define um."
+    },
+    {
+     "d": {
+      "type": "big",
+      "big": "10 h",
+      "small": "descanso mínimo a cada 24 horas · MLC 2006"
+     },
+     "s": "No mínimo, dez horas de descanso a cada vinte e quatro."
+    },
+    {
+     "v": "office",
+     "st": [
+      "77 h",
+      "descanso mínimo a cada 7 dias"
+     ],
+     "s": "No mínimo, setenta e sete horas por semana."
+    },
+    {
+     "v": "lifeboat",
+     "plane": "alarm",
+     "s": "E os exercícios de segurança?"
+    },
+    {
+     "v": "lifeboat",
+     "you": "lifeboat",
+     "plane": "alarm",
+     "s": "Muitas vezes, eles caem no seu horário de descanso."
+    },
+    {
+     "v": "bunk",
+     "you": "bunk",
+     "s": "Você trabalharia todos os dias por seis meses?"
+    }
+   ]
+  }
+ ]
+}

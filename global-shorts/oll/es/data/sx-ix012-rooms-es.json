@@ -1,0 +1,75 @@
+{
+ "title": "Cómo consiguen habitación los cardenales en un cónclave papal",
+ "hook": "HABITACIONES POR SORTEO",
+ "asof": "Reglas de Universi Dominici Gregis (1996) · Cónclave de mayo de 2025",
+ "world": "conclave",
+ "long": "IX012",
+ "chapters": [
+  {
+   "id": "home",
+   "hud": "DÍA 0",
+   "chip": "3 DE MAYO DE 2025",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Para elegir papa, los cardenales se alojan en una residencia del Vaticano.",
+     "v": "house"
+    },
+    {
+     "s": "Se llama Casa Santa Marta y tiene ciento treinta y una habitaciones.",
+     "v": "house",
+     "st": [
+      "131",
+      "habitaciones"
+     ]
+    },
+    {
+     "s": "En 2025, sellaron las antiguas habitaciones del papa Francisco.",
+     "v": "house",
+     "plane": "sealed"
+    },
+    {
+     "s": "Quedaron unas ciento veinticinco habitaciones para ciento treinta y tres cardenales.",
+     "v": "house",
+     "st": [
+      "~125",
+      "habitaciones para 133"
+     ]
+    },
+    {
+     "s": "Entonces, ¿quién recibe cada habitación?",
+     "v": "lots"
+    },
+    {
+     "s": "Lo deciden por sorteo, aunque haya lugar para todos.",
+     "v": "lots",
+     "plane": "lots"
+    },
+    {
+     "s": "Una cama, una cómoda y un baño privado con ducha.",
+     "v": "room",
+     "you": "room"
+    },
+    {
+     "s": "Los teléfonos funcionan, pero nadie puede llamar al exterior.",
+     "v": "room",
+     "you": "room"
+    },
+    {
+     "s": "Cortan internet y la televisión satelital.",
+     "v": "room"
+    },
+    {
+     "s": "Revisan cada habitación para detectar micrófonos ocultos.",
+     "v": "sweep",
+     "plane": "sweep"
+    },
+    {
+     "s": "¿Podrías vivir así hasta que elijan a un papa?",
+     "v": "room",
+     "you": "room"
+    }
+   ]
+  }
+ ]
+}

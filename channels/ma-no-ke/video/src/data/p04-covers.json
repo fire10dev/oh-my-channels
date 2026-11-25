@@ -1,0 +1,269 @@
+{
+ "SH1": {
+  "bg": {
+   "src": "p04/img/B06.png",
+   "crop": [
+    40,
+    0,
+    1008
+   ],
+   "filter": "brightness(1.12) contrast(1.08)",
+   "sw": 1344
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+  "texts": [
+   {
+    "t": "HỒ SƠ",
+    "x": 540,
+    "y": 60,
+    "size": 200,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "MA GIẤU",
+    "x": 540,
+    "y": 270,
+    "size": 230,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ },
+ "SH2": {
+  "bg": {
+   "src": "p04/img/G03.png",
+   "crop": [
+    760,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.08)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+  "texts": [
+   {
+    "t": "BỊ MA",
+    "x": 540,
+    "y": 60,
+    "size": 200,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "GIẤU?",
+    "x": 540,
+    "y": 270,
+    "size": 230,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ },
+ "SH3": {
+  "bg": {
+   "src": "p04/img/G07.png",
+   "crop": [
+    300,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.08)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+  "texts": [
+   {
+    "t": "BÍ QUYẾT",
+    "x": 540,
+    "y": 60,
+    "size": 190,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "CON NGOAN",
+    "x": 540,
+    "y": 270,
+    "size": 180,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ },
+ "SH4": {
+  "bg": {
+   "src": "p04/img/G12.png",
+   "crop": [
+    256,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.08)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+  "texts": [
+   {
+    "t": "GÕ LÀ",
+    "x": 540,
+    "y": 60,
+    "size": 200,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "CÓ LỘC?",
+    "x": 540,
+    "y": 270,
+    "size": 230,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ },
+ "SH5": {
+  "bg": {
+   "src": "p04/img/G02.png",
+   "crop": [
+    170,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.08)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+  "texts": [
+   {
+    "t": "BA NGÀY",
+    "x": 540,
+    "y": 60,
+    "size": 190,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "TẮT CAM",
+    "x": 540,
+    "y": 270,
+    "size": 210,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ },
+ "SH6": {
+  "bg": {
+   "src": "p04/img/G01.png",
+   "crop": [
+    1300,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.08)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+  "texts": [
+   {
+    "t": "4 NGƯỜI",
+    "x": 540,
+    "y": 60,
+    "size": 200,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "3 TIẾNG NHAI",
+    "x": 540,
+    "y": 270,
+    "size": 150,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ },
+ "SH7": {
+  "bg": {
+   "src": "p04/img/G08.png",
+   "crop": [
+    560,
+    0,
+    648
+   ],
+   "filter": "brightness(1.12) contrast(1.08)"
+  },
+  "shade": "linear-gradient(0deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 80%, rgba(0,0,0,.45) 100%)",
+  "texts": [
+   {
+    "t": "2 GIỜ SÁNG",
+    "x": 540,
+    "y": 60,
+    "size": 170,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffffff",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   },
+   {
+    "t": "CẮT ĐIỆN",
+    "x": 540,
+    "y": 270,
+    "size": 210,
+    "font": "bangers",
+    "rough": true,
+    "color": "#ffe14a",
+    "anchor": "c",
+    "sw": 14,
+    "rot": -3
+   }
+  ]
+ }
+}

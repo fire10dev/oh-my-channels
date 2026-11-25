@@ -1,0 +1,69 @@
+{
+ "title": "150 Dias Sem Sol: Presos no Ártico",
+ "hook": "150 DIAS DE ESCURIDÃO",
+ "asof": "Dados da expedição MOSAiC, 2019–2020",
+ "world": "polar",
+ "long": "IX011",
+ "chapters": [
+  {
+   "id": "dark",
+   "hud": "DIA 90",
+   "chip": "JAN 2020",
+   "tod": "night",
+   "shots": [
+    {
+     "s": "Imagine o sol sem nascer por uns cento e cinquenta dias.",
+     "v": "ice",
+     "st": [
+      "~150 DIAS",
+      "sem nascer do sol"
+     ]
+    },
+    {
+     "s": "Foi isso que a expedição MOSAiC enfrentou.",
+     "v": "ship"
+    },
+    {
+     "s": "Um navio preso no gelo ártico, à deriva para além do Polo Norte.",
+     "v": "map"
+    },
+    {
+     "s": "Só a Lua e as estrelas iluminam o gelo.",
+     "v": "sky"
+    },
+    {
+     "s": "A menor temperatura registrada: menos quarenta e dois vírgula três.",
+     "v": "camp",
+     "st": [
+      "−42,3°C",
+      "menor temperatura"
+     ]
+    },
+    {
+     "s": "Com o vento, a sensação era de menos sessenta e cinco.",
+     "v": "guard",
+     "you": "guard"
+    },
+    {
+     "s": "O gelo se move e abre rachaduras pelo acampamento.",
+     "v": "crack",
+     "plane": "crack"
+    },
+    {
+     "s": "A cidade mais próxima fica a até mil e quinhentos quilômetros.",
+     "v": "map"
+    },
+    {
+     "s": "Quando o sol voltou, não se pôs durante todo o verão.",
+     "v": "sky",
+     "tod": "day"
+    },
+    {
+     "s": "Você aguentaria cinco meses de noite?",
+     "v": "cabin",
+     "you": "cabin"
+    }
+   ]
+  }
+ ]
+}

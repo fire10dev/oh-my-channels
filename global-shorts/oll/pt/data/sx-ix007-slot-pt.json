@@ -1,0 +1,77 @@
+{
+ "title": "Como as refeições chegam a uma cela no único supermax federal dos EUA",
+ "hook": "JANTAR PELA PORTINHOLA",
+ "asof": "Dados da inspeção do DC CIC de 2018",
+ "world": "supermax",
+ "long": "IX007",
+ "chapters": [
+  {
+   "id": "food",
+   "hud": "DIA 2",
+   "chip": "06:00",
+   "tod": "dawn",
+   "shots": [
+    {
+     "s": "Nesta prisão, o jantar chega por uma portinhola na porta.",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "ADX Florence, Colorado. O único supermax federal dos EUA.",
+     "v": "wide"
+    },
+    {
+     "s": "Não existe refeitório.",
+     "v": "range"
+    },
+    {
+     "s": "As refeições vão da cozinha até a porta de cada cela.",
+     "v": "cart"
+    },
+    {
+     "s": "A bandeja entra pela portinhola.",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "Você come sozinho, numa mesa de concreto.",
+     "v": "desk",
+     "you": "desk",
+     "plane": "tray"
+    },
+    {
+     "s": "O orçamento era de cerca de 17 reais por homem, por dia.",
+     "v": "cart",
+     "st": [
+      "R$ 17",
+      "por dia · 2017"
+     ]
+    },
+    {
+     "s": "Os cozinheiros são presos do alojamento ao lado.",
+     "v": "cart"
+    },
+    {
+     "s": "Cerca de um terço dos entrevistados reclamou da comida.",
+     "v": "desk",
+     "you": "desk"
+    },
+    {
+     "s": "Um deles disse: só vemos os funcionários quando trazem a comida,",
+     "v": "slot",
+     "plane": "tray"
+    },
+    {
+     "s": "recolhem as bandejas e durante a recreação.",
+     "v": "rec",
+     "you": "rec"
+    },
+    {
+     "s": "Você conseguiria comer sozinho por anos?",
+     "v": "desk",
+     "you": "desk"
+    }
+   ]
+  }
+ ]
+}

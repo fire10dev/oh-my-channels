@@ -1,0 +1,75 @@
+{
+ "title": "Comment les cardinaux tirent leur chambre au conclave",
+ "hook": "TIRAGE AU SORT",
+ "asof": "Règles de Universi Dominici Gregis (1996) · conclave de mai 2025",
+ "world": "conclave",
+ "long": "IX012",
+ "chapters": [
+  {
+   "id": "home",
+   "hud": "JOUR 0",
+   "chip": "3 MAI 2025",
+   "tod": "day",
+   "shots": [
+    {
+     "s": "Pour élire un pape, les cardinaux logent au Vatican.",
+     "v": "house"
+    },
+    {
+     "s": "C’est la Casa Santa Marta : cent trente et une chambres.",
+     "v": "house",
+     "st": [
+      "131",
+      "chambres"
+     ]
+    },
+    {
+     "s": "En 2025, les anciennes chambres du pape François ont été scellées.",
+     "v": "house",
+     "plane": "sealed"
+    },
+    {
+     "s": "Il restait environ 125 chambres pour 133 cardinaux.",
+     "v": "house",
+     "st": [
+      "~125",
+      "chambres pour 133"
+     ]
+    },
+    {
+     "s": "Alors, qui aura quelle chambre ?",
+     "v": "lots"
+    },
+    {
+     "s": "Ils tirent au sort, même s’il y a assez de chambres.",
+     "v": "lots",
+     "plane": "lots"
+    },
+    {
+     "s": "Un lit, une commode et une salle de bain avec douche.",
+     "v": "room",
+     "you": "room"
+    },
+    {
+     "s": "Les téléphones fonctionnent, mais aucun appel vers l’extérieur.",
+     "v": "room",
+     "you": "room"
+    },
+    {
+     "s": "Internet et la télé par satellite sont coupés.",
+     "v": "room"
+    },
+    {
+     "s": "Chaque chambre est inspectée pour y débusquer des micros cachés.",
+     "v": "sweep",
+     "plane": "sweep"
+    },
+    {
+     "s": "Tu pourrais vivre comme ça jusqu’à l’élection du pape ?",
+     "v": "room",
+     "you": "room"
+    }
+   ]
+  }
+ ]
+}
